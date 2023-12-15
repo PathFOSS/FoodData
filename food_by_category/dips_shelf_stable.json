@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "F.whitlock & sons burger dip 180g",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 51.5,
+            "Carbs": 7.5,
+            "Calories": 501.5
+        }
+    },
+    {
+        "Name": "F. whitlock & sons ranch dip 180g",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 39.5,
+            "Carbs": 5.0,
+            "Calories": 385.5
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "Nature valley crunchy oats & dark chocolate bars 252g",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 19.5,
+            "Carbs": 61.0,
+            "Calories": 451.9
+        }
+    },
+    {
+        "Name": "Tasti nut bar choc peanut butter 525g",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 33.1,
+            "Carbs": 44.3,
+            "Calories": 528.7
+        }
+    },
+    {
+        "Name": "Tasti nut bar nut deluxe 210g 6 bars",
+        "Nutrients": {
+            "Protein": 15.1,
+            "Fat": 35.7,
+            "Carbs": 36.6,
+            "Calories": 528.1
+        }
+    },
+    {
+        "Name": "Tasti nut bar salted caramel 210g 6 bars",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 34.9,
+            "Carbs": 35.7,
+            "Calories": 524.5
+        }
+    },
+    {
+        "Name": "Tasti nut bar choc apricot 210g 6 bars",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 29.7,
+            "Carbs": 42.3,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Tasti nut bar choc peanut 210g 6 bars",
+        "Nutrients": {
+            "Protein": 15.7,
+            "Fat": 34.0,
+            "Carbs": 39.7,
+            "Calories": 527.6
+        }
+    }
+]

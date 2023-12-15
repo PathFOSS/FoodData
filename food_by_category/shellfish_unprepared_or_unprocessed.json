@@ -1,0 +1,3314 @@
+[
+    {
+        "Name": "130/150 gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 66.6
+        }
+    },
+    {
+        "Name": "U/15 iqf s/o shrimp",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.0,
+            "Carbs": 1.0,
+            "Calories": 102.0
+        }
+    },
+    {
+        "Name": "3/4 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "26/30 brd coconut shrimp",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 16.0,
+            "Carbs": 18.0,
+            "Calories": 264.0
+        }
+    },
+    {
+        "Name": "Can wh ckd lobster",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "26/35 cpto shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "70/90 pld rock shrimp mt.",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.4
+        }
+    },
+    {
+        "Name": "20 oz/up lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "16/20 iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "7 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "9 oz lobster tails",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 22.5
+        }
+    },
+    {
+        "Name": "Stuffed clams -2",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 19.9,
+            "Carbs": 18.4,
+            "Calories": 297.9
+        }
+    },
+    {
+        "Name": "41/50 p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Stuffed shrimp",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 4.4,
+            "Carbs": 14.2,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "30/40 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "26/30 iqf bto wht shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "14/16 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Lobster head meat",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "5 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "26/30 btfly brd shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "8/12 e/z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "16/20 headless s/o shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "16/20 oz lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "3 oz sfd lobster cakes",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 7.1,
+            "Carbs": 15.5,
+            "Calories": 159.1
+        }
+    },
+    {
+        "Name": "Past. special crabmeat",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 77.0
+        }
+    },
+    {
+        "Name": "26/30 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Flat iron steak& lobster",
+        "Nutrients": {
+            "Protein": 22.5,
+            "Fat": 5.1,
+            "Carbs": 1.0,
+            "Calories": 139.9
+        }
+    },
+    {
+        "Name": "5/8 snow crab clusters",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "7/8 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Lobster meat kc&l",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "Ret bag v/p imt crabmeat",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 1.2,
+            "Carbs": 21.4,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "91/110 pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "26/30 iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "26/30 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Past. lump crabmeat",
+        "Nutrients": {
+            "Protein": 22.4,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 100.4
+        }
+    },
+    {
+        "Name": "Ret bag snow crab cluster",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "70/90 p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "16/20 btfly brd shrimp",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 7.1,
+            "Carbs": 19.5,
+            "Calories": 180.7
+        }
+    },
+    {
+        "Name": "12/14 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "3oz. deluxe crab cakes",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 4.4,
+            "Carbs": 13.3,
+            "Calories": 110.4
+        }
+    },
+    {
+        "Name": "16/20 split king crab leg",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "Shrimp fried rice meal",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 1.3,
+            "Carbs": 18.1,
+            "Calories": 111.7
+        }
+    },
+    {
+        "Name": "16/25 dom s/o shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 64.9
+        }
+    },
+    {
+        "Name": "8/10 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "21/25 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Lobster combo meat",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "8/12 s/on tiger shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "51/60 p&d tail off shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Ret box snow crab cluster",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "8 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "11 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "10-20 ct/kg h/on shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "12/14 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "31/40 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Crabmeat stuffing lump",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 6.2,
+            "Carbs": 12.5,
+            "Calories": 159.4
+        }
+    },
+    {
+        "Name": "Claw crabmeat- fzn",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "60/70 p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "5 oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "H/style crabmeat stuffing",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 6.2,
+            "Carbs": 17.7,
+            "Calories": 151.4
+        }
+    },
+    {
+        "Name": "Snow crab leg meat",
+        "Nutrients": {
+            "Protein": 15.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 62.0
+        }
+    },
+    {
+        "Name": "Jumbo raw head on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Ret bag jonah crab claws",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "41/50 iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Large lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Lobster meat all leg",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "Bah. cleaned conch",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 1.8,
+            "Carbs": 2.7,
+            "Calories": 95.0
+        }
+    },
+    {
+        "Name": "U/10 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "16/20 rnd brd shrimp",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 1.3,
+            "Carbs": 32.7,
+            "Calories": 199.3
+        }
+    },
+    {
+        "Name": "3/5 can snow crab cluster",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 110.2
+        }
+    },
+    {
+        "Name": "16/20 white shrimp s/on",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "30/40 ct iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 98.2
+        }
+    },
+    {
+        "Name": "Buffet snow crabs",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "14/16oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "Retail bag gumbo crabs",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "4 oz split lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Ckd halfmoon shrimp rings",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 1.3,
+            "Carbs": 4.4,
+            "Calories": 96.5
+        }
+    },
+    {
+        "Name": "36/40 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.0
+        }
+    },
+    {
+        "Name": "Crabmeat stfd mushroom",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 3.6,
+            "Carbs": 17.9,
+            "Calories": 118.4
+        }
+    },
+    {
+        "Name": "8 oz \"j\" lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Imit. flake crabmeat",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 1.2,
+            "Carbs": 21.4,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "26/30 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "41/50 ckd p&d t/off shrim",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "Premium crab bites",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 6.2,
+            "Carbs": 17.0,
+            "Calories": 159.4
+        }
+    },
+    {
+        "Name": "4/5 oz split lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "6 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "8/12 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "250/350 iqf ckd shrimp",
+        "Nutrients": {
+            "Protein": 25.9,
+            "Fat": 2.4,
+            "Carbs": 1.2,
+            "Calories": 130.0
+        }
+    },
+    {
+        "Name": "2/3 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "40/50 iqf pink shrimp",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 71.7
+        }
+    },
+    {
+        "Name": "52/70 cpd t/off shrimp",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 66.6
+        }
+    },
+    {
+        "Name": "41/50 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 16.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 76.8
+        }
+    },
+    {
+        "Name": "50/60 iqf pink shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Past. jumbo lump crabmeat",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 77.0
+        }
+    },
+    {
+        "Name": "21/25 coconut brd shrimp",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 15.0,
+            "Carbs": 16.8,
+            "Calories": 244.6
+        }
+    },
+    {
+        "Name": "Ckd k & c lobster meat",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "110/130 gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "51/60 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Large stone crab claws",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "King crab clusters",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "60/70 p & d shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "26/30 dom s/on wht shrimp",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.4
+        }
+    },
+    {
+        "Name": "16/20 e/z peel shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 64.9
+        }
+    },
+    {
+        "Name": "4/5 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "41/50 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Jumbo breaded shrimp",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 15.5,
+            "Carbs": 23.8,
+            "Calories": 277.5
+        }
+    },
+    {
+        "Name": "T/p 3 oz deviled crabs",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 5.9,
+            "Carbs": 17.6,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "7 oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Ebi sushi shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 1.2,
+            "Carbs": 1.2,
+            "Calories": 72.8
+        }
+    },
+    {
+        "Name": "4oz. deluxe deviled crabs",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 6.2,
+            "Carbs": 17.7,
+            "Calories": 155.0
+        }
+    },
+    {
+        "Name": "Ckd shrimp rings-10 oz",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 0.0,
+            "Carbs": 17.5,
+            "Calories": 126.0
+        }
+    },
+    {
+        "Name": "100/150 cp&d shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "60/70 ct iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "3/5 oz snow crab clusters",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "K c & l lobster meat",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "24/28 oz wh grn lobster",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "10/12 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "6/8 head on f/w shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "6/9 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "3oz. deviled crabs",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 4.2,
+            "Carbs": 14.3,
+            "Calories": 104.6
+        }
+    },
+    {
+        "Name": "50/60 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 71.7
+        }
+    },
+    {
+        "Name": "41/50 round brd shrimp",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 82.5
+        }
+    },
+    {
+        "Name": "3oz.deluxe deviled crabs",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 6.0,
+            "Carbs": 17.9,
+            "Calories": 149.6
+        }
+    },
+    {
+        "Name": "3 oz natural crab shells",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "30/40 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Pouch pak brd shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "14/16 oz brazil lob tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "60/70 iqf pink shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "31/40 cpto shrimp",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 61.8
+        }
+    },
+    {
+        "Name": "Brd shrimp gluten free",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Key west pink shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "4 oz premium crab cakes",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 4.4,
+            "Carbs": 16.8,
+            "Calories": 142.0
+        }
+    },
+    {
+        "Name": "31/40 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "31/40 raw p&d shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "Gumbo crabs",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "U/1 oz slipper tail meat",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 0.5,
+            "Carbs": 0.9,
+            "Calories": 68.9
+        }
+    },
+    {
+        "Name": "Gumbo crab",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "Past. frzn crabmeat",
+        "Nutrients": {
+            "Protein": 13.5,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 58.5
+        }
+    },
+    {
+        "Name": "Cleaned conch",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 1.8,
+            "Carbs": 2.7,
+            "Calories": 95.0
+        }
+    },
+    {
+        "Name": "21/25 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Sriracha breaded shrimp",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 1.4,
+            "Carbs": 23.4,
+            "Calories": 137.4
+        }
+    },
+    {
+        "Name": "51/60 ez peel/eat shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "6/7 oz. can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Lobster meat k&c",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "Ret cooked salad shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "21/25 dom s/on wht shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "40/50 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "150/200 iqf pud shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "6.5/7.5oz. \"f\" lob tails",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "Langostino meat 60-90ct",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 80.6
+        }
+    },
+    {
+        "Name": "16/20oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "16/20 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "9oz braz lobster tails",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 104.8
+        }
+    },
+    {
+        "Name": "Tom yum wonton soup",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 5.6,
+            "Carbs": 15.5,
+            "Calories": 134.8
+        }
+    },
+    {
+        "Name": "4oz 68% lump crab cake",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 4.4,
+            "Carbs": 8.0,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Ckd salad shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "Texas brown gulf shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "10/12 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Blue crab claw w/arm",
+        "Nutrients": {
+            "Protein": 22.4,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 100.4
+        }
+    },
+    {
+        "Name": "K & c lobster meat",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "Can ckd lobster claws",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "16/20 cpto shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "Shrimp burger 4 oz",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 18.6,
+            "Carbs": 18.6,
+            "Calories": 287.8
+        }
+    },
+    {
+        "Name": "60/70 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Shrimp dd breaded",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 11.6,
+            "Calories": 122.5
+        }
+    },
+    {
+        "Name": "Retail lobster tail",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 8.8,
+            "Carbs": 1.8,
+            "Calories": 160.8
+        }
+    },
+    {
+        "Name": "2.3/3 oz \"kc\"lob tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "8/12 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 61.7
+        }
+    },
+    {
+        "Name": "5/6 oz ca lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "41/60 ct iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "150/200 cp&d shrimp",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "51/60 p&d t/off shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "40/50 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Fz shrimp ring 14 oz",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 0.4,
+            "Carbs": 4.3,
+            "Calories": 55.2
+        }
+    },
+    {
+        "Name": "Iqf chopped sea clams",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 61.3
+        }
+    },
+    {
+        "Name": "41/50 cp&d shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "40/50 p&d shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "20/up king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "150/250 ckd salad shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Slider crab cake 2 oz",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 4.5,
+            "Carbs": 8.9,
+            "Calories": 126.1
+        }
+    },
+    {
+        "Name": "16/20 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Ckd shrimp ring-16 oz",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "8/10 oz snow crab cluster",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "T/p 3 oz sfd stfd crabs",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 5.9,
+            "Carbs": 17.6,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "31/35 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 71.7
+        }
+    },
+    {
+        "Name": "40/50 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "21/30 cpto shrimp",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 66.6
+        }
+    },
+    {
+        "Name": "20/24 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "26/30 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Whole ckd lobster 16/20oz",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "Raw breaded pud shrimp",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 0.9,
+            "Carbs": 24.8,
+            "Calories": 149.7
+        }
+    },
+    {
+        "Name": "12/16 cnt bd btfly shrimp",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 7.1,
+            "Carbs": 19.5,
+            "Calories": 180.7
+        }
+    },
+    {
+        "Name": "21/25 e-z peel iqf shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Shrimp skewers 10 ct ea",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "60/70 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "30/40 kick'in shrimp",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 5.3,
+            "Carbs": 21.2,
+            "Calories": 174.9
+        }
+    },
+    {
+        "Name": "100/150 ckd p&d shrimp",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "4 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "2 oz brd stfd shrimp",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 5.3,
+            "Carbs": 33.6,
+            "Calories": 214.1
+        }
+    },
+    {
+        "Name": "Minced lobster meat",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "150/200 gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "26/30 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "12/14 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "41/50 cpto shrimp",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 66.6
+        }
+    },
+    {
+        "Name": "Green lobsters 2 lb/up",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Mesquite shrimp skewers",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "40/50 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.0
+        }
+    },
+    {
+        "Name": "U/200 iqf ckd shrimp",
+        "Nutrients": {
+            "Protein": 25.9,
+            "Fat": 2.4,
+            "Carbs": 1.2,
+            "Calories": 130.0
+        }
+    },
+    {
+        "Name": "Lobster claws scored",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "16/20 s/on tiger shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "41/50 gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "U/15 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "31/40 e-z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Raw conch fritter mix",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 2.9,
+            "Carbs": 22.4,
+            "Calories": 167.3
+        }
+    },
+    {
+        "Name": "4/6 block s/o shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "50/60 iqf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "14/17 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "10/u can sno crab cluster",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 104.8
+        }
+    },
+    {
+        "Name": "10/12oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Crab stuffing bass pro",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 10.7,
+            "Carbs": 6.0,
+            "Calories": 177.5
+        }
+    },
+    {
+        "Name": "Lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "7/8 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "Imt lobster flakes",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 3.0,
+            "Carbs": 19.1,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "5/8 oz snow crab clusters",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "70/90 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "18/20 oz wh grn lobster",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "V.p lobster tails/butter",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 8.1,
+            "Carbs": 0.0,
+            "Calories": 133.7
+        }
+    },
+    {
+        "Name": "Snow crab clusters m",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 110.2
+        }
+    },
+    {
+        "Name": "Shrimp wonton soup",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 1.8,
+            "Carbs": 9.9,
+            "Calories": 72.6
+        }
+    },
+    {
+        "Name": "21/25 raw easy peel shrimp",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 78.9
+        }
+    },
+    {
+        "Name": "Cks halfmoon shrimp rings",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "13/15 p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "4-10 oz lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Shrimp skewers 4 cnt ea",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Deluxe crabmeat stuffing",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 6.0,
+            "Carbs": 17.9,
+            "Calories": 149.6
+        }
+    },
+    {
+        "Name": "60/70 p&d t/off shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 82.5
+        }
+    },
+    {
+        "Name": "26/30 headless s/o shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "150/up gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Ret box 4 oz deviled crab",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 7.1,
+            "Carbs": 18.6,
+            "Calories": 152.3
+        }
+    },
+    {
+        "Name": "Shrimp scampi",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 9.7,
+            "Carbs": 0.9,
+            "Calories": 129.7
+        }
+    },
+    {
+        "Name": "Lobster au gratin",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.8,
+            "Carbs": 12.8,
+            "Calories": 141.4
+        }
+    },
+    {
+        "Name": "Wd 6 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Rock crab salad meat",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 104.8
+        }
+    },
+    {
+        "Name": "Maine lobster cake",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 16.1,
+            "Carbs": 14.3,
+            "Calories": 259.3
+        }
+    },
+    {
+        "Name": "20/24 split king crab leg",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 80.6
+        }
+    },
+    {
+        "Name": "2oz.deluxe deviled crabs",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 6.2,
+            "Carbs": 17.9,
+            "Calories": 149.0
+        }
+    },
+    {
+        "Name": "U/15 coconut brd shrimp",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 4.7,
+            "Carbs": 21.2,
+            "Calories": 183.5
+        }
+    },
+    {
+        "Name": "U/15 rnd brd shrimp",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 1.3,
+            "Carbs": 32.7,
+            "Calories": 199.3
+        }
+    },
+    {
+        "Name": "21/25 cpto shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "Snow crab clusters l 8.5 oz avg",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.8,
+            "Carbs": 0.3,
+            "Calories": 27.0
+        }
+    },
+    {
+        "Name": "21/25 jumbo brd shrimp",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 15.5,
+            "Carbs": 23.8,
+            "Calories": 277.5
+        }
+    },
+    {
+        "Name": "Past. claw crab meat",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "6/7 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "16/20 coconut brd shrimp",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 15.0,
+            "Carbs": 16.8,
+            "Calories": 244.6
+        }
+    },
+    {
+        "Name": "31/35 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "U/15 btfly brd shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "Cooked salad shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "9/12 snow cocktail claws",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 61.2
+        }
+    },
+    {
+        "Name": "Cracked shell lobst tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "31/35 dom s/on wht shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "2/4 oz rock fish fillets",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 83.3
+        }
+    },
+    {
+        "Name": "4 oz natural crab shells",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Ckd salad shrimp-100/200",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "12/14 oz braz lob tails",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.4
+        }
+    },
+    {
+        "Name": "51/60 cpto shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "41/60 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 1.8,
+            "Carbs": 1.8,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Special crabmeat- fzn",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 104.8
+        }
+    },
+    {
+        "Name": "91/110 cpd t/off shrimp",
+        "Nutrients": {
+            "Protein": 15.5,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 67.4
+        }
+    },
+    {
+        "Name": "30/40 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Ret box lobster tail",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.4,
+            "Carbs": 2.2,
+            "Calories": 103.0
+        }
+    },
+    {
+        "Name": "T/p 3 oz dlx sfd crabcake",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 10.7,
+            "Carbs": 28.6,
+            "Calories": 246.3
+        }
+    },
+    {
+        "Name": "8/10 oz \"d\" lob tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "21/25 brd torpedo shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "3oz. deluxe deviled crabs",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 5.9,
+            "Carbs": 17.6,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "7/8 oz. can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "30/40 dom s/o shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 64.9
+        }
+    },
+    {
+        "Name": "21/25 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "51/60 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "100/200 dom pud shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "8/up can sno crab cluster",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "8/10oz. can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "10/up snow crab clusters",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "3oz. natural crab shells",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "16/20 iqf s/on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "10/15 ct head on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Ckd c/k/l lobster meat",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "10 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "41/60 raw p&d shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Lobster leg meat raw",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "16/20 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "9/12 king crab legs red",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 92.6
+        }
+    },
+    {
+        "Name": "Shrimp skewers - 7 cnt ea",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "36/40 iqf bfly t/o shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "12/14oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Snow crab clusters 2l 9.9 oz avg",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.8,
+            "Carbs": 0.3,
+            "Calories": 27.0
+        }
+    },
+    {
+        "Name": "31/35 btfly t/on shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "1 oz. chesapeake crabcake",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 6.2,
+            "Carbs": 15.0,
+            "Calories": 158.2
+        }
+    },
+    {
+        "Name": "Dungeness crab clusters",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 1.2,
+            "Carbs": 1.2,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "30/40 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "5/6 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Extra large ckd shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "21/25 ckd t/off shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "21/25 ltly dusted shrimp",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 1.3,
+            "Carbs": 24.8,
+            "Calories": 178.1
+        }
+    },
+    {
+        "Name": "2-2.5 lb green lobsters",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "21/25 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "12/u can sno crab cluster",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 104.8
+        }
+    },
+    {
+        "Name": "16/20 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "4 oz. can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "4oz. chesapeake crabcakes",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 6.2,
+            "Carbs": 15.2,
+            "Calories": 159.4
+        }
+    },
+    {
+        "Name": "40/60 peel & eat shrimp",
+        "Nutrients": {
+            "Protein": 15.5,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 67.4
+        }
+    },
+    {
+        "Name": "2/3 oz can lobster tails",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "51/70 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Seafood stuffed crab",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 7.1,
+            "Carbs": 18.8,
+            "Calories": 162.7
+        }
+    },
+    {
+        "Name": "13/15 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 15.5,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 67.4
+        }
+    },
+    {
+        "Name": "Fz 26/30 raw shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Lobster meat kcl & body",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "21/25 btfly brd shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "31/40 ct. p & d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "26/30 cpto shrimp",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "70/90 c.p.tail/off shrimp",
+        "Nutrients": {
+            "Protein": 24.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 115.0
+        }
+    },
+    {
+        "Name": "8/up snow crab clusters",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 86.0
+        }
+    },
+    {
+        "Name": "Shrimp crab stuffed",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 5.0,
+            "Carbs": 12.8,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Colossal stone crab claws",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "16/20 snap&eat king crab",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "21/30 ct. e/z peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "21/25 headless s/o shrimp",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 86.5
+        }
+    },
+    {
+        "Name": "30/40 s/on shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.0
+        }
+    },
+    {
+        "Name": "Jumbo stone crab claws",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "4oz. 68% lump crabcakes",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 4.4,
+            "Carbs": 8.0,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "5/8 oz canadian snow crab",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 106.0
+        }
+    },
+    {
+        "Name": "40/50 ct/kg h/on shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "30/40 dom p&d shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 64.9
+        }
+    },
+    {
+        "Name": "14/16 oz can lobster tail",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Whole ckd lobster 10/12oz",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "50/60 kilo head/on shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 98.2
+        }
+    },
+    {
+        "Name": "40/50 ez peel shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Shrimp 1/2 moon 20 oz",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 78.9
+        }
+    },
+    {
+        "Name": "21/25 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 71.7
+        }
+    },
+    {
+        "Name": "40/50 btfly t/on shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.0
+        }
+    },
+    {
+        "Name": "50/70 dom p&d shrimp",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Imit. filament crabstick",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 1.2,
+            "Carbs": 21.4,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "Bang'n breaded shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.9,
+            "Carbs": 30.1,
+            "Calories": 181.7
+        }
+    },
+    {
+        "Name": "41/50 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "50/60 ckd p&d t/on shrimp",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.6,
+            "Carbs": 0.0,
+            "Calories": 62.6
+        }
+    },
+    {
+        "Name": "Past. claw crabmeat",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 82.4
+        }
+    },
+    {
+        "Name": "Head on shrimp",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Jonah crab claws",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "3 oz sfd crab cakes",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 4.2,
+            "Carbs": 11.9,
+            "Calories": 104.6
+        }
+    },
+    {
+        "Name": "Breaded popcorn shrimp",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 8.0,
+            "Carbs": 20.0,
+            "Calories": 192.0
+        }
+    },
+    {
+        "Name": "8 oz braz lobster tail",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "5.5/6.5 oz. \"g\" lob tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Imit flake crabmeat",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 1.2,
+            "Carbs": 21.4,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "31/40 btfly brd shrimp",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 7.1,
+            "Carbs": 19.6,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "U/12 dom s/on wht shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "2.5oz chesapeake crabcake",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 6.4,
+            "Carbs": 15.7,
+            "Calories": 160.4
+        }
+    },
+    {
+        "Name": "Raw lobster bodies",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "24/28 oz lobster tails",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "70/90 gulf pud shrimp",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.8,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "26/30 s/on white shrimp",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.0
+        }
+    },
+    {
+        "Name": "30/70 crab meat",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 111.4
+        }
+    },
+    {
+        "Name": "41/50 btfly t/on shrimp",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "21/25 iqf p&d shrimp",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "13/15 headless s/o shrimp",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Lobster whole cooked",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "8 oz \"\"j\"\" lobster tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "6.5/7.5oz. \"\"f\"\" lob tails",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 103.7
+        }
+    },
+    {
+        "Name": "2.3/3 oz \"\"kc\"\"lob tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "8/10 oz \"\"d\"\" lob tail",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "5.5/6.5 oz. \"\"g\"\" lob tails",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 104.5
+        }
+    }
+]

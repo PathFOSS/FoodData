@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Heirloom bean blend",
+        "Nutrients": {
+            "Protein": 22.9,
+            "Fat": 1.4,
+            "Carbs": 62.9,
+            "Calories": 355.8
+        }
+    },
+    {
+        "Name": "Beans, pinto, dry",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 0.0,
+            "Carbs": 22.0,
+            "Calories": 116.0
+        }
+    },
+    {
+        "Name": "Farmer girl usda low sodium pinto beans 6/10 case",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 86.0
+        }
+    }
+]

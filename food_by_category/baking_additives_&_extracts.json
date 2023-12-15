@@ -1,0 +1,5465 @@
+[
+    {
+        "Name": "Sweetened fancy flake coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Cream of coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.0,
+            "Carbs": 40.0,
+            "Calories": 205.0
+        }
+    },
+    {
+        "Name": "Organic coconut cream, speculoos cookie butter, speculoos cookie butter",
+        "Nutrients": {
+            "Protein": 1.9,
+            "Fat": 14.2,
+            "Carbs": 25.5,
+            "Calories": 237.4
+        }
+    },
+    {
+        "Name": "Almond paste, almond",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 23.1,
+            "Carbs": 53.9,
+            "Calories": 464.7
+        }
+    },
+    {
+        "Name": "Rich chocolate flavor gourmet baking cocoa, rich chocolate",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 50.0,
+            "Calories": 417.1
+        }
+    },
+    {
+        "Name": "Reduced sodium baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweet ground cocoa premium baking cocoa, sweet ground cocoa",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 4.3,
+            "Carbs": 85.7,
+            "Calories": 393.1
+        }
+    },
+    {
+        "Name": "Sweetened shredded coconut, sweetened",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 29.4,
+            "Carbs": 52.9,
+            "Calories": 499.8
+        }
+    },
+    {
+        "Name": "Coconut milk",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 6.2,
+            "Calories": 187.1
+        }
+    },
+    {
+        "Name": "Unsweetened organic coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 15.0,
+            "Carbs": 2.5,
+            "Calories": 149.8
+        }
+    },
+    {
+        "Name": "Cocoa powder",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 8.3,
+            "Carbs": 50.0,
+            "Calories": 341.5
+        }
+    },
+    {
+        "Name": "Organic cacao powder with maca",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Chile de arbool",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 77.5,
+            "Calories": 310.0
+        }
+    },
+    {
+        "Name": "Arbol chile pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Japanese chile pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Chile guajillo",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 14.3,
+            "Calories": 85.6
+        }
+    },
+    {
+        "Name": "Rose water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Chipotle - dried chile",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 6.2,
+            "Calories": 187.1
+        }
+    },
+    {
+        "Name": "Unsweetened lite coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "100% pure baking cocoa",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 12.5,
+            "Carbs": 50.0,
+            "Calories": 412.5
+        }
+    },
+    {
+        "Name": "Guava paste, guava",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.8,
+            "Carbs": 65.0,
+            "Calories": 294.2
+        }
+    },
+    {
+        "Name": "Baking powder biscuit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut flakes, unsweetened",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 60.0,
+            "Carbs": 30.0,
+            "Calories": 700.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut fine macaroon, unsweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Premium active dry yeast, premium",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic cacao powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Plant-based organic cacao powder with maca, maca",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "100% pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Double acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 6.7,
+            "Calories": 206.8
+        }
+    },
+    {
+        "Name": "Sweetened coconut flakes, sweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Unsweetened 100% cocoa, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Premium green pigeon peas with coconut milk, coconut milk",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 0.8,
+            "Carbs": 19.2,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Organic creamed coconut puree",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 26.7,
+            "Calories": 703.3
+        }
+    },
+    {
+        "Name": "Dried mixed mushrooms",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Light coconut milk, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "Coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Double-acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Meringue powder",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 64.3,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Quince membrillo paste, quince",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 73.7,
+            "Calories": 294.8
+        }
+    },
+    {
+        "Name": "Toasted dried sweet corn, toasted",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 3.6,
+            "Carbs": 53.6,
+            "Calories": 275.2
+        }
+    },
+    {
+        "Name": "Premium unsweetened coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 17.5,
+            "Carbs": 2.5,
+            "Calories": 167.5
+        }
+    },
+    {
+        "Name": "Unsweetened organic premium coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 3.8,
+            "Calories": 177.5
+        }
+    },
+    {
+        "Name": "Unsweetened dutched cocoa powder, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Porcini dried mushrooms",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Unsweetened premium baking cocoa powder, unsweetened",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 33.3,
+            "Calories": 350.3
+        }
+    },
+    {
+        "Name": "Receta original toasted coconut chips, receta original, toasted coconut",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 31.4,
+            "Carbs": 57.1,
+            "Calories": 533.8
+        }
+    },
+    {
+        "Name": "Xanthan gum powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Coconut cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "Organic coconut medium",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Whole ginger",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Evaporated coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.7,
+            "Carbs": 6.7,
+            "Calories": 87.1
+        }
+    },
+    {
+        "Name": "Unsweetened 100% cocoa powder, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Black mint paste, black mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Schnucks, pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Stemless california chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Organic cacao butter",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 100.0,
+            "Carbs": 0.0,
+            "Calories": 900.0
+        }
+    },
+    {
+        "Name": "Terra dolce, organic chipotle dried chile peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 71.4,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Odense, chocolate almond paste",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 23.1,
+            "Carbs": 46.1,
+            "Calories": 433.5
+        }
+    },
+    {
+        "Name": "Assi, black bean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 5.0,
+            "Carbs": 25.0,
+            "Calories": 185.0
+        }
+    },
+    {
+        "Name": "Modern farms, dried porcini mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 349.0
+        }
+    },
+    {
+        "Name": "Modern farms, dried mushrooms, meaty texture",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 349.0
+        }
+    },
+    {
+        "Name": "Cherry tomatoes",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 82.1,
+            "Calories": 328.4
+        }
+    },
+    {
+        "Name": "Organic bird's eye dried chile peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 71.4,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Clabber girl, double acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Calahua, cream of coconut",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 4.7,
+            "Carbs": 42.1,
+            "Calories": 213.1
+        }
+    },
+    {
+        "Name": "Organic creamed unsweetened coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Pcc, unsweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 35.7,
+            "Carbs": 46.4,
+            "Calories": 521.3
+        }
+    },
+    {
+        "Name": "Ambassador organics, organic vanilla bean cocoa",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 13.0,
+            "Carbs": 60.0,
+            "Calories": 357.0
+        }
+    },
+    {
+        "Name": "Davis, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Shoprite, sweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Coconut flour",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 21.9,
+            "Carbs": 56.2,
+            "Calories": 497.1
+        }
+    },
+    {
+        "Name": "Premium cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Baker's corner, baking soda, pure",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Mycological, oregon porcini mushrooms",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 286.0
+        }
+    },
+    {
+        "Name": "Vitarroz, cream of coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 10.7,
+            "Carbs": 67.9,
+            "Calories": 367.9
+        }
+    },
+    {
+        "Name": "Active dry yeast",
+        "Nutrients": {
+            "Protein": 40.0,
+            "Fat": 5.0,
+            "Carbs": 40.0,
+            "Calories": 365.0
+        }
+    },
+    {
+        "Name": "Ancel, grated coconut in heavy syrup",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 13.2,
+            "Carbs": 60.5,
+            "Calories": 360.8
+        }
+    },
+    {
+        "Name": "La cubanita, guava cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 82.1,
+            "Calories": 328.4
+        }
+    },
+    {
+        "Name": "Goya, guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 78.6,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Baker's corner, double acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Dried shiitake/black mushrooms",
+        "Nutrients": {
+            "Protein": 22.2,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 311.2
+        }
+    },
+    {
+        "Name": "Organic baking cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 40.0,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Ancel, guava paste with jelly center",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.7,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Royal, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Steve's, organic coconut cream, speculoos cookie butter",
+        "Nutrients": {
+            "Protein": 1.9,
+            "Fat": 14.2,
+            "Carbs": 25.5,
+            "Calories": 237.4
+        }
+    },
+    {
+        "Name": "Keyfood quality, pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pasta de batata",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Dulceria piloto, sweet cream of milk with coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Key food, sweetened snowflake coocnut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Arm & hammer, pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Odense, almond paste",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 23.1,
+            "Carbs": 48.7,
+            "Calories": 443.9
+        }
+    },
+    {
+        "Name": "Stevia",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Miravalle, california chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Chanterelles",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 120.0
+        }
+    },
+    {
+        "Name": "Fine gourmet dried mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 280.0
+        }
+    },
+    {
+        "Name": "Gourmet baking cocoa",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 50.0,
+            "Calories": 417.1
+        }
+    },
+    {
+        "Name": "Amish country, almond paste",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 28.6,
+            "Carbs": 39.3,
+            "Calories": 460.2
+        }
+    },
+    {
+        "Name": "Yeast extract",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Terr amazon, organic cacao powder",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 7.1,
+            "Carbs": 57.1,
+            "Calories": 406.7
+        }
+    },
+    {
+        "Name": "Great value, coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Coconut almond paste",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 25.6,
+            "Carbs": 46.1,
+            "Calories": 456.0
+        }
+    },
+    {
+        "Name": "Chile piquin entero whole pequin chili",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Chile chipotle",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 4.3,
+            "Carbs": 71.4,
+            "Calories": 367.1
+        }
+    },
+    {
+        "Name": "Powdered baking cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Xanthan gum",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.0,
+            "Calories": 348.0
+        }
+    },
+    {
+        "Name": "Sweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Real gourmet cream of coconut",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 10.5,
+            "Carbs": 61.8,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Stevia extractzero-calorie sweetener",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Tender flake sweetened coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Premium nutritional yeast seasoning",
+        "Nutrients": {
+            "Protein": 40.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Kombu",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 228.8
+        }
+    },
+    {
+        "Name": "Organic portabella mushrooms",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 228.8
+        }
+    },
+    {
+        "Name": "Chanterelle mushrooms",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Morel dried gourmet mushrooms",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 228.8
+        }
+    },
+    {
+        "Name": "Dried gourmet mushrooms",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Real cream of coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 17.9,
+            "Carbs": 75.0,
+            "Calories": 461.1
+        }
+    },
+    {
+        "Name": "Chile pasilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "133 tree chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Ancho chili pods",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 7.1,
+            "Carbs": 50.0,
+            "Calories": 306.7
+        }
+    },
+    {
+        "Name": "Texturized soy protein",
+        "Nutrients": {
+            "Protein": 52.5,
+            "Fat": 1.2,
+            "Carbs": 32.5,
+            "Calories": 350.8
+        }
+    },
+    {
+        "Name": "Dried ancho chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Arbol chilli pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Mi costenita, calif. chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Puya chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Whole tamarind",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 0.0,
+            "Carbs": 60.7,
+            "Calories": 257.2
+        }
+    },
+    {
+        "Name": "Guajillo chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Vanilla mousse",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 20.2,
+            "Carbs": 20.2,
+            "Calories": 267.4
+        }
+    },
+    {
+        "Name": "Food lion, pure baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Food lion, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Black bean sauce",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 8.3,
+            "Carbs": 13.3,
+            "Calories": 141.1
+        }
+    },
+    {
+        "Name": "Soy bean paste",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 3.3,
+            "Carbs": 40.0,
+            "Calories": 216.5
+        }
+    },
+    {
+        "Name": "Red type soybean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 5.0,
+            "Carbs": 25.0,
+            "Calories": 185.0
+        }
+    },
+    {
+        "Name": "Fermented bean curd with sesame oil",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Soybean paste akamiso",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 5.6,
+            "Carbs": 27.8,
+            "Calories": 206.0
+        }
+    },
+    {
+        "Name": "Melissa's, dried coconut chips",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Kroger, fast rise yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Tasty joy, sweet gelatinous mutant coconut macapuno strings",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.5,
+            "Carbs": 64.7,
+            "Calories": 272.3
+        }
+    },
+    {
+        "Name": "Santini, mixed wild mushrooms",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.0,
+            "Carbs": 60.2,
+            "Calories": 337.2
+        }
+    },
+    {
+        "Name": "Organic coconut milk",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 18.0,
+            "Carbs": 7.0,
+            "Calories": 198.0
+        }
+    },
+    {
+        "Name": "365 everyday value, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Premium baking cocoa chocolate",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 491.8
+        }
+    },
+    {
+        "Name": "Pure almond paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 25.0,
+            "Carbs": 47.5,
+            "Calories": 455.0
+        }
+    },
+    {
+        "Name": "Fee brothers, aztec chocolate bitters",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic pure vanilla extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "365 everyday value, french vanilla stevia extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Fungus among us, organic portabello mushrooms",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 78.6,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Fungus among us, organic maitake mushrooms",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 78.6,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Stevia extract baking blend",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Shirakiku, sweetened red bean paste",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.0,
+            "Carbs": 62.1,
+            "Calories": 267.6
+        }
+    },
+    {
+        "Name": "Chikuma, miso paste",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 5.6,
+            "Carbs": 16.7,
+            "Calories": 161.6
+        }
+    },
+    {
+        "Name": "Chaokoh, coconut cream",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 20.0,
+            "Carbs": 3.8,
+            "Calories": 205.2
+        }
+    },
+    {
+        "Name": "Savoy, coconut cream",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 22.2,
+            "Carbs": 3.3,
+            "Calories": 221.8
+        }
+    },
+    {
+        "Name": "Mae ploy, coconut cream",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 21.2,
+            "Carbs": 3.8,
+            "Calories": 216.0
+        }
+    },
+    {
+        "Name": "L & w, sweetened red bean mashed paste",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.0,
+            "Carbs": 52.0,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Melissa's, good lifef food, dried oyster mushrooms",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Mellssa's, dried shiitake mushrooms",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 0.0,
+            "Carbs": 64.3,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Winco foods, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Super, dried lotus root",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 93.3,
+            "Calories": 373.2
+        }
+    },
+    {
+        "Name": "T-west, sweet bean",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 3.3,
+            "Carbs": 66.7,
+            "Calories": 309.7
+        }
+    },
+    {
+        "Name": "Soybean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 25.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Fit-choice, powdered purple yam",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Surasang, fermented soybean paste",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 6.7,
+            "Carbs": 13.3,
+            "Calories": 166.7
+        }
+    },
+    {
+        "Name": "Daesang america, hot pepper beans paste",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 0.0,
+            "Carbs": 47.4,
+            "Calories": 210.8
+        }
+    },
+    {
+        "Name": "Aroy-d, coconut cream",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 21.1,
+            "Carbs": 4.4,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "T-west inc., dried scallion",
+        "Nutrients": {
+            "Protein": 60.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 240.0
+        }
+    },
+    {
+        "Name": "Western family, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Dried oyster mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "El guapo, coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Spartan, sweetened coconut flake",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Spartan, pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Roland, chestnut puree",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 93.2
+        }
+    },
+    {
+        "Name": "Beksul, plum extract, plum",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 63.3,
+            "Calories": 253.2
+        }
+    },
+    {
+        "Name": "Dried rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Soy curls",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 15.0,
+            "Carbs": 16.7,
+            "Calories": 335.0
+        }
+    },
+    {
+        "Name": "Organic balinese cacao powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 53.3,
+            "Calories": 213.2
+        }
+    },
+    {
+        "Name": "Earth circle organics, mesquite powder",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "100% roasted cocoa beans powder for baking & drinking",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Mccormick, culinary, flavor enhancer msg",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic coconut cream",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 21.0,
+            "Carbs": 7.0,
+            "Calories": 225.0
+        }
+    },
+    {
+        "Name": "Gold emblem, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Earthy delights, oyster mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Earthy delights, fine gourmet dried woodear mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Incagen, maca power",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 240.0
+        }
+    },
+    {
+        "Name": "Grace, pure creamed coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 73.3,
+            "Carbs": 13.3,
+            "Calories": 739.7
+        }
+    },
+    {
+        "Name": "La fe, guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.0,
+            "Carbs": 80.0,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Parade, coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Dried ginger",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Sempio, doen jang seasoning paste",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 1.7,
+            "Carbs": 46.7,
+            "Calories": 215.3
+        }
+    },
+    {
+        "Name": "Haechandle, soybean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 25.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Ancel, guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.7,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Ghirardelli chocolate, sweet ground chocolate and cocoa",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 3.3,
+            "Carbs": 89.1,
+            "Calories": 403.3
+        }
+    },
+    {
+        "Name": "Sweetened condensed coconut milk",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 36.7,
+            "Calories": 413.9
+        }
+    },
+    {
+        "Name": "La molienda, guava roll with pecan and milk nugate",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.9,
+            "Carbs": 86.0,
+            "Calories": 376.5
+        }
+    },
+    {
+        "Name": "Whole foods market, macadamia coconut panko",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 465.0
+        }
+    },
+    {
+        "Name": "Organic kuzu",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Let's do organic, organic shredded coconut - lightly sweetened with organic cane sugar",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 33.3,
+            "Calories": 700.0
+        }
+    },
+    {
+        "Name": "365 everyday value, french vanilla stevia extract liquid",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "365 everyday value, cream of tarter",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Plant-based organic cacao powder with maca",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Vivido, chanterelles european forest mushrooms",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 0.0,
+            "Carbs": 14.3,
+            "Calories": 100.0
+        }
+    },
+    {
+        "Name": "Vivido, european forest air dried mushrooms, black trumpet",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 0.0,
+            "Carbs": 25.0,
+            "Calories": 142.8
+        }
+    },
+    {
+        "Name": "Vivido, air dried wild forest mushrooms",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 5.7,
+            "Carbs": 17.1,
+            "Calories": 154.1
+        }
+    },
+    {
+        "Name": "Roundy's, unsweetened coconut flake",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Multi-purpose baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Davis, ok, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Flaked coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Giant eagle, bean medley",
+        "Nutrients": {
+            "Protein": 23.1,
+            "Fat": 1.0,
+            "Carbs": 61.5,
+            "Calories": 347.4
+        }
+    },
+    {
+        "Name": "Hannaford, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Food city, shredded coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 67.9,
+            "Carbs": 25.0,
+            "Calories": 739.5
+        }
+    },
+    {
+        "Name": "Royal, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Always save, double acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Best choice, pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Stater bros., baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Golden boy, medium shredded coconut unsweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Baking cocoa",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 12.5,
+            "Carbs": 50.0,
+            "Calories": 412.5
+        }
+    },
+    {
+        "Name": "Unsweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 58.3,
+            "Carbs": 33.3,
+            "Calories": 657.9
+        }
+    },
+    {
+        "Name": "Brookshire's, baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Brookshire's, double acting baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Brookshire's, unsweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 58.3,
+            "Carbs": 33.3,
+            "Calories": 657.9
+        }
+    },
+    {
+        "Name": "Wild harvest, organic unsweetened flake coconut",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 62.5,
+            "Carbs": 25.0,
+            "Calories": 687.3
+        }
+    },
+    {
+        "Name": "Superior nut & candy, chipped coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Chile de arbol",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Ole mexican foods, japanese chile pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Vanilla clear",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pedro lopez brand, chiles ancho",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 5.9,
+            "Carbs": 52.9,
+            "Calories": 311.9
+        }
+    },
+    {
+        "Name": "Portobello dried mushrooms",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 7.1,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Dried mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.7,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Dried morel mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Giorgio, dried stir fry mushroom blend",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Giorgio, dried bistro mushroom blend",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Chile japones (steamless)",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Chili ancho",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 5.9,
+            "Carbs": 52.9,
+            "Calories": 311.9
+        }
+    },
+    {
+        "Name": "Pasilla peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Pure vanilla extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Johnny moo, milk flavoring drops, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic stir-fry mushroom medley",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Terra dolce, organic wild forest mushroom",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 286.0
+        }
+    },
+    {
+        "Name": "Roasted arbol chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Simply beyond, organic spray on herbs basil oil based herb extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 90.0,
+            "Carbs": 0.0,
+            "Calories": 810.0
+        }
+    },
+    {
+        "Name": "Organic oil based herb extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 90.0,
+            "Carbs": 0.0,
+            "Calories": 810.0
+        }
+    },
+    {
+        "Name": "Simply beyond, oil based herb extract, lemongrass",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 90.0,
+            "Carbs": 0.0,
+            "Calories": 810.0
+        }
+    },
+    {
+        "Name": "La sabrosita, chile pulla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Dried porcini mushrooms",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 2.5,
+            "Carbs": 27.5,
+            "Calories": 252.5
+        }
+    },
+    {
+        "Name": "Finest cream of coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 17.9,
+            "Carbs": 75.0,
+            "Calories": 461.1
+        }
+    },
+    {
+        "Name": "Coco coconut",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 65.0,
+            "Carbs": 9.0,
+            "Calories": 649.0
+        }
+    },
+    {
+        "Name": "Uht natural coconut cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 0.0,
+            "Calories": 209.7
+        }
+    },
+    {
+        "Name": "Belgian cocoa powder",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 10.8,
+            "Carbs": 58.3,
+            "Calories": 397.2
+        }
+    },
+    {
+        "Name": "Large flake nutritional yeast",
+        "Nutrients": {
+            "Protein": 53.3,
+            "Fat": 3.3,
+            "Carbs": 33.3,
+            "Calories": 376.1
+        }
+    },
+    {
+        "Name": "Sunchang doenjang soybean paste",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 3.3,
+            "Carbs": 20.0,
+            "Calories": 162.9
+        }
+    },
+    {
+        "Name": "Fruit paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Cardenas, new mexico chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Shredded coconut",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 65.0,
+            "Carbs": 22.5,
+            "Calories": 705.0
+        }
+    },
+    {
+        "Name": "Macaroon coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Chopped coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Coconut flakes sweetened",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 25.0,
+            "Carbs": 60.7,
+            "Calories": 482.2
+        }
+    },
+    {
+        "Name": "Natural coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 25.0,
+            "Calories": 707.1
+        }
+    },
+    {
+        "Name": "Desiccated coconut powder",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 62.0,
+            "Carbs": 18.7,
+            "Calories": 659.6
+        }
+    },
+    {
+        "Name": "Shiitake dried mushrooms",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 10.0,
+            "Carbs": 50.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Dried mushrooms oyster",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Dried guajillo chili peppers",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Coffee flavoring",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Chile pod",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 50.0,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Solgar, brewer's yeast powder",
+        "Nutrients": {
+            "Protein": 43.3,
+            "Fat": 5.0,
+            "Carbs": 43.3,
+            "Calories": 391.4
+        }
+    },
+    {
+        "Name": "Stevia extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Food browning",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Sweetened flake coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 30.0,
+            "Carbs": 46.7,
+            "Calories": 483.6
+        }
+    },
+    {
+        "Name": "Market pantry, sweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Italian mix",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 35.0,
+            "Carbs": 40.0,
+            "Calories": 535.0
+        }
+    },
+    {
+        "Name": "Benjamins, rose water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Roland, lite coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.7,
+            "Carbs": 3.3,
+            "Calories": 73.5
+        }
+    },
+    {
+        "Name": "Molina, mexican vanilla blend, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Premium quality pure vanilla extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Natural coconut cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 26.7,
+            "Carbs": 0.0,
+            "Calories": 240.3
+        }
+    },
+    {
+        "Name": "Four seasons gourmet foods, pure blueberry extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Premium coffee concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Traders joe's, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Kroger, active dry yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Native forest, premium organic coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "365 everyday value, organic liquid stevia extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Rumford, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Italia garden, perfectly lemon condiment",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Drops",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Orchids, coconut cream",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 21.2,
+            "Carbs": 3.8,
+            "Calories": 210.8
+        }
+    },
+    {
+        "Name": "Bohae, bokbunjawon prime, black raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 70.0,
+            "Calories": 280.0
+        }
+    },
+    {
+        "Name": "Cocopandan",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Pandan",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Simply asia, thai kitchen, coconut cream",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 21.2,
+            "Carbs": 2.5,
+            "Calories": 205.6
+        }
+    },
+    {
+        "Name": "Lite coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.6,
+            "Carbs": 1.2,
+            "Calories": 55.2
+        }
+    },
+    {
+        "Name": "Tacoma boys, sliced dried porcini mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 309.0
+        }
+    },
+    {
+        "Name": "Tacoma boys, dried shiitake mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 309.0
+        }
+    },
+    {
+        "Name": "Torani, flavoring syrup, irish cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 76.7,
+            "Calories": 306.8
+        }
+    },
+    {
+        "Name": "Medley exotic dried mushroom",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Sliced shiitake dried mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toona bean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 45.0,
+            "Carbs": 20.0,
+            "Calories": 525.0
+        }
+    },
+    {
+        "Name": "Dried mirasol pepper",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 6.7,
+            "Carbs": 66.7,
+            "Calories": 367.1
+        }
+    },
+    {
+        "Name": "Chef's choice, coconut milk",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 19.3,
+            "Carbs": 5.3,
+            "Calories": 202.1
+        }
+    },
+    {
+        "Name": "Sweetened flakes coco rallado",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 39.0,
+            "Carbs": 40.0,
+            "Calories": 526.2
+        }
+    },
+    {
+        "Name": "Light coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.7,
+            "Carbs": 1.3,
+            "Calories": 56.5
+        }
+    },
+    {
+        "Name": "Oregon porcini mushrooms",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 286.0
+        }
+    },
+    {
+        "Name": "Organic dried chile peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Stemless arbol chili pods",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 17.9,
+            "Carbs": 57.1,
+            "Calories": 432.3
+        }
+    },
+    {
+        "Name": "Whole japanese chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Dehydrated cactus with chili powder",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.0,
+            "Carbs": 70.0,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Raw cocoa powder",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 525.0
+        }
+    },
+    {
+        "Name": "Organic heavy coconut cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 270.0
+        }
+    },
+    {
+        "Name": "Spicy bean paste",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 36.7,
+            "Carbs": 6.7,
+            "Calories": 397.1
+        }
+    },
+    {
+        "Name": "Ancho pepper",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 7.1,
+            "Carbs": 50.0,
+            "Calories": 306.7
+        }
+    },
+    {
+        "Name": "Arbol chili pods",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 39.5,
+            "Carbs": 0.0,
+            "Calories": 355.5
+        }
+    },
+    {
+        "Name": "Freeze dried broccoli florets & stems",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Shortening powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 71.4,
+            "Carbs": 14.3,
+            "Calories": 699.8
+        }
+    },
+    {
+        "Name": "Dehydrated diced red & green bell peppers",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Finest quality calcium hydroxide",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic habanero dried chile peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Monk fruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Stevia extract zero calorie liquid sweetener",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened shredded coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Chocolate peanut butter powder",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 8.3,
+            "Carbs": 50.0,
+            "Calories": 407.9
+        }
+    },
+    {
+        "Name": "Grated coconut in extra heavy syrup",
+        "Nutrients": {
+            "Protein": 1.3,
+            "Fat": 10.5,
+            "Carbs": 60.5,
+            "Calories": 341.7
+        }
+    },
+    {
+        "Name": "Guava preserve",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 65.0,
+            "Calories": 260.0
+        }
+    },
+    {
+        "Name": "Carbonato baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Premium quality pure baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "100% organic reduced fat coconut fine shred",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 40.0,
+            "Carbs": 26.7,
+            "Calories": 493.6
+        }
+    },
+    {
+        "Name": "Coconut crunch",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 28.6,
+            "Carbs": 71.4,
+            "Calories": 543.0
+        }
+    },
+    {
+        "Name": "Milk please, milksplash milk flavoring, jammin' banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Savory nutritional yeast flakes",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 6.2,
+            "Carbs": 37.5,
+            "Calories": 405.8
+        }
+    },
+    {
+        "Name": "Natural cocoa powder",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 13.3,
+            "Carbs": 73.3,
+            "Calories": 466.1
+        }
+    },
+    {
+        "Name": "Dorval premium collection, cocoa powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 20.0,
+            "Carbs": 60.0,
+            "Calories": 500.0
+        }
+    },
+    {
+        "Name": "Rossen flavouring",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Hain pure foods, featherweight, baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened flaked coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Unsweetened cocoa powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 13.3,
+            "Carbs": 60.0,
+            "Calories": 439.7
+        }
+    },
+    {
+        "Name": "Sliced dried shiitake mushroom",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 65.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Multi-use baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweet guava paste antojitos",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.0,
+            "Calories": 32.0
+        }
+    },
+    {
+        "Name": "Imitation vanilla flavor",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Premium coconut cream",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 22.5,
+            "Carbs": 3.8,
+            "Calories": 227.7
+        }
+    },
+    {
+        "Name": "Imitation banana extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Imitation rum extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut milk",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 18.3,
+            "Carbs": 3.3,
+            "Calories": 184.7
+        }
+    },
+    {
+        "Name": "Pure almond extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure lemon extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Frankford, travel mug milk chocolate",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 24.6,
+            "Carbs": 68.4,
+            "Calories": 509.0
+        }
+    },
+    {
+        "Name": "Sun dried & sliced daikon radish",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 64.3,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Cardenas, stemless guajillo chile pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Shiitake dried black mushrooms",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 0.0,
+            "Carbs": 64.3,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Essential everyday, baking cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Santosha chocolate, coconut & havaiian pink salt",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 34.5,
+            "Carbs": 48.3,
+            "Calories": 544.9
+        }
+    },
+    {
+        "Name": "Tacoma boys, sliced dried champignon mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 309.0
+        }
+    },
+    {
+        "Name": "Cocoa rouge cocoa powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 20.0,
+            "Carbs": 40.0,
+            "Calories": 420.0
+        }
+    },
+    {
+        "Name": "All purpose baking soda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Fine macaroon coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Shredded unsweetened coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Premium active dry yeast",
+        "Nutrients": {
+            "Protein": 40.0,
+            "Fat": 5.0,
+            "Carbs": 40.0,
+            "Calories": 365.0
+        }
+    },
+    {
+        "Name": "Japanese chili pods",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 28.4
+        }
+    },
+    {
+        "Name": "Cacao powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 20.0,
+            "Carbs": 53.3,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Pure baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweet treat browning",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Double acting pure baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Fancy flaked coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "New mexico red chili pods",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Stemless new mexico chile pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Organic new mexico dried chile peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Mango flavour",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Rising tide sea vegetables, sea crunchies",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Agar-agar powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Hijiki, sea vegetables",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 257.2
+        }
+    },
+    {
+        "Name": "Organic premium quality pure almond extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Calidad suprema",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 12.5,
+            "Carbs": 53.6,
+            "Calories": 384.1
+        }
+    },
+    {
+        "Name": "Unsweetened baking cocoa",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Gourmet mayan superfood cacao powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Natural tamarind",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Red chili pods",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Toasted arbol chili pods",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Nutritional yeast flakes",
+        "Nutrients": {
+            "Protein": 45.5,
+            "Fat": 0.0,
+            "Carbs": 36.4,
+            "Calories": 327.6
+        }
+    },
+    {
+        "Name": "Organic whole, sun dried, peeled cacao beans",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 46.4,
+            "Carbs": 35.7,
+            "Calories": 617.6
+        }
+    },
+    {
+        "Name": "Organic cacao raw powder",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 12.5,
+            "Carbs": 62.5,
+            "Calories": 462.5
+        }
+    },
+    {
+        "Name": "Premium sweetened coconut flakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 30.0,
+            "Carbs": 46.7,
+            "Calories": 483.6
+        }
+    },
+    {
+        "Name": "Fermented cacao powder",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 10.7,
+            "Carbs": 57.1,
+            "Calories": 396.3
+        }
+    },
+    {
+        "Name": "Maitake mushrooms organic dried sliced",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Dried chili de arbol peppers",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Organic premium quality pure vanilla extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Premium quality pure almond extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened & flaked coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Sun dried cacao powder",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 46.4,
+            "Carbs": 35.7,
+            "Calories": 632.0
+        }
+    },
+    {
+        "Name": "Woodear dried mushrooms",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.7,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Unsweetened baking cocoa, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Nutritional yeast seasoning",
+        "Nutrients": {
+            "Protein": 55.6,
+            "Fat": 0.0,
+            "Carbs": 33.3,
+            "Calories": 355.6
+        }
+    },
+    {
+        "Name": "Chocolate unsweetened cocoa powder",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 491.8
+        }
+    },
+    {
+        "Name": "Organic lightly sweetened with organic cane sugar shredded coconut, lightly sweetened with organic cane sugar",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 33.3,
+            "Calories": 700.0
+        }
+    },
+    {
+        "Name": "French vanilla stevia extract liquid, french vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cream of tartar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Organic premium unsweetened coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "Light coconut milk, light",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.7,
+            "Carbs": 1.3,
+            "Calories": 56.5
+        }
+    },
+    {
+        "Name": "Organic unsweetened flaked coconut",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 63.6,
+            "Carbs": 27.3,
+            "Calories": 718.0
+        }
+    },
+    {
+        "Name": "Baking soda for baking, cleaning, & deodorizing",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened flaked coconut, sweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Unsweetened coconut milk, light",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.9,
+            "Carbs": 1.7,
+            "Calories": 59.9
+        }
+    },
+    {
+        "Name": "Sweetened coconut flakes, sweetened coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Maca power dark chocolate bark with corn flakes, almonds & maca, maca power",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 30.0,
+            "Carbs": 55.0,
+            "Calories": 530.0
+        }
+    },
+    {
+        "Name": "Fermented cacao nibs",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 50.0,
+            "Carbs": 28.6,
+            "Calories": 621.6
+        }
+    },
+    {
+        "Name": "Dutch-processed gourmet baking cocoa",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 50.0,
+            "Calories": 417.1
+        }
+    },
+    {
+        "Name": "Monterey blend dried mushrooms, monterey blend",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Coconut borincana chips, coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Sweetened flake coconut, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Organic coconut protein blend, chocolate",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 9.2,
+            "Carbs": 31.6,
+            "Calories": 409.2
+        }
+    },
+    {
+        "Name": "Organic unsweetened coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 6.7,
+            "Calories": 206.8
+        }
+    },
+    {
+        "Name": "Organic coconut flour",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 13.3,
+            "Carbs": 60.0,
+            "Calories": 412.9
+        }
+    },
+    {
+        "Name": "Coconut sweetened flakes, coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Coconut whipping cream",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 21.2,
+            "Carbs": 6.2,
+            "Calories": 220.4
+        }
+    },
+    {
+        "Name": "Nutritional yeast superfoods",
+        "Nutrients": {
+            "Protein": 53.3,
+            "Fat": 6.7,
+            "Carbs": 33.3,
+            "Calories": 406.7
+        }
+    },
+    {
+        "Name": "Organic cocoa dutch process",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 491.8
+        }
+    },
+    {
+        "Name": "Coconut real tropical fruit pulp, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 8.3,
+            "Carbs": 10.0,
+            "Calories": 114.7
+        }
+    },
+    {
+        "Name": "Dairy-free sweetened condensed coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 11.8,
+            "Carbs": 65.8,
+            "Calories": 369.4
+        }
+    },
+    {
+        "Name": "Organic unsweetened flakes coconut, unsweetened",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 60.0,
+            "Carbs": 30.0,
+            "Calories": 700.0
+        }
+    },
+    {
+        "Name": "Almond paste",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 23.1,
+            "Carbs": 53.9,
+            "Calories": 464.7
+        }
+    },
+    {
+        "Name": "Napolitano guava & dulce de leche",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 79.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Oyster mushrooms",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Unsweetened lite coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "Unsweetened organic coconut milk",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 2.5,
+            "Calories": 172.3
+        }
+    },
+    {
+        "Name": "Coconut borincana chips",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Organic unsweetened coconut milk",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 18.0,
+            "Carbs": 3.0,
+            "Calories": 178.0
+        }
+    },
+    {
+        "Name": "Unsweetened organic coconut cream",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 21.0,
+            "Carbs": 5.0,
+            "Calories": 217.0
+        }
+    },
+    {
+        "Name": "Organic, fair trade cacao powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Rich chocolate flavor dutch processed gourmet baking cocoa",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 50.0,
+            "Calories": 417.1
+        }
+    },
+    {
+        "Name": "Original recipe coconut chips, original recipe",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 43.3,
+            "Carbs": 50.0,
+            "Calories": 602.9
+        }
+    },
+    {
+        "Name": "Lightly toasted coconut chips",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 64.7,
+            "Carbs": 23.5,
+            "Calories": 699.9
+        }
+    },
+    {
+        "Name": "Dried shiitake mushrooms",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 0.0,
+            "Carbs": 64.3,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Sweetened condensed coconut milk, sweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 36.7,
+            "Calories": 413.9
+        }
+    },
+    {
+        "Name": "Fruit paste, guava",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Coffee flavoring, hazelnut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened flakes coco rallado, coconut",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 39.0,
+            "Carbs": 40.0,
+            "Calories": 526.2
+        }
+    },
+    {
+        "Name": "100% pure cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Flaked coconut, sweet & moist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Fancy flaked coconut, sweet & moist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Red chili pods, hot",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Napolitano guava & dulce de leche, napolitano",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 79.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Organic unsweetened coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 18.0,
+            "Carbs": 3.0,
+            "Calories": 178.0
+        }
+    },
+    {
+        "Name": "Unsweetened organic coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 21.0,
+            "Carbs": 5.0,
+            "Calories": 217.0
+        }
+    },
+    {
+        "Name": "Diced orange peel sweetened real fruit, diced orange",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 73.3,
+            "Calories": 293.2
+        }
+    },
+    {
+        "Name": "Unsweetened light coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "Non-dairy sweetened condensed coconut milk, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 73.3,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Chocolatey toasted coconut chips, chocolatey toasted coconut",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 552.9
+        }
+    },
+    {
+        "Name": "Organic japanese dried shiitake koshin",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Organic japanese dried shiitake donko",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Premium nutritional yeast",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 4.2,
+            "Carbs": 33.3,
+            "Calories": 371.0
+        }
+    },
+    {
+        "Name": "Organic light coconut milk, light",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 8.8,
+            "Carbs": 1.2,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Regular organic coconut milk, regular",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 3.8,
+            "Calories": 177.5
+        }
+    },
+    {
+        "Name": "Organic desiccated coconut",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 66.5,
+            "Carbs": 5.5,
+            "Calories": 653.3
+        }
+    },
+    {
+        "Name": "Organic desiccated coconut chips",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 68.0,
+            "Carbs": 15.0,
+            "Calories": 696.4
+        }
+    },
+    {
+        "Name": "Organic desiccated coconut toasted chips",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 64.0,
+            "Carbs": 14.5,
+            "Calories": 657.2
+        }
+    },
+    {
+        "Name": "Golden organic coconut milk, golden",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 10.8,
+            "Carbs": 5.0,
+            "Calories": 122.0
+        }
+    },
+    {
+        "Name": "Red curry organic coconut milk, red curry",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 7.2,
+            "Carbs": 3.7,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Organic keto cacao powder",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 53.3,
+            "Carbs": 26.7,
+            "Calories": 639.7
+        }
+    },
+    {
+        "Name": "Combined guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 73.6,
+            "Calories": 294.4
+        }
+    },
+    {
+        "Name": "Tume guava paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Chile morita",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Mushroom truffle hunt pepper blend, mushroom & pepper blend",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Classic coconut milk, classic",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 18.3,
+            "Carbs": 3.3,
+            "Calories": 177.9
+        }
+    },
+    {
+        "Name": "Premium unsweetened organic coconut cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "Dairy-free sweetened condensed coconut milk, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 11.8,
+            "Carbs": 65.8,
+            "Calories": 369.4
+        }
+    },
+    {
+        "Name": "Organic japanese dried shiitake koshin, koshin",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Organic japanese dried shiitake donko, donko",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Non-diastatic malt powder",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 0.0,
+            "Carbs": 87.5,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Plum fruit paste, plum",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Organic unsweetened lite coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 2.5,
+            "Calories": 65.8
+        }
+    },
+    {
+        "Name": "Unsweetened premium organic coconut cream, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "Unsweetened organic lite coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 2.5,
+            "Calories": 65.8
+        }
+    },
+    {
+        "Name": "Coconut unsweetened fine macaroon, coconut unsweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Full cream organic coconut milk, full cream",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 21.7,
+            "Carbs": 5.0,
+            "Calories": 222.1
+        }
+    },
+    {
+        "Name": "Red instant yeast, red",
+        "Nutrients": {
+            "Protein": 45.0,
+            "Fat": 6.0,
+            "Carbs": 35.0,
+            "Calories": 374.0
+        }
+    },
+    {
+        "Name": "Dried shiitake mushroom",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 1.4,
+            "Carbs": 57.1,
+            "Calories": 355.4
+        }
+    },
+    {
+        "Name": "Brewer's yeast powder",
+        "Nutrients": {
+            "Protein": 46.7,
+            "Fat": 5.0,
+            "Carbs": 43.3,
+            "Calories": 405.0
+        }
+    },
+    {
+        "Name": "Mushroom truffle hunt mushroom pepper blend, mushroom truffle hunt",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Vanilla bean paste, vanilla bean",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Modern farms, dried mushrooms, meaty texture, meaty texture",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 1.0,
+            "Carbs": 75.0,
+            "Calories": 349.0
+        }
+    },
+    {
+        "Name": "Liquid no calorie stevia extract",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened light coconut milk, unsweetened light",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 7.5,
+            "Carbs": 1.2,
+            "Calories": 77.1
+        }
+    },
+    {
+        "Name": "Organic coconut milk, coconut",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 17.5,
+            "Carbs": 2.5,
+            "Calories": 172.3
+        }
+    },
+    {
+        "Name": "Dried ancho chili peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Unsweetened cocoa powder, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Dried gourmet mix mushrooms",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 282.4
+        }
+    },
+    {
+        "Name": "Unsweetened organic cocoa + espresso, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Dried new mexico chili peppers",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Sun-dried sorrel",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Djon djon dried haitian mushrooms",
+        "Nutrients": {
+            "Protein": 22.5,
+            "Fat": 0.0,
+            "Carbs": 65.0,
+            "Calories": 350.0
+        }
+    },
+    {
+        "Name": "Vanilla flavor monkfruit extract drops, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Extra creamy coconut milk, extra creamy",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 17.5,
+            "Carbs": 2.5,
+            "Calories": 167.5
+        }
+    },
+    {
+        "Name": "Chile piquin entero whole pequin chili ",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Original active dry yeast, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Instant yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sweetened coconut, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 30.0,
+            "Carbs": 46.7,
+            "Calories": 456.8
+        }
+    },
+    {
+        "Name": "Original activedry yeast, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pizza crust yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Fast-acting highly active yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Rapidrise fast-acting instant yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Rapidrise fast acting instant yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Rapidrise breadmachine instant yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cocoa, special dark",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Sweetened coconut angel flake, sweetened coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 30.0,
+            "Carbs": 46.7,
+            "Calories": 456.8
+        }
+    },
+    {
+        "Name": "100% pure high fat cocoa powder",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 25.0,
+            "Carbs": 50.0,
+            "Calories": 525.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut, unsweetened",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 64.3,
+            "Carbs": 21.4,
+            "Calories": 692.7
+        }
+    },
+    {
+        "Name": "Toasted flake coconut, toasted",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 46.7,
+            "Carbs": 46.7,
+            "Calories": 607.1
+        }
+    },
+    {
+        "Name": "Rich & creamy coconut milk, rich & creamy",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 15.0,
+            "Carbs": 1.7,
+            "Calories": 141.8
+        }
+    },
+    {
+        "Name": "Original old fashioned mexican vanilla blend, original mexican vanilla blend",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened lite organic coconut milk, unsweetened lite",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 2.5,
+            "Calories": 65.8
+        }
+    },
+    {
+        "Name": "Orange extract, orange",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Dried mushroom medley",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Organic raw cacao powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 13.3,
+            "Carbs": 60.0,
+            "Calories": 439.7
+        }
+    },
+    {
+        "Name": "Dried mother yeast with brewer's yeast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 350.0
+        }
+    },
+    {
+        "Name": "Brewer's yeast super food",
+        "Nutrients": {
+            "Protein": 43.8,
+            "Fat": 3.1,
+            "Carbs": 43.8,
+            "Calories": 378.3
+        }
+    },
+    {
+        "Name": "Dried gourmet blend",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Unsweetened organic coconut milk curry, unsweetened",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 10.0,
+            "Carbs": 8.3,
+            "Calories": 130.0
+        }
+    },
+    {
+        "Name": "Dried mushrooms, woodear",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 10.0,
+            "Carbs": 50.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Belgian cocoa powder, belgian",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 10.8,
+            "Carbs": 58.3,
+            "Calories": 397.2
+        }
+    },
+    {
+        "Name": "Dried mushrooms, oyster",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 10.0,
+            "Carbs": 50.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Dried mushrooms, porcini",
+        "Nutrients": {
+            "Protein": 30.0,
+            "Fat": 10.0,
+            "Carbs": 50.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Imitation vanilla flavor, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Flaked coconut, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 486.5
+        }
+    },
+    {
+        "Name": "Unsweetened cocoa baking powder, unsweetened",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": " gourmet mayan superfood cacao powder, cacao",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Premium sweetened coconut flakes, sweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 30.0,
+            "Carbs": 46.7,
+            "Calories": 483.6
+        }
+    },
+    {
+        "Name": "Coconut pulp, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 8.3,
+            "Carbs": 10.0,
+            "Calories": 114.7
+        }
+    },
+    {
+        "Name": "New mexico chile pods, new mexico",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Coconut ice cream, coconut",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 8.7,
+            "Carbs": 30.6,
+            "Calories": 219.1
+        }
+    },
+    {
+        "Name": "Original organic coconut milk, original",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 16.8,
+            "Carbs": 4.0,
+            "Calories": 170.8
+        }
+    },
+    {
+        "Name": "Chile california",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Organic chaga mushroom powder",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 33.3,
+            "Calories": 266.4
+        }
+    },
+    {
+        "Name": "Cacao raw organic powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Lucuma raw organic powder",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 86.7,
+            "Calories": 373.6
+        }
+    },
+    {
+        "Name": "Dried hibiscus flower powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "100% raw organic powder, extra rich cacao",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Organic cacao powder with maca, maca",
+        "Nutrients": {
+            "Protein": 33.3,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Chocolate flavored whey protein powder, chocolate",
+        "Nutrients": {
+            "Protein": 28.2,
+            "Fat": 2.8,
+            "Carbs": 63.4,
+            "Calories": 391.6
+        }
+    },
+    {
+        "Name": "Cookies & creme flavored whey protein powder, cookies & creme",
+        "Nutrients": {
+            "Protein": 69.0,
+            "Fat": 5.2,
+            "Carbs": 17.2,
+            "Calories": 391.6
+        }
+    },
+    {
+        "Name": "Vivido, european forest air dried mushrooms, black trumpet, black trumpet",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 0.0,
+            "Carbs": 25.0,
+            "Calories": 142.8
+        }
+    },
+    {
+        "Name": "Brewer's yeast super food powder",
+        "Nutrients": {
+            "Protein": 43.8,
+            "Fat": 3.1,
+            "Carbs": 43.8,
+            "Calories": 378.3
+        }
+    },
+    {
+        "Name": "Nutritional yeast super food flakes",
+        "Nutrients": {
+            "Protein": 55.6,
+            "Fat": 5.6,
+            "Carbs": 33.3,
+            "Calories": 406.0
+        }
+    },
+    {
+        "Name": "Cocoa lovers organic cocoa powder, cocoa lovers",
+        "Nutrients": {
+            "Protein": 40.0,
+            "Fat": 20.0,
+            "Carbs": 40.0,
+            "Calories": 500.0
+        }
+    },
+    {
+        "Name": "Premium coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 17.5,
+            "Carbs": 2.5,
+            "Calories": 167.5
+        }
+    },
+    {
+        "Name": "100% organic cacao paste, cacao",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 28.6,
+            "Carbs": 28.6,
+            "Calories": 386.2
+        }
+    },
+    {
+        "Name": "Chile japones (steamless), hot",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Johnny moo, milk flavoring drops, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Organic oil based herb extract, garlic",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 90.0,
+            "Carbs": 0.0,
+            "Calories": 810.0
+        }
+    },
+    {
+        "Name": "Simply beyond, oil based herb extract, lemongrass, lemongrass",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 90.0,
+            "Carbs": 0.0,
+            "Calories": 810.0
+        }
+    },
+    {
+        "Name": "Molina, mexican vanilla blend, original, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Drops, milk, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Torani, flavoring syrup, irish cream, irish cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 76.7,
+            "Calories": 306.8
+        }
+    },
+    {
+        "Name": "Milk please, milksplash milk flavoring, jammin' banana, jammin' banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Shredded coconut, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 486.5
+        }
+    },
+    {
+        "Name": "Shredded coconut, unsweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Sun dried cacao powder, chocolate",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 46.4,
+            "Carbs": 35.7,
+            "Calories": 632.0
+        }
+    },
+    {
+        "Name": "Coconut chunks",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 33.3,
+            "Carbs": 15.2,
+            "Calories": 374.9
+        }
+    },
+    {
+        "Name": "Toasted coconut chips, toasted",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 42.9,
+            "Carbs": 50.0,
+            "Calories": 614.5
+        }
+    },
+    {
+        "Name": "Coconut unsweetened light organic milk, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "Lite coconut milk, lite",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "Unsweetened organic cocoa powder, unsweetened",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 8.3,
+            "Carbs": 50.0,
+            "Calories": 341.5
+        }
+    },
+    {
+        "Name": "Sweetened coconut flaked, sweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Sweetened coconut shredded, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 33.3,
+            "Carbs": 46.7,
+            "Calories": 486.5
+        }
+    },
+    {
+        "Name": "Coconut cream, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 20.0,
+            "Carbs": 3.3,
+            "Calories": 193.2
+        }
+    },
+    {
+        "Name": "Fair trade cacao powder",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Coconut milk unsweetened, coconut milk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 16.7,
+            "Carbs": 0.0,
+            "Calories": 150.3
+        }
+    },
+    {
+        "Name": "Coconut flakes unsweetened, unsweetened",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 60.0,
+            "Carbs": 26.7,
+            "Calories": 673.6
+        }
+    },
+    {
+        "Name": "Cranberry mix, cranberry",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 21.4,
+            "Carbs": 53.6,
+            "Calories": 449.8
+        }
+    },
+    {
+        "Name": "Baking powder, double acting",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Grated coconut in heavy syrup",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 10.0,
+            "Carbs": 56.7,
+            "Calories": 316.8
+        }
+    },
+    {
+        "Name": "Bread machine instant yeast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "100% cocoa",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Pasilla dried chiles, pasilla",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 8.8,
+            "Carbs": 52.9,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Pure creamed coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 71.4,
+            "Carbs": 7.1,
+            "Calories": 699.4
+        }
+    },
+    {
+        "Name": "Organic dried coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 32.1,
+            "Carbs": 14.3,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Mixed essence",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Vanilla essence, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Dried oyster mushrooms, oyster",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Nutritional yeast",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Chipped coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 63.3,
+            "Carbs": 23.3,
+            "Calories": 689.7
+        }
+    },
+    {
+        "Name": "Orange coconut cream, orange coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.8,
+            "Carbs": 14.2,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Sweetened coconut fancy flaked, sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Organic shredded coconut",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 66.7,
+            "Carbs": 23.3,
+            "Calories": 720.3
+        }
+    },
+    {
+        "Name": "Nutritional yeast super food powder",
+        "Nutrients": {
+            "Protein": 50.0,
+            "Fat": 5.0,
+            "Carbs": 30.0,
+            "Calories": 365.0
+        }
+    },
+    {
+        "Name": "Brewer's yeast, unflavored, unflavored",
+        "Nutrients": {
+            "Protein": 45.0,
+            "Fat": 5.0,
+            "Carbs": 40.0,
+            "Calories": 385.0
+        }
+    },
+    {
+        "Name": "Milk caramel & guava paste tumes, milk caramel & guava paste",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 2.2,
+            "Carbs": 77.8,
+            "Calories": 339.8
+        }
+    },
+    {
+        "Name": "Featherweight baking powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Coco cream of coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 11.1,
+            "Carbs": 52.8,
+            "Calories": 311.1
+        }
+    },
+    {
+        "Name": "Gourmet mayan superfood cacao powder, cacao",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Brewing chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure vanilla extract, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure lemon extract, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure almond extract, almond",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Imitation rum extract, rum",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Imitation banana extract, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Rich chocolate organic gourmet baking cocoa, rich chocolate",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 8.3,
+            "Carbs": 50.0,
+            "Calories": 341.5
+        }
+    },
+    {
+        "Name": "Davis baking soda, 12 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Kraft minute tapioca, 8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Mexican style street corn chowder",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 3.8,
+            "Carbs": 8.0,
+            "Calories": 73.0
+        }
+    },
+    {
+        "Name": "Gefen baking powder, 8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Guava marmalade, guava",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 65.0,
+            "Calories": 260.0
+        }
+    },
+    {
+        "Name": "Mexican vanilla pure extract, mexican vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Unsweetened light organic coconut milk, unsweetened light",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.2,
+            "Carbs": 1.2,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "American process 10% - 12% cocoa butter, american process",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 10.0,
+            "Carbs": 60.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Unsweetened coconut threads, unsweetened",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 66.7,
+            "Carbs": 23.3,
+            "Calories": 706.7
+        }
+    },
+    {
+        "Name": "Soy bean paste, soy bean",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 6.7,
+            "Carbs": 20.0,
+            "Calories": 193.5
+        }
+    }
+]

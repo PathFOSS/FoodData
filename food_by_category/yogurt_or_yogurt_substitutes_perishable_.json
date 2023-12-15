@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Yoplait fruplait lf ygrt strwbry/peach",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 0.4,
+            "Carbs": 18.6,
+            "Calories": 88.4
+        }
+    },
+    {
+        "Name": "Yoplait original lf ygrt orange creme/strwbry",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 1.2,
+            "Carbs": 15.3,
+            "Calories": 86.0
+        }
+    },
+    {
+        "Name": "Yoplait original lf ygrt rnbw sherbet/strwbry",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 1.2,
+            "Carbs": 14.7,
+            "Calories": 83.6
+        }
+    },
+    {
+        "Name": "Yoplait whips lf ygrt banana split",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 2.2,
+            "Carbs": 22.1,
+            "Calories": 125.8
+        }
+    }
+]

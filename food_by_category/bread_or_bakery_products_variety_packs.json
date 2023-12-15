@@ -1,0 +1,515 @@
+[
+    {
+        "Name": "Old el paso hard and soft taco shells 12 count",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 9.8,
+            "Carbs": 52.2,
+            "Calories": 323.0
+        }
+    },
+    {
+        "Name": "Old el paso hard and soft taco dinner kit 3 pack",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 6.8,
+            "Carbs": 42.4,
+            "Calories": 248.8
+        }
+    },
+    {
+        "Name": "Old el paso stand 'n stuff taco dinner kit 2 pack",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 6.8,
+            "Carbs": 42.4,
+            "Calories": 248.8
+        }
+    },
+    {
+        "Name": "Old el paso hard & soft taco dinner kit with stand 'n stuff shells and tortilla bowls",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 40.0,
+            "Calories": 284.0
+        }
+    },
+    {
+        "Name": "Old el paso hard & soft taco dinner kit",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 6.8,
+            "Carbs": 42.4,
+            "Calories": 248.8
+        }
+    },
+    {
+        "Name": "Old el paso fiesta taco dinner kit",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 19.4,
+            "Carbs": 58.1,
+            "Calories": 433.0
+        }
+    },
+    {
+        "Name": "Old el paso game day taco kit",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 18.8,
+            "Carbs": 59.4,
+            "Calories": 431.6
+        }
+    },
+    {
+        "Name": "Old el paso bold nacho cheese shell & soft tortilla taco dinner kit",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 7.5,
+            "Carbs": 43.3,
+            "Calories": 264.7
+        }
+    },
+    {
+        "Name": "Old el paso hard and soft taco shells and flour tortillas 12 count",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 14.0,
+            "Carbs": 65.0,
+            "Calories": 418.0
+        }
+    },
+    {
+        "Name": "Old el paso hard and soft taco dinner kit with crunchy taco shells and flour tortillas 12 count",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 10.0,
+            "Carbs": 49.0,
+            "Calories": 310.0
+        }
+    },
+    {
+        "Name": "Oep hard&soft taco dnr kit 3pk",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 10.0,
+            "Carbs": 49.0,
+            "Calories": 310.0
+        }
+    },
+    {
+        "Name": "Oep sns hrd & sft taco dnr kit",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 9.0,
+            "Carbs": 46.0,
+            "Calories": 289.0
+        }
+    },
+    {
+        "Name": "Oep hard & soft taco dnr kit",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 10.0,
+            "Carbs": 49.0,
+            "Calories": 310.0
+        }
+    },
+    {
+        "Name": "Naturally and artificially flavored chocolate chocolate chip muffin(s) made with whole grain",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.6,
+            "Carbs": 55.8,
+            "Calories": 347.0
+        }
+    },
+    {
+        "Name": "Smart choice apple cinnamon muffin top",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 8.0,
+            "Carbs": 48.9,
+            "Calories": 290.4
+        }
+    },
+    {
+        "Name": "Wg chocolate chip muffin top",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Wg double chocolate chip muffin top",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Smart choice  wg bran muffin, 96ct.-2oz. iw",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 14.0,
+            "Carbs": 42.1,
+            "Calories": 315.6
+        }
+    },
+    {
+        "Name": "Smart choice wg blueberry muffin, iw",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.9,
+            "Carbs": 45.6,
+            "Calories": 274.7
+        }
+    },
+    {
+        "Name": "Smart choice apple cinn muffin",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 7.8,
+            "Carbs": 48.0,
+            "Calories": 281.8
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chip muffin - 48-3.6 oz. i.w.",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 8.8,
+            "Carbs": 51.0,
+            "Calories": 306.8
+        }
+    },
+    {
+        "Name": "Smart choice banana muffin - 48-3.6 oz. i.w.",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 6.9,
+            "Carbs": 50.0,
+            "Calories": 281.7
+        }
+    },
+    {
+        "Name": "Smart choice wg blueberry muffin, 48ct.-4oz. iw",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 8.0,
+            "Carbs": 46.0,
+            "Calories": 273.6
+        }
+    },
+    {
+        "Name": "Smart choice apple cinnamon muffin",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 8.8,
+            "Carbs": 46.9,
+            "Calories": 284.4
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chip - 48-4 oz. i.w",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 9.7,
+            "Carbs": 50.4,
+            "Calories": 310.1
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chip cookie - fully baked 210ct.-1.4oz. iw 2packs of .7oz. cookies",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 15.0,
+            "Carbs": 62.5,
+            "Calories": 405.0
+        }
+    },
+    {
+        "Name": "Smart choice orange crumb",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 49.1,
+            "Calories": 296.8
+        }
+    },
+    {
+        "Name": "Cornbread loaves",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 12.3,
+            "Carbs": 0.0,
+            "Calories": 110.7
+        }
+    },
+    {
+        "Name": "Chocolate chip muffins",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 12.3,
+            "Carbs": 50.9,
+            "Calories": 328.3
+        }
+    },
+    {
+        "Name": "Smart choice blueberry muffin",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Smart choice wg apple cinnamon muffin, 72ct.-2oz. iw",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 7.9,
+            "Carbs": 47.4,
+            "Calories": 274.7
+        }
+    },
+    {
+        "Name": "Smart choice banana muffin",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.0,
+            "Carbs": 49.1,
+            "Calories": 280.6
+        }
+    },
+    {
+        "Name": "Sc (2ge) apple cinn. muffins",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 8.0,
+            "Carbs": 48.9,
+            "Calories": 290.4
+        }
+    },
+    {
+        "Name": "Sc (2ge) chocolate chip muffin- 48ct.-3.1oz. iw",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 9.1,
+            "Carbs": 51.1,
+            "Calories": 309.1
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chips muffins",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.8,
+            "Carbs": 51.0,
+            "Calories": 307.8
+        }
+    },
+    {
+        "Name": "Smart choice banana muffins",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 6.9,
+            "Carbs": 49.0,
+            "Calories": 273.7
+        }
+    },
+    {
+        "Name": "Totality bar - full meal replacement bar, 3.3oz. -36ct. iw",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 17.0,
+            "Carbs": 60.6,
+            "Calories": 433.8
+        }
+    },
+    {
+        "Name": "Smart choice wh grain cornbread",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 50.9,
+            "Calories": 319.3
+        }
+    },
+    {
+        "Name": "Wg jalapeno cornbread",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chip",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Smart choice banana",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.0,
+            "Carbs": 49.1,
+            "Calories": 280.6
+        }
+    },
+    {
+        "Name": "Smart choice wg cinnamon crumb loaf, 48ct.-3.6oz. iw",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 6.9,
+            "Carbs": 53.9,
+            "Calories": 297.3
+        }
+    },
+    {
+        "Name": "Smart choice banana loaves - 48-3.6 oz. i.w.",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 6.9,
+            "Carbs": 50.0,
+            "Calories": 281.7
+        }
+    },
+    {
+        "Name": "Smart choice zucchini loaves",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 7.8,
+            "Carbs": 48.0,
+            "Calories": 281.8
+        }
+    },
+    {
+        "Name": "Smart choice chocolate chip cookie dough",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.3,
+            "Carbs": 64.3,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Smart choice double chocolate chip muffin top - 60-2 oz. i.w.",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 47.4,
+            "Calories": 305.3
+        }
+    },
+    {
+        "Name": "Smart choice blueberry tops",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Smart choice choc chip top",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Wh wh blueberry bagels sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Honey wh wh bagel sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Smart choice honey wheat bagel",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 2.6,
+            "Carbs": 57.9,
+            "Calories": 297.0
+        }
+    },
+    {
+        "Name": "Honey wheat fully sliced bagels - 84-2 oz bulk",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Whwh cinn raisin bagels sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 47.4,
+            "Calories": 233.8
+        }
+    },
+    {
+        "Name": "Honey wh wh bagels sliced - 84-2 oz. bulk",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Cinnamon raisin bagels sliced",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 1.4,
+            "Carbs": 50.7,
+            "Calories": 249.0
+        }
+    },
+    {
+        "Name": "Smart choice honey wheat bagel - 72-4 oz. 12-6 pack",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 2.2,
+            "Carbs": 44.2,
+            "Calories": 228.6
+        }
+    },
+    {
+        "Name": "Naturally flavored wild blueberry muffin made with whole grain with other natural flavor",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 52.6,
+            "Calories": 326.1
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "Name": "Just foods crushed garlic 380g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 25.0,
+            "Calories": 230.0
+        }
+    },
+    {
+        "Name": "Just foods crushed ginger 185g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 10.0,
+            "Calories": 170.0
+        }
+    },
+    {
+        "Name": "Just foods garlic and ginger mix 380g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 18.0,
+            "Calories": 202.0
+        }
+    },
+    {
+        "Name": "Just foods barbeque mix 265g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 17.0,
+            "Calories": 198.0
+        }
+    },
+    {
+        "Name": "Just foods garlic and ginger mix 185g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 18.0,
+            "Calories": 202.0
+        }
+    },
+    {
+        "Name": "Old el paso spice mix for soft tacos crispy chicken mild 35g",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 2.9,
+            "Carbs": 65.7,
+            "Calories": 334.5
+        }
+    },
+    {
+        "Name": "Old el paso nachos spice mix mild 35g",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 6.7,
+            "Carbs": 45.6,
+            "Calories": 282.7
+        }
+    },
+    {
+        "Name": "Mrs rogers bbq rubs classic kiwi bbq 80g",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 7.0,
+            "Carbs": 35.0,
+            "Calories": 235.0
+        }
+    },
+    {
+        "Name": "Master foods smoked & charred alabama style rub sweet & tangy 52g",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 4.0,
+            "Carbs": 52.0,
+            "Calories": 276.0
+        }
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "Name": "Hellers beef flavoured 4.99kg",
+        "Nutrients": {
+            "Protein": 12.2,
+            "Fat": 20.0,
+            "Carbs": 5.8,
+            "Calories": 252.0
+        }
+    },
+    {
+        "Name": "Hellers pork flavoured chipolatas 4.95kg",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 18.6,
+            "Carbs": 6.2,
+            "Calories": 242.6
+        }
+    },
+    {
+        "Name": "Hellers pork flavoured 5.15kg",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 18.6,
+            "Carbs": 6.1,
+            "Calories": 242.2
+        }
+    },
+    {
+        "Name": "Tvi fish sausage 500g",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 12.0,
+            "Carbs": 8.6,
+            "Calories": 179.2
+        }
+    },
+    {
+        "Name": "Durham farms organic angus beef sausages 480g",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 13.4,
+            "Carbs": 5.6,
+            "Calories": 206.2
+        }
+    },
+    {
+        "Name": "Wang korea miss bong fish sausage 10 sticks 340g",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 7.3,
+            "Carbs": 14.7,
+            "Calories": 159.7
+        }
+    },
+    {
+        "Name": "Market value thin pork sausages 9 pack 580g",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 17.7,
+            "Carbs": 5.8,
+            "Calories": 229.7
+        }
+    },
+    {
+        "Name": "Woolworths pork & beef spicy chorizo sausages 500g 6 pack",
+        "Nutrients": {
+            "Protein": 17.4,
+            "Fat": 17.4,
+            "Carbs": 2.0,
+            "Calories": 234.2
+        }
+    },
+    {
+        "Name": "The kiwi artisan co manuka smoked wild venison salami 220g",
+        "Nutrients": {
+            "Protein": 26.0,
+            "Fat": 16.8,
+            "Carbs": 3.8,
+            "Calories": 270.4
+        }
+    },
+    {
+        "Name": "Hellers sausage meat 3kg",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 20.0,
+            "Carbs": 8.4,
+            "Calories": 264.0
+        }
+    },
+    {
+        "Name": "Woolworths market value pre-cooked sausages chinese honey 1kg",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 11.2,
+            "Carbs": 16.1,
+            "Calories": 209.2
+        }
+    },
+    {
+        "Name": "Market value thin pork sausages 24 pack 1.8kg",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 17.7,
+            "Carbs": 5.9,
+            "Calories": 229.7
+        }
+    },
+    {
+        "Name": "Market value pre-cooked sausages original flavour 1kg",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 13.8,
+            "Carbs": 7.4,
+            "Calories": 207.0
+        }
+    },
+    {
+        "Name": "Market value pre-cooked sausages cheese 1kg",
+        "Nutrients": {
+            "Protein": 13.9,
+            "Fat": 14.4,
+            "Carbs": 6.9,
+            "Calories": 212.8
+        }
+    },
+    {
+        "Name": "Fritz's wieners gourmet bratwurst spicy 170g",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 18.0,
+            "Carbs": 17.5,
+            "Calories": 276.8
+        }
+    },
+    {
+        "Name": "Woolworths grass fed angus beef sausages 450g",
+        "Nutrients": {
+            "Protein": 18.9,
+            "Fat": 15.1,
+            "Carbs": 4.0,
+            "Calories": 227.5
+        }
+    },
+    {
+        "Name": "Grillsteins sausages big mince & cheese 450g",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 23.3,
+            "Carbs": 3.7,
+            "Calories": 283.3
+        }
+    },
+    {
+        "Name": "Hellers chorizo breakfast 10pk 350g",
+        "Nutrients": {
+            "Protein": 12.7,
+            "Fat": 20.9,
+            "Carbs": 2.7,
+            "Calories": 249.7
+        }
+    },
+    {
+        "Name": "Tegel chicken sausages 1.8kg",
+        "Nutrients": {
+            "Protein": 10.8,
+            "Fat": 12.2,
+            "Carbs": 9.2,
+            "Calories": 189.8
+        }
+    },
+    {
+        "Name": "Ananda italian style plant based sausages 372g",
+        "Nutrients": {
+            "Protein": 28.4,
+            "Fat": 3.4,
+            "Carbs": 8.7,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Market value bbq pack 4 beef burgers 8 beef sausages 1kg",
+        "Nutrients": {
+            "Protein": 16.0,
+            "Fat": 22.2,
+            "Carbs": 4.4,
+            "Calories": 281.4
+        }
+    }
+]

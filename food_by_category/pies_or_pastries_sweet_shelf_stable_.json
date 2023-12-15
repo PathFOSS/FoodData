@@ -1,0 +1,938 @@
+[
+    {
+        "Name": "Kellogg's pop-tarts wild cherry 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.8,
+            "Carbs": 72.7,
+            "Calories": 394.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts frosted strawberry 22oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 73.0,
+            "Calories": 394.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts root beer 3.53oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 72.1,
+            "Calories": 391.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blue raspberry 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.9,
+            "Carbs": 72.6,
+            "Calories": 395.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts maple bacon 14.1oz",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 14.0,
+            "Carbs": 69.4,
+            "Calories": 422.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 3.67oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 69.3,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts wild berry 30.4oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 9.4,
+            "Carbs": 73.2,
+            "Calories": 391.0
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts chocolatey strawberry 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.2,
+            "Carbs": 73.3,
+            "Calories": 384.2
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts orange crush 3.53oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.7,
+            "Carbs": 72.4,
+            "Calories": 392.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts brown sugar cinnamon 14oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 15.3,
+            "Carbs": 67.3,
+            "Calories": 426.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts wild berry 15.2oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 9.4,
+            "Carbs": 73.2,
+            "Calories": 391.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts confetti cake 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 7.9,
+            "Carbs": 73.4,
+            "Calories": 381.9
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts chocolate fudge 3.67oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 9.3,
+            "Carbs": 71.0,
+            "Calories": 387.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted red velvet cupcake 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 9.1,
+            "Carbs": 72.4,
+            "Calories": 388.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 3.67oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts frosted brown sugar cinnamon 1.76oz 80ct",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 14.0,
+            "Carbs": 69.2,
+            "Calories": 420.8
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts grape 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 72.9,
+            "Calories": 394.5
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts pb & j strawberry 10.5oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 9.0,
+            "Carbs": 73.6,
+            "Calories": 393.0
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts chocolate peanut butter 1.76oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 10.0,
+            "Carbs": 72.3,
+            "Calories": 398.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate caramel 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 10.1,
+            "Carbs": 71.5,
+            "Calories": 392.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 14.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.4,
+            "Carbs": 71.3,
+            "Calories": 396.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 56.4oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted watermelon 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 72.5,
+            "Calories": 392.9
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts pink lemonade 21.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.9,
+            "Carbs": 72.4,
+            "Calories": 394.3
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts spring strawberry 22oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 9.7,
+            "Carbs": 72.8,
+            "Calories": 394.5
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts spring strawberry 29.3oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 9.7,
+            "Carbs": 72.8,
+            "Calories": 394.5
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts pink lemonade 28.2oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.9,
+            "Carbs": 72.4,
+            "Calories": 394.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts raspberry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts orange crush 28.2oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.7,
+            "Carbs": 72.4,
+            "Calories": 392.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts root beer 28.2oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 72.1,
+            "Calories": 391.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip cookie dough 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 10.0,
+            "Carbs": 70.7,
+            "Calories": 390.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cinnamon roll 14.1oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 14.3,
+            "Carbs": 68.3,
+            "Calories": 421.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 14.1oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 9.6,
+            "Carbs": 69.7,
+            "Calories": 384.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 14.7oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.7,
+            "Carbs": 71.6,
+            "Calories": 399.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 3.67oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 21oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 22oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 9.1,
+            "Carbs": 71.1,
+            "Calories": 385.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts raspberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 3.67oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 22oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 69.3,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 29.3oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 9.1,
+            "Carbs": 71.1,
+            "Calories": 385.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 29.3oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 69.3,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 28.2oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 29.3oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip cookie dough 28.2oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 10.0,
+            "Carbs": 70.7,
+            "Calories": 390.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 28.2oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 9.6,
+            "Carbs": 69.7,
+            "Calories": 384.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 20.3oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.9,
+            "Carbs": 72.4,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 13.5oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.9,
+            "Carbs": 72.4,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 27.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.9,
+            "Carbs": 72.4,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 3.38oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.9,
+            "Carbs": 72.4,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 28.2oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.4,
+            "Carbs": 71.3,
+            "Calories": 396.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookies 28.2oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 10.7,
+            "Carbs": 70.8,
+            "Calories": 397.5
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts chocolate chip 22oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate peanut butter 10.5oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 10.0,
+            "Carbs": 72.3,
+            "Calories": 398.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 1.76oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts chocolate peanut butter 21.1oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 10.0,
+            "Carbs": 72.3,
+            "Calories": 398.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate vanilla creme 14.1oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 8.9,
+            "Carbs": 72.1,
+            "Calories": 386.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 1.76oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 6.1,
+            "Carbs": 75.6,
+            "Calories": 377.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 3.53oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 6.0,
+            "Carbs": 76.0,
+            "Calories": 377.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 1.76oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 6.0,
+            "Carbs": 76.0,
+            "Calories": 377.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 3.53oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 4.7,
+            "Carbs": 75.3,
+            "Calories": 360.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 1.76oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 4.7,
+            "Carbs": 75.3,
+            "Calories": 360.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 3.53oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 6.1,
+            "Carbs": 75.6,
+            "Calories": 377.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts peanut butter 1.76oz",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 12.4,
+            "Carbs": 68.2,
+            "Calories": 409.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 14.7oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.6,
+            "Carbs": 71.6,
+            "Calories": 398.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 29.3oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.6,
+            "Carbs": 71.6,
+            "Calories": 398.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts peanut butter 10.5oz",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 12.4,
+            "Carbs": 68.2,
+            "Calories": 409.2
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts peanut butter 21.1oz",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 12.4,
+            "Carbs": 68.2,
+            "Calories": 409.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts orange crush 14.1oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.7,
+            "Carbs": 72.4,
+            "Calories": 392.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts root beer 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 9.7,
+            "Carbs": 72.1,
+            "Calories": 391.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 22oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.6,
+            "Carbs": 71.6,
+            "Calories": 398.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 22oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 22oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 21.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.4,
+            "Carbs": 71.3,
+            "Calories": 396.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 14oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 14.7oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 69.3,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 14.7oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 9.1,
+            "Carbs": 71.1,
+            "Calories": 385.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookies 21.2oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 10.7,
+            "Carbs": 70.8,
+            "Calories": 397.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 3.67oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 3.52oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 13.7,
+            "Carbs": 69.2,
+            "Calories": 417.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 29.3oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 9.7,
+            "Carbs": 72.8,
+            "Calories": 394.5
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts frosted strawberry slurpee 3.67oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.5,
+            "Carbs": 72.9,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 58.6oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 21.1oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 9.6,
+            "Carbs": 69.7,
+            "Calories": 384.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 14.7oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts caramel apple 21.1oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 10.7,
+            "Carbs": 71.8,
+            "Calories": 398.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts caramel apple 28.2oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 10.7,
+            "Carbs": 71.8,
+            "Calories": 398.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry slurpee 3.67oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.6,
+            "Carbs": 72.8,
+            "Calories": 392.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 22oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 1.83oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.4,
+            "Carbs": 73.1,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain blueberry 1.76oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain blueberry 3.53oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate mocha 14.1oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 9.3,
+            "Carbs": 70.7,
+            "Calories": 386.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts vanilla latte 14.1oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.8,
+            "Carbs": 70.2,
+            "Calories": 394.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts wild berry 14.1oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.5,
+            "Carbs": 72.9,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts vanilla milkshake 28.2oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.1,
+            "Carbs": 71.4,
+            "Calories": 400.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry milkshake 14.1oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.3,
+            "Carbs": 71.2,
+            "Calories": 401.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry milkshake 28.2oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.3,
+            "Carbs": 71.2,
+            "Calories": 401.3
+        }
+    },
+    {
+        "Name": "Kellogg pop-tarts pumpkin pie 3.53oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.4,
+            "Carbs": 71.3,
+            "Calories": 396.4
+        }
+    }
+]

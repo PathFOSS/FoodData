@@ -1,0 +1,5312 @@
+[
+    {
+        "Name": "100% natural coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Watermelon cold pressured juiced watermelon water blend, watermelon",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "100% coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "100% natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Pineapple coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Original refreshing coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Refreshing coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 5.8,
+            "Calories": 25.0
+        }
+    },
+    {
+        "Name": "Refreshing coconut water with lime, lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Barley water drink, orange",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.2,
+            "Calories": 88.8
+        }
+    },
+    {
+        "Name": "Organic water maple syrup lemon fruit juice drink, maple syrup lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Organic aloe water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Refreshing coconut water with cinnamon, cinnamon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Original lychee & white grape prebiotic aloe water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 56.2,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Watermelon whim fruit juice drink, watermelon whim",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Coconut water, hawaiian coffeeberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Appleberry apple & raspberry probiotic aloe water, appleberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 56.2,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Mango flavored coconut water, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Watermelon sparkling coconut water, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Natural pure coconut water, natural",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water 100% pulp free juice, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Unsweetened coconut water, unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut water with aloe vera, aloe vera",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.7,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Strawberry cold pressured juiced watermelon + water + strawberry + lemon blnd , strawberry",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Organic pineapple coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Mango organic coconut water, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Original aloe vera drink, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.0,
+            "Calories": 36.0
+        }
+    },
+    {
+        "Name": "Organic pure coconut water, coconut",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.1,
+            "Carbs": 3.2,
+            "Calories": 15.3
+        }
+    },
+    {
+        "Name": "Organic sparkling lemon pure water, organic sparkling lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Mango sparkling coconut water, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Chocolate flavored coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Pineapple flavored coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Original coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Yerba mate lemon natural energy maple tree water, yerba mate lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.1,
+            "Calories": 12.4
+        }
+    },
+    {
+        "Name": "Coco-refresh crisp coconut flavored coconut water beverages, crisp coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Coconut water with pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 22.8
+        }
+    },
+    {
+        "Name": "Coconut water with mango, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 10.4,
+            "Calories": 43.4
+        }
+    },
+    {
+        "Name": "Sparkling tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Orange mango sparkling maple water, orange mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Cherry cold pressured juiced watermelon + water + tart cherry + lemon blnd juice, cherry",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.0,
+            "Carbs": 6.5,
+            "Calories": 28.4
+        }
+    },
+    {
+        "Name": "Blood orange juiced watermelon, blood orange",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Strawberry flavored pure premium aloe drink, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.4,
+            "Calories": 41.6
+        }
+    },
+    {
+        "Name": "Lychee flavored pure premium aloe drink, lychee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.6,
+            "Calories": 38.4
+        }
+    },
+    {
+        "Name": "Cryptokiwi kiwi & cucumber prebiotic aloe water, cryptokiwi",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 56.2,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Organic prickly pear water with starfruit & green tea, starfruit & green tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.7,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Coconut water & strawberry rose juice beverage, coconut water & strawberry rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Coconut water & watermelon juice beverage, coconut water & watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Cactus water + pineapple from organic concentrate, cactus water + pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Chocolate flavored coconut water beverage with protein, chocolate",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 5.0,
+            "Calories": 45.3
+        }
+    },
+    {
+        "Name": "Cocool, coconut water",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.1,
+            "Carbs": 17.5,
+            "Calories": 75.7
+        }
+    },
+    {
+        "Name": "Real coconut water with aloe vera",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.9,
+            "Calories": 19.6
+        }
+    },
+    {
+        "Name": "Taste nirvana, coco motion, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Organic aloe water drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 12.0
+        }
+    },
+    {
+        "Name": "Foco, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Goya, coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 8.3,
+            "Calories": 35.0
+        }
+    },
+    {
+        "Name": "Coconut water with coffee latte",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 0.8,
+            "Carbs": 6.7,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Waterhill naturals, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.7,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Harris teeter, fresh foods market, green tea with coconut water and vitamins",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Iberia, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.6,
+            "Calories": 30.4
+        }
+    },
+    {
+        "Name": "Coco 4 usa, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Coco4usa, 100% coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 22.8
+        }
+    },
+    {
+        "Name": "Coco libre, organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 16.0
+        }
+    },
+    {
+        "Name": "Zico, 100% premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Victoria's kitchen, almond water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Organic sparkling spring water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "12 cream party",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 4.0,
+            "Carbs": 5.3,
+            "Calories": 57.2
+        }
+    },
+    {
+        "Name": "Antioxidant beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "7 select, go smart coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Waiola, coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.8,
+            "Carbs": 7.2,
+            "Calories": 57.2
+        }
+    },
+    {
+        "Name": "Natural energizer coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Minoku, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Harmless coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.6,
+            "Calories": 26.4
+        }
+    },
+    {
+        "Name": "Invo, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 21.2
+        }
+    },
+    {
+        "Name": "Zico, premium coconut water beverage, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.4,
+            "Carbs": 5.4,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Rex, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.4,
+            "Carbs": 7.5,
+            "Calories": 33.6
+        }
+    },
+    {
+        "Name": "Coco libre, organic sparkling coconut water from concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.7,
+            "Calories": 6.8
+        }
+    },
+    {
+        "Name": "Nature's delite, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 6.8,
+            "Calories": 29.0
+        }
+    },
+    {
+        "Name": "Yaco, coconut water",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 0.8,
+            "Carbs": 6.7,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Ufc, refresh coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Mojo naturals, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Pure coconut water",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Full circle, coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 4.8,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Real coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.0,
+            "Calories": 24.0
+        }
+    },
+    {
+        "Name": "100% pure coconut water with pure guava",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "7 - select, go! smart coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Maui & sons, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 22.8
+        }
+    },
+    {
+        "Name": "Yaco, coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.3,
+            "Carbs": 7.3,
+            "Calories": 34.3
+        }
+    },
+    {
+        "Name": "Victoria's kitchen, almond water beverage, vanilla & rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Spring2o, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Pure coconut water with coconut pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Real coconut water with matcha green tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.9,
+            "Calories": 19.6
+        }
+    },
+    {
+        "Name": "Coconut water with lychee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Coco4usa, coconut water with mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.0,
+            "Calories": 24.0
+        }
+    },
+    {
+        "Name": "Pueblo lindo, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Pure coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 4.8,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Grace, aloe vera drink, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.2,
+            "Calories": 36.8
+        }
+    },
+    {
+        "Name": "Blue monkey, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.5,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Foco, coconut water with chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.3,
+            "Carbs": 7.3,
+            "Calories": 34.3
+        }
+    },
+    {
+        "Name": "Conchita, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Organic coconut water from concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Pure premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.8,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Alor, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Thirsty buddha, natural coconut water with aloe water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Harmless harvest, 100% raw coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.0,
+            "Calories": 24.0
+        }
+    },
+    {
+        "Name": "100% organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "100% pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Caribbean paradise, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 9.2,
+            "Calories": 38.6
+        }
+    },
+    {
+        "Name": "Chaokoh, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Ero grove, organic premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Better sweet, maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.7,
+            "Calories": 10.8
+        }
+    },
+    {
+        "Name": "Neli & beidi's, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.3,
+            "Calories": 29.2
+        }
+    },
+    {
+        "Name": "Neli & beidi's, coconut water, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.5,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Aloe vera natural vitamin c drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 20.4
+        }
+    },
+    {
+        "Name": "Vita coco, pure coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.9,
+            "Carbs": 4.8,
+            "Calories": 29.7
+        }
+    },
+    {
+        "Name": "Oka, coco, aqua de coco, original",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.0,
+            "Carbs": 9.8,
+            "Calories": 39.6
+        }
+    },
+    {
+        "Name": "Pure plus, aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Coco joy, natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Marvel, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Harmless harvest, 100% raw coconut water, cinnamon & clove",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Harmless harvest, 100% raw coconut water, dark cacao",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Organic raw maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 12.0
+        }
+    },
+    {
+        "Name": "Clearly z, water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Samu, thai coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Jax coco, 100% pure coconut water with banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Sport drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.4,
+            "Calories": 29.6
+        }
+    },
+    {
+        "Name": "Clearly z, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Clearly z, natural coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Sri lanka gold, premium king coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Sparkling water beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Wellsley farms, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Organic pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Original all natural 100% coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Purity organic, organic coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Vita coco, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.5,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Oka coco, coconut water, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.2,
+            "Calories": 40.8
+        }
+    },
+    {
+        "Name": "Byarozavik, birch water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Sapp, organic birch tree water, nettle",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.0,
+            "Calories": 4.0
+        }
+    },
+    {
+        "Name": "Coco joy, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Osprey organics, organic maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Pure maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.0,
+            "Calories": 8.0
+        }
+    },
+    {
+        "Name": "Paradise cove, coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.8,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Acapulcoco, coconut water",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.5,
+            "Carbs": 4.0,
+            "Calories": 21.7
+        }
+    },
+    {
+        "Name": "Salutti, original yogurt aloe drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 12.1,
+            "Calories": 48.4
+        }
+    },
+    {
+        "Name": "Victoria's kitchen, almond water beverage, original, vanilla & rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Aloe vera drink with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Cactus water prickly pear superfruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Pure 100% organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.1,
+            "Calories": 24.4
+        }
+    },
+    {
+        "Name": "Viloe, coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Clearly z, coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Sri lanka gold, pure premium king coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Drink maple, pure maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.0,
+            "Calories": 8.0
+        }
+    },
+    {
+        "Name": "Neli & beidi's, premium quality coconut water, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Neli & beidi's, coconut water, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Vita coco kids, coconut water, gabi's pink lemonade",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Jax coco, kidz coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.0,
+            "Carbs": 10.0,
+            "Calories": 49.0
+        }
+    },
+    {
+        "Name": "Organic aloe water beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "Bedessee, fruit of life, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.1,
+            "Calories": 52.4
+        }
+    },
+    {
+        "Name": "The fresh market, organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Aloe cure, water with pure leaf, wild berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Zico, premium organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.5,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Zico, natural 100% organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Invo, coconut water, sencha green tea",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 3.4,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Healeo, coconut water cold pressed juice",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 6.1,
+            "Calories": 25.6
+        }
+    },
+    {
+        "Name": "Coco libre, coconut water, lemon ginger",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.7,
+            "Calories": 6.8
+        }
+    },
+    {
+        "Name": "Happy tree, cold brew maple water, coffee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Modern alkeme, clearing tonic, coconut water, lemon matcha & ghost pepper",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Smith & salmon, maple seltzer",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.1,
+            "Calories": 12.4
+        }
+    },
+    {
+        "Name": "Cadia, coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Taste nirvana, real coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Foco, coconut water, 100%pure",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Foco, 100% pure coconut water with mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Rosati ice, coconut water italian ice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 12.7,
+            "Calories": 50.8
+        }
+    },
+    {
+        "Name": "Guiltless gourmet, organic unsweetened coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Coconut water with chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.3,
+            "Carbs": 7.3,
+            "Calories": 34.3
+        }
+    },
+    {
+        "Name": "Coconut water with pomegranate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "C2o, pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "C2o, pure coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Happy tree, maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "100% pure original coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Columbia gorge organic, farm to bottle, organic fruit & vegetable juice blend, coconut water, celery kale",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Organic mulberry juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.7,
+            "Calories": 38.8
+        }
+    },
+    {
+        "Name": "Hydration+performance coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Pineapple coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.0,
+            "Calories": 32.0
+        }
+    },
+    {
+        "Name": "Full circle, coconut water with pineapple juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Cactus water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.7,
+            "Calories": 10.8
+        }
+    },
+    {
+        "Name": "Wild prickly pear cactus water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Wild prickly pear",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.9,
+            "Calories": 3.6
+        }
+    },
+    {
+        "Name": "Coconut water with a pomegranate twist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut water with a lychee twist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut water with a mango twist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut water with a guava twist",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Roasted coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 9.6,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Zico, premium coconut water, watermelon raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Taste nirvana, coconut water, thai chili",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 21.2
+        }
+    },
+    {
+        "Name": "Thirsty buddha, all natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 4.2,
+            "Calories": 18.6
+        }
+    },
+    {
+        "Name": "Zico, natural pure premium coconut water from concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.9,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "Naked, organic pure coconut water",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Non-dairy coconut beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.9,
+            "Carbs": 0.8,
+            "Calories": 20.3
+        }
+    },
+    {
+        "Name": "Trader joe's, maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Zico, chilled juice blend, pineapple, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Zico, premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.3,
+            "Calories": 17.2
+        }
+    },
+    {
+        "Name": "Zico, coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.4,
+            "Carbs": 5.6,
+            "Calories": 26.0
+        }
+    },
+    {
+        "Name": "Pulp real coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.3,
+            "Carbs": 4.7,
+            "Calories": 21.5
+        }
+    },
+    {
+        "Name": "Refreshing coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Barley water drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.2,
+            "Calories": 88.8
+        }
+    },
+    {
+        "Name": "Badia, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Invo, coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 7.0,
+            "Calories": 29.2
+        }
+    },
+    {
+        "Name": "Cocozia, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Cocozia, coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.2,
+            "Carbs": 5.4,
+            "Calories": 25.0
+        }
+    },
+    {
+        "Name": "Hydrate coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coco fresh, 100% natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Faraon, aloe",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.2,
+            "Calories": 44.8
+        }
+    },
+    {
+        "Name": "Vertical, maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.2,
+            "Calories": 4.8
+        }
+    },
+    {
+        "Name": "Harmless harvest, harmless coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.4,
+            "Calories": 25.6
+        }
+    },
+    {
+        "Name": "Aloe gloe, organic aloe water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.9,
+            "Calories": 11.6
+        }
+    },
+    {
+        "Name": "365 everyday value, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Zico, 100% natural premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Taste nirvana, natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 21.2
+        }
+    },
+    {
+        "Name": "Vincent family cranberries, cranberry lime coconut water, lime coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Naked, pineapple coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut non-dairy beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.7,
+            "Carbs": 2.1,
+            "Calories": 23.7
+        }
+    },
+    {
+        "Name": "Refreshing coconut water with cinnamon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Amy & brian, refreshing coconut water with grape",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Almond water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "T.a.s., coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Fremo, aloe vera drink, coconut flavor",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Fremo, aloe vera drink, guava flavor",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 12.5,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Trader joe's, organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Trader joe's, coconut water with aloe vera juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Almond beverage",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 1.2,
+            "Carbs": 0.8,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "Amazonia, coconut water + white tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Amazonia, coconut water + green tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Amazonia, coconut water + peach tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Parrot, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.9,
+            "Calories": 31.6
+        }
+    },
+    {
+        "Name": "Pure coconut water chocolate",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.8,
+            "Carbs": 4.6,
+            "Calories": 27.2
+        }
+    },
+    {
+        "Name": "Pure coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Vita coco, pure coconut water, lemonade",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 7.1,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Grace, 100% pure coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Gonzaley, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Asahi, soft drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Zico, coconut water beverage, chocolate flavored",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 5.8,
+            "Calories": 28.6
+        }
+    },
+    {
+        "Name": "Zico, natural 100% coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Cocoade, pure premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut beach, 100% coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 22.8
+        }
+    },
+    {
+        "Name": "Zico, coconut water, watermelon raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Zico, coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.4,
+            "Calories": 13.6
+        }
+    },
+    {
+        "Name": "Coconut water tropical passion",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Coco 5, all natural, coconut water, citrus splash",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Coco 5, all natural coconut water drink, pineapple",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Coco 5, natural coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Natural pure premium coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Cadia, all natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Sun & dragon brand, coconut water",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "El maxicano, coco coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 7.7,
+            "Calories": 32.6
+        }
+    },
+    {
+        "Name": "Evolution fresh, coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Coco 5, hydration performance drink",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "The pepper bottle coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "100% organic pure maple water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.2,
+            "Calories": 8.8
+        }
+    },
+    {
+        "Name": "Chilled coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Bioactive aloe water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Organic aloe h2o water beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "100% coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Coconut water with ginger, lime, & turmeric",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Natural coconut water with aloe vera",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.7,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Organic tropical coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Real natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Pure coconut water with tropical fruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Pure organic coconut water from concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Safeway, refreshe, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Samui, pure coconut water with lychee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.7,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Amazonia, 100% young green coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Original coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Organic aloe+coconut water beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Sparkling coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water with espresso",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 6.2,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Coconut water with mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "100% organic coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Real coconut water with pulp bits",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water with pulp bits",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Original non-dairy beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 0.4,
+            "Calories": 17.8
+        }
+    },
+    {
+        "Name": "Protein coconut water",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 0.3,
+            "Carbs": 6.1,
+            "Calories": 51.5
+        }
+    },
+    {
+        "Name": "Viloe, coconut aloe",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Pineapple coconut organic hydrating energy drink with sparkling coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Buddha",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Organic 100% pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "100% pure coconut water with pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Mondo, squeezers drink, watermelon wipeout",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Electrolyte drink coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Electrolyte infusions, mango clementine",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Organic electrolyte infusions",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Tapt. infused tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Refresh electrolyte charged coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.9,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "Tapt.",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Infused tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Natural pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Raspberry infused tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Peach infused tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "100% pure watermelon water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.5,
+            "Calories": 34.0
+        }
+    },
+    {
+        "Name": "Watermelon water electrolyte beverage",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.3,
+            "Calories": 5.2
+        }
+    },
+    {
+        "Name": "Organic 100% coconut water",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Natural sparkling coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Raspberry natural sparkling coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Carbonated coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 20.4
+        }
+    },
+    {
+        "Name": "Coconut water with jamarind, jamarind",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Mango organic electrolyte drink, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.4,
+            "Calories": 5.6
+        }
+    },
+    {
+        "Name": "100% pure coconut water tropical hydration",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Go! smart coconut water with pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "All natural, 100% pure original coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Organic harmless coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Organic aloe water beverage, peach-mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "Coconut water with ginger, lime, & turmeric, ginger, lime, & turmeric",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "O.n.e., pure coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "O.n.e., coconut water with tea, tropical colada, tropical colada",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.0,
+            "Calories": 32.0
+        }
+    },
+    {
+        "Name": "Coco mango sparkling coconut water, coco mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Healthmarket, natural coconut water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Infused tree water, grapefruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Infused tree water, citrus",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Coco watermelon sparkling coconut water, coco watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Original hard coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "Chocolate mint organic electro lyte drink, chocolate mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.4,
+            "Calories": 5.6
+        }
+    },
+    {
+        "Name": "Berry blast sparkling coconut water, berry blast",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Grapefruit fizz sparkling coconut water, grapefruit fizz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Cherry bang sparkling coconut water, cherry bang",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Coconut water with lemon & lime, lemon & lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Citrus zing sparkling coconut water, citrus zing",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Coconut water with matcha, matcha",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Organic fruit & birch water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Coconut water with pineapple juice, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Organic fruit & birch water, coconut pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Organic fruit & birch water, peach mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Maple water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Bioactive aloe water, peachberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 56.2,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Sparkling coconut water with mango, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Sparkling coconut water with watermelon, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut lime sparkling coconut water, coconut lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 12.0
+        }
+    },
+    {
+        "Name": "Sparkling coconut water with pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Sparkling coconut water with lemon, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Maple water, mapple, raspberry lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Flavored juice beverage, pineapple with coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Coffee coconut water",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Coconut water with aloe vera juice, aloe vera",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water hydration pack",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Classic organic coconut water, classic",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Blackberry lemon sparkling maple water, blackberry lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Coconut drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.5,
+            "Carbs": 2.1,
+            "Calories": 21.9
+        }
+    },
+    {
+        "Name": "Tropical hydration with pineapple pure coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Blueberry sparkling tree water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.6,
+            "Calories": 2.4
+        }
+    },
+    {
+        "Name": "Coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.8,
+            "Carbs": 7.2,
+            "Calories": 57.2
+        }
+    },
+    {
+        "Name": "Watermelon cold pressured juiced water blend",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Cold pressured juiced watermelon water blend",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Watermelon cold pressured juiced watermelon water blend",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.1,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Original refreshing coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Refreshing coconut water with lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Strawberry cold pressured juiced watermelon + water + strawberry + lemon blnd",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "No sugar added organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Mango organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Coconut water, lightly sweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.8,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Blueberry sparkling tree water, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.6,
+            "Calories": 2.4
+        }
+    },
+    {
+        "Name": "Hydration+performance coconut water, cherry crush",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Aloe vera drink, coconut flavor, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Aloe vera drink, guava flavor, guava",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 12.5,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "All natural, coconut water, citrus splash, citrus splash",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "All natural coconut water drink, pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Coco coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 7.7,
+            "Calories": 32.6
+        }
+    },
+    {
+        "Name": "Hydration performance drink",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 3.4,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Coconut aloe",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Coconut water, jalapeno mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Organic fruit & birch water, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Blueberry lemon fruit enhanced coconut water, blueberry lemon",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Strawberry watermelon fruit enhanced coconut water, strawberry watermelon",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Organic king coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Organic coconut water with real cinnamon, cinnamon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Organic coconut water with real passion fruit, real passion fruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.6,
+            "Calories": 34.4
+        }
+    },
+    {
+        "Name": "Strawberry pure premium aloe drink, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.4,
+            "Calories": 41.6
+        }
+    },
+    {
+        "Name": "Natural lychee flavored aloe drink, lychee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.6,
+            "Calories": 38.4
+        }
+    },
+    {
+        "Name": "Pure premium aloe drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.0,
+            "Calories": 36.0
+        }
+    },
+    {
+        "Name": "Pomegranate flavored drink, pomegranate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Coconut water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Coconut water and pulp with cocoa, cocoa",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.3,
+            "Carbs": 5.7,
+            "Calories": 36.9
+        }
+    },
+    {
+        "Name": "Coconut water and pulp with pineapple juice, pineapple",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.0,
+            "Carbs": 6.9,
+            "Calories": 39.0
+        }
+    },
+    {
+        "Name": "Coconut water and pulp with cold brew coffee beverage",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.0,
+            "Carbs": 4.6,
+            "Calories": 29.8
+        }
+    },
+    {
+        "Name": "Original coconut water and pulp, original",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.1,
+            "Carbs": 5.4,
+            "Calories": 33.9
+        }
+    },
+    {
+        "Name": "Organic coconut water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.5,
+            "Calories": 26.0
+        }
+    },
+    {
+        "Name": "Strawberry rose coconut water & juice beverage, strawberry rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Coconut water& watermelon juice beverage, coconut water & watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Pressed coconut water juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 4.6,
+            "Calories": 23.8
+        }
+    },
+    {
+        "Name": "Organic aloe water drink, orange + apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 12.0
+        }
+    },
+    {
+        "Name": "Green tea with coconut water and vitamins, green with coconut water and vitamins",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Victoria's kitchen, almond water, coconut, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Organic sparkling spring water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Yaco, coconut water, coffee latte",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 0.8,
+            "Carbs": 6.7,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Coconut water, tropical punch",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Foco, coconut water, pomegranate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.2,
+            "Calories": 20.8
+        }
+    },
+    {
+        "Name": "Yaco, coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.3,
+            "Carbs": 7.3,
+            "Calories": 34.3
+        }
+    },
+    {
+        "Name": "Foco, coconut water with chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.3,
+            "Carbs": 7.3,
+            "Calories": 34.3
+        }
+    },
+    {
+        "Name": "100% pure coconut water, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Maple water, maple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.7,
+            "Calories": 10.8
+        }
+    },
+    {
+        "Name": "Neli & beidi's, coconut water, watermelon, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.5,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Vita coco, pure coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.9,
+            "Carbs": 4.8,
+            "Calories": 29.7
+        }
+    },
+    {
+        "Name": "Jax coco, 100% pure coconut water with banana, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Clearly z, natural coconut water, pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Sri lanka gold, premium king coconut water, original, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Sparkling water beverage, coconut lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Original all natural 100% coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Purity organic, organic coconut water, pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Oka coco, coconut water, watermelon, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.2,
+            "Calories": 40.8
+        }
+    },
+    {
+        "Name": "Victoria's kitchen, almond water beverage, original, vanilla & rose, original, vanilla & rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.3,
+            "Calories": 25.2
+        }
+    },
+    {
+        "Name": "Aloe vera drink with pulp, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Prickly pear superfruit cactus water, prickly pear superfruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Clearly z, coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Neli & beidi's, premium quality coconut water, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Neli & beidi's, coconut water, banana, banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Vita coco kids, coconut water, gabi's pink lemonade, gabi's pink lemonade",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Jax coco, kidz coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.0,
+            "Carbs": 10.0,
+            "Calories": 49.0
+        }
+    },
+    {
+        "Name": "Pressed coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 4.6,
+            "Calories": 23.8
+        }
+    },
+    {
+        "Name": "Pineapple organic coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Organic aloe water beverage, cucumber",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "Coconut water with sugar, sugar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.1,
+            "Carbs": 8.4,
+            "Calories": 34.5
+        }
+    },
+    {
+        "Name": "Pineapple 100% pure coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Original pure coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Vincent family cranberries, cranberry lime coconut water, lime coconut ",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Pure organic coconut water from concentrate ",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Orange pineapple flavored coconut water beverage, orange pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.2,
+            "Calories": 4.8
+        }
+    },
+    {
+        "Name": "Peach mango flavored coconut water beverage, peach mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.2,
+            "Calories": 4.8
+        }
+    },
+    {
+        "Name": "Watermelon lemonade flavored coconut water beverage, watermelon lemonade",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.2,
+            "Calories": 4.8
+        }
+    },
+    {
+        "Name": "Organic aloe water beverage, coconut-lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "The original coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Organic coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Organic coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.5,
+            "Calories": 18.0
+        }
+    },
+    {
+        "Name": "Coconut water 100% pure",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Pineapple sparkling coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Grapefruit sparkling coconut water, grapefruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Original coconut water with pulp, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Watermelon organic coconut water, watermelon",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Unsweetened coconut milk, unsweetened",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 16.2,
+            "Carbs": 2.5,
+            "Calories": 160.6
+        }
+    },
+    {
+        "Name": "Coconut water with real coconut pieces",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 8.7,
+            "Calories": 36.6
+        }
+    },
+    {
+        "Name": "Chai flavored coconut water and mct, chai",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 1.8,
+            "Carbs": 2.2,
+            "Calories": 25.8
+        }
+    },
+    {
+        "Name": "Coconut chocolate flavored coconut water, coconut chocolate",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 1.8,
+            "Carbs": 2.2,
+            "Calories": 25.8
+        }
+    },
+    {
+        "Name": "100% pure young coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Coconut water +tangerine juice from concentrate, coconut water +tangerine",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 0.0,
+            "Carbs": 7.6,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Passion fruit 100% pure coconut water, passion fruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "100% pure young coconut water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Coconut water + passion fruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Wild berry water with pure leaf, wild berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Invo, coconut water, sencha green tea, sencha green tea",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 3.4,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Coco libre, coconut water, lemon ginger, lemon ginger",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.7,
+            "Calories": 6.8
+        }
+    },
+    {
+        "Name": "Coconut water, tropical",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 7.0,
+            "Calories": 29.2
+        }
+    },
+    {
+        "Name": "Water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.0,
+            "Calories": 32.0
+        }
+    },
+    {
+        "Name": "Invo, coconut water with pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 7.0,
+            "Calories": 29.2
+        }
+    },
+    {
+        "Name": "Cocozia, coconut water, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.2,
+            "Carbs": 5.4,
+            "Calories": 25.0
+        }
+    },
+    {
+        "Name": "Coco fresh, 100% natural coconut water, coco fresh, 100% natural coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Original fortified unsweetened almond beverage, original",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 1.4,
+            "Carbs": 0.8,
+            "Calories": 17.4
+        }
+    },
+    {
+        "Name": "Coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "White grape organic aloe water, white grape",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Almond water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.9,
+            "Calories": 23.6
+        }
+    },
+    {
+        "Name": "Almond beverage, unsweetened vanilla",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 1.2,
+            "Carbs": 0.8,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "Amazonia, coconut water + white tea, white tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Amazonia, coconut water + peach tea, peach tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Peach-mango flavored organic aloe water beverage, peach-mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "The pepper bottle coconut water, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water, pomegranate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Almond water, original with vanilla & rose",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.7,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Aloe vera drink, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "Coconut flavored coconut sparkling water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Coconut water, espresso",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water, thai lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 21.6
+        }
+    },
+    {
+        "Name": "100% organic coconut water with pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Protein coconut water, chocolate",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 0.3,
+            "Carbs": 6.1,
+            "Calories": 51.5
+        }
+    },
+    {
+        "Name": "Pineapple coconut organic hydrating energy drink with sparkling coconut water, pineapple coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Aloe vera drink, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "100% organic coconut water, pressed ginger & lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Organic electrolyte infusions, pineapple mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Organic coconut water, pineapple mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Natural sparkling coconut water, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Raspberry natural sparkling coconut water, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Coconut water with tamarind, tamarind",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Coconut water and pulp with pineapple juice, pineapple juice",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.0,
+            "Carbs": 6.9,
+            "Calories": 39.0
+        }
+    },
+    {
+        "Name": "Coconut water and pulp with cold brew coffee, cold brew coffee",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 1.0,
+            "Carbs": 4.6,
+            "Calories": 29.8
+        }
+    },
+    {
+        "Name": "The original pressed coconut water, the original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 4.6,
+            "Calories": 23.8
+        }
+    },
+    {
+        "Name": "Lime sparkling coconut water, lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.9,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "100% pure coconut water powder",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 86.7,
+            "Calories": 346.8
+        }
+    },
+    {
+        "Name": "Strawberry banana pressed coconut water, strawberry banana",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 4.6,
+            "Calories": 23.8
+        }
+    },
+    {
+        "Name": "Coconut + phytocannabinoids balancing beverage, orange mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 12.0
+        }
+    },
+    {
+        "Name": "Roasted coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Hpp cold pressed coconut water, real",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.4,
+            "Calories": 25.6
+        }
+    },
+    {
+        "Name": "Hpp cold pressed coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.4,
+            "Calories": 25.6
+        }
+    },
+    {
+        "Name": "The original pressed coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 4.6,
+            "Calories": 23.8
+        }
+    },
+    {
+        "Name": "Pure organic coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 22.0
+        }
+    },
+    {
+        "Name": "Coconut water with real coconut bits",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.7,
+            "Calories": 30.8
+        }
+    },
+    {
+        "Name": "Protein coconut water, vanilla",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 0.8,
+            "Carbs": 4.8,
+            "Calories": 50.8
+        }
+    },
+    {
+        "Name": "Protein coconut water, coffee",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 48.0
+        }
+    },
+    {
+        "Name": "Ella's kitchen, coconut water electrolyte drink, pears, berries, pears, berries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Happy tree, cold brew maple water, coffee, coffee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Modern alkeme, clearing tonic, coconut water, lemon matcha & ghost pepper, coconut water, lemon matcha & ghost pepper",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.8,
+            "Calories": 15.2
+        }
+    },
+    {
+        "Name": "Foco, 100% pure coconut water with mango, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Coconut water, orange, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.4,
+            "Calories": 17.6
+        }
+    },
+    {
+        "Name": "Happy tree, maple water, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.5,
+            "Calories": 10.0
+        }
+    },
+    {
+        "Name": "Organic coconut water, dark chocolate",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Columbia gorge organic, farm to bottle, organic fruit & vegetable juice blend, coconut water, celery kale, coconut water, celery kale",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Organic coconut water, iced coffee",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 3.0,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Pure coconut water, lemonade",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 7.0,
+            "Calories": 29.2
+        }
+    },
+    {
+        "Name": "Full circle, coconut water with pineapple juice, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Cactus water, wild prickly pear",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.7,
+            "Calories": 10.8
+        }
+    },
+    {
+        "Name": "Wild prickly pear, cactus + berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.9,
+            "Calories": 3.6
+        }
+    },
+    {
+        "Name": "Zico, premium coconut water, watermelon raspberry, watermelon raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Zico, chilled juice blend, pineapple, mango, pineapple, mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "Amy & brian, refreshing coconut water with grape, grape",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.4,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Vita coco, pure coconut water, lemonade, lemonade",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 7.1,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Pure coconut water, peach & mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Zico, coconut water beverage, chocolate flavored, chocolate flavored",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 5.8,
+            "Calories": 28.6
+        }
+    },
+    {
+        "Name": "Zico, coconut water, watermelon raspberry, watermelon raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.6,
+            "Calories": 14.4
+        }
+    },
+    {
+        "Name": "Evolution fresh, coconut water, pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Coconut water, lemonade",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 7.1,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Chilled coconut water, grapefruit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Organic aloe h2o water beverage, blueberry-pomegranate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.8,
+            "Calories": 11.2
+        }
+    },
+    {
+        "Name": "Bioactive aloe water, pineapple & mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Coconut water, mango peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Organic aloe+coconut water beverage, watermelon-strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Original non-dairy beverage, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 0.4,
+            "Calories": 17.8
+        }
+    },
+    {
+        "Name": "Coconut water, twist of lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Coffee coconut water, coffee",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Cactus water + pineapple juice from organic concentrate, cactus water + pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.1,
+            "Calories": 8.4
+        }
+    },
+    {
+        "Name": "Original unsweetened sparkling probiotic coconut water double shot, original unsweetened",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.7,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Original 100% pure coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.2,
+            "Calories": 16.8
+        }
+    },
+    {
+        "Name": "Original 100% coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 21.2
+        }
+    },
+    {
+        "Name": "Coconut water with sugar and pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.1,
+            "Carbs": 8.4,
+            "Calories": 34.5
+        }
+    },
+    {
+        "Name": "Coconut water with pulp and chili lime, pulp and chili lime",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 8.6,
+            "Calories": 35.6
+        }
+    },
+    {
+        "Name": "Coconut water organic 100% pulp free juice, coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Pineapple with coconut water flavored juice beverage, pineapple with coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Coconut water with pineapple juice, pineapple juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.5,
+            "Calories": 26.0
+        }
+    },
+    {
+        "Name": "Pinamint pineapple & mint prebiotic aloe water, pinamint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.9,
+            "Calories": 7.6
+        }
+    },
+    {
+        "Name": "Organic prickly pear water with green tea, green tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.7,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Original maple water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 2.4,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "The original coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.6,
+            "Calories": 18.4
+        }
+    },
+    {
+        "Name": "Vanilla latte flavored coconut water and mct, vanilla latte",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 1.8,
+            "Carbs": 2.2,
+            "Calories": 25.8
+        }
+    },
+    {
+        "Name": "Cucumber watermelon electrolyte infusions beverage, cucumber watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.7,
+            "Calories": 6.8
+        }
+    },
+    {
+        "Name": "Lime flavored low calorie organic cactus water, lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Watermelon organic cactus water, watermelon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 1.7,
+            "Calories": 6.8
+        }
+    },
+    {
+        "Name": "Organic prickly pear water with cucumber & green tea, cucumber & green tea",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.7,
+            "Calories": 14.8
+        }
+    },
+    {
+        "Name": "Coconut organic sparkling spring water, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Coconut water with pulp, pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.3,
+            "Carbs": 4.6,
+            "Calories": 21.1
+        }
+    },
+    {
+        "Name": "Coconut water + tangerine juice, tangerine",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 0.0,
+            "Carbs": 7.6,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Cocount water with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.7,
+            "Calories": 38.8
+        }
+    },
+    {
+        "Name": "Coconut water with sugar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.1,
+            "Carbs": 8.4,
+            "Calories": 34.5
+        }
+    },
+    {
+        "Name": "Organic coconut water beverage with pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 5.8,
+            "Calories": 25.0
+        }
+    },
+    {
+        "Name": "Original sparkling coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.2,
+            "Calories": 24.8
+        }
+    },
+    {
+        "Name": "Coconut water with added ingredients with pulp, coconut",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.7,
+            "Carbs": 8.8,
+            "Calories": 42.7
+        }
+    },
+    {
+        "Name": "Green tea with coconut water and vitamins, coconut water and vitamins",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 33.2
+        }
+    },
+    {
+        "Name": "Original nutritious hydration coconut water, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.1,
+            "Calories": 24.4
+        }
+    },
+    {
+        "Name": "Pineapple infused nutritious hydration coconut water, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 6.1,
+            "Calories": 24.4
+        }
+    },
+    {
+        "Name": "Pulp free coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 4.8,
+            "Calories": 19.2
+        }
+    },
+    {
+        "Name": "Coconut water with pulp, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.8,
+            "Calories": 43.2
+        }
+    },
+    {
+        "Name": "Organic aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.6,
+            "Calories": 22.4
+        }
+    },
+    {
+        "Name": "100% pure with mango coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.0,
+            "Calories": 20.0
+        }
+    },
+    {
+        "Name": "Original flavor aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.2,
+            "Calories": 36.8
+        }
+    },
+    {
+        "Name": "Mango flavor aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.6,
+            "Calories": 38.4
+        }
+    },
+    {
+        "Name": "Coconut flavor aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.2,
+            "Calories": 36.8
+        }
+    },
+    {
+        "Name": "Pineapple flavor aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Yoplait go-gurt slushie fizzy low fat yogurt style snack, 2 oz, 8 count",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.6,
+            "Carbs": 17.1,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Pulp coconut juice",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.2,
+            "Carbs": 9.7,
+            "Calories": 40.6
+        }
+    },
+    {
+        "Name": "Strawberry aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.8,
+            "Calories": 35.2
+        }
+    },
+    {
+        "Name": "Original aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.2,
+            "Calories": 44.8
+        }
+    },
+    {
+        "Name": "Pineapple aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Original enriched coconut drink",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 2.1,
+            "Carbs": 2.9,
+            "Calories": 32.1
+        }
+    },
+    {
+        "Name": "Enriched vanilla coconut drink",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 2.1,
+            "Carbs": 3.8,
+            "Calories": 35.7
+        }
+    },
+    {
+        "Name": "Mango aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.4,
+            "Calories": 41.6
+        }
+    },
+    {
+        "Name": "Original 100% pure coconut water",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 3.3,
+            "Calories": 13.2
+        }
+    },
+    {
+        "Name": "Blk. water, 16.9 fl oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Okf aloe vera king aloe drink, 50.7 fl oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.0,
+            "Calories": 36.0
+        }
+    },
+    {
+        "Name": "Pure premium natural mango flavored aloe drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.3,
+            "Calories": 37.2
+        }
+    },
+    {
+        "Name": "Pure premium strawberry aloe drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.4,
+            "Calories": 41.6
+        }
+    },
+    {
+        "Name": "Premium pineapple aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.2,
+            "Calories": 40.8
+        }
+    },
+    {
+        "Name": "Coco pure premium coconut drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.9,
+            "Calories": 31.6
+        }
+    },
+    {
+        "Name": "Salutti aloe drink, 50.7 fl oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.1,
+            "Calories": 52.4
+        }
+    },
+    {
+        "Name": "Pomegrenate aloe vera drink",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.0,
+            "Calories": 40.0
+        }
+    },
+    {
+        "Name": "Coconut flavored coconut drink, coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.9,
+            "Calories": 31.6
+        }
+    },
+    {
+        "Name": "Organic watermelon water, tart cherry",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 0.0,
+            "Carbs": 6.1,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Peach & mango coconut water, peach & mango",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "Kiwi berry buddies fruit snacks",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 0.0,
+            "Carbs": 71.4,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Aloe pulp organic coconut water, aloe pulp",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 5.8,
+            "Calories": 23.2
+        }
+    },
+    {
+        "Name": "100% coconut water with pulp!, pulp!",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.1,
+            "Calories": 32.4
+        }
+    }
+]

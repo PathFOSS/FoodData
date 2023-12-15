@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Crystal farms, cheddar cheese sticks",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 32.1,
+            "Carbs": 3.6,
+            "Calories": 403.3
+        }
+    },
+    {
+        "Name": "Colby & monterey jack cheeses sticks, colby & monterey jack",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 21.4,
+            "Carbs": 0.0,
+            "Calories": 307.0
+        }
+    }
+]

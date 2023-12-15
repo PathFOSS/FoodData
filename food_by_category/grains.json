@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Organic bulgur",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.7,
+            "Carbs": 75.0,
+            "Calories": 365.3
+        }
+    },
+    {
+        "Name": "Bluebird grain, organic whole grain emmer farro",
+        "Nutrients": {
+            "Protein": 12.8,
+            "Fat": 2.1,
+            "Carbs": 72.3,
+            "Calories": 359.3
+        }
+    },
+    {
+        "Name": "Lundberg, countrywild rice blend",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 3.3,
+            "Carbs": 77.8,
+            "Calories": 367.7
+        }
+    },
+    {
+        "Name": "Premium extra long grain white rice",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 346.8
+        }
+    },
+    {
+        "Name": "Enriched macaroni product, elbows",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.8,
+            "Carbs": 75.0,
+            "Calories": 366.2
+        }
+    },
+    {
+        "Name": "Macaroni & cheese pouch pack, macaroni & cheese",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 6.2,
+            "Carbs": 14.5,
+            "Calories": 132.2
+        }
+    },
+    {
+        "Name": "Long grain white rice",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 346.8
+        }
+    },
+    {
+        "Name": "Enriched macaroni product spaghetti",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.8,
+            "Carbs": 75.0,
+            "Calories": 366.2
+        }
+    },
+    {
+        "Name": "Enriched long grain parboiled rice",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 0.0,
+            "Carbs": 78.7,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Organic california sushi rice",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 346.8
+        }
+    }
+]

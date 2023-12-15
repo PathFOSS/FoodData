@@ -1,0 +1,1784 @@
+[
+    {
+        "Name": "Whole wheat blend pancake & waffle mix, whole wheat blend",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 1.7,
+            "Carbs": 71.0,
+            "Calories": 341.3
+        }
+    },
+    {
+        "Name": "Blueberry & maple unleashed flapjack, blueberry & maple",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 11.1,
+            "Carbs": 60.3,
+            "Calories": 417.5
+        }
+    },
+    {
+        "Name": "Honey waffle, honey",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 502.9
+        }
+    },
+    {
+        "Name": "Strawberry filled crepes, strawberry",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 10.9,
+            "Carbs": 65.6,
+            "Calories": 385.3
+        }
+    },
+    {
+        "Name": "Egg thins with cauliflower",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Cinnamon rolled crepe, cinnamon",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 12.5,
+            "Carbs": 62.5,
+            "Calories": 387.3
+        }
+    },
+    {
+        "Name": "Potato pancakes",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 7.1,
+            "Carbs": 10.6,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Frozen ii homestyle waffles, homestyle",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 8.6,
+            "Carbs": 38.6,
+            "Calories": 254.6
+        }
+    },
+    {
+        "Name": "Hot chocolate complete pancake and waffle mix, hot chocolate",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 3.9,
+            "Carbs": 75.0,
+            "Calories": 366.3
+        }
+    },
+    {
+        "Name": "Sam's choice, waffle cookies, cinnamon, honey",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 18.8,
+            "Carbs": 62.5,
+            "Calories": 431.6
+        }
+    },
+    {
+        "Name": "De wafelbakkers, pancakes, chocolate chip",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 6.8,
+            "Carbs": 41.0,
+            "Calories": 242.4
+        }
+    },
+    {
+        "Name": "Stroopwafels",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 20.7,
+            "Carbs": 62.1,
+            "Calories": 448.7
+        }
+    },
+    {
+        "Name": "Mini stroopwafels",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 18.8,
+            "Carbs": 62.5,
+            "Calories": 431.6
+        }
+    },
+    {
+        "Name": "Stroopwafels, caramel",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 20.5,
+            "Carbs": 64.1,
+            "Calories": 451.3
+        }
+    },
+    {
+        "Name": "Great value, french toast sticks, original",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 13.6,
+            "Carbs": 39.1,
+            "Calories": 296.8
+        }
+    },
+    {
+        "Name": "Stroop wafels",
+        "Nutrients": {
+            "Protein": 2.7,
+            "Fat": 18.9,
+            "Carbs": 64.9,
+            "Calories": 440.5
+        }
+    },
+    {
+        "Name": "Butter waffles",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 24.0,
+            "Carbs": 64.0,
+            "Calories": 488.0
+        }
+    },
+    {
+        "Name": "Cocoa filled amsterdam wafel",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 18.2,
+            "Carbs": 66.7,
+            "Calories": 455.0
+        }
+    },
+    {
+        "Name": "Michel de france, crepes",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 7.0,
+            "Carbs": 63.4,
+            "Calories": 344.6
+        }
+    },
+    {
+        "Name": "Daelmans, stroop wafels, caramel",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 20.5,
+            "Carbs": 64.1,
+            "Calories": 451.3
+        }
+    },
+    {
+        "Name": "Lotte, waffle mate, honey",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 29.2,
+            "Carbs": 62.5,
+            "Calories": 546.0
+        }
+    },
+    {
+        "Name": "Waffle works, waffle sandwich snack, double chocolate",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 21.4,
+            "Carbs": 60.7,
+            "Calories": 463.8
+        }
+    },
+    {
+        "Name": "Waffle works, waffle snax, waffle sandwiches, chocolate",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 17.9,
+            "Carbs": 60.7,
+            "Calories": 432.3
+        }
+    },
+    {
+        "Name": "Swoffle, caramel filled dutch waffle",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 69.7,
+            "Calories": 454.6
+        }
+    },
+    {
+        "Name": "Daelmans, stroopwafels",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 20.5,
+            "Carbs": 64.1,
+            "Calories": 451.3
+        }
+    },
+    {
+        "Name": "Absolutely, crepes",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 6.2,
+            "Carbs": 25.0,
+            "Calories": 195.8
+        }
+    },
+    {
+        "Name": "Great atlantic trading, french mini blinis",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 12.5,
+            "Carbs": 37.5,
+            "Calories": 295.7
+        }
+    },
+    {
+        "Name": "Oasis, french toast bread",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 2.7,
+            "Carbs": 52.0,
+            "Calories": 264.3
+        }
+    },
+    {
+        "Name": "King sooper's, city market, gourmet belgium waffles",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 7.5,
+            "Carbs": 49.2,
+            "Calories": 288.3
+        }
+    },
+    {
+        "Name": "Tops, blueberry pancakes",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 5.1,
+            "Carbs": 41.9,
+            "Calories": 233.9
+        }
+    },
+    {
+        "Name": "Posh pantry, french toast mini loaf",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 21.2,
+            "Carbs": 47.1,
+            "Calories": 398.0
+        }
+    },
+    {
+        "Name": "European style waffles",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 23.3,
+            "Carbs": 53.5,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Fresco fresh, french toast sticks apple & syrup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 7.6,
+            "Carbs": 44.0,
+            "Calories": 257.2
+        }
+    },
+    {
+        "Name": "All natural mini pancakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 16.0,
+            "Carbs": 32.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Belgian boys, de liege wafel",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 21.8,
+            "Carbs": 52.7,
+            "Calories": 436.2
+        }
+    },
+    {
+        "Name": "Organic cinnamon waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 20.0,
+            "Carbs": 70.0,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Organic salted caramel flavored waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 20.0,
+            "Carbs": 70.0,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Authentic belgian waffle",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 444.6
+        }
+    },
+    {
+        "Name": "Jacquet, belgian waffles",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 29.3,
+            "Carbs": 50.7,
+            "Calories": 487.7
+        }
+    },
+    {
+        "Name": "Camilla's kitchen, sweet belgian waffles, original",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 18.2,
+            "Carbs": 60.0,
+            "Calories": 433.0
+        }
+    },
+    {
+        "Name": "Sweet belgian waffles",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 18.2,
+            "Carbs": 60.0,
+            "Calories": 433.0
+        }
+    },
+    {
+        "Name": "Belgian boys, mini pancakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 16.0,
+            "Carbs": 32.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Breakfast to go, berry french toast",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 8.2,
+            "Carbs": 31.8,
+            "Calories": 212.6
+        }
+    },
+    {
+        "Name": "All natural crepes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.0,
+            "Carbs": 37.3,
+            "Calories": 237.2
+        }
+    },
+    {
+        "Name": "Crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 59.4,
+            "Calories": 459.5
+        }
+    },
+    {
+        "Name": "French crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 62.5,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "French crepe",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 62.5,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "Chocolate filled crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 62.5,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Belgian boys, belgian crepes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.0,
+            "Carbs": 37.3,
+            "Calories": 237.2
+        }
+    },
+    {
+        "Name": "Belgian vanilla waffle",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 22.4,
+            "Carbs": 67.1,
+            "Calories": 502.8
+        }
+    },
+    {
+        "Name": "Sun-rise pancakes",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 5.4,
+            "Carbs": 47.3,
+            "Calories": 259.4
+        }
+    },
+    {
+        "Name": "Honey stinger, chocolate waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 30.0,
+            "Carbs": 63.3,
+            "Calories": 536.4
+        }
+    },
+    {
+        "Name": "Crepes apple filling",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 7.7,
+            "Carbs": 32.3,
+            "Calories": 216.9
+        }
+    },
+    {
+        "Name": "Vegan shanghai dumpling",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 4.5,
+            "Carbs": 22.2,
+            "Calories": 157.7
+        }
+    },
+    {
+        "Name": "Organic waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 502.9
+        }
+    },
+    {
+        "Name": "Honey stinger, honey waffle, honey",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Waffle",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, strawberry waffle, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, vanilla waffle, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, lemon waffle, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, gingersnap waffle, gingersnap",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, caramel waffle, caramel",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Caramel waffle",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Pancakes",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 2.4,
+            "Carbs": 53.2,
+            "Calories": 260.4
+        }
+    },
+    {
+        "Name": "Belgian choc chip waffle",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 22.4,
+            "Carbs": 68.2,
+            "Calories": 507.2
+        }
+    },
+    {
+        "Name": "Stroopwafel",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 24.5,
+            "Carbs": 63.8,
+            "Calories": 490.9
+        }
+    },
+    {
+        "Name": "Sweet corn cakes",
+        "Nutrients": {
+            "Protein": 2.1,
+            "Fat": 1.1,
+            "Carbs": 18.6,
+            "Calories": 92.7
+        }
+    },
+    {
+        "Name": "Pearl sugar waffles",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.5,
+            "Carbs": 56.9,
+            "Calories": 445.9
+        }
+    },
+    {
+        "Name": "Pumpkin spice sweet cheese",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 4.1,
+            "Carbs": 26.0,
+            "Calories": 173.7
+        }
+    },
+    {
+        "Name": "Sweet cheese",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 5.5,
+            "Carbs": 24.7,
+            "Calories": 186.7
+        }
+    },
+    {
+        "Name": "Stroopwafel 8 wafels",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 69.7,
+            "Calories": 454.6
+        }
+    },
+    {
+        "Name": "Waffle sandwich snacks",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 17.9,
+            "Carbs": 64.3,
+            "Calories": 446.7
+        }
+    },
+    {
+        "Name": "Crunchy crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 62.5,
+            "Calories": 415.2
+        }
+    },
+    {
+        "Name": "Strawberry filled crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 9.4,
+            "Carbs": 62.5,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Crispy bite-sized waffle snacks",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 21.4,
+            "Carbs": 57.1,
+            "Calories": 449.4
+        }
+    },
+    {
+        "Name": "Blueberry pancakes",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 40.3,
+            "Calories": 188.4
+        }
+    },
+    {
+        "Name": "6 brioche waffles with butter",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 22.0,
+            "Carbs": 56.0,
+            "Calories": 446.0
+        }
+    },
+    {
+        "Name": "Whole grain waffle",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 12.3,
+            "Carbs": 69.2,
+            "Calories": 418.3
+        }
+    },
+    {
+        "Name": "Authentic belgian waffles",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 444.6
+        }
+    },
+    {
+        "Name": "Authentic belgian waffle with butter",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 53.3,
+            "Calories": 435.4
+        }
+    },
+    {
+        "Name": "Authentic belgian waffles with butter",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 53.3,
+            "Calories": 435.4
+        }
+    },
+    {
+        "Name": "Chocolate crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 68.8,
+            "Calories": 440.4
+        }
+    },
+    {
+        "Name": "Buttermilk waffles",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 10.0,
+            "Carbs": 40.0,
+            "Calories": 284.4
+        }
+    },
+    {
+        "Name": "Classic crepes",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 7.5,
+            "Carbs": 68.3,
+            "Calories": 373.9
+        }
+    },
+    {
+        "Name": "Strawberry crepes french recipe",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 68.8,
+            "Calories": 342.3
+        }
+    },
+    {
+        "Name": "Authentic liege belgian spiced applesauce waffle",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.5,
+            "Carbs": 55.4,
+            "Calories": 439.9
+        }
+    },
+    {
+        "Name": "Sweet corn pancakes",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 3.7,
+            "Carbs": 9.6,
+            "Calories": 83.3
+        }
+    },
+    {
+        "Name": "Buttermilk pancakes",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 2.6,
+            "Carbs": 42.7,
+            "Calories": 211.4
+        }
+    },
+    {
+        "Name": "Baking mix crepe",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 5.9,
+            "Carbs": 58.8,
+            "Calories": 370.7
+        }
+    },
+    {
+        "Name": "Homestyle french toast, homestyle",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 3.5,
+            "Carbs": 28.1,
+            "Calories": 171.9
+        }
+    },
+    {
+        "Name": "Blueberry pancakes, blueberry",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 4.3,
+            "Carbs": 41.0,
+            "Calories": 219.9
+        }
+    },
+    {
+        "Name": "Homestyle waffles, homestyle",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 4.3,
+            "Carbs": 35.7,
+            "Calories": 198.7
+        }
+    },
+    {
+        "Name": "Authentic belgian waffle, cinnamon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 444.6
+        }
+    },
+    {
+        "Name": "Crepes, chocolate & hazelnut",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 59.4,
+            "Calories": 459.5
+        }
+    },
+    {
+        "Name": "Crepes, strawberry",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 10.9,
+            "Carbs": 65.6,
+            "Calories": 385.3
+        }
+    },
+    {
+        "Name": "Buttermilk pancakes, buttermilk",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 2.6,
+            "Carbs": 42.7,
+            "Calories": 214.6
+        }
+    },
+    {
+        "Name": "Mini pancakes, original dutch",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 17.3,
+            "Carbs": 40.0,
+            "Calories": 342.5
+        }
+    },
+    {
+        "Name": "Honey stinger, strawberry waffle, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, lemon waffle, lemon, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Crunchy! crepes, hazelnut chocolate",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 56.2,
+            "Calories": 446.7
+        }
+    },
+    {
+        "Name": "Pancakes, original",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 5.1,
+            "Carbs": 39.3,
+            "Calories": 230.3
+        }
+    },
+    {
+        "Name": "Authentic belgian waffles, cinnamon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 444.6
+        }
+    },
+    {
+        "Name": "French toast bread, french toast",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 2.7,
+            "Carbs": 51.4,
+            "Calories": 262.3
+        }
+    },
+    {
+        "Name": "Strawberry crepes french recipe, strawberry crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 68.8,
+            "Calories": 342.3
+        }
+    },
+    {
+        "Name": "Blueberry apple oven baked stoneground wheat snack, blueberry apple",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 444.6
+        }
+    },
+    {
+        "Name": "Liege belgian chocolate chip waffles, liege belgian chocolate chip",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 449.0
+        }
+    },
+    {
+        "Name": "Brioche waffles with butter and belgian chocolate chips",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 24.0,
+            "Carbs": 56.0,
+            "Calories": 464.0
+        }
+    },
+    {
+        "Name": "Crepes filled basil pesto",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 36.7,
+            "Carbs": 46.7,
+            "Calories": 557.1
+        }
+    },
+    {
+        "Name": "Banana belgian style gourmet bites pancake puffs, banana belgian style",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 17.6,
+            "Carbs": 35.3,
+            "Calories": 323.2
+        }
+    },
+    {
+        "Name": "Crispy crepe dark milk chocolate, crispy crepe",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 20.0,
+            "Carbs": 70.0,
+            "Calories": 486.8
+        }
+    },
+    {
+        "Name": "Sweet cheese blintzes, sweet cheese",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 8.2,
+            "Carbs": 27.9,
+            "Calories": 211.8
+        }
+    },
+    {
+        "Name": "Gluten free golden waffle",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 24.0,
+            "Carbs": 52.0,
+            "Calories": 448.0
+        }
+    },
+    {
+        "Name": "Mini maple pancakes and maple sausage bites morning combos",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 20.4,
+            "Carbs": 29.0,
+            "Calories": 334.0
+        }
+    },
+    {
+        "Name": "Hazelnut chocolate filled french crepes, hazelnut chocolate",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 62.5,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Caramel stroopwafel dutch waffle, caramel",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 69.7,
+            "Calories": 454.6
+        }
+    },
+    {
+        "Name": "Green onion pancakes",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 11.7,
+            "Carbs": 41.7,
+            "Calories": 298.9
+        }
+    },
+    {
+        "Name": "Mini pancake snacker",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 3.5,
+            "Carbs": 26.5,
+            "Calories": 156.3
+        }
+    },
+    {
+        "Name": "Caramel dutch waffle, caramel",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 69.7,
+            "Calories": 454.6
+        }
+    },
+    {
+        "Name": "Chocolate hazelnut filled crepes, chocolate hazelnut",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 25.0,
+            "Carbs": 59.4,
+            "Calories": 487.4
+        }
+    },
+    {
+        "Name": "Crepes to go! caramel filled with crispy cereal balls, caramel",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 62.5,
+            "Calories": 415.2
+        }
+    },
+    {
+        "Name": "Chocolate hazelnut filled with crispy cereal balls, chocolate hazelnut",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 56.2,
+            "Calories": 446.7
+        }
+    },
+    {
+        "Name": "Sam's choice, waffle cookies, cinnamon, honey, cinnamon, honey",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 18.8,
+            "Carbs": 62.5,
+            "Calories": 431.6
+        }
+    },
+    {
+        "Name": "Original belgian waffle with pearl sugar, original",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 23.6,
+            "Carbs": 54.5,
+            "Calories": 459.6
+        }
+    },
+    {
+        "Name": "Belgian waffle with sugar pearls, sugar pearls",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 24.4,
+            "Carbs": 53.3,
+            "Calories": 455.2
+        }
+    },
+    {
+        "Name": "Blueberry french toast, blueberry",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 5.0,
+            "Carbs": 41.7,
+            "Calories": 251.8
+        }
+    },
+    {
+        "Name": "Mini stroopwafels, honey",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 18.8,
+            "Carbs": 62.5,
+            "Calories": 431.6
+        }
+    },
+    {
+        "Name": "Mini stroopwafels, caramel",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 21.9,
+            "Carbs": 62.5,
+            "Calories": 459.5
+        }
+    },
+    {
+        "Name": "Stroop wafels, honey",
+        "Nutrients": {
+            "Protein": 2.7,
+            "Fat": 18.9,
+            "Carbs": 64.9,
+            "Calories": 440.5
+        }
+    },
+    {
+        "Name": "Waffle works, waffle sandwich snack, double chocolate, double chocolate",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 21.4,
+            "Carbs": 60.7,
+            "Calories": 463.8
+        }
+    },
+    {
+        "Name": "Waffle works, waffle snax, waffle sandwiches, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 17.9,
+            "Carbs": 60.7,
+            "Calories": 432.3
+        }
+    },
+    {
+        "Name": "Blueberry flavored french toast, blueberry",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 5.0,
+            "Carbs": 41.7,
+            "Calories": 251.8
+        }
+    },
+    {
+        "Name": "Pumpkin-shared waffles",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 53.3,
+            "Calories": 480.3
+        }
+    },
+    {
+        "Name": "Cinnamon brown sugar protein waffles, cinnamon brown sugar",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 14.5,
+            "Carbs": 27.6,
+            "Calories": 309.3
+        }
+    },
+    {
+        "Name": "Blueberry blintzes 6 filled crepes, blueberry",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 1.6,
+            "Carbs": 29.5,
+            "Calories": 145.6
+        }
+    },
+    {
+        "Name": "Mini maple pancakes and maple sausage bites morning combos, mini maple pancakes and maple sausage bites",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 20.4,
+            "Carbs": 29.0,
+            "Calories": 334.0
+        }
+    },
+    {
+        "Name": "Holiday hot chocolate flavored complete pancake and waffle mix, holiday hot chocolate",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 3.9,
+            "Carbs": 75.0,
+            "Calories": 366.3
+        }
+    },
+    {
+        "Name": "French toast breakfast bread, french toast",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 6.1,
+            "Carbs": 59.6,
+            "Calories": 328.5
+        }
+    },
+    {
+        "Name": "Honey mini waffles, honey",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 24.0,
+            "Carbs": 72.0,
+            "Calories": 520.0
+        }
+    },
+    {
+        "Name": "De wafelbakkers, pancakes, chocolate chip, chocolate chip",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 6.8,
+            "Carbs": 41.0,
+            "Calories": 242.4
+        }
+    },
+    {
+        "Name": "Blueberry flavored waffles, blueberry",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.0,
+            "Carbs": 34.3,
+            "Calories": 199.4
+        }
+    },
+    {
+        "Name": "French crepes, strawberry",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 62.5,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "French crepes, chocolate",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 59.4,
+            "Calories": 402.8
+        }
+    },
+    {
+        "Name": "French crepe, strawberry",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 62.5,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "Original sweet belgian waffles, original",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 20.0,
+            "Carbs": 50.9,
+            "Calories": 412.8
+        }
+    },
+    {
+        "Name": "Waffle, birthday cake",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 18.8,
+            "Carbs": 56.2,
+            "Calories": 412.8
+        }
+    },
+    {
+        "Name": "Waffle sandwich snacks, salted caramel",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 17.9,
+            "Carbs": 64.3,
+            "Calories": 446.7
+        }
+    },
+    {
+        "Name": "Crispy bite-sized waffle snacks, vanilla bean",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 21.4,
+            "Carbs": 57.1,
+            "Calories": 449.4
+        }
+    },
+    {
+        "Name": "Whole grain waffle, blueberry",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 12.3,
+            "Carbs": 69.2,
+            "Calories": 418.3
+        }
+    },
+    {
+        "Name": "Blueberry flavored organic waffles, blueberry",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 10.0,
+            "Carbs": 42.9,
+            "Calories": 284.4
+        }
+    },
+    {
+        "Name": "Original crepes, original",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.0,
+            "Carbs": 28.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Caramel flavor dutch syrup waffles/stroopwafels, caramel",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 18.8,
+            "Carbs": 71.9,
+            "Calories": 469.2
+        }
+    },
+    {
+        "Name": "Organic salted caramel flavored waffle, salted caramel",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 20.0,
+            "Carbs": 70.0,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Sweet belgian waffles, vanilla",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 21.8,
+            "Carbs": 60.0,
+            "Calories": 465.4
+        }
+    },
+    {
+        "Name": "Sun-rise pancakes, blueberry",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 5.4,
+            "Carbs": 47.3,
+            "Calories": 259.4
+        }
+    },
+    {
+        "Name": "Sun-rise pancakes, buttermilk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 6.1,
+            "Carbs": 44.6,
+            "Calories": 254.9
+        }
+    },
+    {
+        "Name": "Sun-rise pancakes, chocolate chip",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 6.1,
+            "Carbs": 44.6,
+            "Calories": 254.9
+        }
+    },
+    {
+        "Name": "Honey stinger, honey waffle, honey, honey",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, vanilla waffle, vanilla, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, gingersnap waffle, gingersnap, gingersnap",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Honey stinger, caramel waffle, caramel, caramel",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 70.0,
+            "Calories": 280.0
+        }
+    },
+    {
+        "Name": "Stroopwafel, caramel",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 24.5,
+            "Carbs": 63.8,
+            "Calories": 490.9
+        }
+    },
+    {
+        "Name": "Pearl sugar waffles, vanilla",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.5,
+            "Carbs": 56.9,
+            "Calories": 445.9
+        }
+    },
+    {
+        "Name": "Chocolate crepes, chocolate",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 68.8,
+            "Calories": 440.4
+        }
+    },
+    {
+        "Name": "Baking mix crepe, savory or sweet",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 5.9,
+            "Carbs": 58.8,
+            "Calories": 370.7
+        }
+    },
+    {
+        "Name": "Authentic belgian waffle, belgian",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 22.0,
+            "Carbs": 56.0,
+            "Calories": 446.0
+        }
+    },
+    {
+        "Name": "Original recipe heart-shaped waffles, original recipe",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.1,
+            "Carbs": 55.8,
+            "Calories": 445.3
+        }
+    },
+    {
+        "Name": "Original vanilla belgian pastry wafels, original vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 23.6,
+            "Carbs": 54.5,
+            "Calories": 430.4
+        }
+    },
+    {
+        "Name": "Hazelnut chocolate banana organic crepes, hazelnut chocolate banana",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 8.2,
+            "Carbs": 35.6,
+            "Calories": 243.4
+        }
+    },
+    {
+        "Name": "Maple flavored authentic belgian waffles, maple",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 21.4,
+            "Carbs": 54.3,
+            "Calories": 432.6
+        }
+    },
+    {
+        "Name": "Cinnamon authentic belgian waffles, cinnamon",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 22.9,
+            "Carbs": 52.9,
+            "Calories": 440.5
+        }
+    },
+    {
+        "Name": "French pancakes to-go!, french",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 17.1,
+            "Carbs": 54.3,
+            "Calories": 393.9
+        }
+    },
+    {
+        "Name": "Chocolate & hazelnut rolled crepes, chocolate & hazelnut",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 21.9,
+            "Carbs": 56.2,
+            "Calories": 446.7
+        }
+    },
+    {
+        "Name": "Original belgian waffle, original",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 23.6,
+            "Carbs": 54.5,
+            "Calories": 459.6
+        }
+    },
+    {
+        "Name": "Garlic & fine herbs boursin cheese filled crepes, garlic & fine herbs",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 40.0,
+            "Carbs": 46.7,
+            "Calories": 573.6
+        }
+    },
+    {
+        "Name": "The laughing cow cheese mini crepes",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 36.7,
+            "Carbs": 46.7,
+            "Calories": 557.1
+        }
+    },
+    {
+        "Name": "French style round crepes, french style",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 7.0,
+            "Carbs": 63.4,
+            "Calories": 344.6
+        }
+    },
+    {
+        "Name": "Chocolate chip dutch pancake puffy bites, chocolate chip",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 18.9,
+            "Carbs": 35.9,
+            "Calories": 336.5
+        }
+    },
+    {
+        "Name": "Vanilla buttermilk flavored protein waffles, vanilla buttermilk",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 14.5,
+            "Carbs": 28.9,
+            "Calories": 314.5
+        }
+    },
+    {
+        "Name": "Cookies & cream waffle, cookies & cream",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 20.0,
+            "Carbs": 70.0,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Vanilla waffles, vanilla",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 63.3,
+            "Calories": 476.1
+        }
+    },
+    {
+        "Name": "Wild blueberry french toast bake, wild blueberry french",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 8.8,
+            "Carbs": 28.1,
+            "Calories": 205.6
+        }
+    },
+    {
+        "Name": "French recipe euro classic chocolate crepes, french recipe",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 15.6,
+            "Carbs": 68.8,
+            "Calories": 440.4
+        }
+    },
+    {
+        "Name": "Classic strawberry crepes, strawberry crepes",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 4.7,
+            "Carbs": 68.8,
+            "Calories": 342.3
+        }
+    },
+    {
+        "Name": "Scallion carrot mushroom onion flour vegetable pancake, scation carrot mushroom onion flour",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 6.0,
+            "Carbs": 27.0,
+            "Calories": 162.0
+        }
+    },
+    {
+        "Name": "Traditional belgian waffles, traditional",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 22.9,
+            "Carbs": 51.4,
+            "Calories": 440.1
+        }
+    },
+    {
+        "Name": "Gingerbread waffles, gingerbread",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 18.3,
+            "Carbs": 53.3,
+            "Calories": 404.7
+        }
+    },
+    {
+        "Name": "Authentic sweet belgian waffle, authentic sweet",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 22.0,
+            "Carbs": 56.0,
+            "Calories": 446.0
+        }
+    },
+    {
+        "Name": "Strawberry grab & go liege-style waffles, strawberry",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 18.2,
+            "Carbs": 54.5,
+            "Calories": 418.2
+        }
+    },
+    {
+        "Name": "Chocolate chip dutch pancake bites, chocolate chip",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 18.9,
+            "Carbs": 35.9,
+            "Calories": 336.5
+        }
+    },
+    {
+        "Name": "Classic caramel stroopwafels caramel filled cookies, classic caramel",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 19.4,
+            "Carbs": 55.6,
+            "Calories": 397.0
+        }
+    },
+    {
+        "Name": "Original dutch mini pancakes, original dutch",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 17.3,
+            "Carbs": 40.0,
+            "Calories": 342.5
+        }
+    },
+    {
+        "Name": "Strawberry waffles, strawberry",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 18.5,
+            "Carbs": 40.7,
+            "Calories": 351.7
+        }
+    },
+    {
+        "Name": "Hot chocolate holiday complete pancake and waffle mix, hot chocolate",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 3.9,
+            "Carbs": 75.0,
+            "Calories": 366.3
+        }
+    },
+    {
+        "Name": "Authentic belgian waffle, authentic belgian",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 22.0,
+            "Carbs": 56.0,
+            "Calories": 446.0
+        }
+    },
+    {
+        "Name": "Waffle bowls, waffle",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 4.2,
+            "Carbs": 83.3,
+            "Calories": 404.2
+        }
+    },
+    {
+        "Name": "Honey waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 63.3,
+            "Calories": 476.1
+        }
+    },
+    {
+        "Name": "Vanilla waffle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 63.3,
+            "Calories": 476.1
+        }
+    },
+    {
+        "Name": "Strawberry filled crepes on the go!, strawberry",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 4.7,
+            "Carbs": 69.8,
+            "Calories": 340.3
+        }
+    }
+]

@@ -1,0 +1,1865 @@
+[
+    {
+        "Name": "Angus philly beef steaks, angus",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 12.9,
+            "Carbs": 0.0,
+            "Calories": 190.5
+        }
+    },
+    {
+        "Name": "Pork tocino",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.2,
+            "Carbs": 7.1,
+            "Calories": 172.6
+        }
+    },
+    {
+        "Name": "Organic ground beef",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 20.4,
+            "Carbs": 0.0,
+            "Calories": 254.4
+        }
+    },
+    {
+        "Name": "Bar-b-q seasoned pork tenderloin, bar-b-q",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.6,
+            "Carbs": 6.4,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Sweet & smoky kansas city style bbq sauce, pulled pork",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 5.7,
+            "Carbs": 19.3,
+            "Calories": 180.1
+        }
+    },
+    {
+        "Name": "Usda choice beef filet of sirloin steaks",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.5,
+            "Carbs": 0.0,
+            "Calories": 106.7
+        }
+    },
+    {
+        "Name": "Bacon wrapped beef tenderloin steaks",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.5,
+            "Carbs": 0.0,
+            "Calories": 133.7
+        }
+    },
+    {
+        "Name": "Ground bison",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 166.6
+        }
+    },
+    {
+        "Name": "Bar-b-q pork shoulder with corky's original bar-b-q sauce, bar-b-q pork shoulder",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 8.6,
+            "Carbs": 10.7,
+            "Calories": 168.6
+        }
+    },
+    {
+        "Name": "Applewood smoked bacon wrapped beef tenderloin steaks, applewood smoked",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 11.3,
+            "Carbs": 0.7,
+            "Calories": 188.9
+        }
+    },
+    {
+        "Name": "Beef organic ribeye steaks, beef",
+        "Nutrients": {
+            "Protein": 19.7,
+            "Fat": 15.1,
+            "Carbs": 0.0,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Landis, lean sirloin tip beef steaks",
+        "Nutrients": {
+            "Protein": 20.9,
+            "Fat": 8.1,
+            "Carbs": 0.0,
+            "Calories": 156.5
+        }
+    },
+    {
+        "Name": "Gravy & 6 salisbury steaks",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 10.6,
+            "Carbs": 6.1,
+            "Calories": 150.2
+        }
+    },
+    {
+        "Name": "Pasture perfect, american style kobe beef burgers",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 298.5
+        }
+    },
+    {
+        "Name": "Patties made with only premium cuts of pork",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 25.7,
+            "Carbs": 3.5,
+            "Calories": 305.3
+        }
+    },
+    {
+        "Name": "Angus philly beef steaks",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 12.9,
+            "Carbs": 0.0,
+            "Calories": 190.5
+        }
+    },
+    {
+        "Name": "Pulled beef brisket",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 10.9,
+            "Carbs": 14.6,
+            "Calories": 192.9
+        }
+    },
+    {
+        "Name": "Lean sirloin tip beef steaks",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "100% all beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 26.3,
+            "Carbs": 0.0,
+            "Calories": 278.7
+        }
+    },
+    {
+        "Name": "100% all beef sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Venus, pork meat balls",
+        "Nutrients": {
+            "Protein": 12.3,
+            "Fat": 8.8,
+            "Carbs": 5.3,
+            "Calories": 149.6
+        }
+    },
+    {
+        "Name": "Seasoned pork and beef pattie between slice of beef ribeye",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 17.1,
+            "Carbs": 2.6,
+            "Calories": 227.5
+        }
+    },
+    {
+        "Name": "Italian style gravy & sliced beef",
+        "Nutrients": {
+            "Protein": 28.2,
+            "Fat": 11.8,
+            "Carbs": 3.5,
+            "Calories": 233.0
+        }
+    },
+    {
+        "Name": "Silver platter st. louis style pork spareribs",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 213.8
+        }
+    },
+    {
+        "Name": "Italian style gravy with fully cooked & seasoned italian beef",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 4.7,
+            "Carbs": 0.0,
+            "Calories": 127.1
+        }
+    },
+    {
+        "Name": "Nature's rancher, 100% grass fed organic ground beef",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Ball park, seasoned pulled pork in a sweet & tangy bbq sauce",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 2.9,
+            "Carbs": 27.1,
+            "Calories": 190.9
+        }
+    },
+    {
+        "Name": "American style kobe ground beef",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 298.5
+        }
+    },
+    {
+        "Name": "Ground pork",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 209.4
+        }
+    },
+    {
+        "Name": "Tsd sales and distribution, all natural ground beef",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 26.8,
+            "Carbs": 0.0,
+            "Calories": 302.0
+        }
+    },
+    {
+        "Name": "100% ground beef patties",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 209.4
+        }
+    },
+    {
+        "Name": "Food lion, ground beef",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 293.0
+        }
+    },
+    {
+        "Name": "Sandwich steaks",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 26.7,
+            "Carbs": 0.0,
+            "Calories": 307.1
+        }
+    },
+    {
+        "Name": "Cured pork knuckles",
+        "Nutrients": {
+            "Protein": 25.7,
+            "Fat": 11.5,
+            "Carbs": 0.0,
+            "Calories": 206.3
+        }
+    },
+    {
+        "Name": "Murry's, quarter pound beef patties",
+        "Nutrients": {
+            "Protein": 26.0,
+            "Fat": 24.7,
+            "Carbs": 0.0,
+            "Calories": 326.3
+        }
+    },
+    {
+        "Name": "Florida alligator meat",
+        "Nutrients": {
+            "Protein": 24.8,
+            "Fat": 2.6,
+            "Carbs": 0.0,
+            "Calories": 122.6
+        }
+    },
+    {
+        "Name": "Ground beef",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 26.8,
+            "Carbs": 0.0,
+            "Calories": 309.2
+        }
+    },
+    {
+        "Name": "Kroger, ground beef for chili",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 209.4
+        }
+    },
+    {
+        "Name": "Blackwing organic meats, ground antelope",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Panorama, organic grass-fed beef, top sirloin steaks",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 4.5,
+            "Carbs": 0.0,
+            "Calories": 129.7
+        }
+    },
+    {
+        "Name": "Pulled pork bbq in a carolina-style mustard sauce",
+        "Nutrients": {
+            "Protein": 12.7,
+            "Fat": 8.2,
+            "Carbs": 12.7,
+            "Calories": 175.4
+        }
+    },
+    {
+        "Name": "Toasted onion gravy & char-broiled patties",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 7.1,
+            "Carbs": 6.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Seasoned grass fed beef taco meat",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 12.5,
+            "Carbs": 4.5,
+            "Calories": 205.7
+        }
+    },
+    {
+        "Name": "Boneless beef new york strip steak",
+        "Nutrients": {
+            "Protein": 18.4,
+            "Fat": 4.2,
+            "Carbs": 0.6,
+            "Calories": 113.8
+        }
+    },
+    {
+        "Name": "Bacon wrapped beef fillets with peppercorn bourbon sauce",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 10.6,
+            "Carbs": 6.3,
+            "Calories": 202.2
+        }
+    },
+    {
+        "Name": "Organic prairie, organic ground beef",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 20.4,
+            "Carbs": 0.0,
+            "Calories": 254.4
+        }
+    },
+    {
+        "Name": "Pork loin roast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 157.6
+        }
+    },
+    {
+        "Name": "Quarter pound beef patties",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 25.9,
+            "Carbs": 0.9,
+            "Calories": 301.1
+        }
+    },
+    {
+        "Name": "Bone-in goat cubes",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 20.4,
+            "Carbs": 0.0,
+            "Calories": 258.0
+        }
+    },
+    {
+        "Name": "Boneless beef thinly sliced ribeye steak",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 17.7,
+            "Carbs": 0.0,
+            "Calories": 230.1
+        }
+    },
+    {
+        "Name": "Premium duroc",
+        "Nutrients": {
+            "Protein": 17.2,
+            "Fat": 19.2,
+            "Carbs": 0.0,
+            "Calories": 241.6
+        }
+    },
+    {
+        "Name": "Bbq sauce",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 6.4,
+            "Carbs": 15.7,
+            "Calories": 163.2
+        }
+    },
+    {
+        "Name": "Sizzlin' starters pork breakfast sandwich steaks",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 25.9,
+            "Carbs": 2.4,
+            "Calories": 299.1
+        }
+    },
+    {
+        "Name": "Sizzlin starters' pork breakfast sandwich steaks",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 25.9,
+            "Carbs": 2.4,
+            "Calories": 299.1
+        }
+    },
+    {
+        "Name": "Bacon wrapped scallops",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 20.2,
+            "Carbs": 2.0,
+            "Calories": 246.2
+        }
+    },
+    {
+        "Name": "Hawaiian style local boy sliced pork",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.5,
+            "Carbs": 11.6,
+            "Calories": 154.9
+        }
+    },
+    {
+        "Name": "Hawaiian style teriyaki sliced beef",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 7.1,
+            "Calories": 131.5
+        }
+    },
+    {
+        "Name": "Spicy pork sausage patties",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 38.0,
+            "Carbs": 2.0,
+            "Calories": 406.0
+        }
+    },
+    {
+        "Name": "Steak fingers",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 25.4,
+            "Carbs": 19.7,
+            "Calories": 352.6
+        }
+    },
+    {
+        "Name": "Tyson, grilled & ready, seasoned steak strips",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 8.3,
+            "Carbs": 2.4,
+            "Calories": 174.7
+        }
+    },
+    {
+        "Name": "Bacon wrapped suffed pork lion",
+        "Nutrients": {
+            "Protein": 18.5,
+            "Fat": 14.8,
+            "Carbs": 1.5,
+            "Calories": 213.2
+        }
+    },
+    {
+        "Name": "Italian style gravy and beef",
+        "Nutrients": {
+            "Protein": 22.4,
+            "Fat": 14.1,
+            "Carbs": 1.2,
+            "Calories": 221.3
+        }
+    },
+    {
+        "Name": "Seasoned beef crumbles",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 20.9,
+            "Carbs": 2.3,
+            "Calories": 262.5
+        }
+    },
+    {
+        "Name": "Ground beef chuck",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 19.6,
+            "Carbs": 0.0,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Ground venison meats",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Pork chitterlings",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 17.9,
+            "Carbs": 0.0,
+            "Calories": 196.7
+        }
+    },
+    {
+        "Name": "100% pure beef sandwich steak",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Beef patties",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 25.9,
+            "Carbs": 0.9,
+            "Calories": 301.1
+        }
+    },
+    {
+        "Name": "Seasoned pork tenderloin",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.6,
+            "Carbs": 6.4,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Ground pork patties",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 26.2,
+            "Carbs": 0.0,
+            "Calories": 300.2
+        }
+    },
+    {
+        "Name": "Finely sliced ribeye steak",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 9.7,
+            "Carbs": 1.8,
+            "Calories": 182.9
+        }
+    },
+    {
+        "Name": "6 pure beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "100% pure beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Sliced angus steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "14 all beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "100% beef sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "All beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "14 pure beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Pork fritters",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 16.5,
+            "Carbs": 24.1,
+            "Calories": 285.3
+        }
+    },
+    {
+        "Name": "Beef steak",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 4.2,
+            "Carbs": 3.6,
+            "Calories": 133.0
+        }
+    },
+    {
+        "Name": "Sweet & smoky kansas city style bbq sauce",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 5.7,
+            "Carbs": 19.3,
+            "Calories": 180.1
+        }
+    },
+    {
+        "Name": "Medium country sausage, medium",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Boneless pork pattie rib shaped",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 14.1,
+            "Carbs": 5.9,
+            "Calories": 211.7
+        }
+    },
+    {
+        "Name": "Burnt ends pork seasoned & seared boneless pork with sweet and tangy bbq sauce",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 2.5,
+            "Carbs": 15.0,
+            "Calories": 134.1
+        }
+    },
+    {
+        "Name": "Smoked pork shoulder picnic",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 11.5,
+            "Carbs": 2.6,
+            "Calories": 181.1
+        }
+    },
+    {
+        "Name": "Pork bar-b-q with sauce",
+        "Nutrients": {
+            "Protein": 22.2,
+            "Fat": 7.4,
+            "Carbs": 2.5,
+            "Calories": 165.4
+        }
+    },
+    {
+        "Name": "Sweet & sour pork meal starter",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 6.4,
+            "Carbs": 35.0,
+            "Calories": 226.0
+        }
+    },
+    {
+        "Name": "Frog legs",
+        "Nutrients": {
+            "Protein": 16.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Boneless beef chuck shoulder cross-rib steak",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 21.4,
+            "Carbs": 0.0,
+            "Calories": 260.6
+        }
+    },
+    {
+        "Name": "Premium pork links",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 32.4,
+            "Carbs": 2.7,
+            "Calories": 367.2
+        }
+    },
+    {
+        "Name": "Pre-sliced corned beef for reubens",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 148.1
+        }
+    },
+    {
+        "Name": "Brasstown beef, ground beef",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 202.2
+        }
+    },
+    {
+        "Name": "Fresh ground beef",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 19.6,
+            "Carbs": 0.0,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Pork tails",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 14.2,
+            "Carbs": 0.0,
+            "Calories": 212.6
+        }
+    },
+    {
+        "Name": "Pork neckbones",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 14.2,
+            "Carbs": 0.0,
+            "Calories": 212.6
+        }
+    },
+    {
+        "Name": "Pork riblets",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 215.2
+        }
+    },
+    {
+        "Name": "Lean ground beef",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 145.9
+        }
+    },
+    {
+        "Name": "Meat",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 11.6,
+            "Carbs": 0.0,
+            "Calories": 176.0
+        }
+    },
+    {
+        "Name": "Group raised calf liver slices",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.1,
+            "Carbs": 5.4,
+            "Calories": 113.9
+        }
+    },
+    {
+        "Name": "Ground venison",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 111.8
+        }
+    },
+    {
+        "Name": "Philly beef steaks",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 12.2,
+            "Carbs": 1.0,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Thinly sliced & shaped sirloin steak strips",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 12.2,
+            "Carbs": 1.0,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Thinly sliced sirloin beef",
+        "Nutrients": {
+            "Protein": 18.4,
+            "Fat": 18.4,
+            "Carbs": 0.0,
+            "Calories": 239.2
+        }
+    },
+    {
+        "Name": "100% pure ground beef",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 20.4,
+            "Carbs": 0.0,
+            "Calories": 258.0
+        }
+    },
+    {
+        "Name": "Authentic gyros slices",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 25.9,
+            "Carbs": 9.4,
+            "Calories": 322.3
+        }
+    },
+    {
+        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 6.4,
+            "Carbs": 16.4,
+            "Calories": 159.6
+        }
+    },
+    {
+        "Name": "Carne asada steak",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 4.0,
+            "Carbs": 3.5,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Pork bangers, \"cumberland\"",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 11.8,
+            "Carbs": 4.0,
+            "Calories": 190.6
+        }
+    },
+    {
+        "Name": "Korean recipe marinated beef bulgogi",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 12.5,
+            "Carbs": 4.5,
+            "Calories": 184.1
+        }
+    },
+    {
+        "Name": "Hickory smoke flavored beef steak strips, hickory smoke",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 4.8,
+            "Carbs": 2.4,
+            "Calories": 148.0
+        }
+    },
+    {
+        "Name": "Italian style beef, italian style",
+        "Nutrients": {
+            "Protein": 29.4,
+            "Fat": 4.1,
+            "Carbs": 0.0,
+            "Calories": 154.5
+        }
+    },
+    {
+        "Name": "Sizzlin' starters pork breakfast sandwich steaks, bacon",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 25.9,
+            "Carbs": 2.4,
+            "Calories": 299.1
+        }
+    },
+    {
+        "Name": "Hot country sausage patties, hot",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Sweet & sour pork fully cooked, boneless, tempura pork in a sweet & sour sauce meal starter, sweet & sour pork",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 6.4,
+            "Carbs": 35.0,
+            "Calories": 226.0
+        }
+    },
+    {
+        "Name": "Sirloin philly beef steaks, sirloin",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 12.2,
+            "Carbs": 1.0,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Pork with bbq sauce, pork",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 3.6,
+            "Carbs": 19.6,
+            "Calories": 160.8
+        }
+    },
+    {
+        "Name": "Country sausage patties gravy, country",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Grilled steakhouse seared flavored seasoned beef steak strips, grilled steakhouse seared",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 4.2,
+            "Carbs": 1.2,
+            "Calories": 142.6
+        }
+    },
+    {
+        "Name": "Sliced & shaped angus sirloin beef steaks",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 16.3,
+            "Carbs": 0.0,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Bourbon braised pork with roasted squash, butter beans, sorghum, and pickled peppers",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 2.2,
+            "Carbs": 21.2,
+            "Calories": 134.2
+        }
+    },
+    {
+        "Name": "Grilled seasoned beef in fajita spices, cilantro & hints of lime strips, grilled seasoned beef strips",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 9.5,
+            "Carbs": 2.4,
+            "Calories": 190.3
+        }
+    },
+    {
+        "Name": "Pork liver",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 3.5,
+            "Carbs": 2.6,
+            "Calories": 126.7
+        }
+    },
+    {
+        "Name": "All natural 100% beef delicious sandwich sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Hawaiian style kalbi beef short ribs",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 8.0,
+            "Carbs": 8.0,
+            "Calories": 168.4
+        }
+    },
+    {
+        "Name": "100% angus beef sandwich steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Bone-in pork loin chop",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 7.8,
+            "Carbs": 0.0,
+            "Calories": 140.6
+        }
+    },
+    {
+        "Name": "100% all beef sandwich sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Italian style beef",
+        "Nutrients": {
+            "Protein": 29.4,
+            "Fat": 4.1,
+            "Carbs": 0.0,
+            "Calories": 154.5
+        }
+    },
+    {
+        "Name": "100% angus beef sandwich sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "100% all beef sandwich sliced steaks, beef",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Pulled pork bbq in a carolina-style mustard sauce, bbq",
+        "Nutrients": {
+            "Protein": 12.7,
+            "Fat": 8.2,
+            "Carbs": 12.7,
+            "Calories": 175.4
+        }
+    },
+    {
+        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce, barbecue sauce",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 11.9,
+            "Carbs": 9.5,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Local boy sliced pork, local boy",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.5,
+            "Carbs": 11.6,
+            "Calories": 154.9
+        }
+    },
+    {
+        "Name": "Teriyaki sliced beef, teriyaki",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 7.1,
+            "Calories": 131.5
+        }
+    },
+    {
+        "Name": "Kalbi beef short ribs, kalbi",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 8.0,
+            "Carbs": 8.0,
+            "Calories": 168.4
+        }
+    },
+    {
+        "Name": "Salisbury steak roasted patties made with natural beef and pork topped with onions & gravy, salisbury steak",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 5.0,
+            "Carbs": 6.9,
+            "Calories": 110.2
+        }
+    },
+    {
+        "Name": "100% angus beef sandwich sliced steaks, angus beef",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Smoke pork bar-b-q in a sweet & spicy tennessee style bbq sauce, smoke pork bar-b-q",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 6.4,
+            "Carbs": 13.6,
+            "Calories": 152.0
+        }
+    },
+    {
+        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce, hickory smoked, honey bourbon",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 6.4,
+            "Carbs": 16.4,
+            "Calories": 159.6
+        }
+    },
+    {
+        "Name": "Bone-in pork loin chop, pork",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 7.8,
+            "Carbs": 0.0,
+            "Calories": 140.6
+        }
+    },
+    {
+        "Name": "All natural* fully cooked pork sausage",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 37.2,
+            "Carbs": 2.3,
+            "Calories": 390.4
+        }
+    },
+    {
+        "Name": "Fully cooked beef fajitas, beef",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 3.6,
+            "Carbs": 4.8,
+            "Calories": 132.4
+        }
+    },
+    {
+        "Name": "Sirloin thinly sliced & shaped philly beef steaks, sirloin",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 12.2,
+            "Carbs": 1.0,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce, hickory smoked",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 6.4,
+            "Carbs": 16.4,
+            "Calories": 159.6
+        }
+    },
+    {
+        "Name": "Hickory smoked hand pulled pork bbq & sauce with chorizo style seasoning, hickory smoked",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 0.0,
+            "Carbs": 1.8,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce, smokehouse style",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 10.0,
+            "Carbs": 13.6,
+            "Calories": 212.8
+        }
+    },
+    {
+        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce, hickory smoked & seasoned",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 11.9,
+            "Carbs": 9.5,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Pork sausage patties, pork",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 37.2,
+            "Carbs": 2.3,
+            "Calories": 390.4
+        }
+    },
+    {
+        "Name": "Beefy beyond beef crumbles, beefy",
+        "Nutrients": {
+            "Protein": 25.4,
+            "Fat": 5.5,
+            "Carbs": 3.6,
+            "Calories": 165.5
+        }
+    },
+    {
+        "Name": "Feisty beyond beef crumbles, feisty",
+        "Nutrients": {
+            "Protein": 25.4,
+            "Fat": 4.5,
+            "Carbs": 3.6,
+            "Calories": 156.5
+        }
+    },
+    {
+        "Name": "Hickory smoked hand pulled pork bbq & sauce with chorizo style seasoning, hickory smoked with chorizo style seasoning",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 0.0,
+            "Carbs": 1.8,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Smoked sliced brisket, smoked",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 253.0
+        }
+    },
+    {
+        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce, tennessee bbq",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 10.0,
+            "Carbs": 13.6,
+            "Calories": 212.8
+        }
+    },
+    {
+        "Name": "Patties made with only premium cuts of pork, swiss cheese & mushroom",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 25.7,
+            "Carbs": 3.5,
+            "Calories": 305.3
+        }
+    },
+    {
+        "Name": "Grass fed organic beef tenderloin steaks",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 138.6
+        }
+    },
+    {
+        "Name": "Pure beef sandwich steaks, pure beef",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Original boneless beef bottom sirloin steak, original",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.8,
+            "Carbs": 0.0,
+            "Calories": 154.4
+        }
+    },
+    {
+        "Name": "Grass fed beef strip steaks",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 7.8,
+            "Carbs": 0.0,
+            "Calories": 152.2
+        }
+    },
+    {
+        "Name": "Ancestral blend 100% grass fed beef, ancestral blend",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 166.6
+        }
+    },
+    {
+        "Name": "All beef sandwich steaks, beef",
+        "Nutrients": {
+            "Protein": 14.6,
+            "Fat": 3.6,
+            "Carbs": 0.0,
+            "Calories": 90.8
+        }
+    },
+    {
+        "Name": "Boneless bacon-wrapped pork filet",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 151.7
+        }
+    },
+    {
+        "Name": "Spicy fully cooked pork sausage patties, spicy",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 38.0,
+            "Carbs": 2.0,
+            "Calories": 406.0
+        }
+    },
+    {
+        "Name": "73 % lean 7% fat 100% grass fed & finished ground beef",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 148.7
+        }
+    },
+    {
+        "Name": "Ribeye steak grass-fed organic beef, ribeye steak",
+        "Nutrients": {
+            "Protein": 19.7,
+            "Fat": 15.1,
+            "Carbs": 0.0,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Bacon wrapped suffed pork lion, peppers, onions & mozzarella cheese",
+        "Nutrients": {
+            "Protein": 18.5,
+            "Fat": 14.8,
+            "Carbs": 1.5,
+            "Calories": 213.2
+        }
+    },
+    {
+        "Name": "Premium pork links, original",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 32.4,
+            "Carbs": 2.7,
+            "Calories": 367.2
+        }
+    },
+    {
+        "Name": "Carne asada steak seasoned beef strips in mexican style sauce, carne asada steak",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 4.0,
+            "Carbs": 3.5,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Korean bbq style beef kalbi thinly sliced beef with up to 20% of a soy garlic marinade, korean bbq style beef kalbi",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 8.8,
+            "Carbs": 9.7,
+            "Calories": 185.2
+        }
+    },
+    {
+        "Name": "Sizzlin starters' pork breakfast sandwich steaks, sausage",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 25.9,
+            "Carbs": 2.4,
+            "Calories": 299.1
+        }
+    },
+    {
+        "Name": "Pork bar-b-q with sauce, hickory smoked",
+        "Nutrients": {
+            "Protein": 22.2,
+            "Fat": 7.4,
+            "Carbs": 2.5,
+            "Calories": 165.4
+        }
+    },
+    {
+        "Name": "Smoked brisket burnt ends with sauce, smoked",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 9.0,
+            "Carbs": 14.0,
+            "Calories": 189.0
+        }
+    },
+    {
+        "Name": "Bistro steak beef sirloin filet, bistro steak",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 6.4,
+            "Carbs": 0.0,
+            "Calories": 132.0
+        }
+    },
+    {
+        "Name": "Boneless pork chops, pork",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 146.4
+        }
+    },
+    {
+        "Name": "Beef sirloin filet bistro steak, beef sirloin filet",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 6.4,
+            "Carbs": 0.0,
+            "Calories": 132.0
+        }
+    },
+    {
+        "Name": "Beef organic liver, beef",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.6,
+            "Carbs": 3.6,
+            "Calories": 125.2
+        }
+    },
+    {
+        "Name": "Ground beef with onions crumbles frozen uncooked meat, ground beef",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 16.1,
+            "Carbs": 1.8,
+            "Calories": 209.3
+        }
+    },
+    {
+        "Name": "Top sirloin beef steaks, top sirloin beef",
+        "Nutrients": {
+            "Protein": 19.0,
+            "Fat": 14.1,
+            "Carbs": 0.0,
+            "Calories": 202.9
+        }
+    },
+    {
+        "Name": "Grass-fed beef liver",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 0.0,
+            "Carbs": 3.5,
+            "Calories": 95.6
+        }
+    },
+    {
+        "Name": "Seasoned & smoked unsauced pulled pork, seasoned & smoked",
+        "Nutrients": {
+            "Protein": 34.1,
+            "Fat": 20.0,
+            "Carbs": 0.0,
+            "Calories": 316.4
+        }
+    },
+    {
+        "Name": "Fully cooked gyros slices",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 22.1,
+            "Carbs": 1.8,
+            "Calories": 276.9
+        }
+    },
+    {
+        "Name": "Beef pepper steak beef strips in asian style pepper sauce, beef pepper steak",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 1.8,
+            "Carbs": 7.8,
+            "Calories": 78.6
+        }
+    },
+    {
+        "Name": "Boneless pork loin chops, loin chops",
+        "Nutrients": {
+            "Protein": 20.8,
+            "Fat": 3.0,
+            "Carbs": 0.0,
+            "Calories": 110.2
+        }
+    },
+    {
+        "Name": "80% lean/20% fat 100% ground beef",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 20.4,
+            "Carbs": 0.0,
+            "Calories": 250.8
+        }
+    },
+    {
+        "Name": "Beef organic grass-fed ribeye steak, beef",
+        "Nutrients": {
+            "Protein": 19.7,
+            "Fat": 15.1,
+            "Carbs": 0.0,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Ground venison with 3% beef, beef",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 165.7
+        }
+    },
+    {
+        "Name": "Country fried pork premium breaded pork patties, home-style country gravy pouches, country fried pork",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 9.2,
+            "Carbs": 15.5,
+            "Calories": 177.2
+        }
+    },
+    {
+        "Name": "Boneless beef shoulder petite tender steak tips",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Seasoned fully cooked steak beef strips, seasoned",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 8.3,
+            "Carbs": 2.4,
+            "Calories": 174.7
+        }
+    },
+    {
+        "Name": "70% lean 30% fat ground beef",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 30.1,
+            "Carbs": 0.0,
+            "Calories": 327.7
+        }
+    },
+    {
+        "Name": "Pork raw bone-in ham steak, pork",
+        "Nutrients": {
+            "Protein": 18.9,
+            "Fat": 5.3,
+            "Carbs": 3.5,
+            "Calories": 137.3
+        }
+    },
+    {
+        "Name": "80% lean/20% fat ground beef crumbles",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 19.6,
+            "Carbs": 0.0,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Ground beef crumbles with onions, onions",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 16.1,
+            "Carbs": 1.8,
+            "Calories": 209.3
+        }
+    },
+    {
+        "Name": "Boneless beef top sirloin steak, boneless beef",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 4.3,
+            "Carbs": 0.0,
+            "Calories": 127.1
+        }
+    },
+    {
+        "Name": "Grilled chicken strips",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.0,
+            "Carbs": 2.4,
+            "Calories": 122.2
+        }
+    },
+    {
+        "Name": "Chicken breast nuggets",
+        "Nutrients": {
+            "Protein": 13.2,
+            "Fat": 12.1,
+            "Carbs": 14.5,
+            "Calories": 219.7
+        }
+    },
+    {
+        "Name": "100% pure beef sliced steaks",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 315.3
+        }
+    },
+    {
+        "Name": "Wafer sliced lean sirloin tip beef steaks",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 152.0
+        }
+    },
+    {
+        "Name": "Fast fixin' restaurant style country fried steaks, 22.75 oz",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 15.2,
+            "Carbs": 16.1,
+            "Calories": 247.6
+        }
+    },
+    {
+        "Name": "Smoky bbq plant-based ribs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.5,
+            "Carbs": 12.8,
+            "Calories": 170.1
+        }
+    },
+    {
+        "Name": "Maple bourbon bbq plant-based ribs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.5,
+            "Carbs": 12.8,
+            "Calories": 170.1
+        }
+    },
+    {
+        "Name": "Southern gold bbq plant-based ribs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.5,
+            "Carbs": 13.5,
+            "Calories": 172.9
+        }
+    },
+    {
+        "Name": "Chuck & brisket beef patties",
+        "Nutrients": {
+            "Protein": 17.2,
+            "Fat": 19.9,
+            "Carbs": 0.0,
+            "Calories": 247.9
+        }
+    },
+    {
+        "Name": "Chile verde cooked beef with taco sauce, chile verde beef with taco sauce",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 12.5,
+            "Carbs": 3.6,
+            "Calories": 191.3
+        }
+    },
+    {
+        "Name": "Grass-fed organic beef strip steak, beef",
+        "Nutrients": {
+            "Protein": 21.9,
+            "Fat": 5.0,
+            "Carbs": 0.0,
+            "Calories": 132.6
+        }
+    },
+    {
+        "Name": "Seasoned steak strips, seasoned",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 8.3,
+            "Carbs": 2.4,
+            "Calories": 174.7
+        }
+    }
+]

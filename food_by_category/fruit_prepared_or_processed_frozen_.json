@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Cascadian farm organic blueberries",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.7,
+            "Carbs": 11.8,
+            "Calories": 56.3
+        }
+    },
+    {
+        "Name": "Cascadian farm premium organic wild blueberries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.3,
+            "Calories": 57.2
+        }
+    },
+    {
+        "Name": "Cascadian farm premium organic cherries",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 14.7,
+            "Calories": 62.0
+        }
+    },
+    {
+        "Name": "Cascadian farm premium organic strawberries",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.0,
+            "Carbs": 7.8,
+            "Calories": 34.0
+        }
+    }
+]

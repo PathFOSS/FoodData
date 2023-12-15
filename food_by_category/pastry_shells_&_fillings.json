@@ -1,0 +1,5321 @@
+[
+    {
+        "Name": "Dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 75.0,
+            "Calories": 335.7
+        }
+    },
+    {
+        "Name": "Fancy nut cake & pastry filling",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 16.7,
+            "Carbs": 52.8,
+            "Calories": 372.7
+        }
+    },
+    {
+        "Name": "Cherry pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Strawberry pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.0,
+            "Calories": 108.0
+        }
+    },
+    {
+        "Name": "Fine dessert filling, cherry, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Fine dessert filling, pineapple, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Fine dessert filling, raspberry, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Fine dessert filling, poppyseed, poppyseed",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 55.6,
+            "Calories": 332.1
+        }
+    },
+    {
+        "Name": "Apple leaf, pie filling, peach, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Lemon creme pie filling, lemon creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Blueberry pie filling & topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Apple pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.3,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling or topping, lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Blueberry pie filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Strawberry pie filling or topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Blackberry pie filling & topping, blackberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Cake & pastry filling dessert, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Cake & pastry filling, mixed berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 47.2,
+            "Calories": 188.8
+        }
+    },
+    {
+        "Name": "Cake & pastry filling, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Cherry simply pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Original country apple pie filling & topping, original country apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.1,
+            "Calories": 112.4
+        }
+    },
+    {
+        "Name": "Cherry pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Homestyle apple pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.4,
+            "Carbs": 20.0,
+            "Calories": 101.6
+        }
+    },
+    {
+        "Name": "Pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping with cinnamon!, apple, cinnamon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Blueberry pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Cherries jubilee topping, cherries jubilee",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.8,
+            "Calories": 123.2
+        }
+    },
+    {
+        "Name": "Apple organic fruit filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Peach pie filling & topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Sweet & zesty piefilling or topping, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.2,
+            "Carbs": 30.6,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Banana cream instant pudding & pie filling, banana cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.3,
+            "Calories": 369.2
+        }
+    },
+    {
+        "Name": "Cherry topping & pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Cherry light topping & pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Apple topping & pie filling, apple",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Organic cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Baker's corner, apple pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Apple pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 34.6,
+            "Calories": 138.4
+        }
+    },
+    {
+        "Name": "Pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Harris teeter, pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Harris teeter, cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Del's pastry ltd., dessert shells",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 9.2,
+            "Carbs": 52.3,
+            "Calories": 304.4
+        }
+    },
+    {
+        "Name": "Solo, fancy nut cake & pastry filling",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 16.7,
+            "Carbs": 52.8,
+            "Calories": 372.7
+        }
+    },
+    {
+        "Name": "Supreme pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Strawberry pie filling or topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Lemon pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.2,
+            "Carbs": 32.9,
+            "Calories": 142.4
+        }
+    },
+    {
+        "Name": "Cherry pie filling or topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Very cherry pie filling or topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.0,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Peach pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Blueberry pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, more fruit pie filling & topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Classic peach pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Wilderness pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.0,
+            "Calories": 108.0
+        }
+    },
+    {
+        "Name": "Very cherry pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Classic cherry pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Country cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Classic apple",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 35.8,
+            "Calories": 148.0
+        }
+    },
+    {
+        "Name": "Classic blueberry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Baker, fine dessert filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Baker, fine dessert filling, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Baker, fine dessert filling, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Baker, fine dessert filling, poppyseed",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 55.6,
+            "Calories": 332.1
+        }
+    },
+    {
+        "Name": "Shoprite, pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Shoprite, pie filling, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Roundy's, instant pudding and pie filling, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Wholly wholesome, organic traditional 6\" shells",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 33.3,
+            "Carbs": 40.0,
+            "Calories": 477.3
+        }
+    },
+    {
+        "Name": "Wholly wholesome, 9",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 18.0,
+            "Carbs": 48.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Mrs. wages, fruit pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 88.9,
+            "Calories": 355.6
+        }
+    },
+    {
+        "Name": "Charm city cakes, duff goldman, cake & cupcake filling, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Danish choice, apple pie filling",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 20.6,
+            "Calories": 86.8
+        }
+    },
+    {
+        "Name": "Danish choice, pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 28.3,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Danish choice, pie filling, raspberry",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.5,
+            "Carbs": 29.4,
+            "Calories": 126.5
+        }
+    },
+    {
+        "Name": "Apple leaf, pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, banana creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Lowes foods, pie filling, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Mother's maid, filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, chocolate creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Mother's maid, filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Musselman's, lemon creme pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, key lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Apollo, fillo phyllo pastry sheets",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 3.1,
+            "Carbs": 54.2,
+            "Calories": 277.9
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Cherry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Pie filling & topping",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Duff goldman, cake & cupcake filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.4,
+            "Carbs": 30.6,
+            "Calories": 144.0
+        }
+    },
+    {
+        "Name": "Hand rolled cannoli shells",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 21.4,
+            "Carbs": 47.6,
+            "Calories": 402.2
+        }
+    },
+    {
+        "Name": "Wonderful pie filling premium mix",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Fruit filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Cannoli shells pastry",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 36.4,
+            "Carbs": 54.5,
+            "Calories": 582.0
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.6,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Cherry fruit tart",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.7,
+            "Calories": 142.8
+        }
+    },
+    {
+        "Name": "Lemon fruit tart",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.0,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "More fruit, pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Duncan hines, pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Premium fruit filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Apple pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, light cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.0,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Grandmother's, pie & pastry filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.7,
+            "Carbs": 36.4,
+            "Calories": 160.9
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Duncan hines, original lemon pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.6,
+            "Carbs": 29.7,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Strawberry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Instant pudding & pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Blueberry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium apple fruit filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Mixed berry premium pie filling & toppping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Michigan apple premium pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Michigan cherry premium pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Premium pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Lite pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Blueberry filling",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 23.3,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Tart apple filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.8,
+            "Calories": 123.2
+        }
+    },
+    {
+        "Name": "Premium raspberry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 116.8
+        }
+    },
+    {
+        "Name": "Premium pie filling topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Kroger, extra cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Kroger, extra peach pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, lite cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.5,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Cake & pastry filling dessert",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Cake & pastry filling for incredible desserts!",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Cherry cake & pastry filling.",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Cake & pastry filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 47.2,
+            "Calories": 188.8
+        }
+    },
+    {
+        "Name": "Poppy seed, cake & pastry filling",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 11.1,
+            "Carbs": 55.6,
+            "Calories": 344.7
+        }
+    },
+    {
+        "Name": "Raspberry cake & pastry filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Prune plum",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Junket danish dessert, pudding pie filling glaze, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 97.1,
+            "Calories": 388.4
+        }
+    },
+    {
+        "Name": "Pineapple cake & pastry filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Omena organics, organic montmorency fruit pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Sweet potato pie filling",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 36.7,
+            "Calories": 151.2
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, very cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Essential everyday, apple pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Whole wheat thin pizza crusts",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 5.0,
+            "Carbs": 51.7,
+            "Calories": 285.0
+        }
+    },
+    {
+        "Name": "Cobbler & pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 39.0,
+            "Calories": 156.0
+        }
+    },
+    {
+        "Name": "Raspberry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Cobbler & pie caramel apple filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Ultra thin & crispy pizza crusts",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 5.3,
+            "Carbs": 55.3,
+            "Calories": 302.9
+        }
+    },
+    {
+        "Name": "Cobbler & pie filling, cherry berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 44.2,
+            "Calories": 176.8
+        }
+    },
+    {
+        "Name": "Backyard cherry tree pie filling",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 30.1,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Pumpkin pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 51.1,
+            "Calories": 204.4
+        }
+    },
+    {
+        "Name": "Old fashioned pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Private selection, california lemon fruit filling, sweetly sour lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.6,
+            "Calories": 218.6
+        }
+    },
+    {
+        "Name": "Private selection, tart cherry & white peach fruit filling, michigan cherries blended with california peaches",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Private selection, key lime fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.6,
+            "Calories": 218.6
+        }
+    },
+    {
+        "Name": "Classic original condensed mincemeat, with raisins & apples",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 0.0,
+            "Carbs": 79.1,
+            "Calories": 325.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, dark sweet cherries",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 21.1,
+            "Calories": 87.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original pie filling & topping, lemon creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.6,
+            "Carbs": 29.7,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original pie filling & topping, red ruby cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Original pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original pie filling & topping, royal blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.1,
+            "Calories": 112.4
+        }
+    },
+    {
+        "Name": "Duncan hines, pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.5,
+            "Calories": 90.0
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, simply cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Simply blueberry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.4,
+            "Calories": 97.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, premium dark sweet cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.2,
+            "Calories": 80.8
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, premium pie filling & topping, apricot",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.4,
+            "Calories": 85.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, berry patch strawberry pie filling & topping, original",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.1,
+            "Calories": 112.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.5,
+            "Calories": 90.0
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, original pie filling & topping, country cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, peach pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original country apple pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.1,
+            "Calories": 112.4
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, original pie filling & topping lemon creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.6,
+            "Carbs": 29.7,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Duncan hines, pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, original caramel apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, apple pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original pie filling & topping, country cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.5,
+            "Calories": 58.0
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, apple pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, original key lime creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.3,
+            "Carbs": 39.6,
+            "Calories": 188.1
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, original berry medley pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, original key lime creme pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.3,
+            "Carbs": 39.6,
+            "Calories": 188.1
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Sugar bowl bakery, mini palmiers",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 30.8,
+            "Carbs": 61.5,
+            "Calories": 554.0
+        }
+    },
+    {
+        "Name": "Toigo orchards, pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 23.3,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Bakery fresh goodness, dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 75.0,
+            "Calories": 335.7
+        }
+    },
+    {
+        "Name": "Spartan, dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 75.0,
+            "Calories": 335.7
+        }
+    },
+    {
+        "Name": "Specialty bakers, red velvet dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 66.7,
+            "Calories": 302.5
+        }
+    },
+    {
+        "Name": "Walnut creek foods, rachel's cookie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 30.0,
+            "Carbs": 60.0,
+            "Calories": 510.0
+        }
+    },
+    {
+        "Name": "Signature kitchens, dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 70.8,
+            "Calories": 318.9
+        }
+    },
+    {
+        "Name": "Sanders, sream puff shells",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.3,
+            "Carbs": 40.5,
+            "Calories": 319.1
+        }
+    },
+    {
+        "Name": "Pastry sheets",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 3.0,
+            "Carbs": 15.6,
+            "Calories": 99.0
+        }
+    },
+    {
+        "Name": "Pastry shells",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 28.6,
+            "Carbs": 48.6,
+            "Calories": 474.6
+        }
+    },
+    {
+        "Name": "Puff pastry sheets",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 21.4,
+            "Carbs": 42.9,
+            "Calories": 364.2
+        }
+    },
+    {
+        "Name": "Limoncello curd",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 13.9,
+            "Carbs": 47.2,
+            "Calories": 313.9
+        }
+    },
+    {
+        "Name": "Lime curd",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 5.0,
+            "Carbs": 60.0,
+            "Calories": 289.0
+        }
+    },
+    {
+        "Name": "Traditional english curd",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 10.0,
+            "Carbs": 53.3,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Light pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 18.8,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Creme pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Apple pie filling with cinnamon, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Pie filling blackberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 43.7,
+            "Calories": 174.8
+        }
+    },
+    {
+        "Name": "Peach pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Pumpkin pie mix",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 28.9,
+            "Calories": 120.0
+        }
+    },
+    {
+        "Name": "Premium quality fuji apple pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.1,
+            "Carbs": 19.3,
+            "Calories": 80.9
+        }
+    },
+    {
+        "Name": "Mini pecan tarts golden pastry shell",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 18.1,
+            "Carbs": 52.6,
+            "Calories": 390.5
+        }
+    },
+    {
+        "Name": "Fruit filling pies",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Fruit filling for pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Fruit filling apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Oven proof apricot pastry filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.2,
+            "Carbs": 65.0,
+            "Calories": 288.8
+        }
+    },
+    {
+        "Name": "Baverian creme",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 1.5,
+            "Carbs": 27.3,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "Tarts with pecan crumble",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 18.9,
+            "Carbs": 42.2,
+            "Calories": 361.3
+        }
+    },
+    {
+        "Name": "Wild at heart blueberry with lemon zest zing pie filling",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 23.3,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Cookies & cream pie filling mix",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.9,
+            "Carbs": 88.5,
+            "Calories": 389.1
+        }
+    },
+    {
+        "Name": "Pudding & pie filling, strawberries & cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.0,
+            "Calories": 368.0
+        }
+    },
+    {
+        "Name": "Pudding & pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.0,
+            "Calories": 368.0
+        }
+    },
+    {
+        "Name": "Mini pecan tarts",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 24.0,
+            "Carbs": 52.0,
+            "Calories": 440.0
+        }
+    },
+    {
+        "Name": "Petits pains, kouign - amann, sweet buttery pastry, chocolate",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 20.9,
+            "Carbs": 53.5,
+            "Calories": 430.1
+        }
+    },
+    {
+        "Name": "Toigo orchards, apple pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.8,
+            "Calories": 123.2
+        }
+    },
+    {
+        "Name": "Grandma's gourmet, frozen pie filling, sweet potato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.9,
+            "Carbs": 18.8,
+            "Calories": 116.7
+        }
+    },
+    {
+        "Name": "Prince, enriched macaroni large shells",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.8,
+            "Carbs": 75.0,
+            "Calories": 366.2
+        }
+    },
+    {
+        "Name": "Creamette, small shells, enriched macaroni product",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 1.8,
+            "Carbs": 75.0,
+            "Calories": 366.2
+        }
+    },
+    {
+        "Name": "Treat filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 33.3,
+            "Carbs": 51.5,
+            "Calories": 505.7
+        }
+    },
+    {
+        "Name": "Deep dish pie shells",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 19.2,
+            "Carbs": 57.7,
+            "Calories": 434.4
+        }
+    },
+    {
+        "Name": "Whole wheat khari puffed pastry",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 35.0,
+            "Carbs": 47.5,
+            "Calories": 535.0
+        }
+    },
+    {
+        "Name": "Puffed pastry",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 40.0,
+            "Carbs": 45.0,
+            "Calories": 570.0
+        }
+    },
+    {
+        "Name": "Apple pie filling and topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Premium quality peach pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.9,
+            "Calories": 111.6
+        }
+    },
+    {
+        "Name": "Premium pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.9,
+            "Calories": 111.6
+        }
+    },
+    {
+        "Name": "Strawberry bagpac",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.4,
+            "Calories": 145.6
+        }
+    },
+    {
+        "Name": "Lucky leaf, supreme pie filling, strawberries & creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Premium raisin pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Lucky leaf, premium pie filling or topping, apple cranberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.4,
+            "Calories": 89.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Premium apricot fruit filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Lucky leaf, supreme pie filling, peaches & creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium strawberry rhubarb fruit filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Banana creme pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Key lime pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Kroger, pie filling, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Winco foods, instant pudding & pie filling, banana cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 95.8,
+            "Calories": 383.2
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, pie filling & topping, lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.5,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Caramel dessert filling",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.6,
+            "Carbs": 46.1,
+            "Calories": 333.4
+        }
+    },
+    {
+        "Name": "Jumbo shells enriched macaroni products",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 2.0,
+            "Carbs": 76.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Apple bagpac",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 39.4,
+            "Calories": 157.6
+        }
+    },
+    {
+        "Name": "Pie filling mix",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "12 mini fillo shells",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 13.6,
+            "Carbs": 63.6,
+            "Calories": 413.2
+        }
+    },
+    {
+        "Name": "Cherry filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Premium fruit filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Premium cherry fruit filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium peach fruit filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Premium apple fruit filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Organic fruit filling to topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Organic fruit filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Simply apple pie filling & topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Deep dish peiecrusts",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 23.8,
+            "Carbs": 52.4,
+            "Calories": 443.0
+        }
+    },
+    {
+        "Name": "Classic raspberry pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Sweet & zesty piefilling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.2,
+            "Carbs": 30.6,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Strawberry pie filling & topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Classic lemon pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.2,
+            "Carbs": 32.9,
+            "Calories": 142.4
+        }
+    },
+    {
+        "Name": "Lemon cheese tarts",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 19.5,
+            "Carbs": 52.4,
+            "Calories": 404.7
+        }
+    },
+    {
+        "Name": "Raspberry pie filling or topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Graham crumbs",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 8.3,
+            "Carbs": 73.3,
+            "Calories": 394.7
+        }
+    },
+    {
+        "Name": "Key lime fruit tart",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 47.1,
+            "Calories": 188.4
+        }
+    },
+    {
+        "Name": "Cinnamon 'n spice apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.1,
+            "Carbs": 24.7,
+            "Calories": 108.7
+        }
+    },
+    {
+        "Name": "Fuji apple pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "9\" pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Chunky pie filling & dessert topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pie filling & dessert topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Oregon triple berry fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Michigan cherry fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "California lemon fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.4,
+            "Carbs": 50.6,
+            "Calories": 224.0
+        }
+    },
+    {
+        "Name": "Oregan triple berry fruit filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Pumpkin",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 8.3,
+            "Calories": 36.4
+        }
+    },
+    {
+        "Name": "Mini fillo shells",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling or topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Vanilla treat filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 82.9,
+            "Calories": 331.6
+        }
+    },
+    {
+        "Name": "Pecan pie filling with aged bourbon",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 15.4,
+            "Carbs": 58.5,
+            "Calories": 378.6
+        }
+    },
+    {
+        "Name": "Washington apple pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Wild maine blueberry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Very cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Light cherry pie filling & topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Vanilla dessert shells",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 0.0,
+            "Carbs": 58.3,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Premium cherry lite pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.6,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Premium apple pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Premium blueberry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium cherry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Tartlet shells",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 26.1,
+            "Carbs": 60.9,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Michigan cherry pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Chocolate phyllo shells, chocolate",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Light cherry topping & pie filling, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Lemon pie filling or topping, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.2,
+            "Carbs": 32.9,
+            "Calories": 142.4
+        }
+    },
+    {
+        "Name": "Very cherry pie filling or topping, very cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Peach pie filling or topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Create forest berry pie filling, forest berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 88.9,
+            "Calories": 355.6
+        }
+    },
+    {
+        "Name": "Pie filling, very cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Molten filling fudge",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.3,
+            "Carbs": 66.7,
+            "Calories": 296.5
+        }
+    },
+    {
+        "Name": "Pie filling & topping, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Simply blueberry pie filling & topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.4,
+            "Calories": 97.6
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, pie filling & topping, cherry, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Ortega, mini fiesta flats taco shells",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 20.0,
+            "Carbs": 56.7,
+            "Calories": 433.6
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping with cinnamon!, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pie filling, apple",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling & topping, lite cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Peach pie filling or topping syrup, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Premium fruit filling or topping, cherry & blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.8,
+            "Calories": 143.2
+        }
+    },
+    {
+        "Name": "Apple pie filling, apple",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Very cherry pie filling & topping, very cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Light cherry pie filling & topping, light cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Cherry filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Apple filling & topping",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Cherry pie filling, natural cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Natural cinnamon apple flavor pie filling, cinnamon apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Very apple pie filling & topping, very apple",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Cherry pie fruit filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Cherry pie filling or topping lite, cherry pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 18.8,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Apple pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Cherry pie filling or topping, cherry pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping, apple pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 37.6,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Organic blueberry pie filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Organic cherry pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Lime curd, lime",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 10.0,
+            "Carbs": 33.3,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Mini phyllo pastry shells",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 29.2,
+            "Carbs": 58.3,
+            "Calories": 529.2
+        }
+    },
+    {
+        "Name": "Danish dessert, pudding pie filling glaze, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 97.1,
+            "Calories": 388.4
+        }
+    },
+    {
+        "Name": "Frozen pie filling, sweet potato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.9,
+            "Carbs": 18.8,
+            "Calories": 116.7
+        }
+    },
+    {
+        "Name": "Tropical mix sweetened holiday real fruit",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 0.1,
+            "Carbs": 83.9,
+            "Calories": 337.3
+        }
+    },
+    {
+        "Name": "Pie filling key lime, pie filling",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Lite apple fruit filling & topping, lite apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Gluten free cherry fruit filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Cherry lite pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.6,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Strawberry premium fruit filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.4,
+            "Calories": 89.6
+        }
+    },
+    {
+        "Name": "Premium pineapple fruit filling & topping, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.5,
+            "Calories": 94.0
+        }
+    },
+    {
+        "Name": "Blackberry premium fruit filling & topping, blackberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Apple fruit filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Cake & pastry filling for incredible desserts!, apricot",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Raspberry cake & pastry filling, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Cake & pastry filling, almond",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 7.1,
+            "Carbs": 57.1,
+            "Calories": 303.9
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, very cherry, very cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, peach, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Private selection, california lemon fruit filling, sweetly sour lemon, sweetly sour lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.6,
+            "Calories": 218.6
+        }
+    },
+    {
+        "Name": "Private selection, tart cherry & white peach fruit filling, michigan cherries blended with california peaches, michigan cherries blended with california peaches",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Premium mixed berry fruit filling & topping, mixed berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.5,
+            "Calories": 94.0
+        }
+    },
+    {
+        "Name": "Dark sweet cherry fruit filling & topping, dark sweet cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Key lime filling & topping, key lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Premium cherry fruit filing or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium peach fruit filling or topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Premium apple fruit filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Organic blueberry fruit filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Mini fillo shells, tomato",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Tropical mix sweetened holiday real fruit, tropical mix",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 0.1,
+            "Carbs": 83.9,
+            "Calories": 337.3
+        }
+    },
+    {
+        "Name": "Marionberry pie filling/dessert topping/cobblers, marionberry",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 36.8,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Blackberry pie filling or topping, blackberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Cherry lite fruit filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Cherry fruit filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium caramel apple fruit filling & topping, caramel apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium cherry fruit filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Dessert cups",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 6.2,
+            "Carbs": 47.9,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Light cherry pie filling or topping, light cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 18.8,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Lemon pie filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Raisin premium fruit filling & topping, raisin",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Peach pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 22.4,
+            "Calories": 89.6
+        }
+    },
+    {
+        "Name": "Strawberry rhubarb premium fruit filling & topping, strawberry rhubarb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Cookies & cream cannoli chips, cookies & cream",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 22.2,
+            "Carbs": 55.6,
+            "Calories": 451.8
+        }
+    },
+    {
+        "Name": "Cherry organic fruit filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Raspberry pie filling or topping, raspberry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Premium diced apple & peach fruit filling or topping, diced apple & peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Premium cherry & blueberry fruit filling or topping, cherry & blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Chocolate ganache unbelievably luxurious plant-based desserts, chocolate ganache",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 13.3,
+            "Carbs": 24.4,
+            "Calories": 226.1
+        }
+    },
+    {
+        "Name": "Pie filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Premium peach pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Graham cracker flavor phyllo baked shells, graham cracker",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Phyllo shells, phyllo",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "All natural date paste",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 0.1,
+            "Carbs": 73.0,
+            "Calories": 300.9
+        }
+    },
+    {
+        "Name": "Key lime pie filling, key lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Pineapple premium fruit filling & topping, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.5,
+            "Calories": 94.0
+        }
+    },
+    {
+        "Name": "Mixed berry premium fruit filling & topping, mixed berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.5,
+            "Calories": 94.0
+        }
+    },
+    {
+        "Name": "Apricot premium fruit filling & topping, apricot",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Dark sweet cherry premium fruit filling & topping, dark sweet cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Blueberry premium fruit filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Cherry premium fruit filing or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Peach premium fruit filling or topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Apple premium fruit filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Cherry pie filling and topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Lite cherry fruit filling & topping, lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Caramel apple premium fruit filling & topping, caramel apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Cherry premium fruit filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Diced apple & peach premium fruit filling or topping, diced apple & peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.8,
+            "Calories": 127.2
+        }
+    },
+    {
+        "Name": "Cherry & blueberry premium fruit filling or topping, cherry & blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Original country cherry pie filling & topping, original country cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Phyllo shells",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Original red ruby cherry pie filling & topping, red ruby cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Original royal blueberry pie filling & topping, original royal blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "More fruit cherry pie filling & topping, more fruit cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Cherry no sugar added pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Graham cracker flavor phyllo shells, graham cracker",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Michigan cherry premium pie filling & topping, michigan cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Blueberry premium pie filling & topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.2,
+            "Calories": 164.8
+        }
+    },
+    {
+        "Name": "Michigan apple premium pie filling & topping, michigan apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 42.4,
+            "Calories": 169.6
+        }
+    },
+    {
+        "Name": "Strawberry fruit filling topping glaze & dip, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 44.7,
+            "Calories": 178.8
+        }
+    },
+    {
+        "Name": "Raspberry fruit filling topping glaze & dip, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 44.7,
+            "Calories": 178.8
+        }
+    },
+    {
+        "Name": "Apple fruit filling topping glaze & dip, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.8,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Original red ruby cherry pie filling & topping, original red ruby cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling, cherry, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.8,
+            "Calories": 103.2
+        }
+    },
+    {
+        "Name": "Apple no sugar added pie filling or topping sweetened with splenda, apple sweetened with splenda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.7,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling, blueberry, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Supreme pie filling, blueberries & creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.0,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, more fruit pie filling & topping, peach, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Shoprite, pie filling, blueberry, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Shoprite, pie filling, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, cherry, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Food lion, pie filling & topping, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Charm city cakes, duff goldman, cake & cupcake filling, raspberry, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Danish choice, pie filling, cherry, cherry",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 28.3,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Danish choice, pie filling, raspberry, raspberry",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.5,
+            "Carbs": 29.4,
+            "Calories": 126.5
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, banana creme, banana creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Lowes foods, pie filling, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Pie filling , blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Mother's maid, filling or topping, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, chocolate creme, chocolate creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Mother's maid, filling or topping, cherry, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Fillo phyllo pastry sheets",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 3.1,
+            "Carbs": 54.2,
+            "Calories": 277.9
+        }
+    },
+    {
+        "Name": "Pie filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Ginger evans, pie filling & topping, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Pie filling & topping, original country peach",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Wonderful pie filling premium mix, blueberry chiffon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Pie filling & topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, light cherry, light cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.0,
+            "Calories": 84.0
+        }
+    },
+    {
+        "Name": "Grandmother's, pie & pastry filling, lemon, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.7,
+            "Carbs": 36.4,
+            "Calories": 160.9
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, blueberry, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Spartan, pie filling, cherry, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 136.4
+        }
+    },
+    {
+        "Name": "Strawberry pie filling , strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Pie filling or topping, light cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 18.8,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Pie filling & topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Michigan cherry premium pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Premium pie filling & topping, red haven peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.1,
+            "Calories": 64.4
+        }
+    },
+    {
+        "Name": "Premium raspberry pie filling & topping, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 116.8
+        }
+    },
+    {
+        "Name": "Pie filling, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Kroger, extra cherry pie filling, cherry, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Kroger, extra peach pie filling, peach, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Danish dessert, pudding pie filling glaze, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 97.1,
+            "Calories": 388.4
+        }
+    },
+    {
+        "Name": "Cobbler & pie filling, marionberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 39.0,
+            "Calories": 156.0
+        }
+    },
+    {
+        "Name": "Fischer & wieser, old fashioned cherry pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 34.1,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Tart cherry & white peach fruit filling, tart cherry & white peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, dark sweet cherries, dark sweet cherries",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 21.1,
+            "Calories": 87.6
+        }
+    },
+    {
+        "Name": "Simply blueberry pie filling & topping, simply blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Duncan hines, wilderness, premium pie filling & topping, apricot, apricot",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 21.4,
+            "Calories": 85.6
+        }
+    },
+    {
+        "Name": "Simply strawberry pie filling & topping, simply strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Duncan hines, comstock, pie filling & topping, original key lime creme, original key lime creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.3,
+            "Carbs": 39.6,
+            "Calories": 188.1
+        }
+    },
+    {
+        "Name": "Original lemon pie filling & topping, original lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.6,
+            "Carbs": 29.7,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Original lemon creme pie filling & topping, original lemon creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.6,
+            "Carbs": 29.7,
+            "Calories": 133.2
+        }
+    },
+    {
+        "Name": "Original berry medley pie filling & topping, original berry medley",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.0,
+            "Calories": 144.0
+        }
+    },
+    {
+        "Name": "Original caramel apple pie filling & topping, original caramel apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 116.8
+        }
+    },
+    {
+        "Name": "Raspberry pie filling & topping, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.1,
+            "Calories": 124.4
+        }
+    },
+    {
+        "Name": "Simply raspberry pie filling & topping, simply raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.1,
+            "Calories": 124.4
+        }
+    },
+    {
+        "Name": "Cherry fruit filling topping glaze & dip, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Duff goldman, cake & cupcake filling, lemon, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.4,
+            "Carbs": 30.6,
+            "Calories": 144.0
+        }
+    },
+    {
+        "Name": "Cobbler & pie filling, peach amaretto",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 39.0,
+            "Calories": 156.0
+        }
+    },
+    {
+        "Name": "Cookies & cream flavor pie filling mix, cookies & cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.9,
+            "Carbs": 88.5,
+            "Calories": 389.1
+        }
+    },
+    {
+        "Name": "Banana cream flavor instant pudding & pie filling, banana cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.3,
+            "Calories": 369.2
+        }
+    },
+    {
+        "Name": "Original lite cherry pie filling & topping, original lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 16.5,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Apricot cake & pastry filling, apricot",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 48.6,
+            "Calories": 194.4
+        }
+    },
+    {
+        "Name": "Poppy seed cake & pastry filling, poppy seed",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 9.7,
+            "Carbs": 58.3,
+            "Calories": 342.9
+        }
+    },
+    {
+        "Name": "Almond cake & pastry filling, almond",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 7.1,
+            "Carbs": 60.0,
+            "Calories": 315.5
+        }
+    },
+    {
+        "Name": "Lite cherry more fruit pie filling & topping, lite cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.5,
+            "Calories": 58.0
+        }
+    },
+    {
+        "Name": "Very apple pie filling or topping, very apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pie filling ",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Baverian creme ",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 1.5,
+            "Carbs": 27.3,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "Strawberry cheesecake cup, strawberry",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.1,
+            "Carbs": 20.6,
+            "Calories": 218.1
+        }
+    },
+    {
+        "Name": "Original no bake filling cheesecake, original",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 19.8,
+            "Carbs": 20.9,
+            "Calories": 280.6
+        }
+    },
+    {
+        "Name": "Mincemeat filling & topping, rum & brandy",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 0.0,
+            "Carbs": 47.3,
+            "Calories": 194.8
+        }
+    },
+    {
+        "Name": "9\"\" pie filling or topping",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Classic original mincemeat with raisins & apples, classic original",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 0.0,
+            "Carbs": 48.0,
+            "Calories": 196.0
+        }
+    },
+    {
+        "Name": "Dark chocolate raspberry cheesecake cup, dark chocolate raspberry",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 15.2,
+            "Carbs": 29.4,
+            "Calories": 271.6
+        }
+    },
+    {
+        "Name": "Apple no sugar added pie filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.2,
+            "Calories": 32.8
+        }
+    },
+    {
+        "Name": "Wholly wholesome, organic traditional 6\"\" shells",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 33.3,
+            "Carbs": 40.0,
+            "Calories": 477.3
+        }
+    },
+    {
+        "Name": "Gluten free 9\"\" pie shells",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 18.0,
+            "Carbs": 48.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Lemon fruit tart ",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.0,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "Lite cherry pie filling, lite cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 84.8
+        }
+    },
+    {
+        "Name": "Strawberry pie filling, strawberry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Cherry cake & pastry filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 47.4,
+            "Calories": 189.6
+        }
+    },
+    {
+        "Name": "Cherry flavor pie filling & topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Blueberry flavor simply pie filling & topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Strawberry simply pie filling & topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Simply cherry pie filling & topping, simply cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 26.7,
+            "Calories": 106.8
+        }
+    },
+    {
+        "Name": "Cherry no sugar added pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Raspberry flavor simply pie filling & topping, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.1,
+            "Calories": 124.4
+        }
+    },
+    {
+        "Name": "Simply peach pie filling & topping, simply peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.6,
+            "Calories": 102.4
+        }
+    },
+    {
+        "Name": "Simply apple pie filling & topping, simply apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.4,
+            "Calories": 97.6
+        }
+    },
+    {
+        "Name": "California lemon fruit filling, california lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.6,
+            "Calories": 218.6
+        }
+    },
+    {
+        "Name": "Key lime fruit filling, key lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.8,
+            "Carbs": 50.6,
+            "Calories": 218.6
+        }
+    },
+    {
+        "Name": "Toigo orchards, pie filling, blueberry, blueberry",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 23.3,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 169.6
+        }
+    },
+    {
+        "Name": "Petits pains, kouign - amann, sweet buttery pastry, chocolate, chocolate",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 20.9,
+            "Carbs": 53.5,
+            "Calories": 430.1
+        }
+    },
+    {
+        "Name": "Pie filling mix, key lime",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Cherry no sugar added pie filling or topping sweetened with splenda, cherry sweetened with splenda",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.4,
+            "Calories": 37.6
+        }
+    },
+    {
+        "Name": "Chunky pie filling & dessert topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pie filling & dessert topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Oregon triple berry fruit filling, oregon triple berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Michigan cherry fruit filling, michigan cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.3,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Vanilla treat filling, vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 82.9,
+            "Calories": 331.6
+        }
+    },
+    {
+        "Name": "Premium cherry lite pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.6,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Premium apple pie filling, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Premium blueberry pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.9,
+            "Calories": 103.6
+        }
+    },
+    {
+        "Name": "Premium cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Sweet lemon cannoli chips, sweet lemon",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 18.5,
+            "Carbs": 59.3,
+            "Calories": 433.3
+        }
+    },
+    {
+        "Name": "Traditional english curd, key lime",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 10.0,
+            "Carbs": 53.3,
+            "Calories": 330.0
+        }
+    },
+    {
+        "Name": "Pie filling, caramel maple pumpkin",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 14.8,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Creme pie filling, chocolate mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Fruit filling pies, cherry",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Fruit filling for pie, light cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Fruit filling, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Fruit filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Instant pudding & pie filling, chocolate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Pudding & pie filling, peaches & cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.0,
+            "Calories": 368.0
+        }
+    },
+    {
+        "Name": "Instant pudding & pie filling, banana cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 95.8,
+            "Calories": 383.2
+        }
+    },
+    {
+        "Name": "Frozen pie filling, sweet potato, sweet potato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.9,
+            "Carbs": 18.8,
+            "Calories": 116.7
+        }
+    },
+    {
+        "Name": "Premium pie filling or topping, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.9,
+            "Calories": 111.6
+        }
+    },
+    {
+        "Name": "Instant pudding & pie filling, pistachio",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 95.8,
+            "Calories": 383.2
+        }
+    },
+    {
+        "Name": "Instant pudding & pie filling, butterscotch",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 95.8,
+            "Calories": 383.2
+        }
+    },
+    {
+        "Name": "Lucky leaf, supreme pie filling, strawberries & creme, strawberries & creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Lucky leaf, premium pie filling or topping, apple cranberry, apple cranberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Musselman's, pie filling, strawberry, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Lucky leaf, supreme pie filling, peaches & creme, peaches & creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Pie filling, chocolate creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Banana creme pie filling, banana creme",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Kroger, pie filling, apple, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.9,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Winco foods, instant pudding & pie filling, banana cream, banana cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 95.8,
+            "Calories": 383.2
+        }
+    },
+    {
+        "Name": "Cinnamon 'n spice apple, cinnamon 'n spice apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 1.1,
+            "Carbs": 24.7,
+            "Calories": 108.7
+        }
+    },
+    {
+        "Name": "Fuji apple pie filling or topping, fuji apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "9\"\" pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Premium pie filling & topping, raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.2,
+            "Calories": 116.8
+        }
+    },
+    {
+        "Name": "Washington apple pie filling, washington apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 30.6,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Wild maine blueberry pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Blueberry pie filling or topping, blueberry pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Sicilian style 6 hand rolled cannoli shells, sicilian style",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.3,
+            "Carbs": 50.0,
+            "Calories": 357.1
+        }
+    },
+    {
+        "Name": "Cherry flavored pie filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.4,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Pecan pie filling with aged bourbon, pecan pie with aged bourbon",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 15.4,
+            "Carbs": 58.5,
+            "Calories": 378.6
+        }
+    },
+    {
+        "Name": "Blueberry flavored pie filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Pineapple flavored pie filling, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.3,
+            "Calories": 101.2
+        }
+    },
+    {
+        "Name": "French lemon flavored filling, french lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 31.5,
+            "Calories": 131.4
+        }
+    },
+    {
+        "Name": "Lemon flavored filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 30.3,
+            "Calories": 126.6
+        }
+    },
+    {
+        "Name": "Deluxe apple pie filling, deluxe apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.6,
+            "Calories": 110.4
+        }
+    },
+    {
+        "Name": "Maraschino cocktail cherries pitted candied cherries in marasca sour cherry syrup, maraschino cocktail cherries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Blueberry compote, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 35.6,
+            "Calories": 142.4
+        }
+    },
+    {
+        "Name": "Cherry filling or topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 24.1,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Strawberry flavored glaze, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.0,
+            "Calories": 124.0
+        }
+    },
+    {
+        "Name": "Melissa's, french crepes",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 7.0,
+            "Carbs": 63.4,
+            "Calories": 344.6
+        }
+    },
+    {
+        "Name": "Chocolate flavor phyllo shells, chocolate",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 14.3,
+            "Carbs": 57.1,
+            "Calories": 414.3
+        }
+    },
+    {
+        "Name": "Blueberry filling or topping, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 29.9,
+            "Calories": 119.6
+        }
+    },
+    {
+        "Name": "Apple pie filling, apple pie",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.8,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Vanilla dessert shells, vanilla",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 0.0,
+            "Carbs": 58.3,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Apple pie filling or topping with cinnamon!, apple with cinnamon!",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Dark cherries in bourbon, dark cherries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Strawberry flavor mini tart with filling, strawberry",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 14.8,
+            "Carbs": 77.8,
+            "Calories": 459.2
+        }
+    },
+    {
+        "Name": "Blackberry filling, blackberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.7,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Crisp & buttery tartlet shells pre-baked pastries, crisp & buttery",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 26.1,
+            "Carbs": 60.9,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Mini tart shells",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 24.2,
+            "Carbs": 66.7,
+            "Calories": 509.0
+        }
+    },
+    {
+        "Name": "Blueberry organic pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Cherry pie fill & dessert topping, cherry pie",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 0.0,
+            "Carbs": 33.3,
+            "Calories": 137.6
+        }
+    },
+    {
+        "Name": "Tart cherry filling",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 38.4,
+            "Calories": 156.8
+        }
+    },
+    {
+        "Name": "Blueberry pie filling",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 117.6
+        }
+    },
+    {
+        "Name": "Premium mini dessert shells",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 29.4,
+            "Carbs": 41.2,
+            "Calories": 453.0
+        }
+    },
+    {
+        "Name": "Chocolate mini tart shells, chocolate",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.2,
+            "Carbs": 60.6,
+            "Calories": 496.6
+        }
+    },
+    {
+        "Name": "Organic, blueberry pie filling, blueberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Organic, cherry pie filling, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.2,
+            "Calories": 112.8
+        }
+    },
+    {
+        "Name": "Original vol-au-vent pastry shells, original",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 42.6,
+            "Carbs": 42.6,
+            "Calories": 598.2
+        }
+    },
+    {
+        "Name": "Red raspberry filling, red raspberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 36.8,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Bavarian vanilla filling, bavarian vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 23.6,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Peach flavored filling or topping, peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 28.7,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Apple filling or topping, apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.6,
+            "Calories": 110.4
+        }
+    },
+    {
+        "Name": "Mini cannoli shells",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 15.0,
+            "Carbs": 50.0,
+            "Calories": 375.0
+        }
+    },
+    {
+        "Name": "Pineapple pie filling, pineapple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 25.3,
+            "Calories": 101.2
+        }
+    },
+    {
+        "Name": "French lemon filling, french lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 31.5,
+            "Calories": 131.4
+        }
+    },
+    {
+        "Name": "Lemon filling, lemon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.6,
+            "Carbs": 30.3,
+            "Calories": 126.6
+        }
+    },
+    {
+        "Name": "Strawberry glaze, strawberry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 31.0,
+            "Calories": 124.0
+        }
+    },
+    {
+        "Name": "Fredericksburg peach pie filling, fredericksburg peach",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 32.9,
+            "Calories": 131.6
+        }
+    },
+    {
+        "Name": "Bourbon bada bing cherries, bourbon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Cherry pie filling & dessert topping, cherry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Chunky apple pie filling & dessert topping, chunky apple",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 27.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Cookies & cream pie filling mix, cookies & cream",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 3.9,
+            "Carbs": 88.5,
+            "Calories": 389.1
+        }
+    },
+    {
+        "Name": "Dark cherries in bourbon, bourbon",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Cherries premium cocktail, cherries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 240.0
+        }
+    },
+    {
+        "Name": "Gluten free pie shell, gluten free",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 26.7,
+            "Carbs": 56.7,
+            "Calories": 480.3
+        }
+    }
+]

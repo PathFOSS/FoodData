@@ -1,0 +1,4349 @@
+[
+    {
+        "Name": "Cream of mushroom condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "Cream of celery condensed soup, cream of celery",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 72.0
+        }
+    },
+    {
+        "Name": "Cream of broccoli condensed soup, cream of broccoli",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 9.6,
+            "Calories": 88.0
+        }
+    },
+    {
+        "Name": "98% fat free cream of chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Cream of chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Chicken with rice condensed soup, chicken with rice",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 8.8,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Chicken noodle condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.0,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Cream of chicken reduced sodium condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Cream of mushroom reduced sodium condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "98% fat free cream of mushroom condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 7.2,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Bean with bacon with smoke flavor added condensed soup, bean with bacon with smoke",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "New england clam chowder",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 1.2,
+            "Carbs": 8.3,
+            "Calories": 60.8
+        }
+    },
+    {
+        "Name": "Clam bisque",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 1.7,
+            "Carbs": 10.8,
+            "Calories": 85.3
+        }
+    },
+    {
+        "Name": "Condensed clam chowder",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 1.7,
+            "Carbs": 10.8,
+            "Calories": 85.3
+        }
+    },
+    {
+        "Name": "Condensed lobster bisque",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 3.3,
+            "Carbs": 8.3,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Premium she crab condensed soup",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 2.5,
+            "Carbs": 5.8,
+            "Calories": 58.9
+        }
+    },
+    {
+        "Name": "Chesapeake bay condensed oyster stew, oyster",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 2.9,
+            "Carbs": 9.2,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Home style chicken noodle condensed soup, home style chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.3,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Chicken & rice condensed soup, chicken & rice",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 7.2,
+            "Calories": 46.0
+        }
+    },
+    {
+        "Name": "Vegetable with beef stock condensed soup, vegetable with beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 12.0,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Vegetarian vegetable condensed soup, vegetarian vegetable",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Chicken with stars condensed soup, chicken with stars",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Bean with bacon condensed soup, bean with bacon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Homestyle chicken noodle condensed soup, homestyle chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 6.4,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Cream of potato condensed soup, cream of potato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 11.2,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Vegetable beef condensed soup, vegetable beef",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.2,
+            "Carbs": 10.4,
+            "Calories": 65.2
+        }
+    },
+    {
+        "Name": "Cream of mushroom 98% fat free condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 7.2,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Classic cream of chicken condensed soup, classic, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 96.0
+        }
+    },
+    {
+        "Name": "Classic tomato condensed soup, classic tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Classic cream of mushroom condensed soup, classic cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "Classic cream of chicken condensed soup, classic cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 96.0
+        }
+    },
+    {
+        "Name": "Classic tomato condensed soup, classic",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Cream of jalapeno condensed soup, cream of jalapeno",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 8.0,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Vegetable condensed soup, vegetable",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Chicken and rice condensed soup, chicken and rice",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 8.8,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Cream of mushroom healthy condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 46.0
+        }
+    },
+    {
+        "Name": "Classic condensed cream of mushroom soup, classic",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "Classics cream of mushroom condensed soup, classic cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 8.0,
+            "Calories": 73.0
+        }
+    },
+    {
+        "Name": "Cream of mushroom condensed soup, mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 7.2,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Healthy cream of chicken condensed soup, chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Healthy chicken noodle condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Healthy cream of mushroom condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Condensed tomato soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Clover valley, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Lowes foods, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Lowes foods, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 10.3,
+            "Calories": 68.4
+        }
+    },
+    {
+        "Name": "Lowes foods, condensed soup, bean with bacon",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 3.2,
+            "Carbs": 16.3,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.4,
+            "Carbs": 5.7,
+            "Calories": 54.0
+        }
+    },
+    {
+        "Name": "Condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Cream of broccoli condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 9.6,
+            "Calories": 88.0
+        }
+    },
+    {
+        "Name": "Tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Kaskey's, bean with bacon condensed soup, smoke",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 3.2,
+            "Carbs": 16.3,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Cream of potato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 12.0,
+            "Calories": 68.8
+        }
+    },
+    {
+        "Name": "Dierbergs, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.9,
+            "Carbs": 8.9,
+            "Calories": 86.1
+        }
+    },
+    {
+        "Name": "Schnucks, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Clover valley, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Condensed soup chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Always save, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Best choice, condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Fit & active, condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 99.2
+        }
+    },
+    {
+        "Name": "Galician brand soup with rind-on-bacon, ground smoked pork, and chorizo",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 4.8,
+            "Carbs": 11.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Fit & active, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 46.4
+        }
+    },
+    {
+        "Name": "Cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Vegetable with beef stock condensed soup",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 0.8,
+            "Carbs": 10.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Chicken with rice condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Family size tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "Shoprite, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 6.3,
+            "Carbs": 6.3,
+            "Calories": 85.1
+        }
+    },
+    {
+        "Name": "Shoprite, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 5.8,
+            "Carbs": 7.5,
+            "Calories": 89.0
+        }
+    },
+    {
+        "Name": "Shoprite, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 66.8
+        }
+    },
+    {
+        "Name": "Shoprite, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 2.1,
+            "Carbs": 9.2,
+            "Calories": 65.7
+        }
+    },
+    {
+        "Name": "Roundy's, cheddar cheese condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.0,
+            "Carbs": 8.0,
+            "Calories": 74.4
+        }
+    },
+    {
+        "Name": "Roundy's, chicken and rice condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Roundy's, condensed homestyle chicken noodle soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 6.3,
+            "Calories": 52.4
+        }
+    },
+    {
+        "Name": "Roundy's, extra noodle in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 10.4,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Roundy's, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Roundy's, 98 % fat free cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Roundy's, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Roundy's, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 9.6,
+            "Calories": 62.8
+        }
+    },
+    {
+        "Name": "Chicken with stars condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 10.3,
+            "Calories": 68.4
+        }
+    },
+    {
+        "Name": "Bean with bacon condensed soup",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 3.2,
+            "Carbs": 16.3,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Weis quality, split pea with ham & bacon condensed soup",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 2.3,
+            "Carbs": 15.0,
+            "Calories": 101.9
+        }
+    },
+    {
+        "Name": "Chicken o' noodles condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 62.8
+        }
+    },
+    {
+        "Name": "Weis quality, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 5.6,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Food lion, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 2.0,
+            "Carbs": 8.1,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "Nickelodeon, teenage mutant ninja turtles condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.9,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Lowes foods, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Lowes foods, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.3,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Bookbinder's, gourmet sweet burgundy onion soup",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.0,
+            "Carbs": 4.0,
+            "Calories": 18.8
+        }
+    },
+    {
+        "Name": "Condensed chicken noodle soup",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 1.5,
+            "Carbs": 12.0,
+            "Calories": 79.5
+        }
+    },
+    {
+        "Name": "Cream of mushroom semi-condensed organic soups",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.9,
+            "Carbs": 7.0,
+            "Calories": 78.5
+        }
+    },
+    {
+        "Name": "Great value, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.4,
+            "Carbs": 7.3,
+            "Calories": 54.0
+        }
+    },
+    {
+        "Name": "Cheddar cheese condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.0,
+            "Carbs": 8.0,
+            "Calories": 74.4
+        }
+    },
+    {
+        "Name": "Kaskey's, bean with bacon condensed soup",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 3.2,
+            "Carbs": 16.0,
+            "Calories": 112.0
+        }
+    },
+    {
+        "Name": "Kaskey's, cream of mushroom condensed soup, low fat",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 8.0,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Condensed vegetable soup with beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.4,
+            "Carbs": 15.2,
+            "Calories": 74.0
+        }
+    },
+    {
+        "Name": "Kaskey's, chicken & stars condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Kaskey's, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 99.2
+        }
+    },
+    {
+        "Name": "Kaskey's, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Kaskey's, chicken & rice condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Great value, cream of chicken soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Venice maid foods, condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.0,
+            "Carbs": 16.7,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Lowes foods, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Harris teeter, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Harris teeter, condensed soup, classic tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Harris teeter, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Harris teeter, healthy cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 4.0,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Harris teeter, classic chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.3,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Kendale farm, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Pacific, organic cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.3,
+            "Carbs": 7.6,
+            "Calories": 54.3
+        }
+    },
+    {
+        "Name": "Meijer, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Meijer, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Meijer, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.7,
+            "Carbs": 8.1,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "Meijer, cream of potato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 13.0,
+            "Calories": 72.8
+        }
+    },
+    {
+        "Name": "Meijer, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 6.5,
+            "Carbs": 6.5,
+            "Calories": 87.7
+        }
+    },
+    {
+        "Name": "Meijer, cream of broccoli condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.1,
+            "Carbs": 8.1,
+            "Calories": 75.7
+        }
+    },
+    {
+        "Name": "Meijer, healthy cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Meijer, noodle-iscious condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.4,
+            "Calories": 69.6
+        }
+    },
+    {
+        "Name": "Meijer, chicken with rice condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Meijer, bean with bacon condensed soup",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 3.2,
+            "Carbs": 20.3,
+            "Calories": 139.2
+        }
+    },
+    {
+        "Name": "Meijer, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 13.8,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Reduced sodium low fat tomato soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Lowes foods, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 99.2
+        }
+    },
+    {
+        "Name": "Extra noodles in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 10.4,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Vegetarian vegetable condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.4,
+            "Carbs": 12.4,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Food lion, condensed cream of chicken soup, classic",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 4.9,
+            "Carbs": 5.7,
+            "Calories": 76.5
+        }
+    },
+    {
+        "Name": "Food lion, condensed cream of chicken soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Classic condensed chicken noodle soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Food lion, classic cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 4.9,
+            "Calories": 74.1
+        }
+    },
+    {
+        "Name": "Great value, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "Chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 6.5,
+            "Calories": 46.4
+        }
+    },
+    {
+        "Name": "Cream of mushroom soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 8.1,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Condensed cream of mushroom soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Condensed vegetable with beef stock soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 0.4,
+            "Carbs": 16.3,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Classic condensed chicken with rice soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 52.8
+        }
+    },
+    {
+        "Name": "Chicken & stars soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 56.4
+        }
+    },
+    {
+        "Name": "Chicken & rice condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Chicken noodles",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 5.7,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "Chicken & stars condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Othentic, condensed garden vegetable soup",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 3.5,
+            "Carbs": 19.1,
+            "Calories": 121.9
+        }
+    },
+    {
+        "Name": "Othentic, pea soup",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 3.0,
+            "Carbs": 13.9,
+            "Calories": 107.0
+        }
+    },
+    {
+        "Name": "Othentic, condensed mushroom barley soup",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 3.5,
+            "Carbs": 20.9,
+            "Calories": 135.9
+        }
+    },
+    {
+        "Name": "Fat free cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "P$$t..., condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Extra noodle in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 10.4,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Family size condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Organic soup beans",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 0.0,
+            "Carbs": 16.9,
+            "Calories": 92.4
+        }
+    },
+    {
+        "Name": "Petite lentils, lenticchie beans",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 0.4,
+            "Carbs": 25.4,
+            "Calories": 123.6
+        }
+    },
+    {
+        "Name": "Great value, chicken and stars condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Great value, chicken & rice condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Great value, broccoli cheese condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.1,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Great value, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Great value, homestyle chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.3,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Great value, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Great value, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 11.4,
+            "Calories": 69.2
+        }
+    },
+    {
+        "Name": "Great value, vegetarian vegetable condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 13.8,
+            "Calories": 61.6
+        }
+    },
+    {
+        "Name": "Great value, condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Emily's table, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.3,
+            "Carbs": 7.4,
+            "Calories": 65.7
+        }
+    },
+    {
+        "Name": "Homestyle chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.3,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Western family, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "365 everyday value, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 8.9,
+            "Calories": 38.8
+        }
+    },
+    {
+        "Name": "Great american, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 5.7,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "Bay valley foods, great american chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.8,
+            "Carbs": 4.1,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Bay valley foods, great american tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.6,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Condensed cream of chicken soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Organic cream of chicken",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 2.6,
+            "Carbs": 7.6,
+            "Calories": 65.8
+        }
+    },
+    {
+        "Name": "Western family, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Western family, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.7,
+            "Carbs": 8.1,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "Nice!, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 5.7,
+            "Carbs": 6.5,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "Western family, bean with bacon condensed soup",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 3.2,
+            "Carbs": 20.3,
+            "Calories": 139.2
+        }
+    },
+    {
+        "Name": "Kroger, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Kroger, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 13.0,
+            "Calories": 75.6
+        }
+    },
+    {
+        "Name": "Nice!, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Essential everyday, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.7,
+            "Carbs": 8.1,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "Essential everyday, chicken with rice condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Essential everyday, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Essential everyday, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Beef base",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 0.0,
+            "Carbs": 16.7,
+            "Calories": 133.6
+        }
+    },
+    {
+        "Name": "Great american, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.7,
+            "Carbs": 11.5,
+            "Calories": 85.7
+        }
+    },
+    {
+        "Name": "Mom's, tomato basil soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 13.3,
+            "Carbs": 5.8,
+            "Calories": 149.7
+        }
+    },
+    {
+        "Name": "365 everyday value, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.2,
+            "Carbs": 8.1,
+            "Calories": 46.4
+        }
+    },
+    {
+        "Name": "Reduced sodium tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Healthy condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 6.4,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "Healthy cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Signature kitchens, condensed tomato soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Vegetable condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 13.8,
+            "Calories": 61.6
+        }
+    },
+    {
+        "Name": "Bean with bacon",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 3.2,
+            "Carbs": 20.3,
+            "Calories": 139.2
+        }
+    },
+    {
+        "Name": "Healthy chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Classic condensed tomato soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Classic condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 8.1,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Condensed soup cream of chicken",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 2.0,
+            "Carbs": 8.1,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "Creamed corn",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 8.0,
+            "Carbs": 17.7,
+            "Calories": 156.8
+        }
+    },
+    {
+        "Name": "Fall harvest soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 3.3,
+            "Carbs": 9.2,
+            "Calories": 69.7
+        }
+    },
+    {
+        "Name": "Just-add-chicken soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.8,
+            "Carbs": 8.3,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Healthy chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Healthy homestyle chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.8,
+            "Carbs": 5.6,
+            "Calories": 36.0
+        }
+    },
+    {
+        "Name": "Chicken noodle soup",
+        "Nutrients": {
+            "Protein": 18.9,
+            "Fat": 3.8,
+            "Carbs": 66.0,
+            "Calories": 373.8
+        }
+    },
+    {
+        "Name": "Italian chopped tomatoes with tomato juice",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 26.0
+        }
+    },
+    {
+        "Name": "Lemon chicken & rice soup",
+        "Nutrients": {
+            "Protein": 14.8,
+            "Fat": 13.0,
+            "Carbs": 55.6,
+            "Calories": 398.6
+        }
+    },
+    {
+        "Name": "Noodles in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 10.4,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Market pantry, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 5.7,
+            "Carbs": 6.5,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "Extra noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.4,
+            "Calories": 69.6
+        }
+    },
+    {
+        "Name": "Snow's, bumble bee, corn chowder condensed",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 14.3,
+            "Calories": 74.8
+        }
+    },
+    {
+        "Name": "Hy-vee, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Great value, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.7,
+            "Carbs": 8.1,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "That's smart!, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.8,
+            "Carbs": 4.1,
+            "Calories": 30.0
+        }
+    },
+    {
+        "Name": "Great american, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 6.5,
+            "Calories": 47.2
+        }
+    },
+    {
+        "Name": "Nickelodeon, spongebob squarepants condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.9,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "That's smart!, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.6,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Cape cod, lobster bisque",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 2.1,
+            "Carbs": 7.5,
+            "Calories": 55.7
+        }
+    },
+    {
+        "Name": "Cape cod, clam chowder",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 1.7,
+            "Carbs": 10.0,
+            "Calories": 78.5
+        }
+    },
+    {
+        "Name": "Chincoteague, clam bisque",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 1.7,
+            "Carbs": 10.8,
+            "Calories": 85.3
+        }
+    },
+    {
+        "Name": "Chincoteague, new england clam chowder",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 2.1,
+            "Carbs": 8.3,
+            "Calories": 68.9
+        }
+    },
+    {
+        "Name": "Chincoteague, condensed lobster bisque",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 3.3,
+            "Carbs": 8.3,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Chincoteague, premium she crab condensed soup",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 2.5,
+            "Carbs": 5.8,
+            "Calories": 58.9
+        }
+    },
+    {
+        "Name": "Chesapeake bay condensed oyster stew",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 2.9,
+            "Carbs": 9.2,
+            "Calories": 76.1
+        }
+    },
+    {
+        "Name": "Condensed soup, chicken and rice",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "Lowes foods, condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.6,
+            "Carbs": 8.0,
+            "Calories": 88.8
+        }
+    },
+    {
+        "Name": "Condensed red crab soup",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 1.7,
+            "Carbs": 9.2,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Kendale farm, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "Kitchens of india, mashed vegetable curry, pav bhaji",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 12.0,
+            "Carbs": 12.8,
+            "Calories": 165.6
+        }
+    },
+    {
+        "Name": "Condensed chicken consomme",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 1.6,
+            "Calories": 26.8
+        }
+    },
+    {
+        "Name": "Essential everyday, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 13.8,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Stewed tomatoes",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 5.7,
+            "Calories": 26.0
+        }
+    },
+    {
+        "Name": "Richin, bamboo shoots",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 1.7,
+            "Carbs": 0.0,
+            "Calories": 18.9
+        }
+    },
+    {
+        "Name": "Nice!, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Katsuo udon soup",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 0.8,
+            "Carbs": 33.5,
+            "Calories": 161.2
+        }
+    },
+    {
+        "Name": "Cream of mushroom, reduced sodium condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 72.0
+        }
+    },
+    {
+        "Name": "Home style chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.3,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Cream lentil soup",
+        "Nutrients": {
+            "Protein": 1.3,
+            "Fat": 0.8,
+            "Carbs": 3.9,
+            "Calories": 28.0
+        }
+    },
+    {
+        "Name": "Mushroom & barley soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.7,
+            "Carbs": 4.0,
+            "Calories": 25.5
+        }
+    },
+    {
+        "Name": "Broccoli cheese condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.0,
+            "Carbs": 8.0,
+            "Calories": 74.4
+        }
+    },
+    {
+        "Name": "Beef with vegetables and barley condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 0.8,
+            "Carbs": 12.8,
+            "Calories": 71.2
+        }
+    },
+    {
+        "Name": "Cream of mushroom, condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Condensed cream of celery soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Condensed vegetarian vegetable soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 13.8,
+            "Calories": 61.6
+        }
+    },
+    {
+        "Name": "Condensed chicken with rice soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 52.8
+        }
+    },
+    {
+        "Name": "Creole navy bean soup",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 0.8,
+            "Carbs": 13.1,
+            "Calories": 78.0
+        }
+    },
+    {
+        "Name": "Classic condensed vegetable beef soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 13.8,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Condensed chicken & stars soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 56.4
+        }
+    },
+    {
+        "Name": "Creole red bean soup",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 0.8,
+            "Carbs": 13.1,
+            "Calories": 78.0
+        }
+    },
+    {
+        "Name": "Chicken and stars condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.3,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Classic condensed vegetable with beef stock soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 0.4,
+            "Carbs": 16.3,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Essentials cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Essentials tomato condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.8,
+            "Carbs": 12.8,
+            "Calories": 61.6
+        }
+    },
+    {
+        "Name": "Cream of chicken, condensed soup",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup, black bean cumin & cilantro",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.0,
+            "Carbs": 13.3,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "100% organic lentils",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 0.8,
+            "Carbs": 12.7,
+            "Calories": 87.6
+        }
+    },
+    {
+        "Name": "Classic cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.9,
+            "Carbs": 7.3,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Classic cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.1,
+            "Carbs": 8.1,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "New england clam chowder condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 9.9,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "Chef series vegetable broth concentrate",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.5,
+            "Calories": 42.0
+        }
+    },
+    {
+        "Name": "Chicken and rice condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 7.2,
+            "Calories": 46.0
+        }
+    },
+    {
+        "Name": "French onion with beef stock condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 11.2,
+            "Calories": 65.2
+        }
+    },
+    {
+        "Name": "Bean with bacon, condensed soup",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 3.2,
+            "Carbs": 16.0,
+            "Calories": 112.0
+        }
+    },
+    {
+        "Name": "Chicken noodle condensed soup, chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Chicken and stars condensed soup, chicken and stars",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Healthy cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Organic cream of chicken soup condensed",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 5.6,
+            "Carbs": 7.2,
+            "Calories": 88.8
+        }
+    },
+    {
+        "Name": "Condensed noodle soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 7.2,
+            "Calories": 45.6
+        }
+    },
+    {
+        "Name": "Cream of chicken soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 6.4,
+            "Carbs": 7.2,
+            "Calories": 92.8
+        }
+    },
+    {
+        "Name": "Condensed mushroom soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 5.7,
+            "Calories": 40.4
+        }
+    },
+    {
+        "Name": "Organic tomato soup condensed",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.0,
+            "Calories": 54.4
+        }
+    },
+    {
+        "Name": "Organic cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.6,
+            "Carbs": 6.4,
+            "Calories": 79.2
+        }
+    },
+    {
+        "Name": "Creole etouffee base",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 21.2,
+            "Carbs": 15.2,
+            "Calories": 261.6
+        }
+    },
+    {
+        "Name": "Creole bisque base",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 20.3,
+            "Carbs": 16.1,
+            "Calories": 260.7
+        }
+    },
+    {
+        "Name": "Organic cream of celery soup condensed",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.6,
+            "Carbs": 7.2,
+            "Calories": 82.4
+        }
+    },
+    {
+        "Name": "Creme of no chicken non-dairy condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 6.7,
+            "Calories": 67.8
+        }
+    },
+    {
+        "Name": "Creme of mushroom non-dairy condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 6.7,
+            "Calories": 67.8
+        }
+    },
+    {
+        "Name": "Condensed roasted tomato soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 5.0,
+            "Carbs": 11.7,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Cheddar cheese condensed soup, cheddar cheese",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.2,
+            "Carbs": 8.8,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Organic tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.6,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Organic condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Bean with bacon condensed soup, natural smoke",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Classic vegetable beef condensed soup, classic vegetable beef",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 8.8,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Family size tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Matzo balls in chicken broth",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 3.1,
+            "Carbs": 7.8,
+            "Calories": 68.3
+        }
+    },
+    {
+        "Name": "New england style clam corn chowder",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.9,
+            "Carbs": 8.2,
+            "Calories": 56.3
+        }
+    },
+    {
+        "Name": "Condensed soup, bean with bacon",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 3.2,
+            "Carbs": 16.0,
+            "Calories": 112.0
+        }
+    },
+    {
+        "Name": "New england style condensed clam chowder",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 2.5,
+            "Carbs": 11.1,
+            "Calories": 96.5
+        }
+    },
+    {
+        "Name": "New england condensed clam chowder",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 11.4,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Bar harbor, fish chowder",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 1.5,
+            "Carbs": 8.6,
+            "Calories": 70.3
+        }
+    },
+    {
+        "Name": "Pilgrim joe's, clam chowder a condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 1.6,
+            "Carbs": 9.0,
+            "Calories": 66.8
+        }
+    },
+    {
+        "Name": "Great value, condensed soup, french onion, french onion",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 9.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Chicken with rice condensed soup, chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 8.8,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Clam chower",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 1.2,
+            "Carbs": 8.3,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Market pantry, condensed tomato soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Market pantry, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Market pantry, cream of celery condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.1,
+            "Carbs": 8.9,
+            "Calories": 75.7
+        }
+    },
+    {
+        "Name": "Market pantry, cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Market pantry, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Market pantry, bean with bacon condensed soup, smoke, smoke",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 4.1,
+            "Carbs": 19.5,
+            "Calories": 140.9
+        }
+    },
+    {
+        "Name": "Market pantry, extra noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.4,
+            "Calories": 69.6
+        }
+    },
+    {
+        "Name": "Market pantry, condensed soup, cream of chicken, cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Market pantry, cream of condensed mushroom soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.9,
+            "Carbs": 7.3,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Market pantry, vegetable beef condensed soup",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 11.4,
+            "Calories": 69.2
+        }
+    },
+    {
+        "Name": "Condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 17.1,
+            "Calories": 74.8
+        }
+    },
+    {
+        "Name": "Chicken broth",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 1.6,
+            "Calories": 9.6
+        }
+    },
+    {
+        "Name": "Healthy recipe, tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 14.4,
+            "Calories": 74.8
+        }
+    },
+    {
+        "Name": "Healthy recipe, cream of mushroom condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Condensed soup, chicken & rice",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Heinz, classic cream of tomato soup, original, original",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 2.1,
+            "Carbs": 7.5,
+            "Calories": 53.3
+        }
+    },
+    {
+        "Name": "Classic condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of celery",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 7.3,
+            "Calories": 50.4
+        }
+    },
+    {
+        "Name": "Classic chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 56.4
+        }
+    },
+    {
+        "Name": "Classic condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.9,
+            "Carbs": 7.3,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Cream of mushroom condensed soup, classic",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.1,
+            "Carbs": 8.1,
+            "Calories": 72.5
+        }
+    },
+    {
+        "Name": "Tomato condensed soup, classic",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.3,
+            "Calories": 71.6
+        }
+    },
+    {
+        "Name": "Vegetarian vegetable condensed soup, classic",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.0,
+            "Carbs": 13.8,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Condensed soup, vegetable beef",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 13.8,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Condensed soup, new england clam chowder",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 9.1,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Organic creme of mushroom non-dairy condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 6.7,
+            "Calories": 67.8
+        }
+    },
+    {
+        "Name": "Reduced sodium chicken noodle condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 7.2,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Chicken 'n stars condensed soup, chicken 'n stars",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Chicken & noodles condensed soup, chicken & noodles",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 9.6,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Reduced sodium cream of mushroom condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.6,
+            "Carbs": 6.4,
+            "Calories": 79.2
+        }
+    },
+    {
+        "Name": "Organic tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.0,
+            "Calories": 54.4
+        }
+    },
+    {
+        "Name": "Organic cream of chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.4,
+            "Carbs": 8.9,
+            "Calories": 66.8
+        }
+    },
+    {
+        "Name": "French onion with beef stock condensed soup, french onion",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 10.4,
+            "Calories": 62.0
+        }
+    },
+    {
+        "Name": "Condensed bean with bacon soup, bean with bacon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Healthy tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 14.4,
+            "Calories": 74.8
+        }
+    },
+    {
+        "Name": "Condensed tomato soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Healthy cream of chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Bean with bacon condensed soup with smoke, smoke",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Classic tomato condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.0,
+            "Calories": 70.4
+        }
+    },
+    {
+        "Name": "Cream of chicken condensed soup, chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "French onion with beef stock condensed soup, french onion with beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 10.4,
+            "Calories": 62.0
+        }
+    },
+    {
+        "Name": "Classic vegetable with beef stock condensed soup, classic vegetable with beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 12.0,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Bean & uncured bacon condensed soup",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.8,
+            "Carbs": 16.8,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Vegetable alphabet condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Cream of chicken condensed soup, cream of chicken condensed",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.4,
+            "Carbs": 8.9,
+            "Calories": 66.8
+        }
+    },
+    {
+        "Name": "Healthy recipe, cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Clam chowder condensed",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 1.6,
+            "Carbs": 5.8,
+            "Calories": 60.8
+        }
+    },
+    {
+        "Name": "Cream of chicken 98% fat free condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 9.6,
+            "Calories": 66.4
+        }
+    },
+    {
+        "Name": "Chicken o' noodles condensed soup, chicken o' noodles",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 62.8
+        }
+    },
+    {
+        "Name": "Extra noodles in chicken broth condensed soup, extra noodles in chicken broth",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 10.4,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "Condensed soup, chicken with rice",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 6.4,
+            "Calories": 42.8
+        }
+    },
+    {
+        "Name": "New england condensed clam chowder, new england",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.7,
+            "Carbs": 11.9,
+            "Calories": 69.7
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of mushroom, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Chicken noodle homestyle condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 6.3,
+            "Calories": 52.4
+        }
+    },
+    {
+        "Name": "Chicken & stars condensed soup, chicken & stars",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of broccoli",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 9.6,
+            "Calories": 88.0
+        }
+    },
+    {
+        "Name": "Organic condensed noodle soup, chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 7.2,
+            "Calories": 45.6
+        }
+    },
+    {
+        "Name": "Organic cream of mushroom condensed soup, cream of mushroom soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.6,
+            "Carbs": 6.4,
+            "Calories": 79.2
+        }
+    },
+    {
+        "Name": "Classic vegetable with beef stock condensed soup, classic vegetable",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 12.0,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "Extra noodle in chicken broth condensed soup, extra noodle in chicken broth",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.2,
+            "Calories": 68.8
+        }
+    },
+    {
+        "Name": "Healthy recipe, cream of chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Clam chowder condensed, clam chowder",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 1.6,
+            "Carbs": 5.8,
+            "Calories": 60.8
+        }
+    },
+    {
+        "Name": "Classic chicken noodle condensed soup, classic chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Shrimp & roasted corn chowder, shrimp & roasted",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 6.1,
+            "Carbs": 9.4,
+            "Calories": 102.5
+        }
+    },
+    {
+        "Name": "Lowes foods, condensed soup, bean with bacon, bean with bacon",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 3.2,
+            "Carbs": 16.3,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Kaskey's, bean with bacon condensed soup, smoke, smoke",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 3.2,
+            "Carbs": 16.3,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Classic condensed cream of celery soup, classic",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 68.8
+        }
+    },
+    {
+        "Name": "Condensed soup, vegetable, beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.4,
+            "Carbs": 12.2,
+            "Calories": 62.0
+        }
+    },
+    {
+        "Name": "Broccoli cheese condensed soup, broccoli cheese",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.0,
+            "Carbs": 8.0,
+            "Calories": 74.4
+        }
+    },
+    {
+        "Name": "Beef with vegetables and barley condensed soup, beef with vegetables and barley",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 0.8,
+            "Carbs": 12.8,
+            "Calories": 71.2
+        }
+    },
+    {
+        "Name": "Cream of cauliflower condensed soup, cream of cauliflower",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.5,
+            "Carbs": 8.3,
+            "Calories": 58.9
+        }
+    },
+    {
+        "Name": "Food club, tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 16.8,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of chicken ",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 4.9,
+            "Carbs": 6.5,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "Healthy cream of chicken low fat condensed soup, healthy cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 4.0,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Cream of chicken low fat reduced sodium condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.0,
+            "Calories": 49.2
+        }
+    },
+    {
+        "Name": "Food lion, condensed cream of chicken soup, classic, classic",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 4.9,
+            "Carbs": 5.7,
+            "Calories": 76.5
+        }
+    },
+    {
+        "Name": "Condensed soup, french onion",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 9.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Condensed cream of mushroom soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 8.1,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Condensed vegetable with beef stock soup, classic",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 0.4,
+            "Carbs": 16.3,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Condensed soup, celery",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 6.5,
+            "Carbs": 6.5,
+            "Calories": 87.7
+        }
+    },
+    {
+        "Name": "Condensed soup, homestyle chicken noodle",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 52.8
+        }
+    },
+    {
+        "Name": "P$$t..., condensed soup, cream of mushroom, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 7.2,
+            "Calories": 56.8
+        }
+    },
+    {
+        "Name": "Family size condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.9,
+            "Carbs": 8.1,
+            "Calories": 79.7
+        }
+    },
+    {
+        "Name": "French onion condensed soup, french onion",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.2,
+            "Carbs": 9.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Mushroom condensed soup, mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 78.4
+        }
+    },
+    {
+        "Name": "Soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 6.4,
+            "Calories": 75.2
+        }
+    },
+    {
+        "Name": "Creme of no chicken organic non-dairy condensed soup, creme of no chicken",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 6.7,
+            "Calories": 67.8
+        }
+    },
+    {
+        "Name": "Creme of mushroom organic non-dairy condensed soup, creme of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 6.7,
+            "Calories": 67.8
+        }
+    },
+    {
+        "Name": "Chicken noodles ",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 5.7,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "Condensed soup, minestrone",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 0.8,
+            "Carbs": 15.0,
+            "Calories": 80.4
+        }
+    },
+    {
+        "Name": "Campbell's, cheddar cheese condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 4.2,
+            "Carbs": 11.7,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Garden vegetable condensed soup, garden vegetable",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.8,
+            "Carbs": 8.3,
+            "Calories": 47.2
+        }
+    },
+    {
+        "Name": "Healthy request cream of chicken condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.7,
+            "Carbs": 7.5,
+            "Calories": 48.5
+        }
+    },
+    {
+        "Name": "Turkey sausage with white bean & pesto condensed soup, turkey sausage with white bean & pesto",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 0.8,
+            "Carbs": 11.7,
+            "Calories": 70.8
+        }
+    },
+    {
+        "Name": "Condensed soup, sun-ripened yellow tomato",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.8,
+            "Carbs": 18.3,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "Campbell's, harvest orange tomato condensed soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.8,
+            "Carbs": 18.3,
+            "Calories": 87.2
+        }
+    },
+    {
+        "Name": "Campbell's, condensed lentil soup",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 0.8,
+            "Carbs": 18.3,
+            "Calories": 100.4
+        }
+    },
+    {
+        "Name": "Campbell's, chicken mushroom barley condensed soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 0.8,
+            "Carbs": 10.8,
+            "Calories": 57.2
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup, chicken & stars",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 8.3,
+            "Calories": 58.5
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.2,
+            "Carbs": 14.2,
+            "Calories": 74.4
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup chicken noodle",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 6.7,
+            "Calories": 52.1
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup, bean with bacon, bean with bacon",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 2.5,
+            "Carbs": 21.7,
+            "Calories": 132.5
+        }
+    },
+    {
+        "Name": "Campbell's, italian-style wedding condensed soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 10.0,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Chicken stars & stripes condensed soup, chicken stars & stripes",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 6.7,
+            "Calories": 52.1
+        }
+    },
+    {
+        "Name": "Campbell's, creamy poblano & queso condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 6.7,
+            "Carbs": 7.5,
+            "Calories": 93.5
+        }
+    },
+    {
+        "Name": "Condensed soup, tomato chipotle & olive oil",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.2,
+            "Carbs": 17.5,
+            "Calories": 87.6
+        }
+    },
+    {
+        "Name": "Star wars shapes pasta with chicken in chicken broth condensed soup, chicken",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 7.5,
+            "Calories": 55.3
+        }
+    },
+    {
+        "Name": "Campbell's, pasta with chicken in chicken broth",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 7.5,
+            "Calories": 55.3
+        }
+    },
+    {
+        "Name": "Campbell's, organic cream of mushroom condensed soup",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.0,
+            "Carbs": 8.3,
+            "Calories": 81.4
+        }
+    },
+    {
+        "Name": "Mexican-style chicken noodle condensed soup, mexican-style",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.8,
+            "Carbs": 8.3,
+            "Calories": 50.4
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of potato",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.7,
+            "Carbs": 13.3,
+            "Calories": 75.3
+        }
+    },
+    {
+        "Name": "Campbell's, black bean cumin & cilantro condensed soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.0,
+            "Carbs": 13.3,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "Tuscan-style lentil condensed soup, tuscan-style lentil",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 0.4,
+            "Carbs": 20.8,
+            "Calories": 113.6
+        }
+    },
+    {
+        "Name": "Campbell's, magical shaped pasta with chicken in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.7,
+            "Carbs": 10.8,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Classic recipe condensed soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 15.0,
+            "Calories": 85.3
+        }
+    },
+    {
+        "Name": "Tuscan-style chicken noodle condensed soup, tuscan-style chicken noodle",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 0.4,
+            "Carbs": 8.3,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Southwest-style bean & barley condensed soup, southwest-style bean & barley",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.4,
+            "Carbs": 15.0,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Campbell's, asian-style chicken noodle soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 8.3,
+            "Calories": 58.5
+        }
+    },
+    {
+        "Name": "Campbell's, healthy kids enchanted shapes pasta with chicken in chicken broth condensed soup",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 1.7,
+            "Carbs": 10.8,
+            "Calories": 65.3
+        }
+    },
+    {
+        "Name": "Campbell's, chicken noodle condensed soup",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 9.2,
+            "Calories": 62.1
+        }
+    },
+    {
+        "Name": "Mexican-style chicken tortilla condensed soup, mexican-style chicken tortilla",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 1.7,
+            "Carbs": 17.5,
+            "Calories": 98.5
+        }
+    },
+    {
+        "Name": "Mushroom condensed cooking soup, mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.2,
+            "Carbs": 7.5,
+            "Calories": 44.0
+        }
+    },
+    {
+        "Name": "Condensed creamy cauliflower mac & cheese soup , cauliflower mac & cheese",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.5,
+            "Carbs": 7.5,
+            "Calories": 55.7
+        }
+    },
+    {
+        "Name": "Sweet potato chicken pot pie soup, sweet potato chicken pot pie",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.8,
+            "Carbs": 12.5,
+            "Calories": 60.4
+        }
+    },
+    {
+        "Name": "Butternut squash alfredo with chicken soup, butternut squash alfredo with chicken",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.8,
+            "Carbs": 10.0,
+            "Calories": 50.4
+        }
+    },
+    {
+        "Name": "Roasted red pepper condensed soup, roasted red pepper",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 2.5,
+            "Carbs": 7.5,
+            "Calories": 59.3
+        }
+    },
+    {
+        "Name": "Noodle-iscious condensed soup, noodle-iscious",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.4,
+            "Calories": 69.6
+        }
+    },
+    {
+        "Name": "Tomato reduced sodium low fat healthy condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Cream of tomato classic soup, cream of tomato",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 2.1,
+            "Carbs": 7.5,
+            "Calories": 53.3
+        }
+    },
+    {
+        "Name": "Tomato gluten-free condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 60.8
+        }
+    },
+    {
+        "Name": "Cream of chicken healthy condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Chesapeake cream of crab soup, chesapeake cream of crab",
+        "Nutrients": {
+            "Protein": 1.9,
+            "Fat": 4.5,
+            "Carbs": 1.4,
+            "Calories": 53.7
+        }
+    },
+    {
+        "Name": "Pea condensed soup, pea",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 3.2,
+            "Carbs": 18.4,
+            "Calories": 124.8
+        }
+    },
+    {
+        "Name": "Cream of mushroom organic soups, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 5.5,
+            "Carbs": 5.5,
+            "Calories": 75.5
+        }
+    },
+    {
+        "Name": "Healthy condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 6.4,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "Creamed corn, parmesan & bacon",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 8.0,
+            "Carbs": 17.7,
+            "Calories": 156.8
+        }
+    },
+    {
+        "Name": "New england condensed corn chowder, new england",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.6,
+            "Carbs": 14.3,
+            "Calories": 74.8
+        }
+    },
+    {
+        "Name": "Bean & uncured bacon condensed soup, bean & uncured bacon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.8,
+            "Carbs": 16.8,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Vegetable alphabet condensed soup, vegetable alphabet",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Red borsch condensed red beet soup, red borsch",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 12.8,
+            "Calories": 79.2
+        }
+    },
+    {
+        "Name": "Hearty style baked potato with cheddar and bacon bits soup, hearty style baked potato with cheddar",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 3.7,
+            "Carbs": 9.4,
+            "Calories": 78.9
+        }
+    },
+    {
+        "Name": "Soup, coconut curry",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 3.7,
+            "Carbs": 11.5,
+            "Calories": 85.7
+        }
+    },
+    {
+        "Name": "365 everyday value, condensed soup, cream of mushroom, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.2,
+            "Carbs": 8.1,
+            "Calories": 46.4
+        }
+    },
+    {
+        "Name": "Classic condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Condensed cream of chicken soup, classic",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.7,
+            "Carbs": 8.1,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "Lowes foods, condensed soup, cream of mushroom, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.0,
+            "Carbs": 8.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Chicken noodle healthy reduced sodium condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.5,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "Cream of mushroom healthy reduced sodium condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 1.2,
+            "Carbs": 8.1,
+            "Calories": 46.4
+        }
+    },
+    {
+        "Name": "Tomato reduced sodium condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Cream of chicken healthy reduced sodium condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 6.5,
+            "Calories": 53.6
+        }
+    },
+    {
+        "Name": "Condensed chicken noodle soup, classic",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.3,
+            "Calories": 53.2
+        }
+    },
+    {
+        "Name": "Condensed chicken with rice soup, classic",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 8.9,
+            "Calories": 52.8
+        }
+    },
+    {
+        "Name": "Condensed cream of mushroom soup, classic",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 7.3,
+            "Calories": 83.7
+        }
+    },
+    {
+        "Name": "Campbell's, condensed soup, black bean cumin & cilantro, black bean cumin & cilantro",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.0,
+            "Carbs": 13.3,
+            "Calories": 63.2
+        }
+    },
+    {
+        "Name": "Family size condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 6.4,
+            "Carbs": 8.0,
+            "Calories": 99.2
+        }
+    },
+    {
+        "Name": "Condensed soup, vegetable with beef stock",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 0.8,
+            "Carbs": 10.8,
+            "Calories": 59.6
+        }
+    },
+    {
+        "Name": "Condensed soup, cream of mushroom ",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 5.6,
+            "Carbs": 8.0,
+            "Calories": 88.8
+        }
+    },
+    {
+        "Name": "Tomato traditional flavor condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 64.0
+        }
+    },
+    {
+        "Name": "Traditional flavor vegetable with beef stock condensed soup, traditional vegetable with beef stock",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 12.0,
+            "Calories": 64.8
+        }
+    },
+    {
+        "Name": "New england style condensed clam chowder, new england style",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 2.5,
+            "Carbs": 11.1,
+            "Calories": 96.5
+        }
+    },
+    {
+        "Name": "Chicken noodle reduced sodium condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 6.4,
+            "Calories": 49.6
+        }
+    },
+    {
+        "Name": "Bean with bacon flavor condensed soup, bean with bacon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.4,
+            "Carbs": 16.8,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Chicken noodle soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 1.7,
+            "Carbs": 6.7,
+            "Calories": 52.1
+        }
+    },
+    {
+        "Name": "Classic condensed vegetarian vegetable soup, classic",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Classic condensed chicken & stars soup, classic",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 8.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Cream of chicken gluten-free condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 6.4,
+            "Carbs": 7.2,
+            "Calories": 92.8
+        }
+    },
+    {
+        "Name": "Cream of mushroom gluten-free condensed soup, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 4.8,
+            "Carbs": 8.0,
+            "Calories": 81.6
+        }
+    },
+    {
+        "Name": "Chicken noodle healthy condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 7.2,
+            "Calories": 52.8
+        }
+    },
+    {
+        "Name": "Condensed mushroom broth, mushroom",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.5,
+            "Carbs": 5.0,
+            "Calories": 42.5
+        }
+    },
+    {
+        "Name": "Cream of mushroom semi-condensed organic soups, cream of mushroom",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 5.5,
+            "Carbs": 0.0,
+            "Calories": 53.5
+        }
+    },
+    {
+        "Name": "Condensed cream of jalapeno soup, jalapeno",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 2.0,
+            "Carbs": 8.0,
+            "Calories": 66.0
+        }
+    },
+    {
+        "Name": "Condensed extra noodle soup in chicken broth",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 1.6,
+            "Carbs": 11.2,
+            "Calories": 68.8
+        }
+    },
+    {
+        "Name": "Condensed vegetarian vegetable soup, condensed",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 0.0,
+            "Carbs": 12.8,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "Tomato low fat reduced sodium healthy condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.2,
+            "Carbs": 15.4,
+            "Calories": 78.8
+        }
+    },
+    {
+        "Name": "Golden mushroom condensed soup, golden mushroom",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 2.1,
+            "Carbs": 8.3,
+            "Calories": 58.9
+        }
+    },
+    {
+        "Name": "Creamy chicken noodle condensed soup, creamy chicken",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 5.8,
+            "Carbs": 10.0,
+            "Calories": 102.2
+        }
+    },
+    {
+        "Name": "Beef noodle condensed soup, beef noodle",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 1.2,
+            "Carbs": 7.5,
+            "Calories": 57.6
+        }
+    },
+    {
+        "Name": "New england style lobster corn chowder condensed soup, new england style lobster corn chowder",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 1.6,
+            "Carbs": 9.8,
+            "Calories": 70.0
+        }
+    },
+    {
+        "Name": "Clam corn new england style chowder condensed, clam corn",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 2.0,
+            "Carbs": 11.5,
+            "Calories": 86.8
+        }
+    },
+    {
+        "Name": "New england style lobster chowder condensed, new england style",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 1.6,
+            "Carbs": 9.0,
+            "Calories": 63.6
+        }
+    },
+    {
+        "Name": "New england style condensed corn chowder, new england style",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 1.6,
+            "Carbs": 12.3,
+            "Calories": 70.0
+        }
+    },
+    {
+        "Name": "Chicken noodle organic condensed soup, chicken noodle",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 0.8,
+            "Carbs": 7.2,
+            "Calories": 45.6
+        }
+    },
+    {
+        "Name": "Cream of celery 98% fat free condensed soup, cream of celery",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 2.0,
+            "Carbs": 7.2,
+            "Calories": 50.0
+        }
+    },
+    {
+        "Name": "New england clam chowder condensed soup, new england clam chowder",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 0.8,
+            "Carbs": 9.1,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Healthy cream of chicken condensed soup, healthy cream of chicken",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.0,
+            "Carbs": 4.0,
+            "Calories": 43.6
+        }
+    },
+    {
+        "Name": "Vegetable soup, vegetable",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 0.4,
+            "Carbs": 15.0,
+            "Calories": 73.6
+        }
+    },
+    {
+        "Name": "Tomato gluten free condensed soup, tomato",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 14.4,
+            "Calories": 60.8
+        }
+    },
+    {
+        "Name": "Condensed red beet  borscht",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 2.4,
+            "Carbs": 12.8,
+            "Calories": 79.2
+        }
+    },
+    {
+        "Name": "Gluten free cream chicken condensed soup, cream of chicken",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 6.4,
+            "Carbs": 7.2,
+            "Calories": 92.8
+        }
+    }
+]

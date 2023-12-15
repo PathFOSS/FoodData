@@ -1,0 +1,4394 @@
+[
+    {
+        "Name": "Pepperidge farm pastry peach",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 34.8,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm pastry cherry",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 30.3,
+            "Calories": 261.4
+        }
+    },
+    {
+        "Name": "Claim jumper key lime pie, 36 oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 14.8,
+            "Carbs": 46.1,
+            "Calories": 336.4
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, blueberry, 39 ounce",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.6,
+            "Carbs": 39.8,
+            "Calories": 300.2
+        }
+    },
+    {
+        "Name": "Marie callenders strawberry rhubarb pie, 37 oz",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 11.4,
+            "Carbs": 44.3,
+            "Calories": 285.8
+        }
+    },
+    {
+        "Name": "Claim jumper blueberry pie",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.6,
+            "Carbs": 39.8,
+            "Calories": 300.2
+        }
+    },
+    {
+        "Name": "Claim jumper strawberry rhubarb pie, 37 oz",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 11.4,
+            "Carbs": 44.3,
+            "Calories": 285.8
+        }
+    },
+    {
+        "Name": "Marie callenders dutch apple pie, 45 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 11.0,
+            "Carbs": 40.2,
+            "Calories": 266.2
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, pumpkin pecan streusel, 38 ounce",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 12.6,
+            "Carbs": 44.5,
+            "Calories": 311.4
+        }
+    },
+    {
+        "Name": "Marie callenders coconut cream pie, 38 oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 16.0,
+            "Carbs": 34.5,
+            "Calories": 295.6
+        }
+    },
+    {
+        "Name": "Marie callenders strawberry rhubarb crisp, 24.4 oz",
+        "Nutrients": {
+            "Protein": 0.9,
+            "Fat": 3.9,
+            "Carbs": 35.6,
+            "Calories": 181.1
+        }
+    },
+    {
+        "Name": "Marie callenders triple chocolate bread pudding, 24.3 oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 11.3,
+            "Carbs": 35.6,
+            "Calories": 261.3
+        }
+    },
+    {
+        "Name": "Marie callenders cherry cobbler, 24.9 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 5.9,
+            "Carbs": 37.3,
+            "Calories": 209.1
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, dutch apple, 42 ounce",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 13.4,
+            "Carbs": 38.7,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, cherry crunch, 40 ounce, 40 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 12.7,
+            "Carbs": 46.0,
+            "Calories": 304.7
+        }
+    },
+    {
+        "Name": "Marie callenders red velvet cake, 5.8 oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 14.6,
+            "Carbs": 52.4,
+            "Calories": 355.8
+        }
+    },
+    {
+        "Name": "Marie callenders i love chocolate cream pie, 36 oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 14.1,
+            "Carbs": 36.7,
+            "Calories": 289.3
+        }
+    },
+    {
+        "Name": "Claim jumper cherry crunch pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 11.8,
+            "Carbs": 47.9,
+            "Calories": 304.6
+        }
+    },
+    {
+        "Name": "Marie callenders key lime pie, 7.5 oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 14.2,
+            "Carbs": 47.2,
+            "Calories": 335.4
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, southern pecan, 32 ounce",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 23.0,
+            "Carbs": 60.2,
+            "Calories": 458.2
+        }
+    },
+    {
+        "Name": "Claim jumper blackberry cobbler pie, 32 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 17.7,
+            "Carbs": 35.4,
+            "Calories": 308.1
+        }
+    },
+    {
+        "Name": "Marie callenders key lime pie, 36 oz",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 14.8,
+            "Carbs": 46.1,
+            "Calories": 339.6
+        }
+    },
+    {
+        "Name": "Claim jumper pumpkin pecan pie, 38 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 12.6,
+            "Carbs": 44.5,
+            "Calories": 311.4
+        }
+    },
+    {
+        "Name": "Claim jumper cherry crunch pie, 40 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 13.5,
+            "Carbs": 38.1,
+            "Calories": 280.3
+        }
+    },
+    {
+        "Name": "Claim jumper lattice apple pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 12.6,
+            "Carbs": 37.8,
+            "Calories": 271.4
+        }
+    },
+    {
+        "Name": "Claim jumper blackberry pie, 42 oz",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 11.8,
+            "Carbs": 37.0,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Claim jumper dutch apple pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 13.4,
+            "Carbs": 38.7,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Marie callenders peach cobbler, 32 oz",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 14.2,
+            "Carbs": 38.0,
+            "Calories": 290.2
+        }
+    },
+    {
+        "Name": "Claim jumper lattice peach pie, 40 oz",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.3,
+            "Carbs": 38.1,
+            "Calories": 290.7
+        }
+    },
+    {
+        "Name": "Marie callenders single serve apple pie, 10 oz",
+        "Nutrients": {
+            "Protein": 2.1,
+            "Fat": 11.3,
+            "Carbs": 33.1,
+            "Calories": 242.5
+        }
+    },
+    {
+        "Name": "Marie callenders single serve peach pie, 10 oz",
+        "Nutrients": {
+            "Protein": 2.1,
+            "Fat": 12.0,
+            "Carbs": 36.6,
+            "Calories": 262.8
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, pumpkin, 36 ounce, 36 oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 10.2,
+            "Carbs": 42.2,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Claim jumper peach cobbler, 32 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 16.8,
+            "Carbs": 38.0,
+            "Calories": 310.4
+        }
+    },
+    {
+        "Name": "Marie callenders apple crumb cobbler, 32 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 12.4,
+            "Carbs": 41.6,
+            "Calories": 285.2
+        }
+    },
+    {
+        "Name": "Marie callenders double chocolate cake, 5.8 oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.0,
+            "Carbs": 56.1,
+            "Calories": 338.2
+        }
+    },
+    {
+        "Name": "Claim jumper caramel apple pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 15.4,
+            "Carbs": 38.2,
+            "Calories": 298.6
+        }
+    },
+    {
+        "Name": "Claim jumper lattice cherry pie frozen dessert, 40 ounce, 40 oz",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 12.7,
+            "Carbs": 44.4,
+            "Calories": 301.5
+        }
+    },
+    {
+        "Name": "Marie callenders chocolate satin pie, 6 oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 29.4,
+            "Carbs": 40.0,
+            "Calories": 443.4
+        }
+    },
+    {
+        "Name": "Marie callenders banana cream pie, 38 oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 14.3,
+            "Carbs": 37.0,
+            "Calories": 290.3
+        }
+    },
+    {
+        "Name": "Claim jumper blackberry pie, 46 oz",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 13.1,
+            "Carbs": 36.1,
+            "Calories": 271.5
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, lattice peach, 40 ounce, 40 oz",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.3,
+            "Carbs": 38.1,
+            "Calories": 290.7
+        }
+    },
+    {
+        "Name": "Claim jumper razzleberry pie, 40 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 17.5,
+            "Carbs": 36.5,
+            "Calories": 309.9
+        }
+    },
+    {
+        "Name": "Claim jumper turtle pie, 28 oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 28.0,
+            "Carbs": 39.4,
+            "Calories": 424.8
+        }
+    },
+    {
+        "Name": "Marie callenders lattice apple pie, 46 oz",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 12.3,
+            "Carbs": 35.4,
+            "Calories": 261.5
+        }
+    },
+    {
+        "Name": "Claim jumper lemon meringue pie, 39 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 7.3,
+            "Carbs": 40.6,
+            "Calories": 234.5
+        }
+    },
+    {
+        "Name": "Claim jumper banana cream pie, 38 oz",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 15.1,
+            "Carbs": 29.4,
+            "Calories": 263.5
+        }
+    },
+    {
+        "Name": "Marie callenders turtle pie, 28 oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 27.3,
+            "Carbs": 41.7,
+            "Calories": 427.7
+        }
+    },
+    {
+        "Name": "Marie callenders chocolate satin pie, 28 oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 30.3,
+            "Carbs": 36.4,
+            "Calories": 433.5
+        }
+    },
+    {
+        "Name": "Marie callenders cherry crunch pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 11.8,
+            "Carbs": 47.9,
+            "Calories": 304.6
+        }
+    },
+    {
+        "Name": "Claim jumper southern pecan pie, 32 oz",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 23.0,
+            "Carbs": 60.2,
+            "Calories": 458.2
+        }
+    },
+    {
+        "Name": "Claim jumper coconut cream pie, 38 oz",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 16.8,
+            "Carbs": 30.2,
+            "Calories": 282.0
+        }
+    },
+    {
+        "Name": "Marie callenders peach cobbler, 24.9 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 5.1,
+            "Carbs": 36.4,
+            "Calories": 198.3
+        }
+    },
+    {
+        "Name": "Claim jumper lattice apple pie",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 12.3,
+            "Carbs": 35.4,
+            "Calories": 261.5
+        }
+    },
+    {
+        "Name": "Marie callenders peach pie, 42.5 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 14.6,
+            "Carbs": 38.2,
+            "Calories": 291.4
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, lattice cherry, 40 ounce",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 12.7,
+            "Carbs": 44.4,
+            "Calories": 301.5
+        }
+    },
+    {
+        "Name": "Marie callenders blackberry cobbler, 32 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 17.7,
+            "Carbs": 35.4,
+            "Calories": 308.1
+        }
+    },
+    {
+        "Name": "Marie callenders apple pie, 42 oz",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 14.3,
+            "Carbs": 40.3,
+            "Calories": 296.7
+        }
+    },
+    {
+        "Name": "Marie callenders lemon meringue pie, 39 oz",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 7.3,
+            "Carbs": 45.5,
+            "Calories": 257.3
+        }
+    },
+    {
+        "Name": "Claim jumper apple crumb cobbler pie, 32 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 14.2,
+            "Carbs": 38.9,
+            "Calories": 290.6
+        }
+    },
+    {
+        "Name": "Claim jumper peanut butter cream pie, 28 oz",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 34.9,
+            "Carbs": 32.6,
+            "Calories": 471.7
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, razzleberry, 40 ounce",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 17.5,
+            "Carbs": 36.5,
+            "Calories": 309.9
+        }
+    },
+    {
+        "Name": "Claim jumper cherry danish pie, 43 oz",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 13.9,
+            "Carbs": 43.4,
+            "Calories": 308.7
+        }
+    },
+    {
+        "Name": "Claim jumper chocolate silk pie, 28 oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 30.3,
+            "Carbs": 36.4,
+            "Calories": 433.5
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, verry berry, 42 ounce",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 11.8,
+            "Carbs": 37.0,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Marie callenders peanut butter cream pie, 28 oz",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 34.9,
+            "Carbs": 32.6,
+            "Calories": 471.7
+        }
+    },
+    {
+        "Name": "Marie callenders coconut cream pie, 7.5 oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 15.1,
+            "Carbs": 37.7,
+            "Calories": 301.9
+        }
+    },
+    {
+        "Name": "Claim jumper i love chocolate cream pie, 36 oz",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 14.8,
+            "Carbs": 33.6,
+            "Calories": 280.0
+        }
+    },
+    {
+        "Name": "Marie callenders carrot cake, 5.8 oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 18.3,
+            "Carbs": 47.6,
+            "Calories": 369.9
+        }
+    },
+    {
+        "Name": "Marie callenders apple crisp, 24.9 oz",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 3.8,
+            "Carbs": 31.4,
+            "Calories": 163.0
+        }
+    },
+    {
+        "Name": "Claim jumper pumpkin pie, 36 oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 10.2,
+            "Carbs": 42.2,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Claim jumper peaches and cream pie, 42.5 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 14.6,
+            "Carbs": 38.2,
+            "Calories": 291.4
+        }
+    },
+    {
+        "Name": "Marie callenders cherry pie, 43 oz",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 13.9,
+            "Carbs": 43.4,
+            "Calories": 308.7
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie lemon baked bars",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie mint fudge brownie",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Fiber one salted caramel cheesecake bar",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 15.8,
+            "Carbs": 63.2,
+            "Calories": 426.6
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie chocolate fudge brownie",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Fiber one strawberry cheesecake bar",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 15.8,
+            "Carbs": 63.2,
+            "Calories": 416.2
+        }
+    },
+    {
+        "Name": "Betty crocker sweet rewards chocolate chip cookie bar",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 22.5,
+            "Carbs": 65.0,
+            "Calories": 472.5
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie chocolate chip cookie brownie",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie orange cranberry baked bar",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 10.0,
+            "Carbs": 76.0,
+            "Calories": 410.0
+        }
+    },
+    {
+        "Name": "Fiber one key lime cheesecake bar",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 18.4,
+            "Carbs": 60.5,
+            "Calories": 439.2
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie cinnamon coffee cake baked bar",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Fiber one chocolate fudge brownie bites",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 66.7,
+            "Calories": 442.6
+        }
+    },
+    {
+        "Name": "Fiber one chocolate caramel brownie bites",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 18.2,
+            "Carbs": 63.6,
+            "Calories": 430.2
+        }
+    },
+    {
+        "Name": "Annie's organic strawberry toaster pastries with frosting 6 count",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 7.7,
+            "Carbs": 65.4,
+            "Calories": 354.1
+        }
+    },
+    {
+        "Name": "Annie's organic brown sugar cinnamon toaster pastries with frosting 6 count",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 8.7,
+            "Carbs": 63.5,
+            "Calories": 355.5
+        }
+    },
+    {
+        "Name": "Fiber one cookie dough supreme brownie",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 12.5,
+            "Carbs": 71.9,
+            "Calories": 412.5
+        }
+    },
+    {
+        "Name": "Fiber one supreme brownie triple chocolate",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 12.5,
+            "Carbs": 71.9,
+            "Calories": 412.5
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie birthday cake baked bar",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Hershey's soft donut bites 72 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Cinnamon toast crunch bites 72 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Cinnamon toast crunch bites 18 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Cinnamon toast crunch bites 30 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Hershey's soft donut bites 18 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Hershey's soft donut bites 30 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 10.9,
+            "Carbs": 52.7,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Pillsbury raspberry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury danish style cream cheese toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 16.4,
+            "Carbs": 45.5,
+            "Calories": 351.6
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cherry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cinnamon roll toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 50.9,
+            "Calories": 332.3
+        }
+    },
+    {
+        "Name": "Pillsbury apple toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel pastries variety pack 24 count, 12 strawberry, 6 cinnamon roll, 6 apple",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cinnamon roll toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 50.9,
+            "Calories": 332.3
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cream cheese and strawberry toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 14.6,
+            "Carbs": 47.3,
+            "Calories": 342.6
+        }
+    },
+    {
+        "Name": "Pillsbury maple burst'n mini pancakes 18 count",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.5,
+            "Carbs": 46.2,
+            "Calories": 272.3
+        }
+    },
+    {
+        "Name": "Pillsbury homestyle original pancakes 12 count",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 3.5,
+            "Carbs": 38.8,
+            "Calories": 200.7
+        }
+    },
+    {
+        "Name": "Pillsbury boston cream pie toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 12.7,
+            "Carbs": 47.3,
+            "Calories": 325.5
+        }
+    },
+    {
+        "Name": "Pillsbury buttermilk pancakes 12 count",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 3.5,
+            "Carbs": 39.7,
+            "Calories": 204.3
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry apple toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cream cheese and strawberry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 14.6,
+            "Carbs": 47.3,
+            "Calories": 342.6
+        }
+    },
+    {
+        "Name": "Pillsbury wildberry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury apple toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury donut shop glazed donut toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 10.9,
+            "Carbs": 49.1,
+            "Calories": 308.9
+        }
+    },
+    {
+        "Name": "Pillsbury blueberry toaster strudel pastries 6 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury chocolate toaster strudel pastries 6ct",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 12.7,
+            "Carbs": 50.9,
+            "Calories": 339.9
+        }
+    },
+    {
+        "Name": "Pillsbury trix toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Pillsbury cinnamon toast crunch toaster strudel pastries 12 count",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 50.9,
+            "Calories": 332.3
+        }
+    },
+    {
+        "Name": "Fiber one 90 calorie pumpkin baked bar",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 10.0,
+            "Carbs": 72.0,
+            "Calories": 394.0
+        }
+    },
+    {
+        "Name": "Pillsbury mini bagels filled with strawberry neufchatel cheese 14 count",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 7.1,
+            "Carbs": 48.2,
+            "Calories": 285.1
+        }
+    },
+    {
+        "Name": "Lucky charms soft baked treats",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 15.2,
+            "Carbs": 65.2,
+            "Calories": 414.8
+        }
+    },
+    {
+        "Name": "Cinnamon toast crunch soft baked treats",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 15.2,
+            "Carbs": 69.6,
+            "Calories": 432.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes chocolate",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes golden",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 44.9,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm pastry blueberry",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 14.6,
+            "Carbs": 34.8,
+            "Calories": 288.6
+        }
+    },
+    {
+        "Name": "Pepperidge farm pastry apple",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 31.5,
+            "Calories": 266.2
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes red velvet",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 43.5,
+            "Calories": 354.8
+        }
+    },
+    {
+        "Name": "Campbell's frozen cakes cake",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm pastry raspberry",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 32.6,
+            "Calories": 270.6
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes coconut",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 365.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm cakes vanilla",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "72 fluted tart round sweet frozen 4\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 25.4,
+            "Carbs": 0.0,
+            "Calories": 257.4
+        }
+    },
+    {
+        "Name": "70 gluten free shell sweet butter 2\"",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 22.4,
+            "Carbs": 0.0,
+            "Calories": 212.8
+        }
+    },
+    {
+        "Name": "10 spinach sponge savory base",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 1.7,
+            "Carbs": 0.0,
+            "Calories": 61.7
+        }
+    },
+    {
+        "Name": "240 trendy sh.square sweet frozen 1.5\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "Out - 10 plain sponge savory base",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 2.0,
+            "Carbs": 0.0,
+            "Calories": 65.6
+        }
+    },
+    {
+        "Name": "96 trendy sh. square choco frozen 2.75\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "10 raspberry red joconde sheets",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 7.0,
+            "Carbs": 0.0,
+            "Calories": 97.0
+        }
+    },
+    {
+        "Name": "240 mini trendy sh.round choco 1.5\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "96 flower shaped waffle cup 3.75\"",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 8.5,
+            "Carbs": 0.0,
+            "Calories": 106.5
+        }
+    },
+    {
+        "Name": "96 trendy shell round sweet butter 3.2\"",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 24.8,
+            "Carbs": 0.0,
+            "Calories": 253.2
+        }
+    },
+    {
+        "Name": "240 trendy shell squ.graham butter 1.5\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 232.6
+        }
+    },
+    {
+        "Name": "135 fluted shell round sweet 3.25\"",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 253.0
+        }
+    },
+    {
+        "Name": "240 mini trendy sh.square choco 1.5\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "81 round tart sweet butter 3.25\"",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 262.5
+        }
+    },
+    {
+        "Name": "96 coated trendy sh.choco butter 2\"",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 25.9,
+            "Carbs": 0.0,
+            "Calories": 265.9
+        }
+    },
+    {
+        "Name": "96 trendy sh. square sweet frozen 2.75\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "60 coated trendy shell round sweet 3.2\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.1,
+            "Carbs": 0.0,
+            "Calories": 266.5
+        }
+    },
+    {
+        "Name": "96 trendy shell round choco butter 3.2\"",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 24.2,
+            "Carbs": 0.0,
+            "Calories": 251.4
+        }
+    },
+    {
+        "Name": "192 coated fluted sh.sweet butter 1.75\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 30.7,
+            "Carbs": 0.0,
+            "Calories": 307.9
+        }
+    },
+    {
+        "Name": "240 trendy shell round choco frozen 1.5\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "96 mini trendy shell sweet butter 2\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.1,
+            "Carbs": 0.0,
+            "Calories": 256.3
+        }
+    },
+    {
+        "Name": "96 trendy shell round choco frozen 3.2\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "96 trendy shell round choco butter 2.75\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 268.8
+        }
+    },
+    {
+        "Name": "96 trendy shell round sweet butter 2.75\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "72 round tart choco 4\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "12 heart shaped tart butter 6\"",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 269.7
+        }
+    },
+    {
+        "Name": "14 rectangle tart shell 14\" x 4\"",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 285.0
+        }
+    },
+    {
+        "Name": "27 gluten free round sweet tarts 3.25\"",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 26.2,
+            "Carbs": 0.0,
+            "Calories": 245.8
+        }
+    },
+    {
+        "Name": "96 trendy shell triangle choco 3\"",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 22.7,
+            "Carbs": 0.0,
+            "Calories": 237.9
+        }
+    },
+    {
+        "Name": "12 round tart sweet butter par baked 7\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.5,
+            "Carbs": 0.0,
+            "Calories": 259.9
+        }
+    },
+    {
+        "Name": "Etui fonds sables std 9p pidy us",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 253.0
+        }
+    },
+    {
+        "Name": "72 tulip shaped waffle cup choco 4\"",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 19.2,
+            "Carbs": 0.0,
+            "Calories": 195.6
+        }
+    },
+    {
+        "Name": "90 coated trendy shell round graham 2\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 232.6
+        }
+    },
+    {
+        "Name": "240 trendy shell round sweet frozen 1.5\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "96 trendy shell triangle sweet butter 3\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "72 round tart sweet 4\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 26.6,
+            "Carbs": 0.0,
+            "Calories": 269.8
+        }
+    },
+    {
+        "Name": "96 fluted shell round sweet 2.25\"",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 260.5
+        }
+    },
+    {
+        "Name": "12 fluted tart round sweet butter 6\"",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 26.4,
+            "Carbs": 0.0,
+            "Calories": 268.8
+        }
+    },
+    {
+        "Name": "96 flower shaped waffle cup choco 3.75\"",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 15.5,
+            "Carbs": 0.0,
+            "Calories": 165.5
+        }
+    },
+    {
+        "Name": "96 tulip shaped waffle cup 4\"",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 5.1,
+            "Carbs": 0.0,
+            "Calories": 81.1
+        }
+    },
+    {
+        "Name": "96 coated trendy sh.butter sweet 2\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 28.1,
+            "Carbs": 0.0,
+            "Calories": 283.3
+        }
+    },
+    {
+        "Name": "12 square tart sweet 7\"",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 260.5
+        }
+    },
+    {
+        "Name": "240 mini trendy sh.round sw.butter 1.5\"",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 26.1,
+            "Carbs": 0.0,
+            "Calories": 265.7
+        }
+    },
+    {
+        "Name": "10 trendy shell round graham 8\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 232.6
+        }
+    },
+    {
+        "Name": "112 mini horn sugared butter 2.75\"",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 22.8,
+            "Carbs": 0.0,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "96 trendy shell square sweet butter 2.75",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.1,
+            "Carbs": 0.0,
+            "Calories": 256.3
+        }
+    },
+    {
+        "Name": "240 trendy shell squ. choco butter  1.5\"",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 239.0
+        }
+    },
+    {
+        "Name": "240 mini trendy sh.sq.sweet butter 1.5\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "192 fluted shell round choco 1.5\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "192 fluted shell round sweet 1.5\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 26.6,
+            "Carbs": 0.0,
+            "Calories": 269.8
+        }
+    },
+    {
+        "Name": "96 fluted tart round sweet frozen 2.25\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "10 pistachio green joconde sheets",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 7.2,
+            "Carbs": 0.0,
+            "Calories": 102.0
+        }
+    },
+    {
+        "Name": "10 plain joconde sheets",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 7.4,
+            "Carbs": 0.0,
+            "Calories": 111.0
+        }
+    },
+    {
+        "Name": "27 gluten free shell sweet butter 3.25\"",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 22.4,
+            "Carbs": 0.0,
+            "Calories": 212.8
+        }
+    },
+    {
+        "Name": "12 cocoa sponge sheets",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 3.4,
+            "Carbs": 0.0,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "228 mini waffle cone sweet 2.4\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 5.2,
+            "Carbs": 0.0,
+            "Calories": 75.6
+        }
+    },
+    {
+        "Name": "280 mini boat sweet butter 2.5\"x1\"",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 27.3,
+            "Carbs": 0.0,
+            "Calories": 278.1
+        }
+    },
+    {
+        "Name": "72 round tart graham shell 4\"",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 23.8,
+            "Carbs": 0.0,
+            "Calories": 239.0
+        }
+    },
+    {
+        "Name": "192 fluted shell round choco 1.75\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "81 round tart graham 3.25\"",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 23.8,
+            "Carbs": 0.0,
+            "Calories": 239.0
+        }
+    },
+    {
+        "Name": "10 fluted tart round sweet frozen 9\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "4x48 fluted round shell sweet 2.25\"",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 25.7,
+            "Carbs": 0.0,
+            "Calories": 260.5
+        }
+    },
+    {
+        "Name": "135 shortcrust tart + coating 3.25\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 29.7,
+            "Carbs": 0.0,
+            "Calories": 292.9
+        }
+    },
+    {
+        "Name": "10 fluted sh.round sweet butter 8.5\"",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 24.9,
+            "Carbs": 0.0,
+            "Calories": 250.5
+        }
+    },
+    {
+        "Name": "96 trendy shell round choco 2.75\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "3.75\" round straight-sided sweet tarts",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "72 fluted sh.round sweet coated 4\"",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 29.9,
+            "Carbs": 0.0,
+            "Calories": 296.3
+        }
+    },
+    {
+        "Name": "96 trendy shell round sweet frozen 2\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "70 gluten free round tarts sweet 2\"",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 26.2,
+            "Carbs": 0.0,
+            "Calories": 245.8
+        }
+    },
+    {
+        "Name": "72 fluted sh.round sweet butter 4\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 25.4,
+            "Carbs": 0.0,
+            "Calories": 257.4
+        }
+    },
+    {
+        "Name": "192 fluted sh.round sweet butter 1.75\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "12 square tart sweet butter 7\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.1,
+            "Carbs": 0.0,
+            "Calories": 256.3
+        }
+    },
+    {
+        "Name": "96 waffle cup choco 3\"",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 15.5,
+            "Carbs": 0.0,
+            "Calories": 163.5
+        }
+    },
+    {
+        "Name": "96 trendy shell round sweet frozen 3.2\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "120 mini tulip shaped cup 2.25\"",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 1.6,
+            "Carbs": 0.0,
+            "Calories": 46.8
+        }
+    },
+    {
+        "Name": "135 fluted sh.round sweet butter 3.25\"",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 24.6,
+            "Carbs": 0.0,
+            "Calories": 249.4
+        }
+    },
+    {
+        "Name": "12 square tart sweet frozen 7\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "9 traditional cocoa sponge sheets",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 3.4,
+            "Carbs": 0.0,
+            "Calories": 60.6
+        }
+    },
+    {
+        "Name": "10 trendy shell round choco butter 8\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "96 trendy shell round choco frozen 2\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "135 fluted sh.round sweet coated 3.25\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 31.1,
+            "Carbs": 0.0,
+            "Calories": 308.7
+        }
+    },
+    {
+        "Name": "12 fluted sh.round sweet butter 7\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 249.3
+        }
+    },
+    {
+        "Name": "14 sugared puff pastry shell 9\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 25.2,
+            "Carbs": 0.0,
+            "Calories": 252.4
+        }
+    },
+    {
+        "Name": "96 trendy shell square choco 2.75\"",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 243.2
+        }
+    },
+    {
+        "Name": "96 trendy shell round graham frozen 2\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 232.6
+        }
+    },
+    {
+        "Name": "480 fluted sh.round sweet butter 1.75\"",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 28.2,
+            "Carbs": 0.0,
+            "Calories": 280.2
+        }
+    },
+    {
+        "Name": "10 carrot sponge savory base",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 24.6,
+            "Carbs": 0.0,
+            "Calories": 261.0
+        }
+    },
+    {
+        "Name": "10 trendy shell round sweet butter 8\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 265.6
+        }
+    },
+    {
+        "Name": "12 plain sponge sheets",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 3.0,
+            "Carbs": 0.0,
+            "Calories": 59.0
+        }
+    },
+    {
+        "Name": "10 cocoa joconde sheets with nuts",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 14.2,
+            "Carbs": 0.0,
+            "Calories": 176.2
+        }
+    },
+    {
+        "Name": "240 trendy sh.square choco frozen 1.5\"",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 259.8
+        }
+    },
+    {
+        "Name": "112 mini cone with sugar frozen 2.75\"",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 25.9,
+            "Carbs": 0.0,
+            "Calories": 255.5
+        }
+    },
+    {
+        "Name": "9 traditional plain sponge sheets",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 3.0,
+            "Carbs": 0.0,
+            "Calories": 59.0
+        }
+    },
+    {
+        "Name": "60 coated trendy shell square choc 2.75\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 24.7,
+            "Carbs": 0.0,
+            "Calories": 253.9
+        }
+    },
+    {
+        "Name": "72 round tart sweet butter 4\"",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 27.3,
+            "Carbs": 0.0,
+            "Calories": 278.1
+        }
+    },
+    {
+        "Name": "56 sugared cream horn sg 4.75\"",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 316.8
+        }
+    },
+    {
+        "Name": "10 fluted tart sweet butter 9\"",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 26.6,
+            "Carbs": 0.0,
+            "Calories": 271.0
+        }
+    },
+    {
+        "Name": "96 trendy shell round graham butter 3.2\"",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 232.6
+        }
+    },
+    {
+        "Name": "180 fluted shell round sweet 2.5\"",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 26.6,
+            "Carbs": 0.0,
+            "Calories": 269.8
+        }
+    },
+    {
+        "Name": "189 trendy shell rnd sweet butter 1.2\"",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 266.0
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie lemon soft-baked bar",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 69.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie mint fudge brownie",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 68.0,
+            "Calories": 399.0
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie chocolate fudge brownie",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 11.0,
+            "Carbs": 68.0,
+            "Calories": 395.0
+        }
+    },
+    {
+        "Name": "F1 bkd bars pumpkin bar",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 10.0,
+            "Carbs": 72.0,
+            "Calories": 394.0
+        }
+    },
+    {
+        "Name": "Bty crk brwnie rte caramel",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 20.8,
+            "Carbs": 62.5,
+            "Calories": 454.0
+        }
+    },
+    {
+        "Name": "F1 bkd bars gingerbread",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "F1 chsck bar choc",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 18.4,
+            "Carbs": 57.9,
+            "Calories": 428.8
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie chocolate chip cookie brownie",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 11.0,
+            "Carbs": 70.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "F1 bkd bars strwbries crm",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 72.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Plsbry tstr strdl pastries snckrdoodle",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.7,
+            "Carbs": 49.1,
+            "Calories": 325.1
+        }
+    },
+    {
+        "Name": "Plsbry tstr strdl pastries lmtd edtn",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 12.7,
+            "Carbs": 52.7,
+            "Calories": 347.1
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie cinnamon coffee cake baked bar",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 12.0,
+            "Carbs": 69.0,
+            "Calories": 408.0
+        }
+    },
+    {
+        "Name": "Fiber one 70 calorie birthday cake baked bar",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 69.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry toaster strudel frozen breakfast pastries 6 count",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 48.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry toaster strudel frozen breakfast pastries value pack 12 count",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 48.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Pillsbury cream cheese & strawberry toaster strudel frozen breakfast pastries value pack 12 count",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 14.0,
+            "Carbs": 49.0,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Pillsbury cream cheese & strawberry toaster strudel frozen breakfast pastries 6 count",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 14.0,
+            "Carbs": 49.0,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Pillsbury blueberry toaster strudel frozen breakfast pastries 6 count",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 48.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Pf chocolate fudge stripe layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pf golden layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 44.9,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Pf lemon 3 layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pf peach turnovers 12.50 oz",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 34.8,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Pf apple turnovers 12.50 oz",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 31.5,
+            "Calories": 266.2
+        }
+    },
+    {
+        "Name": "Pf cherry turnovers 12.50 oz",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 30.3,
+            "Calories": 261.4
+        }
+    },
+    {
+        "Name": "Pf red velvet 3 layer cake 19.6 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 43.5,
+            "Calories": 354.8
+        }
+    },
+    {
+        "Name": "Pf key lime 3 layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pf raspberry turnovers 12.50 oz",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 32.6,
+            "Calories": 270.6
+        }
+    },
+    {
+        "Name": "Pf german chocolate layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 44.9,
+            "Calories": 347.8
+        }
+    },
+    {
+        "Name": "Pf coconut layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 365.4
+        }
+    },
+    {
+        "Name": "Pf chocolate fudge layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pf vanilla layer cake 19.60 oz",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Mc blueberry pie 4/39z",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.6,
+            "Carbs": 39.8,
+            "Calories": 300.2
+        }
+    },
+    {
+        "Name": "Mc strwbry rhbrb pie 4/37z",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 11.4,
+            "Carbs": 44.3,
+            "Calories": 285.8
+        }
+    },
+    {
+        "Name": "Mc pmkin pecn pie 6/38z",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 12.6,
+            "Carbs": 44.5,
+            "Calories": 311.4
+        }
+    },
+    {
+        "Name": "Mc dutch apl pie 4/42z",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 13.4,
+            "Carbs": 38.7,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Mc pie chry crnch 4/40z",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 12.7,
+            "Carbs": 46.0,
+            "Calories": 304.7
+        }
+    },
+    {
+        "Name": "Mc razzleberry pie 6/40 oz",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 15.1,
+            "Carbs": 38.1,
+            "Calories": 294.7
+        }
+    },
+    {
+        "Name": "Mc very berry blackberry pie 4/42z",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 11.8,
+            "Carbs": 37.0,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Fib1 70 cal mint fudge brwnie",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 68.0,
+            "Calories": 399.0
+        }
+    },
+    {
+        "Name": "Fib1 70 cal bday cake bkd bar",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 69.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Plsbry strwbry tstr strdl 6 ct",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 48.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Plsbry cinnroll tstrstrdl 12ct",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 12.0,
+            "Carbs": 53.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Pb mple burst mini pncks 18ct",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.5,
+            "Carbs": 46.2,
+            "Calories": 272.3
+        }
+    },
+    {
+        "Name": "Pb bstncreampie tstrstrdl 6ct",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 13.0,
+            "Carbs": 48.0,
+            "Calories": 329.0
+        }
+    },
+    {
+        "Name": "Plsbry btrmlk pancakes 12 ct",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 3.5,
+            "Carbs": 39.7,
+            "Calories": 204.3
+        }
+    },
+    {
+        "Name": "Choc fdge stripe c",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Golden layer cake",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 44.9,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Lemon 3 layer cake",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Peach turnovers",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 34.8,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Apple turnovers",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 31.5,
+            "Calories": 266.2
+        }
+    },
+    {
+        "Name": "Cherry turnovers",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 30.3,
+            "Calories": 261.4
+        }
+    },
+    {
+        "Name": "Pf red velvet lyr cake",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 43.5,
+            "Calories": 354.8
+        }
+    },
+    {
+        "Name": "Pf spring in/out cake",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Raspberry turnover",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 32.6,
+            "Calories": 270.6
+        }
+    },
+    {
+        "Name": "German choc cake",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 44.9,
+            "Calories": 347.8
+        }
+    },
+    {
+        "Name": "Coconut layer cake",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 365.4
+        }
+    },
+    {
+        "Name": "Choc fudge lyr cak",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Vanilla layer cake",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Fib1 70 cal lemon baked bar",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.0,
+            "Carbs": 69.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Fib1 70 cal choc fudge brwnie",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 11.0,
+            "Carbs": 68.0,
+            "Calories": 395.0
+        }
+    },
+    {
+        "Name": "Fib1 70cal chocchip cky brwn",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 11.0,
+            "Carbs": 70.0,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Fib1 70cal cinncoffee cake bar",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 12.0,
+            "Carbs": 69.0,
+            "Calories": 408.0
+        }
+    },
+    {
+        "Name": "Marie callenders pastry shell, 16 oz",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 28.6,
+            "Carbs": 46.4,
+            "Calories": 471.4
+        }
+    },
+    {
+        "Name": "Plsbry rasp tstr strdl 6 ct",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 11.8,
+            "Carbs": 48.2,
+            "Calories": 317.0
+        }
+    },
+    {
+        "Name": "Pb homestyle orig pncks 12 ct",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 3.5,
+            "Carbs": 38.8,
+            "Calories": 200.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.5,
+            "Carbs": 73.2,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 1.36oz 144ct",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.7,
+            "Carbs": 38.3,
+            "Calories": 243.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted wild berry 30.4oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 9.4,
+            "Carbs": 73.2,
+            "Calories": 391.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts brown sugar cinnamon 14oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 15.2,
+            "Carbs": 68.1,
+            "Calories": 429.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted wild berry 15.2oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 9.4,
+            "Carbs": 73.2,
+            "Calories": 391.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.6,
+            "Carbs": 73.1,
+            "Calories": 392.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate caramel 14.1oz",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 10.1,
+            "Carbs": 71.5,
+            "Calories": 392.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 14.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.3,
+            "Calories": 397.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 56.4oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 13.9,
+            "Carbs": 69.7,
+            "Calories": 419.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip cookie dough 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 10.0,
+            "Carbs": 70.7,
+            "Calories": 390.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cinnamon roll 14.1oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 14.2,
+            "Carbs": 68.3,
+            "Calories": 417.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 14.1oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.7,
+            "Carbs": 70.1,
+            "Calories": 385.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 14.7oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.6,
+            "Carbs": 71.8,
+            "Calories": 400.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 21oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 13.9,
+            "Carbs": 69.7,
+            "Calories": 419.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 22oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.2,
+            "Carbs": 71.8,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted raspberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 22oz",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 9.8,
+            "Carbs": 70.0,
+            "Calories": 390.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 29.3oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.2,
+            "Carbs": 71.8,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 29.3oz",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 9.8,
+            "Carbs": 70.0,
+            "Calories": 390.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 28.2oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 13.9,
+            "Carbs": 69.7,
+            "Calories": 419.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 29.3oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip cookie dough 28.2oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 10.0,
+            "Carbs": 70.7,
+            "Calories": 390.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 28.2oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.7,
+            "Carbs": 70.1,
+            "Calories": 385.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 27.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.9,
+            "Carbs": 72.4,
+            "Calories": 386.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 28.2oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.3,
+            "Calories": 397.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookies 28.2oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 10.7,
+            "Carbs": 70.8,
+            "Calories": 397.5
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes blueberry 3.03oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.8,
+            "Carbs": 41.3,
+            "Calories": 246.4
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate vanilla creme 14.1oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 8.9,
+            "Carbs": 72.1,
+            "Calories": 386.5
+        }
+    },
+    {
+        "Name": "Kellogg's special k breakfast handheld bacon, egg & cheese 13.4oz",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 9.0,
+            "Carbs": 18.0,
+            "Calories": 199.8
+        }
+    },
+    {
+        "Name": "Kellogg's special k breakfast handheld spinach egg cheese 13.4oz",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 7.1,
+            "Carbs": 19.8,
+            "Calories": 183.1
+        }
+    },
+    {
+        "Name": "Kellogg's eggo nutri-grain waffles wheat 1.23oz 144ct",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 28.2oz",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.8,
+            "Carbs": 39.6,
+            "Calories": 250.2
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 14.1oz",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.8,
+            "Carbs": 39.6,
+            "Calories": 250.2
+        }
+    },
+    {
+        "Name": "Kellogg's eggo nutri-grain waffles wheat 12.3oz",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kellogg's eggo nutri-grain waffles wheat 24.6oz",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 14.7oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.9,
+            "Calories": 399.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 29.3oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.9,
+            "Calories": 399.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry 22oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.9,
+            "Calories": 399.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 22oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 22oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.6,
+            "Carbs": 73.1,
+            "Calories": 392.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 21.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.3,
+            "Calories": 397.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 14.7oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.6,
+            "Carbs": 73.1,
+            "Calories": 392.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 14oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 13.9,
+            "Carbs": 69.7,
+            "Calories": 419.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 14.7oz",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 9.8,
+            "Carbs": 70.0,
+            "Calories": 390.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge 14.7oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.2,
+            "Carbs": 71.8,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookies 21.2oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 10.7,
+            "Carbs": 70.8,
+            "Calories": 397.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 58.6oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.5,
+            "Carbs": 73.2,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts cookies & creme 21.1oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 9.7,
+            "Carbs": 70.1,
+            "Calories": 385.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 14.7oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 11.7,
+            "Carbs": 69.9,
+            "Calories": 403.7
+        }
+    },
+    {
+        "Name": "Marie callenders blueberry pie",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 14.6,
+            "Carbs": 39.8,
+            "Calories": 300.2
+        }
+    },
+    {
+        "Name": "Marie callenders strawberry rhubarb pie",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 11.4,
+            "Carbs": 44.3,
+            "Calories": 285.8
+        }
+    },
+    {
+        "Name": "Marie callenders pumpkin pecan pie",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 12.6,
+            "Carbs": 44.5,
+            "Calories": 311.4
+        }
+    },
+    {
+        "Name": "Marie callenders dutch apple pie",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 13.4,
+            "Carbs": 38.7,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Marie callenders cherry crunch pie",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 12.7,
+            "Carbs": 46.0,
+            "Calories": 304.7
+        }
+    },
+    {
+        "Name": "Marie callenders razzleberry pie",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 15.1,
+            "Carbs": 38.1,
+            "Calories": 294.7
+        }
+    },
+    {
+        "Name": "Marie callenders very berry blackberry pie",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 11.8,
+            "Carbs": 37.0,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 22oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.5,
+            "Carbs": 73.2,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 29.3oz",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 9.5,
+            "Carbs": 73.2,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles homestyle 12.3oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.2,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles mixed berry 12.3oz",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 11.7,
+            "Carbs": 39.6,
+            "Calories": 285.3
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles homestyle 19.7oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.2,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles chocolatey chip banana 21.4oz",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 11.1,
+            "Carbs": 46.6,
+            "Calories": 308.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate mocha 14.1oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 9.3,
+            "Carbs": 70.7,
+            "Calories": 386.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts vanilla latte 14.1oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 10.8,
+            "Carbs": 70.2,
+            "Calories": 394.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted wild berry 14.1oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.5,
+            "Carbs": 72.9,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts vanilla milkshake 28.2oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.1,
+            "Carbs": 71.4,
+            "Calories": 400.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry milkshake 14.1oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.3,
+            "Carbs": 71.2,
+            "Calories": 401.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry milkshake 28.2oz",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 11.3,
+            "Carbs": 71.2,
+            "Calories": 401.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pumpkin pie 3.53oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 10.5,
+            "Carbs": 71.3,
+            "Calories": 397.3
+        }
+    },
+    {
+        "Name": "Pillsbury strawberry toaster strudel frozen breakfast pastries (6 count)",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 12.0,
+            "Carbs": 48.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted sparkle-licious cherry 14.6oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.5,
+            "Carbs": 72.9,
+            "Calories": 392.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 14.6oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 9.7,
+            "Carbs": 72.8,
+            "Calories": 394.5
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 42.3oz",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.8,
+            "Carbs": 39.6,
+            "Calories": 250.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry cheesecake 3.53oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 9.0,
+            "Carbs": 71.4,
+            "Calories": 387.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts red white & blueberry 14.1oz",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 9.8,
+            "Carbs": 72.3,
+            "Calories": 392.6
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles paw patrol homestyle 12.3oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.2,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts apple crisp 28.2oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 10.7,
+            "Carbs": 71.4,
+            "Calories": 397.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookie brownie batter 3.53oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 11.0,
+            "Carbs": 70.7,
+            "Calories": 399.0
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes confetti 3.03oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 8.1,
+            "Carbs": 42.0,
+            "Calories": 261.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts sugar cookie brownie batter 14.1oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 11.0,
+            "Carbs": 70.7,
+            "Calories": 399.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts strawberry cheesecake 14.1oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 9.0,
+            "Carbs": 71.4,
+            "Calories": 387.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolatey caramel sea salt 21.1oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 11.2,
+            "Carbs": 70.4,
+            "Calories": 399.2
+        }
+    },
+    {
+        "Name": "Pillsbury apple toaster strudel frozen breakfast pastries value pack 12 count",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 11.8,
+            "Carbs": 48.2,
+            "Calories": 317.0
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen chocolate fudge stripe layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen rich golden layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 44.9,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen lemon layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm peach turnovers pastries, 4-count 12.5 oz. box",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 34.8,
+            "Calories": 279.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm apple turnovers, 4-count 12.5 oz box",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 31.5,
+            "Calories": 266.2
+        }
+    },
+    {
+        "Name": "Pepperidge farm cherry turnovers pastries, 4-count 12.5 oz. box",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 30.3,
+            "Calories": 261.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen red velvet layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 43.5,
+            "Calories": 354.8
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen tangy key lime layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm raspberry turnovers, 4-count 12.5 oz box",
+        "Nutrients": {
+            "Protein": 2.2,
+            "Fat": 14.6,
+            "Carbs": 32.6,
+            "Calories": 270.6
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen german chocolate layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 44.9,
+            "Calories": 347.8
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen coconut layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 365.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen chocolate fudge layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen confetti vanilla layer cake, 19.6 oz. box",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 17.4,
+            "Carbs": 49.3,
+            "Calories": 359.4
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel, strawberry toaster pastries, value size, 6 ct., 11.7 oz",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 10.7,
+            "Carbs": 49.8,
+            "Calories": 313.9
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel, strawberry toaster pastries, value size, 12 ct., 23.4 oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 12.0,
+            "Carbs": 48.3,
+            "Calories": 319.2
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel pastries, cream cheese & strawberry, value size, 12 ct., 23.4 oz.",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 13.6,
+            "Carbs": 49.1,
+            "Calories": 336.4
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel pastries, cream cheese & strawberry, 6 ct., 11.7 oz.",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 13.6,
+            "Carbs": 49.1,
+            "Calories": 336.4
+        }
+    },
+    {
+        "Name": "Pillsbury toaster strudel pastries, blueberry, 6 ct., 11.5 oz.",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 12.0,
+            "Carbs": 48.4,
+            "Calories": 319.6
+        }
+    },
+    {
+        "Name": "Muffin wild blueberry naturally made with 51% whole flavored with other natural flavors individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 52.6,
+            "Calories": 326.1
+        }
+    },
+    {
+        "Name": "Muffin chocolate chocolate chip made with 51% whole grain naturally and artificially flavored individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 57.9,
+            "Calories": 347.3
+        }
+    },
+    {
+        "Name": "Muffin chocolate chip made with whole grain individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 12.3,
+            "Carbs": 56.1,
+            "Calories": 356.3
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 32.7oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.6,
+            "Carbs": 38.7,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Muffin corn made with 51% whole grain individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 12.3,
+            "Carbs": 54.4,
+            "Calories": 356.3
+        }
+    },
+    {
+        "Name": "Muffin corn made with 51% whole grain individually wrapped 48/4 oz",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 11.5,
+            "Carbs": 54.0,
+            "Calories": 344.3
+        }
+    },
+    {
+        "Name": "Muffin banana made with 51% whole grain naturally flavored individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 52.6,
+            "Calories": 326.1
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes galaxy adventure buttermilk 24.7oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.2,
+            "Carbs": 36.7,
+            "Calories": 189.0
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes buttermilk 16.4oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.6,
+            "Carbs": 38.7,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Naturally flavored banana muffin(s) with other natural flavor made with whole grain",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 10.6,
+            "Carbs": 54.0,
+            "Calories": 336.2
+        }
+    },
+    {
+        "Name": "Muffin chocolate chip whole grain individually wrapped 48/4 oz",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 13.3,
+            "Carbs": 58.4,
+            "Calories": 378.1
+        }
+    },
+    {
+        "Name": "Naturally flavored apple cinnamon muffin(s) with other natural flavors made with whole grain",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 10.6,
+            "Carbs": 53.1,
+            "Calories": 332.6
+        }
+    },
+    {
+        "Name": "Muffin apple cinnamon made with 51% whole grain naturally flavored with other natural flavors individually wrapped 72/2 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 54.4,
+            "Calories": 333.3
+        }
+    },
+    {
+        "Name": "Naturally flavored wild blueberry muffin(s) with other natural flavor made with whole grain",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.6,
+            "Carbs": 54.0,
+            "Calories": 332.6
+        }
+    },
+    {
+        "Name": "Naturally and artificially flavored chocolate chocolate chip muffin made with whole grain",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 57.9,
+            "Calories": 347.3
+        }
+    },
+    {
+        "Name": "Naturally flavored banana muffin(s) made with whole grain",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 52.6,
+            "Calories": 326.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted blueberry 3.3oz",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 9.5,
+            "Carbs": 73.0,
+            "Calories": 391.1
+        }
+    },
+    {
+        "Name": "Kashi waffles original 10.1oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 7.5,
+            "Carbs": 41.1,
+            "Calories": 251.1
+        }
+    },
+    {
+        "Name": "Kashi waffles blueberry 10.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 6.6,
+            "Carbs": 42.8,
+            "Calories": 248.2
+        }
+    },
+    {
+        "Name": "Kashi waffles gluten free cinnamon 10.1oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 6.8,
+            "Carbs": 49.5,
+            "Calories": 276.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate chip 3.3oz",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 11.7,
+            "Carbs": 70.1,
+            "Calories": 404.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted cherry 3.3oz",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 9.4,
+            "Carbs": 73.0,
+            "Calories": 391.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 3.3oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.9,
+            "Carbs": 72.5,
+            "Calories": 386.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry bites 1.4oz",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 8.1,
+            "Carbs": 74.1,
+            "Calories": 381.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry bites 28.2oz",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 8.1,
+            "Carbs": 74.1,
+            "Calories": 381.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon bites 1.4oz",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 9.3,
+            "Carbs": 72.9,
+            "Calories": 388.1
+        }
+    },
+    {
+        "Name": "Kashi waffles gluten free original 10.1oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 6.5,
+            "Carbs": 49.1,
+            "Calories": 271.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 1.7oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Whole grain cinnamon crumble",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 11.0,
+            "Carbs": 39.0,
+            "Calories": 274.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted smores 3.3oz",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 9.7,
+            "Carbs": 70.1,
+            "Calories": 389.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 1.69oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 6.0,
+            "Carbs": 76.2,
+            "Calories": 377.6
+        }
+    },
+    {
+        "Name": "Wg cinnamon crumble",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 12.5,
+            "Carbs": 50.0,
+            "Calories": 333.3
+        }
+    },
+    {
+        "Name": "Whole grain blueberry crumble",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 10.8,
+            "Carbs": 45.1,
+            "Calories": 297.2
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 1.7oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 3.3oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 3.4oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Pillsbury deep dish pie crusts 2 count",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 23.8,
+            "Carbs": 52.4,
+            "Calories": 443.0
+        }
+    },
+    {
+        "Name": "Whole grain chocolate chip crumble",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 11.8,
+            "Carbs": 48.0,
+            "Calories": 317.8
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 6.0,
+            "Carbs": 76.2,
+            "Calories": 377.6
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles cinnamon toast minis",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 6.9,
+            "Carbs": 45.8,
+            "Calories": 266.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 16.9oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 16.9oz 12ct",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 16.9oz 120ct",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles cinnamon toast minis 2.64oz",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 6.9,
+            "Carbs": 45.8,
+            "Calories": 266.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 16.9oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 6.0,
+            "Carbs": 76.2,
+            "Calories": 377.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 20.3oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 16.9oz 120ct",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 6.0,
+            "Carbs": 76.2,
+            "Calories": 377.6
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 20.3oz 72ct",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles cinnamon toast minis 2.64oz 72ct",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 6.9,
+            "Carbs": 45.8,
+            "Calories": 266.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 16.9oz 120ct",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 16.9oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 16.9oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 20.3oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain chocolate 20.3oz 72ct",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.1,
+            "Carbs": 75.9,
+            "Calories": 378.5
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry 1.69oz",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 5.5,
+            "Carbs": 75.7,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Pillsbury grands! honey butter biscuits 20 count",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 12.1,
+            "Carbs": 40.5,
+            "Calories": 293.7
+        }
+    },
+    {
+        "Name": "Pillsbury grands! southern homestyle buttermilk biscuits 38 count",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 12.6,
+            "Carbs": 40.1,
+            "Calories": 296.6
+        }
+    },
+    {
+        "Name": "Pillsbury sausage toaster scrambles pastries 8 count",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 20.0,
+            "Carbs": 35.7,
+            "Calories": 356.8
+        }
+    },
+    {
+        "Name": "Pillsbury grands! buttermilk breakfast biscuits frozen dough 12 count",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 12.6,
+            "Carbs": 40.1,
+            "Calories": 296.6
+        }
+    },
+    {
+        "Name": "Pillsbury grands! southern style biscuits 12 count",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 12.6,
+            "Carbs": 40.3,
+            "Calories": 297.4
+        }
+    },
+    {
+        "Name": "Kellogg's eggo french toast original french toaster sticks 12.7oz",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 6.2,
+            "Carbs": 40.7,
+            "Calories": 235.0
+        }
+    },
+    {
+        "Name": "Kellogg's special k breakfast handheld sausage and pepper 7oz",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 12.6,
+            "Carbs": 6.3,
+            "Calories": 182.6
+        }
+    },
+    {
+        "Name": "Kellogg's special k breakfast handheld ham & cheese 7oz",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 9.2,
+            "Carbs": 6.6,
+            "Calories": 153.2
+        }
+    },
+    {
+        "Name": "Kellogg's special k breakfast handheld portabella & kale 7oz",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 8.1,
+            "Carbs": 8.0,
+            "Calories": 143.3
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles homestyle 1.23oz 144ct",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 7.0,
+            "Carbs": 42.3,
+            "Calories": 255.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts blueberry 3.3oz",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 5.5,
+            "Carbs": 75.6,
+            "Calories": 369.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon 3.3oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 14.0,
+            "Carbs": 70.6,
+            "Calories": 424.4
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles homestyle 29.6oz",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 7.0,
+            "Carbs": 42.3,
+            "Calories": 255.0
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles buttermilk 12.3oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.6,
+            "Carbs": 40.1,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles buttermilk 29.6oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.6,
+            "Carbs": 40.1,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles blueberry 12.3oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 8.3,
+            "Carbs": 41.6,
+            "Calories": 261.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 20.3oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.9,
+            "Carbs": 72.5,
+            "Calories": 386.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts hot fudge sundae 13.5oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 8.9,
+            "Carbs": 72.5,
+            "Calories": 386.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts whole grain brown sugar cinnamon 3.3oz",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 6.0,
+            "Carbs": 76.2,
+            "Calories": 377.6
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles thick & fluffy original 23.2oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 12.8,
+            "Carbs": 41.3,
+            "Calories": 299.6
+        }
+    },
+    {
+        "Name": "Kellogg's eggo french toast original french toast minis 3.03oz",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 5.7,
+            "Carbs": 42.9,
+            "Calories": 240.5
+        }
+    },
+    {
+        "Name": "Kellogg's eggo french toast chocolate chip french toast minis 3.03oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 6.3,
+            "Carbs": 42.7,
+            "Calories": 251.9
+        }
+    },
+    {
+        "Name": "Kellogg's eggo waffles maple 2.64oz",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 6.4,
+            "Carbs": 46.8,
+            "Calories": 271.2
+        }
+    },
+    {
+        "Name": "Kellogg's eggo pancakes maple 3.03oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 6.7,
+            "Carbs": 41.2,
+            "Calories": 244.3
+        }
+    },
+    {
+        "Name": "Marie callender's frozen pie dessert, cherry crunch, 40 ounce",
+        "Nutrients": {
+            "Protein": 1.6,
+            "Fat": 12.7,
+            "Carbs": 46.0,
+            "Calories": 304.7
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts pretzel cinnamon sugar 13.5oz",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 14.1,
+            "Carbs": 67.4,
+            "Calories": 412.9
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts crisps frosted brown sugar cinnamazing .98oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 10.7,
+            "Carbs": 76.7,
+            "Calories": 422.3
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted brown sugar cinnamon bites 2.2oz",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 9.3,
+            "Carbs": 72.9,
+            "Calories": 388.1
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts chocolate fudge bites 2.2oz",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 9.8,
+            "Carbs": 70.7,
+            "Calories": 387.0
+        }
+    },
+    {
+        "Name": "Kellogg's pop-tarts frosted strawberry bites 2.2oz",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 8.1,
+            "Carbs": 74.1,
+            "Calories": 381.7
+        }
+    }
+]

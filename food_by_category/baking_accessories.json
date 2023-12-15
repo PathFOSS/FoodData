@@ -1,0 +1,137 @@
+[
+    {
+        "Name": "Dark chocolate candle, dark chocolate",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.4,
+            "Carbs": 53.1,
+            "Calories": 566.2
+        }
+    },
+    {
+        "Name": "Chocolate sprinkles",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 25.0,
+            "Carbs": 75.0,
+            "Calories": 525.0
+        }
+    },
+    {
+        "Name": "Wilton, sprinkles lavender sugar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Wilton, rainbow chip crunch sprinkles",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 12.5,
+            "Carbs": 75.0,
+            "Calories": 412.5
+        }
+    },
+    {
+        "Name": "Wilton, candy eyeballs",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Wilton, cupcake decorating kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Gory cupcake decor kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Spartan, ice cream cups",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 88.9,
+            "Calories": 355.6
+        }
+    },
+    {
+        "Name": "Bakery crafts, cookie cupcake decoration kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 57.1,
+            "Calories": 228.4
+        }
+    },
+    {
+        "Name": "Bakery crafts, christmas tree cupcake decoration kit with candy balls",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Bakery crafts, monster cupcake decoration kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Gum paste",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.9,
+            "Carbs": 88.6,
+            "Calories": 380.5
+        }
+    },
+    {
+        "Name": "Dark chocolate candle",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.4,
+            "Carbs": 53.1,
+            "Calories": 566.2
+        }
+    },
+    {
+        "Name": "Dec a cake, flower sprinkles",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Cupcake decorating kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    }
+]

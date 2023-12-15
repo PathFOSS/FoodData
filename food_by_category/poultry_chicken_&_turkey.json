@@ -1,0 +1,6608 @@
+[
+    {
+        "Name": "Taco seasoned ground turkey, taco seasoned",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "85% lean 15% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 13.4,
+            "Carbs": 0.0,
+            "Calories": 188.6
+        }
+    },
+    {
+        "Name": "93% lean 7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "85% lean | 15% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Cajun style turkey breast, cajun style",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.8,
+            "Carbs": 1.8,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Chicken mild italian sausage, chicken mild italian",
+        "Nutrients": {
+            "Protein": 18.3,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 111.0
+        }
+    },
+    {
+        "Name": "93% lean | 7% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Kosher ground white turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Chicken leg quarters",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 22.3,
+            "Carbs": 0.0,
+            "Calories": 261.5
+        }
+    },
+    {
+        "Name": "Pollo adobado",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 3.1,
+            "Carbs": 3.6,
+            "Calories": 103.1
+        }
+    },
+    {
+        "Name": "Italian style chicken breasts",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.1,
+            "Carbs": 1.5,
+            "Calories": 92.3
+        }
+    },
+    {
+        "Name": "Parmesan breaded chicken breast cutlets, parmesan breaded",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 9.6,
+            "Carbs": 5.8,
+            "Calories": 194.0
+        }
+    },
+    {
+        "Name": "Chicken breasts, spicy thai",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 2.4,
+            "Carbs": 4.1,
+            "Calories": 108.4
+        }
+    },
+    {
+        "Name": "Chicken breast, spicy orange chipotle, smoke",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 2.7,
+            "Carbs": 6.2,
+            "Calories": 134.7
+        }
+    },
+    {
+        "Name": "Shakers chicken breast strips, chipotle adobo",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 2.5,
+            "Carbs": 14.3,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "96% lean | 4% fat fresh ground chicken",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 4.5,
+            "Carbs": 0.0,
+            "Calories": 122.5
+        }
+    },
+    {
+        "Name": "93% lean | 7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 112.6
+        }
+    },
+    {
+        "Name": "93% lean, 7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "93% lean | 7% fat turkey burger patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Diced chicken breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Teriyaki seasoned boneless skinless chicken breasts, teriyaki",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.0,
+            "Carbs": 5.4,
+            "Calories": 125.6
+        }
+    },
+    {
+        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts, rustic tomato & basil",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Southwestern style smoke seasoned boneless skinless chicken breasts, southwestern style, smoke",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Southwest style seasoned boneless, skinless chicken thighs coated with paprika seasoned cuts, southwest style",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 9.8,
+            "Carbs": 0.9,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Turkey wings",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 7.1,
+            "Carbs": 0.9,
+            "Calories": 149.5
+        }
+    },
+    {
+        "Name": "Boneless, skinless chicken breast tenderloins",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 83.3
+        }
+    },
+    {
+        "Name": "Smokehouse hardwood smoked authentic pitmaster seasoned pulled chicken, smokehouse",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 2.4,
+            "Carbs": 2.4,
+            "Calories": 98.0
+        }
+    },
+    {
+        "Name": "Ground turkey",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.0
+        }
+    },
+    {
+        "Name": "Boneless chicken thighs with onions, peppers, mushrooms cacciatore, chicken",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 2.6,
+            "Carbs": 1.8,
+            "Calories": 105.0
+        }
+    },
+    {
+        "Name": "90% lean, 10% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 156.2
+        }
+    },
+    {
+        "Name": "Smoky & sweet chili turkey breast strips, smoky & sweet chili",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 13.4,
+            "Carbs": 1.8,
+            "Calories": 209.8
+        }
+    },
+    {
+        "Name": "Maple turkey breast, maple",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 8.9,
+            "Calories": 122.1
+        }
+    },
+    {
+        "Name": "Organic ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Ground chicken patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Jalapeno and sharp cheddar chicken burgers, jalapeno cheddar",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 9.7,
+            "Carbs": 1.8,
+            "Calories": 161.7
+        }
+    },
+    {
+        "Name": "Greek style with oregano, garlic and feta chicken burgers, greek style with oregano, garlic and feta",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 9.7,
+            "Carbs": 0.9,
+            "Calories": 154.5
+        }
+    },
+    {
+        "Name": "Chicken thighs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Chicken drumsticks",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Foster farms, half breasts chicken with ribs",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 162.1
+        }
+    },
+    {
+        "Name": "Maple leaf farms, fully cooked duck, rotisserie breasts",
+        "Nutrients": {
+            "Protein": 21.5,
+            "Fat": 14.1,
+            "Carbs": 1.5,
+            "Calories": 218.9
+        }
+    },
+    {
+        "Name": "Diestel turkey ranch, ground turkey",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 4.4,
+            "Carbs": 0.0,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Fresh turkey burger patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Italian style with olive oil boneless breast of chicken",
+        "Nutrients": {
+            "Protein": 18.1,
+            "Fat": 8.4,
+            "Carbs": 1.3,
+            "Calories": 153.2
+        }
+    },
+    {
+        "Name": "Perdue, fit & easy, boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Leg quarters chicken",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 12.5,
+            "Carbs": 0.0,
+            "Calories": 184.1
+        }
+    },
+    {
+        "Name": "Perdue, perfect portions, boneless skinless chicken thigh filets",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 120.2
+        }
+    },
+    {
+        "Name": "Weis, chicken wings",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 16.1,
+            "Carbs": 0.0,
+            "Calories": 220.1
+        }
+    },
+    {
+        "Name": "Sanderson farms, fresh chicken livers",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.5,
+            "Carbs": 0.9,
+            "Calories": 112.1
+        }
+    },
+    {
+        "Name": "Boneless breast of chicken",
+        "Nutrients": {
+            "Protein": 18.1,
+            "Fat": 8.4,
+            "Carbs": 1.3,
+            "Calories": 153.2
+        }
+    },
+    {
+        "Name": "Perdue, short cuts, carved chicken breast, honey roasted",
+        "Nutrients": {
+            "Protein": 23.9,
+            "Fat": 2.8,
+            "Carbs": 2.8,
+            "Calories": 132.0
+        }
+    },
+    {
+        "Name": "Shoprite, tyson split chicken breast with ribs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 10.7,
+            "Carbs": 0.0,
+            "Calories": 171.5
+        }
+    },
+    {
+        "Name": "Perdue, fit & easy, thin sliced breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 109.0
+        }
+    },
+    {
+        "Name": "Fresh chicken breasts",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Roasted garlic boneless duck breast",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 17.0,
+            "Carbs": 0.9,
+            "Calories": 213.8
+        }
+    },
+    {
+        "Name": "Boneless duck breast",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 13.4,
+            "Carbs": 0.0,
+            "Calories": 181.4
+        }
+    },
+    {
+        "Name": "Duck breast honey-orange",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 15.2,
+            "Carbs": 1.8,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Roundy's, sun-dried tomato, chicken flavored",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Harvestland, chicken breast tenderloins",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Perdue, fit & easy, ground chicken breast",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 105.4
+        }
+    },
+    {
+        "Name": "Diestel turkey ranch, heidi's hens, organic ground turkey",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 4.4,
+            "Carbs": 0.0,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "All natural* duck legs",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 25.9,
+            "Carbs": 0.0,
+            "Calories": 290.3
+        }
+    },
+    {
+        "Name": "Ranger, the free range chicken, frying chicken, whole",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Jennie-o, ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Italian style chicken breasts, italian style",
+        "Nutrients": {
+            "Protein": 19.1,
+            "Fat": 1.1,
+            "Carbs": 1.5,
+            "Calories": 92.3
+        }
+    },
+    {
+        "Name": "Markets of meijer, split chicken breast with ribs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Markets of meijer, thin sliced with rib meat",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Markets of meijer, boneless, skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 120.2
+        }
+    },
+    {
+        "Name": "Markets of meijer, chicken wings",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 197.6
+        }
+    },
+    {
+        "Name": "Markets of meijer, boneless, skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Family roaster fresh chicken",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 13.4,
+            "Carbs": 0.0,
+            "Calories": 188.6
+        }
+    },
+    {
+        "Name": "Jennie-o, ground lean turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Perdue, oven ready whole seasoned roaster",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 13.4,
+            "Carbs": 0.0,
+            "Calories": 177.8
+        }
+    },
+    {
+        "Name": "Markets of meijer, chicken tenderloins",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 82.9
+        }
+    },
+    {
+        "Name": "Chicken breast fillets",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Ahold, chicken wings",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 16.1,
+            "Carbs": 0.0,
+            "Calories": 220.1
+        }
+    },
+    {
+        "Name": "Perdue, chicken drumsticks",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 158.5
+        }
+    },
+    {
+        "Name": "Kirkland signature, perdue, fit & easy chicken breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Perdue, chicken thighs",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Wise organic pastures, whole chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Ahold, breaded chicken parmesan",
+        "Nutrients": {
+            "Protein": 20.1,
+            "Fat": 10.2,
+            "Carbs": 9.4,
+            "Calories": 209.8
+        }
+    },
+    {
+        "Name": "Extra lean fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Fresh young turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Young turkey",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Extra lean ground breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Chicken breast",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Basil pesto chicken breasts, basil pesto",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Bacon-wrapped chicken breast",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 14.4,
+            "Carbs": 1.6,
+            "Calories": 216.8
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Chicken breast tenders",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 90.1
+        }
+    },
+    {
+        "Name": "Jennie-o, extra lean ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Chicken fajita strips",
+        "Nutrients": {
+            "Protein": 24.7,
+            "Fat": 3.5,
+            "Carbs": 4.7,
+            "Calories": 149.1
+        }
+    },
+    {
+        "Name": "Simple truth, natural ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Kentucky legend, oven roasted turkey breast browned in oil",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 1.2,
+            "Carbs": 3.6,
+            "Calories": 110.8
+        }
+    },
+    {
+        "Name": "Simple truth organic, ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "365 everyday value, organic boneless skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Meijer, true goodness, ground turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Turkey burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Kabobs",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.6,
+            "Carbs": 2.6,
+            "Calories": 115.8
+        }
+    },
+    {
+        "Name": "Chicken kabobs",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.6,
+            "Carbs": 5.1,
+            "Calories": 125.8
+        }
+    },
+    {
+        "Name": "Kroger, fresh ground turkey patties",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 201.2
+        }
+    },
+    {
+        "Name": "Duck bacon cured duck breast cut & shaped",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 3.3,
+            "Calories": 230.3
+        }
+    },
+    {
+        "Name": "Heritage farm, chicken thighs",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 182.3
+        }
+    },
+    {
+        "Name": "Ground chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Shoprite, kitchen, grilled chicken breast cutlet",
+        "Nutrients": {
+            "Protein": 24.3,
+            "Fat": 2.8,
+            "Carbs": 0.0,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "Split chicken breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 165.7
+        }
+    },
+    {
+        "Name": "Jennie-o, lean italian seasoned ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Kroger, smoked turkey necks",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 5.3,
+            "Carbs": 0.0,
+            "Calories": 125.7
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey thighs",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.9,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Jennie-o, split turkey breasts with portion of rib and wing meat",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 121.6
+        }
+    },
+    {
+        "Name": "Jennie-o, lean ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey drumsticks",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey breast tenderloin, savory roast",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 2.7,
+            "Calories": 90.5
+        }
+    },
+    {
+        "Name": "Jennie-o, taco seasoned ground turkey, lean",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 1.8,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey burger patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Jennie-o, taco seasoned ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 1.8,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 0.5,
+            "Calories": 85.3
+        }
+    },
+    {
+        "Name": "Seasoned turkey burger patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Festive, ground turkey, original",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 17.9,
+            "Carbs": 0.9,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Primo taglio, turkey breast",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 1.8,
+            "Carbs": 1.2,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Lean turkey burger patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "H-e-b, taco seasoned turkey sausage",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 8.9,
+            "Carbs": 3.6,
+            "Calories": 187.3
+        }
+    },
+    {
+        "Name": "Butterball, everyday, fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Butterball, fresh ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Butterball, everyday fresh turkey breast tenders",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Butterball, lean ground turkey, italian style seasoned",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Butterball, fresh ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Butterball, fresh turkey breast filets",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Butterball, everyday fresh ground turkey, seasoned",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Butterball, everyday fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Butterball, turkey breast filets",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "All natural* fresh turkey burger patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Butterball, everyday fresh lean ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Butterball, fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 112.6
+        }
+    },
+    {
+        "Name": "Butterball, everyday ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Butterball, tenders turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Archer farms, chicken breasts in a parmesan breading",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 8.4,
+            "Carbs": 5.6,
+            "Calories": 186.4
+        }
+    },
+    {
+        "Name": "Rancher, ground organic turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Broth",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 1.6
+        }
+    },
+    {
+        "Name": "Nature's rancher, ground organic chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Nature's rancher, turkey patties",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Nature's rancher, ground turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Dietz & watson, chicken bacon",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 16.1,
+            "Carbs": 3.6,
+            "Calories": 230.9
+        }
+    },
+    {
+        "Name": "Kroger, turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 112.6
+        }
+    },
+    {
+        "Name": "Fresh everyday ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "All natural turkey burger patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Lean ground turkey",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 141.9
+        }
+    },
+    {
+        "Name": "Organic turkey burgers",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Organic ground chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Organic ground chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Chicken wing portions",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 16.1,
+            "Carbs": 0.0,
+            "Calories": 220.1
+        }
+    },
+    {
+        "Name": "Pine manor farms, extra lean ground chicken",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Nature's rancher, ground organic chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Cajun style chicken breast with rib meat",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.6,
+            "Carbs": 3.6,
+            "Calories": 132.4
+        }
+    },
+    {
+        "Name": "Turkey breast",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 9.3,
+            "Carbs": 0.7,
+            "Calories": 154.9
+        }
+    },
+    {
+        "Name": "Seasoned chicken breast for fajitas with rib meat",
+        "Nutrients": {
+            "Protein": 25.7,
+            "Fat": 1.3,
+            "Carbs": 2.6,
+            "Calories": 124.9
+        }
+    },
+    {
+        "Name": "Tinga de pollo, white meat chicken in chipotle sauce",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Fresh ground chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Southwest style boneless duck breast",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 17.9,
+            "Carbs": 0.9,
+            "Calories": 221.9
+        }
+    },
+    {
+        "Name": "Kabobs made with chicken breast",
+        "Nutrients": {
+            "Protein": 19.2,
+            "Fat": 1.3,
+            "Carbs": 3.9,
+            "Calories": 104.1
+        }
+    },
+    {
+        "Name": "Premium italian seasoned ground chicken",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 4.4,
+            "Carbs": 0.9,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Chicken parmesan cutlets",
+        "Nutrients": {
+            "Protein": 21.8,
+            "Fat": 9.2,
+            "Carbs": 5.6,
+            "Calories": 192.4
+        }
+    },
+    {
+        "Name": "Bacon wrapped turkey based kabobs",
+        "Nutrients": {
+            "Protein": 19.2,
+            "Fat": 12.6,
+            "Carbs": 2.0,
+            "Calories": 198.2
+        }
+    },
+    {
+        "Name": "Chicken breasts",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 4.0,
+            "Carbs": 1.8,
+            "Calories": 124.8
+        }
+    },
+    {
+        "Name": "Stuffed chicken breasts",
+        "Nutrients": {
+            "Protein": 25.1,
+            "Fat": 8.8,
+            "Carbs": 1.3,
+            "Calories": 184.8
+        }
+    },
+    {
+        "Name": "Parmesan breaded chicken breast cutlets",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.5,
+            "Carbs": 14.3,
+            "Calories": 176.1
+        }
+    },
+    {
+        "Name": "Asparagus & cheddar stuffed chicken breast cutlets",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 4.3,
+            "Carbs": 1.4,
+            "Calories": 127.1
+        }
+    },
+    {
+        "Name": "Boneless stuffed chicken breast florentine",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 10.1,
+            "Carbs": 2.0,
+            "Calories": 165.7
+        }
+    },
+    {
+        "Name": "Chicken cabalito chorizo",
+        "Nutrients": {
+            "Protein": 16.0,
+            "Fat": 21.3,
+            "Carbs": 1.3,
+            "Calories": 260.9
+        }
+    },
+    {
+        "Name": "Smoked pulled chicken in bbq sauce",
+        "Nutrients": {
+            "Protein": 13.6,
+            "Fat": 2.9,
+            "Carbs": 13.6,
+            "Calories": 134.9
+        }
+    },
+    {
+        "Name": "Seasoned chicken breast for fajitas",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 86.1
+        }
+    },
+    {
+        "Name": "Stuffed chicken breast",
+        "Nutrients": {
+            "Protein": 18.6,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 133.8
+        }
+    },
+    {
+        "Name": "Chicken curry",
+        "Nutrients": {
+            "Protein": 13.6,
+            "Fat": 9.3,
+            "Carbs": 5.0,
+            "Calories": 158.1
+        }
+    },
+    {
+        "Name": "Chicken breast filets",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 4.1,
+            "Carbs": 2.4,
+            "Calories": 121.7
+        }
+    },
+    {
+        "Name": "Bacon wrapped chicken tender filet",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 12.0,
+            "Carbs": 1.4,
+            "Calories": 184.0
+        }
+    },
+    {
+        "Name": "Armadillo eggs",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 10.6,
+            "Carbs": 9.4,
+            "Calories": 194.2
+        }
+    },
+    {
+        "Name": "Cajun kiss",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 9.8,
+            "Carbs": 7.1,
+            "Calories": 163.0
+        }
+    },
+    {
+        "Name": "Roadrunner eggs",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 13.4,
+            "Carbs": 6.2,
+            "Calories": 209.8
+        }
+    },
+    {
+        "Name": "Chicken wings",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 17.5,
+            "Carbs": 5.3,
+            "Calories": 241.9
+        }
+    },
+    {
+        "Name": "Chicken tenders with general tsao sauce",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.2,
+            "Carbs": 3.5,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Chicken with citrus butter dinner at home",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.2,
+            "Carbs": 1.2,
+            "Calories": 149.0
+        }
+    },
+    {
+        "Name": "Bbq seasoned chicken stuffed jalapenos",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.0,
+            "Carbs": 7.1,
+            "Calories": 146.4
+        }
+    },
+    {
+        "Name": "Honey liqueur chicken strips",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 3.6,
+            "Carbs": 3.6,
+            "Calories": 161.2
+        }
+    },
+    {
+        "Name": "Bacon wrapped stuffed chicken breast",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 2.8,
+            "Carbs": 1.4,
+            "Calories": 55.2
+        }
+    },
+    {
+        "Name": "Turkey patties",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 7.1,
+            "Carbs": 4.4,
+            "Calories": 152.3
+        }
+    },
+    {
+        "Name": "Chicken breast with rib meat for fajitas",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 2.4,
+            "Carbs": 2.4,
+            "Calories": 102.8
+        }
+    },
+    {
+        "Name": "Hormel, turkey roast in seasoned broth",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 2.1,
+            "Carbs": 0.7,
+            "Calories": 110.1
+        }
+    },
+    {
+        "Name": "Buddig, premium deli, smoked turkey breast & white turkey",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 10.0,
+            "Carbs": 4.0,
+            "Calories": 162.0
+        }
+    },
+    {
+        "Name": "Foster farms, fresh & natural ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Duck legs",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 25.9,
+            "Carbs": 0.0,
+            "Calories": 290.3
+        }
+    },
+    {
+        "Name": "Premium ground chicken",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 4.4,
+            "Carbs": 0.0,
+            "Calories": 121.2
+        }
+    },
+    {
+        "Name": "Chicken thigh meat",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Chicken thigh meat for fajitas",
+        "Nutrients": {
+            "Protein": 17.5,
+            "Fat": 3.5,
+            "Carbs": 1.8,
+            "Calories": 108.7
+        }
+    },
+    {
+        "Name": "Flame seared chicken breast",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 2.4,
+            "Carbs": 0.0,
+            "Calories": 116.8
+        }
+    },
+    {
+        "Name": "Roasted sliced turkey breast",
+        "Nutrients": {
+            "Protein": 26.2,
+            "Fat": 4.2,
+            "Carbs": 1.2,
+            "Calories": 147.4
+        }
+    },
+    {
+        "Name": "Chicken breast roast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Chicken for fajitas",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 2.2,
+            "Carbs": 2.6,
+            "Calories": 101.0
+        }
+    },
+    {
+        "Name": "Chicken ticklers",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 12.5,
+            "Carbs": 8.9,
+            "Calories": 212.5
+        }
+    },
+    {
+        "Name": "Petite duck breast in mediterranean style sauce",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 18.6,
+            "Carbs": 0.9,
+            "Calories": 241.8
+        }
+    },
+    {
+        "Name": "Seasoned chicken for fajitas, boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 95.0
+        }
+    },
+    {
+        "Name": "Seasoned chicken for fajitas chicken breast",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 95.0
+        }
+    },
+    {
+        "Name": "Chicken breast in garlic parmesan cream sauce",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 7.1,
+            "Carbs": 2.7,
+            "Calories": 110.3
+        }
+    },
+    {
+        "Name": "Hawaiian style turkey patties",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 5.3,
+            "Carbs": 7.1,
+            "Calories": 139.7
+        }
+    },
+    {
+        "Name": "Orange chipotle chicken breast",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.5,
+            "Carbs": 1.8,
+            "Calories": 111.3
+        }
+    },
+    {
+        "Name": "Fresh extra lean ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Chef select turkey breast & gravy",
+        "Nutrients": {
+            "Protein": 16.4,
+            "Fat": 1.1,
+            "Carbs": 4.3,
+            "Calories": 92.7
+        }
+    },
+    {
+        "Name": "Chicken breast tenderloins",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 82.9
+        }
+    },
+    {
+        "Name": "Premium boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 22.0,
+            "Fat": 1.2,
+            "Carbs": 0.0,
+            "Calories": 98.8
+        }
+    },
+    {
+        "Name": "Premium chicken breast tenderloins",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 82.9
+        }
+    },
+    {
+        "Name": "Fresh turkey",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 6.0,
+            "Carbs": 1.2,
+            "Calories": 158.8
+        }
+    },
+    {
+        "Name": "Mexican style chicken crumble",
+        "Nutrients": {
+            "Protein": 27.1,
+            "Fat": 3.5,
+            "Carbs": 3.5,
+            "Calories": 153.9
+        }
+    },
+    {
+        "Name": "Organic shredded white meat chicken",
+        "Nutrients": {
+            "Protein": 28.2,
+            "Fat": 3.5,
+            "Carbs": 1.2,
+            "Calories": 149.1
+        }
+    },
+    {
+        "Name": "Organic chicken drumsticks",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Chicken wingettes & drummettes",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 196.7
+        }
+    },
+    {
+        "Name": "Organic chicken tenders",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Chicken tenders",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 97.3
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast fillets",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 1.5,
+            "Carbs": 2.4,
+            "Calories": 105.5
+        }
+    },
+    {
+        "Name": "Organic hand-trimmed boneless, skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Family pack chicken drumsticks",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Seasoned boneless skinless chicken breast fillets",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 1.5,
+            "Carbs": 1.8,
+            "Calories": 103.1
+        }
+    },
+    {
+        "Name": "Organic chicken breast fillets",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Markets of meijer, chicken thighs",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 17.9,
+            "Carbs": 0.0,
+            "Calories": 221.9
+        }
+    },
+    {
+        "Name": "Nature raised farms, thin sliced boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Weis, skinny turkey cutlets",
+        "Nutrients": {
+            "Protein": 24.8,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 102.8
+        }
+    },
+    {
+        "Name": "Perdue, fit & easy, chicken breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Harvestland, chicken breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Extra lean turkey breast cutlets",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 112.6
+        }
+    },
+    {
+        "Name": "Hillshire, grilled chicken bites, spicy chipotle bbq sauce",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 2.9,
+            "Carbs": 8.2,
+            "Calories": 129.3
+        }
+    },
+    {
+        "Name": "Shaved chicken breast",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 104.6
+        }
+    },
+    {
+        "Name": "Italian seasoned ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "All natural boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "All natural fresh boneless skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 120.2
+        }
+    },
+    {
+        "Name": "Chicken",
+        "Nutrients": {
+            "Protein": 24.7,
+            "Fat": 9.4,
+            "Carbs": 1.2,
+            "Calories": 188.2
+        }
+    },
+    {
+        "Name": "Thai style chicken skewers",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 102.2
+        }
+    },
+    {
+        "Name": "Boneless stuffed chicken breast with wild rice & mushroom stuffing",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 6.5,
+            "Carbs": 25.7,
+            "Calories": 225.7
+        }
+    },
+    {
+        "Name": "Chicken strips with general tsao sauce",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.2,
+            "Carbs": 3.5,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Cantina style dark chicken",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 3.5,
+            "Carbs": 3.5,
+            "Calories": 112.7
+        }
+    },
+    {
+        "Name": "Broccoli au gratin stuffed chicken breast",
+        "Nutrients": {
+            "Protein": 19.3,
+            "Fat": 5.0,
+            "Carbs": 4.3,
+            "Calories": 139.4
+        }
+    },
+    {
+        "Name": "Broccoli gratin stuffed chicken breast",
+        "Nutrients": {
+            "Protein": 19.3,
+            "Fat": 5.0,
+            "Carbs": 4.3,
+            "Calories": 139.4
+        }
+    },
+    {
+        "Name": "Chicken drumettes",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 13.4,
+            "Carbs": 0.0,
+            "Calories": 185.0
+        }
+    },
+    {
+        "Name": "Southwest chicken for fajitas",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 95.0
+        }
+    },
+    {
+        "Name": "Shakers chicken breast strips",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 2.5,
+            "Carbs": 14.3,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast strips",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Bone in split chicken breasts",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 162.1
+        }
+    },
+    {
+        "Name": "Chicken breast strips + seasoned panko breadcrumbs",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.5,
+            "Carbs": 15.0,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Seared chicken margherita",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 1.3,
+            "Carbs": 3.0,
+            "Calories": 84.5
+        }
+    },
+    {
+        "Name": "Blackened chicken strips",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 5.9,
+            "Carbs": 1.2,
+            "Calories": 137.9
+        }
+    },
+    {
+        "Name": "98% fat free ground chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Whole chicken without giblets and neck",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 163.4
+        }
+    },
+    {
+        "Name": "Turkey necks",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 130.6
+        }
+    },
+    {
+        "Name": "Duck leg confit",
+        "Nutrients": {
+            "Protein": 35.7,
+            "Fat": 17.9,
+            "Carbs": 1.8,
+            "Calories": 311.1
+        }
+    },
+    {
+        "Name": "Everyday fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Extra lean ground turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Sliced chicken breast strips",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.7,
+            "Carbs": 5.4,
+            "Calories": 121.1
+        }
+    },
+    {
+        "Name": "Uncooked chicken party wings",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 14.2,
+            "Carbs": 0.0,
+            "Calories": 191.4
+        }
+    },
+    {
+        "Name": "Honey-orange boneless duck breast",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 15.2,
+            "Carbs": 1.8,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Fully cooked roast half duck",
+        "Nutrients": {
+            "Protein": 16.4,
+            "Fat": 13.6,
+            "Carbs": 6.4,
+            "Calories": 213.6
+        }
+    },
+    {
+        "Name": "Natural* stir-fry chicken strips.",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.2,
+            "Carbs": 1.2,
+            "Calories": 115.6
+        }
+    },
+    {
+        "Name": "Chicken grillers",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 11.8,
+            "Carbs": 1.2,
+            "Calories": 205.0
+        }
+    },
+    {
+        "Name": "Spinach & 3-cheese stuffed chicken patties",
+        "Nutrients": {
+            "Protein": 20.3,
+            "Fat": 5.5,
+            "Carbs": 5.5,
+            "Calories": 152.7
+        }
+    },
+    {
+        "Name": "Thai coconut curry chicken",
+        "Nutrients": {
+            "Protein": 14.8,
+            "Fat": 6.3,
+            "Carbs": 7.8,
+            "Calories": 147.1
+        }
+    },
+    {
+        "Name": "Chicken tickler",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 12.5,
+            "Carbs": 8.9,
+            "Calories": 212.5
+        }
+    },
+    {
+        "Name": "Carved chicken breast short cuts",
+        "Nutrients": {
+            "Protein": 23.9,
+            "Fat": 3.5,
+            "Carbs": 0.0,
+            "Calories": 127.1
+        }
+    },
+    {
+        "Name": "8 piece cut up whole chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 11.6,
+            "Carbs": 0.0,
+            "Calories": 182.8
+        }
+    },
+    {
+        "Name": "Premium ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Turkey breast tenderloin",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "All natural boneless-skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 105.4
+        }
+    },
+    {
+        "Name": "Boneless chicken breast",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 2.1,
+            "Carbs": 9.3,
+            "Calories": 127.7
+        }
+    },
+    {
+        "Name": "Chicken breast strips with rib meat chicken fajitas",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.2,
+            "Carbs": 2.4,
+            "Calories": 105.2
+        }
+    },
+    {
+        "Name": "100% breast meat ground chicken",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Chicken breast skewers teriyaki",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.3,
+            "Carbs": 3.5,
+            "Calories": 110.5
+        }
+    },
+    {
+        "Name": "Salsa verde chicken wings",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 14.2,
+            "Carbs": 1.8,
+            "Calories": 198.6
+        }
+    },
+    {
+        "Name": "Olive oil & herb chicken with basil pistou",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 6.2,
+            "Carbs": 3.1,
+            "Calories": 140.2
+        }
+    },
+    {
+        "Name": "Thigh fillets",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 148.1
+        }
+    },
+    {
+        "Name": "Shady brook farms, boneless turkey tenderloins",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Tyson, split chicken breast with ribs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 10.7,
+            "Carbs": 0.0,
+            "Calories": 171.5
+        }
+    },
+    {
+        "Name": "Tyson, trimmed & ready, chicken breast tenderloins",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 97.3
+        }
+    },
+    {
+        "Name": "Tyson, trimmed & ready skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 134.2
+        }
+    },
+    {
+        "Name": "Aidells, italian style chicken meatballs, mozzarella cheese",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 17.2,
+            "Carbs": 3.1,
+            "Calories": 242.4
+        }
+    },
+    {
+        "Name": "Chicken thigh meat marinated for pollo asado",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 4.4,
+            "Carbs": 2.6,
+            "Calories": 120.8
+        }
+    },
+    {
+        "Name": "Spinach & kale pesto seasoned turkey skewers",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 2.7,
+            "Calories": 109.0
+        }
+    },
+    {
+        "Name": "Turkeys raised with no antibiotics ever turkey breast tenderloin",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 1.3,
+            "Carbs": 0.9,
+            "Calories": 90.5
+        }
+    },
+    {
+        "Name": "Ground turkey burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Teriyaki chicken breasts",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.5,
+            "Carbs": 2.8,
+            "Calories": 115.3
+        }
+    },
+    {
+        "Name": "Chicken breast strips",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Thai-style chicken skeweres",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 102.2
+        }
+    },
+    {
+        "Name": "Chicken breast roast with white wine & herbs cooking sauce",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 2.2,
+            "Carbs": 2.7,
+            "Calories": 91.4
+        }
+    },
+    {
+        "Name": "Ground turkey with natural flavorings",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 208.4
+        }
+    },
+    {
+        "Name": "Turkey breast filets",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Oven roasted whole turkey",
+        "Nutrients": {
+            "Protein": 22.4,
+            "Fat": 5.9,
+            "Carbs": 0.0,
+            "Calories": 142.7
+        }
+    },
+    {
+        "Name": "Turkey breast tenderloins rotisserie",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 2.7,
+            "Calories": 90.5
+        }
+    },
+    {
+        "Name": "Fresh ground turkey with natural flavoring",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Organic diced roasted chicken breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 102.7
+        }
+    },
+    {
+        "Name": "Chicken livers",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.5,
+            "Carbs": 0.9,
+            "Calories": 112.1
+        }
+    },
+    {
+        "Name": "Chicken breast roast with cacciatore cooking sauce",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 1.8,
+            "Carbs": 2.7,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Premium turkey breast with broth",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "Meal kit",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 6.4,
+            "Carbs": 7.6,
+            "Calories": 124.8
+        }
+    },
+    {
+        "Name": "Tender & juicy young turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 123.8
+        }
+    },
+    {
+        "Name": "Whole quail",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 10.3,
+            "Carbs": 0.0,
+            "Calories": 164.3
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Ground chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.9,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Chicken breast boneless & skinless",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Kroger, smoked turkey tails",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 12.4,
+            "Carbs": 0.0,
+            "Calories": 178.8
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Tyson, all natural premium cornish hen",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 12.5,
+            "Carbs": 0.0,
+            "Calories": 180.5
+        }
+    },
+    {
+        "Name": "Nature's promise, boneless skinless chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Simple truth natural whole chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Simple truth organic, natural chicken breast",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 97.3
+        }
+    },
+    {
+        "Name": "Turkey breast cutlets",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Thinly sliced shaved chicken breast",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 104.6
+        }
+    },
+    {
+        "Name": "Al-marra'ah, halal, young chicken thighs",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 235.5
+        }
+    },
+    {
+        "Name": "Al-mazra'ah, halal, whole frying chicken",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 235.5
+        }
+    },
+    {
+        "Name": "Giant, chicken thighs",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 217.4
+        }
+    },
+    {
+        "Name": "Perdue, fit & easy, boneless skinless chicken",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Tyson, all natural, chicken liver",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.8,
+            "Carbs": 0.0,
+            "Calories": 98.6
+        }
+    },
+    {
+        "Name": "Markets of meijer, chicken drumsticks",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 131.0
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken thigh filets",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 127.0
+        }
+    },
+    {
+        "Name": "Harvestland, fresh chicken breasts",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Harvestland, fresh chicken drumsticks",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 158.5
+        }
+    },
+    {
+        "Name": "Harvestland, chicken thighs, chicken",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Harvestland, fresh organic chicken",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 109.9
+        }
+    },
+    {
+        "Name": "Harvestland, fresh chicken breasts, boneless, skinless",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Perdue, split chicken breasts",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 162.1
+        }
+    },
+    {
+        "Name": "Tyson, trimmed & ready, boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Roasting chicken",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Homestyle turkey meatloaf",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 8.9,
+            "Carbs": 4.5,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Chicken wing sections",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 11.6,
+            "Carbs": 0.0,
+            "Calories": 165.2
+        }
+    },
+    {
+        "Name": "Bone-in skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Boneless, skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Boneless, skinless chicken breast fillets",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Turkey breast strips",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.3,
+            "Carbs": 0.9,
+            "Calories": 93.7
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 3.6,
+            "Carbs": 0.0,
+            "Calories": 121.6
+        }
+    },
+    {
+        "Name": "Chicken paws",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 207.1
+        }
+    },
+    {
+        "Name": "Fresh chicken thighs",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Extra lean boneless turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Foster farms, ground turkey patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Foster farms, fresh & natural ground turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 111.7
+        }
+    },
+    {
+        "Name": "Chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Boneless, skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Applewood smoke turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "Honey roasted turkey breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 1.8,
+            "Carbs": 3.6,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Taco seasonings turkey sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 12.9,
+            "Carbs": 0.0,
+            "Calories": 173.3
+        }
+    },
+    {
+        "Name": "Spatchcock chicken",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 14.3,
+            "Carbs": 5.4,
+            "Calories": 211.1
+        }
+    },
+    {
+        "Name": "Spicy orange teriyaki turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 4.5,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Roasted skin-on turkey breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 1.8,
+            "Calories": 148.6
+        }
+    },
+    {
+        "Name": "Market meal kits",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 7.0,
+            "Carbs": 11.4,
+            "Calories": 145.4
+        }
+    },
+    {
+        "Name": "Teriyaki kalbi chicken skewers",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 0.9,
+            "Carbs": 5.3,
+            "Calories": 110.9
+        }
+    },
+    {
+        "Name": "Spicy orange teriyaki",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 4.5,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Carved chicken breast",
+        "Nutrients": {
+            "Protein": 22.5,
+            "Fat": 2.8,
+            "Carbs": 0.0,
+            "Calories": 115.2
+        }
+    },
+    {
+        "Name": "Herb & garlic chicken breast",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.4,
+            "Carbs": 0.6,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Honey bbq chicken breast",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.4,
+            "Carbs": 2.9,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Ground chicken pollo molido",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 18.8,
+            "Carbs": 0.0,
+            "Calories": 237.2
+        }
+    },
+    {
+        "Name": "All-natural* lean garlic & onion seasoned turkey patties",
+        "Nutrients": {
+            "Protein": 18.1,
+            "Fat": 7.4,
+            "Carbs": 0.0,
+            "Calories": 139.0
+        }
+    },
+    {
+        "Name": "Turkey sliders",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Island teriyaki turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 4.5,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Brown and serve turkey breast boneless",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 102.7
+        }
+    },
+    {
+        "Name": "Ground turkey patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 131.0
+        }
+    },
+    {
+        "Name": "All natural turkey sausage, turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 10.7,
+            "Carbs": 0.0,
+            "Calories": 174.7
+        }
+    },
+    {
+        "Name": "Fresh ground turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Chicken mini-burgers sliders",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 2.6,
+            "Carbs": 0.9,
+            "Calories": 90.6
+        }
+    },
+    {
+        "Name": "Brined split turkey breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 0.0,
+            "Carbs": 0.9,
+            "Calories": 89.2
+        }
+    },
+    {
+        "Name": "Turkey breast roast",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 3.1,
+            "Carbs": 0.9,
+            "Calories": 103.1
+        }
+    },
+    {
+        "Name": "Caribbean style jerk chicken",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 5.7,
+            "Carbs": 12.6,
+            "Calories": 149.7
+        }
+    },
+    {
+        "Name": "Pecan encrusted chicken breasts",
+        "Nutrients": {
+            "Protein": 19.4,
+            "Fat": 10.0,
+            "Carbs": 7.1,
+            "Calories": 196.0
+        }
+    },
+    {
+        "Name": "Tangy buffalo style encrusted chicken breasts",
+        "Nutrients": {
+            "Protein": 19.4,
+            "Fat": 8.2,
+            "Carbs": 8.8,
+            "Calories": 186.6
+        }
+    },
+    {
+        "Name": "Quarter pound organic turkey burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 161.2
+        }
+    },
+    {
+        "Name": "Garlic pepper marinade",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 5.9,
+            "Carbs": 0.6,
+            "Calories": 140.3
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breasts with rib meat, chicken",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Parmesan garlic chicken wings with sauce packet, mild",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 96.4
+        }
+    },
+    {
+        "Name": "Queso fresco & jalapeno turkey patties, queso fresco & jalapeno",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 1.3,
+            "Calories": 148.8
+        }
+    },
+    {
+        "Name": "Lemon garlic chicken breast cutlets, lemon garlic",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 2.7,
+            "Calories": 105.8
+        }
+    },
+    {
+        "Name": "Homestyle chicken breast portioned pieces, homestyle",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 97.8
+        }
+    },
+    {
+        "Name": "Homestyle chicken breast strips for stir-fry",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 97.8
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breasts thin sliced",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 105.4
+        }
+    },
+    {
+        "Name": "All natural boneless skinless chicken breasts with rib meat",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Roasted garlic boneless duck breast, roasted garlic",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 17.0,
+            "Carbs": 0.9,
+            "Calories": 213.8
+        }
+    },
+    {
+        "Name": "Honey-orange boneless duck breast, honey-orange",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 15.2,
+            "Carbs": 1.8,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "99% lean | 1% fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "90% lean | 10% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Thick sliced applewood smoked cured duck breast cut & shaped bacon, applewood smoked",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 16.7,
+            "Carbs": 3.3,
+            "Calories": 230.3
+        }
+    },
+    {
+        "Name": "Fresh and lean ground chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Food loin, ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "99% lean, ground turkey",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Lean italian seasoned ground turkey, italian seasoned",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "90% lean 10% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Applewood smoke flavor turkey breast tenderloins, applewood smoke",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "Savory roast turkey breast tenderloins, savory roast",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "99% lean 1% fat seasoned turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Parmesan breaded chicken breast cutlets, parmesan",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 9.6,
+            "Carbs": 5.8,
+            "Calories": 194.0
+        }
+    },
+    {
+        "Name": "85% lean ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Asparagus & cheddar stuffed chicken breast cutlets, asparagus & cheddar",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 3.5,
+            "Carbs": 1.4,
+            "Calories": 118.7
+        }
+    },
+    {
+        "Name": "99% lean 1% fat fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Free range certified organic ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "All natural uncooked ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Spicy orange teriyaki turkey breast tenderloins, spicy orange teriyaki",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 4.5,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Honey bbq chicken breast, honey bbq",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.4,
+            "Carbs": 2.9,
+            "Calories": 113.2
+        }
+    },
+    {
+        "Name": "Ground turkey breast, ground turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Fresh lean ground chicken",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Island teriyaki turkey tenderloins, island teriyaki",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 4.5,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Lemon peppercorn turkey tenderloins, lemon peppercorn",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Sweet barbeque turkey tenderloins, sweet barbeque",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 1.3,
+            "Carbs": 4.5,
+            "Calories": 104.9
+        }
+    },
+    {
+        "Name": "Pre-marinated chipotle chicken breasts with honey lime glaze, honey lime glaze",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.9,
+            "Carbs": 2.3,
+            "Calories": 119.5
+        }
+    },
+    {
+        "Name": "99% lean ground chicken breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Ready to cook smoked turkey drumsticks, smoked",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 31.0,
+            "Carbs": 3.5,
+            "Calories": 360.2
+        }
+    },
+    {
+        "Name": "Ready to cook smoked turkey necks, smoked",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 5.3,
+            "Carbs": 0.0,
+            "Calories": 125.7
+        }
+    },
+    {
+        "Name": "Smoked turkey wings, smoked turkey",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 11.5,
+            "Carbs": 0.0,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken for fajitas",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 98.6
+        }
+    },
+    {
+        "Name": "Chicken breast with rib meat",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 5.7,
+            "Carbs": 5.0,
+            "Calories": 151.3
+        }
+    },
+    {
+        "Name": "Spinach & feta cream cheese stuffed chicken breasts, spinach & feta cream cheese",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.8,
+            "Carbs": 2.3,
+            "Calories": 154.6
+        }
+    },
+    {
+        "Name": "Small batch turkey with bacon ground seasoned",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 8.0,
+            "Carbs": 1.8,
+            "Calories": 168.4
+        }
+    },
+    {
+        "Name": "Chicken ground seasoned patty blend with sun dried tomato and basil",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 10.7,
+            "Carbs": 2.7,
+            "Calories": 175.1
+        }
+    },
+    {
+        "Name": "Chicken power patties corn, black bean & poblano, chicken power patties",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 3.3,
+            "Carbs": 11.3,
+            "Calories": 125.3
+        }
+    },
+    {
+        "Name": "Ground seasoned small batch turkey tenderloin blend, tenderloin blend",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 6.2,
+            "Carbs": 1.8,
+            "Calories": 155.8
+        }
+    },
+    {
+        "Name": "Original chicken breast strips, original",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 2.9,
+            "Carbs": 2.4,
+            "Calories": 129.7
+        }
+    },
+    {
+        "Name": "Deli style oil browned turkey breast",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 1.8,
+            "Carbs": 1.8,
+            "Calories": 87.8
+        }
+    },
+    {
+        "Name": "Oven roasted skinless turkey breast with broth",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "Turkey drumsticks",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "93% lean ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Rotisserie turkey breast tenderloin, rotisserie",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Homestyle turkey breast tenderloin, homestyle",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 111.2
+        }
+    },
+    {
+        "Name": "Cracked pepper turkey breast tenderloin, cracked pepper",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Mild italian turkey sausage, mild italian",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 10.0,
+            "Carbs": 1.4,
+            "Calories": 164.0
+        }
+    },
+    {
+        "Name": "Italian style seasoned ground turkey, italian style",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 2.7,
+            "Carbs": 0.0,
+            "Calories": 117.1
+        }
+    },
+    {
+        "Name": "Bacon cheddar ranch breaded chicken breast cutlets",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 9.2,
+            "Carbs": 7.0,
+            "Calories": 192.4
+        }
+    },
+    {
+        "Name": "4 turkey patties, lightly seasoned",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 150.8
+        }
+    },
+    {
+        "Name": "Citrus & herb 4 turkey breast cutlets",
+        "Nutrients": {
+            "Protein": 18.5,
+            "Fat": 3.1,
+            "Carbs": 2.0,
+            "Calories": 109.9
+        }
+    },
+    {
+        "Name": "Pollo adobado chicken thighs",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 13.4,
+            "Carbs": 2.7,
+            "Calories": 188.6
+        }
+    },
+    {
+        "Name": "Oven roasted premium turkey breast with broth",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "93% lean 7 fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "99% fat free artisan golden-roasted turkey breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 0.9,
+            "Carbs": 1.8,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Maple turkey breast",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 1.8,
+            "Carbs": 3.6,
+            "Calories": 102.2
+        }
+    },
+    {
+        "Name": "Lean italian seasoned ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Rotisserie flavor turkey breast tenderloins",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 114.8
+        }
+    },
+    {
+        "Name": "Chicken burgers, chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Smokehouse seasoned chicken breasts, smokehouse",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.9,
+            "Calories": 118.0
+        }
+    },
+    {
+        "Name": "Italian style seasoned cuts seasoned boneless skinless chicken breast with rib meat, italian style",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Chicken breast for fajitas, chicken breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 105.4
+        }
+    },
+    {
+        "Name": "All natural original seasoned ground chicken, original",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Southwest-style seasoned ground chicken, southwest-style",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 6.2,
+            "Carbs": 7.1,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Bacon - bursting premium turkey patties",
+        "Nutrients": {
+            "Protein": 22.7,
+            "Fat": 6.2,
+            "Carbs": 0.8,
+            "Calories": 149.8
+        }
+    },
+    {
+        "Name": "Turkey burgers, turkey",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 4.5,
+            "Carbs": 1.3,
+            "Calories": 127.7
+        }
+    },
+    {
+        "Name": "Savory seasoned turkey patties, savory seasoned",
+        "Nutrients": {
+            "Protein": 19.7,
+            "Fat": 6.8,
+            "Carbs": 1.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Lean fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Turkey breast applewood smoke flavor added tenderloins, turkey breast, applewood smoke",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "85% lean 15% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Cajun style turkey breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.8,
+            "Carbs": 1.8,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Shaved chicken breast for fajitas coated with spices, flavorings, & seasonings",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 5.4,
+            "Carbs": 1.8,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Apple & gouda chicken sausages, apple & gouda",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.8,
+            "Carbs": 6.2,
+            "Calories": 170.2
+        }
+    },
+    {
+        "Name": "Andouille chicken sausages, andouille",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.2,
+            "Carbs": 3.1,
+            "Calories": 143.4
+        }
+    },
+    {
+        "Name": "All-natural ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "99% lean 1% fat ground turkey",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Mild turkey sausage, mild",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 8.9,
+            "Carbs": 1.8,
+            "Calories": 180.1
+        }
+    },
+    {
+        "Name": "Italian style turkey sausage, italian style",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 8.9,
+            "Carbs": 3.6,
+            "Calories": 187.3
+        }
+    },
+    {
+        "Name": "Italian style seasoned lean ground turkey, italian style",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "All natural ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "All natural ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Turkey wing portions",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 165.7
+        }
+    },
+    {
+        "Name": "Pollo adobado mostly white meat chicken in an adobo seasoning with a hint of citrus, pollo adobado",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 3.1,
+            "Carbs": 3.6,
+            "Calories": 103.1
+        }
+    },
+    {
+        "Name": "Extra lean 98% fat free ground turkey breast",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 112.6
+        }
+    },
+    {
+        "Name": "85% lean, 15% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 204.8
+        }
+    },
+    {
+        "Name": "Uncured smoked duck bacon",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 46.7,
+            "Carbs": 6.7,
+            "Calories": 527.1
+        }
+    },
+    {
+        "Name": "All-natural ground turkey breast, turkey",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Taco seasonings turkey sausage, taco seasonings",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 12.9,
+            "Carbs": 0.0,
+            "Calories": 173.3
+        }
+    },
+    {
+        "Name": "Turkey sausage, turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 10.7,
+            "Carbs": 0.0,
+            "Calories": 174.7
+        }
+    },
+    {
+        "Name": "Shaved chicken breast for fajitas",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 5.4,
+            "Carbs": 1.8,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Buffalo style shaved chicken breast, buffalo style",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 5.4,
+            "Carbs": 1.8,
+            "Calories": 137.8
+        }
+    },
+    {
+        "Name": "Savory roast flavor turkey breast tenderloins, savory roast",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 0.9,
+            "Calories": 86.9
+        }
+    },
+    {
+        "Name": "Sous vide smoked chicken breast with sea salt & cracked black pepper, chicken breast smoked",
+        "Nutrients": {
+            "Protein": 27.4,
+            "Fat": 1.8,
+            "Carbs": 1.2,
+            "Calories": 130.6
+        }
+    },
+    {
+        "Name": "90% lean 10% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Roasted garlic & asiago chicken sausages, roasted garlic & asiago",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.8,
+            "Carbs": 1.6,
+            "Calories": 151.8
+        }
+    },
+    {
+        "Name": "Ground turkey, turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Italian seasoned ground turkey, italian seasoned",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Applewood smoke turkey breast tenderloins, applewood smoke",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "Ta co seasoned ground turkey lean, ta co seasoned ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Italian style ground turkey, italian style",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 190.4
+        }
+    },
+    {
+        "Name": "Seasoned turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "91% lean | 9% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "97% lean | 3% fat extra lean ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Tinga de pollo mostly white meat chicken in a chipotle sauce, tinga de pollo",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Lean ground turkey, turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Turkey breast tenderloins, turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 83.3
+        }
+    },
+    {
+        "Name": "99% lean i 1% fat ground turkey breast, turkey",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Applewood smoke flavor smoke turkey breast tenderloins, applewood smoke",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.5,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "Ground chicken, chicken",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "99% lean 1% fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Original turkey patties, original",
+        "Nutrients": {
+            "Protein": 20.3,
+            "Fat": 7.8,
+            "Carbs": 0.8,
+            "Calories": 154.6
+        }
+    },
+    {
+        "Name": "Thai-style seasoned ground chicken with garlic, shallots, soy sauce & ginger, thai-style",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 7.1,
+            "Calories": 167.5
+        }
+    },
+    {
+        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic, bruschetta",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.2,
+            "Carbs": 2.7,
+            "Calories": 141.8
+        }
+    },
+    {
+        "Name": "Turkey breakfast sausage patties, turkey breakfast",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Italian style seasoned 91% lean 9% fat ground turkey, italian style seasoned",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Pollo adobado white meat chicken in an adobo seasoning with a hint of citrus, pollo adobado",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 3.1,
+            "Carbs": 3.6,
+            "Calories": 103.1
+        }
+    },
+    {
+        "Name": "80% lean 20% fat ground turkey",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 17.9,
+            "Carbs": 0.9,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Turkey patties, turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Seasoned turkey patties, seasoned",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "97% lean 3% fat extra lean ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Extra lean 97% lean 3% fat ground white turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Tinga de pollo white meat chicken in a chipotle sauce, tinga de pollo",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 3.6,
+            "Carbs": 0.9,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "85% lean/15% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 208.4
+        }
+    },
+    {
+        "Name": "93% lean 1% fat ground turkey",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 118.0
+        }
+    },
+    {
+        "Name": "85% lean 15% fat turkey breakfast sausage, turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 14.3,
+            "Carbs": 1.8,
+            "Calories": 221.5
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast strips, oven roasted",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 2.4,
+            "Carbs": 1.2,
+            "Calories": 121.6
+        }
+    },
+    {
+        "Name": "Turkey sausage",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 197.1
+        }
+    },
+    {
+        "Name": "90% lean/10% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 143.6
+        }
+    },
+    {
+        "Name": "Spinach & feta chicken patties, spinach & feta",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 7.8,
+            "Carbs": 3.9,
+            "Calories": 163.8
+        }
+    },
+    {
+        "Name": "99% lean  1% fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Perdue, short cuts, carved chicken breast, honey roasted, honey roasted",
+        "Nutrients": {
+            "Protein": 23.9,
+            "Fat": 2.8,
+            "Carbs": 2.8,
+            "Calories": 132.0
+        }
+    },
+    {
+        "Name": "Extra lean ground breast , natural rosemary ",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Chicken breast, honey sriracha",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 97.7
+        }
+    },
+    {
+        "Name": "Bacon-wrapped chicken breasts stuffed with jalapeno cream cheese, bacon-wrapped with jalapeno cream cheese",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 12.8,
+            "Carbs": 1.2,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "94% lean / 6% fat turkey burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Kabobs, lemon & herb",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.6,
+            "Carbs": 2.6,
+            "Calories": 115.8
+        }
+    },
+    {
+        "Name": "93% lean/7% fat turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Festive, ground turkey, original, original",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 17.9,
+            "Carbs": 0.9,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Butterball, everyday fresh ground turkey, seasoned, seasoned",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Fresh turkey burger patties, seasoned",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.9,
+            "Carbs": 0.9,
+            "Calories": 158.9
+        }
+    },
+    {
+        "Name": "Fajita-seasoned chicken breast strips, fajita-seasoned chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Fully cooked oven roasted chicken breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 94.6
+        }
+    },
+    {
+        "Name": "Fully cooked hickory honey turkey breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Simply seasoned with sea salt & cracked black pepper chicken burgers, simply seasoned with sea salt & cracked black pepper",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 8.8,
+            "Carbs": 0.9,
+            "Calories": 150.0
+        }
+    },
+    {
+        "Name": "Bacon-wrapped bbq seasoned chicken grillers, bacon-wrapped",
+        "Nutrients": {
+            "Protein": 24.6,
+            "Fat": 17.5,
+            "Carbs": 5.3,
+            "Calories": 277.1
+        }
+    },
+    {
+        "Name": "Maple waffle chicken breasts breaded with a maple waffle sausage seasoning, maple waffle",
+        "Nutrients": {
+            "Protein": 19.2,
+            "Fat": 8.3,
+            "Carbs": 10.9,
+            "Calories": 195.1
+        }
+    },
+    {
+        "Name": "Hatch green chile chicken & rice casserole",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 4.5,
+            "Carbs": 20.0,
+            "Calories": 158.5
+        }
+    },
+    {
+        "Name": "Hand-trimmed boneless, skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 147.2
+        }
+    },
+    {
+        "Name": "Hand-trimmed boneless, skinless chicken breast fillets",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Hand-trimmed boneless, skinless chicken tenders",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Bone-in, split chicken breast",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 162.1
+        }
+    },
+    {
+        "Name": "Teriyaki chicken & rice",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 3.9,
+            "Carbs": 30.9,
+            "Calories": 199.9
+        }
+    },
+    {
+        "Name": "Southwest-style corn, rice, black bean, & poblano chicken patties, southwest-style",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 5.5,
+            "Carbs": 10.2,
+            "Calories": 140.3
+        }
+    },
+    {
+        "Name": "Rotisserie-seasoned ground chicken, rotisserie-seasoned",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 8.8,
+            "Carbs": 0.0,
+            "Calories": 157.2
+        }
+    },
+    {
+        "Name": "Hand-trimmed, boneless, skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Extra lean ground breast ",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 1.8,
+            "Carbs": 0.0,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Shady brook farms, tenderloins turkey breast",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 2.7,
+            "Calories": 113.9
+        }
+    },
+    {
+        "Name": "Homestyle turkey breast tenderloins, homestyle",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.1,
+            "Carbs": 1.8,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Southwest style turkey breast tenderloins chipotle seasoning, southwest style, turkey breast",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 1.8,
+            "Calories": 110.3
+        }
+    },
+    {
+        "Name": "Rotisserie flavor turkey breast tenderloins, rotisserie",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 2.7,
+            "Calories": 113.9
+        }
+    },
+    {
+        "Name": "Turkey seasoning montreal breast tenderloins, turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 1.8,
+            "Calories": 110.3
+        }
+    },
+    {
+        "Name": "Southwest-style chipotle ranchero turkey skillet kit, southwest-style chipotle ranchero",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.0,
+            "Carbs": 4.8,
+            "Calories": 131.8
+        }
+    },
+    {
+        "Name": "Asian-style orange ginger turkey skillet kit, asian-style orange ginger",
+        "Nutrients": {
+            "Protein": 22.6,
+            "Fat": 3.0,
+            "Carbs": 13.1,
+            "Calories": 169.8
+        }
+    },
+    {
+        "Name": "Rotisserie turkey breast tenderloins, rotisserie",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 2.7,
+            "Calories": 113.9
+        }
+    },
+    {
+        "Name": "Southwest style chipotle seasoning turkey breast tenderloins, southwest style chipotle",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.1,
+            "Carbs": 1.8,
+            "Calories": 110.3
+        }
+    },
+    {
+        "Name": "Turkey breakfast sausage patties, turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 127.4
+        }
+    },
+    {
+        "Name": "Bacon-wrapped chicken breasts stuffed with jalapeno cream cheese, bacon-wrapped chicken breasts",
+        "Nutrients": {
+            "Protein": 22.2,
+            "Fat": 11.5,
+            "Carbs": 1.6,
+            "Calories": 198.7
+        }
+    },
+    {
+        "Name": "99% lean/1% fat extra lean ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Turkey ham",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 5.4,
+            "Carbs": 3.6,
+            "Calories": 113.0
+        }
+    },
+    {
+        "Name": "Italian seasoned lean ground turkey, italian seasoned",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey wings",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 7.1,
+            "Carbs": 0.9,
+            "Calories": 149.5
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey necks",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 7.1,
+            "Carbs": 0.9,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Taco seasoned lean ground turkey, taco seasoned",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "93% lean | 7% fat turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Ready to cook boneless skinless chicken breasts",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 91.4
+        }
+    },
+    {
+        "Name": "Applewood smoke flavor turkey breast tenderloin, applewood smoke",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 0.9,
+            "Carbs": 3.6,
+            "Calories": 94.1
+        }
+    },
+    {
+        "Name": "Island teriyaki turkey breast tenderloins, island teriyaki",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 0.9,
+            "Carbs": 4.5,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic, bruschetta with tomatoes, basil & garlic",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.2,
+            "Carbs": 2.7,
+            "Calories": 141.8
+        }
+    },
+    {
+        "Name": "Breaded stuffed chicken breasts with ham & swiss cheese, ham & swiss cheese",
+        "Nutrients": {
+            "Protein": 21.5,
+            "Fat": 5.2,
+            "Carbs": 2.2,
+            "Calories": 141.6
+        }
+    },
+    {
+        "Name": "Stuffed chicken breasts with fresh asparagus & cheddar cheese, asparagus & cheddar cheese",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 5.2,
+            "Carbs": 1.5,
+            "Calories": 135.2
+        }
+    },
+    {
+        "Name": "Beer brined chicken party wings, beer brined",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 12.5,
+            "Carbs": 1.8,
+            "Calories": 187.7
+        }
+    },
+    {
+        "Name": "Cajun style boneless duck breast, cajun style",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 15.9,
+            "Carbs": 1.8,
+            "Calories": 207.1
+        }
+    },
+    {
+        "Name": "Rotisserie-seasoned chicken patties, rotisserie-seasoned",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 8.6,
+            "Carbs": 0.0,
+            "Calories": 152.6
+        }
+    },
+    {
+        "Name": "93% lean 7% fat ground turkey patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Sweet asian recipe - boneless duck breast, sweet asian recipe",
+        "Nutrients": {
+            "Protein": 14.2,
+            "Fat": 15.9,
+            "Carbs": 3.5,
+            "Calories": 213.9
+        }
+    },
+    {
+        "Name": "Chicken wings, sriracha",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 17.5,
+            "Carbs": 5.3,
+            "Calories": 241.9
+        }
+    },
+    {
+        "Name": "Bacon wrapped stuffed chicken breast, broccoli & cheddar cheese",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 2.8,
+            "Carbs": 1.4,
+            "Calories": 55.2
+        }
+    },
+    {
+        "Name": "Chicken breast fillets, original",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 1.5,
+            "Carbs": 0.0,
+            "Calories": 98.3
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast fillets, butter & herb",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 1.5,
+            "Carbs": 2.4,
+            "Calories": 105.5
+        }
+    },
+    {
+        "Name": "Cantina style dark chicken, med",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 3.5,
+            "Carbs": 3.5,
+            "Calories": 112.7
+        }
+    },
+    {
+        "Name": "Chicken breast strips + seasoned panko breadcrumbs, sweet chili",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.5,
+            "Carbs": 15.0,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Spinach & 3-cheese stuffed chicken patties, spinach & 3-cheese",
+        "Nutrients": {
+            "Protein": 20.3,
+            "Fat": 5.5,
+            "Carbs": 5.5,
+            "Calories": 152.7
+        }
+    },
+    {
+        "Name": "Honey roasted turkey breast, honey roasted",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 1.8,
+            "Carbs": 3.6,
+            "Calories": 116.2
+        }
+    },
+    {
+        "Name": "Caribbean style jerk chicken, medium spice",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 5.7,
+            "Carbs": 12.6,
+            "Calories": 149.7
+        }
+    },
+    {
+        "Name": "Quarter pound organic turkey burgers, turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 161.2
+        }
+    },
+    {
+        "Name": "Jalapeno cheddar with jalapenos and sharp cheddar chicken burgers, jalapeno cheddar",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 9.7,
+            "Carbs": 1.8,
+            "Calories": 161.7
+        }
+    },
+    {
+        "Name": "Taco night with mild taco seasoning seasoned ground chicken, taco night with mild taco seasoning",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 8.9,
+            "Carbs": 1.8,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Chicken cordon bleu breaded boneless skinless chicken breast stuffed with ham & swiss cheese ez meals, chicken cordon bleu",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 4.5,
+            "Carbs": 0.9,
+            "Calories": 133.3
+        }
+    },
+    {
+        "Name": "Simply seasoned chicken breast, simply seasoned",
+        "Nutrients": {
+            "Protein": 18.5,
+            "Fat": 14.1,
+            "Carbs": 0.4,
+            "Calories": 202.5
+        }
+    },
+    {
+        "Name": "Sweet & sassy chicken party wings, sweet & sassy",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 17.0,
+            "Carbs": 3.6,
+            "Calories": 228.2
+        }
+    },
+    {
+        "Name": "Chicken fresh ground, chicken",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "93% lean 7% fat ground chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 134.2
+        }
+    },
+    {
+        "Name": "Salt & pepper sous vide chicken, salt & pepper",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 94.0
+        }
+    },
+    {
+        "Name": "Stuffed chicken breast with three cheeses, spinach & white wine, three cheeses, spinach & white wine",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 5.7,
+            "Carbs": 5.0,
+            "Calories": 151.3
+        }
+    },
+    {
+        "Name": "Broth, chicken ",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 1.6
+        }
+    },
+    {
+        "Name": "Ground turkey patties, ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "93% lean / 7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "98% lean / 2% fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Chipotle seasoned chicken, chipotle seasoned",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 7.9,
+            "Carbs": 9.3,
+            "Calories": 153.9
+        }
+    },
+    {
+        "Name": "Turkey breast, lemon thyme",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 9.3,
+            "Carbs": 0.7,
+            "Calories": 154.9
+        }
+    },
+    {
+        "Name": "Kabobs made with chicken breast, teriyaki",
+        "Nutrients": {
+            "Protein": 19.2,
+            "Fat": 1.3,
+            "Carbs": 3.9,
+            "Calories": 104.1
+        }
+    },
+    {
+        "Name": "Chicken breasts, basil pesto",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 4.0,
+            "Carbs": 1.8,
+            "Calories": 124.8
+        }
+    },
+    {
+        "Name": "Stuffed chicken breasts, bacon & cheddar",
+        "Nutrients": {
+            "Protein": 25.1,
+            "Fat": 8.8,
+            "Carbs": 1.3,
+            "Calories": 184.8
+        }
+    },
+    {
+        "Name": "Chicken breast filets, lemon pepper",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 4.1,
+            "Carbs": 2.4,
+            "Calories": 121.7
+        }
+    },
+    {
+        "Name": "Chipotle lime ready to cook chicken with citrus butter, chipotle lime with citrus butter",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.2,
+            "Carbs": 1.2,
+            "Calories": 149.0
+        }
+    },
+    {
+        "Name": "Chicken breasts, chipotle honey bbq",
+        "Nutrients": {
+            "Protein": 18.2,
+            "Fat": 2.4,
+            "Carbs": 5.9,
+            "Calories": 118.0
+        }
+    },
+    {
+        "Name": "Chicken breast roast, chipotle",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 1.3,
+            "Carbs": 2.7,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Chicken breast, cilantro lime",
+        "Nutrients": {
+            "Protein": 24.1,
+            "Fat": 3.1,
+            "Carbs": 2.7,
+            "Calories": 135.1
+        }
+    },
+    {
+        "Name": "Sliced chicken breast strips, orange ginger-seasoned chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.7,
+            "Carbs": 5.4,
+            "Calories": 121.1
+        }
+    },
+    {
+        "Name": "Aidells, italian style chicken meatballs, mozzarella cheese, mozzarella cheese",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 17.2,
+            "Carbs": 3.1,
+            "Calories": 242.4
+        }
+    },
+    {
+        "Name": "Chicken thigh meat marinated for pollo asado, med",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 4.4,
+            "Carbs": 2.6,
+            "Calories": 120.8
+        }
+    },
+    {
+        "Name": "99% lean - 1% fat fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "Spatchcock chicken, coffee rubbed",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 14.3,
+            "Carbs": 5.4,
+            "Calories": 211.1
+        }
+    },
+    {
+        "Name": "Market meal kits, southwest chipotle chicken with spanish rice & fresh vegetables",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 7.0,
+            "Carbs": 11.4,
+            "Calories": 145.4
+        }
+    },
+    {
+        "Name": "Carved chicken breast, original roasted",
+        "Nutrients": {
+            "Protein": 22.5,
+            "Fat": 2.8,
+            "Carbs": 0.0,
+            "Calories": 115.2
+        }
+    },
+    {
+        "Name": "Turkey sliders, spinach & onions",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "85% lean - 15% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Herbs d'italia dark meat ground chicken with italian style seasonings, herbs d'italia",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.7,
+            "Carbs": 3.6,
+            "Calories": 113.9
+        }
+    },
+    {
+        "Name": "Bacon & cheddar stuffed/breaded boneless chicken breast ez meals, bacon & cheddar",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 7.1,
+            "Carbs": 1.8,
+            "Calories": 163.9
+        }
+    },
+    {
+        "Name": "Cordon bleu with ham & swiss cheese bacon wrapped stuffed chicken breast, cordon bleu with ham & swiss cheese",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 8.0,
+            "Carbs": 0.5,
+            "Calories": 146.0
+        }
+    },
+    {
+        "Name": "Original endicott style seasoned chicken breast cubes, original endicott style",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 145.5
+        }
+    },
+    {
+        "Name": "Organic fresh 90% lean ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Italian dressing chicken breast, italian dressing",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 153.6
+        }
+    },
+    {
+        "Name": "All natural duck legs",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 25.9,
+            "Carbs": 0.0,
+            "Calories": 290.3
+        }
+    },
+    {
+        "Name": "Fresh ground chicken patties",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 0.0,
+            "Calories": 150.4
+        }
+    },
+    {
+        "Name": "Italian style chicken breast",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 2.8,
+            "Carbs": 2.0,
+            "Calories": 94.4
+        }
+    },
+    {
+        "Name": "Chicken breast patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 21.4,
+            "Carbs": 13.1,
+            "Calories": 302.2
+        }
+    },
+    {
+        "Name": "Chicken pattie tenders with meat",
+        "Nutrients": {
+            "Protein": 13.9,
+            "Fat": 19.8,
+            "Carbs": 11.9,
+            "Calories": 281.4
+        }
+    },
+    {
+        "Name": "Legacy, ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 163.4
+        }
+    },
+    {
+        "Name": "Applewood smoke chicken fully cooked sausage patties, applewood smoke chicken",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 12.5,
+            "Carbs": 4.7,
+            "Calories": 193.7
+        }
+    },
+    {
+        "Name": "Breaded all white chicken pattie",
+        "Nutrients": {
+            "Protein": 18.3,
+            "Fat": 5.0,
+            "Carbs": 8.3,
+            "Calories": 151.4
+        }
+    },
+    {
+        "Name": "Buffalo style chicken pattie, blue cheese",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 11.5,
+            "Carbs": 0.0,
+            "Calories": 167.1
+        }
+    },
+    {
+        "Name": "Vidalia sweet onion and havarti cheese chicken patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 1.8,
+            "Calories": 158.9
+        }
+    },
+    {
+        "Name": "Chicken patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 21.4,
+            "Carbs": 13.1,
+            "Calories": 302.2
+        }
+    },
+    {
+        "Name": "Shakers chicken breast strips + seasoned panko breadcrumbs",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 2.5,
+            "Carbs": 14.3,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Shakers chicken breast strips+seasoned panko breadcrumbs, honey bbq",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 2.1,
+            "Carbs": 15.0,
+            "Calories": 158.9
+        }
+    },
+    {
+        "Name": "Chicken breast strips + seasoned panko breadcrumps",
+        "Nutrients": {
+            "Protein": 20.7,
+            "Fat": 2.5,
+            "Carbs": 14.3,
+            "Calories": 162.5
+        }
+    },
+    {
+        "Name": "Chicken burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 1.3,
+            "Carbs": 3.6,
+            "Calories": 111.7
+        }
+    },
+    {
+        "Name": "Chicken burgers, jalapeno & cheddar cheese",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 1.8,
+            "Calories": 148.6
+        }
+    },
+    {
+        "Name": "Spinach & feta cheese chicken burgers",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 4.5,
+            "Carbs": 0.9,
+            "Calories": 126.1
+        }
+    },
+    {
+        "Name": "Chicken burgers, spinach & feta",
+        "Nutrients": {
+            "Protein": 16.5,
+            "Fat": 14.1,
+            "Carbs": 1.2,
+            "Calories": 197.7
+        }
+    },
+    {
+        "Name": "Skinny dipping chicken patties",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 4.6,
+            "Carbs": 2.6,
+            "Calories": 133.8
+        }
+    },
+    {
+        "Name": "Sweet thai-style small batch chicken ground seasoned patty blend with shallots, cilantro, honey & ginger, sweet thai-style",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.0,
+            "Carbs": 8.0,
+            "Calories": 175.6
+        }
+    },
+    {
+        "Name": "Hot italian style chicken sausage burgers with chili peppers and roasted red peppers, hot italian style",
+        "Nutrients": {
+            "Protein": 17.4,
+            "Fat": 8.2,
+            "Carbs": 2.0,
+            "Calories": 151.4
+        }
+    },
+    {
+        "Name": "Bruschetta tomato, basil & garlic chicken patties, bruschetta",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 9.4,
+            "Carbs": 2.3,
+            "Calories": 165.8
+        }
+    },
+    {
+        "Name": "Chicken oktoberfest patties, chicken",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 3.5,
+            "Carbs": 0.0,
+            "Calories": 113.1
+        }
+    },
+    {
+        "Name": "Italian herb boneless/skinless chicken breasts with rib meat, italian herb",
+        "Nutrients": {
+            "Protein": 22.8,
+            "Fat": 3.5,
+            "Carbs": 1.8,
+            "Calories": 129.9
+        }
+    },
+    {
+        "Name": "Original chicken patties, original",
+        "Nutrients": {
+            "Protein": 20.3,
+            "Fat": 7.0,
+            "Carbs": 0.0,
+            "Calories": 144.2
+        }
+    },
+    {
+        "Name": "Chicken breast strips with rib meat, chicken",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 4.8,
+            "Carbs": 1.2,
+            "Calories": 143.2
+        }
+    },
+    {
+        "Name": "Sweet bourbon marinated boneless skinless chicken breast with rib meat ez meals, sweet bourbon",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 2.7,
+            "Calories": 109.0
+        }
+    },
+    {
+        "Name": "House marinade chicken tips",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 3.5,
+            "Carbs": 5.3,
+            "Calories": 130.7
+        }
+    },
+    {
+        "Name": "Spicy candied teriyaki chicken breast skewers with spicy candied teriyaki sauce, spicy candied teriyaki",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 2.2,
+            "Carbs": 4.4,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Mesquite flavored chicken breast with rib meat, mesquite",
+        "Nutrients": {
+            "Protein": 20.6,
+            "Fat": 2.5,
+            "Carbs": 1.7,
+            "Calories": 111.7
+        }
+    },
+    {
+        "Name": "Butter garlic flavored chicken breast, butter garlic",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.6,
+            "Carbs": 1.3,
+            "Calories": 110.2
+        }
+    },
+    {
+        "Name": "Theo's steakhouse chicken skewers, theo's steakhouse chicken",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 4.4,
+            "Carbs": 1.8,
+            "Calories": 124.8
+        }
+    },
+    {
+        "Name": "Marinated honey mustard chicken breasts, honey mustard",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 3.5,
+            "Carbs": 6.5,
+            "Calories": 137.5
+        }
+    },
+    {
+        "Name": "Parmesan chicken breast cutlets, parmesan chicken",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 10.3,
+            "Carbs": 5.8,
+            "Calories": 200.3
+        }
+    },
+    {
+        "Name": "Roasted garlic & sundried tomato seasoned chicken breast, roasted garlic & sundried tomato",
+        "Nutrients": {
+            "Protein": 19.4,
+            "Fat": 5.3,
+            "Carbs": 4.1,
+            "Calories": 141.7
+        }
+    },
+    {
+        "Name": "99% fat free ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Isernio's, italian chicken sausage",
+        "Nutrients": {
+            "Protein": 18.9,
+            "Fat": 3.7,
+            "Carbs": 1.1,
+            "Calories": 113.3
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken breast with rib meat for pollo asado",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 2.7,
+            "Calories": 105.8
+        }
+    },
+    {
+        "Name": "Whole young chicken",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Gilled carved chicken breast, grilled",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 2.8,
+            "Carbs": 1.4,
+            "Calories": 115.2
+        }
+    },
+    {
+        "Name": "Red pepper & feta cheese seasoned chicken burgers, red pepper & feta cheese",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 12.6,
+            "Carbs": 7.3,
+            "Calories": 203.4
+        }
+    },
+    {
+        "Name": "Jalapeno bacon cheddar turkey patty, jalapeno bacon cheddar",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 6.5,
+            "Carbs": 1.2,
+            "Calories": 148.1
+        }
+    },
+    {
+        "Name": "95% lean | 5% fat ground turkey",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 130.6
+        }
+    },
+    {
+        "Name": "Uncured smoked duck bacon, uncured smoked",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 267.8
+        }
+    },
+    {
+        "Name": "Chicken breast stuffed with bell pepper, onion and pineapple hawaiian luau, chicken breast stuffed with bell pepper, onion and pineapple",
+        "Nutrients": {
+            "Protein": 13.7,
+            "Fat": 0.0,
+            "Carbs": 5.3,
+            "Calories": 76.0
+        }
+    },
+    {
+        "Name": "Barbecue kentucky style chicken breast, barbecue",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 2.2,
+            "Carbs": 4.4,
+            "Calories": 119.0
+        }
+    },
+    {
+        "Name": "Turkey organic ground breast, turkey",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 0.4,
+            "Carbs": 0.9,
+            "Calories": 99.2
+        }
+    },
+    {
+        "Name": "93% lean / 7% fat organic ground chicken",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 134.2
+        }
+    },
+    {
+        "Name": "93% lean/7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 139.1
+        }
+    },
+    {
+        "Name": "Tomato herb chicken breasts boneless & skinless with rib meat, up to 18% seasoned marinade for flavor and tenderness, tomato herb",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.7,
+            "Carbs": 1.8,
+            "Calories": 109.9
+        }
+    },
+    {
+        "Name": "Organic free-range chicken breast with rib meat",
+        "Nutrients": {
+            "Protein": 27.1,
+            "Fat": 2.9,
+            "Carbs": 0.0,
+            "Calories": 134.5
+        }
+    },
+    {
+        "Name": "98% lean/2% fat ground turkey breast",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Indian butter chicken with jasmine rice meal kit, indian butter chicken with jasmine rice",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 3.2,
+            "Carbs": 18.6,
+            "Calories": 148.0
+        }
+    },
+    {
+        "Name": "94% lean/6% fat turkey burgers",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "80% lean/20% fat ground turkey",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 17.9,
+            "Carbs": 0.9,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Mediterranean style boneless skinless chicken thighs in sweet pepper sauce, mediterranean style",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 11.4,
+            "Carbs": 2.9,
+            "Calories": 171.4
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken thighs in tikka masala sauce, tikka masala sauce",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 9.3,
+            "Carbs": 2.9,
+            "Calories": 155.3
+        }
+    },
+    {
+        "Name": "Teriyaki glazed cook-in-bag chicken thighs with sliced onions, green & red bell peppers in a teriyaki marinade, teriyaki glazed",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 3.6,
+            "Carbs": 10.7,
+            "Calories": 120.8
+        }
+    },
+    {
+        "Name": "Taco seasoned turkey sausage, taco seasoned",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 8.9,
+            "Carbs": 3.6,
+            "Calories": 187.3
+        }
+    },
+    {
+        "Name": "Buffalo flavored seasoned chicken breast, buffalo",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 6.5,
+            "Carbs": 5.3,
+            "Calories": 154.9
+        }
+    },
+    {
+        "Name": "Stuffed chicken with pork & sausage jambalaya",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 15.4,
+            "Carbs": 5.7,
+            "Calories": 236.2
+        }
+    },
+    {
+        "Name": "96% lean 4% fat fresh ground chicken",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 113.5
+        }
+    },
+    {
+        "Name": "Kentucky style bourbon chicken skewers, kentucky style bourbon",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 3.1,
+            "Carbs": 5.3,
+            "Calories": 127.1
+        }
+    },
+    {
+        "Name": "Pulled chicken premium all white meat rotisserie chicken lightly marinated and seasoned with salt and pepper, pulled chicken",
+        "Nutrients": {
+            "Protein": 28.2,
+            "Fat": 2.9,
+            "Carbs": 1.2,
+            "Calories": 143.7
+        }
+    },
+    {
+        "Name": "Bacon, garlic cream swiss chicken breasts bacon wrapped chicken filled with garlic cream stuffing and swiss cheese, bacon, garlic cream swiss chicken breasts",
+        "Nutrients": {
+            "Protein": 22.7,
+            "Fat": 11.1,
+            "Carbs": 2.0,
+            "Calories": 198.7
+        }
+    },
+    {
+        "Name": "Lemon peppercorn boneless & skinless chicken breasts with rib meat, up to 16% seasoned marinade, lemon peppercorn",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 0.0,
+            "Calories": 98.2
+        }
+    },
+    {
+        "Name": "Organic, 90% lean ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.8,
+            "Carbs": 0.0,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Turkey sliders seasoned with spinach & onions, turkey with spinach & onions",
+        "Nutrients": {
+            "Protein": 23.0,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 115.4
+        }
+    },
+    {
+        "Name": "Chicken sliders seasoned with salt, pepper and a hint of cayenne pepper mini-burgers , chicken sliders",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 2.6,
+            "Carbs": 0.9,
+            "Calories": 90.6
+        }
+    },
+    {
+        "Name": "Thai-style chicken skewers, thai-style",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 2.2,
+            "Carbs": 1.8,
+            "Calories": 102.2
+        }
+    },
+    {
+        "Name": "Parmesan breaded chicken breast cutlets, parmesan breaded chicken breast",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 6.2,
+            "Carbs": 14.3,
+            "Calories": 181.0
+        }
+    },
+    {
+        "Name": "Grilled chicken breast cutlet",
+        "Nutrients": {
+            "Protein": 24.3,
+            "Fat": 2.8,
+            "Carbs": 0.0,
+            "Calories": 122.4
+        }
+    },
+    {
+        "Name": "99% lean/1% fat fresh ground turkey breast",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 108.1
+        }
+    },
+    {
+        "Name": "85% lean/15% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 15.2,
+            "Carbs": 0.0,
+            "Calories": 212.0
+        }
+    },
+    {
+        "Name": "Teriyaki seasoned boneless skinless chicken breasts oven ready bag, teriyaki",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 4.0,
+            "Carbs": 5.4,
+            "Calories": 125.6
+        }
+    },
+    {
+        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts oven ready bag, rustic tomato & basil",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Southwestern style seasoned boneless skinless chicken breasts oven ready bag, southwestern style",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 104.0
+        }
+    },
+    {
+        "Name": "Chipotle seasoned chicken instant pot, chipotle seasoned chicken",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 7.9,
+            "Carbs": 9.3,
+            "Calories": 153.9
+        }
+    },
+    {
+        "Name": "Smoked turkey wings, smoked",
+        "Nutrients": {
+            "Protein": 23.9,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 271.1
+        }
+    },
+    {
+        "Name": "Blackened chicken strips, blackened chicken",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 5.9,
+            "Carbs": 1.2,
+            "Calories": 137.9
+        }
+    },
+    {
+        "Name": "Chipotle lime chicken with citrus butter, chipotle lime",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.2,
+            "Carbs": 1.2,
+            "Calories": 149.0
+        }
+    },
+    {
+        "Name": "Boneless skinless chicken thigh meat",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Simply roasted chicken breast strips with rib meat, simply roasted",
+        "Nutrients": {
+            "Protein": 23.8,
+            "Fat": 4.8,
+            "Carbs": 1.2,
+            "Calories": 143.2
+        }
+    },
+    {
+        "Name": "Teriyaki chicken & rice instant pot kits, teriyaki chicken & rice",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 3.9,
+            "Carbs": 30.9,
+            "Calories": 199.9
+        }
+    },
+    {
+        "Name": "Hatch green chile chicken & rice casserole instant pot kits, hatch green chile chicken & rice casserole",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 4.5,
+            "Carbs": 20.0,
+            "Calories": 158.5
+        }
+    },
+    {
+        "Name": "99% lean/1% fat ground turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 104.5
+        }
+    },
+    {
+        "Name": "Ingredient cuts diced chicken breast boneless, skinless with rib meat",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.0,
+            "Calories": 114.4
+        }
+    },
+    {
+        "Name": "Smokehouse seasoned chicken breasts, smokehouse seasoned",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 4.0,
+            "Carbs": 0.9,
+            "Calories": 118.0
+        }
+    },
+    {
+        "Name": "Italian style seasoned cuts boneless skinless chicken breast with rib meat, italian style",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 2.2,
+            "Carbs": 0.9,
+            "Calories": 101.8
+        }
+    },
+    {
+        "Name": "Chipotle chicken with honey lime glaze premium pairings pre-portioned chipotle seasoned boneless skinless chicken breast with up to 9% chicken broth, sea salt, chipotle chicken with honey lime glaze",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.9,
+            "Carbs": 2.3,
+            "Calories": 119.5
+        }
+    },
+    {
+        "Name": "93% lean/7% fat fresh ground turkey",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Backyard bbq seasoned chicken breast, backyard bbq",
+        "Nutrients": {
+            "Protein": 19.4,
+            "Fat": 5.3,
+            "Carbs": 0.0,
+            "Calories": 125.3
+        }
+    },
+    {
+        "Name": "93% lean - 7% fat ground turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 7.1,
+            "Carbs": 0.9,
+            "Calories": 153.1
+        }
+    },
+    {
+        "Name": "Olive oil & herb chicken with basil pistou premium pairings pre-portioned italian seasoned boneless, skinless, chicken breast marinated with up to a 9% solution of broth, and basil pistou, olive oil & herb chicken with basil",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 6.2,
+            "Carbs": 3.1,
+            "Calories": 140.2
+        }
+    },
+    {
+        "Name": "93% lean/7% fat ground turkey patties",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 135.5
+        }
+    },
+    {
+        "Name": "Turkey ground, turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Boneless, skinless chicken breast",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 1.3,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "Boneless & skinless chicken thighs",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 5.3,
+            "Carbs": 2.6,
+            "Calories": 125.3
+        }
+    },
+    {
+        "Name": "Korean style bbq seasoned boneless & skinless chicken thighs, korean style bbq",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 5.3,
+            "Carbs": 3.5,
+            "Calories": 128.9
+        }
+    },
+    {
+        "Name": "Honey sriracha seasoned boneless & skinless chicken thighs, honey sriracha seasoned",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 4.4,
+            "Carbs": 3.5,
+            "Calories": 120.8
+        }
+    },
+    {
+        "Name": "All natural lean ground turkey",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 142.3
+        }
+    },
+    {
+        "Name": "Tomato & basil chicken meatballs",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 9.4,
+            "Carbs": 4.7,
+            "Calories": 164.6
+        }
+    },
+    {
+        "Name": "Hot & honey chicken breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 2.7,
+            "Carbs": 5.4,
+            "Calories": 131.5
+        }
+    },
+    {
+        "Name": "Ultra thin oven roasted turkey breast and honey ham",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 2.7,
+            "Carbs": 3.6,
+            "Calories": 110.3
+        }
+    },
+    {
+        "Name": "Natural 93% lean 7% fat ground white turkey",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 7.1,
+            "Carbs": 0.0,
+            "Calories": 145.9
+        }
+    },
+    {
+        "Name": "Natural 85% lean 15% fat ground turkey",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 196.7
+        }
+    },
+    {
+        "Name": "Italian style turkey meatballs",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 14.1,
+            "Carbs": 5.9,
+            "Calories": 202.1
+        }
+    },
+    {
+        "Name": "Oven ready seasoned in cooking bag whole roaster",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 13.4,
+            "Carbs": 0.9,
+            "Calories": 188.6
+        }
+    },
+    {
+        "Name": "Cornish  hen",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 14.3,
+            "Carbs": 0.0,
+            "Calories": 196.7
+        }
+    },
+    {
+        "Name": "Fresh  chicken leg quarters",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 22.3,
+            "Carbs": 0.0,
+            "Calories": 261.5
+        }
+    },
+    {
+        "Name": "Natural applewood smoked turkey breast",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 89.7
+        }
+    },
+    {
+        "Name": "Boneless, skin-on chicken breast",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 4.5,
+            "Carbs": 0.0,
+            "Calories": 126.1
+        }
+    },
+    {
+        "Name": "Roast half duck, roast",
+        "Nutrients": {
+            "Protein": 19.7,
+            "Fat": 15.5,
+            "Carbs": 8.4,
+            "Calories": 251.9
+        }
+    },
+    {
+        "Name": "Southwest style seasoned cuts boneless, skinless chicken thighs coated with paprika, southwest style",
+        "Nutrients": {
+            "Protein": 17.0,
+            "Fat": 9.8,
+            "Carbs": 0.9,
+            "Calories": 159.8
+        }
+    },
+    {
+        "Name": "Chipotle chicken premium pairings with honey lime glaze, chipotle with honey lime glaze",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 3.9,
+            "Carbs": 2.3,
+            "Calories": 119.5
+        }
+    },
+    {
+        "Name": "Olive oil & herb chicken premium pairings with basil pistou, olive oil & herb with basil pistou",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 6.2,
+            "Carbs": 3.1,
+            "Calories": 140.2
+        }
+    },
+    {
+        "Name": "99% lean, 1% fat ground turkey",
+        "Nutrients": {
+            "Protein": 23.2,
+            "Fat": 0.9,
+            "Carbs": 0.0,
+            "Calories": 100.9
+        }
+    },
+    {
+        "Name": "94% lean, 6% fat ground turkey",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.9,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "94% lean, 6% fat ground turkey patties",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 6.2,
+            "Carbs": 0.0,
+            "Calories": 141.4
+        }
+    },
+    {
+        "Name": "Gourmet chicken breast",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 3.6,
+            "Carbs": 1.8,
+            "Calories": 118.0
+        }
+    },
+    {
+        "Name": "94% lean 6% fat ground turkey patties",
+        "Nutrients": {
+            "Protein": 20.5,
+            "Fat": 2.7,
+            "Carbs": 4.5,
+            "Calories": 124.3
+        }
+    },
+    {
+        "Name": "Buffalo style chicken stick",
+        "Nutrients": {
+            "Protein": 32.1,
+            "Fat": 7.1,
+            "Carbs": 3.6,
+            "Calories": 206.7
+        }
+    },
+    {
+        "Name": "Garlic ginger teriyaki chicken seasoned boneless skinless chicken thighs, garlic ginger teriyaki chicken",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 3.5,
+            "Carbs": 6.2,
+            "Calories": 116.3
+        }
+    }
+]

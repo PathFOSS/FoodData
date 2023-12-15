@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "Sunny hill kumara fries 680g",
+        "Nutrients": {
+            "Protein": 1.1,
+            "Fat": 5.9,
+            "Carbs": 24.9,
+            "Calories": 157.1
+        }
+    },
+    {
+        "Name": "Sunny hill kumara wedges 680g",
+        "Nutrients": {
+            "Protein": 1.7,
+            "Fat": 2.3,
+            "Carbs": 23.3,
+            "Calories": 120.7
+        }
+    },
+    {
+        "Name": "Pams steak cut fries 1kg",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 3.9,
+            "Carbs": 20.1,
+            "Calories": 125.1
+        }
+    },
+    {
+        "Name": "Makikihi fries premium crinkle cut fries 1kg",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.7,
+            "Carbs": 19.3,
+            "Calories": 128.5
+        }
+    },
+    {
+        "Name": "Makikihi fries premium steak fries 2kg",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 5.7,
+            "Carbs": 19.3,
+            "Calories": 140.9
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Tickled peaches",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 16.0,
+            "Calories": 67.2
+        }
+    },
+    {
+        "Name": "Mixed berry",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.1,
+            "Calories": 56.4
+        }
+    },
+    {
+        "Name": "Tickled strawberries",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.8,
+            "Calories": 59.2
+        }
+    },
+    {
+        "Name": "Southern sliced peaches",
+        "Nutrients": {
+            "Protein": 0.7,
+            "Fat": 0.0,
+            "Carbs": 13.6,
+            "Calories": 57.2
+        }
+    }
+]

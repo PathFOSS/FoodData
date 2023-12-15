@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Break-o-morn frozen eggs pasteurized homogenized in carton, case",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 6.5,
+            "Carbs": 4.3,
+            "Calories": 110.5
+        }
+    },
+    {
+        "Name": "Break o morn scrambled egg mix - cook in bag",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 6.5,
+            "Carbs": 4.3,
+            "Calories": 110.5
+        }
+    },
+    {
+        "Name": "Break-o-morn scrambled egg mix cook-in-bag, case",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 8.2,
+            "Carbs": 2.5,
+            "Calories": 123.0
+        }
+    },
+    {
+        "Name": "Fleischmann's vol-whip frozen egg whites, 5 lb case",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 0.0,
+            "Carbs": 1.6,
+            "Calories": 45.6
+        }
+    }
+]

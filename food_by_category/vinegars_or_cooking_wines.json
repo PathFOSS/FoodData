@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Progresso balsamic vinegar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Progresso red wine vinegar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Fanta soft drink tropical 600ml",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.8,
+            "Calories": 31.2
+        }
+    },
+    {
+        "Name": "Fanta soft drink tropical 1.5l",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 8.0,
+            "Calories": 32.0
+        }
+    },
+    {
+        "Name": "Karma drinks organic lemmy lemonade 250ml",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 7.9,
+            "Calories": 31.6
+        }
+    },
+    {
+        "Name": "Karma drinks organic karma cola 250ml",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 9.8,
+            "Calories": 39.2
+        }
+    },
+    {
+        "Name": "Aqa lite flavoured sparkling water lemonade 350ml",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.3,
+            "Carbs": 3.6,
+            "Calories": 18.3
+        }
+    },
+    {
+        "Name": "Aqa lite flavoured sparkling water orange 350ml",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.3,
+            "Carbs": 3.6,
+            "Calories": 18.3
+        }
+    },
+    {
+        "Name": "Aqa lite flavoured sparkling water peach 350ml",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.3,
+            "Carbs": 3.6,
+            "Calories": 18.3
+        }
+    },
+    {
+        "Name": "Schweppes classic ginger beer 6 x 250ml",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 10.8,
+            "Calories": 43.2
+        }
+    },
+    {
+        "Name": "Sparkling duet orange & lemon soft drink 1.5l",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Woolworths refreshing ginger beer 1.5l",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.7,
+            "Calories": 46.8
+        }
+    }
+]

@@ -1,0 +1,7382 @@
+[
+    {
+        "Name": "Hsyalm 1.45oz",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 53.7,
+            "Carbs": 0.0,
+            "Calories": 522.5
+        }
+    },
+    {
+        "Name": "Hersheys milk chocolate standard bar",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 30.2,
+            "Carbs": 60.5,
+            "Calories": 541.8
+        }
+    },
+    {
+        "Name": "Reeses milk chocolate peanut butter cup king size bar",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 30.0,
+            "Carbs": 57.5,
+            "Calories": 540.0
+        }
+    },
+    {
+        "Name": "Autumn assortment with hazelnut filling",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 32.1,
+            "Carbs": 0.0,
+            "Calories": 317.3
+        }
+    },
+    {
+        "Name": "Kenny's - cherry bites - 14oz bag",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 3.3,
+            "Carbs": 73.3,
+            "Calories": 336.1
+        }
+    },
+    {
+        "Name": "Wiley wallaby - blueberry pomegranate licorice - 10oz bag",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 72.4,
+            "Calories": 303.6
+        }
+    },
+    {
+        "Name": "Reeses milk chocolate peanut butter cup standard bar",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 28.6,
+            "Carbs": 57.1,
+            "Calories": 533.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free6x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Swedish fish candy jelly beans fat free24x13 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Bubblicious gum assorted 1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 76.9,
+            "Calories": 307.6
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x1.76 oz",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 30.0,
+            "Carbs": 64.0,
+            "Calories": 550.0
+        }
+    },
+    {
+        "Name": "Sour patch xploderz soft candy assorted fat free12x6.5 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Sour patch soft candy fruit fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy eggs fat freeeaster12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum island berry lime 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Bubblicious gum watermelon big1x10.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Milka chocolate-mixed unit oreo 1x6.170 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 23.7,
+            "Carbs": 71.0,
+            "Calories": 518.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids festive1x3 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident layers gum grape lemonade 1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Sour patch soft candy bunnies fat freeeaster12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum assorted sugar free1x15.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free12x72 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident white gum wintergreen sugar free1x16.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar 70% dark 10x3.500 oz",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 42.5,
+            "Carbs": 47.5,
+            "Calories": 612.5
+        }
+    },
+    {
+        "Name": "Dentyne fire gum cinnamon sugar free12x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident vibes gum peppermint 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.0,
+            "Calories": 348.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces variety valentines day1x3.88 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 47.5,
+            "Carbs": 42.5,
+            "Calories": 617.5
+        }
+    },
+    {
+        "Name": "Sour patch fruits soft candy fruits fat free12x8.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Dentyne ice gum spearmint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident vibes gum lemon 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 43.5,
+            "Calories": 174.0
+        }
+    },
+    {
+        "Name": "Sour patch candy watermelon 1x14 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids easter1x1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum island berry lime sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum blueberry twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne ice gum peppermint sugar free12x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar almond 1x3.17 oz",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 52.8,
+            "Carbs": 36.1,
+            "Calories": 652.8
+        }
+    },
+    {
+        "Name": "Dentyne ice gum peppermint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident layers gum 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Trident gum peppermint 1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy bulk fat free0x13.2 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch candy watermelon 1x16 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Trident gum watermelon 1x14.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy assorted fat free12x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces sea salt 1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 52.5,
+            "Carbs": 40.0,
+            "Calories": 652.5
+        }
+    },
+    {
+        "Name": "Trident gum watermelon twist sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Stride gum winterblue sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne pure gum mint/herbal accents sugar free12x40.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free12x10.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.3,
+            "Calories": 341.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freevalentines day1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Sour patch peach soft candy peach fat free24x2.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Sour patch soft candy bunnies fat freeeaster12x9.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon bonus1x14 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Stride gum peppermint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum blue raspberry 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum splashing fruit sugar free1x18 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist 1x14 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Trident gum island berry lime sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy bulk fat free400x13.2 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces sea salt valentines day1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 52.5,
+            "Carbs": 40.0,
+            "Calories": 652.5
+        }
+    },
+    {
+        "Name": "Sour patch kids jelly beans assorted fat free24x13.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids candy kids 1x3.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.7,
+            "Calories": 358.8
+        }
+    },
+    {
+        "Name": "Dentyne ice gum spearmint sugar free1x60 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident gum minty sweet twist sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident splash gum strawberry lime 1x15 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident gum spearmint sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident vibes gum tropical 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 43.5,
+            "Calories": 174.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free20x16 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum watermelon twist 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x16 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x21.000 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 60.6,
+            "Calories": 539.5
+        }
+    },
+    {
+        "Name": "Sour patch fruits soft candy assorted fruits fat free12x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum original sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne gum fire cinnamon sugar free1x110.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy assorted fruits fat free16x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Halls kids lollipops orange 1x10 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces variety 1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 47.5,
+            "Carbs": 45.0,
+            "Calories": 627.5
+        }
+    },
+    {
+        "Name": "Halls refresh cough drops juicy strawberry 1x20.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Dentyne classic gum cinnamon sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy assorted fat free24x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum watermelon 1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy red fat freevalentines day1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum assorted mint sugar free1x20 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident vibes gum spearmint 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.0,
+            "Calories": 348.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Halls defense cough drops harvest cherry 1x25.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne pure gum mint/melon accents sugar free1x9 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Trident gum original 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident splash gum strawberry lime sugar free6x104.000 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freevalentines day1x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x14 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum wild strawberry/tangy citrus 1x10 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Trident gum original 1x30.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident white gum peppermint sugar free18x180 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Terry's chocolate ball dark chocolate orange 1x5.53 oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 28.2,
+            "Carbs": 64.1,
+            "Calories": 530.6
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy berries fat free6x7.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free24x48 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Trident gum original sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy red easter1x1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum spearmint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum assorted fruit sugar free1x20 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum strawberry twist sugar free1x14.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch soft candy strawberry fat free1x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Terry's chocolate ball milk chocolate orange 1x6.17 oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 29.6,
+            "Carbs": 59.1,
+            "Calories": 520.8
+        }
+    },
+    {
+        "Name": "Trident layers gum pumpkin spice fall1x14.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 80.0,
+            "Calories": 320.0
+        }
+    },
+    {
+        "Name": "Dentyne fire mints cinnamon sugar free1x50.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum 1x14 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy eggs fat freeeaster12x9.500 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch blue raspberry soft candy blue raspberry fat free24x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar white vanilla 1x3.500 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 37.5,
+            "Carbs": 55.0,
+            "Calories": 587.5
+        }
+    },
+    {
+        "Name": "Bubblicious gum strawberry 1x5 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident gum black raspberry twist sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy blue fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar crunchy almond with sea salt 1x3.52 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 60.6,
+            "Calories": 539.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy pink fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Stride gum melopeach sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x34.56 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy assorted fat free12x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tricksters fat free1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar white 1x3.520 oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 28.6,
+            "Carbs": 64.3,
+            "Calories": 533.8
+        }
+    },
+    {
+        "Name": "Dentyne ice gum arctic chill sugar free1x60 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Halls defense cough drops assorted citrus 1x30 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Trident gum wintergreen sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free60x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x14 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x16 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar toffee milk chocolate 10x3.5 oz",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 32.5,
+            "Carbs": 55.0,
+            "Calories": 552.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freechristmas20x14 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Bubblicious gum strawberry big1x10 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 75.0,
+            "Calories": 300.0
+        }
+    },
+    {
+        "Name": "Trident gum passion fruit sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free6x3.5 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch fruits soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Trident layers gum candy cane christmas1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Stride gum icymint sugar free1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy red fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate ball dark chocolate orange 1x6.17 oz",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 29.6,
+            "Carbs": 63.6,
+            "Calories": 538.8
+        }
+    },
+    {
+        "Name": "Trident splash gum pucker me berry sugar free1x9 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Terry's chocolate ball milk chocolate orange 1x5.53 oz",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 28.2,
+            "Carbs": 61.5,
+            "Calories": 520.2
+        }
+    },
+    {
+        "Name": "Trident gum peppermint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces salted caramel 1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 47.5,
+            "Carbs": 45.0,
+            "Calories": 627.5
+        }
+    },
+    {
+        "Name": "Trident gum strawberry twist sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident layers gum wild strawberry/tangy citrus sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x14 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum sour patch kids lime1x14.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x12.600 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 60.6,
+            "Calories": 539.5
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar milk chocolate 1x3.500 oz",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 32.5,
+            "Carbs": 52.5,
+            "Calories": 542.5
+        }
+    },
+    {
+        "Name": "Toblerone chocolate milk chocolate little mini 1x7.050 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 28.9,
+            "Carbs": 63.2,
+            "Calories": 534.1
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free1x3.400 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Halls refresh cough drops lemon raspberry 1x20.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat freevalentines day1x13.23 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar salted caramel 1x3.17 oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 47.2,
+            "Carbs": 44.4,
+            "Calories": 624.8
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces variety valentines day1x2.11 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 50.0,
+            "Carbs": 42.5,
+            "Calories": 640.0
+        }
+    },
+    {
+        "Name": "Trident white gum micro mint sugar free12x16.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces variety valentines day1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 47.5,
+            "Carbs": 45.0,
+            "Calories": 627.5
+        }
+    },
+    {
+        "Name": "Trident gum tropical watermelon sugar free1x36.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Green & blacks assorted collection chocolate pieces variety festive1x4.23 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 47.5,
+            "Carbs": 45.0,
+            "Calories": 627.5
+        }
+    },
+    {
+        "Name": "Trident layers gum 1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy mini bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy variety festive1x1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum sour patch kids redberry1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free8x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar-minis dark chocolate little mini 1x7.050 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 31.6,
+            "Carbs": 57.9,
+            "Calories": 537.2
+        }
+    },
+    {
+        "Name": "Trident gum watermelon and tropical fruit 1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Trident gum mint sweet twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne ice sub zero gum glacier mint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freechristmas12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum tropical twist 1x90 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Dentyne ice gum peppermint sugar free1x60 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident gum island berry lime 1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Stride gum lemonberry sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum watermelon 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Halls defense cough drops big watermelon sugar free vitamin c1x pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Milka biscuits 1x5.29 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 30.0,
+            "Carbs": 60.0,
+            "Calories": 536.8
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss sugar free1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident layers gum wild strawberry/tangy citrus sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Stride gum peppermint sugar free1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Milka chocolate bar alpine milk 1x3.520 oz",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 28.6,
+            "Carbs": 59.5,
+            "Calories": 523.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy yellow fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy green fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Trident splash gum strawberry lime sugar free1x40.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free8x3.5 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum original 1x14 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum cinnamon 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum sour patch kids redberry1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free12x14 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum spearmint sugar free1x8 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Trident gum pineapple twist sugar free1x14.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Cote d'or chocolate tablet dark with almonds 1x6.35 oz",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 35.6,
+            "Carbs": 48.9,
+            "Calories": 551.6
+        }
+    },
+    {
+        "Name": "Trident white gum spearmint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Sour patch soft candy big bag fat free1x9 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free12x10.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 77.5,
+            "Calories": 310.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar maya gold dark 10x3.5 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 37.5,
+            "Carbs": 52.5,
+            "Calories": 577.5
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar almond milk chocolate 10x3.5 oz",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 40.0,
+            "Carbs": 42.5,
+            "Calories": 580.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy mini bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar dark chocolate 1x3.520 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 60.6,
+            "Calories": 539.5
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x7.05 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 30.0,
+            "Carbs": 60.0,
+            "Calories": 530.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy orange fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x90.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy assorted fat free8x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Sour patch extreme soft candy extreme fat free12x7.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar ginger dark 10x3.500 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 30.0,
+            "Carbs": 57.5,
+            "Calories": 520.0
+        }
+    },
+    {
+        "Name": "Trident white gum minty bubble sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident gum minty sweet twist sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch apples soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy extreme fat free1x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy assorted fat free16x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch soft candy fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.7,
+            "Calories": 358.8
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x1.23 oz",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 28.6,
+            "Carbs": 62.9,
+            "Calories": 531.8
+        }
+    },
+    {
+        "Name": "Green & black's chocolate bar 1x3.500 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 37.5,
+            "Carbs": 52.5,
+            "Calories": 577.5
+        }
+    },
+    {
+        "Name": "Trident gum original 1x90.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar-minis milk chocolate christmas1x9.700 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 30.0,
+            "Carbs": 60.0,
+            "Calories": 530.0
+        }
+    },
+    {
+        "Name": "Trident layers gum green apple/golden pineapple sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy bulk fat free1x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Stride gum icymint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch peach soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.5,
+            "Calories": 350.0
+        }
+    },
+    {
+        "Name": "Halls defense cough drops assorted citrus 1x80 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Trident gum black raspberry twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum watermelon 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Halls refresh cough drops tropical wave 1x20.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freeeaster1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum watermelon twist sugar free18x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum wintergreen sugar free1x18.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum peppermint 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 43.5,
+            "Calories": 174.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar mint infused dark 10x3.5 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 37.5,
+            "Carbs": 52.5,
+            "Calories": 577.5
+        }
+    },
+    {
+        "Name": "Halls defense cough drops assorted citrus sugar free1x25 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy berries fat free12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Sour patch fruits soft candy assorted fruits fat free1x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy assorted fruits fat free24x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum watermelon twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar sea salt 1x3.17 oz",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 36.1,
+            "Carbs": 50.0,
+            "Calories": 569.3
+        }
+    },
+    {
+        "Name": "Sour patch soft candy strawberry fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 87.2,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free24x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.9,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Trident layers gum grape lemonade 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Trident gum original 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Stride gum spearmint sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Halls defense cough drops pink grapefruit 1x30 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Dentyne samples winter chill 1000x2 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x10.5 oz",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 33.3,
+            "Carbs": 57.1,
+            "Calories": 547.3
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.7,
+            "Calories": 358.8
+        }
+    },
+    {
+        "Name": "Trident gum spearmint sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident layers gum candy cane christmas1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Dentyne ice sub zero gum iceberg mint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Cote d'or chocolate tablet milk with hazelnut 1x6.35 oz",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 35.6,
+            "Carbs": 51.1,
+            "Calories": 560.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free1x3.4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch cherries soft candy bulk fat free6x5.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Dentyne fire gum cinnamon sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident white gum peppermint sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Stride gum fearless fruit 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Toblerone chocolate milk chocolate 1x7.05 oz",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 30.0,
+            "Carbs": 60.0,
+            "Calories": 530.0
+        }
+    },
+    {
+        "Name": "Dentyne ice gum peppermint sugar free1x110.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Stride gum spearmint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free60x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident white gum peppermint sugar free1x110 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Dentyne pure gum mint/herbal accents sugar free1x9.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Trident gum original sugar free1x8 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum splashing mint sugar free1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Halls cough drops citrus assorted 1x14 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 96.8,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Dentyne ice gum winter chill 1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy aqualife fat freechristmas12x3.1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy red 1x3.6 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x15 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch cherry soft candy cherry fat free24x2.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Sour patch candy 1x6.350 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Trident gum splashing mint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss 1x18 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar hazelnut & currant 10x3.5 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 35.0,
+            "Carbs": 42.5,
+            "Calories": 515.0
+        }
+    },
+    {
+        "Name": "Sour patch extreme soft candy extreme fat free24x1.8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum sour patch kids lime1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum sugar free20x144 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Trident gum peppermint sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids festive1x1 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Stride sour patch kids gum orange 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum bubblegum 1x50 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x40 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 43.5,
+            "Calories": 174.0
+        }
+    },
+    {
+        "Name": "Cote d'or experiences chocolate bar 70% dark 1x3.52 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 47.5,
+            "Carbs": 45.0,
+            "Calories": 637.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy rainbow fat free1x9.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free8x240.000 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Dentyne ice gum arctic chill sugar free1x16 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x13.23 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tricksters fat free1x9 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate festive1x12.6 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 60.6,
+            "Calories": 539.5
+        }
+    },
+    {
+        "Name": "Trident white gum spearmint sugar free1x110 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free8x240.000 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.5,
+            "Calories": 362.0
+        }
+    },
+    {
+        "Name": "Dentyne ice gum mint frost sugar free1x16.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 66.7,
+            "Calories": 266.8
+        }
+    },
+    {
+        "Name": "Trident gum black raspberry twist sugar free1x3 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Sour patch/swedish fish red soft candy variety fat freehalloween1x22.000 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar hazelnuts 1x3.520 oz",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 33.3,
+            "Carbs": 57.1,
+            "Calories": 556.5
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy variety festive1x3 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free12x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Trident gum passionberry twist sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum spearmint winter sugar free1x36.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch kids candy kids 1x1.8 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.7,
+            "Calories": 358.8
+        }
+    },
+    {
+        "Name": "Trident layers gum watermelon and tropical fruit 1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 41.7,
+            "Calories": 166.8
+        }
+    },
+    {
+        "Name": "Trident gum original sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss 1x14.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free24x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar 70% dark 1x1.2 oz",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 42.9,
+            "Carbs": 45.7,
+            "Calories": 603.3
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x31.68 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.3,
+            "Carbs": 63.6,
+            "Calories": 551.5
+        }
+    },
+    {
+        "Name": "Trident gum spearmint 1x30.000 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 55.6,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Stride gum sweet peppermint sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Trident gum peppermint 1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 62.5,
+            "Calories": 250.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat freechristmas1x2.62 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 92.5,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Trident gum mint bliss 1x3.000 pk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 58.8,
+            "Calories": 235.2
+        }
+    },
+    {
+        "Name": "Cadbury chocolate pieces tree decoration 83 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 25.2,
+            "Carbs": 0.0,
+            "Calories": 255.6
+        }
+    },
+    {
+        "Name": "Trident splash gum pepermint sugar free",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 7.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk freddo chocolate bar 18 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury chocolate bar fudge 25.5 gr",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 144.6
+        }
+    },
+    {
+        "Name": "Toblerone chocolate tablet oreo 100 gr",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 284.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar 70% dark",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Cadbury bournville chocolate bar dark chocolate 180 gr",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 276.2
+        }
+    },
+    {
+        "Name": "Cadbury flake chocolate bar 80 gr",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 27.0,
+            "Carbs": 0.0,
+            "Calories": 272.6
+        }
+    },
+    {
+        "Name": "Daim chocolate pieces milk with caramel",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 26.5,
+            "Carbs": 63.7,
+            "Calories": 514.5
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Trident gum spearmint",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 5.2
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bar gold 48.000 gr",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 243.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar oat crunch",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 250.1
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bar 120 gr",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 294.8
+        }
+    },
+    {
+        "Name": "Cadbury twirl chocolate bar milk chocolate 43 gr",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 289.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk 200 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk with hazelnuts and raisins",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 343.6
+        }
+    },
+    {
+        "Name": "Mirabell mozart mixed milk with marzipan filling",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 328.1
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate pieces",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate-mixed unit",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 246.6
+        }
+    },
+    {
+        "Name": "Cadbury snow bites chocolate",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 22.0,
+            "Carbs": 0.0,
+            "Calories": 218.4
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate hollow figure chick",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury curlywurly chocolate bar 130 gr",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 175.2
+        }
+    },
+    {
+        "Name": "Cadbury chocolate eggs mini",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bar",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 334.4
+        }
+    },
+    {
+        "Name": "Cadbury chocolate pieces-assorted",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 221.0
+        }
+    },
+    {
+        "Name": "Bassetts allsorts candy",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 60.2
+        }
+    },
+    {
+        "Name": "The natural confectionery co. candy jelly snakes",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 17.0
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate ball milk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 278.1
+        }
+    },
+    {
+        "Name": "Cadbury selection chocolate-mixed unit",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 23.5,
+            "Carbs": 0.0,
+            "Calories": 231.9
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar caramel",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 23.5,
+            "Carbs": 0.0,
+            "Calories": 230.7
+        }
+    },
+    {
+        "Name": "Mirabell mozart chocolate ball milk with marzipan filling",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 328.1
+        }
+    },
+    {
+        "Name": "Trident splash gum peppermint 58.5 gr",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 7.8
+        }
+    },
+    {
+        "Name": "Maynards candy wine gums",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted dark",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 288.0
+        }
+    },
+    {
+        "Name": "Sour patch candy berries 1x3.6 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy berry mix",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar mint crisp",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 321.2
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate egg dark chocolate",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate egg hollow egg",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury creme egg chocolate egg",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury picnic chocolate bar",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 236.2
+        }
+    },
+    {
+        "Name": "Cote d'or bouchees chocolate pieces milk praline 200 gr",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 295.6
+        }
+    },
+    {
+        "Name": "Cadbury bournville chocolate bar 45 gr",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 268.4
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar raspberry & hazelnut 1x3.17 oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 47.2,
+            "Carbs": 44.4,
+            "Calories": 624.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate 120 gr",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 338.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy mango fat free1x10 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.3,
+            "Calories": 361.2
+        }
+    },
+    {
+        "Name": "Stimorol gum spearmint",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 6.1
+        }
+    },
+    {
+        "Name": "Fry's cream chocolate bar peppermint 49 gr",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 13.0,
+            "Carbs": 0.0,
+            "Calories": 126.2
+        }
+    },
+    {
+        "Name": "Bassetts candy",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 0.3,
+            "Carbs": 0.0,
+            "Calories": 17.9
+        }
+    },
+    {
+        "Name": "Freia chocolate tablet almond",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 33.5,
+            "Carbs": 0.0,
+            "Calories": 337.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate egg eggheads",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Maynards bassetts jelly babies candy bunnies",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints spearmint",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy 460 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar butterscotch 15 gr",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 350.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet hazelnut",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 272.7
+        }
+    },
+    {
+        "Name": "Trebor soft fruits soft candy fruit",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Bassetts classics candy pear",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate eggs mini 90 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 21.0,
+            "Carbs": 0.0,
+            "Calories": 205.8
+        }
+    },
+    {
+        "Name": "Milka chocolate tablet milk with whole nuts",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 35.5,
+            "Carbs": 0.0,
+            "Calories": 351.9
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted milk",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 270.4
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate egg 101 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Halls candy honey and lemon oreo",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cadbury heroes chocolate pieces-assorted",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 22.0,
+            "Carbs": 0.0,
+            "Calories": 215.6
+        }
+    },
+    {
+        "Name": "Trident senses gum watermelon sugar free",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 2.3,
+            "Carbs": 0.0,
+            "Calories": 22.3
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar 850.000 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar dark 400 gr",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 32.5,
+            "Carbs": 0.0,
+            "Calories": 317.7
+        }
+    },
+    {
+        "Name": "Cadbury chocolate bar",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 22.5,
+            "Carbs": 0.0,
+            "Calories": 220.5
+        }
+    },
+    {
+        "Name": "Fry's cream chocolate bar chocolate 49 gr",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 13.0,
+            "Carbs": 0.0,
+            "Calories": 126.2
+        }
+    },
+    {
+        "Name": "Milka chocolate tablet milk with hazelnuts and toffee",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 347.2
+        }
+    },
+    {
+        "Name": "Cadbury eclairs sugar confectionery",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 174.3
+        }
+    },
+    {
+        "Name": "Cadbury flake chocolate bar",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 306.9
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet dairy milk 300.000 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Bassetts classics candy",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 1.6,
+            "Carbs": 0.0,
+            "Calories": 15.6
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar chopped nut 95 gr",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 33.0,
+            "Carbs": 0.0,
+            "Calories": 328.6
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate egg",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury chocolate pieces buttons 70 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury double decker chocolate bar 80 gr",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 179.2
+        }
+    },
+    {
+        "Name": "Cadbury twirl chocolate bar 43 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 31.0,
+            "Carbs": 0.0,
+            "Calories": 309.4
+        }
+    },
+    {
+        "Name": "Halls soothers candy strawberry 45 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Sour patch variegate red berry 1x19.000 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 33.4,
+            "Carbs": 60.0,
+            "Calories": 540.6
+        }
+    },
+    {
+        "Name": "Cadbury milk tray chocolate pieces milk",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 263.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar butterscotch 100 gr",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 350.2
+        }
+    },
+    {
+        "Name": "Bassetts classics candy lemon sherbet",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cadbury heroes chocolate pieces-assorted 185 gr",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 226.2
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar white 35 gr",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 38.5,
+            "Carbs": 0.0,
+            "Calories": 378.1
+        }
+    },
+    {
+        "Name": "Cadbury timeout chocolate bar",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 278.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate caramel fudge supreme",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 329.6
+        }
+    },
+    {
+        "Name": "Toblerone gold chocolate bar-minis milk",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Freia hearts chocolate milk 260.000 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 354.4
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy 130.000 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Cadbury chocolate egg",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted milk 380 gr",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 270.4
+        }
+    },
+    {
+        "Name": "Cadbury chocolate shapes",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 238.1
+        }
+    },
+    {
+        "Name": "Cadbury snack chocolate biscuit bar",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 25.5,
+            "Carbs": 0.0,
+            "Calories": 252.7
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet trio 300 gr",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 31.0,
+            "Carbs": 0.0,
+            "Calories": 303.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar wholenut",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 339.2
+        }
+    },
+    {
+        "Name": "Bassetts classics candy mint 193.000 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cadbury double decker chocolate bar",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 179.2
+        }
+    },
+    {
+        "Name": "Maynards bassetts berties mix candy",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 0.3,
+            "Carbs": 0.0,
+            "Calories": 17.9
+        }
+    },
+    {
+        "Name": "Cadbury chomp chocolate bar 23.5 gr",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 187.5
+        }
+    },
+    {
+        "Name": "Maynards bassetts wine gums candy",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Cadbury curlywurly chocolate bar",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 175.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar oat crunch 90 gr",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 250.1
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk 4.500 kg",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Daim chocolate bar milk 28.000 gr",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 31.0,
+            "Carbs": 0.0,
+            "Calories": 290.6
+        }
+    },
+    {
+        "Name": "Marabou twist chocolate pieces-assorted milk/dark with praline filling",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 224.6
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk bubbly chocolate bar-aerated milk",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Stimorol fusion gum peppermint",
+        "Nutrients": {
+            "Protein": 1.4,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 7.4
+        }
+    },
+    {
+        "Name": "Trident splash gum strawberry and lime",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 1.5,
+            "Carbs": 0.0,
+            "Calories": 19.5
+        }
+    },
+    {
+        "Name": "Maynards sour patch kids candy",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 12.1
+        }
+    },
+    {
+        "Name": "Freia non stop chocolate pieces dark with sugar shell",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 18.5,
+            "Carbs": 0.0,
+            "Calories": 179.3
+        }
+    },
+    {
+        "Name": "Halls soothers candy black currant",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate milk 470 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit and nut",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 272.1
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate giant 119 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate eggs mini",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 21.5,
+            "Carbs": 0.0,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Maynards bassetts wine gums candy merry mix",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk chocolate",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 35.5,
+            "Carbs": 0.0,
+            "Calories": 357.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar mint infused dark",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 363.4
+        }
+    },
+    {
+        "Name": "Milka chocolate",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 33.5,
+            "Carbs": 0.0,
+            "Calories": 331.5
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate bar 35 gr",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 272.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar dark chocolate 150 gr",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate bar 90.000 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate bar-bundle milk chocolate 105 gr",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 272.0
+        }
+    },
+    {
+        "Name": "Cadbury milk tray chocolate pieces milk 360 gr",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 263.9
+        }
+    },
+    {
+        "Name": "Freia chocolate tablet milk",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 343.7
+        }
+    },
+    {
+        "Name": "Cadbury heroes chocolate",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 24.0,
+            "Carbs": 0.0,
+            "Calories": 234.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk bubbly chocolate bar-aerated white",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 295.2
+        }
+    },
+    {
+        "Name": "Marabou chocolate tablet milk with orange",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 284.3
+        }
+    },
+    {
+        "Name": "Freia chocolate tablet milk with hazelnuts and raisins",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 301.6
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate wholenut",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 318.8
+        }
+    },
+    {
+        "Name": "Cadbury variety variety pack 567.000 gr",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 22.0,
+            "Carbs": 0.0,
+            "Calories": 215.6
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate popping 125 gr",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 268.7
+        }
+    },
+    {
+        "Name": "Toblerone tiny chocolate pieces-assorted mixed 330.000 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 293.6
+        }
+    },
+    {
+        "Name": "Maynards candy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 37.8
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate pieces 35 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury twirl chocolate bar",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Bassetts classics candy mint",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 3.3,
+            "Carbs": 0.0,
+            "Calories": 30.9
+        }
+    },
+    {
+        "Name": "Cadbury snack chocolate bar shortcake",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 25.5,
+            "Carbs": 0.0,
+            "Calories": 257.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate oreo 120.000 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 338.6
+        }
+    },
+    {
+        "Name": "Trebor extra strong mints peppermint",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 1.2
+        }
+    },
+    {
+        "Name": "Mirabell mozart chocolate pieces milk with marzipan filling",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 328.1
+        }
+    },
+    {
+        "Name": "Cadbury snack chocolate bar sandwich",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 25.5,
+            "Carbs": 0.0,
+            "Calories": 252.7
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate giant",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar butterscotch",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 345.7
+        }
+    },
+    {
+        "Name": "Toblerone tiny chocolate pieces milk 200 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tricksters fat free1x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar mint",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 268.1
+        }
+    },
+    {
+        "Name": "Maynards bassetts liquorice allsorts candy",
+        "Nutrients": {
+            "Protein": 2.7,
+            "Fat": 4.4,
+            "Carbs": 0.0,
+            "Calories": 50.4
+        }
+    },
+    {
+        "Name": "Cadbury crunchie chocolate bar 40.000 gr",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 165.4
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate ball",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 268.3
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar oreo 41.000 gr",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 330.4
+        }
+    },
+    {
+        "Name": "Halls candy assorted citrus sugar free",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.4
+        }
+    },
+    {
+        "Name": "Cadbury timeout chocolate bar 127.200 gr",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 287.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk marvellous creations chocolate tablet jelly popping candy shells",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 263.3
+        }
+    },
+    {
+        "Name": "Cadbury crunchie chocolate bar 104.400 gr",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 165.4
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo festive1x10.5 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 33.3,
+            "Carbs": 57.6,
+            "Calories": 554.5
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar white 400 gr",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 289.9
+        }
+    },
+    {
+        "Name": "Daim mini chocolate pieces milk with caramel crunch 200.000 gr",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 300.4
+        }
+    },
+    {
+        "Name": "Milka chocolate biscuit tablet milk with biscuit",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 33.5,
+            "Carbs": 0.0,
+            "Calories": 323.1
+        }
+    },
+    {
+        "Name": "Bassetts allsorts candy licorice",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 60.2
+        }
+    },
+    {
+        "Name": "Swedish fish assorted soft candy bulk fat free6x5 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate daim",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 300.1
+        }
+    },
+    {
+        "Name": "Fry's turkish delight chocolate bar",
+        "Nutrients": {
+            "Protein": 1.3,
+            "Fat": 6.7,
+            "Carbs": 0.0,
+            "Calories": 65.5
+        }
+    },
+    {
+        "Name": "Halls candy mentholyptus",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate toffee crunch",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 269.9
+        }
+    },
+    {
+        "Name": "Cadbury double decker chocolate bar 54,5 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 169.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate egg mini eggs 93.000 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Carambar candy cola 1,360 gr",
+        "Nutrients": {
+            "Protein": 0.6,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 40.2
+        }
+    },
+    {
+        "Name": "Halls soothers candy honey lemon 45.000 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate toffee crunch 125 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 269.9
+        }
+    },
+    {
+        "Name": "Cadbury chocolate pieces tree decoration  mixed",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar wholenut 45.000 gr",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 339.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar lu sweet biscuits",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 267.7
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate bar 35.000 gr",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 272.0
+        }
+    },
+    {
+        "Name": "Trebor extra strong gum spearmint",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.4,
+            "Carbs": 0.0,
+            "Calories": 5.2
+        }
+    },
+    {
+        "Name": "Cadbury chocolate eggs mini 89.000 gr",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 18.5,
+            "Carbs": 0.0,
+            "Calories": 180.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate almond 100 gr",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 40.0,
+            "Carbs": 0.0,
+            "Calories": 412.0
+        }
+    },
+    {
+        "Name": "Bassetts candy 130.000 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Milka luflee chocolate tablet caramel",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 260.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit and nut 95 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 277.5
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate pieces 70% dark 1x4.23 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 50.0,
+            "Carbs": 43.3,
+            "Calories": 650.0
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Toblerone chocolate snowtop (milk w/white choc) 1x3.52 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 27.3,
+            "Carbs": 63.6,
+            "Calories": 524.5
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy 190 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar sea salt",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 363.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate caramel nibbles 120 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 257.6
+        }
+    },
+    {
+        "Name": "Maynards wine gums candy",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate egg caramel",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 236.5
+        }
+    },
+    {
+        "Name": "Cadbury chocolate figure",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 284.9
+        }
+    },
+    {
+        "Name": "Cadbury chocolate",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 336.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar-aerated milk with vanilla filling",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 341.8
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar-bundle 395 gr",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 39.0,
+            "Carbs": 0.0,
+            "Calories": 387.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk freddo chocolate bar milk with popping candy",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 283.3
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar dark",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 39.5,
+            "Carbs": 0.0,
+            "Calories": 387.5
+        }
+    },
+    {
+        "Name": "Cadbury chocolate and candy pieces marvellous mix-ups with maynards",
+        "Nutrients": {
+            "Protein": 2.1,
+            "Fat": 12.0,
+            "Carbs": 0.0,
+            "Calories": 116.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet oreo 300 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 337.4
+        }
+    },
+    {
+        "Name": "Cadbury heroes chocolate egg 274.000 gr",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 278.4
+        }
+    },
+    {
+        "Name": "Halls candy original sugar free",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.4
+        }
+    },
+    {
+        "Name": "Trident gum strawberry",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 6.1
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x100 gr",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 30.0,
+            "Carbs": 62.0,
+            "Calories": 542.0
+        }
+    },
+    {
+        "Name": "The natural confectionery co. candy jelly squirms 180 gr",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.5
+        }
+    },
+    {
+        "Name": "Maynards candy sour patch 160 gr",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 13.0
+        }
+    },
+    {
+        "Name": "Cadbury chocolate bar-minis flakes",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 31.0,
+            "Carbs": 0.0,
+            "Calories": 311.4
+        }
+    },
+    {
+        "Name": "The natural confectionery co. candy jungle jellies",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 17.0
+        }
+    },
+    {
+        "Name": "Cadbury wini eggs chocolate mini eggs",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 21.0,
+            "Carbs": 0.0,
+            "Calories": 207.0
+        }
+    },
+    {
+        "Name": "Freia firklover chocolate tablet milk with hazelnuts 250.000 gr",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 36.5,
+            "Carbs": 0.0,
+            "Calories": 364.9
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bites",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 335.2
+        }
+    },
+    {
+        "Name": "Cote d'or chocolate pieces dark orange",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 35.5,
+            "Carbs": 0.0,
+            "Calories": 342.7
+        }
+    },
+    {
+        "Name": "Freia chocolate figure milk cream",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 329.6
+        }
+    },
+    {
+        "Name": "Cadbury variety variety pack 278.000 gr",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 227.0
+        }
+    },
+    {
+        "Name": "Maynards bassetts jelly babies candy",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted dark 380 gr",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 288.0
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange segsations chocolate and candy pieces mixed",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 269.9
+        }
+    },
+    {
+        "Name": "Cadbury eclairs candy 420 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 174.3
+        }
+    },
+    {
+        "Name": "Carambar candy fruit 450 gr",
+        "Nutrients": {
+            "Protein": 1.3,
+            "Fat": 5.4,
+            "Carbs": 0.0,
+            "Calories": 53.8
+        }
+    },
+    {
+        "Name": "The natural confectionery co. candy dino mix 200.000 gr",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 17.0
+        }
+    },
+    {
+        "Name": "Maynards wine gums candy 52 gr",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit and nut 120 gr",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 267.2
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate 14.4 gr",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury chocolate egg 130.000 gr",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 278.4
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate ball 157 gr",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 275.2
+        }
+    },
+    {
+        "Name": "Trebor softmints candy peppermint",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Cote d'or experiences chocolate bar dark 86% 1x3.52 oz",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 57.5,
+            "Carbs": 32.5,
+            "Calories": 677.5
+        }
+    },
+    {
+        "Name": "Trident soft gum tropical sugar free 27 gr",
+        "Nutrients": {
+            "Protein": 0.5,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 29.9
+        }
+    },
+    {
+        "Name": "Maynards bassetts juicy chews candy 165.000 gr",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 5.7,
+            "Carbs": 0.0,
+            "Calories": 54.5
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints spearmint 44.9 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free1x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x3.4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 85.0,
+            "Calories": 340.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar 95 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Trebor extra strong mints spearmint",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 1.2
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Maynards wine gums candy 190 gr",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Trident gum peppermint",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.5,
+            "Carbs": 0.0,
+            "Calories": 6.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate egg milk with daim pieces 86.000 gr",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 302.1
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy tropical fat free1x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar white 100 gr",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 38.5,
+            "Carbs": 0.0,
+            "Calories": 378.1
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free24x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Cote d'or noir de noir chocolate tablet dark",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 347.6
+        }
+    },
+    {
+        "Name": "Fry's turkish delight chocolate bar 153 gr",
+        "Nutrients": {
+            "Protein": 1.2,
+            "Fat": 6.7,
+            "Carbs": 0.0,
+            "Calories": 65.1
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate pieces giant",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate bar-bundle milk chocolate 105.000 gr",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 272.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate covered pretzels pretzels 110 gr",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 20.5,
+            "Carbs": 0.0,
+            "Calories": 215.3
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate pieces bite size",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 275.2
+        }
+    },
+    {
+        "Name": "Cadbury eclairs candy original 166 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 169.8
+        }
+    },
+    {
+        "Name": "Trebor soft fruits candy fruit",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Cadbury eclairs candy",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 188.7
+        }
+    },
+    {
+        "Name": "Cadbury twirl chocolate egg hollow egg 282.000 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate pieces buttons",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Daim mini chocolate pieces milk 140.000 gr",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 300.4
+        }
+    },
+    {
+        "Name": "Halls candy lime light",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar white",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 38.5,
+            "Carbs": 0.0,
+            "Calories": 378.1
+        }
+    },
+    {
+        "Name": "Bassetts candy 760 gr",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 13.8
+        }
+    },
+    {
+        "Name": "Daim chocolate bar milk with caramel 420.000 gr",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 299.6
+        }
+    },
+    {
+        "Name": "Cadbury double decker chocolate",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 179.2
+        }
+    },
+    {
+        "Name": "Stimorol fusion gum strawberry and lime",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 1.5,
+            "Carbs": 0.0,
+            "Calories": 19.5
+        }
+    },
+    {
+        "Name": "Cadbury eclairs candy orange 166 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 174.3
+        }
+    },
+    {
+        "Name": "Cadbury oreo chocolate hollow egg 278.000 gr",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 316.0
+        }
+    },
+    {
+        "Name": "Cadbury crunchie chocolate bar 128 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 171.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar 45.000 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar caramel 200 gr",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 246.6
+        }
+    },
+    {
+        "Name": "Maynards candy sour patch",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 12.1
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy fat freejuly 4th1x1.9 lb",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate tablet milk with daim pieces 100.000 gr",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Cadbury roses chocolate pieces",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 242.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar tiffin 53.000 gr",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 262.0
+        }
+    },
+    {
+        "Name": "Freia m chocolate pieces chocolate coated peanuts",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 276.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar caramello",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 248.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit and nut chopped",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 277.5
+        }
+    },
+    {
+        "Name": "Cadbury crunchie chocolate bar",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 167.0
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints peppermint 44.9 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy tropical fat free1x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit & nut",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 267.2
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar dark 100 gr",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 32.5,
+            "Carbs": 0.0,
+            "Calories": 317.7
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar tiffin",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 251.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk freddo chocolate bar caramel 19.5 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 269.9
+        }
+    },
+    {
+        "Name": "Bassetts murray mints candy 45.000 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.5,
+            "Carbs": 0.0,
+            "Calories": 49.5
+        }
+    },
+    {
+        "Name": "Cadbury marvellous creations chocolate rocky road",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 27.0,
+            "Carbs": 0.0,
+            "Calories": 268.2
+        }
+    },
+    {
+        "Name": "Cadbury heroes chocolate pieces assorted chocolate",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 225.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk freddo chocolate bar 108 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate raspberry",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 348.0
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate eggs mini 328 gr",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 21.0,
+            "Carbs": 0.0,
+            "Calories": 205.8
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies jelly mini",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 14.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate egg milk chocolate",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bar 51 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 335.2
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate egg butterscotch",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 34.5,
+            "Carbs": 0.0,
+            "Calories": 345.7
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate dairy milk 200.000 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Cadbury chocolate tablet dairy milk",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate pieces assorted chocolate",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 21.5,
+            "Carbs": 0.0,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate pieces assorted chocolate 500 gr",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 269.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate mixed buttons 115 gr",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 294.8
+        }
+    },
+    {
+        "Name": "Bassetts classics candy murray mint",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 5.5,
+            "Carbs": 0.0,
+            "Calories": 49.5
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate bar caramel",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 242.5
+        }
+    },
+    {
+        "Name": "Cadbury chocolate hollow figure",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Trident soft gum tropical twist 81 gr",
+        "Nutrients": {
+            "Protein": 0.5,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 29.9
+        }
+    },
+    {
+        "Name": "Cadbury starbar chocolate bar 49 gr",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 296.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar-bundle",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate bar",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar butterscotch 35 gr",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 350.2
+        }
+    },
+    {
+        "Name": "Halls soothers candy cherry 45.000 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints peppermint 179.000 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Bassetts classics candy 200.000 gr",
+        "Nutrients": {
+            "Protein": 0.2,
+            "Fat": 3.1,
+            "Carbs": 0.0,
+            "Calories": 28.7
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar toffee whole nut",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 358.6
+        }
+    },
+    {
+        "Name": "Cadbury mini eggs chocolate eggs mini 103 gr",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 21.5,
+            "Carbs": 0.0,
+            "Calories": 211.9
+        }
+    },
+    {
+        "Name": "Cadbury twirl chocolate bar 236.500 gr",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 289.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk chocolate 1x50.000 gr",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 30.0,
+            "Carbs": 64.0,
+            "Calories": 550.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo cookies and creme 1x1.44 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar variety",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 358.4
+        }
+    },
+    {
+        "Name": "Bassetts jelly santas candy",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk chocolate orange",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet milk with hazelnuts and toffee",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 349.2
+        }
+    },
+    {
+        "Name": "Trebor softmints candy spearmint",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Cadbury chocolate hollow figure 50.000 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Cadbury land chocolate bar fudge",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Milka chocolate tablet milk",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 291.5
+        }
+    },
+    {
+        "Name": "Trident splash gum spearmint 58.5 gr",
+        "Nutrients": {
+            "Protein": 1.5,
+            "Fat": 0.3,
+            "Carbs": 0.0,
+            "Calories": 8.7
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted milk 190 gr",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 270.4
+        }
+    },
+    {
+        "Name": "Cadbury roses chocolate pieces-assorted",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 221.0
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate pieces 72 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Freia melkerull chocolate pieces milk",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 32.7,
+            "Carbs": 0.0,
+            "Calories": 326.7
+        }
+    },
+    {
+        "Name": "Cadbury fudge chocolate",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 145.0
+        }
+    },
+    {
+        "Name": "Maynards sports mixture candy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 37.8
+        }
+    },
+    {
+        "Name": "Cadbury boost chocolate bites",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 283.8
+        }
+    },
+    {
+        "Name": "Cadbury picnic chocolate bar milk chocolate",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 22.0,
+            "Carbs": 0.0,
+            "Calories": 228.8
+        }
+    },
+    {
+        "Name": "Terry's twilight chocolate pieces milk with mint 150 gr",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 264.0
+        }
+    },
+    {
+        "Name": "Marabou chocolate tablet milk with hazelnuts",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 359.0
+        }
+    },
+    {
+        "Name": "Trebor extra strong mints peppermint 41.3 gr",
+        "Nutrients": {
+            "Protein": 0.3,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 1.2
+        }
+    },
+    {
+        "Name": "Halls soothers candy blackcurrant 45 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate egg",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Maynards wine pastilles candy 52 gr",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 18.1
+        }
+    },
+    {
+        "Name": "Cadbury egg and spoon chocolate eggs vanilla",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 36.5,
+            "Carbs": 0.0,
+            "Calories": 357.3
+        }
+    },
+    {
+        "Name": "Cadbury buttons chocolate pieces white chocolate",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 284.3
+        }
+    },
+    {
+        "Name": "Bassetts softfruits soft candy fruit 179 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Bassetts allsorts candy licorice allsorts",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 2.9,
+            "Carbs": 0.0,
+            "Calories": 46.1
+        }
+    },
+    {
+        "Name": "Maynards candy wine gums 165 gr",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 21.0
+        }
+    },
+    {
+        "Name": "Milka chocolate pieces alpine milk 1.702 kg",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 291.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate caramel",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 225.4
+        }
+    },
+    {
+        "Name": "Cadbury highlights chocolate drink chocolate 154.000 gr",
+        "Nutrients": {
+            "Protein": 16.0,
+            "Fat": 11.0,
+            "Carbs": 0.0,
+            "Calories": 163.0
+        }
+    },
+    {
+        "Name": "Daim mini chocolate pieces milk with caramel",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 300.4
+        }
+    },
+    {
+        "Name": "Maynards midget gems candy",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 37.0
+        }
+    },
+    {
+        "Name": "Cadbury creme egg chocolate egg hollow egg",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 24.5,
+            "Carbs": 0.0,
+            "Calories": 242.5
+        }
+    },
+    {
+        "Name": "Halls candy extra strong 33.5 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.4
+        }
+    },
+    {
+        "Name": "Trident soft gum strawberry sugar free",
+        "Nutrients": {
+            "Protein": 0.5,
+            "Fat": 1.5,
+            "Carbs": 0.0,
+            "Calories": 15.5
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate ball milk",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 361.8
+        }
+    },
+    {
+        "Name": "Cadbury chocolate egg 72.000 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 31.0,
+            "Carbs": 0.0,
+            "Calories": 308.2
+        }
+    },
+    {
+        "Name": "Trebor softmints softmints citrus 44.9 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Terry's chocolate orange chocolate ball dark",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 283.0
+        }
+    },
+    {
+        "Name": "Cadbury chocolate eggs mini 82.000 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 347.6
+        }
+    },
+    {
+        "Name": "Milka naps chocolate pieces milk",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 291.1
+        }
+    },
+    {
+        "Name": "Cadbury egg and spoon chocolate eggs double chocolate 136.000 gr",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 352.2
+        }
+    },
+    {
+        "Name": "Cadbury creme egg chocolate eggs",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 147.8
+        }
+    },
+    {
+        "Name": "Cadbury chocolate bar fudge",
+        "Nutrients": {
+            "Protein": 2.5,
+            "Fat": 15.5,
+            "Carbs": 0.0,
+            "Calories": 149.5
+        }
+    },
+    {
+        "Name": "Bassetts jelly babies candy santas 570 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 14.0
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate caramel 200.000 gr",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 23.0,
+            "Carbs": 0.0,
+            "Calories": 225.4
+        }
+    },
+    {
+        "Name": "The natural confectionery co. candy mini ocean",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 16.6
+        }
+    },
+    {
+        "Name": "Cadbury snack chocolate bar sandwich 132 gr",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 25.5,
+            "Carbs": 0.0,
+            "Calories": 252.7
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar 85% dark",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 53.5,
+            "Carbs": 0.0,
+            "Calories": 519.1
+        }
+    },
+    {
+        "Name": "Cadbury flake chocolate bar 180.000 gr",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 27.0,
+            "Carbs": 0.0,
+            "Calories": 272.6
+        }
+    },
+    {
+        "Name": "Cadbury chocolate egg 307.000 gr",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 258.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate tablet fruit and nut",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 267.2
+        }
+    },
+    {
+        "Name": "Cote d'or bouchees chocolate pieces mixed 317 gr",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 328.8
+        }
+    },
+    {
+        "Name": "Maynards sours candy 52 gr",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 18.1
+        }
+    },
+    {
+        "Name": "Cadbury variety variety pack",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 17.0,
+            "Carbs": 0.0,
+            "Calories": 164.2
+        }
+    },
+    {
+        "Name": "Bassetts allsorts candy 165.000 gr",
+        "Nutrients": {
+            "Protein": 2.7,
+            "Fat": 4.4,
+            "Carbs": 0.0,
+            "Calories": 50.4
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate bar milk with popping candy 18 gr",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 283.3
+        }
+    },
+    {
+        "Name": "Cadbury wispa chocolate bar gold",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 272.4
+        }
+    },
+    {
+        "Name": "Cadbury freddo chocolate pieces",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.9
+        }
+    },
+    {
+        "Name": "Cadbury bournville chocolate bar dark chocolate",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 268.0
+        }
+    },
+    {
+        "Name": "Freia kvikk lunsj chocolate tablet milk",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 307.3
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar dark 360.000 gr",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 32.0,
+            "Carbs": 0.0,
+            "Calories": 313.2
+        }
+    },
+    {
+        "Name": "Marabou chocolate tablet dark",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 276.1
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate figure chocolate",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 300.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy zombie fat free1x3.5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury chocolate chomp 117.500 gr",
+        "Nutrients": {
+            "Protein": 2.8,
+            "Fat": 20.0,
+            "Carbs": 0.0,
+            "Calories": 191.2
+        }
+    },
+    {
+        "Name": "Cadbury chomp chocolate",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 19.5,
+            "Carbs": 0.0,
+            "Calories": 187.5
+        }
+    },
+    {
+        "Name": "Cadbury eclairs candy original",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 174.3
+        }
+    },
+    {
+        "Name": "Terry's all gold chocolate pieces-assorted dark 190 gr",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 288.0
+        }
+    },
+    {
+        "Name": "Cadbury chocolate bar fudge 127.500 gr",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 15.0,
+            "Carbs": 0.0,
+            "Calories": 144.6
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk with hazelnuts and raisins 100 gr",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 354.8
+        }
+    },
+    {
+        "Name": "Halls soothers candy raspberry peach 45 gr",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar dark with toffee 100 gr",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 35.0,
+            "Carbs": 0.0,
+            "Calories": 340.2
+        }
+    },
+    {
+        "Name": "Green & black's organic the miniature bar collection chocolate bar-bundle 180 gr",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free12x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Toblerone chocolate tablet fruit and nut 360 gr",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 25.0,
+            "Carbs": 0.0,
+            "Calories": 245.4
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate pieces calendar 90 gr",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 304.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy kids fat free1x3.6 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Cadbury flake chocolate bar original",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 306.9
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo cookies and creme 1x2.88 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 61.0,
+            "Calories": 570.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk chocolate 35 gr",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Sour patch soft candy tropical fat free1x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy tropical fat free1x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Milka chocolate oreo cookies and creme 100 gr",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 327.6
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar-bundle 580 gr",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 38.0,
+            "Carbs": 0.0,
+            "Calories": 378.8
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo valentines day1x10.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Fry's cream chocolate bar chocolate 147 gr",
+        "Nutrients": {
+            "Protein": 2.3,
+            "Fat": 13.0,
+            "Carbs": 0.0,
+            "Calories": 126.2
+        }
+    },
+    {
+        "Name": "Trident gum dragonfruit sugar free1x14 pc",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 52.6,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar 70% dark 100 gr",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo mint festive1x10.5 oz",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 33.3,
+            "Carbs": 57.6,
+            "Calories": 554.5
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy fire fat free1x7.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x1.44 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar 70% dark 35 gr",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 42.0,
+            "Carbs": 0.0,
+            "Calories": 414.4
+        }
+    },
+    {
+        "Name": "Cadbury chocolate pieces 96 gr",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 298.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar oreo 185 gr",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 34.0,
+            "Carbs": 0.0,
+            "Calories": 330.8
+        }
+    },
+    {
+        "Name": "Halls candy cherry sugar free 32 gr",
+        "Nutrients": {
+            "Protein": 0.1,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 1.3
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy zombies fat freehalloween1x5 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar white chocolate 150 gr",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 38.5,
+            "Carbs": 0.0,
+            "Calories": 378.1
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy red fat free9x72 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Maynards midget gems candy 160 gr",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 37.0
+        }
+    },
+    {
+        "Name": "Cadbury boost chocolate bar 68 gr",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 28.0,
+            "Carbs": 0.0,
+            "Calories": 274.8
+        }
+    },
+    {
+        "Name": "Sour patch candy watermelon 1x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Cadbury boost chocolate bar 48.5 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 280.1
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x2.88 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Maynards wine pastilles candy 160 gr",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 0.1,
+            "Carbs": 0.0,
+            "Calories": 18.1
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x6 pk",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo easter1x10.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Cadbury green & black's chocolate bar 70% dark 1x3.17 oz",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 50.0,
+            "Carbs": 41.7,
+            "Calories": 639.2
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo mint 1x34.5 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Cadbury boost chocolate bar 48,5 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 28.5,
+            "Carbs": 0.0,
+            "Calories": 280.1
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk chocolate with sea salt 100 gr",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar wholenut 200 gr",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 35.5,
+            "Carbs": 0.0,
+            "Calories": 354.7
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar fruit and nut 200 gr",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 267.2
+        }
+    },
+    {
+        "Name": "Green & black's chocolate pieces variety festive1x4.23 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 43.3,
+            "Carbs": 46.7,
+            "Calories": 603.3
+        }
+    },
+    {
+        "Name": "Maynards sports mixture candy 190 gr",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 0.2,
+            "Carbs": 0.0,
+            "Calories": 37.8
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar 200 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo 1x3 pk",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 33.3,
+            "Carbs": 57.6,
+            "Calories": 554.5
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo 1x10.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Cadbury chocolate egg 128 gr",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 299.2
+        }
+    },
+    {
+        "Name": "Sour patch watermelon soft candy watermelon fat free12x72 1n",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy freeze fat free1x7.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Sour patch extreme soft candy extreme fat free12x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Green & blacks dark chocolate chocolate pieces variety 1x16.9 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 46.7,
+            "Carbs": 43.3,
+            "Calories": 620.3
+        }
+    },
+    {
+        "Name": "Bassetts allsorts candy licorice 190 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 60.2
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo halloween1x10.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Terry's twilight chocolate pieces milk with mint",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 27.5,
+            "Carbs": 0.0,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo mint 1x1.44 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 58.5,
+            "Calories": 560.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar ginger 100 gr",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 30.0,
+            "Carbs": 0.0,
+            "Calories": 294.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy freeze fat free1x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar oreo mint 1x2.88 oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 34.1,
+            "Carbs": 56.1,
+            "Calories": 550.9
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar milk chocolate 100 gr",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free1x2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 357.2
+        }
+    },
+    {
+        "Name": "Cadbury dairy milk chocolate bar-aerated 30 gr",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 36.0,
+            "Carbs": 0.0,
+            "Calories": 351.6
+        }
+    },
+    {
+        "Name": "Toblerone chocolate bar milk 360 gr",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 29.5,
+            "Carbs": 0.0,
+            "Calories": 287.9
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy fire fat free1x4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy berry fat free8x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo 1x30.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Green & black's organic chocolate bar maya gold 100 gr",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 37.0,
+            "Carbs": 0.0,
+            "Calories": 362.6
+        }
+    },
+    {
+        "Name": "Swedish fish soft candy tropical fat free1x8 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Milka chocolate bar-minis oreo festive1x10.2 oz",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 33.3,
+            "Carbs": 60.0,
+            "Calories": 566.5
+        }
+    },
+    {
+        "Name": "Cadbury boost chocolate bar 160 gr",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 29.0,
+            "Carbs": 0.0,
+            "Calories": 284.6
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy fire fat free1x3.6 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Nerds valentine candy and card kit, 8.2 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 91.7,
+            "Calories": 366.8
+        }
+    },
+    {
+        "Name": "Sweetarts rope candy&cardkit valentines day 9.9oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 84.6,
+            "Calories": 338.4
+        }
+    },
+    {
+        "Name": "Nips chocolate parfait candy 4 oz box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 14.3,
+            "Carbs": 78.6,
+            "Calories": 443.1
+        }
+    },
+    {
+        "Name": "Sweetarts valentine candy and card kit, 8.4 oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    },
+    {
+        "Name": "Nips caramel hard candy 4 oz box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Hersheys milk chocolate with almond",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 34.1,
+            "Carbs": 53.7,
+            "Calories": 560.9
+        }
+    },
+    {
+        "Name": "Spdrk regct 1.45oz",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 29.3,
+            "Carbs": 63.4,
+            "Calories": 536.9
+        }
+    },
+    {
+        "Name": "Hersheys milk chocolate standard ba",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 30.2,
+            "Carbs": 60.5,
+            "Calories": 541.8
+        }
+    },
+    {
+        "Name": "Reeses milk chocolate peanut butter",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 30.0,
+            "Carbs": 57.5,
+            "Calories": 540.0
+        }
+    },
+    {
+        "Name": "Assortiment automne pralin",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 32.1,
+            "Carbs": 0.0,
+            "Calories": 317.3
+        }
+    },
+    {
+        "Name": "Nips caramel 12x4oz",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 0.0,
+            "Calories": 0.0
+        }
+    },
+    {
+        "Name": "Hersheys milk chocolate with almonds standard bar",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 34.1,
+            "Carbs": 53.7,
+            "Calories": 560.9
+        }
+    },
+    {
+        "Name": "Dum dums original 125 ct. assorted flavor lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Dum dums original assorted flavor 360 ct. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Saf-t-pops 100 ct. individually wrapped display box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.0,
+            "Calories": 44.0
+        }
+    },
+    {
+        "Name": "Dum dums original 11.4 oz. assorted flavor bonus lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.0,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Spangler mini peppermint candy canes 40 ct. display box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.0,
+            "Calories": 68.0
+        }
+    },
+    {
+        "Name": "Dum dums original pops assorted flavor 4 oz. peg bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.0,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Dum-dums original mix assorted flavors 10.4 oz. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.0,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Spangler peppermint, red and white 1 oz. candy cane",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 14.0,
+            "Calories": 56.0
+        }
+    },
+    {
+        "Name": "Spangler marshmallow circus peanuts 12 oz. laydown bag",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 0.0,
+            "Carbs": 29.0,
+            "Calories": 120.0
+        }
+    },
+    {
+        "Name": "Dum dums reds, pinks & blues valentines pops 13.7 oz. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.0,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Sour patch kids soft candy tropical fat free 8z",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.0,
+            "Calories": 360.0
+        }
+    },
+    {
+        "Name": "Dum dums original assorted flavor 180 ct. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Nestle gobstopper sugar candy 30lb bulk",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.8,
+            "Calories": 363.2
+        }
+    },
+    {
+        "Name": "Clark cup 1.5 oz 2 pack",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 14.0,
+            "Carbs": 24.0,
+            "Calories": 234.0
+        }
+    },
+    {
+        "Name": "Dum dums original 8.4 oz. assorted flavor lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 13.0,
+            "Calories": 52.0
+        }
+    },
+    {
+        "Name": "Dum dums original assorted flavor 300 ct. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Dum dums original assorted flavor 120 ct. display box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Spangler mini peppermint candy canes 500 ct. non display box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.0,
+            "Calories": 68.0
+        }
+    },
+    {
+        "Name": "Spangler circus peanuts 5 oz. banana flavor peg bag",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 0.0,
+            "Carbs": 29.0,
+            "Calories": 120.0
+        }
+    },
+    {
+        "Name": "Milk choc. mallo cup  2 pack 1.5 oz",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 8.0,
+            "Carbs": 30.0,
+            "Calories": 196.0
+        }
+    },
+    {
+        "Name": "Caramel bits - 25 lb box",
+        "Nutrients": {
+            "Protein": 3.0,
+            "Fat": 12.0,
+            "Carbs": 79.0,
+            "Calories": 436.0
+        }
+    },
+    {
+        "Name": "Saf-t-pops \"thank you\" 200 ct. individually wrapped non display box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.0,
+            "Calories": 44.0
+        }
+    },
+    {
+        "Name": "Saf-t-pops swirl 120 ct. individually wrapped lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.0,
+            "Calories": 44.0
+        }
+    },
+    {
+        "Name": "Saf-t-pops 200 ct. individually wrapped lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 11.0,
+            "Calories": 44.0
+        }
+    },
+    {
+        "Name": "Spangler peppermint red, green & white mini canes 40 ct. box",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 17.0,
+            "Calories": 68.0
+        }
+    },
+    {
+        "Name": "Dum dums pinks, blues & reds valentines pops 13.7 oz. lay down bag",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 15.0,
+            "Calories": 60.0
+        }
+    },
+    {
+        "Name": "Kraft marshmallows vanilla",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 100.0,
+            "Calories": 400.0
+        }
+    }
+]

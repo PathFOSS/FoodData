@@ -1,0 +1,83 @@
+[
+    {
+        "Name": "Nacho cheese sauce - #10 can, 106 oz",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 3.5,
+            "Calories": 129.7
+        }
+    },
+    {
+        "Name": "Cheddar cheese sauce - #10 can, 106 oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 10.5,
+            "Carbs": 10.5,
+            "Calories": 143.7
+        }
+    },
+    {
+        "Name": "Odwalla almondmilk shake snickerdoodle bottle, 15.2 fl oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 1.5,
+            "Carbs": 6.8,
+            "Calories": 47.9
+        }
+    },
+    {
+        "Name": "Odwalla almondmilk shake mocha latte bottle, 15.2 fl oz",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 1.5,
+            "Carbs": 7.9,
+            "Calories": 52.3
+        }
+    },
+    {
+        "Name": "Toblerone chocolate tablet coconut sprinkles",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 30.5,
+            "Carbs": 0.0,
+            "Calories": 296.5
+        }
+    },
+    {
+        "Name": "Cadbury marvellous creations chocolate jelly popping candy",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 263.3
+        }
+    },
+    {
+        "Name": "Oreo cookies white chocolate covered",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 26.0,
+            "Carbs": 0.0,
+            "Calories": 252.0
+        }
+    },
+    {
+        "Name": "Cadbury crunchie chocolate bar milk chocolate 40 gr",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 17.5,
+            "Carbs": 0.0,
+            "Calories": 171.5
+        }
+    },
+    {
+        "Name": "Sanalac non fat dry milk, 1 qt",
+        "Nutrients": {
+            "Protein": 34.8,
+            "Fat": 0.0,
+            "Carbs": 56.5,
+            "Calories": 365.2
+        }
+    }
+]

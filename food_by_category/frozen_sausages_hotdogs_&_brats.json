@@ -1,0 +1,3044 @@
+[
+    {
+        "Name": "Hot italian sausage",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 16.1,
+            "Carbs": 2.5,
+            "Calories": 248.9
+        }
+    },
+    {
+        "Name": "Turkey fully cooked sausage links, turkey",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 6.7,
+            "Carbs": 2.2,
+            "Calories": 140.3
+        }
+    },
+    {
+        "Name": "Country sausage skinless links, country sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Original fully cooked pork sausage patties, original",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 22.1,
+            "Carbs": 0.0,
+            "Calories": 263.7
+        }
+    },
+    {
+        "Name": "Turkey fully cooked sausage patties, turkey",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 5.2,
+            "Carbs": 1.5,
+            "Calories": 141.2
+        }
+    },
+    {
+        "Name": "Medium country sausage patties, medium",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Medium country sausage patties, medium country sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Pork sausage patties, pork",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 35.3,
+            "Carbs": 1.5,
+            "Calories": 394.1
+        }
+    },
+    {
+        "Name": "Fully cooked sausage links",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 35.6,
+            "Carbs": 2.2,
+            "Calories": 382.4
+        }
+    },
+    {
+        "Name": "Original fully cooked sausage patties, original",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 28.9,
+            "Carbs": 2.2,
+            "Calories": 322.1
+        }
+    },
+    {
+        "Name": "Maple fully cooked sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Microwavable original heat -n- serve fully cooked sausage links, original",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Original premium sausage, original",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 8.3,
+            "Carbs": 0.0,
+            "Calories": 101.5
+        }
+    },
+    {
+        "Name": "Sausage links",
+        "Nutrients": {
+            "Protein": 25.0,
+            "Fat": 12.5,
+            "Carbs": 0.0,
+            "Calories": 212.5
+        }
+    },
+    {
+        "Name": "Murry's, hot italian sausage",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 17.9,
+            "Carbs": 2.6,
+            "Calories": 238.3
+        }
+    },
+    {
+        "Name": "Simply delicious meats",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 23.2,
+            "Carbs": 5.4,
+            "Calories": 280.4
+        }
+    },
+    {
+        "Name": "Beeler's, hot pork sausage",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 21.1,
+            "Carbs": 0.0,
+            "Calories": 253.1
+        }
+    },
+    {
+        "Name": "Jumbo country style sausage links",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Denmark foods, hot italian sausage",
+        "Nutrients": {
+            "Protein": 23.5,
+            "Fat": 16.1,
+            "Carbs": 2.5,
+            "Calories": 248.9
+        }
+    },
+    {
+        "Name": "Roundy's, select, chicken sausage, sun-dried tomato & basil",
+        "Nutrients": {
+            "Protein": 18.2,
+            "Fat": 7.8,
+            "Carbs": 3.9,
+            "Calories": 158.6
+        }
+    },
+    {
+        "Name": "Moo & oink, beef mild links",
+        "Nutrients": {
+            "Protein": 17.3,
+            "Fat": 25.3,
+            "Carbs": 5.3,
+            "Calories": 318.1
+        }
+    },
+    {
+        "Name": "Moo & oink, pork hot links",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 28.0,
+            "Carbs": 4.0,
+            "Calories": 326.8
+        }
+    },
+    {
+        "Name": "Moo & oink, pork mild links",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 28.0,
+            "Carbs": 2.7,
+            "Calories": 321.6
+        }
+    },
+    {
+        "Name": "Al fresco, country style breakfast chicken sausage",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 9.0,
+            "Carbs": 0.0,
+            "Calories": 153.0
+        }
+    },
+    {
+        "Name": "Shelton's, turkey italian sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 26.8,
+            "Carbs": 0.0,
+            "Calories": 298.4
+        }
+    },
+    {
+        "Name": "Organic prairie, organic pork bratwurst",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 20.0,
+            "Carbs": 1.2,
+            "Calories": 260.0
+        }
+    },
+    {
+        "Name": "Organic prairie, organic brown & serve pork links",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 23.2,
+            "Carbs": 0.0,
+            "Calories": 273.2
+        }
+    },
+    {
+        "Name": "Diestel turkey ranch, breakfast turkey sausage",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 7.1,
+            "Carbs": 1.8,
+            "Calories": 156.7
+        }
+    },
+    {
+        "Name": "Chicken sausage, cajun-style andouille",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 6.6,
+            "Carbs": 1.5,
+            "Calories": 135.8
+        }
+    },
+    {
+        "Name": "Little pork sausages",
+        "Nutrients": {
+            "Protein": 15.4,
+            "Fat": 35.4,
+            "Carbs": 0.0,
+            "Calories": 380.2
+        }
+    },
+    {
+        "Name": "Original pork sausage",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 1.8,
+            "Calories": 409.1
+        }
+    },
+    {
+        "Name": "Parks famous flavor, pork sausage",
+        "Nutrients": {
+            "Protein": 16.4,
+            "Fat": 36.4,
+            "Carbs": 1.8,
+            "Calories": 400.4
+        }
+    },
+    {
+        "Name": "Meijer, cooked sausage links, original",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Meijer, cooked sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Turkey links",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 12.3,
+            "Carbs": 1.8,
+            "Calories": 181.1
+        }
+    },
+    {
+        "Name": "Pork sausage patties",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 41.2,
+            "Carbs": 0.0,
+            "Calories": 418.0
+        }
+    },
+    {
+        "Name": "Pork sausage links",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 42.2,
+            "Carbs": 0.0,
+            "Calories": 424.2
+        }
+    },
+    {
+        "Name": "Hot & sweet italian sausage links",
+        "Nutrients": {
+            "Protein": 18.2,
+            "Fat": 21.2,
+            "Carbs": 4.5,
+            "Calories": 281.6
+        }
+    },
+    {
+        "Name": "Swaggerty's farm, premium sausage links",
+        "Nutrients": {
+            "Protein": 22.2,
+            "Fat": 29.6,
+            "Carbs": 2.5,
+            "Calories": 365.2
+        }
+    },
+    {
+        "Name": "Great value, pork sausage patties, maple",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 32.0,
+            "Carbs": 10.0,
+            "Calories": 384.0
+        }
+    },
+    {
+        "Name": "Great value, turkey breakfast patties, original",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 18.0,
+            "Carbs": 0.0,
+            "Calories": 234.0
+        }
+    },
+    {
+        "Name": "Premium sausage",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 38.2,
+            "Carbs": 2.9,
+            "Calories": 414.2
+        }
+    },
+    {
+        "Name": "Beef franks in a blanket",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 21.2,
+            "Carbs": 15.3,
+            "Calories": 289.6
+        }
+    },
+    {
+        "Name": "Isernio's, italian chicken sausage",
+        "Nutrients": {
+            "Protein": 18.9,
+            "Fat": 3.7,
+            "Carbs": 1.1,
+            "Calories": 113.3
+        }
+    },
+    {
+        "Name": "Premium chicken italian sausage",
+        "Nutrients": {
+            "Protein": 18.3,
+            "Fat": 4.2,
+            "Carbs": 0.0,
+            "Calories": 111.0
+        }
+    },
+    {
+        "Name": "Kroger, turkey sausage patties",
+        "Nutrients": {
+            "Protein": 15.7,
+            "Fat": 9.8,
+            "Carbs": 2.0,
+            "Calories": 159.0
+        }
+    },
+    {
+        "Name": "7\" link italian sausage with cheese and peppers",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 21.2,
+            "Carbs": 2.0,
+            "Calories": 262.4
+        }
+    },
+    {
+        "Name": "7 \" link beer bratwurst",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 23.2,
+            "Carbs": 2.0,
+            "Calories": 277.6
+        }
+    },
+    {
+        "Name": "Italian sausage with provolone and parmesan cheese",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 23.2,
+            "Carbs": 2.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "7\"(3-1) - bratwurst with porcini mushrooms and provolone",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 26.5,
+            "Carbs": 3.3,
+            "Calories": 312.5
+        }
+    },
+    {
+        "Name": "7\" (3-1) - bratwurst with cheddar and jalapeno peppers",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 26.5,
+            "Carbs": 2.6,
+            "Calories": 309.7
+        }
+    },
+    {
+        "Name": "Chipotle and cheddar sausage",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 19.9,
+            "Carbs": 6.0,
+            "Calories": 266.7
+        }
+    },
+    {
+        "Name": "Pork sausage wrapped in dough",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 23.8,
+            "Carbs": 14.3,
+            "Calories": 338.2
+        }
+    },
+    {
+        "Name": "Maple sausage links",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Original sausage links",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Sausage patties",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 28.9,
+            "Carbs": 2.2,
+            "Calories": 322.1
+        }
+    },
+    {
+        "Name": "Original hot flavor pork sausage",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 0.0,
+            "Calories": 401.9
+        }
+    },
+    {
+        "Name": "Original mild flavor pork sausage",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 0.0,
+            "Calories": 401.9
+        }
+    },
+    {
+        "Name": "Mild italian sausage slices",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 30.4,
+            "Carbs": 3.6,
+            "Calories": 352.4
+        }
+    },
+    {
+        "Name": "Bob evans, pork sausage links with premium cuts of pork",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 21.6,
+            "Carbs": 0.0,
+            "Calories": 264.8
+        }
+    },
+    {
+        "Name": "Kroger, country sausage patties, mild",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 32.4,
+            "Carbs": 2.9,
+            "Calories": 350.4
+        }
+    },
+    {
+        "Name": "Brats beer bratwurst",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 2.4,
+            "Calories": 308.4
+        }
+    },
+    {
+        "Name": "Original pork sausage links",
+        "Nutrients": {
+            "Protein": 17.5,
+            "Fat": 22.5,
+            "Carbs": 0.0,
+            "Calories": 272.5
+        }
+    },
+    {
+        "Name": "Savory sage pork sausage",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 35.7,
+            "Carbs": 0.0,
+            "Calories": 392.9
+        }
+    },
+    {
+        "Name": "Turkey sausage patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 25.0,
+            "Carbs": 1.8,
+            "Calories": 289.4
+        }
+    },
+    {
+        "Name": "Uncured turkey franks",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 13.2,
+            "Carbs": 2.9,
+            "Calories": 177.6
+        }
+    },
+    {
+        "Name": "Jennie-o, turkey franks",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 17.8,
+            "Carbs": 0.0,
+            "Calories": 213.4
+        }
+    },
+    {
+        "Name": "Sam's choice, beef franks in a panko & cheese blanket",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 23.5,
+            "Carbs": 20.0,
+            "Calories": 333.9
+        }
+    },
+    {
+        "Name": "Fresh italian links",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 29.4,
+            "Carbs": 4.7,
+            "Calories": 358.6
+        }
+    },
+    {
+        "Name": "Country sausage",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 33.3,
+            "Carbs": 0.0,
+            "Calories": 344.1
+        }
+    },
+    {
+        "Name": "Wellshire, fully cooked turkey maple sausage skinless links",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 12.5,
+            "Carbs": 7.1,
+            "Calories": 212.5
+        }
+    },
+    {
+        "Name": "Wellshire, fully cooked chicken apple sausage skinless links",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 10.7,
+            "Carbs": 3.6,
+            "Calories": 182.3
+        }
+    },
+    {
+        "Name": "Wellshire, fully cooked pork maple sausage skinless links",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 28.6,
+            "Carbs": 3.6,
+            "Calories": 329.0
+        }
+    },
+    {
+        "Name": "Wellshire, fully cooked original pork sausage skinless links, original",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 28.6,
+            "Carbs": 0.0,
+            "Calories": 314.6
+        }
+    },
+    {
+        "Name": "Jimmy dean, premium pork sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Jimmy dean, premium pork maple sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "American style kobe",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 21.4,
+            "Carbs": 1.8,
+            "Calories": 249.8
+        }
+    },
+    {
+        "Name": "Beef franks",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 26.8,
+            "Carbs": 3.6,
+            "Calories": 305.6
+        }
+    },
+    {
+        "Name": "Pork frankfurters",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 21.2,
+            "Carbs": 3.0,
+            "Calories": 251.2
+        }
+    },
+    {
+        "Name": "Fully cooked hot dogs",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 32.1,
+            "Carbs": 5.4,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Beef frankfurters",
+        "Nutrients": {
+            "Protein": 12.3,
+            "Fat": 22.8,
+            "Carbs": 3.5,
+            "Calories": 268.4
+        }
+    },
+    {
+        "Name": "Wellshire, heat-n-eat well, pork maple sausage links",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 12.5,
+            "Carbs": 7.1,
+            "Calories": 205.3
+        }
+    },
+    {
+        "Name": "Mild italian sausage",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 24.3,
+            "Carbs": 2.9,
+            "Calories": 310.3
+        }
+    },
+    {
+        "Name": "Skinless sweet hamonado",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 16.1,
+            "Carbs": 14.3,
+            "Calories": 259.3
+        }
+    },
+    {
+        "Name": "Skinless vigan longanisa",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 21.4,
+            "Carbs": 3.6,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Hot cured pork longanisa",
+        "Nutrients": {
+            "Protein": 12.7,
+            "Fat": 26.6,
+            "Carbs": 8.9,
+            "Calories": 325.8
+        }
+    },
+    {
+        "Name": "Potato sausage",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 10.0,
+            "Carbs": 7.1,
+            "Calories": 158.4
+        }
+    },
+    {
+        "Name": "Breakfast sausage links",
+        "Nutrients": {
+            "Protein": 14.6,
+            "Fat": 27.3,
+            "Carbs": 3.6,
+            "Calories": 318.5
+        }
+    },
+    {
+        "Name": "Premium cooked italian sausage",
+        "Nutrients": {
+            "Protein": 23.1,
+            "Fat": 18.7,
+            "Carbs": 4.4,
+            "Calories": 278.3
+        }
+    },
+    {
+        "Name": "Pancake & sausage",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 12.7,
+            "Carbs": 29.6,
+            "Calories": 266.3
+        }
+    },
+    {
+        "Name": "Pork sausage",
+        "Nutrients": {
+            "Protein": 14.6,
+            "Fat": 27.3,
+            "Carbs": 1.8,
+            "Calories": 311.3
+        }
+    },
+    {
+        "Name": "Saucisse de sanglier",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 20.5,
+            "Carbs": 7.1,
+            "Calories": 255.7
+        }
+    },
+    {
+        "Name": "Hickory smoked sausage",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 18.2,
+            "Carbs": 4.5,
+            "Calories": 224.2
+        }
+    },
+    {
+        "Name": "Country sausage skinless links",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Country style pork sausage patties",
+        "Nutrients": {
+            "Protein": 31.8,
+            "Fat": 25.0,
+            "Carbs": 2.3,
+            "Calories": 361.4
+        }
+    },
+    {
+        "Name": "Premium sausage patties",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 38.2,
+            "Carbs": 2.9,
+            "Calories": 414.2
+        }
+    },
+    {
+        "Name": "All natural preservative free sausage links",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 40.0,
+            "Carbs": 2.2,
+            "Calories": 431.2
+        }
+    },
+    {
+        "Name": "Breakfast sausage",
+        "Nutrients": {
+            "Protein": 14.5,
+            "Fat": 24.2,
+            "Carbs": 1.6,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Original sausage crumbles",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 33.3,
+            "Carbs": 3.3,
+            "Calories": 366.1
+        }
+    },
+    {
+        "Name": "Pretzel crunch dogs",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 22.4,
+            "Carbs": 20.0,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Premium country sausage patties",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 37.8,
+            "Carbs": 0.0,
+            "Calories": 393.4
+        }
+    },
+    {
+        "Name": "Banger",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 27.1,
+            "Carbs": 2.4,
+            "Calories": 305.1
+        }
+    },
+    {
+        "Name": "Chicken bratwurst",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 142.8
+        }
+    },
+    {
+        "Name": "German style bratwurst",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 254.4
+        }
+    },
+    {
+        "Name": "Hot italian style sausage",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 21.2,
+            "Carbs": 0.9,
+            "Calories": 261.6
+        }
+    },
+    {
+        "Name": "Bratwurst",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 254.4
+        }
+    },
+    {
+        "Name": "Sauerkraut bratwurst",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 15.0,
+            "Carbs": 0.9,
+            "Calories": 205.8
+        }
+    },
+    {
+        "Name": "Wisconsin style bratwurst",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 21.2,
+            "Carbs": 0.0,
+            "Calories": 258.0
+        }
+    },
+    {
+        "Name": "Country sausage patties",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 37.8,
+            "Carbs": 0.0,
+            "Calories": 393.4
+        }
+    },
+    {
+        "Name": "Southern blend country sausage patties",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 37.8,
+            "Carbs": 0.0,
+            "Calories": 393.4
+        }
+    },
+    {
+        "Name": "Hot pork sausage",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 19.8,
+            "Carbs": 0.0,
+            "Calories": 253.0
+        }
+    },
+    {
+        "Name": "On the go sauerkraut",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 14.2,
+            "Carbs": 23.3,
+            "Calories": 261.0
+        }
+    },
+    {
+        "Name": "Pork sausage patty",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 42.9,
+            "Carbs": 0.0,
+            "Calories": 457.7
+        }
+    },
+    {
+        "Name": "Door county bratwurst",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 18.6,
+            "Carbs": 1.8,
+            "Calories": 234.6
+        }
+    },
+    {
+        "Name": "Organic prairie, pork breakfast sausage",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 250.8
+        }
+    },
+    {
+        "Name": "Wellshire, sausage links, turkey maple",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 10.7,
+            "Carbs": 7.1,
+            "Calories": 196.3
+        }
+    },
+    {
+        "Name": "Hormel, bacon & pork sausage, jalapeno",
+        "Nutrients": {
+            "Protein": 20.8,
+            "Fat": 34.0,
+            "Carbs": 3.8,
+            "Calories": 404.4
+        }
+    },
+    {
+        "Name": "Hormel, bacon & pork sausage, maple black pepper",
+        "Nutrients": {
+            "Protein": 20.8,
+            "Fat": 30.2,
+            "Carbs": 3.8,
+            "Calories": 370.2
+        }
+    },
+    {
+        "Name": "Uncured ostrich hot dogs",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 8.0,
+            "Carbs": 1.8,
+            "Calories": 157.6
+        }
+    },
+    {
+        "Name": "Bratwurst sausage",
+        "Nutrients": {
+            "Protein": 17.4,
+            "Fat": 29.0,
+            "Carbs": 2.9,
+            "Calories": 342.2
+        }
+    },
+    {
+        "Name": "Premium italian sausage",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 14.8,
+            "Carbs": 3.7,
+            "Calories": 212.4
+        }
+    },
+    {
+        "Name": "Mini franks in a blanket",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 28.9,
+            "Carbs": 18.9,
+            "Calories": 375.7
+        }
+    },
+    {
+        "Name": "Chorizo sausage",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 20.5,
+            "Carbs": 1.8,
+            "Calories": 280.9
+        }
+    },
+    {
+        "Name": "Moroccan recipe lamb & fig sausage",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 22.3,
+            "Carbs": 1.8,
+            "Calories": 279.5
+        }
+    },
+    {
+        "Name": "Mini chicken sausage",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 1.8,
+            "Calories": 158.9
+        }
+    },
+    {
+        "Name": "Authentic irish style bangers",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 19.7,
+            "Carbs": 10.5,
+            "Calories": 261.3
+        }
+    },
+    {
+        "Name": "Turkey hot links",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 8.0,
+            "Carbs": 2.7,
+            "Calories": 157.6
+        }
+    },
+    {
+        "Name": "Turkey mild links",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 12.0,
+            "Carbs": 4.0,
+            "Calories": 198.8
+        }
+    },
+    {
+        "Name": "All natural little pork sausages",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 35.6,
+            "Carbs": 0.0,
+            "Calories": 382.8
+        }
+    },
+    {
+        "Name": "Johnsonville, brats orginal bratwurst",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 2.4,
+            "Calories": 308.4
+        }
+    },
+    {
+        "Name": "Johnsonville, sausage",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 3.7,
+            "Calories": 313.6
+        }
+    },
+    {
+        "Name": "Chung jung one, berkshire pork sausage",
+        "Nutrients": {
+            "Protein": 23.6,
+            "Fat": 20.0,
+            "Carbs": 1.8,
+            "Calories": 281.6
+        }
+    },
+    {
+        "Name": "Pork sausage maple links",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.9,
+            "Carbs": 4.4,
+            "Calories": 340.1
+        }
+    },
+    {
+        "Name": "Mini bratwurst",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 19.1,
+            "Carbs": 2.9,
+            "Calories": 248.3
+        }
+    },
+    {
+        "Name": "Sliced chicken sausage",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 9.5,
+            "Carbs": 2.4,
+            "Calories": 175.9
+        }
+    },
+    {
+        "Name": "Franks in a blanket",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 26.0,
+            "Carbs": 19.5,
+            "Calories": 348.4
+        }
+    },
+    {
+        "Name": "Italian sausage",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 3.7,
+            "Calories": 313.6
+        }
+    },
+    {
+        "Name": "Morcilla blood sausage",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 17.5,
+            "Carbs": 14.0,
+            "Calories": 269.5
+        }
+    },
+    {
+        "Name": "8 fresh pork sausage patties",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 31.2,
+            "Carbs": 1.6,
+            "Calories": 362.4
+        }
+    },
+    {
+        "Name": "Skinless links",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 34.0,
+            "Carbs": 2.0,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "24 sausage patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "24 country sausage patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Jimmy dean, pork sausage patties, original",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 35.3,
+            "Carbs": 2.9,
+            "Calories": 394.1
+        }
+    },
+    {
+        "Name": "Jimmy dean, breakfast bowl chorizo",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 13.1,
+            "Carbs": 9.6,
+            "Calories": 192.7
+        }
+    },
+    {
+        "Name": "Country mild premium pork sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Hot premium pork sausage",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 345.2
+        }
+    },
+    {
+        "Name": "Maple breakfast sausage links",
+        "Nutrients": {
+            "Protein": 14.6,
+            "Fat": 29.1,
+            "Carbs": 5.5,
+            "Calories": 342.3
+        }
+    },
+    {
+        "Name": "Oktoberfest bratwurst, original bratwurst",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 23.0,
+            "Carbs": 0.9,
+            "Calories": 270.6
+        }
+    },
+    {
+        "Name": "Natural pork italian sausage",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 250.8
+        }
+    },
+    {
+        "Name": "Pork and herb bangers",
+        "Nutrients": {
+            "Protein": 14.5,
+            "Fat": 26.3,
+            "Carbs": 4.0,
+            "Calories": 310.7
+        }
+    },
+    {
+        "Name": "Jones dairy farm, golden brown fully cooked sausage patties, mild",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 36.4,
+            "Carbs": 0.0,
+            "Calories": 376.0
+        }
+    },
+    {
+        "Name": "Maple pork links",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 7.1,
+            "Calories": 430.3
+        }
+    },
+    {
+        "Name": "Pork links",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 7.1,
+            "Calories": 430.3
+        }
+    },
+    {
+        "Name": "Smoked sausage",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 27.3,
+            "Carbs": 2.0,
+            "Calories": 302.1
+        }
+    },
+    {
+        "Name": "Jumbo premium beef franks",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 30.4,
+            "Carbs": 3.6,
+            "Calories": 330.8
+        }
+    },
+    {
+        "Name": "16 turkey sausage patties",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 194.5
+        }
+    },
+    {
+        "Name": "Made with premium cuts of pork",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 35.7,
+            "Carbs": 0.0,
+            "Calories": 392.9
+        }
+    },
+    {
+        "Name": "Chicken sausage",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 8.2,
+            "Carbs": 2.4,
+            "Calories": 144.6
+        }
+    },
+    {
+        "Name": "Maple tasty links",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 40.6,
+            "Carbs": 6.2,
+            "Calories": 452.6
+        }
+    },
+    {
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 7.7,
+            "Carbs": 1.3,
+            "Calories": 141.3
+        }
+    },
+    {
+        "Name": "Deliciously spicy german brand smoked sausage",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 26.5,
+            "Carbs": 1.3,
+            "Calories": 291.3
+        }
+    },
+    {
+        "Name": "Original pork sausage patties",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 44.3,
+            "Carbs": 4.3,
+            "Calories": 467.5
+        }
+    },
+    {
+        "Name": "Premium mild pork sausage",
+        "Nutrients": {
+            "Protein": 14.9,
+            "Fat": 26.3,
+            "Carbs": 0.9,
+            "Calories": 299.9
+        }
+    },
+    {
+        "Name": "Fully cooked pork sausage links",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 35.3,
+            "Carbs": 1.5,
+            "Calories": 394.1
+        }
+    },
+    {
+        "Name": "Fully cooked pork sausage patties",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 35.3,
+            "Carbs": 1.5,
+            "Calories": 394.1
+        }
+    },
+    {
+        "Name": "Maple breakfast links, maple",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 26.7,
+            "Carbs": 10.0,
+            "Calories": 347.1
+        }
+    },
+    {
+        "Name": "Traditional pork sausage links, traditional",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 37.8,
+            "Carbs": 2.2,
+            "Calories": 393.4
+        }
+    },
+    {
+        "Name": "Maple sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Original sausage links made with pork & turkey, original",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Original recipe pork sausage",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 28.6,
+            "Carbs": 0.0,
+            "Calories": 343.0
+        }
+    },
+    {
+        "Name": "Country sausage skinless links, country",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "24 smokehouse sausage patties, smoke",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 32.1,
+            "Carbs": 0.0,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Bob evans, pork sausage links, original, original",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 22.2,
+            "Carbs": 0.0,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Fully cooked country sausage skinless links, country",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Fully cooked pork country sausage patties, pork",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Chicken bratwurst with sauteed onions, chicken bratwurst",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 7.0,
+            "Carbs": 1.4,
+            "Calories": 136.2
+        }
+    },
+    {
+        "Name": "Sage sausage patties, sage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Chicken & maple breakfast sausage, chicken & maple",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 11.9,
+            "Carbs": 3.4,
+            "Calories": 181.5
+        }
+    },
+    {
+        "Name": "Johnsonville cooked bratwurst",
+        "Nutrients": {
+            "Protein": 15.4,
+            "Fat": 30.8,
+            "Carbs": 5.5,
+            "Calories": 360.8
+        }
+    },
+    {
+        "Name": "Pork & sage mini sliders patties, pork & sage",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 23.5,
+            "Carbs": 1.5,
+            "Calories": 276.3
+        }
+    },
+    {
+        "Name": "Chorizo fluffy egg bites with cheddar cheese, chorizo crumbles, fire roasted peppers, onions and chives, chorizo egg bites",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 12.2,
+            "Carbs": 8.9,
+            "Calories": 189.8
+        }
+    },
+    {
+        "Name": "Maple flavored breakfast saus'age patties, maple",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 7.9,
+            "Carbs": 10.5,
+            "Calories": 176.3
+        }
+    },
+    {
+        "Name": "Fully cooked original sausage links, original",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Fully cooked maple sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Premium cooked italian sausage topping",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 23.2,
+            "Carbs": 3.6,
+            "Calories": 287.6
+        }
+    },
+    {
+        "Name": "Organic chicken & maple sausage",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 15.2,
+            "Carbs": 5.1,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.8,
+            "Carbs": 1.5,
+            "Calories": 155.6
+        }
+    },
+    {
+        "Name": "Organic chicken & sage sausage link",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 13.6,
+            "Carbs": 0.0,
+            "Calories": 190.0
+        }
+    },
+    {
+        "Name": "Maple pork sausage links",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 31.1,
+            "Carbs": 2.2,
+            "Calories": 341.9
+        }
+    },
+    {
+        "Name": "Turkey fully cooked sausage links",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 6.7,
+            "Carbs": 2.2,
+            "Calories": 140.3
+        }
+    },
+    {
+        "Name": "Original pork sausage patties, original",
+        "Nutrients": {
+            "Protein": 21.1,
+            "Fat": 28.9,
+            "Carbs": 0.0,
+            "Calories": 344.5
+        }
+    },
+    {
+        "Name": "Fully cooked original pork sausage links, original",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 22.2,
+            "Carbs": 0.0,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Maple flavored pork sausage patties, maple",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 36.0,
+            "Carbs": 6.0,
+            "Calories": 396.0
+        }
+    },
+    {
+        "Name": "Berkshire pork sausage",
+        "Nutrients": {
+            "Protein": 23.6,
+            "Fat": 20.0,
+            "Carbs": 1.8,
+            "Calories": 281.6
+        }
+    },
+    {
+        "Name": "Pork sausage patties, original",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 39.7,
+            "Carbs": 1.5,
+            "Calories": 410.5
+        }
+    },
+    {
+        "Name": "Classic smoked polish sausage, classic smoked",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 29.3,
+            "Carbs": 2.0,
+            "Calories": 316.1
+        }
+    },
+    {
+        "Name": "Premium beef franks quarter pound, beef",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 29.5,
+            "Carbs": 3.6,
+            "Calories": 322.7
+        }
+    },
+    {
+        "Name": "Maple pork frozen sausage links, maple",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 7.1,
+            "Calories": 430.3
+        }
+    },
+    {
+        "Name": "Jumbo premium beef franks, beef",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 30.4,
+            "Carbs": 3.6,
+            "Calories": 330.8
+        }
+    },
+    {
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro, spicy chipotle",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 7.7,
+            "Carbs": 1.3,
+            "Calories": 141.3
+        }
+    },
+    {
+        "Name": "Fresh bratwurst",
+        "Nutrients": {
+            "Protein": 15.4,
+            "Fat": 23.1,
+            "Carbs": 2.2,
+            "Calories": 278.3
+        }
+    },
+    {
+        "Name": "Classic pork sausage links, classic",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 42.9,
+            "Carbs": 4.1,
+            "Calories": 467.7
+        }
+    },
+    {
+        "Name": "Smokehouse sausage patties, smokehouse",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 32.1,
+            "Carbs": 0.0,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Original fully cooked pork sausage links, original",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 22.2,
+            "Carbs": 0.0,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Original pork sausage links, original",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 21.6,
+            "Carbs": 0.0,
+            "Calories": 264.8
+        }
+    },
+    {
+        "Name": "Fully cooked country sausage skinless links",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Beef 'n cheddar hickory smoked 100% grass fed beef sausage, beef 'n cheddar hickory smoked",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 22.6,
+            "Carbs": 1.2,
+            "Calories": 275.0
+        }
+    },
+    {
+        "Name": "Uncured polish sausage, uncured polish",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 26.2,
+            "Carbs": 2.4,
+            "Calories": 302.6
+        }
+    },
+    {
+        "Name": "Beef premium jumbo franks, beef",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 30.4,
+            "Carbs": 3.6,
+            "Calories": 330.8
+        }
+    },
+    {
+        "Name": "Skinless turkey sausage patties, turkey",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 194.5
+        }
+    },
+    {
+        "Name": "Simply delicious meats, smoked sweets",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 23.2,
+            "Carbs": 5.4,
+            "Calories": 280.4
+        }
+    },
+    {
+        "Name": "Maple syrup skinless pork sausages, maple syrup",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 40.6,
+            "Carbs": 6.2,
+            "Calories": 452.6
+        }
+    },
+    {
+        "Name": "Fully cooked sausage patties, sausage",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 35.5,
+            "Carbs": 1.6,
+            "Calories": 377.5
+        }
+    },
+    {
+        "Name": "Maple pork sausage links, maple",
+        "Nutrients": {
+            "Protein": 16.3,
+            "Fat": 40.8,
+            "Carbs": 8.2,
+            "Calories": 465.2
+        }
+    },
+    {
+        "Name": "Jalapeno cheddar smoked sausage, jalapeno cheddar",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 28.6,
+            "Carbs": 5.5,
+            "Calories": 327.8
+        }
+    },
+    {
+        "Name": "Spicy cheddar omelet smoked pork, cheese, onion, green pepper and egg product link, spicy cheddar omelet",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 28.6,
+            "Carbs": 6.6,
+            "Calories": 332.2
+        }
+    },
+    {
+        "Name": "Beef franks, beef",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 29.5,
+            "Carbs": 3.6,
+            "Calories": 322.7
+        }
+    },
+    {
+        "Name": "Maple pork links, maple",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 7.1,
+            "Calories": 430.3
+        }
+    },
+    {
+        "Name": "Maple tasty links skinless pork sausages, maple",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 40.6,
+            "Carbs": 6.2,
+            "Calories": 452.6
+        }
+    },
+    {
+        "Name": "Hot italian sausage, hot italian",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 26.8,
+            "Carbs": 3.6,
+            "Calories": 327.2
+        }
+    },
+    {
+        "Name": "Mild italian sausage, mild italian",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 26.8,
+            "Carbs": 3.6,
+            "Calories": 327.2
+        }
+    },
+    {
+        "Name": "Smokehouse sausage patties, smokehouse sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 32.1,
+            "Carbs": 0.0,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Hot pork sausage patties, hot",
+        "Nutrients": {
+            "Protein": 17.3,
+            "Fat": 38.5,
+            "Carbs": 0.0,
+            "Calories": 415.7
+        }
+    },
+    {
+        "Name": "Sweet hamonado skinless longanisa, sweet hamonado",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 16.1,
+            "Carbs": 14.3,
+            "Calories": 259.3
+        }
+    },
+    {
+        "Name": "Sage sausage patties, sage sausage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 33.9,
+            "Carbs": 0.0,
+            "Calories": 362.3
+        }
+    },
+    {
+        "Name": "Fully cooked sausage patties",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 35.5,
+            "Carbs": 1.6,
+            "Calories": 377.5
+        }
+    },
+    {
+        "Name": "Traditional turkey sausage, traditional",
+        "Nutrients": {
+            "Protein": 15.7,
+            "Fat": 15.7,
+            "Carbs": 1.4,
+            "Calories": 209.7
+        }
+    },
+    {
+        "Name": "Sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Organic chicken & maple breakfast sausage, chicken & maple",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 13.6,
+            "Carbs": 5.1,
+            "Calories": 203.6
+        }
+    },
+    {
+        "Name": "Turkey sausage patties, turkey sausage",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 194.5
+        }
+    },
+    {
+        "Name": "Diestel turkey ranch, breakfast turkey sausage, diestel turkey ranch, breakfast turkey sausage",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 7.1,
+            "Carbs": 1.8,
+            "Calories": 156.7
+        }
+    },
+    {
+        "Name": "Original pork sausage, original",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 1.8,
+            "Calories": 409.1
+        }
+    },
+    {
+        "Name": "Maple flavored fully cooked pork sausage patties, maple",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 32.0,
+            "Carbs": 10.0,
+            "Calories": 384.0
+        }
+    },
+    {
+        "Name": "Kroger, country sausage patties, mild, mild",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 32.4,
+            "Carbs": 2.9,
+            "Calories": 350.4
+        }
+    },
+    {
+        "Name": "Pork sausage links, maple",
+        "Nutrients": {
+            "Protein": 19.6,
+            "Fat": 25.5,
+            "Carbs": 3.9,
+            "Calories": 323.5
+        }
+    },
+    {
+        "Name": "Savory sage pork sausage, savory sage",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 35.7,
+            "Carbs": 0.0,
+            "Calories": 392.9
+        }
+    },
+    {
+        "Name": "Pork sausage links, original",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 35.6,
+            "Carbs": 2.2,
+            "Calories": 382.4
+        }
+    },
+    {
+        "Name": "Chicken & maple breakfast sausage patties, chicken & maple",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 12.1,
+            "Carbs": 3.0,
+            "Calories": 181.7
+        }
+    },
+    {
+        "Name": "Jimmy dean, pork sausage patties, original, original",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 35.3,
+            "Carbs": 2.9,
+            "Calories": 394.1
+        }
+    },
+    {
+        "Name": "7\"\" link italian sausage with cheese and peppers",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 21.2,
+            "Carbs": 2.0,
+            "Calories": 262.4
+        }
+    },
+    {
+        "Name": "7 \"\" link beer bratwurst",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 23.2,
+            "Carbs": 2.0,
+            "Calories": 277.6
+        }
+    },
+    {
+        "Name": "7\"\"(3-1) - bratwurst with porcini mushrooms and provolone",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 26.5,
+            "Carbs": 3.3,
+            "Calories": 312.5
+        }
+    },
+    {
+        "Name": "7\"\" (3-1) - bratwurst with cheddar and jalapeno peppers",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 26.5,
+            "Carbs": 2.6,
+            "Calories": 309.7
+        }
+    },
+    {
+        "Name": "Vermont maple fully cooked sausage patties, vermont maple",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 28.9,
+            "Carbs": 4.4,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Banquet, brown 'n serve, fully cooked sausage links, maple, maple ",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Country recipe fully cooked sausage links, country recipe",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 27.8,
+            "Carbs": 1.9,
+            "Calories": 309.8
+        }
+    },
+    {
+        "Name": "Fresh boned hog cooked sausage patties",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 28.6,
+            "Carbs": 0.0,
+            "Calories": 314.6
+        }
+    },
+    {
+        "Name": "Cerveza xx dos equis bratwurst",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 3.7,
+            "Calories": 313.6
+        }
+    },
+    {
+        "Name": "Original flavor cooked sausage links, original",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Maple flavor cooked sausage links, maple",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 29.6,
+            "Carbs": 3.7,
+            "Calories": 333.2
+        }
+    },
+    {
+        "Name": "Sage premium pork sausage, sage",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Maple premium pork sausage, maple",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 30.4,
+            "Carbs": 1.8,
+            "Calories": 338.0
+        }
+    },
+    {
+        "Name": "Pork bangers, pork",
+        "Nutrients": {
+            "Protein": 14.5,
+            "Fat": 9.2,
+            "Carbs": 10.5,
+            "Calories": 182.8
+        }
+    },
+    {
+        "Name": "Mini franks in a blanket miniature cocktail sausage rolls in flaky puff pastry, mini franks in a blanket",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 28.9,
+            "Carbs": 18.9,
+            "Calories": 375.7
+        }
+    },
+    {
+        "Name": "Original fresh pork sausage patties, original",
+        "Nutrients": {
+            "Protein": 14.7,
+            "Fat": 26.5,
+            "Carbs": 0.0,
+            "Calories": 297.3
+        }
+    },
+    {
+        "Name": "Chorizo eggs, potatoes, chorizo sausage, cheddar cheese, peppers & onions breakfast bowl, chorizo",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 13.1,
+            "Carbs": 9.6,
+            "Calories": 192.7
+        }
+    },
+    {
+        "Name": "Country mild premium pork sausage, country mild",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 33.9,
+            "Carbs": 3.6,
+            "Calories": 383.9
+        }
+    },
+    {
+        "Name": "Hot premium pork sausage, hot",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 33.9,
+            "Carbs": 3.6,
+            "Calories": 383.9
+        }
+    },
+    {
+        "Name": "Roundy's, select, chicken sausage, sun-dried tomato & basil, sun-dried tomato & basil",
+        "Nutrients": {
+            "Protein": 18.2,
+            "Fat": 7.8,
+            "Carbs": 3.9,
+            "Calories": 158.6
+        }
+    },
+    {
+        "Name": "Pork organic bratwurst, pork",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 20.0,
+            "Carbs": 1.2,
+            "Calories": 260.0
+        }
+    },
+    {
+        "Name": "Raging cajun style chicken sausage links",
+        "Nutrients": {
+            "Protein": 17.7,
+            "Fat": 3.5,
+            "Carbs": 0.9,
+            "Calories": 105.9
+        }
+    },
+    {
+        "Name": "Wellshire, sausage links, turkey maple, turkey maple",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 10.7,
+            "Carbs": 7.1,
+            "Calories": 196.3
+        }
+    },
+    {
+        "Name": "Hormel, bacon & pork sausage, jalapeno, jalapeno",
+        "Nutrients": {
+            "Protein": 20.8,
+            "Fat": 34.0,
+            "Carbs": 3.8,
+            "Calories": 404.4
+        }
+    },
+    {
+        "Name": "Hormel, bacon & pork sausage, maple black pepper, maple black pepper",
+        "Nutrients": {
+            "Protein": 20.8,
+            "Fat": 30.2,
+            "Carbs": 3.8,
+            "Calories": 370.2
+        }
+    },
+    {
+        "Name": "Little pork sausages, maple",
+        "Nutrients": {
+            "Protein": 15.4,
+            "Fat": 35.4,
+            "Carbs": 6.2,
+            "Calories": 405.0
+        }
+    },
+    {
+        "Name": "Pork sausage, apple & sage",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 22.3,
+            "Carbs": 1.8,
+            "Calories": 297.1
+        }
+    },
+    {
+        "Name": "Mini chicken sausage, three cheese ",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 8.9,
+            "Carbs": 1.8,
+            "Calories": 158.9
+        }
+    },
+    {
+        "Name": "Italian sausage, italian",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 250.8
+        }
+    },
+    {
+        "Name": "Jones dairy farm, golden brown fully cooked sausage patties, mild, mild",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 36.4,
+            "Carbs": 0.0,
+            "Calories": 376.0
+        }
+    },
+    {
+        "Name": "Pork links, maple",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 37.5,
+            "Carbs": 7.1,
+            "Calories": 430.3
+        }
+    },
+    {
+        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage, provolone and romano cheese with fennel and red bell pepper",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.8,
+            "Carbs": 1.5,
+            "Calories": 155.6
+        }
+    },
+    {
+        "Name": "Country sausage patties, mild",
+        "Nutrients": {
+            "Protein": 19.5,
+            "Fat": 29.3,
+            "Carbs": 0.0,
+            "Calories": 341.7
+        }
+    },
+    {
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro, spicy chipotle with fire roasted green peppers and cilantro",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 7.7,
+            "Carbs": 1.3,
+            "Calories": 141.3
+        }
+    },
+    {
+        "Name": "Pork sausage, maple",
+        "Nutrients": {
+            "Protein": 15.1,
+            "Fat": 45.3,
+            "Carbs": 3.8,
+            "Calories": 483.3
+        }
+    },
+    {
+        "Name": "Cooked bratwurst",
+        "Nutrients": {
+            "Protein": 15.4,
+            "Fat": 0.0,
+            "Carbs": 5.5,
+            "Calories": 83.6
+        }
+    },
+    {
+        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage, provolone and romano cheese",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.8,
+            "Carbs": 1.5,
+            "Calories": 155.6
+        }
+    },
+    {
+        "Name": "Honey sriracha flavored sausage, honey sriracha",
+        "Nutrients": {
+            "Protein": 21.2,
+            "Fat": 25.9,
+            "Carbs": 4.7,
+            "Calories": 336.7
+        }
+    },
+    {
+        "Name": "Hot italian mini sausage, hot italian",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 24.1,
+            "Carbs": 1.3,
+            "Calories": 282.9
+        }
+    },
+    {
+        "Name": "Hot beef links, hot",
+        "Nutrients": {
+            "Protein": 16.5,
+            "Fat": 13.2,
+            "Carbs": 4.4,
+            "Calories": 202.4
+        }
+    },
+    {
+        "Name": "Chicken links, chicken",
+        "Nutrients": {
+            "Protein": 16.5,
+            "Fat": 5.5,
+            "Carbs": 4.4,
+            "Calories": 133.1
+        }
+    },
+    {
+        "Name": "Wellshire, fully cooked original pork sausage skinless links, original, original",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 28.6,
+            "Carbs": 0.0,
+            "Calories": 314.6
+        }
+    },
+    {
+        "Name": "Breakfast sausage links, maple",
+        "Nutrients": {
+            "Protein": 14.6,
+            "Fat": 27.3,
+            "Carbs": 3.6,
+            "Calories": 318.5
+        }
+    },
+    {
+        "Name": "Premium cooked italian sausage, mild",
+        "Nutrients": {
+            "Protein": 23.1,
+            "Fat": 18.7,
+            "Carbs": 4.4,
+            "Calories": 278.3
+        }
+    },
+    {
+        "Name": "Breakfast sausage, maple",
+        "Nutrients": {
+            "Protein": 14.5,
+            "Fat": 24.2,
+            "Carbs": 1.6,
+            "Calories": 282.2
+        }
+    },
+    {
+        "Name": "Pretzel crunch dogs, honey mustard",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 22.4,
+            "Carbs": 20.0,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Chicken bratwurst, tomato basil",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 8.0,
+            "Carbs": 0.9,
+            "Calories": 142.8
+        }
+    },
+    {
+        "Name": "Bratwurst, onion & garlic",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 20.4,
+            "Carbs": 0.9,
+            "Calories": 254.4
+        }
+    },
+    {
+        "Name": "Door county bratwurst, cherry",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 18.6,
+            "Carbs": 1.8,
+            "Calories": 234.6
+        }
+    },
+    {
+        "Name": "Premium italian sausage, hot",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 14.8,
+            "Carbs": 3.7,
+            "Calories": 212.4
+        }
+    },
+    {
+        "Name": "Johnsonville, brats orginal bratwurst, original",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 25.6,
+            "Carbs": 2.4,
+            "Calories": 308.4
+        }
+    },
+    {
+        "Name": "Franks in a blanket, parmesan cheese",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 26.0,
+            "Carbs": 19.5,
+            "Calories": 348.4
+        }
+    },
+    {
+        "Name": "Breakfast sausage, chicken & maple",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 11.9,
+            "Carbs": 3.4,
+            "Calories": 188.3
+        }
+    },
+    {
+        "Name": "Italian sausage, mild",
+        "Nutrients": {
+            "Protein": 13.2,
+            "Fat": 30.8,
+            "Carbs": 4.4,
+            "Calories": 347.6
+        }
+    },
+    {
+        "Name": "Chicken sausage, roasted garlic & herb",
+        "Nutrients": {
+            "Protein": 17.9,
+            "Fat": 9.0,
+            "Carbs": 3.9,
+            "Calories": 168.2
+        }
+    },
+    {
+        "Name": "Premium mild pork sausage, mild",
+        "Nutrients": {
+            "Protein": 14.9,
+            "Fat": 26.3,
+            "Carbs": 0.9,
+            "Calories": 299.9
+        }
+    },
+    {
+        "Name": "Organic chicken & maple sausage, chicken & maple",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 15.2,
+            "Carbs": 5.1,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Organic chicken & sage sausage link, chicken & sage",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 13.6,
+            "Carbs": 0.0,
+            "Calories": 190.0
+        }
+    },
+    {
+        "Name": "Turkey sausage patties, turkey",
+        "Nutrients": {
+            "Protein": 28.6,
+            "Fat": 8.9,
+            "Carbs": 0.0,
+            "Calories": 194.5
+        }
+    },
+    {
+        "Name": "Sweet italian sausage meat, sweet italian",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 25.0,
+            "Carbs": 1.8,
+            "Calories": 317.8
+        }
+    },
+    {
+        "Name": "Beef milk links, beef",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 34.2,
+            "Carbs": 3.8,
+            "Calories": 363.4
+        }
+    },
+    {
+        "Name": "Spicy turkey hot links, spicy",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 3.8,
+            "Carbs": 2.5,
+            "Calories": 125.0
+        }
+    },
+    {
+        "Name": "Chorizo salvadorean brand sausage, chorizo",
+        "Nutrients": {
+            "Protein": 17.5,
+            "Fat": 3.5,
+            "Carbs": 0.0,
+            "Calories": 101.5
+        }
+    },
+    {
+        "Name": "Sweet italian sausage meat, sweet italian sausage",
+        "Nutrients": {
+            "Protein": 21.4,
+            "Fat": 25.0,
+            "Carbs": 1.8,
+            "Calories": 317.8
+        }
+    },
+    {
+        "Name": "Skinless bratwurst",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 18.8,
+            "Carbs": 4.7,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Puerto rican style longaniza links, puerto rican style",
+        "Nutrients": {
+            "Protein": 15.8,
+            "Fat": 34.2,
+            "Carbs": 1.3,
+            "Calories": 376.2
+        }
+    },
+    {
+        "Name": "Cocktail beef franks wrapped in puff pastry, cocktail beef franks",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 20.0,
+            "Carbs": 21.2,
+            "Calories": 302.4
+        }
+    },
+    {
+        "Name": "Bratwurst ultimate plant-based saus'ge links, bratwurst",
+        "Nutrients": {
+            "Protein": 16.2,
+            "Fat": 10.1,
+            "Carbs": 8.1,
+            "Calories": 188.1
+        }
+    },
+    {
+        "Name": "Country recipe pork & turkey fully cooked sausage links, country recipe",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 27.8,
+            "Carbs": 1.9,
+            "Calories": 309.8
+        }
+    },
+    {
+        "Name": "Chicken sausage links, chicken",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 8.5,
+            "Carbs": 0.0,
+            "Calories": 144.1
+        }
+    },
+    {
+        "Name": "Crawfish boudin",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 8.9,
+            "Carbs": 17.9,
+            "Calories": 194.5
+        }
+    },
+    {
+        "Name": "Stadium cooked bratwurst",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 29.7,
+            "Carbs": 5.5,
+            "Calories": 333.3
+        }
+    },
+    {
+        "Name": "Smokey cheddar smoked sausage, smokey cheddar",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 28.6,
+            "Carbs": 5.5,
+            "Calories": 327.8
+        }
+    },
+    {
+        "Name": "Original sausage links, original",
+        "Nutrients": {
+            "Protein": 18.3,
+            "Fat": 25.0,
+            "Carbs": 1.7,
+            "Calories": 305.0
+        }
+    },
+    {
+        "Name": "Original pork sausage links, original pork",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 37.8,
+            "Carbs": 0.0,
+            "Calories": 384.6
+        }
+    },
+    {
+        "Name": "Spicy pork fully cooked sausage patties, spicy pork",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 40.0,
+            "Carbs": 0.0,
+            "Calories": 416.0
+        }
+    },
+    {
+        "Name": "Maple pork sausage patties, maple",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 36.0,
+            "Carbs": 6.0,
+            "Calories": 396.0
+        }
+    },
+    {
+        "Name": "Maple flavored chicken sausage links, maple",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 11.9,
+            "Carbs": 3.4,
+            "Calories": 188.3
+        }
+    },
+    {
+        "Name": "Maple flavored chicken sausage patties, maple",
+        "Nutrients": {
+            "Protein": 18.2,
+            "Fat": 12.1,
+            "Carbs": 3.0,
+            "Calories": 193.7
+        }
+    },
+    {
+        "Name": "Little sizzlers original pork sausage, little sizzlers original",
+        "Nutrients": {
+            "Protein": 15.1,
+            "Fat": 45.3,
+            "Carbs": 1.9,
+            "Calories": 475.7
+        }
+    },
+    {
+        "Name": "Uncured beer bratwurst, uncured beer",
+        "Nutrients": {
+            "Protein": 16.5,
+            "Fat": 17.6,
+            "Carbs": 1.2,
+            "Calories": 229.2
+        }
+    },
+    {
+        "Name": "Cumberland\" pork bangers, cumberland\"",
+        "Nutrients": {
+            "Protein": 17.1,
+            "Fat": 11.8,
+            "Carbs": 4.0,
+            "Calories": 190.6
+        }
+    },
+    {
+        "Name": "Pork italian organic sausage, pork",
+        "Nutrients": {
+            "Protein": 18.8,
+            "Fat": 20.0,
+            "Carbs": 1.2,
+            "Calories": 260.0
+        }
+    },
+    {
+        "Name": "Cocktail beef franks wrapped in puff pastry, cocktail beef",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 20.0,
+            "Carbs": 21.2,
+            "Calories": 302.4
+        }
+    },
+    {
+        "Name": "Italian premium cooked sausage topping, italian",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 23.2,
+            "Carbs": 3.6,
+            "Calories": 287.6
+        }
+    },
+    {
+        "Name": "Chorizo croquettes, chorizo",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 6.9,
+            "Carbs": 41.2,
+            "Calories": 262.1
+        }
+    },
+    {
+        "Name": "Franks in a blanket made with beef and pork, in a puff pastry, encrusted in parmesan topping, beef and pork",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 23.4,
+            "Carbs": 19.5,
+            "Calories": 335.4
+        }
+    },
+    {
+        "Name": "Italian made with shellfish (shrimp and scallops), salmon and white fish fillet, fennel and italian parsley seafood sausage, italian",
+        "Nutrients": {
+            "Protein": 15.3,
+            "Fat": 5.9,
+            "Carbs": 3.5,
+            "Calories": 128.3
+        }
+    },
+    {
+        "Name": "Pork sausage fully cooked maple links, pork sausage",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 28.9,
+            "Carbs": 4.4,
+            "Calories": 340.1
+        }
+    },
+    {
+        "Name": "Spicy pork sausage patties, spicy",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 40.0,
+            "Carbs": 0.0,
+            "Calories": 416.0
+        }
+    },
+    {
+        "Name": "Honey mustard pretzel crunch dogs, honey mustard",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 22.4,
+            "Carbs": 20.0,
+            "Calories": 314.4
+        }
+    },
+    {
+        "Name": "Hot dogs",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 32.1,
+            "Carbs": 5.4,
+            "Calories": 346.1
+        }
+    },
+    {
+        "Name": "Premium parve kishke",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 17.5,
+            "Carbs": 35.1,
+            "Calories": 319.1
+        }
+    },
+    {
+        "Name": "Chicken & apple breakfast sausage",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 11.9,
+            "Carbs": 5.1,
+            "Calories": 188.3
+        }
+    },
+    {
+        "Name": "Heat 'n serve original  sausage links",
+        "Nutrients": {
+            "Protein": 16.4,
+            "Fat": 34.5,
+            "Carbs": 3.6,
+            "Calories": 390.5
+        }
+    },
+    {
+        "Name": "Hot italian seafood sausage",
+        "Nutrients": {
+            "Protein": 17.6,
+            "Fat": 8.2,
+            "Carbs": 3.5,
+            "Calories": 158.2
+        }
+    },
+    {
+        "Name": "Southern blend country sausage patties, southern blend",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 37.8,
+            "Carbs": 0.0,
+            "Calories": 393.4
+        }
+    },
+    {
+        "Name": "Mild italian sausage slices, mild italian",
+        "Nutrients": {
+            "Protein": 16.1,
+            "Fat": 30.4,
+            "Carbs": 3.6,
+            "Calories": 352.4
+        }
+    }
+]

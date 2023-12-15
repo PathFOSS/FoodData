@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Hickory smoked bone-in turkey breast",
+        "Nutrients": {
+            "Protein": 20.2,
+            "Fat": 7.1,
+            "Carbs": 3.6,
+            "Calories": 159.1
+        }
+    },
+    {
+        "Name": "Fully cooked turkey taco filling",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 7.1,
+            "Carbs": 5.4,
+            "Calories": 142.7
+        }
+    }
+]

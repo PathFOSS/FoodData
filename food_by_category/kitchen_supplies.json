@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "Phyllo pastry sheets",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 2.0,
+            "Carbs": 62.0,
+            "Calories": 306.0
+        }
+    },
+    {
+        "Name": "Oven mitt & sugar cookie mix",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 0.0,
+            "Carbs": 89.3,
+            "Calories": 371.6
+        }
+    },
+    {
+        "Name": "Green bean almondine kit",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 2.9,
+            "Carbs": 9.4,
+            "Calories": 73.3
+        }
+    },
+    {
+        "Name": "Wilton, holiday time, cupcake decorating kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 90.9,
+            "Calories": 363.6
+        }
+    },
+    {
+        "Name": "Cupcake decorating kit",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 83.3,
+            "Calories": 333.2
+        }
+    }
+]
