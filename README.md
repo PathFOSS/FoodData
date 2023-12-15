@@ -6,7 +6,10 @@ Foods were categorized and stripped down to their macronutrients and calories on
 
 The initial data was ~3GB in .csv files, but was compressed into JSON format to improve readability and ability to import it to Android software. The size of all JSON files combined is now under 100MB.
 
-The names of categories were generated from the USDA's internal classifications. Most branded foods are foods include those primarily found in North America.
+The names of categories were generated from the USDA's internal classifications. Most branded foods are those primarily found in North America.
+
+
+#### Details
 
 Data updated: December 2023
 
