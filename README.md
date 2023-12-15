@@ -9,7 +9,7 @@ The initial data was ~3GB in .csv files, but was compressed into JSON format to 
 The names of categories were generated from the USDA's internal classifications. Most branded foods are those primarily found in North America.
 
 
-#### Details
+### Details
 
 Data updated: December 2023
 
