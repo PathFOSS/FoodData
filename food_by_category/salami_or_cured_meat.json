@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Rustico antipasto italiano 100g",
+        "Name": "Rustico antipasto italiano",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 20.8,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Hellers pepperoni salami 1kg",
+        "Name": "Hellers pepperoni salami",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 24.2,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Hellers italian salami 1kg",
+        "Name": "Hellers italian salami",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 25.1,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Verkerks pepperoni salami 100g",
+        "Name": "Verkerks pepperoni salami",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 18.1,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Verkerks 10 lunchbox salamis bbq 100g",
+        "Name": "Verkerks lunchbox salamis bbq",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 21.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Pieter's danish salami 2x50g",
+        "Name": "Pieters danish salami",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 14.4,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Pieter's dutch salami 2 x 50g",
+        "Name": "Pieters dutch salami",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 14.4,

@@ -1,0 +1,677 @@
+[
+    {
+        "Name": "Kashi waffles gluten free cinnamon",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 7.5,
+            "Carbs": 35.8,
+            "Calories": 227.1
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 7.9,
+            "Carbs": 39.1,
+            "Calories": 247.9
+        }
+    },
+    {
+        "Name": "Kashi waffles gluten free original",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 7.4,
+            "Carbs": 35.8,
+            "Calories": 226.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles buttermilk",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 8.7,
+            "Carbs": 40.0,
+            "Calories": 263.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.6,
+            "Carbs": 38.7,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles buttermilk",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 8.7,
+            "Carbs": 40.0,
+            "Calories": 263.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.6,
+            "Carbs": 38.7,
+            "Calories": 244.4
+        }
+    },
+    {
+        "Name": "Kelloggs eggo french toast original",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 5.7,
+            "Carbs": 42.8,
+            "Calories": 241.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes maple",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 6.9,
+            "Carbs": 41.2,
+            "Calories": 247.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles belgian",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 8.5,
+            "Carbs": 44.5,
+            "Calories": 279.7
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes blueberry",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 6.8,
+            "Carbs": 41.3,
+            "Calories": 246.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held bacon, egg & cheese",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 9.0,
+            "Carbs": 18.0,
+            "Calories": 199.8
+        }
+    },
+    {
+        "Name": "Kellogg special k bkfst h&held egg, sausage & white cheddar",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 10.0,
+            "Carbs": 17.0,
+            "Calories": 205.2
+        }
+    },
+    {
+        "Name": "Kellogg special k bkfst h&held egg, vegetables, & pepper jack",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 7.0,
+            "Carbs": 18.9,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held egg, sausage & white cheddar",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 10.0,
+            "Carbs": 17.0,
+            "Calories": 205.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held spinach egg cheese",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 7.1,
+            "Carbs": 22.5,
+            "Calories": 193.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held ham & cheese",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 9.2,
+            "Carbs": 6.6,
+            "Calories": 153.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held portabella & kale",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 8.1,
+            "Carbs": 8.0,
+            "Calories": 143.3
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held spinach egg cheese",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 7.1,
+            "Carbs": 22.5,
+            "Calories": 193.9
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles oats & berries mixed berry",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 8.7,
+            "Carbs": 44.1,
+            "Calories": 277.1
+        }
+    },
+    {
+        "Name": "Kelloggs eggo nutri-grain waffles eggo wheat",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes maple",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 8.1,
+            "Carbs": 40.9,
+            "Calories": 256.1
+        }
+    },
+    {
+        "Name": "Kellogg special k bkfst h&held egg, sausage & white cheddar",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 10.0,
+            "Carbs": 17.0,
+            "Calories": 205.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk minis",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.8,
+            "Carbs": 39.6,
+            "Calories": 250.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk minis",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.8,
+            "Carbs": 39.6,
+            "Calories": 250.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo nutri-grain waffles wheat",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kelloggs eggo nutri-grain waffles low-fat",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 3.8,
+            "Carbs": 39.1,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo nutri-grain waffles wheat",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 8.5,
+            "Carbs": 37.6,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held egg, vegetables, & pepper jack",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 7.0,
+            "Carbs": 18.9,
+            "Calories": 179.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held egg ham & pepper jack",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 6.3,
+            "Carbs": 18.8,
+            "Calories": 180.3
+        }
+    },
+    {
+        "Name": "Kashi waffles blueberry",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 6.8,
+            "Carbs": 34.3,
+            "Calories": 215.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held bacon, egg & cheese medleys",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 10.3,
+            "Carbs": 22.6,
+            "Calories": 230.7
+        }
+    },
+    {
+        "Name": "Kelloggs special k breakfast h&held sausage & pepper",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 12.6,
+            "Carbs": 6.3,
+            "Calories": 182.6
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles brown sugar cinnamon thick & fluffy",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 11.9,
+            "Carbs": 45.3,
+            "Calories": 306.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.1,
+            "Calories": 259.1
+        }
+    },
+    {
+        "Name": "Kellogg eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.1,
+            "Calories": 259.1
+        }
+    },
+    {
+        "Name": "Kellogg eggo savory bacon, egg & cheese medleys",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 11.9,
+            "Carbs": 24.3,
+            "Calories": 249.9
+        }
+    },
+    {
+        "Name": "Kellogg eggo waffles chocolatey chocolate chip",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 10.2,
+            "Carbs": 45.3,
+            "Calories": 297.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo french toast chocolate chip",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 6.5,
+            "Carbs": 40.7,
+            "Calories": 242.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes buttermilk",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.9,
+            "Carbs": 39.6,
+            "Calories": 249.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.1,
+            "Calories": 259.1
+        }
+    },
+    {
+        "Name": "Kellogg eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.1,
+            "Calories": 259.1
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.1,
+            "Calories": 259.1
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles original thick & fluffy",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 13.6,
+            "Carbs": 36.4,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles thick & fluffy original",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 13.6,
+            "Carbs": 36.4,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles cinnamon toast",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 6.9,
+            "Carbs": 46.5,
+            "Calories": 271.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles maple",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 6.7,
+            "Carbs": 46.9,
+            "Calories": 269.9
+        }
+    },
+    {
+        "Name": "Kellogg eggo waffles confetti cake",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 11.7,
+            "Carbs": 39.5,
+            "Calories": 284.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles cinnamon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 11.6,
+            "Carbs": 40.2,
+            "Calories": 287.6
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles cinnamon",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 11.6,
+            "Carbs": 40.2,
+            "Calories": 287.6
+        }
+    },
+    {
+        "Name": "Kashi waffles original",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 7.0,
+            "Carbs": 34.9,
+            "Calories": 220.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles rotational",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 4.6,
+            "Carbs": 44.5,
+            "Calories": 241.8
+        }
+    },
+    {
+        "Name": "Kelloggs eggo savory h&held sausage egg & cheese",
+        "Nutrients": {
+            "Protein": 10.9,
+            "Fat": 16.0,
+            "Carbs": 20.6,
+            "Calories": 270.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo savory h&held bacon, egg & cheese",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 10.8,
+            "Carbs": 24.5,
+            "Calories": 240.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles thick & fluffy pumpkin",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 11.9,
+            "Carbs": 40.1,
+            "Calories": 287.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles thick & fluffy pumpkin",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 11.9,
+            "Carbs": 40.1,
+            "Calories": 287.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles oats & berries blueberry",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 8.2,
+            "Carbs": 43.9,
+            "Calories": 272.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes galaxy adventure buttermilk",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.2,
+            "Carbs": 36.7,
+            "Calories": 189.0
+        }
+    },
+    {
+        "Name": "Kelloggs eggo pancakes galaxy adventure buttermilk",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.2,
+            "Carbs": 36.7,
+            "Calories": 189.0
+        }
+    },
+    {
+        "Name": "Kelloggs licensed frozen meals chorizo benedict",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 6.9,
+            "Carbs": 11.7,
+            "Calories": 132.9
+        }
+    },
+    {
+        "Name": "Kelloggs licensed frozen meals chorizo burrito",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 9.1,
+            "Carbs": 15.3,
+            "Calories": 168.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles mixed berry",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 11.7,
+            "Carbs": 39.6,
+            "Calories": 285.3
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles chocolatey chip banana",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 11.0,
+            "Carbs": 46.1,
+            "Calories": 305.4
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles homestyle",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 8.7,
+            "Carbs": 39.2,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles chocolatey chip banana",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 11.0,
+            "Carbs": 46.1,
+            "Calories": 305.4
+        }
+    },
+    {
+        "Name": "Kelloggs eggo french toast original",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 6.9,
+            "Carbs": 39.4,
+            "Calories": 240.5
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles choco-toast chocolatey chip",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 9.2,
+            "Carbs": 44.5,
+            "Calories": 280.4
+        }
+    },
+    {
+        "Name": "Kelloggs licensed frozen meals chicken chilaquiles",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 6.5,
+            "Carbs": 13.7,
+            "Calories": 143.3
+        }
+    },
+    {
+        "Name": "Kelloggs licensed frozen meals huevos rancheros",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 6.1,
+            "Carbs": 14.2,
+            "Calories": 137.3
+        }
+    },
+    {
+        "Name": "Kelloggs licensed frozen meals southwestern veggie",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 6.2,
+            "Carbs": 14.3,
+            "Calories": 134.2
+        }
+    },
+    {
+        "Name": "Kelloggs eggo waffles blueberry",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 8.6,
+            "Carbs": 41.3,
+            "Calories": 264.2
+        }
+    },
+    {
+        "Name": "Plsbry heat n go mini pancakes blbry",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 6.2,
+            "Carbs": 38.8,
+            "Calories": 226.2
+        }
+    },
+    {
+        "Name": "Plsbry heat n go mini pancakes maple burstn",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 6.2,
+            "Carbs": 38.8,
+            "Calories": 226.2
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen chocolate fudge stripe layer cake,",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 46.4,
+            "Calories": 366.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen rich golden layer cake,",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 18.8,
+            "Carbs": 44.9,
+            "Calories": 360.4
+        }
+    }
+]

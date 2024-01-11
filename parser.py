@@ -3,7 +3,7 @@
 # Requirement: Download & unzip into current folder "Full Download of All Data Types" at https://fdc.nal.usda.gov/download-datasets.html
 
 import pandas as pd
-import numpy as np
+import regex as re
 import json
 import os
 import sys
@@ -70,7 +70,7 @@ def stopThread(currentThread):
 
 # Export foods by category into JSON format
 def exportAsJSON (fileName, foodList):     
-        with open("./jsons_by_category/" + fileName, "w") as final:
+        with open("./food_by_category/" + fileName, "w") as final:
                 json.dump(foodList, final, indent=4)
 
 # Create a CSV file for foods and their macros
@@ -148,9 +148,12 @@ def createFinalDictionary():
         for category in categoricalDict.keys():
                 categoryCounter += 1
                 filePosition = 0
-                fileName = category.lower().strip().replace(" ", "_").replace("_-_", "_").replace("-", "_").replace("(", "_").replace(",", "_").replace(")", "_").replace("/", "_or_").replace("___", "_").replace("__", "_") + ".json"
 
-                if not overwrite and os.path.exists("./jsons_by_category/" + fileName):
+                fileName = category.lower()
+                fileName = fileName.replace("'", "").replace("-", " ").replace("(", " ").replace(")", " ").replace(",", " ").replace("/"," or ")
+                fileName = re.sub(r"\s+",'_', fileName.strip()) + ".json"
+
+                if not overwrite and os.path.exists("./food_by_category/" + fileName):
                         filePosition = lengthOfFile
                         messagerThread = startThread("Generating file for category: [ " + str(categoryCounter) + "/" + str(categoryNum) + " ]", True)
                         stopThread(messagerThread)
@@ -166,10 +169,26 @@ def createFinalDictionary():
                         for chunkDict in chunk.to_dict("records"):
                                 foodItem = {}
                                 name = comprehensiveDict.get(int(chunkDict["fdc_id"]))
-                                
+
                                 if name != None and isinstance(name, str) and name not in nameList and chunkDict["fdc_id"] in categoricalDict[category].get(str(chunkDict["fdc_id"])[0:4], []):
                                         nameList.append(name)
-                                        foodItem["Name"] = name.capitalize()
+
+                                        cleanName = name.lower().replace("+", "&").replace("and", "&").replace("'n", "&").replace("'", "").replace(";", "").replace("#", "").replace("|", "").replace("\"", "").replace(" / ", "").replace("100%% organic", "")
+                                        cleanName = ' '.join(s for s in cleanName.split() if any(c == "%" for c in s) or not any(c.isdigit() for c in s)) # Delete words with digits except when it ends with a percent sign
+                                        cleanName = re.sub(r"(\(.*\))|(\[.*\])", "", cleanName) # Delete bracketed items
+                                        cleanName = re.sub(r"\b(oz|g|lb|lbs|ml|fl|gal)\b", "", cleanName) # Delete units
+                                        cleanName = re.sub(r"\b(swn |iqf|x|vp|mpg|mbg|avg|servings|serving|pc|min|box|bag|cartons)\b", "", cleanName) # Delete random strings
+                                        cleanName = re.sub(r"\s+",' ', cleanName) # Delete extra space
+
+                                        split = cleanName.split(",")
+                                        lastWords = split[-1].strip()
+                                        firstWords = ",".join(split[0:len(split)-1])
+
+                                        if lastWords in firstWords:
+                                                cleanName = firstWords
+
+                                        cleanName = cleanName.replace(" . ", "").strip().capitalize()
+                                        foodItem["Name"] = cleanName
                                         foodItem2 = {}
 
                                         p = round(chunkDict[str(proteinID)], 1)
@@ -201,8 +220,8 @@ def main ():
         comprehensiveDict.update(foundationalDict)
         modifyDictionary()
 
-        if not os.path.exists("./jsons_by_category"):
-                os.mkdir("./jsons_by_category")
+        if not os.path.exists("./food_by_category"):
+                os.mkdir("./food_by_category")
         else:
                 confirmOverwrite = input("Overwrite old json files? [ Y/n ] ")
                 if confirmOverwrite.lower() == "n":

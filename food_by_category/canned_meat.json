@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Pork in bbq sauce, bbq",
+        "Name": "Pork in bbq sauce",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 20.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Original vienna sausage, original",
+        "Name": "Original vienna sausage",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 20.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Roast beef, roast",
+        "Name": "Roast beef",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 2.9,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Chunk chicken breast with rib meat, chicken breast",
+        "Name": "Chunk chicken breast with rib meat",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 1.8,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Deviled ham spread, deviled ham",
+        "Name": "Deviled ham spread",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausages, chicken",
+        "Name": "Chicken vienna sausages",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 17.5,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Beef in bbq sauce, bbq",
+        "Name": "Beef in bbq sauce",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 16.4,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Teriyaki premium white chicken in sauce, teriyaki",
+        "Name": "Teriyaki premium white chicken in sauce",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 3.4,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Luncheon loaf made with pork & chicken, pork & chicken",
+        "Name": "Luncheon loaf made with pork & chicken",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 23.2,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Original organic young jackfruit, original",
+        "Name": "Original organic young jackfruit",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Turkey luncheon loaf, turkey",
+        "Name": "Turkey luncheon loaf",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 14.3,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Luncheon meat made with pork & chicken, pork & chicken",
+        "Name": "Luncheon meat made with pork & chicken",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Pork pate mazowiecki pasztet, pork pate",
+        "Name": "Pork pate mazowiecki pasztet",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 35.7,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken in water, white chicken",
+        "Name": "Premium chunk white chicken in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Classic meat, classic",
+        "Name": "Classic meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Chicken breast extra lean white premium chunk with rib meat in water, chicken breast",
+        "Name": "Chicken breast extra lean white premium chunk with rib meat in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Ziyad, chicken and beef meat lunch",
+        "Name": "Ziyad, chicken & beef meat lunch",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 10.7,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "6 ham & cheese patties",
+        "Name": "Ham & cheese patties",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 30.4,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Carmela, chicken sausage and bouillon",
+        "Name": "Carmela, chicken sausage & bouillon",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 12.5,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Roundy's, premium chunk chicken breast in water",
+        "Name": "Roundys, premium chunk chicken breast in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Roundy's, chicken breast, premium chunk, in water",
+        "Name": "Roundys, chicken breast, premium chunk, in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Roundy's, luncheon meat",
+        "Name": "Roundys, luncheon meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Hormel, 6 ham patties",
+        "Name": "Hormel, ham patties",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Bristol brand, bacon grill, luncheon loaf",
+        "Name": "Bristol br&, bacon grill, luncheon loaf",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 14.3,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Hargis house, luncheon meat made with pork and chicken",
+        "Name": "Hargis house, luncheon meat made with pork & chicken",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Roast beef and gravy",
+        "Name": "Roast beef & gravy",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 2.0,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Bristol brand, pork cocktail sausages",
+        "Name": "Bristol br&, pork cocktail sausages",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 17.9,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Snow's, premium chunk white chicken",
+        "Name": "Snows, premium chunk white chicken",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Bloemer's, shredded beef with barbecue sauce",
+        "Name": "Bloemers, shredded beef with barbecue sauce",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 5.6,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Crown brand, corned beef with natural juices",
+        "Name": "Crown br&, corned beef with natural juices",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 17.9,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Cole's pate, spicy tuna pate",
+        "Name": "Coles pate, spicy tuna pate",
         "Nutrients": {
             "Protein": 21.0,
             "Fat": 11.0,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Trader joe's, uncured bacon jam, bacon",
+        "Name": "Trader joes, uncured bacon jam",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Trader joe's, premium chunk white chicken in water",
+        "Name": "Trader joes, premium chunk white chicken in water",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 2.1,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Giovanni's, goose pate with port wine",
+        "Name": "Giovannis, goose pate with port wine",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 14.3,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Giovanni's, lobster pate with cognac",
+        "Name": "Giovannis, lobster pate with cognac",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 19.6,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Giovanni's, mushroom pate with marsala wine",
+        "Name": "Giovannis, mushroom pate with marsala wine",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 19.6,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Ml, luncheon meat",
+        "Name": ", luncheon meat",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 14.3,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Richin brand, luncheon meat",
+        "Name": "Richin br&, luncheon meat",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 21.4,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Armour, sandwich creations, pulled pork in bbq sauce",
+        "Name": "Armour, s&wich creations, pulled pork in bbq sauce",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.5,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Nalley, sandwich creations, shredded chicken in taco sauce",
+        "Name": "Nalley, s&wich creations, shredded chicken in taco sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 3.2,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Armour, sandwich creations, shredded chicken, buffalo sauce",
+        "Name": "Armour, s&wich creations, shredded chicken, buffalo sauce",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.2,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Nalley, sandwich creations, shredded chicken in buffalo sauce",
+        "Name": "Nalley, s&wich creations, shredded chicken in buffalo sauce",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.2,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Great value, chunk white chicken with sun dried tomato and herb sauce",
+        "Name": "Great value, chunk white chicken with sun dried tomato & herb sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 2.7,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "Heartland spiced luncheon loaf",
+        "Name": "Heartl& spiced luncheon loaf",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 25.0,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Roundy's, chicken breast",
+        "Name": "Roundys, chicken breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "Morey's, smoked salmon spread",
+        "Name": "Moreys, smoked salmon spread",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 29.6,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Raley's, premium white chunk chicken breast",
+        "Name": "Raleys, premium white chunk chicken breast",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Bristol brand, fitting lifestyle chopped ham",
+        "Name": "Bristol br&, fitting lifestyle chopped ham",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 26.8,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Brookshire's, pork luncheon meat",
+        "Name": "Brookshires, pork luncheon meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Pork and gelatin tuszonka",
+        "Name": "Pork & gelatin tuszonka",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 39.3,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Cured pork and pork skin loaf water and binder",
+        "Name": "Cured pork & pork skin loaf water & binder",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken and gravy",
+        "Name": "Premium chunk white chicken & gravy",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 2.4,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Mezcla sandwich spread with jamonilla",
+        "Name": "Mezcla s&wich spread with jamonilla",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 16.1,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Sara lee, virginia brand, premium meats",
+        "Name": "Sara lee, virginia br&, premium meats",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 3.2,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "Snow's, white chicken in water",
+        "Name": "Snows, white chicken in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Vincenza's uncured rustic pork country pate",
+        "Name": "Vincenzas uncured rustic pork country pate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 50.0,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Alexian pate & specialty meats, truffle mouse, pork, turkey liver and chicken live mousse",
+        "Name": "Alexian pate & specialty meats, truffle mouse, pork, turkey liver & chicken live mousse",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 48.2,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Pork and cheese spread",
+        "Name": "Pork & cheese spread",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.5,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "97% fat free white and dark chunk chicken in water",
+        "Name": "97% fat free white & dark chunk chicken in water",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 3.0,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Chicken breast meat with rib meat in buffalo style sauce, buffalo style",
+        "Name": "Chicken breast meat with rib meat in buffalo style sauce",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 3.0,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Pork in bbq sauce, pork",
+        "Name": "Pork in bbq sauce",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 20.0,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Corned beef, beef",
+        "Name": "Corned beef",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 13.1,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Hickory smoke flavored canned cooked meat, hickory smoke",
+        "Name": "Hickory smoke flavored canned cooked meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Spam with cheese, cheese",
+        "Name": "Spam with cheese",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 26.8,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken breast in water, white chicken breast",
+        "Name": "Premium chunk white chicken breast in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in water, white chicken",
+        "Name": "Chunk white chicken in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Smoked sausages, smoked",
+        "Name": "Smoked sausages",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 16.7,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken breast with rib meat in water, chicken",
+        "Name": "Chunk white chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken breast, chunk white",
+        "Name": "Chunk white chicken breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Roast beef with gravy, roast beef",
+        "Name": "Roast beef with gravy",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 2.0,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Smoked sausage, smoked",
+        "Name": "Smoked sausage",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 16.1,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Shredded chicken in bbq sauce, shredded chicken",
+        "Name": "Shredded chicken in bbq sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 2.8,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Nalley, sandwich creations, pulled pork in bbq sauce",
+        "Name": "Nalley, s&wich creations, pulled pork in bbq sauce",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.5,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Armour, sandwich creations, shredded chicken in taco sauce",
+        "Name": "Armour, s&wich creations, shredded chicken in taco sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 3.2,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Armour, sandwich creations, shredded chicken in buffalo sauce",
+        "Name": "Armour, s&wich creations, shredded chicken in buffalo sauce",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.2,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Nalley, luncheon meat, pork, pork",
+        "Name": "Nalley, luncheon meat, pork",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 26.8,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "Armour, potted meat, barbecue, barbecue",
+        "Name": "Armour, potted meat, barbecue",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 15.3,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Potted meat made with chicken-pork added, chicken-pork",
+        "Name": "Potted meat made with chicken-pork added",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 25.8,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Ham spread deviled, ham",
+        "Name": "Ham spread deviled",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.0,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Chunk white fully cooked 98% fat free chicken breast with rib meat in water, chunk white",
+        "Name": "Chunk white fully cooked 98% fat free chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Premium chicken breast in water with rib meat, chicken breast",
+        "Name": "Premium chicken breast in water with rib meat",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Chunk white turkey in water, chunk white",
+        "Name": "Chunk white turkey in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Hickory smoke ham spread, hickory smoke",
+        "Name": "Hickory smoke ham spread",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 18.8,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Spam with chorizo seasoning, chorizo",
+        "Name": "Spam with chorizo seasoning",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey, oven roasted",
+        "Name": "Oven roasted turkey",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 8.0,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "White and dark chunk chicken in water, chicken",
+        "Name": "White & dark chunk chicken in water",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 3.0,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Corned beef hash, corned beef",
+        "Name": "Corned beef hash",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 10.2,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken breast with rib meat in water, chunk white chicken",
+        "Name": "Chunk white chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Fully cooked roast beef with gravy, roast beef",
+        "Name": "Fully cooked roast beef with gravy",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 2.3,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Applewood smoke flavor added chicken breast meat with rib meat in water, applewood smoke",
+        "Name": "Applewood smoke flavor added chicken breast meat with rib meat in water",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 1.8,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Vienna sausage made with chicken & pork in meat broth, chicken & pork",
+        "Name": "Vienna sausage made with chicken & pork in meat broth",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 23.2,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Chicken luncheon loaf, chicken",
+        "Name": "Chicken luncheon loaf",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 17.9,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Corned beef, corned",
+        "Name": "Corned beef",
         "Nutrients": {
             "Protein": 26.8,
             "Fat": 12.5,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "White chunk chicken in buffalo style sauce, buffalo style",
+        "Name": "White chunk chicken in buffalo style sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 2.7,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "Chicken bologna, chicken",
+        "Name": "Chicken bologna",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 16.1,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Classic bbq premium white chicken in sauce, classic bbq",
+        "Name": "Classic bbq premium white chicken in sauce",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 4.7,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "All natural ground beef, beef",
+        "Name": "All natural ground beef",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken in lemon pepper sauce, chunk white chicken",
+        "Name": "Premium chunk white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 1.1,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in fajita flavored sauce, white chicken",
+        "Name": "Premium white chicken in fajita flavored sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.7,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in lemon pepper sauce, premium white chicken",
+        "Name": "Premium white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.0,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Premium white chicken chunk in water, white chicken",
+        "Name": "Premium white chicken chunk in water",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Chicken sausage in chicken broth, chicken sausage",
+        "Name": "Chicken sausage in chicken broth",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 7.0,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Pork shank meat, pork",
+        "Name": "Pork shank meat",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast with rib meat in buffalo sauce, chicken breast with rib meat",
+        "Name": "Premium chunk chicken breast with rib meat in buffalo sauce",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "With cheese, cheese",
+        "Name": "With cheese",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 26.8,
@@ -4626,7 +4626,7 @@
         }
     },
     {
-        "Name": "Chicken breast with rib meat chunk in water, chicken breast",
+        "Name": "Chicken breast with rib meat chunk in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Chunked & ground ham, smoke, smoke",
+        "Name": "Chunked & ground ham, smoke",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 8.9,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Lite luncheon meat made with pork & chicken, pork & chicken",
+        "Name": "Lite luncheon meat made with pork & chicken",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 14.3,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Bacon flavored luncheon meat, bacon",
+        "Name": "Bacon flavored luncheon meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 30.4,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "No salt added roasted chicken breast, roasted chicken",
+        "Name": "No salt added roasted chicken breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Chicken breast meat with rib meat, chicken",
+        "Name": "Chicken breast meat with rib meat",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 1.8,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in barbeque sauce, chunk white chicken",
+        "Name": "Chunk white chicken in barbeque sauce",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 1.1,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in buffalo-style sauce, chunk white chicken",
+        "Name": "Chunk white chicken in buffalo-style sauce",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 0.0,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Chicken breast premium chunk with rib meat in teriyaki sauce, chicken breast",
+        "Name": "Chicken breast premium chunk with rib meat in teriyaki sauce",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "98% fat free white chicken premium chunk in water, white chicken",
+        "Name": "98% fat free white chicken premium chunk in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausage, chicken",
+        "Name": "Chicken vienna sausage",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 16.7,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "98% fat free premium chicken breast, chicken",
+        "Name": "98% fat free premium chicken breast",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.8,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Classic ham, classic",
+        "Name": "Classic ham",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Spiced luncheon loaf, spiced",
+        "Name": "Spiced luncheon loaf",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 18.8,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Classic canned cooked meat, classic",
+        "Name": "Classic canned cooked meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Hot & spicy canned meat, hot & spicy",
+        "Name": "Hot & spicy canned meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 25.0,
@@ -4842,7 +4842,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken breast in water, chunk white chicken breast",
+        "Name": "Premium chunk white chicken breast in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast meat with rib meat in water, chicken breast meat with rib meat",
+        "Name": "Premium chunk chicken breast meat with rib meat in water",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 1.8,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Pork & chicken liver pate with mushrooms, pork & chicken liver",
+        "Name": "Pork & chicken liver pate with mushrooms",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 19.6,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Luncheon meat in natural juices, luncheon",
+        "Name": "Luncheon meat in natural juices",
         "Nutrients": {
             "Protein": 17.5,
             "Fat": 19.6,
@@ -4878,7 +4878,7 @@
         }
     },
     {
-        "Name": "Village pate with mushrooms, mushrooms",
+        "Name": "Village pate with mushrooms",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 12.5,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Hot & spicy chicken vienna sausages in chicken broth, hot & spicy, chicken",
+        "Name": "Hot & spicy chicken vienna sausages in chicken broth, hot & spicy",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 16.7,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Premium white chunk chicken breast meat with rib meat in water, premium white chunk chicken breast meat",
+        "Name": "Premium white chunk chicken breast meat with rib meat in water",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 1.8,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Premium chicken breast with rib meat chunk in water, chicken breast",
+        "Name": "Premium chicken breast with rib meat chunk in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausage in chicken broth, chicken",
+        "Name": "Chicken vienna sausage in chicken broth",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 15.9,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Organic roasted chicken breast, roasted chicken",
+        "Name": "Organic roasted chicken breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Corned beef spread, corned beef",
+        "Name": "Corned beef spread",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 16.7,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "White & dark turkey in water, white & dark turkey",
+        "Name": "White & dark turkey in water",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 2.7,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Vienna sausage, vienna",
+        "Name": "Vienna sausage",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 21.7,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Classic sliced spam, classic",
+        "Name": "Classic sliced spam",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "98% fat free chicken breast with rib meat chunk in water, chicken breast",
+        "Name": "98% fat free chicken breast with rib meat chunk in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken in buffalo style sauce, buffalo style sauce",
+        "Name": "Premium chunk white chicken in buffalo style sauce",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 1.1,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Chicken luncheon meat, chicken",
+        "Name": "Chicken luncheon meat",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 17.9,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Luncheon meat, luncheon",
+        "Name": "Luncheon meat",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 25.0,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Chicken pt, chicken",
+        "Name": "Chicken pt",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 24.0,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast with rib meat in buffalo sauce, buffalo sauce",
+        "Name": "Premium chunk chicken breast with rib meat in buffalo sauce",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Original luncheon meat, original",
+        "Name": "Original luncheon meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Vienna sausage in chicken broth, chicken",
+        "Name": "Vienna sausage in chicken broth",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 13.1,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in barbeque sauce, barbeque",
+        "Name": "Chunk white chicken in barbeque sauce",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 1.1,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in buffalo-style sauce, buffalo-style",
+        "Name": "Chunk white chicken in buffalo-style sauce",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 0.0,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast with rib meat in teriyaki sauce, teriyaki sauce",
+        "Name": "Premium chunk chicken breast with rib meat in teriyaki sauce",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Chicken fully cooked in broth, chicken",
+        "Name": "Chicken fully cooked in broth",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.8,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast in water, chicken breast",
+        "Name": "Premium chunk chicken breast in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast meat with rib meat in water, premium chunk",
+        "Name": "Premium chunk chicken breast meat with rib meat in water",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 1.8,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Chicken breast with rib meat chunk in water, chicken",
+        "Name": "Chicken breast with rib meat chunk in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Chicken 98% fat free premium breast, chicken",
+        "Name": "Chicken 98% fat free premium breast",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.8,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Shredded chicken breast meat, chicken",
+        "Name": "Shredded chicken breast meat",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Chickn & rice soup, chickn & rice",
+        "Name": "Chickn & rice soup",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.9,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "Vienna sausage in chicken broth, chicken broth",
+        "Name": "Vienna sausage in chicken broth",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 16.7,
@@ -5283,7 +5283,7 @@
         }
     },
     {
-        "Name": "Carmela, chicken sausage in chicken broth, smoke, smoke",
+        "Name": "Carmela, chicken sausage in chicken broth, smoke",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 8.3,
@@ -5292,7 +5292,7 @@
         }
     },
     {
-        "Name": "Pulled pork & barbecue sauce, pulled pork & barbecue",
+        "Name": "Pulled pork & barbecue sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 7.1,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Old wisconsin, spreadable pate, original, original",
+        "Name": "Old wisconsin, spreadable pate, original",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 32.1,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Trader joe's, uncured bacon jam, bacon, bacon",
+        "Name": "Trader joes, uncured bacon jam, bacon",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -5337,7 +5337,7 @@
         }
     },
     {
-        "Name": "Smoked vienna sausage, smoked",
+        "Name": "Smoked vienna sausage",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 16.7,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in lemon pepper sauce, lemon pepper sauce",
+        "Name": "Chunk white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Roast beef in beef broth, beef broth",
+        "Name": "Roast beef in beef broth",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 2.9,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken with sun dried tomato and herb sauce, sun dried tomato and herb sauce",
+        "Name": "Chunk white chicken with sun dried tomato & herb sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 2.7,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in water with applewood smoke, applewood smoke",
+        "Name": "Chunk white chicken in water with applewood smoke",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Chunk white turkey in water, water",
+        "Name": "Chunk white turkey in water",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 1.8,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Chunk chicken breast with rib meat in water, water",
+        "Name": "Chunk chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken in fajita flavored sauce, fajita flavored sauce",
+        "Name": "Chunk white chicken in fajita flavored sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 2.7,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Shahia, luncheon loaf, chicken & beef, chicken & beef",
+        "Name": "Shahia, luncheon loaf, chicken & beef",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 10.7,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Original luncheon loaf with chicken & pork, original",
+        "Name": "Original luncheon loaf with chicken & pork",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 20.0,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken breast with rib meat in water, chunk white",
+        "Name": "Chunk white chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Vienna sausage in chicken broth, vienna sausage",
+        "Name": "Vienna sausage in chicken broth",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 13.1,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken breast with rib meat in water, chunk white chicken breast",
+        "Name": "Chunk white chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "No salt added organic roasted chicken breast, roasted chicken",
+        "Name": "No salt added organic roasted chicken breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Barbecue flavored vienna sausage, barbecue",
+        "Name": "Barbecue flavored vienna sausage",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 13.3,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Lite 50% less fat luncheon loaf with chicken & pork, lite 50% less fat",
+        "Name": "Lite 50% less fat luncheon loaf with chicken & pork",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 12.7,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Pork premium luncheon meat, pork",
+        "Name": "Pork premium luncheon meat",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 27.3,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Pulled pork in bbq sauce, bbq sauce",
+        "Name": "Pulled pork in bbq sauce",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 8.1,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Cod liver pate, cod liver",
+        "Name": "Cod liver pate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 55.4,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Corned beef with natural juices, corned beef",
+        "Name": "Corned beef with natural juices",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 14.3,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Premium shredded white chicken in buffalo style sauce, buffalo style sauce",
+        "Name": "Premium shredded white chicken in buffalo style sauce",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 2.7,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Bold buffalo style premium white chicken in sauce, bold",
+        "Name": "Bold buffalo style premium white chicken in sauce",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 5.5,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Chicken liver pate, chicken",
+        "Name": "Chicken liver pate",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 19.6,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Pork luncheon meat, pork",
+        "Name": "Pork luncheon meat",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 23.2,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Smoke flavoring added cooked ham, smoke",
+        "Name": "Smoke flavoring added cooked ham",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 12.5,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Barbecue flavored barbecue sauce, hickory smoke flavor added and sliced vienna sausages made with chicken beef & pork added, barbecue",
+        "Name": "Barbecue flavored barbecue sauce, hickory smoke flavor added & sliced vienna sausages made with chicken beef & pork added",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 8.3,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Original vienna bites, original",
+        "Name": "Original vienna bites",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 7.8,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Mousse au poulet organic pork free chicken liver & pepper mousse, mousse au poulet",
+        "Name": "Mousse au poulet organic pork free chicken liver & pepper mousse",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 14.3,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "White chicken & barbeque sauce ",
+        "Name": "White chicken & barbeque sauce",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 4.5,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Original treet luncheon loaf with chicken & pork, original treet",
+        "Name": "Original treet luncheon loaf with chicken & pork",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 20.0,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Chicken breast with rib meat in water, chicken",
+        "Name": "Chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "95% fat free dried beef, 95% fat free",
+        "Name": "95% fat free dried beef",
         "Nutrients": {
             "Protein": 26.7,
             "Fat": 5.0,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Chipotle flavored sauce vienna sausage, chipotle",
+        "Name": "Chipotle flavored sauce vienna sausage",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 13.3,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Chicken vienna bites, chicken",
+        "Name": "Chicken vienna bites",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 16.0,
@@ -5715,7 +5715,7 @@
         }
     },
     {
-        "Name": "Smoked thin sliced ham, smoked",
+        "Name": "Smoked thin sliced ham",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 2.7,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Shredded chicken in bbq sauce, bbq sauce",
+        "Name": "Shredded chicken in bbq sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 2.8,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Shredded chicken in taco sauce, taco sauce",
+        "Name": "Shredded chicken in taco sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 3.2,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Shredded chicken in buffalo sauce, buffalo sauce",
+        "Name": "Shredded chicken in buffalo sauce",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.2,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Hot & spicy vienna sausage, hot & spicy",
+        "Name": "Hot & spicy vienna sausage",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 13.3,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Roast beef with gravy, gravy",
+        "Name": "Roast beef with gravy",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 2.3,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Reduced fat vienna sausage, reduced fat",
+        "Name": "Reduced fat vienna sausage",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 10.0,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Barbecue flavored potted meat, barbecue",
+        "Name": "Barbecue flavored potted meat",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 15.3,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Lite luncheon meat, lite",
+        "Name": "Lite luncheon meat",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 14.3,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken meat in buffalo style sauce, buffalo style sauce",
+        "Name": "Chunk white chicken meat in buffalo style sauce",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 2.9,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Beef meatballs in beef broth, beef meatballs",
+        "Name": "Beef meatballs in beef broth",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.4,
@@ -5823,7 +5823,7 @@
         }
     },
     {
-        "Name": "Hot & spicy treet luncheon loaf with chicken & pork, hot & spicy treet",
+        "Name": "Hot & spicy treet luncheon loaf with chicken & pork",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 19.6,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Lite 50% less fat treet luncheon loaf with chicken & pork, lite 50% less fat treet",
+        "Name": "Lite 50% less fat treet luncheon loaf with chicken & pork",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 14.3,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Premium white chicken with applewood smoke, applewood smoke",
+        "Name": "Premium white chicken with applewood smoke",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.0,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in fajita flavored sauce, fajita flavored sauce",
+        "Name": "Premium white chicken in fajita flavored sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.7,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in lemon pepper sauce, lemon pepper sauce",
+        "Name": "Premium white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.0,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Reduced sodium vienna sausage, reduced sodium",
+        "Name": "Reduced sodium vienna sausage",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.0,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Barbecue flavored vienna bites, barbecue",
+        "Name": "Barbecue flavored vienna bites",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 8.3,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Pate with truffles, truffles",
+        "Name": "Pate with truffles",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 30.4,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Smoke flavor chicken sausage in chicken broth, smoke flavor chicken",
+        "Name": "Smoke flavor chicken sausage in chicken broth",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 11.6,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Traditions nutmeat, traditions",
+        "Name": "Traditions nutmeat",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 9.4,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Bacon grill luncheon loaf, bacon grill",
+        "Name": "Bacon grill luncheon loaf",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 14.3,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Pork cocktail sausages, pork cocktail",
+        "Name": "Pork cocktail sausages",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 17.9,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Original luncheon loaf, original",
+        "Name": "Original luncheon loaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 21.4,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "Low sodium chunk chicken breast with rib meat in water, water",
+        "Name": "Low sodium chunk chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Hormel, chicken breast with rib meat in broth, fire roasted, fire roasted",
+        "Name": "Hormel, chicken breast with rib meat in broth, fire roasted",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.8,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Beef cubes, beef",
+        "Name": "Beef cubes",
         "Nutrients": {
             "Protein": 25.4,
             "Fat": 20.0,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Truffle pork, turkey liver and chicken liver mousse, truffle",
+        "Name": "Truffle pork, turkey liver & chicken liver mousse",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 48.2,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Beef luncheon meat, beef",
+        "Name": "Beef luncheon meat",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 14.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Classic luncheon loaf, classic",
+        "Name": "Classic luncheon loaf",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 19.6,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken, white chicken",
+        "Name": "Premium chunk white chicken",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Chunk white chicken meat in water, in water",
+        "Name": "Chunk white chicken meat in water",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 1.8,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Luncheon meat made with pork, pork",
+        "Name": "Luncheon meat made with pork",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 28.6,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Fajita flavored premium white chicken sauce, fajita",
+        "Name": "Fajita flavored premium white chicken sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.7,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Premium white chicken sauce in lemon pepper, lemon pepper",
+        "Name": "Premium white chicken sauce in lemon pepper",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.0,
@@ -6102,7 +6102,7 @@
         }
     },
     {
-        "Name": "Potted meat snack kit with crackers, crackers",
+        "Name": "Potted meat snack kit with crackers",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 22.7,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Original premium white chicken, original",
+        "Name": "Original premium white chicken",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.7,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Village pork pate with forest mushrooms, forest mushrooms",
+        "Name": "Village pork pate with forest mushrooms",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 19.6,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Hearty homestyle corned beef hash, hearty homestyle",
+        "Name": "Hearty homestyle corned beef hash",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 10.6,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Shredded white chicken in sweet & spicy sauce, sweet & spicy",
+        "Name": "Shredded white chicken in sweet & spicy sauce",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Shur saving, vienna sausage, chicken broth, chicken broth",
+        "Name": "Shur saving, vienna sausage, chicken broth",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 16.7,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in ginger soy sauce, ginger soy",
+        "Name": "Premium white chicken in ginger soy sauce",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 4.0,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken breast in water, white",
+        "Name": "Premium chunk white chicken breast in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Premium chunk white chicken in lemon pepper sauce, lemon pepper sauce",
+        "Name": "Premium chunk white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 1.1,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Premium white chicken salad, white chicken",
+        "Name": "Premium white chicken salad",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 2.3,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Smoked salmon spread, smoked salmon",
+        "Name": "Smoked salmon spread",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 43.6,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Chunk ham, chunk",
+        "Name": "Chunk ham",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 10.7,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Chunk chicken breast with rib meat in water, chunk",
+        "Name": "Chunk chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausages in chicken broth, chicken broth",
+        "Name": "Chicken vienna sausages in chicken broth",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 12.3,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausages in chicken broth, chicken",
+        "Name": "Chicken vienna sausages in chicken broth",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 16.7,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Chunk white premium chicken in water, chunk white",
+        "Name": "Chunk white premium chicken in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Vienna sausage made with chicken, beef and pork added in chicken broth",
+        "Name": "Vienna sausage made with chicken, beef & pork added in chicken broth",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.0,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Oregon growers, fruit pate, quince, quince",
+        "Name": "Oregon growers, fruit pate, quince",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Jalapeno vienna sausage, jalapeno",
+        "Name": "Jalapeno vienna sausage",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 15.0,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Chicken salad chicken creations, chicken salad",
+        "Name": "Chicken salad chicken creations",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 2.3,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Onion corned beef, onion corned",
+        "Name": "Onion corned beef",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 17.9,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "25% less sodium corned beef, 25% less sodium corned",
+        "Name": "25% less sodium corned beef",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 14.3,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Teriyaki chicken creations, teriyaki",
+        "Name": "Teriyaki chicken creations",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 3.4,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Premium white chicken, premium white",
+        "Name": "Premium white chicken",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 2.7,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Smoked salmon, smoked",
+        "Name": "Smoked salmon",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Smoked whitefish pate, smoked whitefish",
+        "Name": "Smoked whitefish pate",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 35.7,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Original chunky style cored beef, original chunky style",
+        "Name": "Original chunky style cored beef",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 19.6,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Onion corned beef with juices, onion",
+        "Name": "Onion corned beef with juices",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 17.9,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Pork, turkey liver and chicken liver truffle mousse",
+        "Name": "Pork, turkey liver & chicken liver truffle mousse",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 48.2,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Alexian duck liver and pork mousse with cognac, 5 oz",
+        "Name": "Alexian duck liver & pork mousse with cognac",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 44.6,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Alexian pt de campagne, 5 oz",
+        "Name": "Alexian pt de campagne",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 44.6,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Bold buffalo style chicken creations, bold buffalo style",
+        "Name": "Bold buffalo style chicken creations",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 5.5,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Bacon jam, bacon",
+        "Name": "Bacon jam",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 12.5,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Roast beef with gravy, roast",
+        "Name": "Roast beef with gravy",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 2.3,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Organic premium chunk chicken breast with rib meat in water, chicken",
+        "Name": "Organic premium chunk chicken breast with rib meat in water",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.1,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausages in chicken broth, chicken vienna",
+        "Name": "Chicken vienna sausages in chicken broth",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 12.3,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Premium chunk chicken breast in water, premium chunk",
+        "Name": "Premium chunk chicken breast in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Zesty lemon pepper chicken creations, zesty lemon pepper",
+        "Name": "Zesty lemon pepper chicken creations",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 2.7,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Ginger soy chicken creations, ginger soy",
+        "Name": "Ginger soy chicken creations",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 4.0,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "25% less sodium luncheon loaf, 25% less sodium",
+        "Name": "25% less sodium luncheon loaf",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 23.2,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Shredded chicken breast meat with rib meat in water, shredded",
+        "Name": "Shredded chicken breast meat with rib meat in water",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 1.8,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Premium chicken breast meat in water, water",
+        "Name": "Premium chicken breast meat in water",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 2.4,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Chicken spread, chicken",
+        "Name": "Chicken spread",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 25.0,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Pork & chicken liver pate with chestnuts & raisins topped with aspic wild board pate, pork & chicken liver pate with chestnuts & raisins topped with aspic",
+        "Name": "Pork & chicken liver pate with chestnuts & raisins topped with aspic wild board pate",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 26.8,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Chipotle salmon spread, chipotle",
+        "Name": "Chipotle salmon spread",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 12.9,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "25% less sodium luncheon meat, 25% less sodium",
+        "Name": "25% less sodium luncheon meat",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 28.6,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Pulled pork in bbq sauce, bbq",
+        "Name": "Pulled pork in bbq sauce",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Goya potted meat, 3 oz",
+        "Name": "Goya potted meat",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 25.9,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Goya potted meat, 5.5 oz",
+        "Name": "Goya potted meat",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 25.8,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Chopped in natural juices pork and pork skin",
+        "Name": "Chopped in natural juices pork & pork skin",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 10.7,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Luncheon meat pork & chicken, luncheon meat",
+        "Name": "Luncheon meat pork & chicken",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Podravka liver pt, 3.3 oz",
+        "Name": "Podravka liver pt",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 28.8,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Spiced luncheon loaf made with chicken & pork, spiced luncheon",
+        "Name": "Spiced luncheon loaf made with chicken & pork",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Pork luncheon patty loaf, pork luncheon",
+        "Name": "Pork luncheon patty loaf",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 16.1,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Chicken vienna sausage in broth, chicken",
+        "Name": "Chicken vienna sausage in broth",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 16.7,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Barbecue vienna sausage, barbecue",
+        "Name": "Barbecue vienna sausage",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 13.3,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in fajita flavored sauce, fajita",
+        "Name": "Premium white chicken in fajita flavored sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.7,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Premium white chicken with applewood smoke flavor, applewood",
+        "Name": "Premium white chicken with applewood smoke flavor",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.7,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Premium white chicken in lemon pepper sauce, lemon pepper",
+        "Name": "Premium white chicken in lemon pepper sauce",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.0,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Original chunky style corned beef, original chunky style",
+        "Name": "Original chunky style corned beef",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 19.6,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Cubed beef with beef broth, beef broth",
+        "Name": "Cubed beef with beef broth",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 6.0,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Chili & garlic conred beef with juices, chili & garlic",
+        "Name": "Chili & garlic conred beef with juices",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 17.9,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Vegetarian hot dogs super-links, vegetarian",
+        "Name": "Vegetarian hot dogs super-links",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 16.7,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Chicken & beef luncheon loaf, chicken & beef luncheon",
+        "Name": "Chicken & beef luncheon loaf",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 10.7,

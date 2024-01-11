@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Orville kettle korn classic",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 34.2,
+            "Carbs": 51.3,
+            "Calories": 513.0
+        }
+    },
+    {
+        "Name": "Orville redenbachers smart pop popcorn",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 4.5,
+            "Carbs": 69.7,
+            "Calories": 355.7
+        }
+    },
+    {
+        "Name": "Orville redenbachers caramel popcorn",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 21.1,
+            "Carbs": 68.4,
+            "Calories": 473.9
+        }
+    },
+    {
+        "Name": "Orville redenbachers skinny girl popcorn",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.1,
+            "Carbs": 65.9,
+            "Calories": 418.9
+        }
+    },
+    {
+        "Name": "Orville redenbachers kettle korn popcorn",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 24.4,
+            "Carbs": 60.0,
+            "Calories": 495.2
+        }
+    },
+    {
+        "Name": "Orville redenbachers mini smart pop butter popcorn",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 6.1,
+            "Carbs": 66.7,
+            "Calories": 358.1
+        }
+    },
+    {
+        "Name": "Orville redenbachers butter popcorn",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 32.9,
+            "Carbs": 49.4,
+            "Calories": 522.1
+        }
+    },
+    {
+        "Name": "Annies popcorn white chdr",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 46.4,
+            "Carbs": 42.9,
+            "Calories": 632.0
+        }
+    }
+]

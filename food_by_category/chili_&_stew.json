@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Menudo beef tripe and hominy stew, menudo",
+        "Name": "Menudo beef tripe & hominy stew",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 2.8,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato and meat sauce, mini beef ravioli",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "7 spice homestyle chili starter, 7 spice homestyle",
+        "Name": "Spice homestyle chili starter",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Beef in chili sauce tamales, beef",
+        "Name": "Beef in chili sauce tamales",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 4.2,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Beef in chili sauce, beef in chili",
+        "Name": "Beef in chili sauce",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "The original chili with beans, original",
+        "Name": "The original chili with beans",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 8.9,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Cheese ravioli in tomato sauce, cheese",
+        "Name": "Cheese ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.6,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Beef stew, beef",
+        "Name": "Beef stew",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Western family, chili con carne with beans, mild, mild",
+        "Name": "Western family, chili con carne with beans, mild",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.6,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Chicken & dumplings, chicken",
+        "Name": "Chicken & dumplings",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.9,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Turkey with beans, beans",
+        "Name": "Turkey with beans",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 1.2,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Original chili, original",
+        "Name": "Original chili",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 8.6,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Pork and beans in tomato sauce, pork",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Sriracha lime chili with beans, sriracha lime",
+        "Name": "Sriracha lime chili with beans",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 6.9,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Spicy homestyle chili starter, spicy homestyle",
+        "Name": "Spicy homestyle chili starter",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Fire roasted vegetable chili with beans & wine, fire roasted vegetable",
+        "Name": "Fire roasted vegetable chili with beans & wine",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.4,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Country brand chili with beans, mild chili with sweet bell peppers, chili",
+        "Name": "Country br& chili with beans, mild chili with sweet bell peppers",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.3,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Vegetable chili with beans, vegetable",
+        "Name": "Vegetable chili with beans",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.4,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Pork & beans in tomato sauce, tomato sauce",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 1.1,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Lasagna pasta with beef in tomato sauce, beef",
+        "Name": "Lasagna pasta with beef in tomato sauce",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.4,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Vegetarian chili with beans, vegetarian",
+        "Name": "Vegetarian chili with beans",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.4,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Beef chili with beans kidney beans, beef, onions, celery & green peppers soup, beef chili with beans",
+        "Name": "Beef chili with beans kidney beans, beef, onions, celery & green peppers soup",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 3.1,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Ancho chicken chili with beans & porter ale, ancho chicken",
+        "Name": "Ancho chicken chili with beans & porter ale",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 1.4,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Beans & franks beans & sliced chicken franks with beef in tomato sauce, beans & franks",
+        "Name": "Beans & franks beans & sliced chicken franks with beef in tomato sauce",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 4.2,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Hearty chicken & dumpling soup, hearty chicken & dumpling",
+        "Name": "Hearty chicken & dumpling soup",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.3,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Pork & beans baked beans in tomato sauce, pork & beans",
+        "Name": "Pork & beans baked beans in tomato sauce",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.1,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Chili with beans, chili",
+        "Name": "Chili with beans",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.1,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Homestyle chili with beans, homestyle",
+        "Name": "Homestyle chili with beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.4,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Red curry organic young jackfruit, red curry",
+        "Name": "Red curry organic young jackfruit",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 8.2,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Hot chili beans red beans in chili sauce, hot chili beans",
+        "Name": "Hot chili beans red beans in chili sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.4,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Chili sauce, chili",
+        "Name": "Chili sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Original beans in tomato sauce flavored with sliced chicken franks, original",
+        "Name": "Original beans in tomato sauce flavored with sliced chicken franks",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.8,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken chili no beans, buffalo style chicken",
+        "Name": "Buffalo style chicken chili no beans",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 2.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "No beans chili, no beans",
+        "Name": "No beans chili",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 17.6,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Premium roast beef with gravy, premium roast beef",
+        "Name": "Premium roast beef with gravy",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 2.3,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Smoky chili with beans, smoky chili",
+        "Name": "Smoky chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Three bean chili, three bean",
+        "Name": "Three bean chili",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.3,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Chili starter seasoned crushed & diced tomatoes, chili starter",
+        "Name": "Chili starter seasoned crushed & diced tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Four bean chili starter, four bean",
+        "Name": "Four bean chili starter",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.6,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Homestyle chili starter, homestyle",
+        "Name": "Homestyle chili starter",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.6,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Original chili with beans, original chili",
+        "Name": "Original chili with beans",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.1,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Original chili no beans, original",
+        "Name": "Original chili no beans",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Mild original chili mix starter, mild, original",
+        "Name": "Mild original chili mix starter, mild",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.6,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Beef mini ravioli in pasta sauce, beef",
+        "Name": "Beef mini ravioli in pasta sauce",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 1.1,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs pasta and meatballs made with pork, chicken and beef in tomato sauce, spaghetti & meatballs",
+        "Name": "Spaghetti & meatballs pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 2.4,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Chicken stew entree, chicken",
+        "Name": "Chicken stew entree",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 16.7,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Medium heat organic firehouse chili, medium",
+        "Name": "Medium heat organic firehouse chili",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.2,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Corned beef hash, corned beef",
+        "Name": "Corned beef hash",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 11.9,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Grape leaves stuffed with rice, grape leaves",
+        "Name": "Grape leaves stuffed with rice",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 7.1,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Made with organic black beans and tomatoes",
+        "Name": "Made with organic black beans & tomatoes",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 1.5,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Harris teeter, pork 'n beans, original",
+        "Name": "Harris teeter, pork & beans, original",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.6,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Del pino's, mini o's spaghetti rings in tomato sauce",
+        "Name": "Del pinos, mini os spaghetti rings in tomato sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.4,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Harris teeter, spaghetti and meatballs in tomato sauce",
+        "Name": "Harris teeter, spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Menudo beef tripe and hominy stew",
+        "Name": "Menudo beef tripe & hominy stew",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 2.8,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Tallarico's, chili hot dog sauce",
+        "Name": "Tallaricos, chili hot dog sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Stagg, laredo, chili with beans, blend of green chiles and jalapenos",
+        "Name": "Stagg, laredo, chili with beans, blend of green chiles & jalapenos",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 6.1,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Bookbinder's, restaurant style seafood pepper pot",
+        "Name": "Bookbinders, restaurant style seafood pepper pot",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.3,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Esther's authentic foods, ready stew, universal sauce, mild",
+        "Name": "Esthers authentic foods, ready stew, universal sauce, mild",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 22.6,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Roundy's, chilli without beans",
+        "Name": "Roundys, chilli without beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.8,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Roundy's, chili with beans",
+        "Name": "Roundys, chili with beans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.6,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Roundy's, spaghetti and meatballs in tomato sauce",
+        "Name": "Roundys, spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Roundy's, spaghetti in tomato and cheese sauce",
+        "Name": "Roundys, spaghetti in tomato & cheese sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.8,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Roundy's, macaroni and beef in tomato sauce",
+        "Name": "Roundys, macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Roundy's, mini beef ravioli in tomato and meat sauce",
+        "Name": "Roundys, mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Roundy's, beef ravioli in tomato and meat sauce",
+        "Name": "Roundys, beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Roundy's, beef ravioli, over-stuffed, in tomato and meat sauce",
+        "Name": "Roundys, beef ravioli, over-stuffed, in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.9,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Roundy's, mini beef ravioli",
+        "Name": "Roundys, mini beef ravioli",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Roundy's, pork & beans with tomato sauce",
+        "Name": "Roundys, pork & beans with tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.4,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato and meat sauce",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.7,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Steve's & ed's, hot dog chili sauce",
+        "Name": "Steves & eds, hot dog chili sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Shoprite, mini beef ravioli in tomato and meat sauce",
+        "Name": "Shoprite, mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.7,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Southgate, macaroni o's & beef in tomato sauce",
+        "Name": "Southgate, macaroni os & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 2.8,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Juanita's foods, pork & green chile sauce",
+        "Name": "Juanitas foods, pork & green chile sauce",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 9.0,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato and meat sauce",
+        "Name": "Beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Steve's & ed's, original beans & franks",
+        "Name": "Steves & eds, original beans & franks",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 3.8,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Bristol brand, old fashioned meatball stew",
+        "Name": "Bristol br&, old fashioned meatball stew",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 7.2,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Mini o's spaghetti rings in tomato sauce",
+        "Name": "Mini os spaghetti rings in tomato sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.5,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Del pino's, mac & beef",
+        "Name": "Del pinos, mac & beef",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.0,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "Del pino's, spaghetti & meatballs",
+        "Name": "Del pinos, spaghetti & meatballs",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.4,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "Del pino's, mini o's & meatballs",
+        "Name": "Del pinos, mini os & meatballs",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.2,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Castleberry's, no beans chili",
+        "Name": "Castleberrys, no beans chili",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 20.0,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Castleberry's, bunker hill, hot dog chili sauce, original",
+        "Name": "Castleberrys, bunker hill, hot dog chili sauce, original",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.6,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Skyline chili, original chili, original",
+        "Name": "Skyline chili, original chili",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.3,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Guaranteed value, chunky beef stew with potatoes and carrots",
+        "Name": "Guaranteed value, chunky beef stew with potatoes & carrots",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 3.8,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Mrs. fearnow's, hope farm, delicious brunswick stew with chicken",
+        "Name": "Mrs. fearnows, hope farm, delicious brunswick stew with chicken",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.8,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Red beans & rice with andouille sausage in sauce",
+        "Name": "Red beans & rice with &ouille sausage in sauce",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.7,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Margaret holmes, red beans and rice, just add sausage",
+        "Name": "Margaret holmes, red beans & rice, just add sausage",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.1,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "Better valu, pork 'n beans in tomato sauce",
+        "Name": "Better valu, pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Simple suppers jambalaya fixins'",
+        "Name": "Simple suppers jambalaya fixins",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.1,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Simple suppers dirty rice fixins'",
+        "Name": "Simple suppers dirty rice fixins",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.1,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Seasoned caribbean style black beans and rice",
+        "Name": "Seasoned caribbean style black beans & rice",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.1,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Tamales, hot'n spicy beef in chili sauce",
+        "Name": "Tamales, hot& spicy beef in chili sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.8,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Original chicken stew with fresh potatoes and carrots",
+        "Name": "Original chicken stew with fresh potatoes & carrots",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.7,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Original beef stew with fresh potatoes and carrots",
+        "Name": "Original beef stew with fresh potatoes & carrots",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 4.2,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Spartan, pork' n beans",
+        "Name": "Spartan, pork n beans",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 1.5,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "Vegetarian chili 3 bean chipotle",
+        "Name": "Vegetarian chili bean chipotle",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 0.6,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Finest brand, chili no beans",
+        "Name": "Finest br&, chili no beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 3.8,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "365 organic everyday value, organic vegetarian chili, spicy",
+        "Name": "Organic everyday value, organic vegetarian chili, spicy",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Rice with chicken and vegetables",
+        "Name": "Rice with chicken & vegetables",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.8,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Patterson's, beef hot dog chili",
+        "Name": "Pattersons, beef hot dog chili",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 11.5,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Bookbinder's, semi-condensed oyster stew",
+        "Name": "Bookbinders, semi-condensed oyster stew",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 1.3,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Engine 2, plant-strong, organic moroccan style stew",
+        "Name": "Engine plant-strong, organic moroccan style stew",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Mini o's & meatballs",
+        "Name": "Mini os & meatballs",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.5,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Beefy mac pasta in tomato and meat sauce",
+        "Name": "Beefy mac pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.0,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Burrito filling / nacho topping with beef",
+        "Name": "Burrito fillingnacho topping with beef",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Great northern pork and beans",
+        "Name": "Great northern pork & beans",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.8,
@@ -3384,7 +3384,7 @@
         }
     },
     {
-        "Name": "Trappey's, baby green lima beans, slab bacon",
+        "Name": "Trappeys, baby green lima beans, slab bacon",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.8,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Denyse's turkey chili with beans",
+        "Name": "Denyses turkey chili with beans",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 3.7,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Trader joe's, green chiles, fre roasted, diced",
+        "Name": "Trader joes, green chiles, fre roasted, diced",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Van camp's, beanee weenee, beans in tomato sauce with sliced chicken franks, original",
+        "Name": "Van camps, beanee weenee, beans in tomato sauce with sliced chicken franks, original",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.7,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Pork and beans",
+        "Name": "Pork & beans",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 0.7,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Pork and beans in tomato sauce",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Beans with pork and bacon",
+        "Name": "Beans with pork & bacon",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 3.8,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Green chili turkey hash, served with roasted sweet potatoes, black beans, corn and spicy sauteed onions",
+        "Name": "Green chili turkey hash, served with roasted sweet potatoes, black beans, corn & spicy sauteed onions",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.9,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Chili topping made with beef and textured vegetable protein",
+        "Name": "Chili topping made with beef & textured vegetable protein",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 16.1,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Beef stew with fresh potatoes and carrots",
+        "Name": "Beef stew with fresh potatoes & carrots",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 4.2,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Rich and hearty chili with beans",
+        "Name": "Rich & hearty chili with beans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.6,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Pork and beans in tamoto sauce",
+        "Name": "Pork & beans in tamoto sauce",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.1,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Blazin' beef chili",
+        "Name": "Blazin beef chili",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 2.0,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Country brand chili with beans, mild chili with sweet bell peppers",
+        "Name": "Country br& chili with beans, mild chili with sweet bell peppers",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.3,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "4 star beef chili",
+        "Name": "Star beef chili",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 23.1,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Eric's guajiro chili",
+        "Name": "Erics guajiro chili",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.6,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Sweet red bean and chestnut porridge",
+        "Name": "Sweet red bean & chestnut porridge",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Chicken and quinoa with vegetables in sauce",
+        "Name": "Chicken & quinoa with vegetables in sauce",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 6.1,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style red beans and rice",
+        "Name": "Seasoned southern style red beans & rice",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.1,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Dolma vine leaves stuffed with rice and dill",
+        "Name": "Dolma vine leaves stuffed with rice & dill",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 6.4,
@@ -4482,7 +4482,7 @@
         }
     },
     {
-        "Name": "Smokin' stampede chili with beans",
+        "Name": "Smokin stampede chili with beans",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.1,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Hot chili with beans, hot",
+        "Name": "Hot chili with beans",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.0,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Mac 'n beef macaroni",
+        "Name": "Mac & beef macaroni",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Mac 'n beef",
+        "Name": "Mac & beef",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Chili with beans, with beans",
+        "Name": "Chili with beans",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.6,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "Four-bean, corn and bell pepper chili",
+        "Name": "Four-bean, corn & bell pepper chili",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.4,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Premium beefaroni pasta in tomato and meat sauce",
+        "Name": "Premium beefaroni pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 4.6,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Premium beef ravioli in tomato and meat sauce",
+        "Name": "Premium beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Premium lasagna pasta in tomato and meat sauce",
+        "Name": "Premium lasagna pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Mary's chili verde",
+        "Name": "Marys chili verde",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Chunky chili with beans, with beans",
+        "Name": "Chunky chili with beans",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.1,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Chef's recipe taco chili with beans",
+        "Name": "Chefs recipe taco chili with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 5.7,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Premium beef ravioli in tomato and meat sauce, beef",
+        "Name": "Premium beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato & meat sauce, mini beef",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Macaroni & beef in tomato sauce, macaroni & beef",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Hot dog chili sauce, hot dog chili",
+        "Name": "Hot dog chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Beef ravioli, beef",
+        "Name": "Beef ravioli",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Spaghetti rings with meatballs in tomato sauce, meatballs",
+        "Name": "Spaghetti rings with meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.2,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato & meat sauce, beef",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Macaroni & beef in tomato sauce, beef",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Medium red chili sauce, medium",
+        "Name": "Medium red chili sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "Chunky beef with chili beans, chunky beef",
+        "Name": "Chunky beef with chili beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 2.8,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "99% fat free chicken in chili sauce, chicken",
+        "Name": "99% fat free chicken in chili sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.9,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Chili with beans, beans",
+        "Name": "Chili with beans",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.8,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Homestyle with beans, homestyle",
+        "Name": "Homestyle with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 7.7,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Mild texas style with red bean & bock beer  chili starter, mild texas style",
+        "Name": "Mild texas style with red bean & bock beer chili starter",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Trappey's, navy beans, slab bacon, slab bacon",
+        "Name": "Trappeys, navy beans, slab bacon",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.8,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Beef & pork tamales with sauce, beef & pork",
+        "Name": "Beef & pork tamales with sauce",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 11.4,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Hearty homestyle corned beef hash, corned beef",
+        "Name": "Hearty homestyle corned beef hash",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 11.0,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Original chili with beans, original",
+        "Name": "Original chili with beans",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 7.2,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Trappey's, jalapeno navy beans, slab bacon, slab bacon",
+        "Name": "Trappeys, jalapeno navy beans, slab bacon",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.4,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "Silverado two-bean, beef and tomato chili, silverado",
+        "Name": "Silverado two-bean, beef & tomato chili",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.2,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato & meat sauce, beef",
+        "Name": "Beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Original corned beef hash, original",
+        "Name": "Original corned beef hash",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 11.3,
@@ -5328,7 +5328,7 @@
         }
     },
     {
-        "Name": "Original chili con carne without beans, original",
+        "Name": "Original chili con carne without beans",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 10.9,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Van camp's, beanee weenee, beans in tomato sauce with sliced chicken franks, original, original",
+        "Name": "Van camps, beanee weenee, beans in tomato sauce with sliced chicken franks, original",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.7,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Pork and beans, sweet onion",
+        "Name": "Pork & beans, sweet onion",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 0.7,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Pork and beans , smoked chipotle",
+        "Name": "Pork & beans , smoked chipotle",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.7,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Pork and beans, maple & brown sugar",
+        "Name": "Pork & beans, maple & brown sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Classic spicy slow-simmered two-bean chili, classic",
+        "Name": "Classic spicy slow-simmered two-bean chili",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 4.9,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Original hot dog chili sauce, original",
+        "Name": "Original hot dog chili sauce",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Spaghetti in tomato sauce with meat, meat",
+        "Name": "Spaghetti in tomato sauce with meat",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.9,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato sauce, beef ravioli",
+        "Name": "Beef ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.8,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Spaghetti rings pasta in tomato & cheese sauce, spaghetti rings",
+        "Name": "Spaghetti rings pasta in tomato & cheese sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.4,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Fire roasted vegetable chili with beans & marsala wine, fire roasted vegetable",
+        "Name": "Fire roasted vegetable chili with beans & marsala wine",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.6,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Sriracha lime chili, sriracha lime",
+        "Name": "Sriracha lime chili",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.4,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Vegetable chili with beans, beans",
+        "Name": "Vegetable chili with beans",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.4,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Spicy chili, spicy",
+        "Name": "Spicy chili",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 2.9,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs in tomato sauce, spaghetti & meatballs",
+        "Name": "Spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -5508,7 +5508,7 @@
         }
     },
     {
-        "Name": "Pork & baked beans in a mustard and vinegar sauce, pork & baked beans",
+        "Name": "Pork & baked beans in a mustard & vinegar sauce",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 7.1,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Chunky chili with beans, chunky",
+        "Name": "Chunky chili with beans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.6,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Hot no beans chili, hot",
+        "Name": "Hot no beans chili",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 6.8,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs in tomato sauce, meatballs",
+        "Name": "Spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Mild turkey chili with beans, mild",
+        "Name": "Mild turkey chili with beans",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 1.2,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Mild chili with beans, mild",
+        "Name": "Mild chili with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 4.5,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Mild chili no beans, mild",
+        "Name": "Mild chili no beans",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 6.8,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Beef hash, beef",
+        "Name": "Beef hash",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 14.5,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Beef tamales in sauce, beef",
+        "Name": "Beef tamales in sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 3.8,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato and meat sauce, beef",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Pork and beans in tomato sauce, tomato sauce",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.4,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Homestyle corned beef hash, homestyle",
+        "Name": "Homestyle corned beef hash",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 10.2,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "Beef ravioli super stuffed in tomato & meat sauce, beef",
+        "Name": "Beef ravioli super stuffed in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.9,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Angus beef with beans, angus beef",
+        "Name": "Angus beef with beans",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 6.8,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Angus beef no beans chili, angus beef",
+        "Name": "Angus beef no beans chili",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 7.3,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Fresh beef chili with beans, beans",
+        "Name": "Fresh beef chili with beans",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 4.9,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans, turkey",
+        "Name": "Turkey chili with beans",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato and meat sauce, beef",
+        "Name": "Beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Chicken chili with beans, chicken",
+        "Name": "Chicken chili with beans",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 3.4,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Pork green chili with beans, pork green",
+        "Name": "Pork green chili with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 7.3,
@@ -5715,7 +5715,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken chili with beans, beans",
+        "Name": "Buffalo style chicken chili with beans",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 1.6,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Southern style dumplings with chicken, southern style",
+        "Name": "Southern style dumplings with chicken",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 2.5,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Ancho chili no beans & porter ale, ancho chili",
+        "Name": "Ancho chili no beans & porter ale",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.0,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Hot chili with beans, hot chili",
+        "Name": "Hot chili with beans",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.3,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Pork & beans in tomato sauce, tomato",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.1,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Original chili con carne with beans, original",
+        "Name": "Original chili con carne with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 3.9,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Corned beef hash, beef",
+        "Name": "Corned beef hash",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 6.1,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Homestyle roast beef hash, homestyle",
+        "Name": "Homestyle roast beef hash",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 8.9,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato sauce, beef",
+        "Name": "Beef ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.4,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Organic beans hearty 3 bean chili with spiced corn & peppers, hearty 3 bean chili with spiced corn & peppers",
+        "Name": "Organic beans hearty bean chili with spiced corn & peppers",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.1,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "White chicken chili soup, white chicken chili",
+        "Name": "White chicken chili soup",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Zucchini stuffed with rice, zucchini",
+        "Name": "Zucchini stuffed with rice",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.4,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Spinach with rice, spinach",
+        "Name": "Spinach with rice",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 10.7,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Pork & beans in tomato sauce baked beans, pork & beans",
+        "Name": "Pork & beans in tomato sauce baked beans",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.1,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Artisan craft homestyle chili with beans, homestyle chili",
+        "Name": "Artisan craft homestyle chili with beans",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 8.1,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Beef mini ravioli in tomato and meat sauce",
+        "Name": "Beef mini ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 3.3,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Macaroni and beef in tomato sauce",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -6039,7 +6039,7 @@
         }
     },
     {
-        "Name": "Original pork & beans in tomato sauce, original",
+        "Name": "Original pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.1,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Chunky with beef beans, chunky with beef",
+        "Name": "Chunky with beef beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 2.8,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Beef goulash, beef",
+        "Name": "Beef goulash",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 6.6,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Beef mini ravioli in tomato and meat sauce, beef",
+        "Name": "Beef mini ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.7,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Original homestyle chili starter, original homestyle",
+        "Name": "Original homestyle chili starter",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Beef chili with beans, beef",
+        "Name": "Beef chili with beans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.6,
@@ -6102,7 +6102,7 @@
         }
     },
     {
-        "Name": "Corned beef homestyle hash, corned beef",
+        "Name": "Corned beef homestyle hash",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 10.2,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Dinty moore beef stew, beef",
+        "Name": "Dinty moore beef stew",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Silverado beef chili with beans, silverado beef",
+        "Name": "Silverado beef chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.2,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Black beans slow-cooked with tomatoes, corn onions, mild jalapenos and ta seasonings, taco fiesta",
+        "Name": "Black beans slow-cooked with tomatoes, corn onions, mild jalapenos & ta seasonings, taco fiesta",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.1,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Clover valley, beef ravioli in tomato and meat sauce",
+        "Name": "Clover valley, beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Mary's chili verde chili with beans with tomatillos and jalapenos, mary's chili verde",
+        "Name": "Marys chili verde chili with beans with tomatillos & jalapenos",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, nhl pasta shapes in tomato sauce, chef boyardee, nhl pasta shapes in tomato sauce",
+        "Name": "Chef boyardee, nhl pasta shapes in tomato sauce, chef boyardee",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.2,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, minis spaghetti with meatballs, chef boyardee, minis spaghetti with meatballs",
+        "Name": "Chef boyardee, minis spaghetti with meatballs, chef boyardee",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 5.2,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, macaroni with cheese sauce, chef boyardee, macaroni with cheese sauce",
+        "Name": "Chef boyardee, macaroni with cheese sauce, chef boyardee",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 3.8,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, overloaded lasagna, pasta with beef in tomato sauce with cheese and green peppers, chef boyardee, overloaded lasagna, pasta with beef in tomato sauce with cheese and green peppers",
+        "Name": "Chef boyardee, overloaded lasagna, pasta with beef in tomato sauce with cheese & green peppers, chef boyardee, overloaded lasagna",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.6,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Pasta in tomato and meat sauce",
+        "Name": "Pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, beef ravioli in meat sauce, chef boyardee, beef ravioli in meat sauce",
+        "Name": "Chef boyardee, beef ravioli in meat sauce, chef boyardee",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, mini sea life shapes, pasta in sauce with pork, chicken and beef, chef boyardee, mini sea life shapes, pasta in sauce with pork, chicken and beef",
+        "Name": "Chef boyardee, mini sea life shapes, pasta in sauce with pork, chicken & beef, chef boyardee, mini sea life shapes, pasta in sauce with pork",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.4,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, rigatoni, macaroni in tomato & meat sauce, chef boyardee, rigatoni, macaroni in tomato & meat sauce",
+        "Name": "Chef boyardee, rigatoni, macaroni in tomato & meat sauce, chef boyardee, rigatoni",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 1.6,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, mini dinosaurs, pasta in tomato & cheese sauce, chef boyardee, mini dinosaurs, pasta in tomato & cheese sauce",
+        "Name": "Chef boyardee, mini dinosaurs, pasta in tomato & cheese sauce, chef boyardee, mini dinosaurs",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.4,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Van camp's, pork and beans in tomato sauce, homestyle bbq, homestyle bbq",
+        "Name": "Van camps, pork & beans in tomato sauce, homestyle bbq",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.4,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Roast beef hash, roast beef",
+        "Name": "Roast beef hash",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 10.2,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Chunky beef chili no beans, chunky beef",
+        "Name": "Chunky beef chili no beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 5.9,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Premium lasagna pasta in tomato and meat sauce, lasagna",
+        "Name": "Premium lasagna pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Spaghetti with meatballs in tomato sauce, meatballs",
+        "Name": "Spaghetti with meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Thai style sweet chili sauce, thai style sweet chili",
+        "Name": "Thai style sweet chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Homestyle corned beef hash, homestyle corned beef",
+        "Name": "Homestyle corned beef hash",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 10.2,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Macaroni and beef in tomato sauce, beef",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Chicken chili with beans, chicken chili",
+        "Name": "Chicken chili with beans",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 3.4,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "Beef hearty stew, beef",
+        "Name": "Beef hearty stew",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 4.2,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Homestyle chili no beans, homestyle",
+        "Name": "Homestyle chili no beans",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 10.2,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Mini abc's & 123's with meatballs",
+        "Name": "Mini abcs & with meatballs",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.5,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "Beef & steak chili with beans, beef & steak chili",
+        "Name": "Beef & steak chili with beans",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 4.3,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Premium spaghetti and meatballs in tomato sauce, spaghetti and meatballs",
+        "Name": "Premium spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 4.8,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Premium meat lovers pasta in tomato sauce with italian sausage and angus beef, meat lovers",
+        "Name": "Premium meat lovers pasta in tomato sauce with italian sausage & angus beef",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 2.8,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Premium beef mini ravioli in tomato and meat sauce, mini ravioli",
+        "Name": "Premium beef mini ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Spaghetti in tomato sauce, spaghetti",
+        "Name": "Spaghetti in tomato sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.5,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Beefaroni pasta in tomato and meat sauce, beefaroni",
+        "Name": "Beefaroni pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Original chorizo skillet chorizo with seasoned potatoes, bell peppers, and onions, original",
+        "Name": "Original chorizo skillet chorizo with seasoned potatoes, bell peppers, & onions",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 13.9,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Chicken in chili sauce, chicken",
+        "Name": "Chicken in chili sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.9,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Beef in chili sauce, beef",
+        "Name": "Beef in chili sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 4.2,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Caribbean style black beans and rice, caribbean style",
+        "Name": "Caribbean style black beans & rice",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.1,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Cheese mini ravioli in tomato sauce, cheese",
+        "Name": "Cheese mini ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.3,
@@ -6534,7 +6534,7 @@
         }
     },
     {
-        "Name": "Chili turkey with beans, chili",
+        "Name": "Chili turkey with beans",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 1.2,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Hot dog chili sauce, chili",
+        "Name": "Hot dog chili sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 3.4,
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "Name": "Chili cheese dip, chili",
+        "Name": "Chili cheese dip",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 5.9,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Beef stew with fresh potatoes and carrots, beef",
+        "Name": "Beef stew with fresh potatoes & carrots",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 4.2,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Hot dog chili sauce with meat, hot dog chili",
+        "Name": "Hot dog chili sauce with meat",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.2,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Mary's chili verde chili with beans",
+        "Name": "Marys chili verde chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Chili style beans in chili gravy, chili style",
+        "Name": "Chili style beans in chili gravy",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Chili no beans, chili",
+        "Name": "Chili no beans",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 5.9,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato & meat sauce, mini",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Mild chunky chili with beans, mild",
+        "Name": "Mild chunky chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.5,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Original beef ravioli in tomato & meat sauce, original",
+        "Name": "Original beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Overstuffed beef ravioli in tomato & meat sauce, overstuffed",
+        "Name": "Overstuffed beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.9,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Macaroni & beef in tomato sauce, tomato sauce",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "White chicken chili with beans, white chicken chili",
+        "Name": "White chicken chili with beans",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.2,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Silverado beef two-bean, beef and tomato chili, silverado beef",
+        "Name": "Silverado beef two-bean, beef & tomato chili",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.2,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Steak house reserve chili with beans, steak house",
+        "Name": "Steak house reserve chili with beans",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 4.9,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "White chicken chili with beans, white chicken",
+        "Name": "White chicken chili with beans",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.2,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Vegetables stew with zucchini, tomatoes, eggplant, peppers and onion., zucchini, tomatoes, eggplant, peppers and onion.",
+        "Name": "Vegetables stew with zucchini, tomatoes, eggplant, peppers & onion., zucchini, tomatoes, eggplant",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.3,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Chili homestyle with beans, chili",
+        "Name": "Chili homestyle with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.2,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Steak house reserve hearty beef with a kick of green chiles, steak house reserve",
+        "Name": "Steak house reserve hearty beef with a kick of green chiles",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 4.9,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Chicken tamales in chili sauce, chicken",
+        "Name": "Chicken tamales in chili sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.9,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Beef tamales in chili sauce, beef",
+        "Name": "Beef tamales in chili sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 4.2,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Silverado beef two-bean, beef and tomato chili with beans, silverado beef",
+        "Name": "Silverado beef two-bean, beef & tomato chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.2,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs made with pork, chicken & beef in tomato sauce, spaghetti & meatballs",
+        "Name": "Spaghetti & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 0.0,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Chili cheese, chili",
+        "Name": "Chili cheese",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 8.5,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Original chili  with beans, original",
+        "Name": "Original chili with beans",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.1,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "White bean chicken chili white meat chicken, white beans, peppers, onions & green chiles lunch, white bean chicken chili",
+        "Name": "White bean chicken chili white meat chicken, white beans, peppers, onions & green chiles lunch",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "White chicken chili with beans soup, white chicken chili with beans",
+        "Name": "White chicken chili with beans soup",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 2.2,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Mexican rice & beans, mexican",
+        "Name": "Mexican rice & beans",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.8,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Cajun rice&beans lundberg brown rice & small red beans, cajun",
+        "Name": "Cajun rice&beans lundberg brown rice & small red beans",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.8,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Organic caribbean rice & beans, caribbean",
+        "Name": "Organic caribbean rice & beans",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.8,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Corned beef hearty homestyle hash, corned beef",
+        "Name": "Corned beef hearty homestyle hash",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 11.0,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Original hot dog chili sauce, original hot dog",
+        "Name": "Original hot dog chili sauce",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Original hot dog chili sauce with meat, original",
+        "Name": "Original hot dog chili sauce with meat",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.2,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Pork green chili with beans, pork",
+        "Name": "Pork green chili with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 7.3,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken chili with beans, buffalo style chicken",
+        "Name": "Buffalo style chicken chili with beans",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.6,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Pork & beans with tomato sauce, tomato sauce",
+        "Name": "Pork & beans with tomato sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in pasta sauce, beef ravioli",
+        "Name": "Beef ravioli in pasta sauce",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 1.1,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in pasta sauce, beef",
+        "Name": "Beef ravioli in pasta sauce",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 1.1,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Lasagna pasta with chunky tomato & meat sauce, lasagna",
+        "Name": "Lasagna pasta with chunky tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.6,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Mac & cheese pasta in cheese flavored sauce, mac & cheese",
+        "Name": "Mac & cheese pasta in cheese flavored sauce",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 1.4,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Pork green chili beans, pork",
+        "Name": "Pork green chili beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 11.4,
@@ -6993,7 +6993,7 @@
         }
     },
     {
-        "Name": "Chili with organic kidney beans, kamut, & spices, chili",
+        "Name": "Chili with organic kidney beans, kamut, & spices",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 0.6,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Chili with organic pinto beans, spelt, & spices, chili",
+        "Name": "Chili with organic pinto beans, spelt, & spices",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.6,
@@ -7011,7 +7011,7 @@
         }
     },
     {
-        "Name": "Chili with organic great northerns, barley, & spices, chili",
+        "Name": "Chili with organic great northerns, barley, & spices",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.6,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "Curried rice & beans lundberg brown rice & green lentils, curried rice & beans",
+        "Name": "Curried rice & beans lundberg brown rice & green lentils",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.8,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Chilli man, chili, chicken & white beans, chicken & white beans",
+        "Name": "Chilli man, chili, chicken & white beans",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 3.3,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Hormel, chili with beans, hot & spicy, hot & spicy",
+        "Name": "Hormel, chili with beans, hot & spicy",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 2.8,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Chili con carne with beans, chili con carne with beans",
+        "Name": "Chili con carne with beans",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 5.6,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Esther's authentic foods, ready stew, universal sauce, mild, mild",
+        "Name": "Esthers authentic foods, ready stew, universal sauce, mild",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 22.6,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Spicy organic chili, spicy",
+        "Name": "Spicy organic chili",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.2,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Chilorio shredded, seasoned pork meat, chilorio",
+        "Name": "Chilorio shredded, seasoned pork meat",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 28.6,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Mini beef ravioli in tomato and meat sauce, tomato and meat sauce",
+        "Name": "Mini beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.9,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Mini o's spaghetti rings in tomato sauce, tomato sauce",
+        "Name": "Mini os spaghetti rings in tomato sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.5,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Beef ravioli in tomato & meat sauce, beef ravioli",
+        "Name": "Beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.6,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Overstuffed beef ravioli in tomato and meat sauce, overstuffed beef",
+        "Name": "Overstuffed beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.9,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Castleberry's, bunker hill, hot dog chili sauce, original, original",
+        "Name": "Castleberrys, bunker hill, hot dog chili sauce, original",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.6,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Skyline chili, original chili, original, original",
+        "Name": "Skyline chili, original chili, original",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.3,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Beans & wieners beans in tomato sauce flavored with sliced chicken wieners, beans & wieners",
+        "Name": "Beans & wieners beans in tomato sauce flavored with sliced chicken wieners",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 3.6,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Spartan, chili sauce, original, original",
+        "Name": "Spartan, chili sauce, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy chili sauce, sweet & spicy chili",
+        "Name": "Sweet & spicy chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Scalloped potatoes flavored with ham, ham",
+        "Name": "Scalloped potatoes flavored with ham",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.4,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Sriracha hot chili sauce, sriracha",
+        "Name": "Sriracha hot chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Pork & beans in tomato sauce, pork & beans",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 0.8,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "365 organic everyday value, organic vegetarian chili, spicy, spicy",
+        "Name": "Organic everyday value, organic vegetarian chili, spicy",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.0,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Western family, no bean chili with meat, mild, mild",
+        "Name": "Western family, no bean chili with meat, mild",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.8,
@@ -7317,7 +7317,7 @@
         }
     },
     {
-        "Name": "Western family, chili, hot, hot",
+        "Name": "Western family, chili, hot",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 4.5,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Western family, premium chili con carne with beans, mild, mild",
+        "Name": "Western family, premium chili con carne with beans, mild",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.5,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Nalley, chili con carne with beans, onion, onion",
+        "Name": "Nalley, chili con carne with beans, onion",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Nalley, chili con carne with beans, hot, hot",
+        "Name": "Nalley, chili con carne with beans, hot",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 3.9,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Hearty homestyle corned beef hash, hearty homestyle",
+        "Name": "Hearty homestyle corned beef hash",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 10.6,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Original 7 spice homestyle chili starter, original",
+        "Name": "Original spice homestyle chili starter",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Original vegetarian 99% fat free chili with beans, original vegetarian",
+        "Name": "Original vegetarian 99% fat free chili with beans",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 0.5,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Chili no beans, no beans",
+        "Name": "Chili no beans",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 10.4,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Tangy chili sauce, tangy chili",
+        "Name": "Tangy chili sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "Name": "Pork and beans in tomato sauce, pork and beans",
+        "Name": "Pork & beans in tomato sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.2,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Rings and meatballs pasta and meatballs made with pork, chicken and beef in tomato sauce, rings and meatballs",
+        "Name": "Rings & meatballs pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 4.4,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Hickory flavor beans in tomato sauce flavored with sliced franks, hickory",
+        "Name": "Hickory flavor beans in tomato sauce flavored with sliced franks",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.4,
@@ -7488,7 +7488,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans ",
+        "Name": "Turkey chili with beans",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.6,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Chili ",
+        "Name": "Chili",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 11.8,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Chili with beans ",
+        "Name": "Chili with beans",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 4.0,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Mild texas style with red bean & bock beer chili starter, mild texas style",
+        "Name": "Mild texas style with red bean & bock beer chili starter",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Cheeseburger o's pasta in meat sauce",
+        "Name": "Cheeseburger os pasta in meat sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.4,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "Campbell's, spaghettios, original a to z's, pasta in tomato in cheese sauce",
+        "Name": "Campbells, spaghettios, original a to zs, pasta in tomato in cheese sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.4,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Pasta in tomato and cheese sauce",
+        "Name": "Pasta in tomato & cheese sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.4,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Campbell's, spaghettios with meatballs",
+        "Name": "Campbells, spaghettios with meatballs",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.4,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Campbell's, spaghetti in tomato sauce with cheese",
+        "Name": "Campbells, spaghetti in tomato sauce with cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.6,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Campbell's, homestyle, spicy vegetable chili soup",
+        "Name": "Campbells, homestyle, spicy vegetable chili soup",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.6,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Campbell's, spaghettios, beefy tacos pasta in meat sauce",
+        "Name": "Campbells, spaghettios, beefy tacos pasta in meat sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 1.6,
@@ -7614,7 +7614,7 @@
         }
     },
     {
-        "Name": "Campbell's, hold the beans beef chili",
+        "Name": "Campbells, hold the beans beef chili",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 6.7,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Chili beef & bean roadhouse, chili beef & bean",
+        "Name": "Chili beef & bean roadhouse",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 2.5,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Campbell's, chunky, chili hot & spicy with bean firehouse",
+        "Name": "Campbells, chunky, chili hot & spicy with bean firehouse",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 2.9,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Campbell's, spaghettios, pasta with meatballs",
+        "Name": "Campbells, spaghettios, pasta with meatballs",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.8,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Campbell's, picnic style port & beans",
+        "Name": "Campbells, picnic style port & beans",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.8,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Campbell's, chunky, hold the beans chili",
+        "Name": "Campbells, chunky, hold the beans chili",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 8.3,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Chili hot & spicy beef & bean firehouse, chili hot & spicy beef & bean",
+        "Name": "Chili hot & spicy beef & bean firehouse",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 2.5,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Campbell's, chunky, roadhouse chili with bean",
+        "Name": "Campbells, chunky, roadhouse chili with bean",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 2.9,
@@ -7713,7 +7713,7 @@
         }
     },
     {
-        "Name": "Roasted vegetable chili with 3 beans, chili",
+        "Name": "Roasted vegetable chili with beans",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 1.2,
@@ -7722,7 +7722,7 @@
         }
     },
     {
-        "Name": "Pork and beef chili with beans",
+        "Name": "Pork & beef chili with beans",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 7.1,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Hearty homestyle corned beef hash, hearty homestyle corned beef",
+        "Name": "Hearty homestyle corned beef hash",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 10.6,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Spanish rice, spanish",
+        "Name": "Spanish rice",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 1.8,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "Triple succotash blend of tomatoes, corn & lima beans, triple",
+        "Name": "Triple succotash blend of tomatoes, corn & lima beans",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs in tomato sauce, tomato",
+        "Name": "Spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Eden, chili, vegetarian, made with organic kidney beans, kamut, & spices, vegetarian",
+        "Name": "Eden, chili, vegetarian, made with organic kidney beans, kamut, & spices",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 0.8,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Spaghetti pasta rings & meatballs in tomato sauce, tomato",
+        "Name": "Spaghetti pasta rings & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.2,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Classic homestyle beef stew, classic homestyle",
+        "Name": "Classic homestyle beef stew",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 4.7,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Beef ravioli tomato and meat sauce, beef ravioli",
+        "Name": "Beef ravioli tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Medium black bean organic chili, medium black bean",
+        "Name": "Medium black bean organic chili",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.7,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Chili con carne without beans, con carne without beans",
+        "Name": "Chili con carne without beans",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 8.9,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Chili con carne with beans, con carne with beans",
+        "Name": "Chili con carne with beans",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.5,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Hot dog chili sauce with meat, meat",
+        "Name": "Hot dog chili sauce with meat",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.2,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Vegetarian chili five-bean, vegetarian chili",
+        "Name": "Vegetarian chili five-bean",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Spaghetti with meatballs pasta in tomato sauce, spaghetti with meatballs",
+        "Name": "Spaghetti with meatballs pasta in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Chorizo skillet chorizo with seasoned potatoes, bell peppers, and onions, chorizo skillet",
+        "Name": "Chorizo skillet chorizo with seasoned potatoes, bell peppers, & onions",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 13.9,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Original beans in tomato sauce flavored with sliced franks, original",
+        "Name": "Original beans in tomato sauce flavored with sliced franks",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.4,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans, beans",
+        "Name": "Turkey chili with beans",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.9,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans made with ground turkey, red kidney and pinto beans, mixed bell peppers and hatch chile seasoning, turkey chili with beans",
+        "Name": "Turkey chili with beans made with ground turkey, red kidney & pinto beans, mixed bell peppers & hatch chile seasoning",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.9,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Hot & spicy green chili sauce with pork, hot & spicy green chili",
+        "Name": "Hot & spicy green chili sauce with pork",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.8,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Beef chili with beans soup, beef chili with beans",
+        "Name": "Beef chili with beans soup",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 3.1,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Spicy original with jalapeno peppers chao slices, spicy original with jalapeno peppers",
+        "Name": "Spicy original with jalapeno peppers chao slices",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.5,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Triple bean pinto, navy, and dark red kidney beans in a rich chili sauce with tomatoes, chili pepper, garlic, onion & other spices chili starter, triple bean",
+        "Name": "Triple bean pinto, navy, & dark red kidney beans in a rich chili sauce with tomatoes, chili pepper, garlic, onion & other spices chili starter",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.8,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "White bean chili starter, white bean",
+        "Name": "White bean chili starter",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.4,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Chilistarter triple bean pinto, navy, and dark red kidney beans in a rich chill sauce with tomatoes, chili pepper, garlic, onion & other spices, chilistarter",
+        "Name": "Chilistarter triple bean pinto, navy, & dark red kidney beans in a rich chill sauce with tomatoes, chili pepper, garlic, onion & other spices",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.8,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "White bean white beans in a rich chili sauce with bell peppers, corn, green chilies, garlic, onion & other spices chili starter, white bean",
+        "Name": "White bean white beans in a rich chili sauce with bell peppers, corn, green chilies, garlic, onion & other spices chili starter",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.4,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Enchilada fiesta two chicken enchiladas in tomatillo sauce topped with monterey jack cheese with refried beans and mexican style rice, enchilada fiesta",
+        "Name": "Enchilada fiesta two chicken enchiladas in tomatillo sauce topped with monterey jack cheese with refried beans & mexican style rice",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 2.5,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Chili signature italian style sauce, chili",
+        "Name": "Chili signature italian style sauce",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.8,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Mild chili starter, mild",
+        "Name": "Mild chili starter",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Medium organic chili, medium",
+        "Name": "Medium organic chili",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.4,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Medium with vegetables organic chili, medium with vegetables",
+        "Name": "Medium with vegetables organic chili",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.4,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Old fashioned meatball stew, old fashioned meatball",
+        "Name": "Old fashioned meatball stew",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 7.2,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Craft beer beef chili, beef",
+        "Name": "Craft beer beef chili",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 6.6,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Chili with organic black beans, quinoa, & spices, chili",
+        "Name": "Chili with organic black beans, quinoa, & spices",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.8,
@@ -8046,7 +8046,7 @@
         }
     },
     {
-        "Name": "Italian-style hash & egg made with organic asparagus, white beans & bell peppers, italian-style hash & egg",
+        "Name": "Italian-style hash & egg made with organic asparagus, white beans & bell peppers",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 3.0,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Trappey's, baby green lima beans, slab bacon, slab bacon",
+        "Name": "Trappeys, baby green lima beans, slab bacon",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.8,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Wolf, chili, no beans, wolf, chili, no beans",
+        "Name": "Wolf, chili, no beans, wolf, chili",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 11.6,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Wolf, chili with beans, steak lovers, steak lovers",
+        "Name": "Wolf, chili with beans, steak lovers",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 4.0,
@@ -8127,7 +8127,7 @@
         }
     },
     {
-        "Name": "Eric's guajiro chili cuban inspired chili with beans, eric's guajiro chili",
+        "Name": "Erics guajiro chili cuban inspired chili with beans",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.6,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Mac 'n beef macaroni, beef in tomato sauce",
+        "Name": "Mac & beef macaroni, beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Premium no bean mild con carne chili, no bean",
+        "Name": "Premium no bean mild con carne chili",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 5.1,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Premium hearty chili with beans, bean",
+        "Name": "Premium hearty chili with beans",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.5,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Mary's chili verde, chili with beans with tomatillos and jalapenos",
+        "Name": "Marys chili verde, chili with beans with tomatillos & jalapenos",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Vegetarian five-bean chili, vegetarian five-bean",
+        "Name": "Vegetarian five-bean chili",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Angus beef chili, angus",
+        "Name": "Angus beef chili",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 9.8,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Spaghetti rings pasta in tomato sauce, spaghetti rings",
+        "Name": "Spaghetti rings pasta in tomato sauce",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.4,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Crunchy garlic chili sauce, crunchy garlic chili",
+        "Name": "Crunchy garlic chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 53.3,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Chili starter, chili",
+        "Name": "Chili starter",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Mild beef chili, mild beef",
+        "Name": "Mild beef chili",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 6.9,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Cactus chili ground beet, diced tomatoes, great northern beans, corn, onions & spinach in a spicy broth, cactus chili",
+        "Name": "Cactus chili ground beet, diced tomatoes, great northern beans, corn, onions & spinach in a spicy broth",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 4.8,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Medium red & green blend chile sauce, red & green",
+        "Name": "Medium red & green blend chile sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Liberty city chili, liberty city chili, mild, mild",
+        "Name": "Liberty city chili, liberty city chili, mild",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Hot dog chili sauce, hot dog",
+        "Name": "Hot dog chili sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Kettle style chunky beef chili with beans a chunky blend of diced and ground beef simmered in tomatoes with kidney beans, black beans, mixed bell peppers and spices, kettle style chunky beef chili with beans",
+        "Name": "Kettle style chunky beef chili with beans a chunky blend of diced & ground beef simmered in tomatoes with kidney beans, black beans, mixed bell peppers & spices",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 4.1,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Original hot dog chili sauce with jalapeno, jalapeno",
+        "Name": "Original hot dog chili sauce with jalapeno",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Best yet, homestyle beef stew, carrots & potatoes, carrots & potatoes",
+        "Name": "Best yet, homestyle beef stew, carrots & potatoes",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 4.2,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Steakhouse chili with beans, steakhouse",
+        "Name": "Steakhouse chili with beans",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 3.3,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, beef ravioli in tomato & meat sauce, chef boyardee, beef ravioli in tomato & meat sauce",
+        "Name": "Chef boyardee, beef ravioli in tomato & meat sauce, chef boyardee",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.8,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Chili beans in rich zesty sauce, chili beans",
+        "Name": "Chili beans in rich zesty sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 1.1,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Ground beef chili fresh soup, ground beef chili",
+        "Name": "Ground beef chili fresh soup",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 5.7,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Chef's recipe taco chili with beans, chef's recipe taco with beans",
+        "Name": "Chefs recipe taco chili with beans, chefs recipe taco with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 5.7,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Black bean & quinoa chili with organic black beans, quinoa, & spices, black bean & quinoa",
+        "Name": "Black bean & quinoa chili with organic black beans, quinoa, & spices",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.8,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Sweet chili sauce, sweet",
+        "Name": "Sweet chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Chicken & dumpling hearty soup, chicken & dumpling",
+        "Name": "Chicken & dumpling hearty soup",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.3,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Original beans in tomato sauce flavored with sliced franks made with chicken, beef and pork , original",
+        "Name": "Original beans in tomato sauce flavored with sliced franks made with chicken, beef & pork",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.4,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Red tamale tamale with red sauce flavored with pork, red with pork",
+        "Name": "Red tamale tamale with red sauce flavored with pork",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 7.3,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Hearty chili stewed with classic chili spices, peppers, beans and delicious organic tofu organic meal solutions, hearty chili",
+        "Name": "Hearty chili stewed with classic chili spices, peppers, beans & delicious organic tofu organic meal solutions",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.8,
@@ -8532,7 +8532,7 @@
         }
     },
     {
-        "Name": "Plant-based chili with beans, with beans",
+        "Name": "Plant-based chili with beans",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 4.5,
@@ -8550,7 +8550,7 @@
         }
     },
     {
-        "Name": "Vegetarian chili, vegetarian",
+        "Name": "Vegetarian chili",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.0,
@@ -8568,7 +8568,7 @@
         }
     },
     {
-        "Name": "Beef chili with beans, beans",
+        "Name": "Beef chili with beans",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 5.5,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Chili con frijoles, chili",
+        "Name": "Chili con frijoles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.7,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Beef chili, beef",
+        "Name": "Beef chili",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 11.0,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Dolmas grape leaves stuffed with rice, grape leaves",
+        "Name": "Dolmas grape leaves stuffed with rice",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 6.7,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Plant-based chili with beans, beans",
+        "Name": "Plant-based chili with beans",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 4.5,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Beef tender stew meat in a hearty gravy, beef",
+        "Name": "Beef tender stew meat in a hearty gravy",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.8,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "White chicken chili soup with a twist of cauliflower, white chicken chili",
+        "Name": "White chicken chili soup with a twist of cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.0,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Homade chili sauce, homade chili",
+        "Name": "Homade chili sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Cheesy burger macaroni pasta in a cheesy meat sauce, cheesy burger macaroni",
+        "Name": "Cheesy burger macaroni pasta in a cheesy meat sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 1.6,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Hot chili con carne with beans, hot",
+        "Name": "Hot chili con carne with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 3.9,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Chicken alfredo primo pasta, chicken alfredo",
+        "Name": "Chicken alfredo primo pasta",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 6.2,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Buffalo style mac & cheese with chicken pasta, buffalo style mac & cheese with chicken",
+        "Name": "Buffalo style mac & cheese with chicken pasta",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 1.4,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Plant-based chili pinto beans, plant-based crumbles and mixed bell peppers, simmered with flavorful tomatoes and spices.",
+        "Name": "Plant-based chili pinto beans, plant-based crumbles & mixed bell peppers, simmered with flavorful tomatoes & spices.",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 1.0,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Hot dog chili meat sauce, hot dog chili",
+        "Name": "Hot dog chili meat sauce",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 8.1,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans lean, seasoned ground turkey with pinto beans in a spicy red sauce, turkey chili with beans",
+        "Name": "Turkey chili with beans lean, seasoned ground turkey with pinto beans in a spicy red sauce",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Hot dog sauce, hot dog",
+        "Name": "Hot dog sauce",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 0.0,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Spaghetti rings pasta with meatballs in tomato sauce, spaghetti rings pasta with meatballs",
+        "Name": "Spaghetti rings pasta with meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.2,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Gemista greek stuffed vegetables in rich tomato sauce, gemista",
+        "Name": "Gemista greek stuffed vegetables in rich tomato sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 6.9,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Medium light in sodium organic chili, medium",
+        "Name": "Medium light in sodium organic chili",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 2.4,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Red & green blend chile sauce, red & green",
+        "Name": "Red & green blend chile sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Smoky chipotle vegetable & quinoa gluten free chili, smoky chipotle",
+        "Name": "Smoky chipotle vegetable & quinoa gluten free chili",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.6,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Spicy organic light in sodium chili, spicy",
+        "Name": "Spicy organic light in sodium chili",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.2,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Beef lasagna, beef",
+        "Name": "Beef lasagna",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.5,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Creamy white bean organic chili, creamy white bean",
+        "Name": "Creamy white bean organic chili",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.5,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Firehouse organic chili, firehouse",
+        "Name": "Firehouse organic chili",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 0.4,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Spaghetti with meatballs pasta in tomato sauce, tomato sauce",
+        "Name": "Spaghetti with meatballs pasta in tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Macaroni & beef in tomato sauce, in tomato sauce",
+        "Name": "Macaroni & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Lean beef no beans chili, lean beef no beans",
+        "Name": "Lean beef no beans chili",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.9,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Turkey chili with beans made with ground turkey, red kidney and pinto beans, mixed bell peppers and hatch chile seasoning, turkey with beans",
+        "Name": "Turkey chili with beans made with ground turkey, red kidney & pinto beans, mixed bell peppers & hatch chile seasoning, turkey with beans",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.9,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Pasta shells & meatballs mini pasta and meatballs made with pork, chicken and beef in tomato sauce, pasta shells & meatballs",
+        "Name": "Pasta shells & meatballs mini pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.4,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Chili mac macaroni with beef in chili gravy, chili mac",
+        "Name": "Chili mac macaroni with beef in chili gravy",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 3.5,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Spaghetti rings & meatballs mini pasta and meatballs made with pork, chicken and beef in tomato sauce, spaghetti rings & meatballs",
+        "Name": "Spaghetti rings & meatballs mini pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.4,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Fancy mixed stir fry vegetables, fancy mixed",
+        "Name": "Fancy mixed stir fry vegetables",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Overstuffed beef ravioli in pasta sauce, overstuffed beef",
+        "Name": "Overstuffed beef ravioli in pasta sauce",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 1.1,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Premium spaghetti and meatballs in tomato sauce",
+        "Name": "Premium spaghetti & meatballs in tomato sauce",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 4.8,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Meat lovers premium pasta in tomato sauce with italian sausage and angus beef, meat lovers",
+        "Name": "Meat lovers premium pasta in tomato sauce with italian sausage & angus beef",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 2.8,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Beef premium mini ravioli in tomato and meat sauce, beef",
+        "Name": "Beef premium mini ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Beef premium ravioli in tomato and meat sauce, beef",
+        "Name": "Beef premium ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Jumbo spaghetti & meatballs pasta and meatballs with pork, chicken and beef in hearty tomato sauce, jumbo spaghetti & meatballs",
+        "Name": "Jumbo spaghetti & meatballs pasta & meatballs with pork, chicken & beef in hearty tomato sauce",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 5.1,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Black bean organic chili, black bean",
+        "Name": "Black bean organic chili",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.7,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "No beans plant-based chili, no beans",
+        "Name": "No beans plant-based chili",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 4.7,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Abc's & 123's with meatballs mini pasta and meatballs made with pork, chicken and beef in tomato sauce, abc's & 123's with meatballs",
+        "Name": "Abcs & with meatballs mini pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 4.2,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Micro beef ravioli mini bite size beef ravioli in tomato and meat sauce, micro beef ravioli",
+        "Name": "Micro beef ravioli mini bite size beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.4,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Beef mini ravioli in tomato sauce, beef",
+        "Name": "Beef mini ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Classic spicy slow simmered meaty chili no beans, classic",
+        "Name": "Classic spicy slow simmered meaty chili no beans",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 8.1,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Baked flavor beanee weenee beans in sauce flavored with sliced chicken franks, baked",
+        "Name": "Baked flavor beanee weenee beans in sauce flavored with sliced chicken franks",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.6,
@@ -9054,7 +9054,7 @@
         }
     },
     {
-        "Name": "Chili hot dog sauce with meat, chili",
+        "Name": "Chili hot dog sauce with meat",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -9063,7 +9063,7 @@
         }
     },
     {
-        "Name": "Lasagna pasta in tomato sauce seasoned with hearty meat big bowl, lasagna",
+        "Name": "Lasagna pasta in tomato sauce seasoned with hearty meat big bowl",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.7,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Beefaroni pasta in meat sauce big bowl, beefaroni",
+        "Name": "Beefaroni pasta in meat sauce big bowl",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.7,
@@ -9081,7 +9081,7 @@
         }
     },
     {
-        "Name": "Onion chili con carne with beans, onion",
+        "Name": "Onion chili con carne with beans",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Big chunk chili con carne no beans, big chunk",
+        "Name": "Big chunk chili con carne no beans",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 6.8,
@@ -9099,7 +9099,7 @@
         }
     },
     {
-        "Name": "Jalapeno hot chili con carne with beans, jalapeno hot",
+        "Name": "Jalapeno hot chili con carne with beans",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.0,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Cheese chili con carne with beans, cheese",
+        "Name": "Cheese chili con carne with beans",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 4.6,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "Beef mini ravioli in tomato & meat sauce, beef",
+        "Name": "Beef mini ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.1,
@@ -9135,7 +9135,7 @@
         }
     },
     {
-        "Name": "Beef ravioli made with enriched wheat macaroni product with fortified protein made with casein in meat sauce, beef",
+        "Name": "Beef ravioli made with enriched wheat macaroni product with fortified protein made with casein in meat sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -9144,7 +9144,7 @@
         }
     },
     {
-        "Name": "Overstuffed italian sausage ravioli in hearty tomato sauce with sausage, overstuffed italian sausage",
+        "Name": "Overstuffed italian sausage ravioli in hearty tomato sauce with sausage",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.3,
@@ -9153,7 +9153,7 @@
         }
     },
     {
-        "Name": "Chef's special beef ravioli in tomato sauce, chef's special beef",
+        "Name": "Chefs special beef ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -9162,7 +9162,7 @@
         }
     },
     {
-        "Name": "Lasagna premium pasta in tomato and meat sauce, lasagna",
+        "Name": "Lasagna premium pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -9171,7 +9171,7 @@
         }
     },
     {
-        "Name": "Beefaroni premium pasta in tomato and meat sauce, beefaroni",
+        "Name": "Beefaroni premium pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 4.6,
@@ -9189,7 +9189,7 @@
         }
     },
     {
-        "Name": "Big beefaroni pasta in tomato and meat sauce, big beefaroni",
+        "Name": "Big beefaroni pasta in tomato & meat sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.4,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Chicken ravioli in tomato sauce, chicken",
+        "Name": "Chicken ravioli in tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.6,
@@ -9207,7 +9207,7 @@
         }
     },
     {
-        "Name": "Super hero shaped pasta & meatballs pasta in tomato sauce with meatballs made with pork, chicken and beef, super hero shaped pasta & meatballs",
+        "Name": "Super hero shaped pasta & meatballs pasta in tomato sauce with meatballs made with pork, chicken & beef",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.5,
@@ -9216,7 +9216,7 @@
         }
     },
     {
-        "Name": "Hot dog sauce, hot dog sauce",
+        "Name": "Hot dog sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -9225,7 +9225,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, whole grain pasta, beefaroni, beefaroni",
+        "Name": "Chef boyardee, whole grain pasta, beefaroni",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.0,
@@ -9234,7 +9234,7 @@
         }
     },
     {
-        "Name": "Salisbury steak big & hearty with vegetables in gravy, salisbury steak",
+        "Name": "Salisbury steak big & hearty with vegetables in gravy",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.9,
@@ -9243,7 +9243,7 @@
         }
     },
     {
-        "Name": "Chef boyardee, jalapeno alfredo pasta in sauce, chicken, chicken",
+        "Name": "Chef boyardee, jalapeno alfredo pasta in sauce, chicken",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.9,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Extra spicy beef ravioli in tomato & meat sauce, extra spicy beef",
+        "Name": "Extra spicy beef ravioli in tomato & meat sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.1,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Whole grain abc's & 123's with meatballs mini pasta and meatballs made with pork, chicken and beef in tomato sauce, whole grain abc's & 123's with meatballs",
+        "Name": "Whole grain abcs & with meatballs mini pasta & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.5,
@@ -9270,7 +9270,7 @@
         }
     },
     {
-        "Name": "Southwest chili with plant-based ground beef, southwest chili",
+        "Name": "Southwest chili with plant-based ground beef",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 1.1,
@@ -9279,7 +9279,7 @@
         }
     },
     {
-        "Name": "Taco chef's recipe chili with beans, taco with beans",
+        "Name": "Taco chefs recipe chili with beans, taco with beans",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 5.7,
@@ -9288,7 +9288,7 @@
         }
     },
     {
-        "Name": "Sweet chili sauce, sweet chili",
+        "Name": "Sweet chili sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9297,7 +9297,7 @@
         }
     },
     {
-        "Name": "Mild chili sauce, mild chili",
+        "Name": "Mild chili sauce",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -9306,7 +9306,7 @@
         }
     },
     {
-        "Name": "Chili no beans con carne, chili no beans",
+        "Name": "Chili no beans con carne",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.8,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "Great northern pork and beans, great northern",
+        "Name": "Great northern pork & beans",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.8,
@@ -9342,7 +9342,7 @@
         }
     },
     {
-        "Name": "Southern smokehouse beans, southern smokehouse",
+        "Name": "Southern smokehouse beans",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.1,
@@ -9351,7 +9351,7 @@
         }
     },
     {
-        "Name": "Basil chicken chef's recipe chili with beans, basil chicken with beans",
+        "Name": "Basil chicken chefs recipe chili with beans, basil chicken with beans",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 2.5,
@@ -9360,7 +9360,7 @@
         }
     },
     {
-        "Name": "Beef & bean chili, beef & bean",
+        "Name": "Beef & bean chili",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 5.7,
@@ -9369,7 +9369,7 @@
         }
     },
     {
-        "Name": "Cuban style seasoned black beans with a savory garlic and lime sauce, cuban style",
+        "Name": "Cuban style seasoned black beans with a savory garlic & lime sauce",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.4,
@@ -9378,7 +9378,7 @@
         }
     },
     {
-        "Name": "Chili with beans condensed, with beans",
+        "Name": "Chili with beans condensed",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 27.4,
@@ -9387,7 +9387,7 @@
         }
     },
     {
-        "Name": "Uncured bacon baked beans, uncured bacon",
+        "Name": "Uncured bacon baked beans",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.8,
@@ -9396,7 +9396,7 @@
         }
     },
     {
-        "Name": "Bumble bee snack on the run! chicken salad with crackers kit 3.5 oz. box",
+        "Name": "Bumble bee snack on the run! chicken salad with crackers kit",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 11.0,
@@ -9405,7 +9405,7 @@
         }
     },
     {
-        "Name": "Original chili seasoning, original",
+        "Name": "Original chili seasoning",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 5.6,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Zesty black bean organic black beans with corn & peppers in a zesty tex-mex sauce bowl topper, zesty black bean",
+        "Name": "Zesty black bean organic black beans with corn & peppers in a zesty tex-mex sauce bowl topper",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.4,
@@ -9432,7 +9432,7 @@
         }
     },
     {
-        "Name": "Curried chickpeas organic chickpeas in a mild curry sauce with tomatoes & kale bowl topper, curried chickpeas",
+        "Name": "Curried chickpeas organic chickpeas in a mild curry sauce with tomatoes & kale bowl topper",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.1,
@@ -9441,7 +9441,7 @@
         }
     },
     {
-        "Name": "Hot & spicy chili with beans, hot & spicy",
+        "Name": "Hot & spicy chili with beans",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 3.3,
@@ -9450,7 +9450,7 @@
         }
     },
     {
-        "Name": "Spaghetti & meatballs made with pork, chicken and beef in tomato sauce, spaghetti & meatballs",
+        "Name": "Spaghetti & meatballs made with pork, chicken & beef in tomato sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 4.2,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Hormel chili with beans, 25 oz",
+        "Name": "Hormel chili with beans",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.6,
@@ -9486,7 +9486,7 @@
         }
     },
     {
-        "Name": "Dinty moore beef stew, 20 oz",
+        "Name": "Dinty moore beef stew",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -9567,7 +9567,7 @@
         }
     },
     {
-        "Name": "Premium hand picked lump crab meat",
+        "Name": "Premium h& picked lump crab meat",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.2,
@@ -9576,7 +9576,7 @@
         }
     },
     {
-        "Name": "Premium hand picked claw crab meat",
+        "Name": "Premium h& picked claw crab meat",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.2,
@@ -9585,7 +9585,7 @@
         }
     },
     {
-        "Name": "Podravka beef goulash, 10.5 oz",
+        "Name": "Podravka beef goulash",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 6.6,
@@ -9594,7 +9594,7 @@
         }
     },
     {
-        "Name": "4-cheese mac & cheese pasta in cheese sauce, 4-cheese mac & cheese",
+        "Name": "Mac & cheese pasta in cheese sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.4,
@@ -9603,7 +9603,7 @@
         }
     },
     {
-        "Name": "Chili hot dog sauce, chili hot dog",
+        "Name": "Chili hot dog sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9612,7 +9612,7 @@
         }
     },
     {
-        "Name": "Firehouse chili with beans ground beef, beans and vegetable in a spiced tomato sauce kettle-cooked, firehouse chili",
+        "Name": "Firehouse chili with beans ground beef, beans & vegetable in a spiced tomato sauce kettle-cooked",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 3.7,

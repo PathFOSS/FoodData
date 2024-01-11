@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Tuna salad on wheat bread, tuna salad",
+        "Name": "Tuna salad on wheat bread",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 7.2,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti with mayonnaise sandwich, turkey & havarti",
+        "Name": "Turkey & havarti with mayonnaise s&wich",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 10.4,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Ham & swiss with smoked ham, swiss cheese & honey mustard on a pretzel bun sandwich, ham & swiss",
+        "Name": "Ham & swiss with smoked ham, swiss cheese & honey mustard on a pretzel bun s&wich",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 6.6,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Mega smoked ham & cheese sandwich, mega smoked ham & cheese",
+        "Name": "Mega smoked ham & cheese s&wich",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 5.6,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Organic sandwich, veggie salad",
+        "Name": "Organic s&wich, veggie salad",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 5.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Sandwich, tuna salad",
+        "Name": "S&wich, tuna salad",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 9.2,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Sandwich, chicken caesar",
+        "Name": "S&wich, chicken caesar",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 17.6,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Signature sandwich, turkey, caramelized red onion & white cheddar cheese panini",
+        "Name": "Signature s&wich, turkey, caramelized red onion & white cheddar cheese panini",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 5.4,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Italian-style sandwich",
+        "Name": "Italian-style s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.1,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Turkey avocado club with turkey, avocado, cheddar cheese & bacon on sourdough bread sandwich, turkey avocado club",
+        "Name": "Turkey avocado club with turkey, avocado, cheddar cheese & bacon on sourdough bread s&wich",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 9.2,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Italian-style with capicola ham, pepperoni & provolone cheese sandwich, italian-style",
+        "Name": "Italian-style with capicola ham, pepperoni & provolone cheese s&wich",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 10.6,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Smoked turkey with sun-dried tomato pesto on semolina bread sandwich, smoked turkey",
+        "Name": "Smoked turkey with sun-dried tomato pesto on semolina bread s&wich",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 7.5,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Italian-style meat trio panini grilled sandwich stuffed with ham, pepperoni, salami and provolone, sprinkled with grated parmesan, grated romano, parsley and oregano, italian-style meat trio panini",
+        "Name": "Italian-style meat trio panini grilled s&wich stuffed with ham, pepperoni, salami & provolone, sprinkled with grated parmesan, grated romano, parsley & oregano",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 16.2,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Spicy smoked chicken pepper jack cheese & sriracha aioli on chipotle brioche bread sandwich, spicy smoked chicken",
+        "Name": "Spicy smoked chicken pepper jack cheese & sriracha aioli on chipotle brioche bread s&wich",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 9.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Turkey pastrami with swiss cheese & mustard on dark rye bread sandwich, turkey pastrami",
+        "Name": "Turkey pastrami with swiss cheese & mustard on dark rye bread s&wich",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 5.8,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Everything bagel topped with ham, turkey, provolone cheese & a dijon aioli sandwich, everything bagel",
+        "Name": "Everything bagel topped with ham, turkey, provolone cheese & a dijon aioli s&wich",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 8.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti on wheat bread made with sprouted wheat sandwich, turkey & havarti",
+        "Name": "Turkey & havarti on wheat bread made with sprouted wheat s&wich",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 9.3,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Italian on garlic bread, garlic",
+        "Name": "Italian on garlic bread",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 13.1,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Freshly made homestyle egg salad sandwich",
+        "Name": "Freshly made homestyle egg salad s&wich",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 16.3,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Homestyle chicken salad sandwich",
+        "Name": "Homestyle chicken salad s&wich",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 13.8,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Homestyle roasted turkey breast, white cheddar cheese, sliced tomatoes & leaf lettuce on whole grain wheat bread sandwich, homestyle turkey & cheese",
+        "Name": "Homestyle roasted turkey breast, white cheddar cheese, sliced tomatoes & leaf lettuce on whole grain wheat bread s&wich, homestyle turkey & cheese",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 5.9,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Cranberry almond chicken salad on cranberry wild rice bread sandwich, cranberry almond chicken",
+        "Name": "Cranberry almond chicken salad on cranberry wild rice bread s&wich",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 11.1,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Spicy ham ciabatta, spicy",
+        "Name": "Spicy ham ciabatta",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 6.8,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Buffalo-style chicken and pepper jack harvester, buffalo-style",
+        "Name": "Buffalo-style chicken & pepper jack harvester",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 6.8,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Maple turkey sandwich, maple turkey",
+        "Name": "Maple turkey s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 9.2,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Chicken salad croissant, chicken salad",
+        "Name": "Chicken salad croissant",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 15.2,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Tuna salad croissant sandwich, tuna salad",
+        "Name": "Tuna salad croissant s&wich",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 15.5,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Maple turkey sandwich",
+        "Name": "Maple turkey s&wich",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.3,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar sandwich, ham & cheddar",
+        "Name": "Ham & cheddar s&wich",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 7.8,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Smoked turkey, ham, bacon mayonnaise, lettuce, cheddar and american cheeses on wheat bread",
+        "Name": "Smoked turkey, ham, bacon mayonnaise, lettuce, cheddar & american cheeses on wheat bread",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 9.6,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Cuban panini sandwiches, cuban panini",
+        "Name": "Cuban panini s&wiches",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 5.3,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Chicken salad croissant, chicken",
+        "Name": "Chicken salad croissant",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 14.6,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Authentic style italian sub branded deluxe ham, genoa salami, pepperoni & picante provolone cheese, authentic style",
+        "Name": "Authentic style italian sub br&ed deluxe ham, genoa salami, pepperoni & picante provolone cheese",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 9.6,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Turkey breast sub, turkey",
+        "Name": "Turkey breast sub",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 6.5,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Virginia ham and cheddar, mesquite turkey and provolone on hawaiian sweet rolls slider party tray, virginia ham, cheddar, mesquite turkey, hawaiian sweet",
+        "Name": "Virginia ham & cheddar, mesquite turkey & provolone on hawaiian sweet rolls slider party tray, virginia ham, cheddar, mesquite turkey",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 10.4,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Spicy chicken sandwich, spicy chicken",
+        "Name": "Spicy chicken s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.0,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Original chicken sandwich, original chicken",
+        "Name": "Original chicken s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.0,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Italian garlic panini, italian garlic",
+        "Name": "Italian garlic panini",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 13.5,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Blazing buffalo chicken, bacon & jalapeno pepper jack cheese club sub, blazing buffalo",
+        "Name": "Blazing buffalo chicken, bacon & jalapeno pepper jack cheese club sub",
         "Nutrients": {
             "Protein": 17.3,
             "Fat": 9.8,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Honey turkey smoked gouda slider, honey turkey smoked",
+        "Name": "Honey turkey smoked gouda slider",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 8.2,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Sweet & crispy chicken breakfast slider sandwich, sweet & crispy",
+        "Name": "Sweet & crispy chicken breakfast slider s&wich",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 12.8,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Smoked turkey avocado jalapeno cornbread, smoked turkey avocado jalapeno",
+        "Name": "Smoked turkey avocado jalapeno cornbread",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 10.7,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Cajun roast beef pretzel, cajun roast beef",
+        "Name": "Cajun roast beef pretzel",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 8.3,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Smoked ham & cheese sandwich on homestyle white bread, smoked ham & cheese",
+        "Name": "Smoked ham & cheese s&wich on homestyle white bread",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 5.0,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Meatballs and four cheese stuffed calzone, meatball",
+        "Name": "Meatballs & four cheese stuffed calzone",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 9.7,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Curried chickpea salad sandwich, curried chickpea salad",
+        "Name": "Curried chickpea salad s&wich",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 8.9,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Classic ham & turkey sub sandwich kit",
+        "Name": "Classic ham & turkey sub s&wich kit",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 5.3,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Cafe spice, south indian potato naan sandwich, medium",
+        "Name": "Cafe spice, south indian potato naan s&wich, medium",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 5.1,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Rev #15 buffalo chicken",
+        "Name": "Rev buffalo chicken",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 13.0,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Cranberry almond chicken salad sandwich",
+        "Name": "Cranberry almond chicken salad s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 10.8,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti sandwich with mayonnaise",
+        "Name": "Turkey & havarti s&wich with mayonnaise",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 10.4,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar on whole grain bread sandwich",
+        "Name": "Roast beef & cheddar on whole grain bread s&wich",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.6,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Mini sandwiches",
+        "Name": "Mini s&wiches",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 8.5,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Chicken salad sandwich",
+        "Name": "Chicken salad s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 9.7,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "#1 pepperoni pizza",
+        "Name": "Pepperoni pizza",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 26.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "White sandwich slims",
+        "Name": "White s&wich slims",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Sandwich rolls",
+        "Name": "S&wich rolls",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 3.5,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Our deli sandwich",
+        "Name": "Our deli s&wich",
         "Nutrients": {
             "Protein": 17.3,
             "Fat": 7.7,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Classic italian sandwich",
+        "Name": "Classic italian s&wich",
         "Nutrients": {
             "Protein": 25.9,
             "Fat": 29.6,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Ham wedge sandwich",
+        "Name": "Ham wedge s&wich",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.1,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Turkey wedge sandwich",
+        "Name": "Turkey wedge s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 6.1,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Italian premium sandwich",
+        "Name": "Italian premium s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 13.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Turkey sandwich",
+        "Name": "Turkey s&wich",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 5.3,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Boar's head, turkey sandwich",
+        "Name": "Boars head, turkey s&wich",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 5.6,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Bh large american hoagie sandwiches",
+        "Name": "Bh large american hoagie s&wiches",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 5.1,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Ham sandwich",
+        "Name": "Ham s&wich",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 5.1,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "Traditional italian sandwich",
+        "Name": "Traditional italian s&wich",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 9.3,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Apple cranberry tuna sandwich",
+        "Name": "Apple cranberry tuna s&wich",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 6.2,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Multigrain bread sandwich",
+        "Name": "Multigrain bread s&wich",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 4.2,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Chicken apple brie on 7-grain baguette",
+        "Name": "Chicken apple brie on baguette",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 5.9,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Reduced fat black forest ham and 7 grain bread sandwich",
+        "Name": "Reduced fat black forest ham & grain bread s&wich",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.5,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Roasted turkey and swiss baguette sandwich",
+        "Name": "Roasted turkey & swiss baguette s&wich",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 6.2,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "Good & de lish, traditional tuna salad sandwich",
+        "Name": "Good & de lish, traditional tuna salad s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 7.0,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "Sandwich",
+        "Name": "S&wich",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 6.2,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Chicken breast sandwich",
+        "Name": "Chicken breast s&wich",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 7.7,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Onion poppy ciabatta sandwich rolls",
+        "Name": "Onion poppy ciabatta s&wich rolls",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.8,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Ham & white cheddar sandwich",
+        "Name": "Ham & white cheddar s&wich",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 7.8,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Egg salad sandwich",
+        "Name": "Egg salad s&wich",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 15.0,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Ham & swiss sandwich",
+        "Name": "Ham & swiss s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 5.7,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Signature sandwiches",
+        "Name": "Signature s&wiches",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 6.3,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Falafel sandwich",
+        "Name": "Falafel s&wich",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 4.4,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Spicy rib sandwich",
+        "Name": "Spicy rib s&wich",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 14.7,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Roasted chicken multigrain sandwich",
+        "Name": "Roasted chicken multigrain s&wich",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 3.5,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone on wheat baguette sandwich",
+        "Name": "Turkey & provolone on wheat baguette s&wich",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 8.4,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Turkey & colby jack half sub sandwich",
+        "Name": "Turkey & colby jack half sub s&wich",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 4.3,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Turkey gobbler sandwich",
+        "Name": "Turkey gobbler s&wich",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 6.6,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Ham & cheese sandwich",
+        "Name": "Ham & cheese s&wich",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.5,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Ham and swiss cheese wedge",
+        "Name": "Ham & swiss cheese wedge",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 6.3,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Turkey and swiss cheese wedge",
+        "Name": "Turkey & swiss cheese wedge",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 8.5,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheddar turkey sandwich",
+        "Name": "Jalapeno cheddar turkey s&wich",
         "Nutrients": {
             "Protein": 20.2,
             "Fat": 19.2,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Ham and swiiss",
+        "Name": "Ham & swiiss",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 6.9,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Smoked turkey & cheddar sub with lettuce and tomato",
+        "Name": "Smoked turkey & cheddar sub with lettuce & tomato",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 3.1,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Black forest ham, pretzel sandwich",
+        "Name": "Black forest ham, pretzel s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 8.1,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Chicken waldorf sandwich on multigrain",
+        "Name": "Chicken waldorf s&wich on multigrain",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 12.2,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Chicken salad sandwiches",
+        "Name": "Chicken salad s&wiches",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 5.4,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar sub sandwich",
+        "Name": "Turkey & cheddar sub s&wich",
         "Nutrients": {
             "Protein": 18.1,
             "Fat": 5.7,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Signature caprese panini sandwich",
+        "Name": "Signature caprese panini s&wich",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 10.9,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Sriracha chicken sandwich",
+        "Name": "Sriracha chicken s&wich",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 6.7,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Classic sandwich",
+        "Name": "Classic s&wich",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.0,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Whole foods market, turkey quickbite sandwich",
+        "Name": "Whole foods market, turkey quickbite s&wich",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.6,
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "Name": "Turkey & monterey sandwich with apples",
+        "Name": "Turkey & monterey s&wich with apples",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 8.1,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Signature half club sandwich",
+        "Name": "Signature half club s&wich",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 7.8,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Honey turkey with smoky bacon and fresh spinach",
+        "Name": "Honey turkey with smoky bacon & fresh spinach",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 12.9,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Mega smoked ham & cheese sandwiches",
+        "Name": "Mega smoked ham & cheese s&wiches",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 5.6,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Hawaiian sandwich on croissant",
+        "Name": "Hawaiian s&wich on croissant",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 10.1,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "My deli sandwich",
+        "Name": "My deli s&wich",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 19.0,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Black forest ham and cheddar cheese sandwich",
+        "Name": "Black forest ham & cheddar cheese s&wich",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 5.0,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Egg salad on white bread sandwich",
+        "Name": "Egg salad on white bread s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 14.8,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Turkey and bacon club on multigrain",
+        "Name": "Turkey & bacon club on multigrain",
         "Nutrients": {
             "Protein": 16.6,
             "Fat": 6.7,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Organic turkey & cheddar sandwich",
+        "Name": "Organic turkey & cheddar s&wich",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.5,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Organic sandwich",
+        "Name": "Organic s&wich",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 5.0,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Organic beef \"fajita\" sandwich",
+        "Name": "Organic beef fajita s&wich",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.9,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "Un turkey sandwich",
+        "Name": "Un turkey s&wich",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 5.9,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Roast beef, bacon & cheddar sandwich",
+        "Name": "Roast beef, bacon & cheddar s&wich",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 13.6,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Turkey & ham mini sandwiches",
+        "Name": "Turkey & ham mini s&wiches",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 8.5,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Lunds & byerlys, grilled chicken salad sandwich",
+        "Name": "Lunds & byerlys, grilled chicken salad s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 11.7,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Our deli turkey gobbler sandwich",
+        "Name": "Our deli turkey gobbler s&wich",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 6.4,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Deviled egg sandwich",
+        "Name": "Deviled egg s&wich",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 9.4,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Lunds & byerlys, ham & brie pretzel sandwich",
+        "Name": "Lunds & byerlys, ham & brie pretzel s&wich",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 6.7,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Roast beef wedge sandwich",
+        "Name": "Roast beef wedge s&wich",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 6.1,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Premium sandwiches",
+        "Name": "Premium s&wiches",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.3,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss w/herb dijon sandwiches",
+        "Name": "Turkey & swiss w/herb dijon s&wiches",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 9.8,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Bacon, egg and cheese panini",
+        "Name": "Bacon, egg & cheese panini",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 11.9,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Triangle on wheat, sandwich",
+        "Name": "Triangle on wheat, s&wich",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 11.3,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Combo super triangle sandwich",
+        "Name": "Combo super triangle s&wich",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 8.6,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Grilled eggplant with fresh mozzarella sandwich",
+        "Name": "Grilled eggplant with fresh mozzarella s&wich",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 8.3,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Good & de lish, black forest ham and brie with honey mustard spread sandwich",
+        "Name": "Good & de lish, black forest ham & brie with honey mustard spread s&wich",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.7,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Egg salad with fresh dill sandwich",
+        "Name": "Egg salad with fresh dill s&wich",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 9.1,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Wasabi infused chicken salad sandwich",
+        "Name": "Wasabi infused chicken salad s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 8.3,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Multigrain ciabatta sandwich rolls",
+        "Name": "Multigrain ciabatta s&wich rolls",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 2.4,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Italian sandwich",
+        "Name": "Italian s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 12.1,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Ham & swiss with spicy mustard on a pretzel roll sandwiches",
+        "Name": "Ham & swiss with spicy mustard on a pretzel roll s&wiches",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.1,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Country ham sandwich",
+        "Name": "Country ham s&wich",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 6.0,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Breast meat chicken salad sandwich",
+        "Name": "Breast meat chicken salad s&wich",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 9.7,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Bbq chicken salad sandwich",
+        "Name": "Bbq chicken salad s&wich",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 11.5,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Sandwich bun",
+        "Name": "S&wich bun",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 10.4,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Turkey and colby jack sandwich",
+        "Name": "Turkey & colby jack s&wich",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 4.8,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Carving station chicken breast sandwich",
+        "Name": "Carving station chicken breast s&wich",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 9.4,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Pastrami and swiss cheese",
+        "Name": "Pastrami & swiss cheese",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 5.2,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Turkey and cheese on honey wheat berry",
+        "Name": "Turkey & cheese on honey wheat berry",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 3.1,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Gourmet sandwiches",
+        "Name": "Gourmet s&wiches",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 3.6,
@@ -2619,7 +2619,7 @@
         }
     },
     {
-        "Name": "1/2 big apple turkey",
+        "Name": "Big apple turkey",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 5.4,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "Ham tailgaters sandwich",
+        "Name": "Ham tailgaters s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 9.5,
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "Name": "Shipwreck kelly sandwich",
+        "Name": "Shipwreck kelly s&wich",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 5.8,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Signature sandwich",
+        "Name": "Signature s&wich",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 5.4,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Classic spicy chicken sandwich",
+        "Name": "Classic spicy chicken s&wich",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 6.7,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "Gourmet poorboy sub sandwich",
+        "Name": "Gourmet poorboy sub s&wich",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 8.1,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Club stacker sandwich",
+        "Name": "Club stacker s&wich",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 8.1,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Classic italian gourmet sub sandwich",
+        "Name": "Classic italian gourmet sub s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 7.7,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Oven roasted chicken breast and swiss cheese",
+        "Name": "Oven roasted chicken breast & swiss cheese",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 9.9,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Ham and cheese on wheat bread",
+        "Name": "Ham & cheese on wheat bread",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 6.0,
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "Name": "Roast beef sandwich",
+        "Name": "Roast beef s&wich",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 7.8,
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "Name": "Organic black forest ham & cheese sandwich",
+        "Name": "Organic black forest ham & cheese s&wich",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 6.1,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Turkey cheddar wedge sandwich",
+        "Name": "Turkey cheddar wedge s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 1.5,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Ham & smoked gouda sandwich",
+        "Name": "Ham & smoked gouda s&wich",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 8.2,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Ham and cheese 6\" sub",
+        "Name": "Ham & cheese sub",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 4.6,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Power sandwich",
+        "Name": "Power s&wich",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 4.0,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Head crafted with boar's head ovengold, turkey & cream havarti cheese",
+        "Name": "Head crafted with boars head ovengold, turkey & cream havarti cheese",
         "Nutrients": {
             "Protein": 17.8,
             "Fat": 6.5,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Italian sub sandwich",
+        "Name": "Italian sub s&wich",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 8.4,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Caprese ciabatta sandwich",
+        "Name": "Caprese ciabatta s&wich",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 12.4,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar sandwich",
+        "Name": "Ham & cheddar s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 6.0,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Roast beef sandwich with blue cheese mayonnaise",
+        "Name": "Roast beef s&wich with blue cheese mayonnaise",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 9.5,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Turkey sub sandwich",
+        "Name": "Turkey sub s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 4.0,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Mini turkey sandwiches",
+        "Name": "Mini turkey s&wiches",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 8.7,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Canadian bacon breakfast sandwich",
+        "Name": "Canadian bacon breakfast s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 11.3,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Mini ham sandwiches",
+        "Name": "Mini ham s&wiches",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 9.4,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Black forest ham pretzel sandwich",
+        "Name": "Black forest ham pretzel s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 8.5,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Ham & turkey club sandwich",
+        "Name": "Ham & turkey club s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 12.9,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Turkey & guacamole sandwich, turkey, swiss cheese, lettuce & tomato on a multigrain baguette",
+        "Name": "Turkey & guacamole s&wich, turkey, swiss cheese, lettuce & tomato on a multigrain baguette",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 10.8,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Club sandwich",
+        "Name": "Club s&wich",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 12.3,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Chicken pesto sandwich",
+        "Name": "Chicken pesto s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 12.2,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Thoughtfully handmade",
+        "Name": "Thoughtfully h&made",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 6.1,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "Turkey, ham & bacon club sandwich",
+        "Name": "Turkey, ham & bacon club s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 13.9,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Honey ham & turkey sliders 4ct",
+        "Name": "Honey ham & turkey sliders",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 9.4,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Chicken salad on white bread sandwich",
+        "Name": "Chicken salad on white bread s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 10.6,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Carved chicken club sandwich",
+        "Name": "Carved chicken club s&wich",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 12.0,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "#1 ham & pepperoni",
+        "Name": "Ham & pepperoni",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 15.6,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese sandwich",
+        "Name": "Turkey & cheese s&wich",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.9,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Roast beef & white cheddar sandwich",
+        "Name": "Roast beef & white cheddar s&wich",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 9.1,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Italian style sandwich",
+        "Name": "Italian style s&wich",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 10.3,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Sriracha turkey sandwich",
+        "Name": "Sriracha turkey s&wich",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 8.7,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Roasted vegetable cream cheese sandwich",
+        "Name": "Roasted vegetable cream cheese s&wich",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.2,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone sandwich on wheat",
+        "Name": "Turkey & provolone s&wich on wheat",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 7.1,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar on 9 grain bread",
+        "Name": "Roast beef & cheddar on grain bread",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 7.6,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Tuna salad sandwich on whole wheat bread",
+        "Name": "Tuna salad s&wich on whole wheat bread",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 7.3,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Chicken salad sandwich on sweet dark bread",
+        "Name": "Chicken salad s&wich on sweet dark bread",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 11.9,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Ham and cheese sub",
+        "Name": "Ham & cheese sub",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 5.9,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone sandwich on white",
+        "Name": "Turkey & provolone s&wich on white",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 8.0,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Ham & swiss sandwich on wheat",
+        "Name": "Ham & swiss s&wich on wheat",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 8.0,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar deli sandwich",
+        "Name": "Ham & cheddar deli s&wich",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 6.7,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss deli sandwich",
+        "Name": "Turkey & swiss deli s&wich",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 6.7,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Po' boy sub",
+        "Name": "Po boy sub",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.3,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Ham and cheese pita",
+        "Name": "Ham & cheese pita",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 8.7,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Turkey avocado club sandwich",
+        "Name": "Turkey avocado club s&wich",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 9.2,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Italian-style sandwich with hot capicola ham, pepperoni & provolone cheese, italian-style",
+        "Name": "Italian-style s&wich with hot capicola ham, pepperoni & provolone cheese",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 10.6,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Turkey monterey sandwich with apple and carrot",
+        "Name": "Turkey monterey s&wich with apple & carrot",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 7.1,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Harmonious ham sandwich",
+        "Name": "Harmonious ham s&wich",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.6,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Brie & prosciutto sandwich",
+        "Name": "Brie & prosciutto s&wich",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 12.6,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Charcuterie artisan sandwich",
+        "Name": "Charcuterie artisan s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 14.7,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti sandwich",
+        "Name": "Turkey & havarti s&wich",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 15.0,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Deli cuban sandwitch",
+        "Name": "Deli cuban s&witch",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 10.2,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Roast beef & swiss sandwich",
+        "Name": "Roast beef & swiss s&wich",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 8.2,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss sandwich",
+        "Name": "Turkey & swiss s&wich",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 6.7,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Veggie bistro artisan sandwich feta, swiss, hummus, red bell pepper",
+        "Name": "Veggie bistro artisan s&wich feta, swiss, hummus, red bell pepper",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 6.1,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Seafood salad deli sandwich",
+        "Name": "Seafood salad deli s&wich",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.5,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Classic italian style premium sandwiches",
+        "Name": "Classic italian style premium s&wiches",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 12.3,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Roast beef and cheddar hoagie",
+        "Name": "Roast beef & cheddar hoagie",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 9.7,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Ham, brie & strawberry preserve flute sandwich",
+        "Name": "Ham, brie & strawberry preserve flute s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 6.2,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Applewood ham and swiss hoagie",
+        "Name": "Applewood ham & swiss hoagie",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 9.7,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Egg salad sandwich with cage free eggs",
+        "Name": "Egg salad s&wich with cage free eggs",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 13.1,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Abf turkey and havarti hoagie",
+        "Name": "Abf turkey & havarti hoagie",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.8,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "6\" sub sandwich with jalapeno ranch dressing",
+        "Name": "Sub s&wich with jalapeno ranch dressing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.2,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Handcrafted everroast chicken & monterey jack cheese sandwich",
+        "Name": "H&crafted everroast chicken & monterey jack cheese s&wich",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.4,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "All-pro sandwich",
+        "Name": "All-pro s&wich",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 4.7,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar on white sandwich",
+        "Name": "Turkey & cheddar on white s&wich",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 5.4,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Tuscan turkey sandwich",
+        "Name": "Tuscan turkey s&wich",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 6.0,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Turkey sandwich on croissant",
+        "Name": "Turkey s&wich on croissant",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 12.2,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Chicken salad on croissant wraps & sandwiches",
+        "Name": "Chicken salad on croissant wraps & s&wiches",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 15.9,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Egg salad sandwich on white",
+        "Name": "Egg salad s&wich on white",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 13.6,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Tuna sandwich on wheat",
+        "Name": "Tuna s&wich on wheat",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 6.5,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Simplicity all natural* ham sandwich",
+        "Name": "Simplicity all natural* ham s&wich",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 7.7,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Wraps & sandwiches, turkey provolone sliders with apples",
+        "Name": "Wraps & s&wiches, turkey provolone sliders with apples",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 8.3,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar sandwich",
+        "Name": "Roast beef & cheddar s&wich",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 9.7,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Handcrafted with boar's head blazing buffalo style chicken, jalapeno pepper jack cheese & bacon",
+        "Name": "H&crafted with boars head blazing buffalo style chicken, jalapeno pepper jack cheese & bacon",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 6.3,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "Handcrafted smokemaster black forest ham & swiss cheese",
+        "Name": "H&crafted smokemaster black forest ham & swiss cheese",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 4.2,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Peanut butter & grape jelly sandwich",
+        "Name": "Peanut butter & grape jelly s&wich",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 14.3,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Tuna salad on multigrain bread wraps & sandwiches",
+        "Name": "Tuna salad on multigrain bread wraps & s&wiches",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 2.9,
@@ -4086,7 +4086,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey with american cheese slider sandwich",
+        "Name": "Homestyle turkey with american cheese slider s&wich",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 6.6,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Uncured dinner ham with baby swiss sandwich",
+        "Name": "Uncured dinner ham with baby swiss s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 7.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Handcrafted with boar's head branded deluxe ham, genoa salami, pepperoni & picante provolone cheese",
+        "Name": "H&crafted with boars head br&ed deluxe ham, genoa salami, pepperoni & picante provolone cheese",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 9.2,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Smoked turkey sandwich",
+        "Name": "Smoked turkey s&wich",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 7.5,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Roast chicken & monterey jack sandwich",
+        "Name": "Roast chicken & monterey jack s&wich",
         "Nutrients": {
             "Protein": 16.6,
             "Fat": 6.4,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Pastrami & baby swiss sandwich",
+        "Name": "Pastrami & baby swiss s&wich",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 6.4,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey & provolone sandwich",
+        "Name": "Oven roasted turkey & provolone s&wich",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 5.0,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "Philly cheesesteak sandwich",
+        "Name": "Philly cheesesteak s&wich",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 12.7,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Chicken parmesan sandwich",
+        "Name": "Chicken parmesan s&wich",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 8.1,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Supreme pizza sandwich",
+        "Name": "Supreme pizza s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 14.2,
@@ -4203,7 +4203,7 @@
         }
     },
     {
-        "Name": "Artisan sandwich muffuletta",
+        "Name": "Artisan s&wich muffuletta",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 12.1,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Artisan sandwich",
+        "Name": "Artisan s&wich",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 9.8,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Italian artisan sandwich with sliced ham, tomatoes, genoa salami, provolone cheese and green leaf lettuce on a philly sub roll",
+        "Name": "Italian artisan s&wich with sliced ham, tomatoes, genoa salami, provolone cheese & green leaf lettuce on a philly sub roll",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 8.5,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Turkey sandwich snack pack",
+        "Name": "Turkey s&wich snack pack",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 8.2,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "6\" turkey, oven roasted turkey w/ lettuce and tomato on fresh baked wheat roll",
+        "Name": "Turkey, oven roasted turkey w/ lettuce & tomato on fresh baked wheat roll",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 1.4,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "12\" ham & cheese",
+        "Name": "Ham & cheese",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.4,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Ham and black bean torta sandwich",
+        "Name": "Ham & black bean torta s&wich",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.5,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Chipotle turkey sandwich",
+        "Name": "Chipotle turkey s&wich",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 8.3,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Handmade sandwich with turkey breast, cheddar cheese and green leaf lettuce on multigrain bread",
+        "Name": "H&made s&wich with turkey breast, cheddar cheese & green leaf lettuce on multigrain bread",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 6.1,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Smoked turkey and american on wheat bread",
+        "Name": "Smoked turkey & american on wheat bread",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 5.2,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Roast beef and cheddar cheese bistro",
+        "Name": "Roast beef & cheddar cheese bistro",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 9.5,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Tuscan sun gourmet sandwiches",
+        "Name": "Tuscan sun gourmet s&wiches",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 4.3,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Tavern ham grab and go sandwich",
+        "Name": "Tavern ham grab & go s&wich",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.6,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Egg salad grab and go sandwich",
+        "Name": "Egg salad grab & go s&wich",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 22.5,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Bacon ranch chicken salad on 9 grain",
+        "Name": "Bacon ranch chicken salad on grain",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 8.0,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Tuna salad sandwich",
+        "Name": "Tuna salad s&wich",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 7.0,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "Submarine sandwich",
+        "Name": "Submarine s&wich",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 78.6,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar sandwich",
+        "Name": "Turkey & cheddar s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 4.6,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "California style veggie on ciabatta sandwiches",
+        "Name": "California style veggie on ciabatta s&wiches",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.6,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Ham & swiss on pretzel roll sandwiches",
+        "Name": "Ham & swiss on pretzel roll s&wiches",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 14.5,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Chicken salad on croissant sandwiches",
+        "Name": "Chicken salad on croissant s&wiches",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 14.1,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Steak and cheese sub roll",
+        "Name": "Steak & cheese sub roll",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 14.1,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Spicy smoked chicken sandwich pepper jack cheese & sriracha aioli on chipotle brioche bread, spicy smoked chicken",
+        "Name": "Spicy smoked chicken s&wich pepper jack cheese & sriracha aioli on chipotle brioche bread",
         "Nutrients": {
             "Protein": 21.8,
             "Fat": 9.0,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Turkey pastrami sandwich with swiss cheese & mustard on dark rye bread, turkey pastrami",
+        "Name": "Turkey pastrami s&wich with swiss cheese & mustard on dark rye bread",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 6.3,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Everything bagel sandwich",
+        "Name": "Everything bagel s&wich",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 6.1,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti sandwich on bread made with sprouted wheat, turkey & havarti",
+        "Name": "Turkey & havarti s&wich on bread made with sprouted wheat",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 11.1,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Hot n' spicy ham and jack",
+        "Name": "Hot n spicy ham & jack",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 12.6,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Mega cranberry almond chicken salad on stone ground wheat bread, mega cranberry almond chicken salad",
+        "Name": "Mega cranberry almond chicken salad on stone ground wheat bread",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 10.4,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Deviled egg salad on multigrain sandwiches",
+        "Name": "Deviled egg salad on multigrain s&wiches",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 12.1,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Chipotle bbq chicken & sharp cheddar on basket oat bread, chipotle bbq chicken & sharp cheddar",
+        "Name": "Chipotle bbq chicken & sharp cheddar on basket oat bread",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 8.5,
@@ -4914,7 +4914,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti sandwich with mayonnaise, turkey & havarti",
+        "Name": "Turkey & havarti s&wich with mayonnaise",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 10.4,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Sandwich with smoked ham, swiss cheese & honey mustard on a pretzel bun, ham & swiss",
+        "Name": "S&wich with smoked ham, swiss cheese & honey mustard on a pretzel bun, ham & swiss",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 5.7,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Turkey & cream havarti cheese baguette, turkey & cream havarti cheese",
+        "Name": "Turkey & cream havarti cheese baguette",
         "Nutrients": {
             "Protein": 17.8,
             "Fat": 6.5,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Carved chicken club with bacon & ranch dressing sandwich, carved chicken club",
+        "Name": "Carved chicken club with bacon & ranch dressing s&wich",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 12.0,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Sandwich with turkey, avocado, cheddar cheese & bacon on sourdough bread club, turkey avocado club",
+        "Name": "S&wich with turkey, avocado, cheddar cheese & bacon on sourdough bread club, turkey avocado club",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 9.2,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Italian-style with hot capicola ham, pepperoni & provolone cheese sandwich, italian-style",
+        "Name": "Italian-style with hot capicola ham, pepperoni & provolone cheese s&wich",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 10.6,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken, jalapeno pepper jack cheese & bacon club sub, buffalo style",
+        "Name": "Buffalo style chicken, jalapeno pepper jack cheese & bacon club sub",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 6.3,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Authentic italian style deluxe ham, genoa salami, pepperoni & picante provolone cheese, authentic italian style",
+        "Name": "Authentic italian style deluxe ham, genoa salami, pepperoni & picante provolone cheese",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 9.2,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Sandwich, philly cheesesteak",
+        "Name": "S&wich, philly cheesesteak",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 15.2,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Smoked turkey and american on wheat bread, mega turkey & cheese",
+        "Name": "Smoked turkey & american on wheat bread, mega turkey & cheese",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 5.2,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti on wheat bread made with sprouted sandwich, turkey & havarti",
+        "Name": "Turkey & havarti on wheat bread made with sprouted s&wich",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 11.1,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Chicken salad sandwich, chicken",
+        "Name": "Chicken salad s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 13.6,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Precooked chicken gyro sandwich slices in pita flatbread, with honey mustard sauce pouch",
+        "Name": "Precooked chicken gyro s&wich slices in pita flatbread, with honey mustard sauce pouch",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 9.6,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Salmon & cream cheese sushi sandwich, salmon & cream cheese",
+        "Name": "Salmon & cream cheese sushi s&wich",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 5.9,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Buffalo-style white meat chicken sub, buffalo-style",
+        "Name": "Buffalo-style white meat chicken sub",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 8.4,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheese sub, roast beef & cheese",
+        "Name": "Roast beef & cheese sub",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 8.8,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Meatball marinara sub, meatball marinara",
+        "Name": "Meatball marinara sub",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 14.1,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "White meat chicken bacon ranch sub, white meat chicken bacon ranch",
+        "Name": "White meat chicken bacon ranch sub",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 12.8,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Egg salad whole wheat bread sandwich, egg salad",
+        "Name": "Egg salad whole wheat bread s&wich",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 8.4,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Premium deli meats & cheeses club sandwich",
+        "Name": "Premium deli meats & cheeses club s&wich",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 10.1,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Premium deli meats & cheeses italian sandwich on a kaiser roll, italian, meats & cheeses",
+        "Name": "Premium deli meats & cheeses italian s&wich on a kaiser roll, italian",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 18.2,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Premium deli meats & cheeses southwest turkey sandwich",
+        "Name": "Premium deli meats & cheeses southwest turkey s&wich",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 8.4,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Smokemaster black forest ham sub, smokemaster",
+        "Name": "Smokemaster black forest ham sub",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 5.0,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Spinach-filled flatbread, spinach",
+        "Name": "Spinach-filled flatbread",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 12.9,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Honey ham & swiss cheese sliders and green leaf lettuce on a roll, honey ham & swiss cheese",
+        "Name": "Honey ham & swiss cheese sliders & green leaf lettuce on a roll",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 9.2,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Chicken salad on wheat wedge mix & match, chicken salad",
+        "Name": "Chicken salad on wheat wedge mix & match",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 9.8,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar cheese sandwich, turkey & cheddar",
+        "Name": "Turkey & cheddar cheese s&wich",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 7.8,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Italian-style meat trio panini grilled sandwich stuffed with ham, pepperoni, salami and provolone, sprinkled with grated parmesan, grated romano, parsley and oregano",
+        "Name": "Italian-style meat trio panini grilled s&wich stuffed with ham, pepperoni, salami & provolone, sprinkled with grated parmesan, grated romano, parsley & oregano",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 16.2,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Honey ham & swiss sub on white bun, honey ham & swiss",
+        "Name": "Honey ham & swiss sub on white bun",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 6.7,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Italian sub on white bun, italian",
+        "Name": "Italian sub on white bun",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 13.4,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "Honey ham & cheddar pretzel roll sliders, honey ham & cheddar",
+        "Name": "Honey ham & cheddar pretzel roll sliders",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.5,
@@ -5283,7 +5283,7 @@
         }
     },
     {
-        "Name": "Turkey and cheese sub on wheat bun, turkey and cheese",
+        "Name": "Turkey & cheese sub on wheat bun",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 7.2,
@@ -5292,7 +5292,7 @@
         }
     },
     {
-        "Name": "Grilled eggplant with fresh mozzarella sandwich, mozzarella",
+        "Name": "Grilled eggplant with fresh mozzarella s&wich",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 8.3,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Honey ham & swiss mini sub on white bun, honey ham & swiss",
+        "Name": "Honey ham & swiss mini sub on white bun",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 6.5,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese mini sub on wheat bun, turkey & cheese",
+        "Name": "Turkey & cheese mini sub on wheat bun",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 6.5,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Italian dressing, italian",
+        "Name": "Italian dressing",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 10.8,
@@ -5328,7 +5328,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar sandwich, roast beef & cheddar",
+        "Name": "Roast beef & cheddar s&wich",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 9.7,
@@ -5337,7 +5337,7 @@
         }
     },
     {
-        "Name": "Black forest ham sub, black forest",
+        "Name": "Black forest ham sub",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 5.4,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Egg salad croissant, egg salad",
+        "Name": "Egg salad croissant",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 13.5,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Premium flame broiled angus beef steak with american cheese on a sesame seed bun cheeseburger, american cheese",
+        "Name": "Premium flame broiled angus beef steak with american cheese on a sesame seed bun cheeseburger",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 21.1,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Chicken salad quickbite sandwich",
+        "Name": "Chicken salad quickbite s&wich",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 8.1,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Honey ham, turkey, salami, & provolone super sub on white bun, honey ham, turkey, salami, & provolone",
+        "Name": "Honey ham, turkey, salami, & provolone super sub on white bun, honey ham, turkey, salami",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 11.6,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Honey mustard turkey & swiss slider sandwiches, honey mustard",
+        "Name": "Honey mustard turkey & swiss slider s&wiches",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 4.8,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Ham, turkey and provolone sandwich, ham, turkey and provolone",
+        "Name": "Ham, turkey & provolone s&wich, ham",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 16.4,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Turkey and muenster on marble rye bread sandwich, turkey and muenster",
+        "Name": "Turkey & muenster on marble rye bread s&wich",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 14.5,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Chipotle turkey with pepper jack sandwich, chipotle turkey with pepper jack",
+        "Name": "Chipotle turkey with pepper jack s&wich",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 13.8,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Parmesan chicken sandwich, parmesan chicken",
+        "Name": "Parmesan chicken s&wich",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 12.9,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "All american beast sandwich",
+        "Name": "All american beast s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 10.1,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Pepperoni & cheese rolled in a golden crust pinwheels, pepperoni & cheese",
+        "Name": "Pepperoni & cheese rolled in a golden crust pinwheels",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 15.3,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Italian & provolone hoagie sesame roll with capicola style ham, salami, and pepperoni, italian & provolone hoagie",
+        "Name": "Italian & provolone hoagie sesame roll with capicola style ham, salami, & pepperoni",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 14.3,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Smoked turkey, smoked ham, bacon, and cheddar white sub",
+        "Name": "Smoked turkey, smoked ham, bacon, & cheddar white sub",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 9.6,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Bbq recipe diced seasoned chicken breast, three-cheese blend and onions with thin crust flatbread, bbq recipe chicken",
+        "Name": "Bbq recipe diced seasoned chicken breast, three-cheese blend & onions with thin crust flatbread, bbq recipe chicken",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 10.8,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Smoked turkey and double cheese flatbread, smoked turkey and double cheese",
+        "Name": "Smoked turkey & double cheese flatbread",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 8.3,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar hoagie mayonnaise artisan sandwich, turkey & cheddar",
+        "Name": "Turkey & cheddar hoagie mayonnaise artisan s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 10.0,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Chicken salad, chicken",
+        "Name": "Chicken salad",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 10.0,
@@ -5499,7 +5499,7 @@
         }
     },
     {
-        "Name": "Ham & swiss hoagie mustard artisan sandwich, ham & swiss hoagie",
+        "Name": "Ham & swiss hoagie mustard artisan s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 8.1,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Egg salad croissant sandwich, egg salad",
+        "Name": "Egg salad croissant s&wich",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 22.0,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Chicken salad croissant sandwich, chicken salad croissant",
+        "Name": "Chicken salad croissant s&wich",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 15.2,
@@ -5535,7 +5535,7 @@
         }
     },
     {
-        "Name": "Turkey beast, spinach, cheddar cheese, and roasted red peppers rolled in a lavash wrap with jalapeno cream cheese served with ranch dressing, turkey and cheddar",
+        "Name": "Turkey beast, spinach, cheddar cheese, & roasted red peppers rolled in a lavash wrap with jalapeno cream cheese served with ranch dressing, turkey & cheddar",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 8.8,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Cafe spice, south indian potato naan sandwich, medium, medium",
+        "Name": "Cafe spice, south indian potato naan s&wich, medium",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 5.1,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Cheese burger, cheese",
+        "Name": "Cheese burger",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 13.8,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Italian hoagie dressing, italian hoagie",
+        "Name": "Italian hoagie dressing",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 10.6,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Black forest ham and swiss croissant, black forest ham and swiss",
+        "Name": "Black forest ham & swiss croissant",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 9.4,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Italian style garlic panini, italian style garlic",
+        "Name": "Italian style garlic panini",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 11.1,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken sliders, buffalo style chicken",
+        "Name": "Buffalo style chicken sliders",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 9.2,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Honey turkey smoked gouda sliders, honey turkey smoked gouda",
+        "Name": "Honey turkey smoked gouda sliders",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 9.2,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Brioche roll with honey mustard carved ham & baby swiss sandwich, brioche roll with honey mustard",
+        "Name": "Brioche roll with honey mustard carved ham & baby swiss s&wich",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 8.1,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Mediterranean grilled chicken sandwich, mediterranean grilled chicken",
+        "Name": "Mediterranean grilled chicken s&wich",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 3.5,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "Egg salad on everything ficelle, everything ficelle",
+        "Name": "Egg salad on everything ficelle",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.4,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Portland club sandwich",
+        "Name": "Portl& club s&wich",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 9.0,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar on wheat, turkey & cheddar",
+        "Name": "Turkey & cheddar on wheat",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 9.6,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Spicy tuna salad on dark wheat, spicy tuna salad",
+        "Name": "Spicy tuna salad on dark wheat",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 11.7,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar on wheat, ham & cheddar",
+        "Name": "Ham & cheddar on wheat",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 9.6,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Egg salad on wheat, egg salad",
+        "Name": "Egg salad on wheat",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 7.2,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar sub, ham & cheddar",
+        "Name": "Ham & cheddar sub",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 9.6,
@@ -5715,7 +5715,7 @@
         }
     },
     {
-        "Name": "Peanut butter and strawberry jelly sandwich, peanut butter and strawberry jelly",
+        "Name": "Peanut butter & strawberry jelly s&wich",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 13.1,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Italian sub on white bun, italian sub",
+        "Name": "Italian sub on white bun",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 13.7,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Chicken club sub, chicken",
+        "Name": "Chicken club sub",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 7.4,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Chicken banh mi style sandwich white chicken meat, marinated daikon & carrots, sriracha sauce, green leaf lettuce, jalapenos and cilantro on a rustic french roll, chicken banh mi style",
+        "Name": "Chicken banh mi style s&wich white chicken meat, marinated daikon & carrots, sriracha sauce, green leaf lettuce, jalapenos & cilantro on a rustic french roll",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.4,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Chicken bacon ranch super sub mesquite smoked chicken, provolone cheese and pepper bacon on white bun, chicken bacon ranch",
+        "Name": "Chicken bacon ranch super sub mesquite smoked chicken, provolone cheese & pepper bacon on white bun",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 12.1,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Organic beef \"\"fajita\"\" sandwich",
+        "Name": "Organic beef fajita s&wich",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.9,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Ham and cheese 6\"\" sub",
+        "Name": "Ham & cheese sub",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 4.6,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "6\"\" turkey, oven roasted turkey w/ lettuce and tomato on fresh baked wheat roll",
+        "Name": "Turkey, oven roasted turkey w/ lettuce & tomato on fresh baked wheat roll",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 1.4,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "12\"\" ham & cheese",
+        "Name": "Ham & cheese",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.4,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Tuna salad on wheat bread, tuna",
+        "Name": "Tuna salad on wheat bread",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 7.2,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Chicken salad on white bread, chicken",
+        "Name": "Chicken salad on white bread",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 6.7,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Egg salad on white bread, egg",
+        "Name": "Egg salad on white bread",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 8.3,
@@ -5823,7 +5823,7 @@
         }
     },
     {
-        "Name": "Ham & swiss sandwich, ham & swiss",
+        "Name": "Ham & swiss s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 6.2,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone on wheat baguette sandwich, turkey & provolone",
+        "Name": "Turkey & provolone on wheat baguette s&wich",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 8.4,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Ham, turkey and provolone ham, turkey and provolone on multigrain bread sandwich, ham, turkey and provolone",
+        "Name": "Ham, turkey & provolone ham, turkey & provolone on multigrain bread s&wich, ham",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 16.4,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Turkey and muenster sandwich, turkey and muenster",
+        "Name": "Turkey & muenster s&wich",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 14.5,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Chipotle turkey with pepper jack sandwich oven roasted turkey breast and pepper jack cheese with chipotle mayonnaise on sourdough bread, chipotle turkey with pepper jack",
+        "Name": "Chipotle turkey with pepper jack s&wich oven roasted turkey breast & pepper jack cheese with chipotle mayonnaise on sourdough bread",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 13.8,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Ham and turkey sliders, ham and turkey",
+        "Name": "Ham & turkey sliders",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 9.2,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Turkey havarti on multigrain sandwiches, turkey havarti on multigrain",
+        "Name": "Turkey havarti on multigrain s&wiches",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 9.8,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Beef cheeseburger slider, beef",
+        "Name": "Beef cheeseburger slider",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 16.2,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Black forest ham & baby swiss cheese white french sub, black forest ham & baby swiss cheese",
+        "Name": "Black forest ham & baby swiss cheese white french sub",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.3,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "5-cheese mozzarella, ricotta, provolone, parmesan & romano cheeses stuffed in a golden crust with dipping sauce rip-n-dip, 5-cheese",
+        "Name": "Mozzarella, ricotta, provolone, parmesan & romano cheeses stuffed in a golden crust with dipping sauce rip-n-dip",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 12.9,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Peanut butter & grape jelly sandwich on crustless white bread, peanut butter & grape jelly sandwich",
+        "Name": "Peanut butter & grape jelly s&wich on crustless white bread",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 19.0,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Egg salad wedge sandwich, egg salad wedge",
+        "Name": "Egg salad wedge s&wich",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 14.8,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Turkey and cheddar wedge sandwich, turkey and cheddar",
+        "Name": "Turkey & cheddar wedge s&wich",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 7.8,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Ham and cheddar wedge sandwich, ham and cheddar",
+        "Name": "Ham & cheddar wedge s&wich",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 8.0,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "White meat chicken salad wedge sandwich, white meat chicken",
+        "Name": "White meat chicken salad wedge s&wich",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 18.5,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Spicy turkey avocado sub sandwiches, spicy turkey avocado sub",
+        "Name": "Spicy turkey avocado sub s&wiches",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 6.3,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Ham & swiss on pretzel roll sandwiches, ham & swiss",
+        "Name": "Ham & swiss on pretzel roll s&wiches",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 14.1,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Ham, swiss & honey mustard bialy, ham, swiss & honey mustard",
+        "Name": "Ham, swiss & honey mustard bialy, ham",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 6.5,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Italian potato bread, ham, salami, provolone, banana peppers, romaine lettuce, and secret sauce sandwich, italian",
+        "Name": "Italian potato bread, ham, salami, provolone, banana peppers, romaine lettuce, & secret sauce s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 14.1,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Ham & cheddar whole grain bread, ham, cheddar, banana peppers and secret sauce sandwich, ham & cheddar",
+        "Name": "Ham & cheddar whole grain bread, ham, cheddar, banana peppers & secret sauce s&wich",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 14.0,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Turkey wedge sandwich, cheese, lettuce, tomato",
+        "Name": "Turkey wedge s&wich, cheese, lettuce, tomato",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 6.1,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Sandwich, ham & cheddar",
+        "Name": "S&wich, ham & cheddar",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 8.8,
@@ -6039,7 +6039,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey & cheese sandwich, oven roasted turkey & cheese",
+        "Name": "Oven roasted turkey & cheese s&wich",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 4.9,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Deluxe roast beef and vermont cheddar cheese sandwich, deluxe roast beef",
+        "Name": "Deluxe roast beef & vermont cheddar cheese s&wich",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 6.7,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Philly cheese steak roast beef & sharp swiss cheese with onions and green peppers, philly cheese steak",
+        "Name": "Philly cheese steak roast beef & sharp swiss cheese with onions & green peppers",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 5.9,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Sandwich bun, ham, swish & caramelized onion",
+        "Name": "S&wich bun, ham, swish & caramelized onion",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 10.4,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "6\"\" sub sandwich with jalapeno ranch dressing, turkey pepper jack ",
+        "Name": "Sub s&wich with jalapeno ranch dressing, turkey pepper jack",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.2,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Simplicity all natural* ham sandwich, uncured ham & vermont cheddar cheese",
+        "Name": "Simplicity all natural* ham s&wich, uncured ham & vermont cheddar cheese",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 7.7,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Chicken parmesan sandwich, marinara sauce",
+        "Name": "Chicken parmesan s&wich, marinara sauce",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 8.1,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Italian artisan sandwich with sliced ham, tomatoes, genoa salami, provolone cheese and green leaf lettuce on a philly sub roll, italian",
+        "Name": "Italian artisan s&wich with sliced ham, tomatoes, genoa salami, provolone cheese & green leaf lettuce on a philly sub roll",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 8.5,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Chipotle turkey sandwich, colby-pepperjack",
+        "Name": "Chipotle turkey s&wich, colby-pepperjack",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 8.3,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Sandwich, pesto chicken",
+        "Name": "S&wich, pesto chicken",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 12.0,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar with chipotle pepper aioli mayo sauce, turkey & cheddar",
+        "Name": "Turkey & cheddar with chipotle pepper aioli mayo sauce",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 11.2,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Handmade sandwich with turkey breast, cheddar cheese and green leaf lettuce on multigrain bread, turkey and cheddar",
+        "Name": "H&made s&wich with turkey breast, cheddar cheese & green leaf lettuce on multigrain bread, turkey & cheddar",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 6.1,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Italian style sandwich, italian style",
+        "Name": "Italian style s&wich",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 7.0,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Bold bourbonridge ham brioche, bold bourbonridge",
+        "Name": "Bold bourbonridge ham brioche",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 6.4,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar sandwich, turkey & cheddar",
+        "Name": "Turkey & cheddar s&wich",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 4.6,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Philly style steak & cheese steak and four cheese stuffed calzone, philly style steak & cheese",
+        "Name": "Philly style steak & cheese steak & four cheese stuffed calzone",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 8.0,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken and four cheese calzone, buffalo style chicken",
+        "Name": "Buffalo style chicken & four cheese calzone",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 8.0,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Pepperoni & cheese pepperoni and four cheese stuffed calzone, pepperoni & cheese",
+        "Name": "Pepperoni & cheese pepperoni & four cheese stuffed calzone",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 15.9,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Ham & turkey sliders, ham & turkey",
+        "Name": "Ham & turkey sliders",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 7.9,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Italian style garlic sandwich, italian style garlic",
+        "Name": "Italian style garlic s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 12.7,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Roast beef and cheddar pretzel roll, roast beef and cheddar",
+        "Name": "Roast beef & cheddar pretzel roll",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 7.5,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Chicken parmesan sandwich, chicken parmesan",
+        "Name": "Chicken parmesan s&wich",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 12.8,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "Peanut butter & grape jelly on crustless white bread sammich, peanut butter & grape jelly",
+        "Name": "Peanut butter & grape jelly on crustless white bread sammich",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 19.0,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Creamy peanut butter & grape jelly sandwich on crustless white bread, creamy peanut butter & grape",
+        "Name": "Creamy peanut butter & grape jelly s&wich on crustless white bread",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 19.0,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Jalapeno sandwich rolls, jalapeno",
+        "Name": "Jalapeno s&wich rolls",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 3.5,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Italian hoagie smoked ham, pepperoni, salami, provolone, italian hoagie",
+        "Name": "Italian hoagie smoked ham, pepperoni, salami, provolone",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 10.1,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "White sandwich slims, white",
+        "Name": "White s&wich slims",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Our deli sandwich, roast beef, cheddar",
+        "Name": "Our deli s&wich, roast beef, cheddar",
         "Nutrients": {
             "Protein": 17.3,
             "Fat": 7.7,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Turkey sandwich, white american cheese, lettuce & tomato",
+        "Name": "Turkey s&wich, white american cheese, lettuce & tomato",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 5.3,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Reduced fat black forest ham and swiss on 7 grain bread sandwich, reduced fat black forest ham and swiss on 7 grain bread",
+        "Name": "Reduced fat black forest ham & swiss on grain bread s&wich",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 3.5,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Traditional tuna salad sandwich, traditional tuna salad",
+        "Name": "Traditional tuna salad s&wich",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 7.0,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Sandwich, apple cranberry tuna",
+        "Name": "S&wich, apple cranberry tuna",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 6.2,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Sandwich, roast beef and cheddar cheese",
+        "Name": "S&wich, roast beef & cheddar cheese",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 6.7,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "Sandwich, chicken pesto",
+        "Name": "S&wich, chicken pesto",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 12.5,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Sandwich, roast beef & cheddar",
+        "Name": "S&wich, roast beef & cheddar",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 13.4,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Premium sandwiches, black forest ham & cheddar pretzel roll",
+        "Name": "Premium s&wiches, black forest ham & cheddar pretzel roll",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.3,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss w/ herb dijon mayo sandwiches, turkey & swiss w/ herb dijon mayo",
+        "Name": "Turkey & swiss w/ herb dijon mayo s&wiches",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 9.8,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Triangle on wheat, sandwich, ham & cheddar",
+        "Name": "Triangle on wheat, s&wich, ham & cheddar",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 11.3,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Black forest ham and brie w/ honey mustard spread sandwich, black forest ham and brie w/ honey mustard spread",
+        "Name": "Black forest ham & brie w/ honey mustard spread s&wich",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.7,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Sandwich, roast beef, sharp cheddar cheese, tomato and green leaf lettuce",
+        "Name": "S&wich, roast beef, sharp cheddar cheese, tomato & green leaf lettuce",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 5.3,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Sandwich, ham & swiss",
+        "Name": "S&wich, ham & swiss",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 10.2,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Seafood salad deli sandwich, seafood salad",
+        "Name": "Seafood salad deli s&wich",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.5,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Abf turkey and havarti hoagie, abf turkey and havarti",
+        "Name": "Abf turkey & havarti hoagie",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.8,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Roast beef and cheddar cheese bistro, roast beef and cheddar cheese",
+        "Name": "Roast beef & cheddar cheese bistro",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 9.5,
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "Name": "Egg salad grab and go sandwich, deli",
+        "Name": "Egg salad grab & go s&wich, deli",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 22.5,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Chicken salad wedge, chicken",
+        "Name": "Chicken salad wedge",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 11.6,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Ham & gruyere baguette sandwich, ham & gruyere",
+        "Name": "Ham & gruyere baguette s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 6.7,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Italian provolone cheese, tomato, hard salami, sliced pepperoni, capicola ham, green leaf lettuce, red onion, roasted red peppers on a roll with a basil pesto aioli packet sandwich, italian",
+        "Name": "Italian provolone cheese, tomato, hard salami, sliced pepperoni, capicola ham, green leaf lettuce, red onion, roasted red peppers on a roll with a basil pesto aioli packet s&wich",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 18.5,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Honey bee turkey & ham honey smoked turkey breast, smoked honey maple ham, tomato, swiss cheese, greenleaf lettuce on a roll with a honey mustard mayo packet sandwich, honey bee turkey & ham",
+        "Name": "Honey bee turkey & ham honey smoked turkey breast, smoked honey maple ham, tomato, swiss cheese, greenleaf lettuce on a roll with a honey mustard mayo packet s&wich",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 9.4,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Spicy chicken and cheese, spicy",
+        "Name": "Spicy chicken & cheese",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 8.3,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Turkey fig baguette sandwich, turkey fig",
+        "Name": "Turkey fig baguette s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 6.7,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Turkey, ham & cheddar combo, turkey, ham & cheddar",
+        "Name": "Turkey, ham & cheddar combo, turkey",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 8.8,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Turkey and cheddar croissant, turkey and cheddar",
+        "Name": "Turkey & cheddar croissant",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 12.7,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Bacon cheeseburger, bacon",
+        "Name": "Bacon cheeseburger",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 21.2,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Chicken on white salad, chicken",
+        "Name": "Chicken on white salad",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 12.9,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Ovengold turkey sandwich, ovengold turkey",
+        "Name": "Ovengold turkey s&wich",
         "Nutrients": {
             "Protein": 17.2,
             "Fat": 7.1,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese sub, turkey & cheese",
+        "Name": "Turkey & cheese sub",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 4.6,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Pepperoni premium sandwich, pepperoni",
+        "Name": "Pepperoni premium s&wich",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 43.3,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey & havarti on wheat bread made with sprouted wheat sandwich, oven roasted turkey & havarti",
+        "Name": "Oven roasted turkey & havarti on wheat bread made with sprouted wheat s&wich",
         "Nutrients": {
             "Protein": 18.5,
             "Fat": 11.1,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Chicken salad on white, chicken",
+        "Name": "Chicken salad on white",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 12.9,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Spicy chicken & cheese biscuit, spicy chicken & cheese",
+        "Name": "Spicy chicken & cheese biscuit",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 14.7,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Spicy chicken fillet croissant, spicy chicken fillet",
+        "Name": "Spicy chicken fillet croissant",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 10.6,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Tuna salad on wheat, tuna",
+        "Name": "Tuna salad on wheat",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 15.1,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Corned beef on rye shaved lean corned beef, swiss cheese, and thin sliced dill pickles on two slices of desi style marble rye lightly smeared with a savory bistro sauce sandwiches, corned beef on rye",
+        "Name": "Corned beef on rye shaved lean corned beef, swiss cheese, & thin sliced dill pickles on two slices of desi style marble rye lightly smeared with a savory bistro sauce s&wiches",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 16.7,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Italian cold cut giardiniera flatbread, italian cold cut giardiniera",
+        "Name": "Italian cold cut giardiniera flatbread",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 10.3,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Turkey sub large sandwich, turkey",
+        "Name": "Turkey sub large s&wich",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.7,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Turkey cranberry sandwich wrap, turkey cranberry",
+        "Name": "Turkey cranberry s&wich wrap",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 7.5,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar oven roasted turkey breast, cheddar cheese, sweet grain bread full sub, turkey & cheddar",
+        "Name": "Turkey & cheddar oven roasted turkey breast, cheddar cheese, sweet grain bread full sub",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 5.8,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar full sub, roast beef & cheddar",
+        "Name": "Roast beef & cheddar full sub",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 6.5,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Italian hero full sub uncured tavern ham, hard salami, hot ham capicola, pepperoni, provolone cheese, four cheese bread, italian hero full sub",
+        "Name": "Italian hero full sub uncured tavern ham, hard salami, hot ham capicola, pepperoni, provolone cheese, four cheese bread",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 12.6,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Black forest ham & baby swiss cheese, white french bread full sub, black forest ham & baby swiss",
+        "Name": "Black forest ham & baby swiss cheese, white french bread full sub",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 6.5,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Salame and swiss italian dry salame, mayonnaise, swiss cheese, and arugula on a ficelle roll sandwich, salame and swiss",
+        "Name": "Salame & swiss italian dry salame, mayonnaise, swiss cheese, & arugula on a ficelle roll s&wich",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 21.7,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Turkey & bacon roasted turkey breast, provolone cheese, tomato, greenleaf lettuce, fully cooked bacon on an everything hoagie roll sandwich, turkey & bacon",
+        "Name": "Turkey & bacon roasted turkey breast, provolone cheese, tomato, greenleaf lettuce, fully cooked bacon on an everything hoagie roll s&wich",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.5,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Chiptole gourmet club sandwich, chiptole",
+        "Name": "Chiptole gourmet club s&wich",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 8.0,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Meatloaf sandwich with ketchup",
+        "Name": "Meatloaf s&wich with ketchup",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 7.8,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Angus cheeseburger premium flame broiled beef steak with american cheese on a sesame seed bun sandwiches, angus cheeseburger",
+        "Name": "Angus cheeseburger premium flame broiled beef steak with american cheese on a sesame seed bun s&wiches",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 15.5,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Italian style sub cheese, ham, salami, pepperoni and a spicy marinara sauce in a crispy crust topped with italian style herb breadcrumbs sandwiches, italian style sub",
+        "Name": "Italian style sub cheese, ham, salami, pepperoni & a spicy marinara sauce in a crispy crust topped with italian style herb breadcrumbs s&wiches",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 9.7,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Angus double cheeseburger flame broiled beef patties with american cheese on a sesame seed bun, angus double cheeseburger",
+        "Name": "Angus double cheeseburger flame broiled beef patties with american cheese on a sesame seed bun",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 22.6,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Pork sliders, pork",
+        "Name": "Pork sliders",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 11.1,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Grilled american cheese sandwich, grilled american cheese",
+        "Name": "Grilled american cheese s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 22.1,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Chicken bacon ranch sandwich, chicken bacon ranch",
+        "Name": "Chicken bacon ranch s&wich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 10.7,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Tuna & cucumber sandwich tuna salad with sliced cucumber & dill on freshly baked multigrain bread, tuna & cucumber",
+        "Name": "Tuna & cucumber s&wich tuna salad with sliced cucumber & dill on freshly baked multigrain bread",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 10.9,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Dill egg salad sandwich on brioche bread, dill egg salad sandwich",
+        "Name": "Dill egg salad s&wich on brioche bread",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 14.8,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Black forest ham sliders, black forest",
+        "Name": "Black forest ham sliders",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 7.9,
@@ -7011,7 +7011,7 @@
         }
     },
     {
-        "Name": "Ham hoagie, ham",
+        "Name": "Ham hoagie",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 6.0,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Chicken buffalo rita sandwich, chicken buffalo",
+        "Name": "Chicken buffalo rita s&wich",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "Ham & cheese large subs and sandwiches, ham & cheese",
+        "Name": "Ham & cheese large subs & s&wiches",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 8.0,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Hardwood smoked ham & natural colby jack cheese deli sliders, hardwood smoked, colby jack",
+        "Name": "Hardwood smoked ham & natural colby jack cheese deli sliders, hardwood smoked",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 8.6,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar hickory smoked turkey breast & natural cheddar cheese, turkey & cheddar",
+        "Name": "Turkey & cheddar hickory smoked turkey breast & natural cheddar cheese",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 7.0,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Smoked turkey with lettuce and tomatoes on wheat bread breast sandwich, smoked turkey",
+        "Name": "Smoked turkey with lettuce & tomatoes on wheat bread breast s&wich",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 4.0,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Egg salad a delicious egg salad on freshly baked white bread sandwich, egg salad",
+        "Name": "Egg salad a delicious egg salad on freshly baked white bread s&wich",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 15.6,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Sweet hawaiian bread wrapped roll'd hot dog, sweet hawaiian",
+        "Name": "Sweet hawaiian bread wrapped rolld hot dog",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 14.3,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Bacon egg & cheese croissant sandwiches, bacon egg & cheese",
+        "Name": "Bacon egg & cheese croissant s&wiches",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 15.2,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Peanut butter & grape jelly minis in white bakery bread, peanut butter & grape jelly",
+        "Name": "Peanut butter & grape jelly minis in white bakery bread",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 21.1,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Ham triangle white sandich, ham",
+        "Name": "Ham triangle white s&ich",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 6.3,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Pastrami, black forest ham, baby swiss cheese, hard salami, white french bread new york deli half sub, black forest, baby swiss, white french",
+        "Name": "Pastrami, black forest ham, baby swiss cheese, hard salami, white french bread new york deli half sub, black forest, baby swiss",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 9.2,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "All american full sub tavern ham, oven roasted turkey breast, cheddar cheese, four cheese bread, all american",
+        "Name": "All american full sub tavern ham, oven roasted turkey breast, cheddar cheese, four cheese bread",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 6.3,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Italian style sub with ham capicola, hard salami, pepperoni, smoked provoione cheese, tomato, lettuce, red onion and oregano, italian style sub",
+        "Name": "Italian style sub with ham capicola, hard salami, pepperoni, smoked provoione cheese, tomato, lettuce, red onion & oregano",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 14.7,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Steak plant-based deli slices, steak",
+        "Name": "Steak plant-based deli slices",
         "Nutrients": {
             "Protein": 26.3,
             "Fat": 7.0,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Ham & swiss with stone ground mustard mayo sauce, ham & swiss",
+        "Name": "Ham & swiss with stone ground mustard mayo sauce",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 10.7,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Chicken on hawaiian sweet bread, chicken",
+        "Name": "Chicken on hawaiian sweet bread",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.5,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Turkey and havarti sandwich, turkey and havarti",
+        "Name": "Turkey & havarti s&wich",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 6.6,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Sausage,egg, cheese bagel, sausage,egg, cheese",
+        "Name": "Sausage,egg, cheese bagel, sausage,egg",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 6.5,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "French toast, french",
+        "Name": "French toast",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 15.6,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Ham, turkey, roast beef tri-pack croissant, ham, turkey, roast beef",
+        "Name": "Ham, turkey, roast beef tri-pack croissant, ham, turkey",
         "Nutrients": {
             "Protein": 25.6,
             "Fat": 29.6,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Ham & swiss pretzel sub, ham & swiss",
+        "Name": "Ham & swiss pretzel sub",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 5.8,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Tuna salad croissant, tuna salad",
+        "Name": "Tuna salad croissant",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 24.0,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Rib sandwich",
+        "Name": "Rib s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 15.6,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Chicken provance on seeded italian roll sub sandwich, chicken provance on seeded italian roll",
+        "Name": "Chicken provance on seeded italian roll sub s&wich",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 6.6,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Pastrami reuben onion roll sandwich, pastrami reuben onion roll",
+        "Name": "Pastrami reuben onion roll s&wich",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 4.2,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Fully cooked sausage, egg & cheese biscuit sandwich, sausage, egg & cheese",
+        "Name": "Fully cooked sausage, egg & cheese biscuit s&wich, sausage",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 23.4,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "Bacon with scrambled egg patty & american cheese on a buttermilk biscuit sandwich, bacon, egg & cheese",
+        "Name": "Bacon with scrambled egg patty & american cheese on a buttermilk biscuit s&wich, bacon, egg & cheese",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 19.2,
@@ -7299,7 +7299,7 @@
         }
     },
     {
-        "Name": "Sausage, egg, cheese bagel, sausage, egg, cheese",
+        "Name": "Sausage, egg, cheese bagel, sausage, egg",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 6.5,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Ham sub whole, ham",
+        "Name": "Ham sub whole",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 4.2,
@@ -7317,7 +7317,7 @@
         }
     },
     {
-        "Name": "Turkey club oven roasted turkey breast, green leaf lettuce, sharp white cheddar cheese, bacon on sourdough bread sandwich, turkey",
+        "Name": "Turkey club oven roasted turkey breast, green leaf lettuce, sharp white cheddar cheese, bacon on sourdough bread s&wich",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 7.8,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Tavern ham & smoked gouda sliders, tavern ham & smoked",
+        "Name": "Tavern ham & smoked gouda sliders",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.0,
@@ -7335,7 +7335,7 @@
         }
     },
     {
-        "Name": "Chicken bacon ranch oven roasted chicken breast, bacon, cheddar cheese, white french bread full sub, chicken bacon ranch",
+        "Name": "Chicken bacon ranch oven roasted chicken breast, bacon, cheddar cheese, white french bread full sub",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 8.3,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Tuna salad sub, tuna salad",
+        "Name": "Tuna salad sub",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 10.4,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey with swiss cheese & lettuce on multigrain sandwich bread, turkey with cheese",
+        "Name": "Oven roasted turkey with swiss cheese & lettuce on multigrain s&wich bread, turkey with cheese",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 4.5,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Turkey + cheddar wedge turkey breast with cheddar cheese on club wheat bread with a side of mayonnasie, turkey + cheddar wedge",
+        "Name": "Turkey & cheddar wedge turkey breast with cheddar cheese on club wheat bread with a side of mayonnasie",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 7.8,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Turkey cranberry multigrain sandwich, turkey cranberry multigrain",
+        "Name": "Turkey cranberry multigrain s&wich",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 6.2,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Off the bone ham with baby swiss, baby swiss",
+        "Name": "Off the bone ham with baby swiss",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 9.7,
@@ -7398,7 +7398,7 @@
         }
     },
     {
-        "Name": "Chicken & bacon caesar sandwich, chicken & bacon caesar",
+        "Name": "Chicken & bacon caesar s&wich",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 12.6,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Bacon egg & cheese english muffin breakfast sandwich, bacon egg & cheese english muffin",
+        "Name": "Bacon egg & cheese english muffin breakfast s&wich",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 10.3,
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "Name": "Ham & swiss bakehouse roll, ham & swiss",
+        "Name": "Ham & swiss bakehouse roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.3,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar bakehouse roll, turkey & cheddar",
+        "Name": "Turkey & cheddar bakehouse roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.1,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Ham and swiss cheese organic bread sandwich, ham and swiss cheese",
+        "Name": "Ham & swiss cheese organic bread s&wich",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 4.8,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Sweet sloppy joe seasoned organic beef ground, sweet sloppy joe",
+        "Name": "Sweet sloppy joe seasoned organic beef ground",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 11.6,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Double bacon cheeseburger, double bacon",
+        "Name": "Double bacon cheeseburger",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 19.3,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese fully cooked bacon with scrambled egg patty & american cheese on a buttermilk biscuit sandwich, bacon, egg & cheese",
+        "Name": "Bacon, egg & cheese fully cooked bacon with scrambled egg patty & american cheese on a buttermilk biscuit s&wich, bacon",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 19.2,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese fully cooked pork sausage with scrambled egg patty & american cheese on a buttermilk biscuit sandwich, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese fully cooked pork sausage with scrambled egg patty & american cheese on a buttermilk biscuit s&wich, sausage",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 23.4,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheese kolache, jalapeno cheese",
+        "Name": "Jalapeno cheese kolache",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 18.3,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Ham, egg, cheese croissant, ham, egg, cheese",
+        "Name": "Ham, egg, cheese croissant, ham, egg",
         "Nutrients": {
             "Protein": 32.1,
             "Fat": 11.0,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Bacon cheeseburger, bacon cheese",
+        "Name": "Bacon cheeseburger",
         "Nutrients": {
             "Protein": 22.3,
             "Fat": 27.0,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Bruschetta chicken pesto chicken, roasted tomatoes, and arugula on a hoagie roll sandwich, bruschetta chicken",
+        "Name": "Bruschetta chicken pesto chicken, roasted tomatoes, & arugula on a hoagie roll s&wich",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 7.5,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Hannaford signature rolls chicken salad sandwich, hannaford signature rolls chicken salad",
+        "Name": "Hannaford signature rolls chicken salad s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 6.2,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "Rotisserie chicken salad, rotisserie chicken",
+        "Name": "Rotisserie chicken salad",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 8.4,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese dark wheat sandwich, turkey & cheese",
+        "Name": "Turkey & cheese dark wheat s&wich",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 8.4,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Turkey & cranberry sandwich, turkey & cranberry",
+        "Name": "Turkey & cranberry s&wich",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 4.8,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Classic southern chicken sandwich, classic southern chicken",
+        "Name": "Classic southern chicken s&wich",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.8,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Deli egg salad sandwich, deli egg salad",
+        "Name": "Deli egg salad s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 7.5,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Turkey on oven roasted turkey with swiss cheese & lettuce on a freshly baked pretzel roll, turkey",
+        "Name": "Turkey on oven roasted turkey with swiss cheese & lettuce on a freshly baked pretzel roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.1,
@@ -7587,7 +7587,7 @@
         }
     },
     {
-        "Name": "Turkey hoagie, turkey",
+        "Name": "Turkey hoagie",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 1.4,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Egg & cheese english muffin breakfast sandwich, egg & cheese",
+        "Name": "Egg & cheese english muffin breakfast s&wich",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 8.8,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese fully cooked english muffin, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese fully cooked english muffin, sausage",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 13.7,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Sausage biscuits, sausage",
+        "Name": "Sausage biscuits",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 23.9,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Big tex ham & cheddar french sub, big tex ham & cheddar",
+        "Name": "Big tex ham & cheddar french sub",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 9.3,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Turkey cheddar on onion cheese roll sub sandwich, turkey cheddar",
+        "Name": "Turkey cheddar on onion cheese roll sub s&wich",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 0.0,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Honey turkey smoked gouda sliders, honey turkey smoked",
+        "Name": "Honey turkey smoked gouda sliders",
         "Nutrients": {
             "Protein": 17.8,
             "Fat": 9.3,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Buffalo style chicken and four cheese calzone, buffalo style chicken and four cheese",
+        "Name": "Buffalo style chicken & four cheese calzone",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.2,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Egg salad sandwich, egg salad",
+        "Name": "Egg salad s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 12.8,
@@ -7704,7 +7704,7 @@
         }
     },
     {
-        "Name": "Four cheese stuffed calzone, four cheese",
+        "Name": "Four cheese stuffed calzone",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 8.8,
@@ -7713,7 +7713,7 @@
         }
     },
     {
-        "Name": "Reuben panini cooked corn beef, sauerkraut, thousand island dressing & swiss cheese on rustic panini bread sandwich, reuben",
+        "Name": "Reuben panini cooked corn beef, sauerkraut, thous& isl& dressing & swiss cheese on rustic panini bread s&wich",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 6.9,
@@ -7722,7 +7722,7 @@
         }
     },
     {
-        "Name": "Tuna salad wedge sandwich on wheat bread, tuna salad",
+        "Name": "Tuna salad wedge s&wich on wheat bread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.6,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Classic double steak burger, classic double steak",
+        "Name": "Classic double steak burger",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 18.4,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Turkey and stuffing sandwich",
+        "Name": "Turkey & stuffing s&wich",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.9,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Turkey, ham & salami hoagie italian dressing artisan sandwich, turkey, ham & salami hoagie",
+        "Name": "Turkey, ham & salami hoagie italian dressing artisan s&wich, turkey",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 9.9,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "6\"\" sub sandwich with jalapeno ranch dressing, turkey pepper jack",
+        "Name": "Sub s&wich with jalapeno ranch dressing, turkey pepper jack",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.2,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Egg salad wedge, egg salad",
+        "Name": "Egg salad wedge",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 12.7,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Angus premium flame broiled angus beef steak with american cheese on a sesame seed bun cheeseburger, angus",
+        "Name": "Angus premium flame broiled angus beef steak with american cheese on a sesame seed bun cheeseburger",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 21.1,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Oven roasted turkey with lettuce on a freshly baked sub roll, oven roasted turkey",
+        "Name": "Oven roasted turkey with lettuce on a freshly baked sub roll",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 4.1,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Philly cheesesteak sub, philly cheesesteak",
+        "Name": "Philly cheesesteak sub",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 7.5,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Premium roast beef, sharp white cheddar & creamy horseradish sandwich, premium roast beef",
+        "Name": "Premium roast beef, sharp white cheddar & creamy horseradish s&wich",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 14.9,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Sausage & biscuits sandwiches, sausage & biscuits",
+        "Name": "Sausage & biscuits s&wiches",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 19.6,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar oven roasted turkey cheddar cheese sweet grain sub, turkey & cheddar",
+        "Name": "Turkey & cheddar oven roasted turkey cheddar cheese sweet grain sub",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 7.0,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Turkey and cheese sub on white bun, turkey and cheese sub on white",
+        "Name": "Turkey & cheese sub on white bun",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 8.3,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Black forest ham & baby swiss cheese white french sub, black forest ham & baby swiss",
+        "Name": "Black forest ham & baby swiss cheese white french sub",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.3,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Ham & swiss ham and swiss cheese on sub roll with a side of mustard mini sub, ham & swiss",
+        "Name": "Ham & swiss ham & swiss cheese on sub roll with a side of mustard mini sub",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 6.8,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Ham & gouda on croissant sandwich, ham & gouda on croissant",
+        "Name": "Ham & gouda on croissant s&wich",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 9.0,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Turkey & havarti on everything ciabatta sandwich, turkey & havarti on everything ciabatta",
+        "Name": "Turkey & havarti on everything ciabatta s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 9.1,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Italian beef sub, italian beef",
+        "Name": "Italian beef sub",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 9.8,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar croissant, turkey & cheddar",
+        "Name": "Turkey & cheddar croissant",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 9.8,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Turkey roasted turkey breast, white cheddar cheese, tomatoes & green leaf lettuce on a hoagie roll sandwich, turkey",
+        "Name": "Turkey roasted turkey breast, white cheddar cheese, tomatoes & green leaf lettuce on a hoagie roll s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 4.8,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Half italian sub sandwich, half italian sub",
+        "Name": "Half italian sub s&wich",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 12.0,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Ham & swiss on white, ham & swiss",
+        "Name": "Ham & swiss on white",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 5.3,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar turkey & cheddar cheese on mini sub roll with a side a mayonnaise, turkey & cheddar",
+        "Name": "Turkey & cheddar turkey & cheddar cheese on mini sub roll with a side a mayonnaise",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 9.5,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss on croissant sandwich, turkey & swiss on croissant",
+        "Name": "Turkey & swiss on croissant s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 9.9,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese breakfast sandwich, bacon, egg & cheese",
+        "Name": "Bacon, egg & cheese breakfast s&wich, bacon",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 11.3,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Turkey and cheese sub, turkey and cheese",
+        "Name": "Turkey & cheese sub",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 8.3,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone pretzel roll sliders, turkey & provolone",
+        "Name": "Turkey & provolone pretzel roll sliders",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 9.2,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese mini sub, turkey & cheese",
+        "Name": "Turkey & cheese mini sub",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 8.6,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar pretzel roll sliders, roast beef & cheddar",
+        "Name": "Roast beef & cheddar pretzel roll sliders",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 9.8,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar mini sub, roast beef & cheddar",
+        "Name": "Roast beef & cheddar mini sub",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 10.6,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Ham & swiss croissant, ham & swiss",
+        "Name": "Ham & swiss croissant",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 10.4,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Ham, turkey and provolone on multigrain bread sandwich, ham, turkey and provolone",
+        "Name": "Ham, turkey & provolone on multigrain bread s&wich, ham",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 16.4,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Chicken bacon ranch mesquite smoked chicken, provolone cheese and pepper bacon on white bun super sub, chicken bacon ranch",
+        "Name": "Chicken bacon ranch mesquite smoked chicken, provolone cheese & pepper bacon on white bun super sub",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 12.1,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Parmesan chicken on sun-dried tomato bread sandwich, parmesan chicken",
+        "Name": "Parmesan chicken on sun-dried tomato bread s&wich",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 12.9,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Chicken salad on white bread, chicken salad",
+        "Name": "Chicken salad on white bread",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 6.7,
@@ -8046,7 +8046,7 @@
         }
     },
     {
-        "Name": "Egg salad on white bread, egg salad",
+        "Name": "Egg salad on white bread",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 8.3,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar super sandwich, roast beef & cheddar",
+        "Name": "Roast beef & cheddar super s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 5.3,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese bagel, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese bagel, sausage",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 13.9,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Multigrain egg salad, multigrain",
+        "Name": "Multigrain egg salad",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 5.8,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar country wedge, turkey & cheddar",
+        "Name": "Turkey & cheddar country wedge",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 9.9,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Italian style half sub sandwich, italian style",
+        "Name": "Italian style half sub s&wich",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 10.3,
@@ -8100,7 +8100,7 @@
         }
     },
     {
-        "Name": "Turkey havarti sandwich, turkey havarti",
+        "Name": "Turkey havarti s&wich",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 6.1,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Big roast beef sandwiches, big roast beef",
+        "Name": "Big roast beef s&wiches",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 3.4,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Ham & turkey on pretzel, ham & turkey",
+        "Name": "Ham & turkey on pretzel",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 7.8,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Pork sliders includes seasoned cooked pork, cole slaw, king's hawaiian sweet rolls, cole slaw dressing, bbq sauce, pork sliders",
+        "Name": "Pork sliders includes seasoned cooked pork, cole slaw, kings hawaiian sweet rolls, cole slaw dressing, bbq sauce",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 11.1,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Ham, turkey, & swiss sandwich breast meat, roma tomatoes, swiss cheese, mayonnaise, green leaf lettuce, and onion with mustard on a clabatta roll, ham, turkey, & swiss",
+        "Name": "Ham, turkey, & swiss s&wich breast meat, roma tomatoes, swiss cheese, mayonnaise, green leaf lettuce, & onion with mustard on a clabatta roll, ham, turkey",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 9.3,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Millet. zucchini & tomato plant based burger, millet, zucchini & tomato",
+        "Name": "Millet. zucchini & tomato plant based burger, millet",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.5,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Turkey roll sandwich, turkey roll",
+        "Name": "Turkey roll s&wich",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 6.0,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Turkey and muenster on wheat bread sandwich, turkey and muenster",
+        "Name": "Turkey & muenster on wheat bread s&wich",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 7.2,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Turkey cranberry with stuffing sandwich, turkey cranberry",
+        "Name": "Turkey cranberry with stuffing s&wich",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 1.8,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Golden slice oven baked tofu infused with curry spices, topped with fresh rainbow slaw, golden slice",
+        "Name": "Golden slice oven baked tofu infused with curry spices, topped with fresh rainbow slaw",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 9.2,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Bbq pork sandwich, bbq pork",
+        "Name": "Bbq pork s&wich",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 9.1,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss sliders honey smoked turkey breast, swiss cheese & greenleaf lettuce on brioche buns, turkey & swiss",
+        "Name": "Turkey & swiss sliders honey smoked turkey breast, swiss cheese & greenleaf lettuce on brioche buns",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.5,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Chicken salad finger sandwiches, chicken salad",
+        "Name": "Chicken salad finger s&wiches",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 11.4,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Ham & cheese finger sandwiches, ham & cheese finger",
+        "Name": "Ham & cheese finger s&wiches",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 6.0,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheese finger sandwiches, roast beef & cheese",
+        "Name": "Roast beef & cheese finger s&wiches",
         "Nutrients": {
             "Protein": 18.5,
             "Fat": 6.5,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Honey turkey, swiss, & cheddar bavarian pretzel, honey turkey, swiss, & cheddar",
+        "Name": "Honey turkey, swiss, & cheddar bavarian pretzel, honey turkey, swiss",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 8.9,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Ham + swiss cheese on potato dinner rolls with a slide of mustard sliders, ham + swiss cheese",
+        "Name": "Ham & swiss cheese on potato dinner rolls with a slide of mustard sliders",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 5.3,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Chicken half cheesesteak, chicken",
+        "Name": "Chicken half cheesesteak",
         "Nutrients": {
             "Protein": 28.2,
             "Fat": 23.3,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Mushroom swiss burger, mushroom",
+        "Name": "Mushroom swiss burger",
         "Nutrients": {
             "Protein": 17.2,
             "Fat": 15.8,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Pesto mozzarella caprese sandwich, pesto mozzarella caprese",
+        "Name": "Pesto mozzarella caprese s&wich",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 8.4,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "All butter croissant with cheesy scrambled egg and bacon, cheesy scrambled egg and bacon",
+        "Name": "All butter croissant with cheesy scrambled egg & bacon",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 19.1,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Bacon egg + cheddar waffle sandwich, bacon",
+        "Name": "Bacon egg & cheddar waffle s&wich",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 23.0,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Bacon egg + cheddar waffle sandwich, bacon egg + cheddar",
+        "Name": "Bacon egg & cheddar waffle s&wich",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 17.7,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Green chile cheeseburger, green chile",
+        "Name": "Green chile cheeseburger",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 10.6,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Smokemaster black forest ham, smokemaster black forest",
+        "Name": "Smokemaster black forest ham",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 4.9,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Totally turkey roasted turkey, cheddar cheese, on seasoned flatbread san'wedge, turkey",
+        "Name": "Totally turkey roasted turkey, cheddar cheese, on seasoned flatbread sanwedge",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 15.0,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Tuscan chicken croissant sandwich, tuscan chicken croissant",
+        "Name": "Tuscan chicken croissant s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 10.9,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Turkey blt on sourdough bread, turkey",
+        "Name": "Turkey blt on sourdough bread",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 6.2,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Turkey swiss sandwich, turkey swiss",
+        "Name": "Turkey swiss s&wich",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 5.5,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Nashville hot tender sandwich, nashville hot",
+        "Name": "Nashville hot tender s&wich",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 6.8,
@@ -8388,7 +8388,7 @@
         }
     },
     {
-        "Name": "Bacon, egg, cheese biscuit, bacon, egg, cheese",
+        "Name": "Bacon, egg, cheese biscuit, bacon, egg",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 14.7,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Bacon dbl cheeseburger, bacon",
+        "Name": "Bacon dbl cheeseburger",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 35.7,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "6\" sub sandwich with jalapeno ranch dressing, turkey pepper jack",
+        "Name": "Sub s&wich with jalapeno ranch dressing, turkey pepper jack",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.2,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Pastrami & swiss cheese sub, pastrami & swiss cheese",
+        "Name": "Pastrami & swiss cheese sub",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 6.9,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone sesame baguette, turkey & provolone",
+        "Name": "Turkey & provolone sesame baguette",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 4.0,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Buttermilk sandwich - size sausage biscuits, buttermilk",
+        "Name": "Buttermilk s&wich - size sausage biscuits",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 20.5,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Smokemaster black forest ham sub, smokemaster black forest ham",
+        "Name": "Smokemaster black forest ham sub",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 5.0,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese muffin, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese muffin, sausage",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 15.4,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Ham, egg & cheese muffin, ham, egg & cheese",
+        "Name": "Ham, egg & cheese muffin, ham",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 6.3,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Egg salad croissant, egg",
+        "Name": "Egg salad croissant",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 16.2,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Ham and cheddar croissant, ham and cheddar",
+        "Name": "Ham & cheddar croissant",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 11.5,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Black forest ham and provolone cheese sandwich mealtime, black forest ham and provolone cheese",
+        "Name": "Black forest ham & provolone cheese s&wich mealtime",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 6.6,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Mesquite smoked turkey breast and colby jack cheese sandwich mealtime, mesquite smoked turkey breast and colby jack cheese",
+        "Name": "Mesquite smoked turkey breast & colby jack cheese s&wich mealtime",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 7.9,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Grilled chicken breast & cheddar artisan sandwich, grilled chicken breast & cheddar",
+        "Name": "Grilled chicken breast & cheddar artisan s&wich",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 10.8,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Turkey & muenster pretzel roll, turkey & muenster pretzel",
+        "Name": "Turkey & muenster pretzel roll",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 5.4,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Black forest ham and provolone cheese sandwich on white bread mealtime, black forest ham and provolone cheese sandwich",
+        "Name": "Black forest ham & provolone cheese s&wich on white bread mealtime",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 7.9,
@@ -8541,7 +8541,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese eggs, breakfast sausage and american cheese on a fluffy buttermilk biscuit, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese eggs, breakfast sausage & american cheese on a fluffy buttermilk biscuit, sausage",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 21.1,
@@ -8550,7 +8550,7 @@
         }
     },
     {
-        "Name": "Sicilian pub roll, sicilian pub",
+        "Name": "Sicilian pub roll",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 9.3,
@@ -8559,7 +8559,7 @@
         }
     },
     {
-        "Name": "Chicken & cheddar ciabatta, chicken & cheddar",
+        "Name": "Chicken & cheddar ciabatta",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 7.1,
@@ -8568,7 +8568,7 @@
         }
     },
     {
-        "Name": "Turkey and havarti on king's hawaiian sandwich, turkey and havarti on king's hawaiian",
+        "Name": "Turkey & havarti on kings hawaiian s&wich",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 10.1,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Charbroiled cheeseburger kaiser roll, charbroiled cheeseburger",
+        "Name": "Charbroiled cheeseburger kaiser roll",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 16.9,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Smoked uncured boneless sweet slice ham brioche, smoked uncured",
+        "Name": "Smoked uncured boneless sweet slice ham brioche",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 8.6,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Authentic italian sub, authentic italian",
+        "Name": "Authentic italian sub",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 11.4,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Deluxe roast beef sub, deluxe roast beef",
+        "Name": "Deluxe roast beef sub",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 5.0,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Buffalo club, buffalo",
+        "Name": "Buffalo club",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 8.2,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Buffalo club sub, buffalo club",
+        "Name": "Buffalo club sub",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 7.4,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Authentic italian style sub, authentic italian style",
+        "Name": "Authentic italian style sub",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 10.2,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Classic italian style sandwiches, classic italian style",
+        "Name": "Classic italian style s&wiches",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 12.3,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Club half sub, club",
+        "Name": "Club half sub",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 5.4,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Harmonious ham sandwich, harmonious ham",
+        "Name": "Harmonious ham s&wich",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.6,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Smokemaster black forest ham & swiss cheese sub, smokemaster black forest ham & swiss cheese",
+        "Name": "Smokemaster black forest ham & swiss cheese sub",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 3.5,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Italian style half sub, italian style",
+        "Name": "Italian style half sub",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 13.5,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Black forest ham & cheddar black forest beechwood smoked ham, vermont cheddar cheese, lettuce, tomato & mustard pretzel roll, black forest ham & cheddar",
+        "Name": "Black forest ham & cheddar black forest beechwood smoked ham, vermont cheddar cheese, lettuce, tomato & mustard pretzel roll",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.3,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Turkey ovengold, provolone cheese & baby spinach panini, turkey",
+        "Name": "Turkey ovengold, provolone cheese & baby spinach panini",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 5.9,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Turkey ovengold, white american cheese, lettuce & tomato sandwich, turkey",
+        "Name": "Turkey ovengold, white american cheese, lettuce & tomato s&wich",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 5.3,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Maple honey turkey premium deli meats & cheeses, maple honey turkey",
+        "Name": "Maple honey turkey premium deli meats & cheeses",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 4.5,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Roast beef sandwich, roast beef",
+        "Name": "Roast beef s&wich",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 7.8,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Black forest ham & baby swiss cheese, white french sub, black forest ham & baby swiss",
+        "Name": "Black forest ham & baby swiss cheese, white french sub",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 7.3,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Buffalo chicken salad sandwich, buffalo chicken",
+        "Name": "Buffalo chicken salad s&wich",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 8.1,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Ham and cheddar sandwich, ham and cheddar",
+        "Name": "Ham & cheddar s&wich",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 15.8,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Turkey club sandwiches, turkey club",
+        "Name": "Turkey club s&wiches",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 3.6,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Ham, roast beef & turkey on sub, ham, roast beef & turkey",
+        "Name": "Ham, roast beef & turkey on sub, ham",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.4,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Turkey & cheddar cheese sub, turkey & cheddar cheese",
+        "Name": "Turkey & cheddar cheese sub",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 9.4,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Turkey and white cheddar pretzel roll, turkey and white cheddar",
+        "Name": "Turkey & white cheddar pretzel roll",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 5.6,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Tuna salad on wheat bread wedge sandwich, tuna salad",
+        "Name": "Tuna salad on wheat bread wedge s&wich",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 12.6,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Breakfast stacker kaiser, breakfast stacker",
+        "Name": "Breakfast stacker kaiser",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 27.4,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Angus flame broiled double beef patties with american cheese on a sesame seed bun cheeseburger, angus",
+        "Name": "Angus flame broiled double beef patties with american cheese on a sesame seed bun cheeseburger",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 22.6,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Turkey & cheese sub sandwich, turkey & cheese",
+        "Name": "Turkey & cheese sub s&wich",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 6.6,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Turkey and cheese roasted turkey breast, mild white cheddar cheese and greenleaf on a hoagie roll, turkey and cheese",
+        "Name": "Turkey & cheese roasted turkey breast, mild white cheddar cheese & greenleaf on a hoagie roll",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 5.1,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Mega italian sandwich, mega italian",
+        "Name": "Mega italian s&wich",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 7.1,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "All butter croissant with ham, egg and cheese, all butter with ham, egg and cheese",
+        "Name": "All butter croissant with ham, egg & cheese, all butter with ham",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 14.8,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Turkey & white cheddar roasted turkey breast, white cheddar cheese, tomato & green leaf lettuce on whole grain wheat bread sandwich, turkey & white cheddar",
+        "Name": "Turkey & white cheddar roasted turkey breast, white cheddar cheese, tomato & green leaf lettuce on whole grain wheat bread s&wich",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.9,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Chicken bomb sub, chicken",
+        "Name": "Chicken bomb sub",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 8.9,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Turkey whole sub, turkey",
+        "Name": "Turkey whole sub",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 2.1,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Pepperoni sub, pepperoni",
+        "Name": "Pepperoni sub",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 19.4,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Ham & turkey breast, tomatoes, green leaf lettuce, swiss cheese & white cheddar cheese on a hoagie roll sandwich, ham & turkey",
+        "Name": "Ham & turkey breast, tomatoes, green leaf lettuce, swiss cheese & white cheddar cheese on a hoagie roll s&wich",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 5.3,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Roasted turkey breast, white cheddar cheese, tomatoes & green leaf lettuce on a hoagie roll turkey sandwich",
+        "Name": "Roasted turkey breast, white cheddar cheese, tomatoes & green leaf lettuce on a hoagie roll turkey s&wich",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 4.8,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Zesty lemon & herb turkey sandwich, zesty lemon & herb",
+        "Name": "Zesty lemon & herb turkey s&wich",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 8.7,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Turkey & provolone sandwich, turkey & provolone",
+        "Name": "Turkey & provolone s&wich",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 9.9,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "New york deli pastrami, black forest ham, baby swiss cheese, hard salami, white french bread half sub , new york deli",
+        "Name": "New york deli pastrami, black forest ham, baby swiss cheese, hard salami, white french bread half sub",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 9.2,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "All american tavern ham, oven roasted turkey breast, cheddar cheese, four cheese bread full sub, all american",
+        "Name": "All american tavern ham, oven roasted turkey breast, cheddar cheese, four cheese bread full sub",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 6.3,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Roast beef & cheddar cheese, white french bread full sub, roast beef & cheddar",
+        "Name": "Roast beef & cheddar cheese, white french bread full sub",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 6.5,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Italian hero uncured tavern ham, hard salami, hot ham capicola, pepperoni, provolone cheese, four cheese bread full sub, italian hero",
+        "Name": "Italian hero uncured tavern ham, hard salami, hot ham capicola, pepperoni, provolone cheese, four cheese bread full sub",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 12.6,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Turkey & swiss on a croissant, turkey & swiss",
+        "Name": "Turkey & swiss on a croissant",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 10.3,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Bumble bee snack on the run! tuna salad kit with crackers, 3.5 oz",
+        "Name": "Bumble bee snack on the run! tuna salad kit with crackers",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 23.2,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Spicy chicken biscuit, spicy chicken",
+        "Name": "Spicy chicken biscuit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.2,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Sausage and egg waffle breakfast sandwiches, sausage and egg waffle",
+        "Name": "Sausage & egg waffle breakfast s&wiches",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.8,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Colorado veggie philly sandwich, colorado veggie philly",
+        "Name": "Colorado veggie philly s&wich",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.0,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Tuna salad sandwich, tuna salad",
+        "Name": "Tuna salad s&wich",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 4.1,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Granny green's sandwiches",
+        "Name": "Granny greens s&wiches",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 9.7,
@@ -9054,7 +9054,7 @@
         }
     },
     {
-        "Name": "Columbus charcuterie tasting board, 12.5 oz",
+        "Name": "Columbus charcuterie tasting board",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 17.9,
@@ -9063,7 +9063,7 @@
         }
     },
     {
-        "Name": "Fish fillet herb breaded wild alaskan pollock with tartar sauce and american cheese on a brioche bun sandwich, fish fillet",
+        "Name": "Fish fillet herb breaded wild alaskan pollock with tartar sauce & american cheese on a brioche bun s&wich",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 13.5,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Albacore tuna finger sandwiches",
+        "Name": "Albacore tuna finger s&wiches",
         "Nutrients": {
             "Protein": 20.6,
             "Fat": 9.2,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Original sandwich thins",
+        "Name": "Original s&wich thins",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 7.8,
@@ -9099,7 +9099,7 @@
         }
     },
     {
-        "Name": "Peanut butter & jelly wheat bread, peanut butter & jelly wheat",
+        "Name": "Peanut butter & jelly wheat bread",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 19.9,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Bacon, egg, cheese croissant, bacon, egg, cheese",
+        "Name": "Bacon, egg, cheese croissant, bacon, egg",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 21.8,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Classic italian style sandwich, classic italian style",
+        "Name": "Classic italian style s&wich",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 16.8,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "California style handcrafted with turkey breast, avocado ranch dressing, green leaf lettuce, red onion and muenster cheese on a sandwich roll, california style",
+        "Name": "California style h&crafted with turkey breast, avocado ranch dressing, green leaf lettuce, red onion & muenster cheese on a s&wich roll",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 7.9,
@@ -9135,7 +9135,7 @@
         }
     },
     {
-        "Name": "Egg salad sandwich egg salad with lettuce on freshly baked white bread, egg salad sandwich",
+        "Name": "Egg salad s&wich egg salad with lettuce on freshly baked white bread",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 13.6,
@@ -9144,7 +9144,7 @@
         }
     },
     {
-        "Name": "Ferrero nutella & go! hazelnut spread + breadsticks, 1.8 oz, 4 count",
+        "Name": "Ferrero nutella & go! hazelnut spread & breadsticks, , count",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 25.0,
@@ -9171,7 +9171,7 @@
         }
     },
     {
-        "Name": "Garlic parmesan sub roll, garlic parmesan",
+        "Name": "Garlic parmesan sub roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.2,
@@ -9180,7 +9180,7 @@
         }
     },
     {
-        "Name": "Chicken, apple & brie ciabatta baguette, chicken, apple & brie",
+        "Name": "Chicken, apple & brie ciabatta baguette, chicken",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 5.6,
@@ -9189,7 +9189,7 @@
         }
     },
     {
-        "Name": "Egg wheat salad, egg wheat",
+        "Name": "Egg wheat salad",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 12.2,

@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Gluten free turkey flavored gravy mix, turkey",
+        "Name": "Gluten free turkey flavored gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Country gravy mix, country",
+        "Name": "Country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Biscuit gravy mix, biscuit",
+        "Name": "Biscuit gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Wild mushroom organic gravy, wild mushroom",
+        "Name": "Wild mushroom organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Original country gravy mix, original",
+        "Name": "Original country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.2,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Brown gravy mix, brown",
+        "Name": "Brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Pork gravy mix, pork",
+        "Name": "Pork gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Savory beef flavored organic gravy, savory beef",
+        "Name": "Savory beef flavored organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Country sausage flavor gravy mix, country sausage",
+        "Name": "Country sausage flavor gravy mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 20.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Au jus gravy mix, au jus",
+        "Name": "Au jus gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Country gravy mix flavored with real sausage, real sausage",
+        "Name": "Country gravy mix flavored with real sausage",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Peppered gravy mix, peppered",
+        "Name": "Peppered gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Original pork sausage gravy, original",
+        "Name": "Original pork sausage gravy",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 8.6,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Roasted beef gravy mix, roasted beef",
+        "Name": "Roasted beef gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Roasted turkey gravy mix, roasted turkey",
+        "Name": "Roasted turkey gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Roasted turkey flavored gravy, roasted turkey",
+        "Name": "Roasted turkey flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Home style chicken gravy, home style chicken",
+        "Name": "Home style chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Chicken gravy mix, chicken",
+        "Name": "Chicken gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Roasted chicken gravy mix, roasted chicken",
+        "Name": "Roasted chicken gravy mix",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "French dip au jus gravy mix, french dip au jus",
+        "Name": "French dip au jus gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Roasted pork gravy mix, roasted pork",
+        "Name": "Roasted pork gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Country sausage gravy, country sausage",
+        "Name": "Country sausage gravy",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 16.1,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Chicken flavored gravy mix, chicken",
+        "Name": "Chicken flavored gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 7.1,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Turkey gravy mix, turkey",
+        "Name": "Turkey gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Homestyle mushroom gravy, homestyle mushroom",
+        "Name": "Homestyle mushroom gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.7,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Homestyle pork gravy, homestyle pork",
+        "Name": "Homestyle pork gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Homestyle chicken gravy, homestyle chicken",
+        "Name": "Homestyle chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Homestyle beef gravy, homestyle beef",
+        "Name": "Homestyle beef gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey gravy, homestyle turkey",
+        "Name": "Homestyle turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Chicken gravy seasoned with sage and black pepper, chicken with sage and black pepper",
+        "Name": "Chicken gravy seasoned with sage & black pepper, chicken with sage & black pepper",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.2,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Turkey gravy, turkey",
+        "Name": "Turkey gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Aujus gravy mix, aujus",
+        "Name": "Aujus gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Mushroom gravy, mushroom",
+        "Name": "Mushroom gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Creamy country style sausage gravy, creamy country style",
+        "Name": "Creamy country style sausage gravy",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.5,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Classic chicken gravy, classic",
+        "Name": "Classic chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.2,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Beef gravy, beef",
+        "Name": "Beef gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Chicken gravy, chicken",
+        "Name": "Chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.2,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Butter chicken tomato based mild gravy simmer sauce, butter chicken",
+        "Name": "Butter chicken tomato based mild gravy simmer sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 7.5,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Rogan josh simmer sauce, rogan josh",
+        "Name": "Rogan josh simmer sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 4.2,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Old fashioned dark roux, old fashioned",
+        "Name": "Old fashioned dark roux",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 30.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Chicken classic gravy, chicken",
+        "Name": "Chicken classic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Shop 'n save, brown gravy mix",
+        "Name": "Shop & save, brown gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Shop 'n save, au jus gravy mix",
+        "Name": "Shop & save, au jus gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Road's end organics, shiitake mushroom gluten free quick gravy",
+        "Name": "Roads end organics, shiitake mushroom gluten free quick gravy",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Roundy's, brown gravy mix",
+        "Name": "Roundys, brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Roundy's, chicken gravy mix",
+        "Name": "Roundys, chicken gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 16.7,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Roundy's, country gravy mix",
+        "Name": "Roundys, country gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Grandma's seasonings, turkey gravy mix",
+        "Name": "Gr&mas seasonings, turkey gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Grandma's seasonings, brown gravy mix",
+        "Name": "Gr&mas seasonings, brown gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Patterson's, daybreak, homestyle sausage gravy",
+        "Name": "Pattersons, daybreak, homestyle sausage gravy",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 9.0,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Winco foods, onion gravy mix, onion",
+        "Name": "Winco foods, onion gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Road's end organics, quick gravy, savory herbs",
+        "Name": "Roads end organics, quick gravy, savory herbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Lawry's, au jus gravy mix",
+        "Name": "Lawrys, au jus gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Lawry's, brown gravy mix",
+        "Name": "Lawrys, brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Sausage flavor country gravy mix, sausage",
+        "Name": "Sausage flavor country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Minor's, beef gravy mix",
+        "Name": "Minors, beef gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Everyday sauce and gravy",
+        "Name": "Everyday sauce & gravy",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.6,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "Biscuits and gravy",
+        "Name": "Biscuits & gravy",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 21.5,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "French's, turkey gravy mix",
+        "Name": "Frenchs, turkey gravy mix",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "French's, pork & gravy mix",
+        "Name": "Frenchs, pork & gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "French's, chicken gravy mix",
+        "Name": "Frenchs, chicken gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Chef's recipe beef gravy",
+        "Name": "Chefs recipe beef gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Homestyle chicken gravy, homestyle",
+        "Name": "Homestyle chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.2,
@@ -2628,7 +2628,7 @@
         }
     },
     {
-        "Name": "Country sausage gravy, sausage",
+        "Name": "Country sausage gravy",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 16.1,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Classic beef gravy, classic beef",
+        "Name": "Classic beef gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Chicken flavor instant gravy mix, chicken",
+        "Name": "Chicken flavor instant gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Turkey flavor instant gravy mix, turkey",
+        "Name": "Turkey flavor instant gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Pork flavor gravy mix, pork",
+        "Name": "Pork flavor gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Mushroom gravy mix, mushroom",
+        "Name": "Mushroom gravy mix",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Onion gravy mix, onion",
+        "Name": "Onion gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Savory beef gravy, savory beef",
+        "Name": "Savory beef gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "Savory chicken gravy, savory chicken",
+        "Name": "Savory chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Savory turkey gravy, savory turkey",
+        "Name": "Savory turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Roasted pork flavored gravy mix, roasted pork",
+        "Name": "Roasted pork flavored gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Home style turkey gravy, home style turkey",
+        "Name": "Home style turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Home style beef gravy, home style beef",
+        "Name": "Home style beef gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Au jus flavored gravy mix, au jus",
+        "Name": "Au jus flavored gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey gravy, homestyle",
+        "Name": "Homestyle turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Herb gravy mix for beef, herb",
+        "Name": "Herb gravy mix for beef",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 14.3,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Peppered country gravy mix, peppered",
+        "Name": "Peppered country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Homestyle country gravy mix, homestyle",
+        "Name": "Homestyle country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Brown gravy mix, brown gravy",
+        "Name": "Brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Homestyle pork sausage gravy, homestyle",
+        "Name": "Homestyle pork sausage gravy",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 9.4,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Classic turkey gravy, classic turkey",
+        "Name": "Classic turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Sausage gravy, sausage",
+        "Name": "Sausage gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 8.3,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "Homestyle beef flavored gravy, beef",
+        "Name": "Homestyle beef flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Au jus mix, au jus",
+        "Name": "Au jus mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3132,7 +3132,7 @@
         }
     },
     {
-        "Name": "Stouffer's, morning classic, sausage gravy & biscuits",
+        "Name": "Stouffers, morning classic, sausage gravy & biscuits",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 8.0,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Original country sausage gravy, original",
+        "Name": "Original country sausage gravy",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 12.9,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "Roasted turkey homestyle gravy, roasted turkey",
+        "Name": "Roasted turkey homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Savory beef home style fat free gravy, savory beef",
+        "Name": "Savory beef home style fat free gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Country sausage gravy, country",
+        "Name": "Country sausage gravy",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 16.1,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Traditional pork gravy, traditional pork",
+        "Name": "Traditional pork gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Turkey gravy with mccormick spices, turkey",
+        "Name": "Turkey gravy with mccormick spices",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Trio, gravy mix, southern country, southern country",
+        "Name": "Trio, gravy mix, southern country",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 15.0,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Bistro au jus home style gravy, bistro au jus",
+        "Name": "Bistro au jus home style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Home style roasted turkey fat free gravy, home style roasted turkey",
+        "Name": "Home style roasted turkey fat free gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Home style pork gravy, home style pork",
+        "Name": "Home style pork gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Home style brown with onions gravy, home style brown with onions",
+        "Name": "Home style brown with onions gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Homestyle pork flavored gravy, homestyle pork",
+        "Name": "Homestyle pork flavored gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "Sausage flavored country gravy mix, sausage",
+        "Name": "Sausage flavored country gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 33.3,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Country gravy mix with sausage, with sausage",
+        "Name": "Country gravy mix with sausage",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "Reduced sodium brown gravy mix, brown",
+        "Name": "Reduced sodium brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Homestyle roasted turkey gravy, homestyle",
+        "Name": "Homestyle roasted turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Classic beef homestyle gravy, classic beef",
+        "Name": "Classic beef homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Classic turkey homestyle gravy, classic turkey",
+        "Name": "Classic turkey homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Homestyle classic chicken gravy, classic chicken",
+        "Name": "Homestyle classic chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "Home style roasted turkey gravy, home style roasted turkey",
+        "Name": "Home style roasted turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "Homestyle sausage gravy, homestyle",
+        "Name": "Homestyle sausage gravy",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 3.6,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Country style gravy mix, country style",
+        "Name": "Country style gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Home style roasted chicken gravy mix, home style, roasted chicken",
+        "Name": "Home style roasted chicken gravy mix, home style",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Southern country gravy mix, southern country",
+        "Name": "Southern country gravy mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 15.0,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Pork flavored gravy mix, pork",
+        "Name": "Pork flavored gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Turkey flavored gravy mix, turkey",
+        "Name": "Turkey flavored gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Chicken gravy mix seasoned with onions and spices, chicken",
+        "Name": "Chicken gravy mix seasoned with onions & spices",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Home style roasted brown gravy mix, home style roasted brown",
+        "Name": "Home style roasted brown gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "Brown gravy mix, brown gravy mix",
+        "Name": "Brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Turkey organic gravy, turkey",
+        "Name": "Turkey organic gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 4.2,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Real pork homestyle gravy, real pork",
+        "Name": "Real pork homestyle gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Real chicken homestyle gravy, real chicken",
+        "Name": "Real chicken homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Real turkey homestyle gravy, real turkey",
+        "Name": "Real turkey homestyle gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Organic mushroom gravy, mushroom",
+        "Name": "Organic mushroom gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.7,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Classic brown gravy mix, classic brown",
+        "Name": "Classic brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Roasted turkey flavored gravy mix, roasted turkey",
+        "Name": "Roasted turkey flavored gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavored gravy mix, roasted chicken",
+        "Name": "Roasted chicken flavored gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Sausage flavor country gravy mix, sausage, country",
+        "Name": "Sausage flavor country gravy mix, sausage",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Classic pork gravy, classic pork",
+        "Name": "Classic pork gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Classic chicken gravy, classic chicken",
+        "Name": "Classic chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Original chocolate gravy, chocolate",
+        "Name": "Original chocolate gravy",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Country brown real beef stock gravy mix, country brown",
+        "Name": "Country brown real beef stock gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 14.3,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Beef flavored gravy, beef",
+        "Name": "Beef flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Country gravy mix with sausage, sausage",
+        "Name": "Country gravy mix with sausage",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Brown reduced sodium gravy mix, brown",
+        "Name": "Brown reduced sodium gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey gravy, homestyle, turkey",
+        "Name": "Homestyle turkey gravy, homestyle",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 6.7,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Classic mushroom gravy, classic mushroom",
+        "Name": "Classic mushroom gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Brown gravy mix with onions, onions",
+        "Name": "Brown gravy mix with onions",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 14.3,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "A traditional-style gravy brimming with roasted turkey flavor, roasted turkey",
+        "Name": "A traditional-style gravy brimming with roasted turkey flavor",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Turkey gravy concentrate, turkey",
+        "Name": "Turkey gravy concentrate",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 40.0,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Beef gravy concentrate, beef",
+        "Name": "Beef gravy concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 35.0,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "French dip style au jus mix, french dip style au jus",
+        "Name": "French dip style au jus mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Mix for beef gravy, beef",
+        "Name": "Mix for beef gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Dry roux (sauce/soup thickener)",
+        "Name": "Dry roux",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Country gravy mix, country gravy",
+        "Name": "Country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Country brown gravy mix, country brown",
+        "Name": "Country brown gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 14.3,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Gravy mix, roasted turkey ",
+        "Name": "Gravy mix, roasted turkey",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Weis, homestyle gravy, chicken, chicken",
+        "Name": "Weis, homestyle gravy, chicken",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 4.0,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Weis, homestyle gravy, beef, beef",
+        "Name": "Weis, homestyle gravy, beef",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Poultry gravy mix, poultry",
+        "Name": "Poultry gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 11.1,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Home-style gravy goes with chicken, turkey and pork, home-style gravy",
+        "Name": "Home-style gravy goes with chicken, turkey & pork",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Savory beef flavoren gravy, savory beef",
+        "Name": "Savory beef flavoren gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Classic chicken flavored gravy, chicken",
+        "Name": "Classic chicken flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Classic chicken gravy., classic chicken",
+        "Name": "Classic chicken gravy.",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "French dip style au jus mix, french dip style",
+        "Name": "French dip style au jus mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Signature gravy with real cream, sage, & thyme, signature",
+        "Name": "Signature gravy with real cream, sage, & thyme",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.2,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Original creamed sliced beef, original",
+        "Name": "Original creamed sliced beef",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 11.4,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Poultry low sodium gravy mix, poultry",
+        "Name": "Poultry low sodium gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 11.1,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Country gluten free gravy mix, country",
+        "Name": "Country gluten free gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "Weis, homestyle gravy, real beef, real beef",
+        "Name": "Weis, homestyle gravy, real beef",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Weis, homestyle gravy, mushroom, mushroom",
+        "Name": "Weis, homestyle gravy, mushroom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Weis, chicken gravy mix, original, original",
+        "Name": "Weis, chicken gravy mix, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Weis, pork gravy mix, original, original",
+        "Name": "Weis, pork gravy mix, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy, chicken, chicken",
+        "Name": "Shoprite, gravy, chicken",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy, beef, beef",
+        "Name": "Shoprite, gravy, beef",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy, mushroom, mushroom",
+        "Name": "Shoprite, gravy, mushroom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.7,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy, pork, pork",
+        "Name": "Shoprite, gravy, pork",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy, turkey, turkey",
+        "Name": "Shoprite, gravy, turkey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "Vegan wild mushroom organic gravy, vegan wild mushroom",
+        "Name": "Vegan wild mushroom organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Winco foods, onion gravy mix, onion, onion",
+        "Name": "Winco foods, onion gravy mix, onion",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -4086,7 +4086,7 @@
         }
     },
     {
-        "Name": "Road's end organics, quick gravy, savory herbs, savory herbs",
+        "Name": "Roads end organics, quick gravy, savory herbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Gravy mix, beef 'n' onion",
+        "Name": "Gravy mix, beef & onion",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Original country gravy mix, original country",
+        "Name": "Original country gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Homestyle gravy mix, homestyle",
+        "Name": "Homestyle gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Turkey gluten-free gravy mix, turkey",
+        "Name": "Turkey gluten-free gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Pork gravy, pork",
+        "Name": "Pork gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "30% less sodium chicken gravy mix, 30% less sodium chicken",
+        "Name": "30% less sodium chicken gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Brown gluten-free gravy mix, brown",
+        "Name": "Brown gluten-free gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "30% less sodium brown gravy mix, 30% less sodium brown",
+        "Name": "30% less sodium brown gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Turkey base, turkey",
+        "Name": "Turkey base",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Premium brown gravy mix, premium brown",
+        "Name": "Premium brown gravy mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 6.2,
@@ -4203,7 +4203,7 @@
         }
     },
     {
-        "Name": "Premium poultry gravy mix, premium poultry",
+        "Name": "Premium poultry gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Chicken gravy with mccormick spices, chicken",
+        "Name": "Chicken gravy with mccormick spices",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Chicken gravy concentrate, chicken",
+        "Name": "Chicken gravy concentrate",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 30.0,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Roasted turkey flavored organic gravy, roasted turkey",
+        "Name": "Roasted turkey flavored organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Pork gravy mix, pork gravy",
+        "Name": "Pork gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Classic roasted turkey demi-glace, classic roasted turkey",
+        "Name": "Classic roasted turkey demi-glace",
         "Nutrients": {
             "Protein": 27.3,
             "Fat": 4.5,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Traditional homestyle flavored turkey gravy, traditional homestyle",
+        "Name": "Traditional homestyle flavored turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Sausage gravy & biscuits two buttermilk biscuits & a spicy, peppery sausage gravy made with 100% pork, sausage gravy & biscuits",
+        "Name": "Sausage gravy & biscuits two buttermilk biscuits & a spicy, peppery sausage gravy made with 100% pork",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 8.0,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Hunter sauce gravy mix, hunter sauce",
+        "Name": "Hunter sauce gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Spice islands, gravy starter, garden vegetable & herb, garden vegetable & herb",
+        "Name": "Spice isl&s, gravy starter, garden vegetable & herb",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Homestyle mushroom gravy, homestyle, mushroom",
+        "Name": "Homestyle mushroom gravy, homestyle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Brown gravy made with beef stock, beef stock",
+        "Name": "Brown gravy made with beef stock",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 3.3,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Campbell's, turkey gravy",
+        "Name": "Campbells, turkey gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Ready to serve turkey gravy, turkey",
+        "Name": "Ready to serve turkey gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Campbell's, slow roast beef gravy",
+        "Name": "Campbells, slow roast beef gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Campbell's, beef gravy",
+        "Name": "Campbells, beef gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Campbell's, slow roast gravy, chicken, chicken",
+        "Name": "Campbells, slow roast gravy, chicken",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.0,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Campbell's, country style sausage gravy",
+        "Name": "Campbells, country style sausage gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 8.3,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Campbell's, chicken gravy",
+        "Name": "Campbells, chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.0,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, sausage gravy, odom's tennessee pride, sausage gravy",
+        "Name": "Odoms tennessee pride, sausage gravy, odoms tennessee pride",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 13.9,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Homestyle roasted turkey fat free gravy, homestyle roasted turkey",
+        "Name": "Homestyle roasted turkey fat free gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4446,7 +4446,7 @@
         }
     },
     {
-        "Name": "Home style classic chicken gravy, home style classic chicken",
+        "Name": "Home style classic chicken gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Roasted turkey home style gravy, roasted turkey",
+        "Name": "Roasted turkey home style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Aujus home style gravy mix, aujus, home style",
+        "Name": "Aujus home style gravy mix, aujus",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.0,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Truly instant brown gravy mix, truly instant brown gravy",
+        "Name": "Truly instant brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -4482,7 +4482,7 @@
         }
     },
     {
-        "Name": "Creamed chopped, pressed, smoked sliced beef, creamed",
+        "Name": "Creamed chopped, pressed, smoked sliced beef",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 11.4,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Brown gravy with onion, brown",
+        "Name": "Brown gravy with onion",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Brown 30% less sodium gravy mix, brown",
+        "Name": "Brown 30% less sodium gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -4509,7 +4509,7 @@
         }
     },
     {
-        "Name": "Turkey gravy flavored mix, turkey gravy",
+        "Name": "Turkey gravy flavored mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "San mill pepper gravy, pepper",
+        "Name": "San mill pepper gravy",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 29.8,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Roast pork gravy mix, roast pork",
+        "Name": "Roast pork gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.7,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Poultry organic gravy, poultry",
+        "Name": "Poultry organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.8,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "Spartan, ready-to-serve gravy, savory beef, savory beef",
+        "Name": "Spartan, ready-to-serve gravy, savory beef",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Spartan, ready-to-serve gravy, roasted turkey, roasted turkey",
+        "Name": "Spartan, ready-to-serve gravy, roasted turkey",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey gravy, turkey",
+        "Name": "Homestyle turkey gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Chicken flavored gravy, chicken",
+        "Name": "Chicken flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Homestyle savory gravy in a traditional holiday dinner recipe, homestyle",
+        "Name": "Homestyle savory gravy in a traditional holiday dinner recipe",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.2,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Homestyle gravy, turkey ",
+        "Name": "Homestyle gravy, turkey",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Brown gluten free gravy mix, brown",
+        "Name": "Brown gluten free gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Market pantry, gravy, beef, beef",
+        "Name": "Market pantry, gravy, beef",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Sausage gravy with biscuit style dumplings, biscuit style dumplings",
+        "Name": "Sausage gravy with biscuit style dumplings",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Homestyle gravy savory gravy in a traditional holding dinner recipe, homestyle gravy",
+        "Name": "Homestyle gravy savory gravy in a traditional holding dinner recipe",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.2,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Shoprite, gravy mix, chicken, chicken",
+        "Name": "Shoprite, gravy mix, chicken",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Turkey flavored home style gravy, turkey",
+        "Name": "Turkey flavored home style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Beef flavored home style gravy, beef",
+        "Name": "Beef flavored home style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Delicious golden gluten free quick gravy, delicious golden",
+        "Name": "Delicious golden gluten free quick gravy",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Chicken flavored home style gravy, chicken",
+        "Name": "Chicken flavored home style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Homestyle flavored pork gravy, homestyle",
+        "Name": "Homestyle flavored pork gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Turkey flavored gravy, turkey",
+        "Name": "Turkey flavored gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Poultry gravy starter, poultry",
+        "Name": "Poultry gravy starter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Cajun turkey gravy base, cajun turkey",
+        "Name": "Cajun turkey gravy base",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Sausage flavor country gravy mix, sausage flavor country",
+        "Name": "Sausage flavor country gravy mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.7,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Brown gravy savory mix, brown gravy",
+        "Name": "Brown gravy savory mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Brown organic gravy mix, brown",
+        "Name": "Brown organic gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Turkey flavored organic gravy mix, turkey",
+        "Name": "Turkey flavored organic gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Mushroom organic gravy, mushroom",
+        "Name": "Mushroom organic gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "No dairy classic gravy, no dairy classic",
+        "Name": "No dairy classic gravy",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.7,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Old-fashioned sausage & gravy, old-fashioned",
+        "Name": "Old-fashioned sausage & gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 10.0,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Savory herb gravy mix, savory herb",
+        "Name": "Savory herb gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "Classic chicken homestyle fat free gravy, classic chicken",
+        "Name": "Classic chicken homestyle fat free gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4842,7 +4842,7 @@
         }
     },
     {
-        "Name": "Roasted turkey homestyle gravy , roasted turkey",
+        "Name": "Roasted turkey homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Savory beef homestyle fat free gravy, savory beef",
+        "Name": "Savory beef homestyle fat free gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Country-style sausage homestyle gravy, country-style sausage",
+        "Name": "Country-style sausage homestyle gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 3.3,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Roasted turkey rich & savory signature gravy, roasted turkey rich & savory",
+        "Name": "Roasted turkey rich & savory signature gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 4.2,
@@ -4878,7 +4878,7 @@
         }
     },
     {
-        "Name": "Bistro au jus homestyle gravy, bistro au jus",
+        "Name": "Bistro au jus homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Roasted chicken rich & savory signature gravy, roasted chicken rich & savory",
+        "Name": "Roasted chicken rich & savory signature gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.7,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Au jus homestyle gravy mix, au jus",
+        "Name": "Au jus homestyle gravy mix",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.0,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Roasted turkey flavor homestyle gravy mix, roasted turkey",
+        "Name": "Roasted turkey flavor homestyle gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -4914,7 +4914,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavor homestyle gravy mix, roasted chicken",
+        "Name": "Roasted chicken flavor homestyle gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Roasted brown homestyle gravy mix, roasted brown",
+        "Name": "Roasted brown homestyle gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Biscuits & gravy buttermilk biscuits with gravy & pork sausage, gravy & pork sausage",
+        "Name": "Biscuits & gravy buttermilk biscuits with gravy & pork sausage",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 16.1,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Mushroom flavored gravy mix, mushroom",
+        "Name": "Mushroom flavored gravy mix",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Homestyle gravy, homestyle",
+        "Name": "Homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.7,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "Brown gravy, brown",
+        "Name": "Brown gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Home style savor pork flavored gravy, home style",
+        "Name": "Home style savor pork flavored gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Organic turkey gravy, turkey",
+        "Name": "Organic turkey gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 2.5,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Turkey style gravy mix, turkey style",
+        "Name": "Turkey style gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Brown gravy mix with onions, brown",
+        "Name": "Brown gravy mix with onions",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Chicken gravy mix, chicken gravy",
+        "Name": "Chicken gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Peppered country gravy mix, peppered country",
+        "Name": "Peppered country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.2,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Au jus gravy organic gourmet seasoning mix, au jus gravy",
+        "Name": "Au jus gravy organic gourmet seasoning mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Smoky country bacon bits & gravy mix, smoky country bacon",
+        "Name": "Smoky country bacon bits & gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 21.4,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Roasted turkey with sea salt & herbs bone broth gravy mix, roasted turkey with sea salt & herbs",
+        "Name": "Roasted turkey with sea salt & herbs bone broth gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Creole brown gravy mix, creole brown",
+        "Name": "Creole brown gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Roasted turkey bone broth gravy mix, roasted turkey",
+        "Name": "Roasted turkey bone broth gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Mushroom & onion gravy mix, mushroom & onion",
+        "Name": "Mushroom & onion gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "Homestyle savory gravy in a traditional holiday dinner recipe gravy, homestyle",
+        "Name": "Homestyle savory gravy in a traditional holiday dinner recipe gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 3.2,
@@ -5103,7 +5103,7 @@
         }
     },
     {
-        "Name": "Chicken style gravy mix, chicken style",
+        "Name": "Chicken style gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Turkey style gravy, turkey style",
+        "Name": "Turkey style gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Turkey chef's recipe gravy, turkey",
+        "Name": "Turkey chefs recipe gravy",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Beef chef's recipe gravy, beef",
+        "Name": "Beef chefs recipe gravy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Golden chicken with sea salt & herbs bone broth gravy mix, golden chicken with sea salt & herbs",
+        "Name": "Golden chicken with sea salt & herbs bone broth gravy mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Sausage country gravy mix, sausage country",
+        "Name": "Sausage country gravy mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 6.2,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Au jus gravy, au jus",
+        "Name": "Au jus gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Beef gravy a slow-roasted beef & vegetable based sauce, beef gravy",
+        "Name": "Beef gravy a slow-roasted beef & vegetable based sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.0,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Classic beef with sea salt & herbs bone broth gravy mix, classic beef with sea salt & herbs",
+        "Name": "Classic beef with sea salt & herbs bone broth gravy mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Turkey gravy organic gourmet seasoning mix, turkey gravy",
+        "Name": "Turkey gravy organic gourmet seasoning mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "2oz gravymaster seasoning",
+        "Name": "Gravymaster seasoning",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "5oz gravymaster seasoning",
+        "Name": "Gravymaster seasoning",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Grace browning, 10 fl oz",
+        "Name": "Grace browning",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Beef 'n' onion gravy mix",
+        "Name": "Beef & onion gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Homestyle country gravy mix, homestyle country",
+        "Name": "Homestyle country gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.2,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Au jus instant gravy mix, au jus",
+        "Name": "Au jus instant gravy mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Ginger & garam masala seasoned kidney beans with tomatoes & onions, ginger & garam masala",
+        "Name": "Ginger & garam masala seasoned kidney beans with tomatoes & onions",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 2.5,
@@ -5283,7 +5283,7 @@
         }
     },
     {
-        "Name": "Classic chicken homestyle gravy, classic chicken",
+        "Name": "Classic chicken homestyle gravy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Buttermilk biscuits with sausage gravy, buttermilk",
+        "Name": "Buttermilk biscuits with sausage gravy",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 14.4,

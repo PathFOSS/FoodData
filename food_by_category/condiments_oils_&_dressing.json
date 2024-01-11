@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Rotisserie chicken seasoning, rotisserie chicken",
+        "Name": "Rotisserie chicken seasoning",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Sweet & sour ready-to-use sauce, sweet & sour",
+        "Name": "Sweet & sour ready-to-use sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.6,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Korean style bbq sauce, korean style",
+        "Name": "Korean style bbq sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Buffalo sandwich sauce, buffalo",
+        "Name": "Buffalo s&wich sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Greek organic greek style dressing & marinade, greek",
+        "Name": "Greek organic greek style dressing & marinade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Ranch organic ranch style dressing & marinade, ranch",
+        "Name": "Ranch organic ranch style dressing & marinade",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 33.3,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Mediterranean organic mediterranean style dressing & marinade, mediterranean",
+        "Name": "Mediterranean organic mediterranean style dressing & marinade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Caesar organic caesar style dressing & marinade, caesar",
+        "Name": "Caesar organic caesar style dressing & marinade",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 30.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Japanese organic japanese style dressing & marinade, japanese",
+        "Name": "Japanese organic japanese style dressing & marinade",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Original legendary bar-b-q sauce, original",
+        "Name": "Original legendary bar-b-q sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Sweet chili sauce, sweet chili",
+        "Name": "Sweet chili sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Medium fiery sweet sauce, medium fiery sweet",
+        "Name": "Medium fiery sweet sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "100% natural classic yellow mustard, classic yellow",
+        "Name": "100% natural classic yellow mustard",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Medium traditional salsa fresca tomatoes, onions, peppers and cilantro in a traditional mexican style salsa, medium traditional salsa fresca",
+        "Name": "Medium traditional salsa fresca tomatoes, onions, peppers & cilantro in a traditional mexican style salsa",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheese sauce, jalapeno cheese",
+        "Name": "Jalapeno cheese sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 8.1,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Mild nacho cheese sauce, mild nacho",
+        "Name": "Mild nacho cheese sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 11.3,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Original golden cheese sauce, original",
+        "Name": "Original golden cheese sauce",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 19.4,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Cheddar cheese sauce, cheddar cheese",
+        "Name": "Cheddar cheese sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 9.7,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Pepper sauce, pepper",
+        "Name": "Pepper sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Classic yellow mustard, classic yellow",
+        "Name": "Classic yellow mustard",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Classic yellow mustard, classic",
+        "Name": "Classic yellow mustard",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Tomato ketchup, tomato",
+        "Name": "Tomato ketchup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Xtra hot buffalo wing sauce, xtra hot buffalo",
+        "Name": "Xtra hot buffalo wing sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Aardvark habanero hot sauce, aardvark",
+        "Name": "Aardvark habanero hot sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Mild buffalo style chicken wing sauce, mild buffalo style",
+        "Name": "Mild buffalo style chicken wing sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,

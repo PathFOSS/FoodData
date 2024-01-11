@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Cool lime flavored instant beverage with green coffee extract, cool lime",
+        "Name": "Cool lime flavored instant beverage with green coffee extract",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Sweetened iced 100% arabica soluble coffee with sugar, k-cup pods, sweetened",
+        "Name": "Sweetened iced 100% arabica soluble coffee with sugar, k-cup pods",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Sweetened iced coffee packets, sweetened",
+        "Name": "Sweetened iced coffee packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Vanilla sweetened iced coffee flavored arabica soluble coffee with sugar k-cup, vanilla",
+        "Name": "Vanilla sweetened iced coffee flavored arabica soluble coffee with sugar k-cup",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Vanilla sweetened flavored arabica soluble iced coffee with sugar, vanilla",
+        "Name": "Vanilla sweetened flavored arabica soluble iced coffee with sugar",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Sweetened iced soluble 100% arabica coffee with sugar, sweetened",
+        "Name": "Sweetened iced soluble 100% arabica coffee with sugar",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Caffe mocha latte with dutch and natural cocoa specialty coffee beverage, caffe mocha latte",
+        "Name": "Caffe mocha latte with dutch & natural cocoa specialty coffee beverage",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 12.2,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "2x dark roasted coffee + milk",
+        "Name": "Dark roasted coffee & milk",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.2,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Sweet & creamy medium roast coffee, nutty hazelnut, nutty hazelnut",
+        "Name": "Sweet & creamy medium roast coffee, nutty hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.9,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Medium roast caramel truffle arabic coffee k-cup packs, caramel truffle",
+        "Name": "Medium roast caramel truffle arabic coffee k-cup packs",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Citrus vanilla cream coffee soda, citrus vanilla cream",
+        "Name": "Citrus vanilla cream coffee soda",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Medium roast cordyceps schisandra mushroom herbal 'coffee', cordyceps schisandra",
+        "Name": "Medium roast cordyceps schis&ra mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Vanilla fig 100% arabica cold brew ground coffee & flavor sachet, vanilla fig",
+        "Name": "Vanilla fig 100% arabica cold brew ground coffee & flavor sachet",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Medium roast holiday spice cold brew 100% arabica ground coffee packs & flavor sachet, holiday spice",
+        "Name": "Medium roast holiday spice cold brew 100% arabica ground coffee packs & flavor sachet",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Original organic coffee + plus with added probiotics, original",
+        "Name": "Original organic coffee & plus with added probiotics",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 30.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Mild donut shop 100% arabica ground coffee, donut shop",
+        "Name": "Mild donut shop 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored cold brew coffee concentrate, french vanilla",
+        "Name": "French vanilla flavored cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Chocolate s'mores flavored 100% arabica ground coffee, chocolate s'mores",
+        "Name": "Chocolate smores flavored 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Espresso dark roast ground coffee, espresso",
+        "Name": "Espresso dark roast ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "House decaf early riser medium roast ground coffee, house decaf",
+        "Name": "House decaf early riser medium roast ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Mocha cold brew coffee concentrate, mocha",
+        "Name": "Mocha cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice premium iced coffees drink, pumpkin spice",
+        "Name": "Pumpkin spice premium iced coffees drink",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.9,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Caffe americano medium dark roast 100% arabica coffee k-cup pods, caffe americano",
+        "Name": "Caffe americano medium dark roast 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Black and tan medium roast 100% arabica coffee k-cup pods, black and tan",
+        "Name": "Black & tan medium roast 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Maya seed coffee alternative with cinnamon, cinnamon",
+        "Name": "Maya seed coffee alternative with cinnamon",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Medium roast ground 100% arabica coffee, medium roast",
+        "Name": "Medium roast ground 100% arabica coffee",
         "Nutrients": {
             "Protein": 0.3,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend ground coffee, house blend",
+        "Name": "Medium roast house blend ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Cappuccino 100% arabica roast & ground coffee, cappuccino",
+        "Name": "Cappuccino 100% arabica roast & ground coffee",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 23.5,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Original cold brew coffee concentrate, original",
+        "Name": "Original cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "The finest brand, jamaica mountain peak, instant coffee",
+        "Name": "The finest br&, jamaica mountain peak, instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Legal, roasted & ground coffee blend with caramelized sugar and cinnamon, cinnamon",
+        "Name": "Legal, roasted & ground coffee blend with caramelized sugar & cinnamon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "The blend 117 instant coffee powder",
+        "Name": "The blend instant coffee powder",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Delish, 100% ground arabica hazelnut coffee, hazelnut",
+        "Name": "Delish, 100% ground arabica hazelnut coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Instant coffee and roasted chicory",
+        "Name": "Instant coffee & roasted chicory",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Roundy's, dark chocolate coffee beans",
+        "Name": "Roundys, dark chocolate coffee beans",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 30.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "3inone strong & rich coffee",
+        "Name": "Strong & rich coffee",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 10.0,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Jed's coffee co, strong ground coffee beans bag",
+        "Name": "Jeds coffee co, strong ground coffee beans",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Isabela, 1005 instant coffee",
+        "Name": "Isabela, instant coffee",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Madrina's, 2x dark roasted coffee + milk",
+        "Name": "Madrinas, dark roasted coffee & milk",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.2,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Teeccino, herbal coffee dandelion dark roasted",
+        "Name": "Teeccino, herbal coffee d&elion dark roasted",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Teeccino, herbal coffee, dandelion caramel nut",
+        "Name": "Teeccino, herbal coffee, d&elion caramel nut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Nescafe, taster's choice, instant coffee beverage, vanilla",
+        "Name": "Nescafe, tasters choice, instant coffee beverage, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Nescafe, taster's choice, instant coffee beverage, hazelnut",
+        "Name": "Nescafe, tasters choice, instant coffee beverage, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Maisie jane's, almonds butter coffee subsitude, cruncy",
+        "Name": "Maisie janes, almonds butter coffee subsitude, cruncy",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 50.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Coffee smoothie, coffee",
+        "Name": "Coffee smoothie",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "3 in 1 instant coffee mix",
+        "Name": "In instant coffee mix",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 10.0,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Mocha gold mild coffee mix, mocha gold mild",
+        "Name": "Mocha gold mild coffee mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 15.8,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Caramel cappuccino drink mix, caramel",
+        "Name": "Caramel cappuccino drink mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 26.7,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "French vanilla coffee concentrate cold brew, french vanilla",
+        "Name": "French vanilla coffee concentrate cold brew",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Medium roast chicory herbal 'coffee', hazelnut",
+        "Name": "Medium roast chicory herbal coffee, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Chocolate whole milk, chocolate",
+        "Name": "Chocolate whole milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Medium roast sweet & creamy nutty hazelnut coffee k-cup pods, sweet & creamy nutty hazelnut",
+        "Name": "Medium roast sweet & creamy nutty hazelnut coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.9,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "Organic chicory herbal 'coffee', french roast, dark roast",
+        "Name": "Organic chicory herbal coffee, french roast, dark roast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Chicory herbal 'coffee', medium roast",
+        "Name": "Chicory herbal coffee, medium roast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Nescafe, taster's choice, instant coffee beverage, vanilla, vanilla",
+        "Name": "Nescafe, tasters choice, instant coffee beverage, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Nescafe, taster's choice, instant coffee beverage, hazelnut, hazelnut",
+        "Name": "Nescafe, tasters choice, instant coffee beverage, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Cinnamon instant coffee beverage, cinnamon",
+        "Name": "Cinnamon instant coffee beverage",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Dark roast instant coffee mix, dark roast",
+        "Name": "Dark roast instant coffee mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Nescafe, coffee mate, coffee and sweetened creamer",
+        "Name": "Nescafe, coffee mate, coffee & sweetened creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Hazelnut cappuccino mix single serve cups, hazelnut",
+        "Name": "Hazelnut cappuccino mix single serve cups",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 30.0,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "French vanilla cappuccino drink mix, french vanilla",
+        "Name": "French vanilla cappuccino drink mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 30.0,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Medium roast original blend ketogenic coffee, original blend",
+        "Name": "Medium roast original blend ketogenic coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 60.0,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Organic caramel cold brew concentrated arabica coffee, caramel",
+        "Name": "Organic caramel cold brew concentrated arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Organic vanilla cold brew concentrated arabica coffee, vanilla",
+        "Name": "Organic vanilla cold brew concentrated arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "Vietnamese coffee cream sweetened condensed milk, vietnamese coffee",
+        "Name": "Vietnamese coffee cream sweetened condensed milk",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 6.7,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Dark roast coffee + stress relief 200mg l-theanine drip cup, dark roast",
+        "Name": "Dark roast coffee & stress relief l-theanine drip cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Dark roast + weight wellness 400mg green coffee bean extract drip cup, dark roast",
+        "Name": "Dark roast & weight wellness green coffee bean extract drip cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Espresso forte coffee, espresso forte",
+        "Name": "Espresso forte coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Lungo vivo espresso coffee, lungo vivo",
+        "Name": "Lungo vivo espresso coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Espresso classico coffee, espresso classico",
+        "Name": "Espresso classico coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Chicory herbal 'coffee', vanilla nut; medium roast",
+        "Name": "Chicory herbal coffee, vanilla nut medium roast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "Drip cup dark roast coffee, dark roast",
+        "Name": "Drip cup dark roast coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Instafuel premium instant coffee + superfood creamer single-serve packets",
+        "Name": "Instafuel premium instant coffee & superfood creamer single-serve packets",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 37.5,
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "Name": "Vanilla fig cold brew coffee, vanilla fig",
+        "Name": "Vanilla fig cold brew coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Organic mocha cold brew concentrated arabica coffee, mocha",
+        "Name": "Organic mocha cold brew concentrated arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Organic black cold brew concentrated arabica coffee, black",
+        "Name": "Organic black cold brew concentrated arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Original organic coffee + plus with added probiotics",
+        "Name": "Original organic coffee & plus with added probiotics",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 30.0,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Delish, 100% ground arabica hazelnut coffee, hazelnut, hazelnut",
+        "Name": "Delish, 100% ground arabica hazelnut coffee, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Dark chocolate cold brew coffee, dark chocolate",
+        "Name": "Dark chocolate cold brew coffee",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 1.2,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "1+2 instant coffee with creamer & sugar",
+        "Name": "Instant coffee with creamer & sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 17.6,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast hazelnut instant coffee beverage packets, hazelnut",
+        "Name": "Medium/dark roast hazelnut instant coffee beverage packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Caramel cappuccino coffee & protein beverage with real milk, caramel cappuccino",
+        "Name": "Caramel cappuccino coffee & protein beverage with real milk",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 0.2,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "French vanilla cappuccino drink mix single serve cups, french vanilla",
+        "Name": "French vanilla cappuccino drink mix single serve cups",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 30.0,
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "Name": "Coffee caffeine free almond butter, coffee",
+        "Name": "Coffee caffeine free almond butter",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 57.1,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Medium roast dandelion caramel nut 85% organic chicory herbal coffee, dandelion caramel nut",
+        "Name": "Medium roast d&elion caramel nut 85% organic chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Medium roast genius blend infused 100% arabica ground coffee, genius blend",
+        "Name": "Medium roast genius blend infused 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 5.0,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Hazelnut enhanced organic coffee brew cups, hazelnut",
+        "Name": "Hazelnut enhanced organic coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored enhanced organic coffee brew cups, vanilla",
+        "Name": "Vanilla flavored enhanced organic coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Mocha enhanced organic coffee brew cups, mocha",
+        "Name": "Mocha enhanced organic coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "French vanilla frothy coffee beverage, french vanilla",
+        "Name": "French vanilla frothy coffee beverage",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.0,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Triple jack nitro cold brew coffee, triple jack",
+        "Name": "Triple jack nitro cold brew coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Cappuccino drink mix classic cappuccino, cappuccino",
+        "Name": "Cappuccino drink mix classic cappuccino",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 14.8,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Coffee almond butter, coffee",
+        "Name": "Coffee almond butter",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 57.1,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "Cinnamon instant coffee beverages, cinnamon",
+        "Name": "Cinnamon instant coffee beverages",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "Name": "Medium roast genius ground coffee, genius",
+        "Name": "Medium roast genius ground coffee",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 5.0,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Cappuccino 100% arabica capsules of roast & ground coffee and whole milk powder with sugar, cappuccino",
+        "Name": "Cappuccino 100% arabica capsules of roast & ground coffee & whole milk powder with sugar",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 23.5,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Capsules of whole milk powder and instant coffee.",
+        "Name": "Capsules of whole milk powder & instant coffee.",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 21.4,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Dark roast lightning ground coffee, lightning",
+        "Name": "Dark roast lightning ground coffee",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "Medium roast slim ground coffee pods, slim",
+        "Name": "Medium roast slim ground coffee pods",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Medium roast beauty coffee pods, beauty",
+        "Name": "Medium roast beauty coffee pods",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Medium roast beauty ground coffee, beauty",
+        "Name": "Medium roast beauty ground coffee",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Dark roast lightning coffee pods, lightning",
+        "Name": "Dark roast lightning coffee pods",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Medium roast slim blend instant coffee sticks, slim blend",
+        "Name": "Medium roast slim blend instant coffee sticks",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Medium roast genius blend instant coffee sticks, genius blend",
+        "Name": "Medium roast genius blend instant coffee sticks",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 30.3,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Medium roast genius coffee pods, genius",
+        "Name": "Medium roast genius coffee pods",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Medium roast slim ground coffee, slim",
+        "Name": "Medium roast slim ground coffee",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "Yerba mate mint latte with matcha and probiotics, yerba mate mint",
+        "Name": "Yerba mate mint latte with matcha & probiotics",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 38.5,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Medium roast 100% colombian peaks arabica coffee, 100% colombian peaks",
+        "Name": "Medium roast 100% colombian peaks arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast vanilla flavor instant coffee beverage single serve packets, vanilla",
+        "Name": "Medium/dark roast vanilla flavor instant coffee beverage single serve packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast hazelnut flavor instant coffee beverage single serve packets, hazelnut",
+        "Name": "Medium/dark roast hazelnut flavor instant coffee beverage single serve packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Classic cappuccino cafe style drink mix, classic",
+        "Name": "Classic cappuccino cafe style drink mix",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 14.8,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Medium roast lion's mane rhodiola rose mushroom herbal 'coffee', lion's mane rhodiola rose",
+        "Name": "Medium roast lions mane rhodiola rose mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Mushroom dark roast ground coffee with lion's mane, mushroom",
+        "Name": "Mushroom dark roast ground coffee with lions mane",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Medium roast roasted coffee with probiotics 100% arabica drip coffee, roasted coffee with probiotics",
+        "Name": "Medium roast roasted coffee with probiotics 100% arabica drip coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Dark roasted coffee with probiotics 100% arabica coffee, dark roast",
+        "Name": "Dark roasted coffee with probiotics 100% arabica coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut arabica coffee k-cup pods, hazelnut",
+        "Name": "Medium roast hazelnut arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Medium roast 100% colombian peaks arabica ground coffee, medium roast",
+        "Name": "Medium roast 100% colombian peaks arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Salted caramel 100% colombian ketogenic coffee, salted caramel",
+        "Name": "Salted caramel 100% colombian ketogenic coffee",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "French vanilla electrolyte enhanced formula 100% colombian ketogenic coffee, french vanilla",
+        "Name": "French vanilla electrolyte enhanced formula 100% colombian ketogenic coffee",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Medium roast cordyceps schisandra cinnamon berry mushroom herbal 'coffee', cordyceps schisandra cinnamon berry",
+        "Name": "Medium roast cordyceps schis&ra cinnamon berry mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "Cafe de olla cinnamon instant coffee beverage, cafe de olla",
+        "Name": "Cafe de olla cinnamon instant coffee beverage",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Cafe au lait capsules of whole milk powder and instant coffee, cafe au lait",
+        "Name": "Cafe au lait capsules of whole milk powder & instant coffee",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 21.4,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Toasted coconut organic cold brew coffee concentrate, toasted coconut",
+        "Name": "Toasted coconut organic cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Salted caramel 100% colombian coffee, salted caramel",
+        "Name": "Salted caramel 100% colombian coffee",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "French vanilla 100% colombian coffee, french vanilla",
+        "Name": "French vanilla 100% colombian coffee",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Medium roast all american classic s'mores flavored 100% arabica ground coffee, all american classic s'mores",
+        "Name": "Medium roast all american classic smores flavored 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Cafe escapes, coffee, cafe caramel, cafe caramel",
+        "Name": "Cafe escapes, coffee, cafe caramel",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 16.7,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Legal, roasted & ground coffee blend with caramelized sugar and cinnamon, cinnamon, cinnamon",
+        "Name": "Legal, roasted & ground coffee blend with caramelized sugar & cinnamon, cinnamon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Delish, ground arabica coffee, vanilla iced coffee, vanilla iced coffee",
+        "Name": "Delish, ground arabica coffee, vanilla iced coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "The original donut shop, sweet & creamy medium roast coffee, maple cream, maple cream",
+        "Name": "The original donut shop, sweet & creamy medium roast coffee, maple cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.4,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "Isabela, instant coffee, french vanilla, french vanilla",
+        "Name": "Isabela, instant coffee, french vanilla",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Starbucks via, latte speciality coffee beverage, caramel, caramel",
+        "Name": "Starbucks via, latte speciality coffee beverage, caramel",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 10.9,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Isabela, 100% instant coffee, hazelnut, hazelnut",
+        "Name": "Isabela, 100% instant coffee, hazelnut",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Cool brew, fresh cold-brewed concentrate coffee, decaf, decaf",
+        "Name": "Cool brew, fresh cold-brewed concentrate coffee, decaf",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Superfood coffee, mesquite aronia berry colombian instant coffee, smoking berry, smoking berry",
+        "Name": "Superfood coffee, mesquite aronia berry colombian instant coffee, smoking berry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Chocolate s'mores 100% arabica ground coffee, chocolate s'mores",
+        "Name": "Chocolate smores 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Cappuccino mix single serve brew cups, cappuccino",
+        "Name": "Cappuccino mix single serve brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Cappuccino mix, cappuccino",
+        "Name": "Cappuccino mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Chamomile 100% natural herbal tea bags, chamomile",
+        "Name": "Chamomile 100% natural herbal tea bags",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Medium roast beauty ground coffee, medium roast",
+        "Name": "Medium roast beauty ground coffee",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Medium roast genius ground coffee, medium roast",
+        "Name": "Medium roast genius ground coffee",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 5.0,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Dark roast lightning ground coffee infused with superfoods, dark roast",
+        "Name": "Dark roast lightning ground coffee infused with superfoods",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Caffe mocha with dutch and natural cocoa latte specialty coffee beverage packets, caffe mocha",
+        "Name": "Caffe mocha with dutch & natural cocoa latte specialty coffee beverage packets",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 12.2,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Refreshers, cool lime flavored instant beverage with green coffee extract packets, cool lime",
+        "Name": "Refreshers, cool lime flavored instant beverage with green coffee extract packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Sweetened 100% arabica soluble iced coffee with sugar k-cup, sweetened",
+        "Name": "Sweetened 100% arabica soluble iced coffee with sugar k-cup",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Vanilla sweetened flavored 100% arabica soluble iced coffee with sugar k-cup, vanilla sweetened",
+        "Name": "Vanilla sweetened flavored 100% arabica soluble iced coffee with sugar k-cup",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Refreshers, very berry hibiscus flavored instant beverage with green coffee extract packets, very berry hibiscus",
+        "Name": "Refreshers, very berry hibiscus flavored instant beverage with green coffee extract packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Nescafe, instant coffee beverage, cinnamon, cinnamon",
+        "Name": "Nescafe, instant coffee beverage, cinnamon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Medium roast vanilla fig flavored cold brew 100% arabica ground coffee pitcher packs & flavor sachet, vanilla fig",
+        "Name": "Medium roast vanilla fig flavored cold brew 100% arabica ground coffee pitcher packs & flavor sachet",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Medium roast holiday spice flavored cold brew 100% arabica ground coffee packs & flavor sachet, holiday spice",
+        "Name": "Medium roast holiday spice flavored cold brew 100% arabica ground coffee packs & flavor sachet",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Medium roast the original 100% arabica coffee k-cup pods, the original",
+        "Name": "Medium roast the original 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend 100% arabica ground coffee with b vitamins, house blend",
+        "Name": "Medium roast house blend 100% arabica ground coffee with b vitamins",
         "Nutrients": {
             "Protein": 0.3,
             "Fat": 0.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Dark italian roast 100% arabica coffee k-cup pods, dark italian roast",
+        "Name": "Dark italian roast 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend ground coffee with spiceas 100% arabica ground coffee coffee with golden turmeric, house blend",
+        "Name": "Medium roast house blend ground coffee with spiceas 100% arabica ground coffee coffee with golden turmeric",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Vanilla enhanced coffee brew cups, vanilla",
+        "Name": "Vanilla enhanced coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend 100% arabica ground coffee with essential b vitamins, house blend",
+        "Name": "Medium roast house blend 100% arabica ground coffee with essential b vitamins",
         "Nutrients": {
             "Protein": 0.3,
             "Fat": 0.0,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut 100% arabica coffee k-cup pods, hazelnut",
+        "Name": "Medium roast hazelnut 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2592,7 +2592,7 @@
         }
     },
     {
-        "Name": "100% colombian peaks medium roast coffee k-cup pods, colombian peaks",
+        "Name": "100% colombian peaks medium roast coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Mocha latte beverage mix, mocha latte",
+        "Name": "Mocha latte beverage mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 21.4,
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "Name": "Vietnamese sweetened instant black coffee beverage, vietnamese sweetened",
+        "Name": "Vietnamese sweetened instant black coffee beverage",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 0.0,
@@ -2619,7 +2619,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast vanilla instant coffee beverage packets, vanilla",
+        "Name": "Medium/dark roast vanilla instant coffee beverage packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast hazelnut instant coffee beverage single serve packets, hazelnut",
+        "Name": "Medium/dark roast hazelnut instant coffee beverage single serve packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "Cafe con leche instant coffee with milk, cafe con leche",
+        "Name": "Cafe con leche instant coffee with milk",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 16.0,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Sweet & creamy original instant coffee mix, sweet & creamy original",
+        "Name": "Sweet & creamy original instant coffee mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Vanilla instant coffee beverage single serve packets, vanilla",
+        "Name": "Vanilla instant coffee beverage single serve packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "Fuwa latte milk cocoa instant coffee, fuwa latte milk cocoa",
+        "Name": "Fuwa latte milk cocoa instant coffee",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Fuwa latte green tea instant coffee, fuwa latte green tea",
+        "Name": "Fuwa latte green tea instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "New orleans-style iced coffee concentrate, new orleans-style",
+        "Name": "New orleans-style iced coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Cafe de olla instant coffee, cafe de olla",
+        "Name": "Cafe de olla instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Decaf 100% pure soluble coffee, decaf",
+        "Name": "Decaf 100% pure soluble coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend 100% arabica ground coffee with spices, house blend",
+        "Name": "Medium roast house blend 100% arabica ground coffee with spices",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Medium roast beauty organic ground coffee, medium roast",
+        "Name": "Medium roast beauty organic ground coffee",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Medium roast made with organic power ground coffee, medium roast",
+        "Name": "Medium roast made with organic power ground coffee",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Medium roast genius coffee, medium roast",
+        "Name": "Medium roast genius coffee",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 5.0,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Jamaican instant coffee, jamaican",
+        "Name": "Jamaican instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Coconut pour over vietnamese coffee, coconut",
+        "Name": "Coconut pour over vietnamese coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 14.3,
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "Name": "Vienna cafe-style beverage mix, vienna cafe",
+        "Name": "Vienna cafe-style beverage mix",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 12.1,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Orange cafe cafe-style beverage mix, orange cafe",
+        "Name": "Orange cafe cafe-style beverage mix",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 12.1,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Gevalia kaffe, espresso coffee, pumpkin spice latte, pumpkin spice latte",
+        "Name": "Gevalia kaffe, espresso coffee, pumpkin spice latte",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.6,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "Peppermint mocha latte cafe-style beverage mix, peppermint mocha latte",
+        "Name": "Peppermint mocha latte cafe-style beverage mix",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "Name": "Gevalia kaffe, espresso coffee & froth, peppermint mocha latte, peppermint mocha latte",
+        "Name": "Gevalia kaffe, espresso coffee & froth, peppermint mocha latte",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 6.9,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Suisse mocha cafe cafe-style beverage mix, suisse mocha cafe",
+        "Name": "Suisse mocha cafe cafe-style beverage mix",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 14.6,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "House blend iced coffee concentrate drink mix, house blend",
+        "Name": "House blend iced coffee concentrate drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Mocha + s'mores coffee drink mix, mocha + s'mores",
+        "Name": "Mocha & smores coffee drink mix",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.0,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Mocha + salted caramel coffee drink mix, mocha + salted caramel",
+        "Name": "Mocha & salted caramel coffee drink mix",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.0,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Mocha coffee drink mix, mocha",
+        "Name": "Mocha coffee drink mix",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.0,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Cafe con leche instant coffee beverage mix, cafe con leche",
+        "Name": "Cafe con leche instant coffee beverage mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 20.6,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "S'mores flavored coffee drink k-cup pods, s'mores",
+        "Name": "Smores flavored coffee drink k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.5,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Sweet & creamy cafe on dulce de leche flavored coffee beverage mix k-cup pods, sweet & creamy cafe on dulce de leche",
+        "Name": "Sweet & creamy cafe on dulce de leche flavored coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 23.1,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "The original roast antioxidants ground coffee, the original roast",
+        "Name": "The original roast antioxidants ground coffee",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "French vanilla latte 100% arabica specialty coffee beverage & sweetened milk frother k-cup pods, french vanilla latte",
+        "Name": "French vanilla latte 100% arabica specialty coffee beverage & sweetened milk frother k-cup pods",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 9.6,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Sweet & creamy cafe con chocolate flavored coffee beverage mix k-cup pods, sweet & creamy cafe con chocolate",
+        "Name": "Sweet & creamy cafe con chocolate flavored coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 23.1,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "Sweet & creamy cafe con leche flavored coffee beverage mix k-cup pods, sweet & creamy cafe con leche",
+        "Name": "Sweet & creamy cafe con leche flavored coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 26.9,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "The original roast antioxidants arabica ground coffee k-cup pods, the original roast",
+        "Name": "The original roast antioxidants arabica ground coffee k-cup pods",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Caramel macchiato 100% arabica specialty coffee beverage & sweetened milk frother k-cup pods, caramel macchiato",
+        "Name": "Caramel macchiato 100% arabica specialty coffee beverage & sweetened milk frother k-cup pods",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 9.3,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Mocha flavored cold brew iced 100% arabica coffee concentrate, mocha",
+        "Name": "Mocha flavored cold brew iced 100% arabica coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Salted caramel mocha flavored coffee drink k-cup pods, salted caramel mocha",
+        "Name": "Salted caramel mocha flavored coffee drink k-cup pods",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 16.9,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Mocha flavored coffee drink k-cup pods, mocha",
+        "Name": "Mocha flavored coffee drink k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.9,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Caramel flavored espresso drink with milk, caramel",
+        "Name": "Caramel flavored espresso drink with milk",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Cafe con chocolate flavored espresso drink with milk, cafe con chocolate",
+        "Name": "Cafe con chocolate flavored espresso drink with milk",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.1,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Espresso instant powder, espresso",
+        "Name": "Espresso instant powder",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored cappuccino single serve cups drink mix, french vanilla",
+        "Name": "French vanilla flavored cappuccino single serve cups drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 30.0,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Black flavored enhanced coffee beverage, black",
+        "Name": "Black flavored enhanced coffee beverage",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Hazelnut flavored enhanced coffee cups, hazelnut",
+        "Name": "Hazelnut flavored enhanced coffee cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored enhanced coffee, vanilla",
+        "Name": "Vanilla flavored enhanced coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Mocha flavored enhanced coffee brew cups, mocha",
+        "Name": "Mocha flavored enhanced coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored enhanced ground coffee, vanilla",
+        "Name": "Vanilla flavored enhanced ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Hazelnut flavored enhanced ground coffee, hazelnut",
+        "Name": "Hazelnut flavored enhanced ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Vanilla cold brew coffee, vanilla",
+        "Name": "Vanilla cold brew coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Maple pumpkin flavored enhanced coffee recyclable brew cups, maple pumpkin",
+        "Name": "Maple pumpkin flavored enhanced coffee recyclable brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "White chocolate peppermint flavored enhanced coffee recyclable brew cups, white chocolate peppermint",
+        "Name": "White chocolate peppermint flavored enhanced coffee recyclable brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Original jamaica mountain peak instant coffee, original",
+        "Name": "Original jamaica mountain peak instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3132,7 +3132,7 @@
         }
     },
     {
-        "Name": "Cafe !arriba! espresso ground coffee, cafe !arriba!",
+        "Name": "Cafe !arriba! espresso ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Lavender pour over set vietnamese coffee, lavender",
+        "Name": "Lavender pour over set vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 6.7,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "Vanilla bean creme brulee, vanilla bean",
+        "Name": "Vanilla bean creme brulee",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 23.9,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Superfood coffee co., instant & superfood infused coffee, smoky, smoky",
+        "Name": "Superfood coffee co., instant & superfood infused coffee, smoky",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Medium roast mocha latte flavored arabica coffee k-cup packs, mocha latte",
+        "Name": "Medium roast mocha latte flavored arabica coffee k-cup packs",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 0.0,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Medium roast caramel truffle flavored arabica coffee k-cup packs, caramel truffle",
+        "Name": "Medium roast caramel truffle flavored arabica coffee k-cup packs",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 0.0,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "High protein vanilla iced coffee, vanilla",
+        "Name": "High protein vanilla iced coffee",
         "Nutrients": {
             "Protein": 60.6,
             "Fat": 9.1,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Kopi tubruk caramel latte, caramel latte",
+        "Name": "Kopi tubruk caramel latte",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Medium roast pumpkin spice flavored arabica coffee k-cup packs, pumpkin spice",
+        "Name": "Medium roast pumpkin spice flavored arabica coffee k-cup packs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Black organic cold brew concentrated arabica coffee, black",
+        "Name": "Black organic cold brew concentrated arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend 100% arabica ground coffee with spices k-cup pods, house blend",
+        "Name": "Medium roast house blend 100% arabica ground coffee with spices k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored enhanced super coffee, vanilla",
+        "Name": "Vanilla flavored enhanced super coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Cafe espresso ground coffee, cafe espresso",
+        "Name": "Cafe espresso ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "Dark roast enhanced coffee, dark roast",
+        "Name": "Dark roast enhanced coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Medium roast turkey tail astragalus mushroom herbal coffee, turkey tail astragalus",
+        "Name": "Medium roast turkey tail astragalus mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "Medium roast chaga ashwagandha organic mushroom herbal 'coffee', chaga ashwagandha",
+        "Name": "Medium roast chaga ashwag&ha organic mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Churros y chocolate flavored ground coffee, churros y chocolate",
+        "Name": "Churros y chocolate flavored ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Chocolate flavored ground coffee, chocolate",
+        "Name": "Chocolate flavored ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Wild blueberry cold brew coffee, wild blueberry",
+        "Name": "Wild blueberry cold brew coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Classic cappuccino flavor 1 step beverage mix k-cup pods, classic cappuccino",
+        "Name": "Classic cappuccino flavor step beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "Medium roast energizing maca, guarana, cordyceps, schisandra organic coffee with superfoods single serve cups, medium roast",
+        "Name": "Medium roast energizing maca, guarana, cordyceps, schis&ra organic coffee with superfoods single serve cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "Medium roast cacao, cinnamon, turmeric, ginger cardio care coffee with superfoods single serve cups, cacao, cinnamon, turmeric, ginger",
+        "Name": "Medium roast cacao, cinnamon, turmeric, ginger cardio care coffee with superfoods single serve cups, cacao, cinnamon, turmeric",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Ashwagandha, gingko, lion's mane focus organic medium roast coffee with superfoods single serve cups, ashwagandha, gingko, lion's mane",
+        "Name": "Ashwag&ha, gingko, lions mane focus organic medium roast coffee with superfoods single serve cups, ashwag&ha, gingko",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Medium roast house blend 100% arabica ground coffee with b vitamins k-cup pods, house blend",
+        "Name": "Medium roast house blend 100% arabica ground coffee with b vitamins k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3384,7 +3384,7 @@
         }
     },
     {
-        "Name": "Dark roast reishi eleuthero french roast organic mushroom herbal 'coffee', reishi eleuthero french roast",
+        "Name": "Dark roast reishi eleuthero french roast organic mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Medium roast balance adaptogen with ashwagandha ground coffee, balance",
+        "Name": "Medium roast balance adaptogen with ashwag&ha ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "Dark roast enhanced coffee brew cups, dark roast",
+        "Name": "Dark roast enhanced coffee brew cups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Light roast hawaiian islands blend whole bean coffee, hawaiian islands blend",
+        "Name": "Light roast hawaiian isl&s blend whole bean coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Medium roast the original decaf decaffeinated arabica coffee k-cup pods, the original decaf",
+        "Name": "Medium roast the original decaf decaffeinated arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3501,7 +3501,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade, fruit brew, strawberry",
+        "Name": "Strawberry lemonade, fruit brew",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "Vanilla cappuccino, vanilla",
+        "Name": "Vanilla cappuccino",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 16.7,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "Russell stover, big bite house blend coffee, smooth chocolate coffee, smooth chocolate coffee",
+        "Name": "Russell stover, big bite house blend coffee, smooth chocolate coffee",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 31.6,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Original black cold brew coffee, original black",
+        "Name": "Original black cold brew coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Double mocha flavored cappuccino cafe style drink mix, double mocha",
+        "Name": "Double mocha flavored cappuccino cafe style drink mix",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 11.1,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored cappuccino cafe style drink mix, french vanilla",
+        "Name": "French vanilla flavored cappuccino cafe style drink mix",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 11.1,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "English toffee flavored cappuccino cafe style drink mix, english toffee",
+        "Name": "English toffee flavored cappuccino cafe style drink mix",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 11.1,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "White chocolate caramel flavored cappuccino cafe style drink mix, white chocolate caramel",
+        "Name": "White chocolate caramel flavored cappuccino cafe style drink mix",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 14.8,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Mocha flavored organic cold brew coffee concentrate, mocha",
+        "Name": "Mocha flavored organic cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "French vanilla cappuccino flavored mix, french vanilla cappuccino",
+        "Name": "French vanilla cappuccino flavored mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Mocha flavored ultra-filtered milk, mocha",
+        "Name": "Mocha flavored ultra-filtered milk",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 0.1,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Medium roast sweet & salty caramel cappuccino flavored mix 100% arabica coffee, sweet & salty caramel cappuccino",
+        "Name": "Medium roast sweet & salty caramel cappuccino flavored mix 100% arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Medium dark roast gold label energy & focus keto genius organic coffee pods organic coffee, medium dark",
+        "Name": "Medium dark roast gold label energy & focus keto genius organic coffee pods organic coffee",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Medium dark slim organic coffee pods, slim",
+        "Name": "Medium dark slim organic coffee pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Medium roast cinnamon dulce cappuccino flavor the original donut-shop genuine k-cup pods, cinnamon dulce cappuccino",
+        "Name": "Medium roast cinnamon dulce cappuccino flavor the original donut-shop genuine k-cup pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Mocha flavored enhanced ground coffee, mocha",
+        "Name": "Mocha flavored enhanced ground coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Dark roast classic cappuccino flavor beverage mix coffee k-cup pods, classic cappuccino",
+        "Name": "Dark roast classic cappuccino flavor beverage mix coffee k-cup pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Caramel flavored arabica & robusta coffee beans iced frappe chilled coffee beverage, caramel",
+        "Name": "Caramel flavored arabica & robusta coffee beans iced frappe chilled coffee beverage",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.9,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Medium roast cardio care coffee with superfoods cacao, cinnamon, turmeric, ginger single serve cups, guatemalan, guatemalan",
+        "Name": "Medium roast cardio care coffee with superfoods cacao, cinnamon, turmeric, ginger single serve cups, guatemalan",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Medium roast focus coffee with superfoods ashwagandha, gingko, lion's mane single serve cups, cinnamon and nutmeg, cinnamon and nutmeg",
+        "Name": "Medium roast focus coffee with superfoods ashwag&ha, gingko, lions mane single serve cups, cinnamon & nutmeg",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Medium roast defend mushroom ground coffee with probiotics, defend",
+        "Name": "Medium roast defend mushroom ground coffee with probiotics",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Cinnamon dulce cappuccino flavor coffee beverage mix k-cup pods, cinnamon dulce cappuccino",
+        "Name": "Cinnamon dulce cappuccino flavor coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Balance adaptogen coffee mix with ashwagandha, balance",
+        "Name": "Balance adaptogen coffee mix with ashwag&ha",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Medium roast mexico organic whole bean coffee, mexico",
+        "Name": "Medium roast mexico organic whole bean coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Medium roast the original 100% arabica whole bean coffee, the original",
+        "Name": "Medium roast the original 100% arabica whole bean coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Medium roast 100% colombian peaks 100% arabica ground coffee, 100% colombian peaks",
+        "Name": "Medium roast 100% colombian peaks 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3789,7 +3789,7 @@
         }
     },
     {
-        "Name": "The original medium roast 100% arabica coffee k-cup pods, original",
+        "Name": "The original medium roast 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Medium roast pumpkin spice 100% arabica coffee k-cup pods, pumpkin spice",
+        "Name": "Medium roast pumpkin spice 100% arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Medium roast immunity coffee with superfoods ginger root, maitake, lemon peel single serve cups, robust with a hint of citrus, robust with a hint of citrus",
+        "Name": "Medium roast immunity coffee with superfoods ginger root, maitake, lemon peel single serve cups, robust with a hint of citrus",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Peppermint mocha latte flavored drink mix single serve cups, peppermint mocha latte",
+        "Name": "Peppermint mocha latte flavored drink mix single serve cups",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Mocha mint iced high protein coffee, mocha mint iced",
+        "Name": "Mocha mint iced high protein coffee",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 8.3,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Cinnamon high protein iced coffee, cinnamon",
+        "Name": "Cinnamon high protein iced coffee",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 8.3,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Medium roast maple bourbon flavored vermont arabica coffee k-cup pods, maple bourbon",
+        "Name": "Medium roast maple bourbon flavored vermont arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Light roast hawaiian islands blend 10% kauai ground coffee blend, hawaiian islands blend",
+        "Name": "Light roast hawaiian isl&s blend 10% kauai ground coffee blend",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Oat milk latte organic cold brew coffee, oat milk latte",
+        "Name": "Oat milk latte organic cold brew coffee",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 1.7,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Medium roast peruvian focus functional 100% arabica ground coffee, peruvian",
+        "Name": "Medium roast peruvian focus functional 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "Medium roast blueberry crisp coffee k-cup pods, blueberry crisp",
+        "Name": "Medium roast blueberry crisp coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Dark roast enhanced ground coffee, dark roast",
+        "Name": "Dark roast enhanced ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored instant coffee drink mix, vanilla",
+        "Name": "Vanilla flavored instant coffee drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Medium roast peruvian boost functional 100% arabica ground coffee, peruvian",
+        "Name": "Medium roast peruvian boost functional 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Medium roast roasted with probiotics 100% arabica drip coffee, medium",
+        "Name": "Medium roast roasted with probiotics 100% arabica drip coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Dark roast roasted with probiotics 100% arabica drip coffee, dark",
+        "Name": "Dark roast roasted with probiotics 100% arabica drip coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Medium roast 100% colombian peaks arabica coffee k-cup pods, 100% colombian peaks",
+        "Name": "Medium roast 100% colombian peaks arabica coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut flavored whole bean arabica coffee, hazelnut",
+        "Name": "Medium roast hazelnut flavored whole bean arabica coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "S'mores single serve coffee pods, s'mores",
+        "Name": "Smores single serve coffee pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Peppermint mocha latte drink mix single serve cups, peppermint mocha latte",
+        "Name": "Peppermint mocha latte drink mix single serve cups",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut arabica ground coffee, hazelnut",
+        "Name": "Medium roast hazelnut arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Cinnamon and brown sugar instant coffee, cinnamon and brown sugar",
+        "Name": "Cinnamon & brown sugar instant coffee",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Medium roast original all-in-one recipe 100% arabica keto coffee k-cup pods, original all-in-one recipe",
+        "Name": "Medium roast original all-in-one recipe 100% arabica keto coffee k-cup pods",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 62.1,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Medium-dark roast enhanced 100% arabica coffee pods, enhanced",
+        "Name": "Medium-dark roast enhanced 100% arabica coffee pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut arabica whole bean coffee, hazelnut",
+        "Name": "Medium roast hazelnut arabica whole bean coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "Dark roast think mushroom 100% arabica ground coffee, think",
+        "Name": "Dark roast think mushroom 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored crystallized coffee, vanilla",
+        "Name": "Vanilla flavored crystallized coffee",
         "Nutrients": {
             "Protein": 31.2,
             "Fat": 21.9,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Espresso instant coffee, espresso",
+        "Name": "Espresso instant coffee",
         "Nutrients": {
             "Protein": 50.0,
             "Fat": 0.0,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Unsweetened black organic coffee, unsweetened black",
+        "Name": "Unsweetened black organic coffee",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Regular, peppermint bark, red velvet latte coffee collection k-cup pods, regular, peppermint bark, red velvet latte",
+        "Name": "Regular, peppermint bark, red velvet latte coffee collection k-cup pods, regular, peppermint bark",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -4086,7 +4086,7 @@
         }
     },
     {
-        "Name": "Peppermint pour over latte premium vietnamese coffee, peppermint",
+        "Name": "Peppermint pour over latte premium vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Bubble coffee, bubble",
+        "Name": "Bubble coffee",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.7,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Instant coffee with caramelized sugar, caramelized sugar",
+        "Name": "Instant coffee with caramelized sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Cafe de olla flavored with real cinnamon and caramelized sugar ground coffee, cafe de olla",
+        "Name": "Cafe de olla flavored with real cinnamon & caramelized sugar ground coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Jamaica mountain peak original instant coffee, jamaica mountain peak",
+        "Name": "Jamaica mountain peak original instant coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Hocus pocus instant mushroom coffee, hocus pocus",
+        "Name": "Hocus pocus instant mushroom coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Cinnamon & brown sugar coffee, cinnamon & brown sugar",
+        "Name": "Cinnamon & brown sugar coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.6,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Medium-dark roast the high achiever 100% arabica ground coffee, the high achiever",
+        "Name": "Medium-dark roast the high achiever 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Medium roast original 100% arabica keto coffee pods, original",
+        "Name": "Medium roast original 100% arabica keto coffee pods",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 62.1,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Medium-dark roast the high achiever 100% arabica coffee pods, the high achiever",
+        "Name": "Medium-dark roast the high achiever 100% arabica coffee pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Dark roast think mushroom with lion's mane ground coffee, think",
+        "Name": "Dark roast think mushroom with lions mane ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Cinnamon dulce cappuccino coffee beverage mix k-cup pods, cinnamon dulce cappuccino",
+        "Name": "Cinnamon dulce cappuccino coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 22.5,
@@ -4203,7 +4203,7 @@
         }
     },
     {
-        "Name": "Cafe mocha coffee k-cup packs, cafe mocha",
+        "Name": "Cafe mocha coffee k-cup packs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Medium roast focus coffee pods, focus",
+        "Name": "Medium roast focus coffee pods",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Lavender pour over latte premium vietnamese coffee, lavender",
+        "Name": "Lavender pour over latte premium vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Vanilla pour over latte premium vietnamese coffee, vanilla",
+        "Name": "Vanilla pour over latte premium vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Classic pour over single serve lattes vietnamese coffee, classic",
+        "Name": "Classic pour over single serve lattes vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Churro pour over latte premium vietnamese coffee, churro",
+        "Name": "Churro pour over latte premium vietnamese coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Wondershop at target hot cocoa & mug set, 1.7 oz",
+        "Name": "Wondershop at target hot cocoa & mug set",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 8.9,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Wondershop at target hot cocoa party pack, 9.4 oz",
+        "Name": "Wondershop at target hot cocoa party pack",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 33.3,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Worndershop 12 days of hot cocoa, 12 oz",
+        "Name": "Worndershop days of hot cocoa",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Medium dark focus 100% arabica premium ground coffee, focus",
+        "Name": "Medium dark focus 100% arabica premium ground coffee",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Indulgent blends chocolate s'mores ground coffee",
+        "Name": "Indulgent blends chocolate smores ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Medium roast all american classic s'mores ground coffee",
+        "Name": "Medium roast all american classic smores ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Black and tan medium roast coffee k-cup pods",
+        "Name": "Black & tan medium roast coffee k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Smore's with marshmallows and chocolate inclusions hot cocoa",
+        "Name": "Smores with marshmallows & chocolate inclusions hot cocoa",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -4509,7 +4509,7 @@
         }
     },
     {
-        "Name": " mexican mocha with chocolate bits inclusions coffee",
+        "Name": "Mexican mocha with chocolate bits inclusions coffee",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Victor allen's coffee single serve brew cups, 42 count, 22.22 oz",
+        "Name": "Victor allens coffee single serve brew cups, count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Aladin roasted and ground coffee",
+        "Name": "Aladin roasted & ground coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Turkish roasted and ground with cardamom coffee",
+        "Name": "Turkish roasted & ground with cardamom coffee",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 10.0,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Medium roast original blend 100% robusta keto coffee, original blend",
+        "Name": "Medium roast original blend 100% robusta keto coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 60.0,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Medium roast caramel macchiato 100% robusta keto coffee, caramel macchiato",
+        "Name": "Medium roast caramel macchiato 100% robusta keto coffee",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 60.0,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "2x cold brew coffee concentrate",
+        "Name": "Cold brew coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Medium roast organic peruvian functional 100% arabica ground coffee, organic peruvian",
+        "Name": "Medium roast organic peruvian functional 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Medium/dark roast ghee butter 100% arabica ground coffee, ghee butter",
+        "Name": "Medium/dark roast ghee butter 100% arabica ground coffee",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 7.1,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Coffee grand instant with roasted chicory coffee",
+        "Name": "Coffee gr& instant with roasted chicory coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Instant with roasted chicory coffee ",
+        "Name": "Instant with roasted chicory coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Mocha coffee drink k-cup pods, mocha",
+        "Name": "Mocha coffee drink k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.9,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Espresso with cream, espresso",
+        "Name": "Espresso with cream",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 2.1,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Mycobrew coffee drink mix, mycobrew coffee",
+        "Name": "Mycobrew coffee drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Medium roast vanilla nut 75% organic chicory herbal 'coffee', vanilla nut",
+        "Name": "Medium roast vanilla nut 75% organic chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Medium roast hazelnut 75% organic chicory herbal coffee, hazelnut",
+        "Name": "Medium roast hazelnut 75% organic chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Medium roast mediterranean blend 75% organic java chicory herbal 'coffee', mediterranean blend",
+        "Name": "Medium roast mediterranean blend 75% organic java chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Dark roast french roast organic mushroom herbal coffee, french roast",
+        "Name": "Dark roast french roast organic mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Dark roast french roast reishi eleuthero organic mushroom herbal coffee, french roast reishi eleuthero",
+        "Name": "Dark roast french roast reishi eleuthero organic mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Medium roast turkey tail astragalus 85% organic mushroom herbal coffee, turkey tail astragalus",
+        "Name": "Medium roast turkey tail astragalus 85% organic mushroom herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Medium roast functional mushroom defend ground coffee, functional mushroom defend",
+        "Name": "Medium roast functional mushroom defend ground coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Medium roast energizing maca, guarana, cordyceps, schisandra organic coffee with superfoods single serve cups, maca, guarana, cordyceps, schisandra",
+        "Name": "Medium roast energizing maca, guarana, cordyceps, schis&ra organic coffee with superfoods single serve cups, maca, guarana, cordyceps",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Vainilla coffee beverage mix k-cup pods, vainilla",
+        "Name": "Vainilla coffee beverage mix k-cup pods",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 23.1,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Medium roast mediterranean blend mocha chicory herbal 'coffee', mediterranean blend",
+        "Name": "Medium roast mediterranean blend mocha chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "Dark roast maca chocolate organic chicory herbal coffee, maca chocolate",
+        "Name": "Dark roast maca chocolate organic chicory herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Dark roast dark chocolate prebiotic herbal coffee, dark chocolate",
+        "Name": "Dark roast dark chocolate prebiotic herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Medium roast macadamia nut organic prebiotic herbal 'coffee', macadamia nut",
+        "Name": "Medium roast macadamia nut organic prebiotic herbal coffee",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "Reduced sugar instant latte, reduced sugar",
+        "Name": "Reduced sugar instant latte",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 52.0,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Chai latte high protein coffee, chai latte",
+        "Name": "Chai latte high protein coffee",
         "Nutrients": {
             "Protein": 60.6,
             "Fat": 9.1,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Oat mocha coffee, cocoa + oat milk, oat mocha",
+        "Name": "Oat mocha coffee, cocoa & oat milk",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 2.4,

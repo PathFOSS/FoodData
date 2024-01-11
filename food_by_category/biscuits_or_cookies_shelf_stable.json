@@ -1,0 +1,4718 @@
+[
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 25.7,
+            "Carbs": 60.1,
+            "Calories": 507.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 25.7,
+            "Carbs": 60.1,
+            "Calories": 507.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 15.6,
+            "Carbs": 67.1,
+            "Calories": 458.4
+        }
+    },
+    {
+        "Name": "Keebler oatmeal cookies country style",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 21.3,
+            "Carbs": 67.1,
+            "Calories": 485.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers atomic cheddar",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 17.0,
+            "Carbs": 66.1,
+            "Calories": 463.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers whole grain",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 15.6,
+            "Carbs": 67.1,
+            "Calories": 458.4
+        }
+    },
+    {
+        "Name": "Sunshine gripz crackers cheez it",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 23.1,
+            "Carbs": 60.9,
+            "Calories": 496.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix original",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 16.9,
+            "Carbs": 66.0,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it italian cheese",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 25.2,
+            "Carbs": 57.8,
+            "Calories": 497.2
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix original",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 16.9,
+            "Carbs": 66.0,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 16.9,
+            "Carbs": 66.0,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers baby swiss",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 24.2,
+            "Carbs": 62.3,
+            "Calories": 505.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers whole grain",
+        "Nutrients": {
+            "Protein": 10.8,
+            "Fat": 26.5,
+            "Carbs": 57.8,
+            "Calories": 512.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix original",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 16.9,
+            "Carbs": 66.0,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies deluxe graham",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 26.1,
+            "Carbs": 66.7,
+            "Calories": 517.3
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies cashew",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 30.4,
+            "Carbs": 59.8,
+            "Calories": 537.2
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies coconut",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 29.7,
+            "Carbs": 61.6,
+            "Calories": 536.5
+        }
+    },
+    {
+        "Name": "Keebler iced animal cookies frosted",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 24.3,
+            "Carbs": 70.4,
+            "Calories": 511.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies chocolate vanilla creme",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 19.0,
+            "Carbs": 72.3,
+            "Calories": 480.6
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers elf original",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 13.9,
+            "Carbs": 74.7,
+            "Calories": 451.1
+        }
+    },
+    {
+        "Name": "Keebler club crackers minis original",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 21.3,
+            "Carbs": 67.0,
+            "Calories": 480.5
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.6,
+            "Carbs": 68.8,
+            "Calories": 504.0
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe e.l.fudge original",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 19.3,
+            "Carbs": 72.9,
+            "Calories": 484.9
+        }
+    },
+    {
+        "Name": "Kelloggs kellogg cracker br& crunch mania french toast",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 12.9,
+            "Carbs": 73.7,
+            "Calories": 440.9
+        }
+    },
+    {
+        "Name": "Famous amos cookies oatmeal raisin",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 20.7,
+            "Carbs": 70.1,
+            "Calories": 488.7
+        }
+    },
+    {
+        "Name": "Keebler other cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 23.7,
+            "Carbs": 66.5,
+            "Calories": 501.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers extra toasty",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 26.1,
+            "Carbs": 58.1,
+            "Calories": 515.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 20.2,
+            "Carbs": 64.7,
+            "Calories": 480.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sriracha",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 18.4,
+            "Carbs": 65.8,
+            "Calories": 464.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sriracha",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 18.4,
+            "Carbs": 65.8,
+            "Calories": 464.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.8,
+            "Carbs": 65.8,
+            "Calories": 481.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it white cheddar",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 25.0,
+            "Carbs": 62.2,
+            "Calories": 507.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers chipotle cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 25.5,
+            "Carbs": 60.1,
+            "Calories": 508.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers colby",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 26.5,
+            "Carbs": 58.6,
+            "Calories": 515.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it chipotle cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 25.5,
+            "Carbs": 60.1,
+            "Calories": 508.7
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers red fat caddy",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 14.5,
+            "Carbs": 67.2,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 19.5,
+            "Carbs": 66.6,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 23.7,
+            "Carbs": 69.3,
+            "Calories": 506.5
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies dark chocolate almond",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 30.9,
+            "Carbs": 60.1,
+            "Calories": 542.5
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies simply",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 28.8,
+            "Carbs": 62.3,
+            "Calories": 532.0
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies peanut butter cups",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 28.7,
+            "Carbs": 60.8,
+            "Calories": 528.7
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler club crackers multi grain",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 18.1,
+            "Carbs": 67.7,
+            "Calories": 463.7
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies jif peanut butter",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 34.4,
+            "Carbs": 52.0,
+            "Calories": 557.2
+        }
+    },
+    {
+        "Name": "Keebler club crackers snack sticks original",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 24.7,
+            "Carbs": 66.9,
+            "Calories": 513.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 23.7,
+            "Carbs": 69.3,
+            "Calories": 506.5
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers disney frozen",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 15.6,
+            "Carbs": 73.6,
+            "Calories": 465.6
+        }
+    },
+    {
+        "Name": "Keebler kblr licensed crackers disney frozen",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 15.6,
+            "Carbs": 73.6,
+            "Calories": 465.6
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies vanilla creme",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 19.5,
+            "Carbs": 72.4,
+            "Calories": 487.1
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler kblr licensed crackers graham",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.5,
+            "Carbs": 74.9,
+            "Calories": 458.5
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers graham",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.5,
+            "Carbs": 74.9,
+            "Calories": 458.5
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 23.7,
+            "Carbs": 69.3,
+            "Calories": 506.5
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers elf original",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 13.9,
+            "Carbs": 74.7,
+            "Calories": 451.1
+        }
+    },
+    {
+        "Name": "Keebler animal crackers cookies",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 13.6,
+            "Carbs": 73.8,
+            "Calories": 444.0
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies e.l.fudge double stuffed original",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 24.9,
+            "Carbs": 67.4,
+            "Calories": 513.3
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers elf chocolate",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 14.5,
+            "Carbs": 72.3,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Keebler cracker packs pepper jack",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 23.9,
+            "Carbs": 61.1,
+            "Calories": 491.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe jumbo sticks",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 27.3,
+            "Carbs": 68.6,
+            "Calories": 529.7
+        }
+    },
+    {
+        "Name": "Keebler club crackers multi grain",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 19.9,
+            "Carbs": 67.8,
+            "Calories": 476.7
+        }
+    },
+    {
+        "Name": "Keebler gripz crackers chocolate chip",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 12.6,
+            "Carbs": 75.3,
+            "Calories": 443.4
+        }
+    },
+    {
+        "Name": "Famous amos caddies cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Famous amos caddies cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Austin crackers pepper jack",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 23.7,
+            "Carbs": 61.4,
+            "Calories": 491.3
+        }
+    },
+    {
+        "Name": "Sunshine cafe crackers cafe",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 19.5,
+            "Carbs": 66.6,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 19.5,
+            "Carbs": 66.6,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Keebler animal crackers cookies",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 12.4,
+            "Carbs": 76.8,
+            "Calories": 442.8
+        }
+    },
+    {
+        "Name": "Kashi crackers original",
+        "Nutrients": {
+            "Protein": 14.0,
+            "Fat": 12.0,
+            "Carbs": 66.2,
+            "Calories": 428.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 17.4,
+            "Carbs": 68.2,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers character rotational",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 17.4,
+            "Carbs": 68.2,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers rotational",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 17.4,
+            "Carbs": 68.2,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it sharp white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sweet & salty",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 17.6,
+            "Carbs": 70.1,
+            "Calories": 468.8
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it cheddar",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 25.0,
+            "Carbs": 57.5,
+            "Calories": 495.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sweet & salty",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 17.6,
+            "Carbs": 70.1,
+            "Calories": 468.8
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers whole grain",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 15.6,
+            "Carbs": 67.1,
+            "Calories": 458.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar ranch",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.7,
+            "Carbs": 65.7,
+            "Calories": 479.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar ranch",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.7,
+            "Carbs": 65.7,
+            "Calories": 479.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Sunshine foodservice private label crackers harvest mill wheat",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 17.9,
+            "Carbs": 64.0,
+            "Calories": 462.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar jack",
+        "Nutrients": {
+            "Protein": 10.4,
+            "Fat": 25.3,
+            "Carbs": 59.0,
+            "Calories": 505.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar jack",
+        "Nutrients": {
+            "Protein": 10.4,
+            "Fat": 25.3,
+            "Carbs": 59.0,
+            "Calories": 505.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine right bites cheez-it original",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 14.6,
+            "Carbs": 67.0,
+            "Calories": 452.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 25.7,
+            "Carbs": 60.1,
+            "Calories": 507.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers reduced fat",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 14.5,
+            "Carbs": 67.2,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers reduced fat white cheddar",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 13.0,
+            "Carbs": 71.3,
+            "Calories": 446.6
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it scrabble junior",
+        "Nutrients": {
+            "Protein": 10.9,
+            "Fat": 17.3,
+            "Carbs": 67.9,
+            "Calories": 470.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers double cheese",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 19.4,
+            "Carbs": 63.9,
+            "Calories": 468.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers reduced fat",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 14.5,
+            "Carbs": 67.2,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix original",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 16.0,
+            "Carbs": 65.7,
+            "Calories": 448.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix double cheese",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 19.4,
+            "Carbs": 63.9,
+            "Calories": 468.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it provolone",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.5,
+            "Carbs": 64.5,
+            "Calories": 503.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar ranch",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.7,
+            "Carbs": 65.7,
+            "Calories": 479.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sharp white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers reduced fat",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 14.5,
+            "Carbs": 67.2,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it queso fundido",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 25.4,
+            "Carbs": 60.9,
+            "Calories": 509.8
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar jack",
+        "Nutrients": {
+            "Protein": 10.4,
+            "Fat": 25.3,
+            "Carbs": 59.0,
+            "Calories": 505.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers italian cheese",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 24.2,
+            "Carbs": 61.6,
+            "Calories": 502.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it mozzarella",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 23.8,
+            "Carbs": 64.1,
+            "Calories": 505.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers character rotational",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 17.4,
+            "Carbs": 68.2,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers rotational",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 17.0,
+            "Carbs": 67.2,
+            "Calories": 468.2
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers character rotational",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 17.0,
+            "Carbs": 67.2,
+            "Calories": 468.2
+        }
+    },
+    {
+        "Name": "Mothers cookies english tea",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 21.5,
+            "Carbs": 70.9,
+            "Calories": 496.7
+        }
+    },
+    {
+        "Name": "Mothers cookies double fudge",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 21.4,
+            "Carbs": 69.4,
+            "Calories": 492.6
+        }
+    },
+    {
+        "Name": "Mothers cookies double chocolate chip",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 26.3,
+            "Carbs": 64.4,
+            "Calories": 513.5
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies original",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 28.1,
+            "Carbs": 62.8,
+            "Calories": 526.1
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies chocolate chunk",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 27.5,
+            "Carbs": 63.2,
+            "Calories": 522.3
+        }
+    },
+    {
+        "Name": "Keebler club crackers reduced fat",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 13.3,
+            "Carbs": 73.7,
+            "Calories": 440.5
+        }
+    },
+    {
+        "Name": "Keebler iced animal crackers",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 14.2,
+            "Carbs": 75.3,
+            "Calories": 451.4
+        }
+    },
+    {
+        "Name": "Keebler gripz cookies chips deluxe",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 19.3,
+            "Carbs": 71.3,
+            "Calories": 480.1
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe fudge stripes cookies & creme",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 22.2,
+            "Carbs": 70.4,
+            "Calories": 497.4
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe fudge stripes red velvet",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 22.4,
+            "Carbs": 70.4,
+            "Calories": 496.8
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies animals",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 14.2,
+            "Carbs": 75.3,
+            "Calories": 451.4
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies peanut butter",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 25.7,
+            "Carbs": 61.8,
+            "Calories": 511.3
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers disney frozen",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 15.6,
+            "Carbs": 73.6,
+            "Calories": 465.6
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers disney frozen",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 15.6,
+            "Carbs": 73.6,
+            "Calories": 465.6
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies birthday cake",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.1,
+            "Carbs": 66.2,
+            "Calories": 485.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies peppermint",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.3,
+            "Carbs": 70.4,
+            "Calories": 504.5
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers graham",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 14.5,
+            "Carbs": 74.8,
+            "Calories": 456.5
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies butter fudge",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 19.9,
+            "Carbs": 70.9,
+            "Calories": 486.3
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe coconut dreams",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 28.0,
+            "Carbs": 61.4,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe chocolate chip",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 28.1,
+            "Carbs": 62.8,
+            "Calories": 526.1
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers cinnamon",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 13.8,
+            "Carbs": 74.8,
+            "Calories": 452.6
+        }
+    },
+    {
+        "Name": "Keebler premium cookie meal chocolate",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 18.9,
+            "Carbs": 72.0,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe jumbo peanut butter sticks",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 29.7,
+            "Carbs": 60.8,
+            "Calories": 538.9
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies soft n chewy chocolate chip",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 19.9,
+            "Carbs": 66.1,
+            "Calories": 464.3
+        }
+    },
+    {
+        "Name": "Keebler oatmeal cookies iced",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 19.4,
+            "Carbs": 68.9,
+            "Calories": 475.8
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers bug bites",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 13.3,
+            "Carbs": 75.0,
+            "Calories": 447.7
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe dark chocolate",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 21.5,
+            "Carbs": 70.1,
+            "Calories": 491.1
+        }
+    },
+    {
+        "Name": "Keebler mixed cookies chocolate",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 18.9,
+            "Carbs": 72.8,
+            "Calories": 478.5
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies coconut dreams fudge covered",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 28.7,
+            "Carbs": 61.0,
+            "Calories": 516.7
+        }
+    },
+    {
+        "Name": "Kelloggs kellogg cracker br& crunch mania cinnamon bun",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 13.4,
+            "Carbs": 73.7,
+            "Calories": 445.0
+        }
+    },
+    {
+        "Name": "Famous amos caddies cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Famous amos cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Famous amos cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with cheddar cheese",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 23.3,
+            "Carbs": 62.5,
+            "Calories": 489.3
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with cheddar cheese",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 24.9,
+            "Carbs": 60.0,
+            "Calories": 494.1
+        }
+    },
+    {
+        "Name": "Austin crackers cheese on cheese",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 23.3,
+            "Carbs": 62.5,
+            "Calories": 489.3
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with cheddar cheese",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 24.9,
+            "Carbs": 60.0,
+            "Calories": 494.1
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Keebler processor private label wheat",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 10.9,
+            "Carbs": 75.7,
+            "Calories": 434.9
+        }
+    },
+    {
+        "Name": "Keebler processor private label crackers wheat",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 10.9,
+            "Carbs": 75.7,
+            "Calories": 434.9
+        }
+    },
+    {
+        "Name": "Kashi crackers lemon chickpea chili",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 14.8,
+            "Carbs": 69.2,
+            "Calories": 447.6
+        }
+    },
+    {
+        "Name": "Kashi cookies oatmeal dark chocolate",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 16.0,
+            "Carbs": 67.3,
+            "Calories": 440.0
+        }
+    },
+    {
+        "Name": "Kashi cookies trail mix",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 14.1,
+            "Carbs": 69.3,
+            "Calories": 432.5
+        }
+    },
+    {
+        "Name": "Kashi cookies oatmeal raisin",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 15.0,
+            "Carbs": 67.4,
+            "Calories": 433.8
+        }
+    },
+    {
+        "Name": "Kashi cookies chocolate almond butter",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 16.7,
+            "Carbs": 63.6,
+            "Calories": 438.3
+        }
+    },
+    {
+        "Name": "Kashi pita crackers garlic pesto",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 9.0,
+            "Carbs": 75.4,
+            "Calories": 424.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.8,
+            "Carbs": 65.8,
+            "Calories": 481.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.8,
+            "Carbs": 65.8,
+            "Calories": 481.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy tabasco",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 25.7,
+            "Carbs": 60.1,
+            "Calories": 507.7
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers soup & oyster",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 8.8,
+            "Carbs": 76.3,
+            "Calories": 429.2
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz sharp cheddar/parmesan",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 25.0,
+            "Carbs": 60.2,
+            "Calories": 505.0
+        }
+    },
+    {
+        "Name": "Mothers cookies taffy s&wich",
+        "Nutrients": {
+            "Protein": 3.8,
+            "Fat": 22.1,
+            "Carbs": 70.7,
+            "Calories": 496.9
+        }
+    },
+    {
+        "Name": "Mothers cookies peanut butter gauchos",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 22.2,
+            "Carbs": 66.1,
+            "Calories": 493.8
+        }
+    },
+    {
+        "Name": "Mothers cookies oatmeal",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 18.4,
+            "Carbs": 71.2,
+            "Calories": 476.4
+        }
+    },
+    {
+        "Name": "Mothers cookies iced oatmeal",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 16.9,
+            "Carbs": 72.8,
+            "Calories": 467.3
+        }
+    },
+    {
+        "Name": "Mothers cookies vanilla creme s&wich",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 21.4,
+            "Carbs": 70.9,
+            "Calories": 495.8
+        }
+    },
+    {
+        "Name": "Mothers ginger snap",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 16.4,
+            "Carbs": 73.9,
+            "Calories": 463.6
+        }
+    },
+    {
+        "Name": "Mothers cookies coconut cocadas",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 25.1,
+            "Carbs": 65.1,
+            "Calories": 509.1
+        }
+    },
+    {
+        "Name": "Mothers cookies iced oatmeal",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 18.0,
+            "Carbs": 71.0,
+            "Calories": 468.4
+        }
+    },
+    {
+        "Name": "Keebler gripz crackers cinnamon grahams",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 12.9,
+            "Carbs": 75.6,
+            "Calories": 448.1
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers original",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 9.4,
+            "Carbs": 76.7,
+            "Calories": 422.6
+        }
+    },
+    {
+        "Name": "Keebler foodservice private label crackers low salt",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 20.1,
+            "Carbs": 69.6,
+            "Calories": 491.3
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers original",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 12.5,
+            "Carbs": 76.0,
+            "Calories": 442.5
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers cinnamon",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 11.5,
+            "Carbs": 77.1,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies vanilla",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.4,
+            "Carbs": 73.1,
+            "Calories": 465.0
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers honey",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 13.9,
+            "Carbs": 75.2,
+            "Calories": 450.3
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies toffee",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 28.7,
+            "Carbs": 62.9,
+            "Calories": 531.9
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies pecan",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 32.0,
+            "Carbs": 59.0,
+            "Calories": 546.8
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies rainbow",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 25.4,
+            "Carbs": 65.3,
+            "Calories": 508.6
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies triple chocolate",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 24.8,
+            "Carbs": 65.4,
+            "Calories": 503.6
+        }
+    },
+    {
+        "Name": "Keebler town house crackers wheat",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 24.4,
+            "Carbs": 63.5,
+            "Calories": 498.8
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers whole grain",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 15.8,
+            "Carbs": 66.8,
+            "Calories": 447.0
+        }
+    },
+    {
+        "Name": "Keebler town house crackers flipsides original",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 23.1,
+            "Carbs": 63.5,
+            "Calories": 490.7
+        }
+    },
+    {
+        "Name": "Keebler town house pita cracker cinnamon",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 15.1,
+            "Carbs": 74.8,
+            "Calories": 465.5
+        }
+    },
+    {
+        "Name": "Keebler right bites cookies flavor",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.8,
+            "Carbs": 74.3,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Keebler town house crackers tuscan cheese",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 25.5,
+            "Carbs": 60.7,
+            "Calories": 510.3
+        }
+    },
+    {
+        "Name": "Keebler town house crackers rosemary & olive oil",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 25.2,
+            "Carbs": 61.7,
+            "Calories": 510.4
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies rainbow",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 25.4,
+            "Carbs": 65.3,
+            "Calories": 508.6
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers sesame",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 24.3,
+            "Carbs": 62.0,
+            "Calories": 494.3
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stick",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 27.3,
+            "Carbs": 68.9,
+            "Calories": 531.7
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies pecan shortbread",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 32.0,
+            "Carbs": 59.0,
+            "Calories": 546.8
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies chocolate",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 19.0,
+            "Carbs": 73.1,
+            "Calories": 475.8
+        }
+    },
+    {
+        "Name": "Keebler cracker packs club & cheddar",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 24.3,
+            "Carbs": 62.0,
+            "Calories": 497.9
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies pecan",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 32.0,
+            "Carbs": 59.0,
+            "Calories": 546.8
+        }
+    },
+    {
+        "Name": "Keebler soft batch cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 22.1,
+            "Carbs": 66.2,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers scooby-doo cinnamon graham sticks",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 13.6,
+            "Carbs": 74.9,
+            "Calories": 448.8
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes minis original",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.2,
+            "Carbs": 69.2,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers scooby-doo honey graham sticks",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 14.1,
+            "Carbs": 75.5,
+            "Calories": 452.9
+        }
+    },
+    {
+        "Name": "Keebler right bites cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 13.3,
+            "Carbs": 77.7,
+            "Calories": 449.3
+        }
+    },
+    {
+        "Name": "Keebler right bites cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.8,
+            "Carbs": 74.3,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Keebler right bites cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.8,
+            "Carbs": 74.3,
+            "Calories": 473.4
+        }
+    },
+    {
+        "Name": "Keebler cracker packs cheese & cheddar",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.5,
+            "Carbs": 60.8,
+            "Calories": 503.1
+        }
+    },
+    {
+        "Name": "Keebler right bites cookies fudge grahams",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 17.9,
+            "Carbs": 73.2,
+            "Calories": 471.9
+        }
+    },
+    {
+        "Name": "Keebler cracker packs pb& j",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 22.0,
+            "Carbs": 65.3,
+            "Calories": 488.4
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps sea salt & olive oil",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 13.8,
+            "Carbs": 72.3,
+            "Calories": 447.8
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps italian herb",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 13.6,
+            "Carbs": 72.7,
+            "Calories": 448.0
+        }
+    },
+    {
+        "Name": "Keebler cracker packs pepper jack",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 23.9,
+            "Carbs": 61.1,
+            "Calories": 491.9
+        }
+    },
+    {
+        "Name": "Keebler vienna fingers cookies reduced fat",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 15.0,
+            "Carbs": 78.1,
+            "Calories": 465.4
+        }
+    },
+    {
+        "Name": "Keebler vienna fingers cookies vanilla",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 20.1,
+            "Carbs": 72.8,
+            "Calories": 488.9
+        }
+    },
+    {
+        "Name": "Keebler cracker packs toast & peanut butter",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 23.3,
+            "Carbs": 61.5,
+            "Calories": 492.9
+        }
+    },
+    {
+        "Name": "Keebler oatmeal cookies original",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 20.2,
+            "Carbs": 68.4,
+            "Calories": 482.2
+        }
+    },
+    {
+        "Name": "Keebler pitter patter cookies peanut butter",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 20.7,
+            "Carbs": 69.1,
+            "Calories": 493.5
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies fudge stripes minis",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 23.1,
+            "Carbs": 68.8,
+            "Calories": 499.9
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies shortbread bites",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 17.2,
+            "Carbs": 73.9,
+            "Calories": 471.2
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps roasted garlic",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 13.7,
+            "Carbs": 73.6,
+            "Calories": 449.3
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 26.9,
+            "Carbs": 63.5,
+            "Calories": 516.1
+        }
+    },
+    {
+        "Name": "Keebler town house sea salt",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 15.7,
+            "Carbs": 71.6,
+            "Calories": 459.3
+        }
+    },
+    {
+        "Name": "Keebler town house pita cracker mediterranean herb",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 15.5,
+            "Carbs": 72.2,
+            "Calories": 461.9
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies fudge graham mini",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 17.8,
+            "Carbs": 73.3,
+            "Calories": 472.6
+        }
+    },
+    {
+        "Name": "Kelloggs special k cookies chocolate fudge",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 17.0,
+            "Carbs": 71.3,
+            "Calories": 468.2
+        }
+    },
+    {
+        "Name": "Kellogg rkt crackle snap fudge",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 18.4,
+            "Carbs": 72.4,
+            "Calories": 475.2
+        }
+    },
+    {
+        "Name": "Kellogg nutri-grain cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 16.7,
+            "Carbs": 68.9,
+            "Calories": 460.7
+        }
+    },
+    {
+        "Name": "Kellogg nutri-grain cookies apple cinnamon",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 15.8,
+            "Carbs": 69.9,
+            "Calories": 456.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sesame",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 14.6,
+            "Carbs": 68.8,
+            "Calories": 453.0
+        }
+    },
+    {
+        "Name": "Kellogg special k crackers multi grain",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 9.5,
+            "Carbs": 75.7,
+            "Calories": 427.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sea salt",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.8,
+            "Carbs": 71.5,
+            "Calories": 431.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers cheddar",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 14.1,
+            "Carbs": 70.9,
+            "Calories": 432.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sea salt",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.8,
+            "Carbs": 71.5,
+            "Calories": 431.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers bbq",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.0,
+            "Carbs": 73.0,
+            "Calories": 429.8
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sour cream & onion",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 13.0,
+            "Carbs": 72.1,
+            "Calories": 429.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sour cream & onion",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 13.0,
+            "Carbs": 72.1,
+            "Calories": 429.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers white cheddar",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 10.8,
+            "Carbs": 77.1,
+            "Calories": 435.6
+        }
+    },
+    {
+        "Name": "Carrs cookies ginger lemon cremes",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 21.4,
+            "Carbs": 67.5,
+            "Calories": 478.2
+        }
+    },
+    {
+        "Name": "Jacksons cookies vanilla",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 15.7,
+            "Carbs": 73.6,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Famous amos cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Murray jacks cookies vanilla",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 12.2,
+            "Carbs": 77.7,
+            "Calories": 441.0
+        }
+    },
+    {
+        "Name": "Famous amos cookies chocolate chip pecan",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 26.8,
+            "Carbs": 64.3,
+            "Calories": 519.6
+        }
+    },
+    {
+        "Name": "Austin crackers sour cream & chive",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 22.6,
+            "Carbs": 64.8,
+            "Calories": 489.0
+        }
+    },
+    {
+        "Name": "Murray sugar free strawberry",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 26.3,
+            "Carbs": 69.3,
+            "Calories": 526.7
+        }
+    },
+    {
+        "Name": "Murray sugar free dark fudge",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 25.0,
+            "Carbs": 69.1,
+            "Calories": 518.2
+        }
+    },
+    {
+        "Name": "Austin crackers pb & j",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 21.8,
+            "Carbs": 65.6,
+            "Calories": 489.0
+        }
+    },
+    {
+        "Name": "Murray cookies butter",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 15.7,
+            "Carbs": 74.2,
+            "Calories": 466.9
+        }
+    },
+    {
+        "Name": "Austin crackers toasty crackers with peanut butter",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 23.3,
+            "Carbs": 61.5,
+            "Calories": 492.9
+        }
+    },
+    {
+        "Name": "Austin crackers toasty peanut butter",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 23.3,
+            "Carbs": 61.5,
+            "Calories": 492.9
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 27.0,
+            "Carbs": 64.1,
+            "Calories": 519.0
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies fudge dipped",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 33.5,
+            "Carbs": 61.2,
+            "Calories": 559.9
+        }
+    },
+    {
+        "Name": "Murray cookies ginger snap",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 16.5,
+            "Carbs": 73.5,
+            "Calories": 462.5
+        }
+    },
+    {
+        "Name": "Murray cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 16.4,
+            "Carbs": 73.6,
+            "Calories": 470.4
+        }
+    },
+    {
+        "Name": "Murray coconut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 15.7,
+            "Carbs": 74.2,
+            "Calories": 466.5
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies vanilla creme",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 23.1,
+            "Carbs": 70.0,
+            "Calories": 507.5
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies chocolate creme",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 24.9,
+            "Carbs": 66.1,
+            "Calories": 508.9
+        }
+    },
+    {
+        "Name": "Murray sugar free peanut butter",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 30.9,
+            "Carbs": 55.7,
+            "Calories": 538.9
+        }
+    },
+    {
+        "Name": "Murray vanilla",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 25.7,
+            "Carbs": 70.0,
+            "Calories": 526.9
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers saltines",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 9.0,
+            "Carbs": 76.1,
+            "Calories": 418.2
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies chocolate chip pecan",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 31.7,
+            "Carbs": 59.2,
+            "Calories": 541.3
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 9.0,
+            "Carbs": 76.1,
+            "Calories": 418.2
+        }
+    },
+    {
+        "Name": "Keebler processor private label crackers wheat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 16.4,
+            "Carbs": 65.3,
+            "Calories": 445.2
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge stripes minis original",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.2,
+            "Carbs": 69.2,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies vanilla",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.4,
+            "Carbs": 73.1,
+            "Calories": 465.0
+        }
+    },
+    {
+        "Name": "Keebler town house crackers original",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 31.4,
+            "Carbs": 59.1,
+            "Calories": 538.6
+        }
+    },
+    {
+        "Name": "Keebler other cookies sugar cookies",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 21.2,
+            "Carbs": 69.5,
+            "Calories": 492.4
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers soup & oyster",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 19.0,
+            "Carbs": 66.9,
+            "Calories": 468.6
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies vanilla",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.4,
+            "Carbs": 73.1,
+            "Calories": 465.0
+        }
+    },
+    {
+        "Name": "Keebler other cookies oatmeal cookie",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 20.3,
+            "Carbs": 68.4,
+            "Calories": 485.1
+        }
+    },
+    {
+        "Name": "Keebler town house crackers original",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 31.4,
+            "Carbs": 59.1,
+            "Calories": 538.6
+        }
+    },
+    {
+        "Name": "Kashi crackers red sea salt",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 14.7,
+            "Carbs": 69.2,
+            "Calories": 447.1
+        }
+    },
+    {
+        "Name": "Kashi pita crackers grain sea salt",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 9.2,
+            "Carbs": 75.1,
+            "Calories": 425.2
+        }
+    },
+    {
+        "Name": "Sunshine krispy saltines",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 8.5,
+            "Carbs": 76.4,
+            "Calories": 422.5
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers saltines",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 8.3,
+            "Carbs": 77.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Mothers cookies circus animals",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 24.8,
+            "Carbs": 67.4,
+            "Calories": 509.2
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 8.3,
+            "Carbs": 77.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers oyster",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 18.6,
+            "Carbs": 67.0,
+            "Calories": 464.2
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 8.3,
+            "Carbs": 77.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Keebler town house crackers sea salt",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 23.0,
+            "Carbs": 63.8,
+            "Calories": 490.6
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers unsalted",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 8.5,
+            "Carbs": 78.6,
+            "Calories": 422.1
+        }
+    },
+    {
+        "Name": "Keebler town house crackers parmaesan herb",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 23.2,
+            "Carbs": 63.3,
+            "Calories": 491.2
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers wheat",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 20.0,
+            "Carbs": 66.1,
+            "Calories": 477.6
+        }
+    },
+    {
+        "Name": "Keebler town house crackers reduced fat",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 11.3,
+            "Carbs": 76.8,
+            "Calories": 435.3
+        }
+    },
+    {
+        "Name": "Keebler town house crackers italian cheese",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 15.1,
+            "Carbs": 72.0,
+            "Calories": 457.9
+        }
+    },
+    {
+        "Name": "Keebler private label crackers original",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 25.6,
+            "Carbs": 64.2,
+            "Calories": 508.4
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers wheat",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 21.1,
+            "Carbs": 65.5,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers butter crisp",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 23.6,
+            "Carbs": 64.2,
+            "Calories": 492.0
+        }
+    },
+    {
+        "Name": "Keebler cracker packs cheese & peanut butter",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 22.9,
+            "Carbs": 61.4,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Keebler soft batch cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 22.1,
+            "Carbs": 66.2,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers scooby-doo cinnamon graham sticks",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 13.3,
+            "Carbs": 75.0,
+            "Calories": 447.7
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers wheat",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 10.1,
+            "Carbs": 74.9,
+            "Calories": 423.3
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers butter crisp",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 23.6,
+            "Carbs": 64.2,
+            "Calories": 492.0
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers large oyster",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 18.6,
+            "Carbs": 67.0,
+            "Calories": 464.2
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers onion toast",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 20.6,
+            "Carbs": 67.7,
+            "Calories": 479.0
+        }
+    },
+    {
+        "Name": "Keebler vienna fingers cookies",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 20.1,
+            "Carbs": 72.8,
+            "Calories": 488.9
+        }
+    },
+    {
+        "Name": "Keebler soft batch cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 22.1,
+            "Carbs": 66.2,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler soft batch chocolate chip",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 22.1,
+            "Carbs": 66.2,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler cracker packs cheese & peanut butter",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 22.9,
+            "Carbs": 61.4,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies butter",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 25.2,
+            "Carbs": 65.4,
+            "Calories": 508.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k cookies white chocolate",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 20.0,
+            "Carbs": 68.8,
+            "Calories": 483.2
+        }
+    },
+    {
+        "Name": "Kellogg rkt crackle snap caramel",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 18.2,
+            "Carbs": 73.8,
+            "Calories": 474.6
+        }
+    },
+    {
+        "Name": "Kellogg special k cookies caramel with fudge drizzle",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 21.2,
+            "Carbs": 70.5,
+            "Calories": 490.4
+        }
+    },
+    {
+        "Name": "Kellogg special k cookies strawberry",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 21.5,
+            "Carbs": 70.2,
+            "Calories": 491.5
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers salt & vinegar",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 13.7,
+            "Carbs": 72.3,
+            "Calories": 432.1
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sea salt original multigrain whole wheat quinoa millet",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 15.5,
+            "Carbs": 68.7,
+            "Calories": 455.5
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sour cream & onion",
+        "Nutrients": {
+            "Protein": 6.0,
+            "Fat": 13.0,
+            "Carbs": 72.1,
+            "Calories": 429.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers cheddar",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 14.1,
+            "Carbs": 70.9,
+            "Calories": 432.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sweet & salty",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 8.4,
+            "Carbs": 80.8,
+            "Calories": 426.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers sea salt",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.8,
+            "Carbs": 71.5,
+            "Calories": 431.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers cheddar",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 14.1,
+            "Carbs": 70.9,
+            "Calories": 432.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k cookies blonde",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 19.9,
+            "Carbs": 66.1,
+            "Calories": 459.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k cookies mini brownies",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 20.1,
+            "Carbs": 65.1,
+            "Calories": 459.3
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers bbq",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.0,
+            "Carbs": 73.0,
+            "Calories": 429.8
+        }
+    },
+    {
+        "Name": "Kelloggs special k crackers bbq",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 13.0,
+            "Carbs": 73.0,
+            "Calories": 429.8
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with peanut butter",
+        "Nutrients": {
+            "Protein": 10.8,
+            "Fat": 24.5,
+            "Carbs": 59.0,
+            "Calories": 499.7
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with peanut butter",
+        "Nutrients": {
+            "Protein": 10.8,
+            "Fat": 24.5,
+            "Carbs": 59.0,
+            "Calories": 499.7
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with peanut butter",
+        "Nutrients": {
+            "Protein": 10.8,
+            "Fat": 24.5,
+            "Carbs": 59.0,
+            "Calories": 499.7
+        }
+    },
+    {
+        "Name": "Murray sugar free oatmeal cookie",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 22.8,
+            "Carbs": 66.7,
+            "Calories": 497.6
+        }
+    },
+    {
+        "Name": "Murray lemon creme",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 18.3,
+            "Carbs": 73.9,
+            "Calories": 479.9
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers crushed",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 8.5,
+            "Carbs": 76.4,
+            "Calories": 422.5
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it pepper jack",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 24.6,
+            "Carbs": 61.1,
+            "Calories": 505.4
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it original",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 26.3,
+            "Carbs": 57.4,
+            "Calories": 511.9
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler cracker packs toast & peanut butter",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 23.3,
+            "Carbs": 61.5,
+            "Calories": 492.9
+        }
+    },
+    {
+        "Name": "Keebler cracker packs pb& j",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 22.0,
+            "Carbs": 65.3,
+            "Calories": 488.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 25.0,
+            "Carbs": 57.5,
+            "Calories": 495.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers italian cheese",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 25.2,
+            "Carbs": 57.8,
+            "Calories": 497.2
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies chocolate chip thins",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 22.8,
+            "Carbs": 69.2,
+            "Calories": 500.8
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies lemon delight thins",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 21.6,
+            "Carbs": 70.3,
+            "Calories": 494.8
+        }
+    },
+    {
+        "Name": "Famous amos cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 23.8,
+            "Carbs": 68.2,
+            "Calories": 504.6
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps tomato basil",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 13.3,
+            "Carbs": 73.2,
+            "Calories": 447.7
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps spinach artichoke",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 13.4,
+            "Carbs": 73.3,
+            "Calories": 448.2
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it cheddar loco",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 17.3,
+            "Carbs": 66.1,
+            "Calories": 464.5
+        }
+    },
+    {
+        "Name": "Keebler zesta saltines crackers export soda",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 11.2,
+            "Carbs": 72.5,
+            "Calories": 432.8
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies pumpkin spice",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 25.6,
+            "Carbs": 68.4,
+            "Calories": 516.8
+        }
+    },
+    {
+        "Name": "Kashi crackers fire roasted vegetable",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 12.1,
+            "Carbs": 67.9,
+            "Calories": 428.5
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheddar ranch",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.7,
+            "Carbs": 65.7,
+            "Calories": 479.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sharp white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers reduced fat",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 14.5,
+            "Carbs": 67.2,
+            "Calories": 451.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers original",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 9.4,
+            "Carbs": 76.7,
+            "Calories": 422.6
+        }
+    },
+    {
+        "Name": "Sunshine right bites cheez-it crackers party mix",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 14.9,
+            "Carbs": 68.2,
+            "Calories": 452.1
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers snack mix original",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 16.9,
+            "Carbs": 66.0,
+            "Calories": 456.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers pepper jack",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 24.6,
+            "Carbs": 61.1,
+            "Calories": 505.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers pepper jack",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 24.6,
+            "Carbs": 61.1,
+            "Calories": 505.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz sharp cheddar/parmesan",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 25.0,
+            "Carbs": 60.2,
+            "Calories": 505.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz cheddar/baby swiss",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 24.8,
+            "Carbs": 60.7,
+            "Calories": 506.4
+        }
+    },
+    {
+        "Name": "Mothers cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 22.3,
+            "Carbs": 67.1,
+            "Calories": 491.9
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge sticks original",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 27.3,
+            "Carbs": 68.9,
+            "Calories": 531.7
+        }
+    },
+    {
+        "Name": "Keebler danish wedding cookies",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 24.2,
+            "Carbs": 68.5,
+            "Calories": 506.6
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies peanut butter chocolate chip",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 28.4,
+            "Carbs": 57.2,
+            "Calories": 521.6
+        }
+    },
+    {
+        "Name": "Keebler town house sea salt",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 16.0,
+            "Carbs": 71.0,
+            "Calories": 463.2
+        }
+    },
+    {
+        "Name": "Keebler theater packs cookies cookie dough minis chocolate chip",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 19.9,
+            "Carbs": 66.1,
+            "Calories": 459.9
+        }
+    },
+    {
+        "Name": "Keebler theater packs cookies fudge stripes minis original",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 23.1,
+            "Carbs": 68.7,
+            "Calories": 499.5
+        }
+    },
+    {
+        "Name": "Keebler simply made cookies chocolate creme",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 20.3,
+            "Carbs": 71.6,
+            "Calories": 485.5
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Keebler iced animal cookies frosted",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 24.3,
+            "Carbs": 70.4,
+            "Calories": 511.9
+        }
+    },
+    {
+        "Name": "Keebler animal crackers cookies elfin original",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 7.3,
+            "Carbs": 83.1,
+            "Calories": 420.5
+        }
+    },
+    {
+        "Name": "Keebler cracker packs cheese & cheddar",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 25.5,
+            "Carbs": 60.8,
+            "Calories": 503.1
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies coconut dreams",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 27.9,
+            "Carbs": 60.9,
+            "Calories": 510.3
+        }
+    },
+    {
+        "Name": "Famous amos double chocolate chip",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 25.9,
+            "Carbs": 64.1,
+            "Calories": 511.1
+        }
+    },
+    {
+        "Name": "Famous amos cookies double chocolate chip",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 26.3,
+            "Carbs": 64.4,
+            "Calories": 513.5
+        }
+    },
+    {
+        "Name": "Famous amos cookies double chocolate chip",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 25.9,
+            "Carbs": 64.1,
+            "Calories": 511.1
+        }
+    },
+    {
+        "Name": "Famous amos cookies double chocolate chip",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 25.9,
+            "Carbs": 64.1,
+            "Calories": 511.1
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with peanut butter",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 22.9,
+            "Carbs": 61.4,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Austin crackers toasty original",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 19.0,
+            "Carbs": 68.3,
+            "Calories": 473.8
+        }
+    },
+    {
+        "Name": "Murray vanilla",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.4,
+            "Carbs": 73.1,
+            "Calories": 465.0
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies pecan shortbread",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 33.7,
+            "Carbs": 57.4,
+            "Calories": 556.1
+        }
+    },
+    {
+        "Name": "Meijer private label cookies butter",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 15.3,
+            "Carbs": 75.7,
+            "Calories": 461.7
+        }
+    },
+    {
+        "Name": "Pfg private label cookies holiday sugar",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 15.1,
+            "Carbs": 76.2,
+            "Calories": 462.7
+        }
+    },
+    {
+        "Name": "Murray duplex cremes",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 18.9,
+            "Carbs": 72.6,
+            "Calories": 480.1
+        }
+    },
+    {
+        "Name": "Murray vanilla",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 18.3,
+            "Carbs": 73.9,
+            "Calories": 479.9
+        }
+    },
+    {
+        "Name": "Murray chocolate creme",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 19.4,
+            "Carbs": 71.3,
+            "Calories": 479.4
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies lemon creme",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 23.9,
+            "Carbs": 68.3,
+            "Calories": 507.9
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies shortbread",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 17.7,
+            "Carbs": 72.8,
+            "Calories": 473.7
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies vanilla",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 26.6,
+            "Carbs": 69.5,
+            "Calories": 530.2
+        }
+    },
+    {
+        "Name": "Keebler little brownie baker cookies thin mint",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 24.0,
+            "Carbs": 67.1,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Keebler town house crackers original",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 31.3,
+            "Carbs": 58.7,
+            "Calories": 535.7
+        }
+    },
+    {
+        "Name": "Keebler town house crackers original",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 31.3,
+            "Carbs": 58.7,
+            "Calories": 535.7
+        }
+    },
+    {
+        "Name": "Mothers cookies circus animals",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 26.0,
+            "Carbs": 67.5,
+            "Calories": 520.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers sharp white cheddar",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 20.3,
+            "Carbs": 65.2,
+            "Calories": 482.3
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies vanilla",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 22.5,
+            "Carbs": 70.1,
+            "Calories": 492.5
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies grasshopper mint & fudge",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.9,
+            "Carbs": 68.7,
+            "Calories": 506.3
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies fudge stripes minis",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.2,
+            "Carbs": 69.2,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Keebler murray sugar free cookies chocolate creme",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 24.9,
+            "Carbs": 66.1,
+            "Calories": 509.7
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies rainbow",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 25.4,
+            "Carbs": 65.3,
+            "Calories": 508.6
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe cookies peanut butter cups",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 28.7,
+            "Carbs": 60.8,
+            "Calories": 528.7
+        }
+    },
+    {
+        "Name": "Sunshine krispy crackers large oyster",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 8.9,
+            "Carbs": 77.2,
+            "Calories": 422.5
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers plain",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 13.2,
+            "Carbs": 74.4,
+            "Calories": 450.8
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers honey",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 12.0,
+            "Carbs": 75.6,
+            "Calories": 444.8
+        }
+    },
+    {
+        "Name": "Sunshine crackers wheat",
+        "Nutrients": {
+            "Protein": 10.4,
+            "Fat": 16.2,
+            "Carbs": 68.5,
+            "Calories": 461.4
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers original",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 13.2,
+            "Carbs": 74.4,
+            "Calories": 450.8
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers fiber enrich honey graham",
+        "Nutrients": {
+            "Protein": 6.8,
+            "Fat": 10.4,
+            "Carbs": 76.6,
+            "Calories": 427.2
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers honey graham with calcium",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 10.9,
+            "Carbs": 76.3,
+            "Calories": 430.9
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers original",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 12.3,
+            "Carbs": 75.0,
+            "Calories": 438.7
+        }
+    },
+    {
+        "Name": "Austin crackers grilled cheese",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 23.8,
+            "Carbs": 62.0,
+            "Calories": 493.8
+        }
+    },
+    {
+        "Name": "Austin crackers toasty peanut butter",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 23.8,
+            "Carbs": 60.2,
+            "Calories": 497.4
+        }
+    },
+    {
+        "Name": "Austin crackers toasty peanut butter",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 23.8,
+            "Carbs": 60.2,
+            "Calories": 497.4
+        }
+    },
+    {
+        "Name": "Keebler grahams crackers honey",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 12.0,
+            "Carbs": 75.6,
+            "Calories": 444.8
+        }
+    },
+    {
+        "Name": "Keebler processor private label crackers butter",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 23.6,
+            "Carbs": 64.3,
+            "Calories": 497.6
+        }
+    },
+    {
+        "Name": "Keebler processor private label crackers butter",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 23.6,
+            "Carbs": 64.3,
+            "Calories": 497.6
+        }
+    },
+    {
+        "Name": "Mothers caddies crackers animals",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 26.0,
+            "Carbs": 67.5,
+            "Calories": 520.4
+        }
+    },
+    {
+        "Name": "Mothers caddies cookies circus animals",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 26.0,
+            "Carbs": 67.5,
+            "Calories": 520.4
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers peanut butter",
+        "Nutrients": {
+            "Protein": 14.5,
+            "Fat": 24.8,
+            "Carbs": 53.7,
+            "Calories": 496.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers hot & spicy",
+        "Nutrients": {
+            "Protein": 9.9,
+            "Fat": 19.8,
+            "Carbs": 65.8,
+            "Calories": 481.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers buffalo wings",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 24.6,
+            "Carbs": 61.3,
+            "Calories": 503.8
+        }
+    },
+    {
+        "Name": "Keebler town house crackers sea salt with hummus",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 11.4,
+            "Carbs": 41.4,
+            "Calories": 301.4
+        }
+    },
+    {
+        "Name": "Keebler club crackers cheddar",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 27.7,
+            "Carbs": 58.9,
+            "Calories": 513.7
+        }
+    },
+    {
+        "Name": "Keebler town house crackers mediterranean herb with hummus",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 12.0,
+            "Carbs": 41.3,
+            "Calories": 306.8
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies dark chocolate",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 22.0,
+            "Carbs": 71.1,
+            "Calories": 496.8
+        }
+    },
+    {
+        "Name": "Keebler club crackers cheddar",
+        "Nutrients": {
+            "Protein": 7.2,
+            "Fat": 27.7,
+            "Carbs": 58.9,
+            "Calories": 513.7
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies strawberry cheesecake",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 24.0,
+            "Carbs": 69.9,
+            "Calories": 509.2
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps sea salt",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 13.8,
+            "Carbs": 72.3,
+            "Calories": 447.8
+        }
+    },
+    {
+        "Name": "Keebler town house crackers mediterranean herb with hummus",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 12.0,
+            "Carbs": 41.3,
+            "Calories": 306.8
+        }
+    },
+    {
+        "Name": "Keebler town house crackers sea salt with hummus",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 11.4,
+            "Carbs": 41.4,
+            "Calories": 301.4
+        }
+    },
+    {
+        "Name": "Keebler club crackers peanut butter",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 23.0,
+            "Carbs": 62.1,
+            "Calories": 491.4
+        }
+    },
+    {
+        "Name": "Keebler club crackers buttery garlic",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 22.1,
+            "Carbs": 66.6,
+            "Calories": 491.7
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 22.1,
+            "Carbs": 66.2,
+            "Calories": 485.7
+        }
+    },
+    {
+        "Name": "Keebler specialty private label",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 18.9,
+            "Carbs": 72.0,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler premium cookie meal broken chocolate s&wich",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 18.9,
+            "Carbs": 72.0,
+            "Calories": 478.1
+        }
+    },
+    {
+        "Name": "Keebler premium cookie meal",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 16.3,
+            "Carbs": 72.0,
+            "Calories": 464.3
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe fudge stripes minis",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.2,
+            "Carbs": 69.2,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Sunshine fs crunch",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 10.4,
+            "Carbs": 75.5,
+            "Calories": 425.2
+        }
+    },
+    {
+        "Name": "Keebler sunshine fs honey graham meal",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 10.4,
+            "Carbs": 75.5,
+            "Calories": 425.2
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies lemon cream pie",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 24.0,
+            "Carbs": 69.5,
+            "Calories": 507.6
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies cake batter",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 23.8,
+            "Carbs": 69.9,
+            "Calories": 507.0
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe fudge stripes",
+        "Nutrients": {
+            "Protein": 3.4,
+            "Fat": 23.8,
+            "Carbs": 69.5,
+            "Calories": 505.8
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies fudge stripes",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 23.7,
+            "Carbs": 69.3,
+            "Calories": 506.5
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it hot & spicy",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 25.7,
+            "Carbs": 60.1,
+            "Calories": 507.7
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers graham",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 14.5,
+            "Carbs": 74.8,
+            "Calories": 456.5
+        }
+    },
+    {
+        "Name": "Keebler murray sugar free cookies lemon creme",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 23.9,
+            "Carbs": 68.3,
+            "Calories": 507.9
+        }
+    },
+    {
+        "Name": "Keebler town house flatbread crisps italian herb",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 13.6,
+            "Carbs": 72.7,
+            "Calories": 448.0
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz bacon & cheddar",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 25.2,
+            "Carbs": 59.5,
+            "Calories": 506.0
+        }
+    },
+    {
+        "Name": "Keebler s&ies cookies pecan",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 32.7,
+            "Carbs": 58.9,
+            "Calories": 549.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheeseburger",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.5,
+            "Carbs": 61.3,
+            "Calories": 502.1
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers nacho",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 25.2,
+            "Carbs": 60.0,
+            "Calories": 507.6
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers pizza",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 22.6,
+            "Carbs": 65.3,
+            "Calories": 495.8
+        }
+    },
+    {
+        "Name": "Sunshine caddies cheez-it crackers original",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 26.4,
+            "Carbs": 57.0,
+            "Calories": 511.6
+        }
+    },
+    {
+        "Name": "Keebler processor private label crackers wheat",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 10.9,
+            "Carbs": 75.7,
+            "Calories": 434.9
+        }
+    },
+    {
+        "Name": "Keebler chips deluxe minis",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 23.1,
+            "Carbs": 67.2,
+            "Calories": 501.5
+        }
+    },
+    {
+        "Name": "Keebler kblr cracker packs grill cheese on wafer",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 23.8,
+            "Carbs": 62.0,
+            "Calories": 493.8
+        }
+    },
+    {
+        "Name": "Keebler cracker packs toast & peanut butter",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 23.3,
+            "Carbs": 61.6,
+            "Calories": 493.3
+        }
+    },
+    {
+        "Name": "Keebler murray sugar free cookies shortbread",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 17.8,
+            "Carbs": 72.0,
+            "Calories": 476.2
+        }
+    },
+    {
+        "Name": "Keebler club crackers peanut butter",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 23.0,
+            "Carbs": 62.1,
+            "Calories": 491.4
+        }
+    },
+    {
+        "Name": "Keebler sugar wafers cookies strawberry",
+        "Nutrients": {
+            "Protein": 2.4,
+            "Fat": 19.7,
+            "Carbs": 73.6,
+            "Calories": 481.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it cheddar jack",
+        "Nutrients": {
+            "Protein": 10.4,
+            "Fat": 25.3,
+            "Carbs": 59.0,
+            "Calories": 505.3
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it white cheddar",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 24.4,
+            "Carbs": 61.4,
+            "Calories": 501.6
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies chips deluxe rainbow mini",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 24.7,
+            "Carbs": 67.3,
+            "Calories": 509.1
+        }
+    },
+    {
+        "Name": "Annies cookies dbl choc chip",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 26.9,
+            "Carbs": 61.5,
+            "Calories": 503.7
+        }
+    },
+    {
+        "Name": "Annies cookies choc chip",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 26.9,
+            "Carbs": 61.5,
+            "Calories": 503.7
+        }
+    },
+    {
+        "Name": "Annies cookies oatmeal raisin",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 19.2,
+            "Carbs": 69.2,
+            "Calories": 465.2
+        }
+    },
+    {
+        "Name": "Annies bkd snck crckrs chdr squares",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 23.3,
+            "Carbs": 60.0,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Annies bunny grahams snacks friends",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 15.0,
+            "Carbs": 73.3,
+            "Calories": 455.0
+        }
+    },
+    {
+        "Name": "Pills snk cookie snckrdoodle mini",
+        "Nutrients": {
+            "Protein": 3.2,
+            "Fat": 16.1,
+            "Carbs": 67.7,
+            "Calories": 428.5
+        }
+    },
+    {
+        "Name": "Annies hmgrwn org cookie bites choc chip",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 63.3,
+            "Calories": 520.3
+        }
+    },
+    {
+        "Name": "Annies bunnies bkd snck crckrs chdr",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 20.0,
+            "Carbs": 63.3,
+            "Calories": 473.2
+        }
+    },
+    {
+        "Name": "Annies bunnies bkd snck crckrs xchsy chdr",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 23.3,
+            "Carbs": 53.3,
+            "Calories": 449.7
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz caramel popcorn & cheddar",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 21.1,
+            "Carbs": 66.6,
+            "Calories": 485.9
+        }
+    },
+    {
+        "Name": "Annies bunny grahams snacks honey",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 13.3,
+            "Carbs": 66.7,
+            "Calories": 413.3
+        }
+    },
+    {
+        "Name": "Annies hmgrwn org bunny grahams bkd graham sncks halloween",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 13.6,
+            "Carbs": 72.7,
+            "Calories": 431.2
+        }
+    },
+    {
+        "Name": "Annies hmgrwn org bunny grahams bkd graham sncks honey",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 13.3,
+            "Carbs": 66.7,
+            "Calories": 413.3
+        }
+    },
+    {
+        "Name": "Annies hmgrwn org bunny grahams bkd graham sncks choc chip",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 15.0,
+            "Carbs": 73.3,
+            "Calories": 455.0
+        }
+    },
+    {
+        "Name": "Annies hmgrwn org bunny grahams bkd graham sncks choc",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 15.0,
+            "Carbs": 73.3,
+            "Calories": 455.0
+        }
+    },
+    {
+        "Name": "Mothers cookies circus animals",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 26.0,
+            "Carbs": 67.5,
+            "Calories": 520.4
+        }
+    },
+    {
+        "Name": "Murray vanilla",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 17.4,
+            "Carbs": 72.9,
+            "Calories": 464.2
+        }
+    },
+    {
+        "Name": "Annies graham crackers honey",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 9.7,
+            "Carbs": 77.4,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Keebler toasted sesame toast",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 24.3,
+            "Carbs": 62.6,
+            "Calories": 495.5
+        }
+    },
+    {
+        "Name": "Keebler licensed crackers whole grain graham",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 14.5,
+            "Carbs": 74.8,
+            "Calories": 456.5
+        }
+    },
+    {
+        "Name": "Keebler cracker packs cheddar",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 24.3,
+            "Carbs": 62.0,
+            "Calories": 497.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz cheddar/popcorn",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 21.1,
+            "Carbs": 66.6,
+            "Calories": 485.9
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers duoz cheddar jack/pretzel",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 20.6,
+            "Carbs": 65.0,
+            "Calories": 479.4
+        }
+    },
+    {
+        "Name": "Keebler town house crackers onion",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 14.8,
+            "Carbs": 72.7,
+            "Calories": 455.6
+        }
+    },
+    {
+        "Name": "Keebler town house crackers roasted garlic",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 14.9,
+            "Carbs": 72.4,
+            "Calories": 456.5
+        }
+    },
+    {
+        "Name": "Keebler club crackers cheddar",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 19.9,
+            "Carbs": 66.0,
+            "Calories": 473.9
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies fudge stripes minis",
+        "Nutrients": {
+            "Protein": 4.1,
+            "Fat": 23.2,
+            "Carbs": 69.2,
+            "Calories": 502.0
+        }
+    },
+    {
+        "Name": "Austin crackers cheese with peanut butter",
+        "Nutrients": {
+            "Protein": 9.5,
+            "Fat": 22.9,
+            "Carbs": 61.4,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Keebler club crackers original",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 22.5,
+            "Carbs": 66.1,
+            "Calories": 490.1
+        }
+    },
+    {
+        "Name": "Austin crackers pepper jack",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 23.9,
+            "Carbs": 61.1,
+            "Calories": 491.9
+        }
+    },
+    {
+        "Name": "Austin crackers pb & j",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 22.0,
+            "Carbs": 65.3,
+            "Calories": 488.4
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers sesame",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 24.3,
+            "Carbs": 62.0,
+            "Calories": 494.3
+        }
+    },
+    {
+        "Name": "Keebler toasted crackers onion",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 22.4,
+            "Carbs": 65.6,
+            "Calories": 486.8
+        }
+    },
+    {
+        "Name": "Keebler caddies cookies chocolate chip",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 28.1,
+            "Carbs": 62.8,
+            "Calories": 526.1
+        }
+    },
+    {
+        "Name": "Mothers cookies double fudge",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 21.3,
+            "Carbs": 69.7,
+            "Calories": 489.7
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies chocolate chip pecan",
+        "Nutrients": {
+            "Protein": 4.8,
+            "Fat": 31.7,
+            "Carbs": 59.2,
+            "Calories": 541.3
+        }
+    },
+    {
+        "Name": "Murray sugar free cookies pecan shortbread",
+        "Nutrients": {
+            "Protein": 5.8,
+            "Fat": 33.7,
+            "Carbs": 57.4,
+            "Calories": 556.1
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies chocolate caramel",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 21.4,
+            "Carbs": 70.8,
+            "Calories": 490.2
+        }
+    },
+    {
+        "Name": "Sunshine cheez-it crackers cheese",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 24.1,
+            "Carbs": 60.4,
+            "Calories": 493.7
+        }
+    },
+    {
+        "Name": "Keebler fudge shoppe cookies fudge dipped",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 24.8,
+            "Carbs": 68.7,
+            "Calories": 512.8
+        }
+    },
+    {
+        "Name": "Lance s&wich crackers, toasty cheddar, individually wrapped packs, s&wiches each",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 26.1,
+            "Carbs": 56.5,
+            "Calories": 495.7
+        }
+    },
+    {
+        "Name": "Annies organic white cheddar squares baked snack crackers",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 26.7,
+            "Carbs": 60.0,
+            "Calories": 520.3
+        }
+    },
+    {
+        "Name": "Pepperidge farm cookies dark chocolate",
+        "Nutrients": {
+            "Protein": 3.7,
+            "Fat": 25.9,
+            "Carbs": 59.3,
+            "Calories": 485.1
+        }
+    },
+    {
+        "Name": "Pepperidge farm dublin shortbread cookies",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 23.1,
+            "Carbs": 65.4,
+            "Calories": 485.1
+        }
+    },
+    {
+        "Name": "Pepperidge farm verona apricot raspberry thumbprint cookies",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 14.1,
+            "Carbs": 68.8,
+            "Calories": 414.5
+        }
+    },
+    {
+        "Name": "Pepperidge farm pirouette cookies, chocolate hazelnut creme filled wafers, tin",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 20.0,
+            "Carbs": 72.0,
+            "Calories": 484.0
+        }
+    },
+    {
+        "Name": "Pepperidge farm zurich sugar cookies",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 23.3,
+            "Carbs": 70.0,
+            "Calories": 516.5
+        }
+    },
+    {
+        "Name": "Pepperidge farm farmhouse thin & crispy toffee milk chocolate cookies,",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 21.4,
+            "Carbs": 67.9,
+            "Calories": 478.6
+        }
+    },
+    {
+        "Name": "Pepperidge farm farmhouse thin & crispy white chocolate chip cookies",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 28.6,
+            "Carbs": 64.3,
+            "Calories": 529.0
+        }
+    },
+    {
+        "Name": "Annies organic honey graham crackers",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 9.7,
+            "Carbs": 77.4,
+            "Calories": 422.9
+        }
+    },
+    {
+        "Name": "Annies organic cheddar bunnies baked snack crackers",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 20.0,
+            "Carbs": 60.0,
+            "Calories": 460.0
+        }
+    },
+    {
+        "Name": "Pepperidge farm verona strawberry thumbprint cookies",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 14.1,
+            "Carbs": 68.8,
+            "Calories": 414.5
+        }
+    },
+    {
+        "Name": "Annies organic cheddar bunnies baked kid snack crackers",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 20.0,
+            "Carbs": 60.0,
+            "Calories": 460.0
+        }
+    },
+    {
+        "Name": "Annies organic cheddar squares baked snack crackers",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 20.0,
+            "Carbs": 60.0,
+            "Calories": 460.0
+        }
+    },
+    {
+        "Name": "Pepperidge farm verona cherry thumbprint cookies",
+        "Nutrients": {
+            "Protein": 3.1,
+            "Fat": 14.1,
+            "Carbs": 68.8,
+            "Calories": 414.5
+        }
+    },
+    {
+        "Name": "Pepperidge farm farmhouse thin & crispy butter crisp cookies",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 28.6,
+            "Carbs": 64.3,
+            "Calories": 529.0
+        }
+    },
+    {
+        "Name": "Annies organic honey bunny grahams baked graham snacks",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 15.0,
+            "Carbs": 70.0,
+            "Calories": 441.8
+        }
+    },
+    {
+        "Name": "Annies organic extra cheesy cheddar bunnies baked snack crackers",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 26.7,
+            "Carbs": 60.0,
+            "Calories": 520.3
+        }
+    },
+    {
+        "Name": "Pepperidge farm farmhouse thin & crispy milk chocolate chip cookies",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 21.4,
+            "Carbs": 67.9,
+            "Calories": 478.6
+        }
+    },
+    {
+        "Name": "Annies homegrown organic chocolate chip cookie bites",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 26.7,
+            "Carbs": 63.3,
+            "Calories": 520.3
+        }
+    }
+]

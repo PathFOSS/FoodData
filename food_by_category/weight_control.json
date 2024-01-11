@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Mocha cappuccino flavored advanced energy meal replacement shake, mocha cappuccino",
+        "Name": "Mocha cappuccino flavored advanced energy meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Raw organic meal powder, chocolate cacao, chocolate cacao",
+        "Name": "Raw organic meal powder, chocolate cacao",
         "Nutrients": {
             "Protein": 55.6,
             "Fat": 5.6,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Vanilla meal replacement delicious protein shake, vanilla",
+        "Name": "Vanilla meal replacement delicious protein shake",
         "Nutrients": {
             "Protein": 36.1,
             "Fat": 8.3,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Caramel latte flavored advanced energy meal replacement shake, caramel latte",
+        "Name": "Caramel latte flavored advanced energy meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Keto meal balanced shake, vanilla, vanilla",
+        "Name": "Keto meal balanced shake, vanilla",
         "Nutrients": {
             "Protein": 33.3,
             "Fat": 45.8,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Vanilla cake batter keto meal shake mix, vanilla cake batter",
+        "Name": "Vanilla cake batter keto meal shake mix",
         "Nutrients": {
             "Protein": 23.1,
             "Fat": 43.2,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Original rich chocolate royale meal replacement shake mix, original rich chocolate royale",
+        "Name": "Original rich chocolate royale meal replacement shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Caffeinated mocha complete meal, caffeinated mocha",
+        "Name": "Caffeinated mocha complete meal",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 6.8,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Cocoa chocolate complete meal, cocoa chocolate",
+        "Name": "Cocoa chocolate complete meal",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 6.8,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "True vanilla complete meal, true vanilla",
+        "Name": "True vanilla complete meal",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 6.8,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Keto meal balanced shake, chocolate, chocolate",
+        "Name": "Keto meal balanced shake, chocolate",
         "Nutrients": {
             "Protein": 32.0,
             "Fat": 44.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Ketofeast caffeine free ketogenic balanced shake & meal replacement, maple, maple",
+        "Name": "Ketofeast caffeine free ketogenic balanced shake & meal replacement, maple",
         "Nutrients": {
             "Protein": 36.2,
             "Fat": 42.5,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Nature's plus, spiru-tein, high protein energy meal, chocolate",
+        "Name": "Natures plus, spiru-tein, high protein energy meal, chocolate",
         "Nutrients": {
             "Protein": 50.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Garden of life, raw meal, beyond organic snack and meal replacement, vanilla spiced",
+        "Name": "Garden of life, raw meal, beyond organic snack & meal replacement, vanilla spiced",
         "Nutrients": {
             "Protein": 42.5,
             "Fat": 6.2,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "3-2-1 plan shakes",
+        "Name": "Plan shakes",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 2.0,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Chocolate fudge brownie, chocolate fudge",
+        "Name": "Chocolate fudge brownie",
         "Nutrients": {
             "Protein": 63.2,
             "Fat": 7.9,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Advanced nutrition vanilla cream meal replacement shake, vanilla cream",
+        "Name": "Advanced nutrition vanilla cream meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Original creamy milk chocolate meal replacement shake, creamy milk chocolate",
+        "Name": "Original creamy milk chocolate meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.5,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Dark chocolate royale protein-rich shake, dark chocolate royale",
+        "Name": "Dark chocolate royale protein-rich shake",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 3.1,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Creamy milk chocolate meal replacement shake, creamy milk chocolate",
+        "Name": "Creamy milk chocolate meal replacement shake",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.3,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "A fusion of plant-based proteins + key essentials for a completely nourishing meal replacement, chocolate caramel, chocolate caramel",
+        "Name": "A fusion of plant-based proteins & key essentials for a completely nourishing meal replacement, chocolate caramel",
         "Nutrients": {
             "Protein": 44.0,
             "Fat": 15.4,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "A fusion of plant-based proteins + key essentials for a completely nourishing meal replacement, creamy vanilla bean, creamy vanilla bean",
+        "Name": "A fusion of plant-based proteins & key essentials for a completely nourishing meal replacement, creamy vanilla bean",
         "Nutrients": {
             "Protein": 44.0,
             "Fat": 15.4,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "3-2-1 plan shakes, rich chocolate royale",
+        "Name": "Plan shakes, rich chocolate royale",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 2.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Creamy mocha latte keto meal replacement shake, creamy mocha latte",
+        "Name": "Creamy mocha latte keto meal replacement shake",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.3,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Homemade vanilla shake, homemade vanilla",
+        "Name": "Homemade vanilla shake",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 3.8,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Right size, smoothie, lean cocoa bean, lean cocoa bean",
+        "Name": "Right size, smoothie, lean cocoa bean",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 10.3,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Chocolate cacao raw organic shake & meal replacement, chocolate cacao",
+        "Name": "Chocolate cacao raw organic shake & meal replacement",
         "Nutrients": {
             "Protein": 55.6,
             "Fat": 5.6,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Creamy chocolate high protein meal replacement nutrition shake, creamy chocolate",
+        "Name": "Creamy chocolate high protein meal replacement nutrition shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Meijer, slim support, powder shake mix, creamy vanilla, creamy vanilla",
+        "Name": "Meijer, slim support, powder shake mix, creamy vanilla",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 13.5,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Vanilla dr. formulated keto meal balanced shake, vanilla",
+        "Name": "Vanilla dr. formulated keto meal balanced shake",
         "Nutrients": {
             "Protein": 33.3,
             "Fat": 45.8,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Bananas & cream advanced nutrition meal replacement shake, bananas & cream",
+        "Name": "Bananas & cream advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Chocolate milkshake flavored diabetic weight loss meal replacement shake mix, chocolate milkshake",
+        "Name": "Chocolate milkshake flavored diabetic weight loss meal replacement shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 26.9,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Chocolate dr. formulated keto meal balanced shake, chocolate",
+        "Name": "Chocolate dr. formulated keto meal balanced shake",
         "Nutrients": {
             "Protein": 32.0,
             "Fat": 44.0,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Bananas & cream flavored advanced nutrition meal replacement shake, bananas & cream",
+        "Name": "Bananas & cream flavored advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Creamy mocha latte flavored keto meal replacement shake, creamy mocha latte",
+        "Name": "Creamy mocha latte flavored keto meal replacement shake",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.3,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Mocha cappuccino advanced energy meal replacement shake, mocha cappuccino",
+        "Name": "Mocha cappuccino advanced energy meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Caramel latte advanced energy meal replacement shake, caramel latte",
+        "Name": "Caramel latte advanced energy meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Creamy chocolate flavored advanced nutrition meal replacement shake, creamy chocolate",
+        "Name": "Creamy chocolate flavored advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Maple keto feast meal replacement shake, maple",
+        "Name": "Maple keto feast meal replacement shake",
         "Nutrients": {
             "Protein": 36.2,
             "Fat": 42.5,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Atkins, day break shake, strawberry, banana, strawberry, banana",
+        "Name": "Atkins, day break shake, strawberry, banana, strawberry",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.8,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Creamy milk chocolate flavored original meal replacement shake, creamy milk chocolate",
+        "Name": "Creamy milk chocolate flavored original meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.5,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Vanilla cream flavored advanced nutrition meal replacement shake, vanilla cream",
+        "Name": "Vanilla cream flavored advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Strawberry shake mix, strawberry",
+        "Name": "Strawberry shake mix",
         "Nutrients": {
             "Protein": 36.8,
             "Fat": 8.1,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Chocolate shake mix, chocolate",
+        "Name": "Chocolate shake mix",
         "Nutrients": {
             "Protein": 36.8,
             "Fat": 8.1,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Original rich chocolate royale meal replacement shake mix, rich chocolate royale",
+        "Name": "Original rich chocolate royale meal replacement shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Caramel latte advanced nutrition meal replacement shake, caramel latte",
+        "Name": "Caramel latte advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Strawberries & cream advanced nutrition meal replacement shake, strawberries & cream",
+        "Name": "Strawberries & cream advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "No sugar added milk chocolate flavored protein breakfast shake, no sugar added milk chocolate",
+        "Name": "No sugar added milk chocolate flavored protein breakfast shake",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.7,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Vanilla cappuccino flavored protein breakfast shakes, vanilla cappuccino",
+        "Name": "Vanilla cappuccino flavored protein breakfast shakes",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.7,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Chocolate delight flavored protein breakfast shake, chocolate delight",
+        "Name": "Chocolate delight flavored protein breakfast shake",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.7,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Milk chocolate flavored protein breakfast shake, milk chocolate",
+        "Name": "Milk chocolate flavored protein breakfast shake",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.7,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Chocolate flavor shake mix, chocolate",
+        "Name": "Chocolate flavor shake mix",
         "Nutrients": {
             "Protein": 36.8,
             "Fat": 8.1,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Rich chocolate royale flavored original meal replacement shake mix, rich chocolate royale",
+        "Name": "Rich chocolate royale flavored original meal replacement shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored original meal replacement shake, french vanilla",
+        "Name": "French vanilla flavored original meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Milk chocolate flavored slim support powder shake mix, milk chocolate",
+        "Name": "Milk chocolate flavored slim support powder shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Vanilla cream flavored advanced nutrition meal replacement smoothie mix, vanilla cream",
+        "Name": "Vanilla cream flavored advanced nutrition meal replacement smoothie mix",
         "Nutrients": {
             "Protein": 44.4,
             "Fat": 13.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Creamy vanilla flavored powder shake mix, creamy vanilla",
+        "Name": "Creamy vanilla flavored powder shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 13.5,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Milk chocolate flavored powder shake mix, milk chocolate",
+        "Name": "Milk chocolate flavored powder shake mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Choceur, hot cocoa drink mix, milk chocolate, milk chocolate",
+        "Name": "Choceur, hot cocoa drink mix, milk chocolate",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Keto meal probiotics fat 70%, protein 23%, carbs 7% balanced shake, vanilla, vanilla",
+        "Name": "Keto meal probiotics fat 70%, protein 23%, carbs 7% balanced shake, vanilla",
         "Nutrients": {
             "Protein": 33.3,
             "Fat": 45.8,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Keto meal probiotics fat 70%, protein 23%, carbs 7% balanced shake, chocolate, chocolate",
+        "Name": "Keto meal probiotics fat 70%, protein 23%, carbs 7% balanced shake, chocolate",
         "Nutrients": {
             "Protein": 32.0,
             "Fat": 44.0,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Strawberry keto meal powder, strawberry",
+        "Name": "Strawberry keto meal powder",
         "Nutrients": {
             "Protein": 23.8,
             "Fat": 45.2,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Creamy milk chocolate flavored meal replacement shake, creamy milk chocolate",
+        "Name": "Creamy milk chocolate flavored meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Strawberries & cream meal replacement shake, strawberries & cream",
+        "Name": "Strawberries & cream meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Nootropics shake, chocolate, chocolate",
+        "Name": "Nootropics shake, chocolate",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 3.0,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored meal replacement shake, vanilla",
+        "Name": "Vanilla flavored meal replacement shake",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.8,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Milk chocolate meal replacement, milk chocolate",
+        "Name": "Milk chocolate meal replacement",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Strawberry cream meal replacement beverage, strawberry cream",
+        "Name": "Strawberry cream meal replacement beverage",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Original french vanilla meal replacement, original french vanilla",
+        "Name": "Original french vanilla meal replacement",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Strawberries & cream flavored original meal replacement shake, strawberries & cream",
+        "Name": "Strawberries & cream flavored original meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": "Cappuccino delight flavored original meal replacement shake, cappuccino delight",
+        "Name": "Cappuccino delight flavored original meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Double chocolate chip bake shop meal replacement cookies, double chocolate chip",
+        "Name": "Double chocolate chip bake shop meal replacement cookies",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 10.8,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Original meal replacement shake mix, rich chocolate royale, rich chocolate royale",
+        "Name": "Original meal replacement shake mix, rich chocolate royale",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Advanced nutrition meal replacement smoothie mix, vanilla cream, vanilla cream",
+        "Name": "Advanced nutrition meal replacement smoothie mix, vanilla cream",
         "Nutrients": {
             "Protein": 46.1,
             "Fat": 11.5,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Advanced nutrition meal replacement smoothie mix, creamy chocolate, creamy chocolate",
+        "Name": "Advanced nutrition meal replacement smoothie mix, creamy chocolate",
         "Nutrients": {
             "Protein": 46.1,
             "Fat": 11.5,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Original meal replacement shake mix, strawberries & cream, strawberries & cream",
+        "Name": "Original meal replacement shake mix, strawberries & cream",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 11.5,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Advanced energy vanilla meal replacement shake, vanilla",
+        "Name": "Advanced energy vanilla meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Advanced nutrition strawberries & cream meal replacement shake, strawberries & cream",
+        "Name": "Advanced nutrition strawberries & cream meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Advanced energy mocha cappuccino meal replacement shake, mocha cappuccino",
+        "Name": "Advanced energy mocha cappuccino meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Naturade, total soy, meal replacement protein shake, chocolate, chocolate",
+        "Name": "Naturade, total soy, meal replacement protein shake, chocolate",
         "Nutrients": {
             "Protein": 36.1,
             "Fat": 9.7,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Naturade, total soy, meal replacement nutritious protein shake, horchata, horchata",
+        "Name": "Naturade, total soy, meal replacement nutritious protein shake, horchata",
         "Nutrients": {
             "Protein": 36.1,
             "Fat": 8.3,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Naturade, total soy, meal replacement protein shake, strawberry delight, strawberry delight",
+        "Name": "Naturade, total soy, meal replacement protein shake, strawberry delight",
         "Nutrients": {
             "Protein": 36.1,
             "Fat": 8.3,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Milk chocolate flavored slim support meal replacement shake, milk chocolate",
+        "Name": "Milk chocolate flavored slim support meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Creamy vanilla flavored slim support meal replacement shake, creamy vanilla",
+        "Name": "Creamy vanilla flavored slim support meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Rich chocolate slim support meal replacement shake, rich chocolate",
+        "Name": "Rich chocolate slim support meal replacement shake",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Original meal replacement shake mix, french vanilla, french vanilla",
+        "Name": "Original meal replacement shake mix, french vanilla",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 13.5,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Slimsupport protein 10 g powder shake mix, creamy vanilla, creamy vanilla",
+        "Name": "Slimsupport protein powder shake mix, creamy vanilla",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 13.5,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Slimsupport protein 10 g powder shake mix, milk chocolate, milk chocolate",
+        "Name": "Slimsupport protein powder shake mix, milk chocolate",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 15.4,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Protein 9 g nutritional drink mix, vanilla, vanilla",
+        "Name": "Protein nutritional drink mix, vanilla",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 10.0,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Slimsupport protein 10 g meal replacement shake, milk chocolate, milk chocolate",
+        "Name": "Slimsupport protein meal replacement shake, milk chocolate",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Slimsupport protein 10 g meal replacement shakes, creamy vanilla, creamy vanilla",
+        "Name": "Slimsupport protein meal replacement shakes, creamy vanilla",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Slimsupport protein 10 g meal replacement shake, rich chocolate, rich chocolate",
+        "Name": "Slimsupport protein meal replacement shake, rich chocolate",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Mocha cappuccino flavor advanced energy meal replacement shake, mocha cappuccino",
+        "Name": "Mocha cappuccino flavor advanced energy meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Protein 10 g meal replacement shakes, strawberries & cream, strawberries & cream",
+        "Name": "Protein meal replacement shakes, strawberries & cream",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Protein 10 g meal replacement shakes, creamy milk chocolate, creamy milk chocolate",
+        "Name": "Protein meal replacement shakes, creamy milk chocolate",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "Protein 15 g meal replacement shakes, vanilla, vanilla",
+        "Name": "Protein meal replacement shakes, vanilla",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.8,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Original meal replacement shake mix, creamy milk chocolate, creamy milk chocolate",
+        "Name": "Original meal replacement shake mix, creamy milk chocolate",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 11.5,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Protein 15 g meal replacement shakes, chocolate, chocolate",
+        "Name": "Protein meal replacement shakes, chocolate",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.8,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "Protein 10 g meal replacement shakes, french vanilla, french vanilla",
+        "Name": "Protein meal replacement shakes, french vanilla",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Protein 10 g meal replacement shakes, dark chocolate royale, dark chocolate royale",
+        "Name": "Protein meal replacement shakes, dark chocolate royale",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Vanilla latte flavor lean shake, vanilla latte",
+        "Name": "Vanilla latte flavor lean shake",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.4,

@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Healthy choice fudge yogurt bar, 15 fl oz",
+        "Name": "Healthy choice fudge yogurt bar",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 2.3,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate and vanilla",
+        "Name": "Snack pack pudding chocolate & vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.4,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Snack pack squeez n go pudding pouch vanilla, 12 oz",
+        "Name": "Snack pack squeez n go pudding pouch vanilla",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Reddi wip whipped cream for fruit, 6.5 oz",
+        "Name": "Reddi wip whipped cream for fruit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Snack pack lemon pudding cups, 4 count",
+        "Name": "Snack pack lemon pudding cups, count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Snack pack sugar free gel strawberry and orange, 13 oz",
+        "Name": "Snack pack sugar free gel strawberry & orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Snack pack gel sugar free cherry, 13 oz",
+        "Name": "Snack pack gel sugar free cherry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding merengue pie, 13 oz",
+        "Name": "Snack pack pudding merengue pie",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Reddi wip original, 15 oz",
+        "Name": "Reddi wip original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Healthy choice fudge bar, 2.5 fl oz",
+        "Name": "Healthy choice fudge bar",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 2.3,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Healthy choice pomegranate blueberry yogurt bars, 3 fl oz",
+        "Name": "Healthy choice pomegranate blueberry yogurt bars",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 1.5,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Healthy choice stawberrry yogurt bars, 3 fl oz",
+        "Name": "Healthy choice stawberrry yogurt bars",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 1.5,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Snack pack chocolate naturals pudding cups, 6 count",
+        "Name": "Snack pack chocolate naturals pudding cups, count",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.3,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Snack pack vanilla naturals pudding cups, 6 count",
+        "Name": "Snack pack vanilla naturals pudding cups, count",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 3.3,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Snack pack chocolate pudding cups family pack, 12 count, 39 oz",
+        "Name": "Snack pack chocolate pudding cups family pack, count",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Super snack pack butterscotch pudding cups, 6 count, 33 oz",
+        "Name": "Super snack pack butterscotch pudding cups, count",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 2.6,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Healthy choice organic fudge bar, 54 fl oz",
+        "Name": "Healthy choice organic fudge bar",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 1.4,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Marie callenders single serve banana cream pie, 7.7 oz",
+        "Name": "Marie callenders single serve banana cream pie",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 14.7,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding blue berry muffin, 13 oz",
+        "Name": "Snack pack pudding blue berry muffin",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Healthy choice strawberry pomegranate blueberry, 54 fl oz",
+        "Name": "Healthy choice strawberry pomegranate blueberry",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 1.5,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Swiss miss banana cream pudding, 24 oz",
+        "Name": "Swiss miss banana cream pudding",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 2.6,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Swiss miss old fashioned tapioca pudding, 24 oz",
+        "Name": "Swiss miss old fashioned tapioca pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.1,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Swiss miss classic butterscotch pudding, 24 oz",
+        "Name": "Swiss miss classic butterscotch pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.1,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Swiss miss chocolate banana pudding, 24 oz",
+        "Name": "Swiss miss chocolate banana pudding",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 2.6,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Cold fudge for ice cream cakes, #10 can, 96 oz",
+        "Name": "Cold fudge for ice cream cakes, can",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 13.9,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Caramel topping, #10 can, 46 oz",
+        "Name": "Caramel topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.6,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Premium caramel topping, #5 can, 62 oz",
+        "Name": "Premium caramel topping, can",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Tapioca pudding, 3.5 oz, 14 oz",
+        "Name": "Tapioca pudding,",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 3.5,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Sugar free/fat free chocolate fudge. #10 can, 96 oz",
+        "Name": "Sugar free/fat free chocolate fudge. can",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Butterscotch cone coating, #10 can, 110 oz",
+        "Name": "Butterscotch cone coating, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 58.1,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Old fashion chocolate fudge, #10 can, 127 oz",
+        "Name": "Old fashion chocolate fudge, can",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 13.9,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Swiss miss chocolate vanilla swirl pudding, 24 oz",
+        "Name": "Swiss miss chocolate vanilla swirl pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.1,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Caramel topping, #10 can, 96 oz",
+        "Name": "Caramel topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.6,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Bertolli desserts lemoncello, 6 oz",
+        "Name": "Bertolli desserts lemoncello",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 8.2,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Snack pack brownie caramel swirl pudding, 13 oz",
+        "Name": "Snack pack brownie caramel swirl pudding",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate caramel, 13 oz",
+        "Name": "Snack pack pudding chocolate caramel",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding caramel cream, 13 oz",
+        "Name": "Snack pack pudding caramel cream",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Snack pack milk chocolate and chocolate fudge/milk chocolate swirl pudding cups family pack, 12 count, 39 oz",
+        "Name": "Snack pack milk chocolate & chocolate fudge/milk chocolate swirl pudding cups family pack, count",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Snack pack chocolate and butterscotch pudding cups family pack, 12 count, 39 oz",
+        "Name": "Snack pack chocolate & butterscotch pudding cups family pack, count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Snack pack chocolate and vanilla pudding cups family pack, 12 count, 39 oz",
+        "Name": "Snack pack chocolate & vanilla pudding cups family pack, count",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Snack pack fat free chocolate pudding family pack, 39 oz",
+        "Name": "Snack pack fat free chocolate pudding family pack",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Snack pack sugar-free pudding chocolate and vanilla family pack, 12 count, 39 oz",
+        "Name": "Snack pack sugar-free pudding chocolate & vanilla family pack, count",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 3.8,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding apple pie a la mode, 13 oz",
+        "Name": "Snack pack pudding apple pie a la mode",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 3.3,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding frosted sugar cookie, 13 oz",
+        "Name": "Snack pack pudding frosted sugar cookie",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate cupcake, 13 oz",
+        "Name": "Snack pack pudding chocolate cupcake",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Super snack pack vanilla pudding cups, 6 count, 33 oz",
+        "Name": "Super snack pack vanilla pudding cups, count",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 2.9,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Snack pack chocolate pudding, 33 oz",
+        "Name": "Snack pack chocolate pudding",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 2.2,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Snack pack squeez n go pudding pouch club pack chocolate, 12 oz",
+        "Name": "Snack pack squeez n go pudding pouch club pack chocolate",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Rich n creamy chocolate fudge - #10 cans, 96 oz",
+        "Name": "Rich n creamy chocolate fudge - cans",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 10.8,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate fudge bar, 6 oz",
+        "Name": "Snack pack pudding chocolate fudge bar",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate caramel bar, 6 oz",
+        "Name": "Snack pack pudding chocolate caramel bar",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding tapioca, 13 oz",
+        "Name": "Snack pack pudding tapioca",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 3.3,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding sugar free chocolate, 13 oz",
+        "Name": "Snack pack pudding sugar free chocolate",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 3.3,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding sugar free vanilla, 13 oz",
+        "Name": "Snack pack pudding sugar free vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding fat free chocolate, 13 oz",
+        "Name": "Snack pack pudding fat free chocolate",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding sugar free caramel, 13 oz",
+        "Name": "Snack pack pudding sugar free caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding triples chocolate vanilla, 13 oz",
+        "Name": "Snack pack pudding triples chocolate vanilla",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.2,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Reddi wip caramel topping, 6.5 oz",
+        "Name": "Reddi wip caramel topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.5,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Reddi wip real cream whipped topping, 26 oz",
+        "Name": "Reddi wip real cream whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Reddi wip coffee french vanilla real cream whipped topping, 6.5 oz",
+        "Name": "Reddi wip coffee french vanilla real cream whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Reddi wip hazelnut real cream whipped topping, 6.5 oz",
+        "Name": "Reddi wip hazelnut real cream whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Reddi-wip chocolate whipped dairy cream topping, 6.5 oz., 6.5 oz",
+        "Name": "Reddi-wip chocolate whipped dairy cream topping, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Non-dairy whipped topping, 15 oz, 15 oz",
+        "Name": "Non-dairy whipped topping,",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 18.8,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Birthday cake confetti cone coating, 116 oz",
+        "Name": "Birthday cake confetti cone coating",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 47.1,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Super snack pack chocolate vanilla pudding cups, 6 count, 33 oz",
+        "Name": "Super snack pack chocolate vanilla pudding cups, count",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 2.9,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Healthy choice premium mocha swirl bars, 15 fl oz",
+        "Name": "Healthy choice premium mocha swirl bars",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.6,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Healthy choice fudge bars, 54 fl oz",
+        "Name": "Healthy choice fudge bars",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 2.0,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Bertolli desserts triple chocolate strata, 6 oz",
+        "Name": "Bertolli desserts triple chocolate strata",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 10.6,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding with swirl flavors, 13 oz",
+        "Name": "Snack pack pudding with swirl flavors",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.8,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding cinnamon roll, 13 oz",
+        "Name": "Snack pack pudding cinnamon roll",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Snack pack strawberry orange gel, 19.5 oz",
+        "Name": "Snack pack strawberry orange gel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Snack pack seasonal flavor pudding, 13 oz",
+        "Name": "Snack pack seasonal flavor pudding",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.2,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding fat free tapioca, 13 oz",
+        "Name": "Snack pack pudding fat free tapioca",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Profiterolesproduced according to the traditional method, typical of the artisanal italian baker.using simple ingredients: cream puffs, cocoa and cream.",
+        "Name": "Profiterolesproduced according to the traditional method, typical of the artisanal italian baker.using simple ingredients: cream puffs, cocoa & cream.",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 16.8,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Grandmother's cake",
+        "Name": "Gr&mothers cake",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 13.0,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Smucker 7.25 ounce magic shell caramel",
+        "Name": "Smucker ounce magic shell caramel",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 48.6,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Smucker 11.75 ounce sugar free caramel topping",
+        "Name": "Smucker ounce sugar free caramel topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Smucker 15.5 ounce hot fudge microwave squeeze",
+        "Name": "Smucker ounce hot fudge microwave squeeze",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 10.3,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Sp pdg ntrl van 8/6/3.75z",
+        "Name": "Sp pdg ntrl van",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 3.3,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Sp hnt pdg chc van fmly pk 6/12/3.2",
+        "Name": "Sp hnt pdg chc van fmly pk",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Sp hnt pdg bnan crm pie 12/4/3.25z",
+        "Name": "Sp hnt pdg bnan crm pie",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Rdw whp top ff 12/6.5z",
+        "Name": "Rdw whp top ff",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Rdw whp top xtra crmy 12/13z",
+        "Name": "Rdw whp top xtra crmy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Snack pack gel strawberry, 13 oz",
+        "Name": "Snack pack gel strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Snack pack juicy gels strawberry and orange, 13 oz",
+        "Name": "Snack pack juicy gels strawberry & orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Sliced strawberry topping, wide-mouth jugs, 118 oz",
+        "Name": "Sliced strawberry topping, wide-mouth jugs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Blueberry topping, wide-mouth jugs, 122 oz",
+        "Name": "Blueberry topping, wide-mouth jugs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Raspberry topping, wide-mouth jugs, 122 oz",
+        "Name": "Raspberry topping, wide-mouth jugs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Cherry topping, wide-mouth jugs, 123.4 oz",
+        "Name": "Cherry topping, wide-mouth jugs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Sweet & silky chocolate syrup - #10 can, 96 oz",
+        "Name": "Sweet & silky chocolate syrup - can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Black raspberry topping, wide-mouth jug, 123 oz",
+        "Name": "Black raspberry topping, wide-mouth jug",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Strawberry sundae bar, pouch, 59 oz",
+        "Name": "Strawberry sundae bar, pouch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Pineapple topping, #5 can, 53 oz",
+        "Name": "Pineapple topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Snack pack strawberry gels, 33 oz",
+        "Name": "Snack pack strawberry gels",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Snack pack lemon lime gels, 33 oz",
+        "Name": "Snack pack lemon lime gels",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Strawberry gels, 3.5 oz, 14 oz",
+        "Name": "Strawberry gels,",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Orange/strawberry gels, 3.5 oz, 14 oz",
+        "Name": "Orange/strawberry gels,",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Snack pack naturals pudding chocolate vanilla swirl, 22.5 oz",
+        "Name": "Snack pack naturals pudding chocolate vanilla swirl",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.3,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Swiss miss creamy vanilla pudding, 24 oz",
+        "Name": "Swiss miss creamy vanilla pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.1,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Swiss miss creamy milk chocolate pudding, 24 oz",
+        "Name": "Swiss miss creamy milk chocolate pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.1,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Swiss miss triple chocolate dream pudding, 24 oz",
+        "Name": "Swiss miss triple chocolate dream pudding",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.5,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Chocolate pudding, 3.5 oz, 3.5 oz",
+        "Name": "Chocolate pudding,",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Caramel fudge, #10 can, 138 oz",
+        "Name": "Caramel fudge, can",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.8,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Butterscotch topping, #5 can, 64 oz",
+        "Name": "Butterscotch topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Marshmallow topping, #5 can, 36 oz",
+        "Name": "Marshmallow topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Chocolate cone coating, #10 can, 109 oz",
+        "Name": "Chocolate cone coating, can",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 59.4,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Marshmallow concentrate topping, tub, 3 lb",
+        "Name": "Marshmallow concentrate topping, tub",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Chocolate fat-free pudding, 3.5 oz, 14 oz",
+        "Name": "Chocolate fat-free pudding,",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Mellocream chocolate fudge, #10 can, 127 oz",
+        "Name": "Mellocream chocolate fudge, can",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 12.2,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Cherry cone coating, #10 can, 108 oz",
+        "Name": "Cherry cone coating, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 64.5,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Sweet cream caramel, dulce de leche, #10 can, 96 oz",
+        "Name": "Sweet cream caramel, dulce de leche, can",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.8,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Milk chocolate fudge, #10 can, 127 oz",
+        "Name": "Milk chocolate fudge, can",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 8.1,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Butterscotch fudge topping, #10 can, 96 oz",
+        "Name": "Butterscotch fudge topping, can",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate fudge, 13 oz",
+        "Name": "Snack pack pudding chocolate fudge",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.2,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding milk chocolate variety, 13 oz",
+        "Name": "Snack pack pudding milk chocolate variety",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Walnut sundae topping, wide-mouth jugs, 115 oz",
+        "Name": "Walnut sundae topping, wide-mouth jugs",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 27.0,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Chocolate enrober coating, 123 oz",
+        "Name": "Chocolate enrober coating",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 35.3,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding chocolate, 13 oz",
+        "Name": "Snack pack pudding chocolate",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.7,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding vanilla, 13 oz",
+        "Name": "Snack pack pudding vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Snack pack pudding butter scotch, 13 oz",
+        "Name": "Snack pack pudding butter scotch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Chocolate pudding, 3.5 oz, 14 oz",
+        "Name": "Chocolate pudding,",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 2.0,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Butterscotch pudding, 3.5 oz, 14 oz",
+        "Name": "Butterscotch pudding,",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.5,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Reddi wip real cream whipped topping, 6.5 oz",
+        "Name": "Reddi wip real cream whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Reddi-wip extra creamy whipped dairy cream topping, 6.5 oz., 6.5 oz",
+        "Name": "Reddi-wip extra creamy whipped dairy cream topping, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Reddi-wip original whipped dairy cream topping, 13 oz., 13 oz",
+        "Name": "Reddi-wip original whipped dairy cream topping, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "Reddi wip real cream, 15 oz",
+        "Name": "Reddi wip real cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "1825: donuts, cake, powdered sugar, individually wrapped. kosher: ou-d contains egg, milk, soy, and wheat ingredients. this product is processed in a facility that produces products with coconuts.",
+        "Name": "Donuts, cake, powdered sugar, individually wrapped. kosher: ou-d contains egg, milk, soy, & wheat ingredients. this product is processed in a facility that produces products with coconuts.",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 21.1,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "2003: breakfast buns, whole grain, reduced fat, fortified, individually wrapped, 60/3oz. kosher ou-d.",
+        "Name": "Breakfast buns, whole grain, reduced fat, fortified, individually wrapped, kosher ou-d.",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.8,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "7205: croissants, strawberry cheese filled, freezer-to-oven. contains egg, milk, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
+        "Name": "Croissants, strawberry cheese filled, freezer-to-oven. contains egg, milk, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 15.2,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "1717: mini breakfast bites, glazed, whole grain, 4 pack. kosher ou-d.",
+        "Name": "Mini breakfast bites, glazed, whole grain, pack. kosher ou-d.",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 12.8,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "1925: donuts, crispy king, yeast raised, thaw & finish",
+        "Name": "Donuts, crispy king, yeast raised, thaw & finish",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 20.0,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "4124: croissant, gourmet, chocolate",
+        "Name": "Croissant, gourmet, chocolate",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "1939: donuts, wg, chocolate enrobed, iw.  kosher ou-d. 2 grain equivalent.",
+        "Name": "Donuts, wg, chocolate enrobed, iw. kosher ou-d. grain equivalent.",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 19.8,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "2612: paczki, apple. kosher ou-d",
+        "Name": "Paczki, apple. kosher ou-d",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "2613: paczki, blueberry. kosher ou-d.",
+        "Name": "Paczki, blueberry. kosher ou-d.",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "7207: croissants, almond filled, freezer-to-oven. contains almond, egg, and milk ingredients. this product is processed on a line that produces products with pecans and sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
+        "Name": "Croissants, almond filled, freezer-to-oven. contains almond, egg, & milk ingredients. this product is processed on a line that produces products with pecans & sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.2,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "2614: paczki, raspberry. kosher ou-d.",
+        "Name": "Paczki, raspberry. kosher ou-d.",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "1879: donuts, whole grain, glazed cake, reduced fat, fortified, individually wrapped. kosher ou-d.",
+        "Name": "Donuts, whole grain, glazed cake, reduced fat, fortified, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 16.5,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "1998: breakfast bun, whole grain, glazed, extended shelf life, individually wrapped. produced in a nut free facility.",
+        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped. produced in a nut free facility.",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 20.9,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1979: breakfast bun, french toast, whole grain, individually wrapped.  produced in a nut-free facility.",
+        "Name": "This product has been discontinued. breakfast bun, french toast, whole grain, individually wrapped. produced in a nut-free facility.",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.8,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1801: donuts, cinnamon cake, individually wrapped. contains egg, milk, soy, and wheat ingredients. this product is processed in a facility that produces products with coconuts.",
+        "Name": "This product has been discontinued. donuts, cinnamon cake, individually wrapped. contains egg, milk, soy, & wheat ingredients. this product is processed in a facility that produces products with coconuts.",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 27.4,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 2139: donuts, whole grain, yeast raised, reduced fat, fortified, individually wrapped. kosher ou-d.",
+        "Name": "This product has been discontinued. donuts, whole grain, yeast raised, reduced fat, fortified, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 11.8,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "7217: croffin, raspberry cheese, freezer-to-oven. contains egg, milk, and wheat ingredients. this product is processed in a facility that produces products with almonds, pecans and sesame seeds, and soy.",
+        "Name": "Croffin, raspberry cheese, freezer-to-oven. contains egg, milk, & wheat ingredients. this product is processed in a facility that produces products with almonds, pecans & sesame seeds, & soy.",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 16.8,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "2610: paczki, lemon kosher ou-d.",
+        "Name": "Paczki, lemon kosher ou-d.",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "2005: donuts, glazed yeast ring, individually wrapped.",
+        "Name": "Donuts, glazed yeast ring, individually wrapped.",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 17.9,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "2615: paczki, strawberry. kosher ou-d",
+        "Name": "Paczki, strawberry. kosher ou-d",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1808: honey bun, capt'n gregory fortified, individually wrapped",
+        "Name": "This product has been discontinued. honey bun, capt& gregory fortified, individually wrapped",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 21.1,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "7206: croissants, chocolate filled, freezer-to-oven. contains egg, milk, soy, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seeds. this product is kosher: kof-k-d",
+        "Name": "Croissants, chocolate filled, freezer-to-oven. contains egg, milk, soy, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seeds. this product is kosher: kof-k-d",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 21.2,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1810: donuts, powdered sugar, individually wrapped. contains egg, milk, soy, and wheat ingredients. this product is processed in a facility that produces products with coconuts.",
+        "Name": "This product has been discontinued. donuts, powdered sugar, individually wrapped. contains egg, milk, soy, & wheat ingredients. this product is processed in a facility that produces products with coconuts.",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 21.0,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "1921: donuts, whole grain, powdered sugar cake, reduced fat, fortified, individually wrapped. they are kosher ou-d.",
+        "Name": "Donuts, whole grain, powdered sugar cake, reduced fat, fortified, individually wrapped. they are kosher ou-d.",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 15.6,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "7223: croffin, almond cheese, freezer-to-oven.  contains egg, milk, and wheat ingredients. this product is processed in a facility that produces products with almonds, pecans and sesame seeds, and soy.",
+        "Name": "Croffin, almond cheese, freezer-to-oven. contains egg, milk, & wheat ingredients. this product is processed in a facility that produces products with almonds, pecans & sesame seeds, & soy.",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.9,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1814: breakfast buns, cinnamon swirl, bulk. kosher ou-d. contains egg, milk, soy, and wheat ingredients. this product is processed in a facility that produces products with coconuts.",
+        "Name": "This product has been discontinued. breakfast buns, cinnamon swirl, bulk. kosher ou-d. contains egg, milk, soy, & wheat ingredients. this product is processed in a facility that produces products with coconuts.",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 16.9,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "2026: donuts, assorted cake, bulk. kosher ou-d.",
+        "Name": "Donuts, assorted cake, bulk. kosher ou-d.",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 21.0,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "2609: paczki, bavarian kosher ou-d",
+        "Name": "Paczki, bavarian kosher ou-d",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "7212: croissants, mini, chocolate filled, freezer-to-oven.contains egg, milk, soy, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seeds. kosher: kof-k-d",
+        "Name": "Croissants, mini, chocolate filled, freezer-to-oven.contains egg, milk, soy, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seeds. kosher: kof-k-d",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 20.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "2001: donuts, whole grain, glazed yeast ring, reduced fat, fortified, individually wrapped.",
+        "Name": "Donuts, whole grain, glazed yeast ring, reduced fat, fortified, individually wrapped.",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 10.3,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "1816: breakfast buns, individually wrapped. kosher ou-d.",
+        "Name": "Breakfast buns, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 21.2,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "7204: croissants, filled, farmer's cheese, freezer-to-oven. contains egg, milk, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
+        "Name": "Croissants, filled, farmers cheese, freezer-to-oven. contains egg, milk, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-d",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 15.2,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "7215: croissant, chocolate & almond filled, freezer-to-oven. contains egg, milk, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seeds. this product is processed in a facility that produces products with soy.",
+        "Name": "Croissant, chocolate & almond filled, freezer-to-oven. contains egg, milk, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seeds. this product is processed in a facility that produces products with soy.",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 23.2,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "7214: danish, almond filled, mini, freezer-to-oven. contains almond, egg, milk, and wheat ingredients. this product is processed on a line that produces products with pecans and sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-dinstructions",
+        "Name": "Danish, almond filled, mini, freezer-to-oven. contains almond, egg, milk, & wheat ingredients. this product is processed on a line that produces products with pecans & sesame seeds. this product is processed in a facility that produces products with soy. kosher: kof-k-dinstructions",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 20.9,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "1716: mini breakfast bites, wg, apple, 4 pack. kosher ou-d. 2 grain equivalent.",
+        "Name": "Mini breakfast bites, wg, apple, pack. kosher ou-d. grain equivalent.",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 12.8,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "7201: croissants, caramel apple filled, freezer-to-oven. contains egg, milk, soy, and wheat ingredients. this product is processed on a line that produces products with almonds and pecans and sesame seed. kosher: kof-k-d",
+        "Name": "Croissants, caramel apple filled, freezer-to-oven. contains egg, milk, soy, & wheat ingredients. this product is processed on a line that produces products with almonds & pecans & sesame seed. kosher: kof-k-d",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 15.2,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "1856: breakfast buns, whole grain, reduced fat, fortified, individually wrapped. kosher ou-d.",
+        "Name": "Breakfast buns, whole grain, reduced fat, fortified, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 11.6,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1992: donuts, assorted cake, pixie, bulk-glazed, cinnamon, powdered.",
+        "Name": "This product has been discontinued. donuts, assorted cake, pixie, bulk-glazed, cinnamon, powdered.",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.2,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1915: donuts, whole grain, powdered sugar cake, reduced fat, fortified, individually wrapped. kosher ou-d.",
+        "Name": "This product has been discontinued. donuts, whole grain, powdered sugar cake, reduced fat, fortified, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.5,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "2134: apple fritter, individually wrapped. kosher ou-d.",
+        "Name": "Apple fritter, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 21.2,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "1932: donuts, whole grain, powdered sugar, iw.  kosher ou-d. 2 grain equivalent.",
+        "Name": "Donuts, whole grain, powdered sugar, iw. kosher ou-d. grain equivalent.",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 14.3,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "1949: breakfast buns, whole grain, reduced fat, fortified, individually wrapped. kosher ou-d.",
+        "Name": "Breakfast buns, whole grain, reduced fat, fortified, individually wrapped. kosher ou-d.",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "This product has been discontinued. 1851: donuts, yeast, glazed, bulk. kosher ou-d.",
+        "Name": "This product has been discontinued. donuts, yeast, glazed, bulk. kosher ou-d.",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 21.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Donuts, whole grain, powdered sugar, individually wrapped, 4.25\"\" x 1.25\"\"",
+        "Name": "Donuts, whole grain, powdered sugar, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 14.3,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Mini breakfast bites, glazed, whole grain, 4 pack",
+        "Name": "Mini breakfast bites, glazed, whole grain, pack",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 12.8,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Croissant, gourmet, chocolate, 6\"\" x 4\"\"",
+        "Name": "Croissant, gourmet, chocolate",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, chocolate enrobed, individually wrapped, 4.25\"\" x 1.25\"\"",
+        "Name": "Donut, whole grain, chocolate enrobed, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 19.8,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped, 3\"\"",
+        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 20.9,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Croissants, filled, farmer's cheese, freezer-to-oven",
+        "Name": "Croissants, filled, farmers cheese, freezer-to-oven",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 15.2,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Mini breakfast bites, whole grain, apple, 4 pack",
+        "Name": "Mini breakfast bites, whole grain, apple, pack",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 12.8,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, powdered sugar, individually wrapped, 4.25\"\" x 1.25\"\"",
+        "Name": "Donut, whole grain, powdered sugar, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 14.3,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, chocolate cake, glazed, individually wrapped, 4.25\"\" x 1.25\"\"",
+        "Name": "Donut, whole grain, chocolate cake, glazed, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 14.3,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, cake glazed, individually wrapped, 4.25\"\" x 1.25\"\"",
+        "Name": "Donut, whole grain, cake glazed, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 13.2,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Paczki, lemon, retail, 4 pack, 4\"\" x 2\"\"",
+        "Name": "Paczki, lemon, retail, pack",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 19.2,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, individually wrapped, 3.75\"\" x 1.75\"\"",
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.6,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Paczki, raspberry, retail, 4 pack, 4\"\" x 2\"\"",
+        "Name": "Paczki, raspberry, retail, pack",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 12.1,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Paczki, bavarian, retail, 4 pack, 4\"\" x 2\"\"",
+        "Name": "Paczki, bavarian, retail, pack",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 19.2,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Paczki, strawberry, retail, 4 pack",
+        "Name": "Paczki, strawberry, retail, pack",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 17.2,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, individually wrapped, 3.6\"\" x 1.7\"\"",
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 11.3,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "Paczki, apple, retail, 4 pack",
+        "Name": "Paczki, apple, retail, pack",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 17.2,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Paczki, cream cheese, retail, 4 pack, 4\"\" x 2\"\"",
+        "Name": "Paczki, cream cheese, retail, pack",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 14.1,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "80ct coco chip bites",
+        "Name": "Coco chip bites",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 11.6,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Strawberry bites (70 count)",
+        "Name": "Strawberry bites count)",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 10.9,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Apple fritter, whole grain, individually wrapped, 4\"\"",
+        "Name": "Apple fritter, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 21.2,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Chocolate swirls, whole grain, individually wrapped, 3.75\"\" x 1.75\"\"",
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.5,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, bulk, 3.75\"\" x 1.75\"\"",
+        "Name": "Cinnamon swirls, whole grain, bulk",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.6,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Senor gusto caramel flan 8oz",
+        "Name": "Senor gusto caramel flan",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 3.5,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Chocolate swirls, whole grain, individually wrapped, 3.6\"\" x 1.7\"\"",
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 10.8,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Mini donuts, whole grain, powdered sugar, 6 pack",
+        "Name": "Mini donuts, whole grain, powdered sugar, pack",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 12.1,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Mini donuts, whole grain, chocolate enrobed, 6 pack",
+        "Name": "Mini donuts, whole grain, chocolate enrobed, pack",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 19.8,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll, whole grain, individually wrapped, 4\" x 2.25\"",
+        "Name": "Cinnamon roll, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 10.6,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Pioneer french doughnut and sopaipilla mix",
+        "Name": "Pioneer french doughnut & sopaipilla mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Croffin, cinnamon, freezer-to-oven, 3\" x 2.5\"",
+        "Name": "Croffin, cinnamon, freezer-to-oven",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 15.9,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Morrison's sopapilla mix",
+        "Name": "Morrisons sopapilla mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll, whole grain, individually wrapped, 3.75\" x 2\"",
+        "Name": "Cinnamon roll, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 9.9,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Sour patch variegate raspberry 2lb",
+        "Name": "Sour patch variegate raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 34.3,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "Lakeview farms rainbow parfait 22oz",
+        "Name": "Lakeview farms rainbow parfait",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Lakeview farms strawberry fruit gelatin 22oz",
+        "Name": "Lakeview farms strawberry fruit gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Senor rico oven baked original flan 4.5oz",
+        "Name": "Senor rico oven baked original flan",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.0,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Lakeview farms rainbow fruit gelatin 22oz",
+        "Name": "Lakeview farms rainbow fruit gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Senor rico gelatin 12pk3.5oz",
+        "Name": "Senor rico gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "Luisa's assorted gelatin funpack",
+        "Name": "Luisas assorted gelatin funpack",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Senor gusto rice pudding 8oz",
+        "Name": "Senor gusto rice pudding",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.0,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Lakeview farms tapioca pudding 15oz",
+        "Name": "Lakeview farms tapioca pudding",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 2.0,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Lakeview farms orange gelatin 20oz",
+        "Name": "Lakeview farms orange gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 1.0,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Lakeview farms strawberry parfait 20oz",
+        "Name": "Lakeview farms strawberry parfait",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Lakeview farms sugar free gelatin 12pk3.25oz",
+        "Name": "Lakeview farms sugar free gelatin",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, individually wrapped, 3.6\" x 1.7\"",
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 11.3,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "Chocolate swirls, whole grain, individually wrapped, 3.6\" x 1.7\"",
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 10.8,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, cake glazed, individually wrapped, 4.25\" x 1.25\"",
+        "Name": "Donut, whole grain, cake glazed, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 13.2,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, powdered sugar, individually wrapped, 4.25\" x 1.25\"",
+        "Name": "Donut, whole grain, powdered sugar, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 14.3,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Apple fritter bun, whole grain, individually wrapped, 4\"",
+        "Name": "Apple fritter bun, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 21.2,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, individually wrapped, 3.75\" x 1.75\"",
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.6,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Croissant, gourmet, chocolate, 6\" x 4\"",
+        "Name": "Croissant, gourmet, chocolate",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Chocolate swirls, whole grain, individually wrapped, 3.75\" x 1.75\"",
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.5,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, chocolate enrobed, individually wrapped, 4.25\" x 1.25\"",
+        "Name": "Donut, whole grain, chocolate enrobed, individually wrapped",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 19.8,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped, 3\"",
+        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 20.9,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirls, whole grain, bulk, 3.75\" x 1.75\"",
+        "Name": "Cinnamon swirls, whole grain, bulk",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.6,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Donut, whole grain, chocolate cake, glazed, individually wrapped, 4.25\" x 1.25\"",
+        "Name": "Donut, whole grain, chocolate cake, glazed, individually wrapped",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 13.2,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Senor rico tres leches flan 4.5oz with milk, eggs, and cream",
+        "Name": "Senor rico tres leches flan with milk, eggs, & cream",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 4.7,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Cherrymoji (black cherry) froot jooce 100% frozen juice cup",
+        "Name": "Cherrymoji froot jooce 100% frozen juice cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Hbd2u (mango) froot jooce 100% frozen juice cup",
+        "Name": "Froot jooce 100% frozen juice cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Berry america (strawberry) froot jooce 100% frozen juice cup",
+        "Name": "Berry america froot jooce 100% frozen juice cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Berry america (strawberry) 100% frozen fruit juice cup",
+        "Name": "Berry america 100% frozen fruit juice cup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Snack pack banana cream pie pudding cups, 4 count",
+        "Name": "Snack pack banana cream pie pudding cups, count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.7,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Senor rico sugar free gelatin 12pk3.25oz",
+        "Name": "Senor rico sugar free gelatin",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Reddi-wip fat free whipped dairy cream topping, 6.5 oz.",
+        "Name": "Reddi-wip fat free whipped dairy cream topping, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Reddi-wip extra creamy whipped dairy cream topping, 13 oz.",
+        "Name": "Reddi-wip extra creamy whipped dairy cream topping, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Inactive - breakfast bun, french toast, whole grain, individually wrapped, 3\"",
+        "Name": "Inactive - breakfast bun, french toast, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.8,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll, whole grain, individually wrapped, 3.3\" x 1.2\"",
+        "Name": "Cinnamon roll, whole grain, individually wrapped",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 9.9,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Inactive - honey bun, capt'n gregory fortified, individually wrapped",
+        "Name": "Inactive - honey bun, capt& gregory fortified, individually wrapped",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 21.1,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Lakeview farms chocolate pudding 15oz",
+        "Name": "Lakeview farms chocolate pudding",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 2.0,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Lakeview farms orange fruit gelatin 22oz",
+        "Name": "Lakeview farms orange fruit gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Lakeview farms cranberry orange salad ring mold (6/22 oz.)",
+        "Name": "Lakeview farms cranberry orange salad ring mold .)",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Lakeview farms gel parfait 13oz",
+        "Name": "Lakeview farms gel parfait",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Lakeview farms confetti parfait 20oz",
+        "Name": "Lakeview farms confetti parfait",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Lakeview farms chiffon mist 19oz",
+        "Name": "Lakeview farms chiffon mist",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 4.5,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Lakeview farms fruit gelatin 6/14 oz",
+        "Name": "Lakeview farms fruit gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Winky sugar free strawberry gel bites 10oz",
+        "Name": "Winky sugar free strawberry gel bites",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "Name": "Winky sugar free black cherry gel bites 10oz",
+        "Name": "Winky sugar free black cherry gel bites",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -2799,7 +2799,7 @@
         }
     },
     {
-        "Name": "Lakeview farms triple treat gelatin 4.75oz",
+        "Name": "Lakeview farms triple treat gelatin",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.5,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Lakeview farms strawberry parfait 3.5oz",
+        "Name": "Lakeview farms strawberry parfait",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 1.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Lakeview farms black forest  cheesecake 7lbs",
+        "Name": "Lakeview farms black forest cheesecake",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 11.0,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "Luisa's gelatin 3.5oz",
+        "Name": "Luisas gelatin",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "Name": "Luisa's crme parfait 5oz",
+        "Name": "Luisas crme parfait",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 4.5,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Luisa's 3-layer gelatin 4.75oz",
+        "Name": "Luisas gelatin",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Luisa's rice pudding 5.5oz",
+        "Name": "Luisas rice pudding",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 4.5,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Lakeview farms bread pudding 7 lbs",
+        "Name": "Lakeview farms bread pudding",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 5.0,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Tiramisoriginal-rezept \"maffioli\" mit lffelbiskuits , kaffee, kakao, sahne und mascarpone.",
+        "Name": "Tiramisoriginal-rezept maffioli mit lffelbiskuits , kaffee, kakao, sahne und mascarpone.",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 25.0,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Lemon chip crunch bars 120ct",
+        "Name": "Lemon chip crunch bars",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 10.9,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Cherry apple crunch bar 120ct case",
+        "Name": "Cherry apple crunch bar case",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 9.4,

@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Seasoned chicken flavored rice with broccoli, carrots & onions, seasoned chicken",
+        "Name": "Seasoned chicken flavored rice with broccoli, carrots & onions",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.5,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Sauced cheesy roasted red potatoes with onions & bacon, sauced",
+        "Name": "Sauced cheesy roasted red potatoes with onions & bacon",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.7,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Whole grain rice with broccoli & carrots, broccoli & carrots",
+        "Name": "Whole grain rice with broccoli & carrots",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.5,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Gourmet twice baked potatoes, broccoli and cheddar",
+        "Name": "Gourmet twice baked potatoes, broccoli & cheddar",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.6,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Hawaiian style a blend of whole grains, shelled edamame, carrots, pineapple and white beans with a pineapple ginger sauce, hawaiian style",
+        "Name": "Hawaiian style a blend of whole grains, shelled edamame, carrots, pineapple & white beans with a pineapple ginger sauce",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 1.4,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Chicken fried rice with seasoned chicken, scrambled eggs and a medley of vegetables, chicken",
+        "Name": "Chicken fried rice with seasoned chicken, scrambled eggs & a medley of vegetables",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.4,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Steam quick fresh frozen side dish, cheesy rice and broccoli",
+        "Name": "Steam quick fresh frozen side dish, cheesy rice & broccoli",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 1.6,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Sour cream & chive mashed cauliflower, sour cream & chive",
+        "Name": "Sour cream & chive mashed cauliflower",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.8,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "California style power blend of whole grains, lentils, peas, broccoli, and shelled edamame with a light garlic sauce, california style",
+        "Name": "California style power blend of whole grains, lentils, peas, broccoli, & shelled edamame with a light garlic sauce",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Mushroom & spring pea risotto in a creamy sauce, topped with aged parmesan cheese, mushroom & spring pea risotto",
+        "Name": "Mushroom & spring pea risotto in a creamy sauce, topped with aged parmesan cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.4,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Cheddar & bacon mashed cauliflower, cheddar & bacon",
+        "Name": "Cheddar & bacon mashed cauliflower",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Original with olive oil & sea salt mashed cauliflower, original with olive oil & sea salt",
+        "Name": "Original with olive oil & sea salt mashed cauliflower",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.2,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Mashed sweet potatoes & carrots brown sugar, mashed sweet potatoes & carrots",
+        "Name": "Mashed sweet potatoes & carrots brown sugar",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.5,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Sauced cheesy pasta & broccoli, sauced",
+        "Name": "Sauced cheesy pasta & broccoli",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.6,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "New england style power blend of whole grains, lentils, red beans, cut green beans, corn and diced potatoes with a creamy garlic parmesan sauce, new england style power blend",
+        "Name": "New engl& style power blend of whole grains, lentils, red beans, cut green beans, corn & diced potatoes with a creamy garlic parmesan sauce",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 1.6,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Tuscan style power blend of whole grains, zucchini, chickpeas and carrots with a citrus olive oil sauce, tuscan style power blend",
+        "Name": "Tuscan style power blend of whole grains, zucchini, chickpeas & carrots with a citrus olive oil sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 2.2,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Broccoli with sweet potatoes & white beans veggie tots, sweet potatoes & white beans",
+        "Name": "Broccoli with sweet potatoes & white beans veggie tots",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 8.2,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Cheddar potatoes with broccoli potatoes with broccoli & cheddar cheese sauce, cheddar potatoes with broccoli",
+        "Name": "Cheddar potatoes with broccoli potatoes with broccoli & cheddar cheese sauce",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.2,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Thai jasmine white rice, thai jasmine",
+        "Name": "Thai jasmine white rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese mashed cauliflower, broccoli & cheese",
+        "Name": "Broccoli & cheese mashed cauliflower",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 4.2,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Japanese-style fried rice steamed white rice stir-fried with carrots, edamame, roasted corn, leeks and black sesame seeds, japanese-style",
+        "Name": "Japanese-style fried rice steamed white rice stir-fried with carrots, edamame, roasted corn, leeks & black sesame seeds",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 1.7,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Long grain white rice with mixed vegetables, mixed vegetables",
+        "Name": "Long grain white rice with mixed vegetables",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.3,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Whole grain brown rice, whole grain",
+        "Name": "Whole grain brown rice",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.5,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Sweet potato & zucchini quinoa golden & red quinoa with sweet potato, zucchini & yellow squash, sweet potato & zucchini",
+        "Name": "Sweet potato & zucchini quinoa golden & red quinoa with sweet potato, zucchini & yellow squash",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.2,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Mediterranean quinoa blend of quinoa, brown rice, italian style green beans, zucchini, yellow squash & red peppers, mediterranean",
+        "Name": "Mediterranean quinoa blend of quinoa, brown rice, italian style green beans, zucchini, yellow squash & red peppers",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Au gratin potatoes with real cheddar cheese, au gratin",
+        "Name": "Au gratin potatoes with real cheddar cheese",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Steam quick, whole grain brown rice, whole grain",
+        "Name": "Steam quick, whole grain brown rice",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 1.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Oven-baked beans flavored with bacon original recipe, bacon",
+        "Name": "Oven-baked beans flavored with bacon original recipe",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.5,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Chicken & vegetable rice bake with savory rice, tender white chicken meat and vegetables in a creamy cheese sauce, chicken & vegetable",
+        "Name": "Chicken & vegetable rice bake with savory rice, tender white chicken meat & vegetables in a creamy cheese sauce",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 4.8,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Lemon rosemary grains, lemon rosemary",
+        "Name": "Lemon rosemary grains",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 2.5,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Potato puffs chopped seasoned potatoes, potato puffs",
+        "Name": "Potato puffs chopped seasoned potatoes",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 8.2,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Sauced alfredo penne & vegetables, sauced",
+        "Name": "Sauced alfredo penne & vegetables",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.6,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Original recipe oven-baked beans flavored with bacon, original, oven-baked beans",
+        "Name": "Original recipe oven-baked beans flavored with bacon, original",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.5,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Carrots with ginger soy sauce veggie spirals, carrots with ginger soy sauce",
+        "Name": "Carrots with ginger soy sauce veggie spirals",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.7,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Butternut squash lightly seasoned with salt and pepper veggie spirals, butternut squash",
+        "Name": "Butternut squash lightly seasoned with salt & pepper veggie spirals",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 1.9,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Homestyle egg noodles, homestyle",
+        "Name": "Homestyle egg noodles",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Saffron rice blend with turmeric, carrots & green onion, saffron",
+        "Name": "Saffron rice blend with turmeric, carrots & green onion",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 3.0,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Cilantro lime rice blend with red onion, fire roasted corn & red bell pepper, cilantro lime",
+        "Name": "Cilantro lime rice blend with red onion, fire roasted corn & red bell pepper",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 2.7,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Ancient grains & seed blend with roasted pumpkin seeds, ancient grains & seed",
+        "Name": "Ancient grains & seed blend with roasted pumpkin seeds",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.8,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Green bean casserole, green bean",
+        "Name": "Green bean casserole",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 2.2,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Spinach ravioli, spinach",
+        "Name": "Spinach ravioli",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 4.5,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Steamin' easy, quinoa & kale blend a mix of quinoa, kale, red quinoa & red onions, quinoa & kale blend",
+        "Name": "Steamin easy, quinoa & kale blend a mix of quinoa, kale, red quinoa & red onions",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 0.5,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Lightly breaded crispy green beans, lightly breaded",
+        "Name": "Lightly breaded crispy green beans",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.0,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Lightly breaded crispy carrot slices, lightly breaded",
+        "Name": "Lightly breaded crispy carrot slices",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.0,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Lightly breaded crispy broccoli florets, lightly breaded",
+        "Name": "Lightly breaded crispy broccoli florets",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 6.8,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Vegetable pilaf quinoa brown rice, golden quinoa & red quinoa with green peas & carrots, vegetable pilaf quinoa",
+        "Name": "Vegetable pilaf quinoa brown rice, golden quinoa & red quinoa with green peas & carrots",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Asian style red quinoa & brown rice with vegetables & soy ginger sauce, asian style",
+        "Name": "Asian style red quinoa & brown rice with vegetables & soy ginger sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.1,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Quinoa & asparagus vegetable blend, quinoa & asparagus",
+        "Name": "Quinoa & asparagus vegetable blend",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.9,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Meat tortellini pasta, meat, tortellini",
+        "Name": "Meat tortellini pasta, meat",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 4.5,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Spicy quinoa & potato qrispy q's, spicy",
+        "Name": "Spicy quinoa & potato qrispy qs",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 10.9,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Mangu mashed plantains, mangu",
+        "Name": "Mangu mashed plantains",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 3.3,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Sweet potato 'rotini' veggie spirals, sweet potato 'rotini'",
+        "Name": "Sweet potato rotini veggie spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Cauliflower bake in a creamy cheese sauce, cauliflower bake",
+        "Name": "Cauliflower bake in a creamy cheese sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.3,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Edamame, cauliflower & sweet potato riced medley, edamame, cauliflower & sweet potato",
+        "Name": "Edamame, cauliflower & sweet potato riced medley, edamame",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.4,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Creamy nada ricotta ravioli, creamy nada ricotta",
+        "Name": "Creamy nada ricotta ravioli",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.5,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Meaty walnut ravioli, meaty walnut",
+        "Name": "Meaty walnut ravioli",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.3,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Cauliflower medley riced veggies, cauliflower medley",
+        "Name": "Cauliflower medley riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Seasoned shredded potatoes tater treats, seasoned",
+        "Name": "Seasoned shredded potatoes tater treats",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 8.2,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Asian style riced cauliflower with edamame, corn, red peppers, green onion and a savory soy seasoning, asian style",
+        "Name": "Asian style riced cauliflower with edamame, corn, red peppers, green onion & a savory soy seasoning",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.4,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Mexican style riced cauliflower with black beans, roasted corn, green peppers, and mexican spices, mexican style",
+        "Name": "Mexican style riced cauliflower with black beans, roasted corn, green peppers, & mexican spices",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Garlic & herbs riced cauliflower with green onion and savory garlic seasoning, garlic & herbs",
+        "Name": "Garlic & herbs riced cauliflower with green onion & savory garlic seasoning",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 2.4,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Mini round cheese ravioli, cheese",
+        "Name": "Mini round cheese ravioli",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 2.7,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Cauliflower vegetable tots, cauliflower",
+        "Name": "Cauliflower vegetable tots",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 7.5,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Asian stir fry style riced cauliflower blend, riced cauliflower blend",
+        "Name": "Asian stir fry style riced cauliflower blend",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Butternut squash vegetable spirals, butternut squash",
+        "Name": "Butternut squash vegetable spirals",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Homestyle mashed cauliflower, homestyle",
+        "Name": "Homestyle mashed cauliflower",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 7.4,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, and scallions bake, loaded potato bake",
+        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, & scallions bake",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.5,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Brussels sprouts & bacon bake in a parmesan cheddar sauce, topped with bacon, brussels sprouts & bacon",
+        "Name": "Brussels sprouts & bacon bake in a parmesan cheddar sauce, topped with bacon",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.8,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Organic farro & quinoa with broccoli and feta, farro & quinoa",
+        "Name": "Organic farro & quinoa with broccoli & feta",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.5,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Bourbon bbq recipe chicken breast chunks with rib meat in a bourbon bbq recipe glaze fire grilled chicken, bourbon bbq recipe",
+        "Name": "Bourbon bbq recipe chicken breast chunks with rib meat in a bourbon bbq recipe glaze fire grilled chicken",
         "Nutrients": {
             "Protein": 20.2,
             "Fat": 9.5,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Garlic, herb & extra virgin olive oil pilaf-style riced cauliflower, garlic, herb & extra virgin olive oil",
+        "Name": "Garlic, herb & extra virgin olive oil pilaf-style riced cauliflower, garlic",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 8.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Fried rice-style carrots, green peas & spices riced cauliflower, fried rice-style",
+        "Name": "Fried rice-style carrots, green peas & spices riced cauliflower",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.4,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Cheese tortellini, cheese",
+        "Name": "Cheese tortellini",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 4.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Original mashed cauliflower, original",
+        "Name": "Original mashed cauliflower",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Mexican-style campfire pinto beans with chorizo sausage, peppers, onions and mexican spices, mexican-style campfire beans",
+        "Name": "Mexican-style campfire pinto beans with chorizo sausage, peppers, onions & mexican spices, mexican-style campfire beans",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.5,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Spanish-style red rice with red peppers and fire roasted sweet corn, spanish-style",
+        "Name": "Spanish-style red rice with red peppers & fire roasted sweet corn",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 6.4,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Beecher's, mac & cheese",
+        "Name": "Beechers, mac & cheese",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 10.2,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Dr. praeger's sensible foods, broccoli cakes",
+        "Name": "Dr. praegers sensible foods, broccoli cakes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.3,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Beecher's, gluten free mac & cheese",
+        "Name": "Beechers, gluten free mac & cheese",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 10.1,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Sour cream and onion potatoes",
+        "Name": "Sour cream & onion potatoes",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.7,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Organic quinoa with kale and brown rice",
+        "Name": "Organic quinoa with kale & brown rice",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.2,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Chili's, nacho potatoes with beef & bacon",
+        "Name": "Chilis, nacho potatoes with beef & bacon",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 7.7,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Melissa's, spicy edamame",
+        "Name": "Melissas, spicy edamame",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 13.2,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Hanover, candied sweet potatoes with brown sugar glaze",
+        "Name": "Hanover, c&ied sweet potatoes with brown sugar glaze",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.7,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Larry's, mashed potatoes, sour cream & chives",
+        "Name": "Larrys, mashed potatoes, sour cream & chives",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 5.6,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Larry's, mashed potatoes, bacon & cheddar cheese",
+        "Name": "Larrys, mashed potatoes, bacon & cheddar cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 6.3,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Larry's, mashed potatoes with cheddar cheese",
+        "Name": "Larrys, mashed potatoes with cheddar cheese",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 5.6,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic five cheese ravioli",
+        "Name": "Everyday value, organic five cheese ravioli",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 4.0,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic butternut squash ravioli",
+        "Name": "Everyday value, organic butternut squash ravioli",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.4,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "365 everyday value, crinkle cut sweet potato fries",
+        "Name": "Everyday value, crinkle cut sweet potato fries",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 6.0,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Irene's, sweet potato bites",
+        "Name": "Irenes, sweet potato bites",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Asian bbq-style 7 whole grains",
+        "Name": "Asian bbq-style whole grains",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.1,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Raley's, macaroni & cheese, roasted jalapeno",
+        "Name": "Raleys, macaroni & cheese, roasted jalapeno",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.1,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Cheesy rice and broccoli",
+        "Name": "Cheesy rice & broccoli",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 1.6,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Stouffer's, classic mac & cheese",
+        "Name": "Stouffers, classic mac & cheese",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 6.5,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese veggie tots, broccoli & cheese",
+        "Name": "Broccoli & cheese veggie tots",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 10.6,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Cauliflower veggie tots, cauliflower",
+        "Name": "Cauliflower veggie tots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 8.2,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Couscous and quinoa with vegetables",
+        "Name": "Couscous & quinoa with vegetables",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Broccoli and cheese, potatoes gratin",
+        "Name": "Broccoli & cheese, potatoes gratin",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.0,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Tex mex corn & mukimame with peppers, black beans, olive oil, and sea saly",
+        "Name": "Tex mex corn & mukimame with peppers, black beans, olive oil, & sea saly",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 4.4,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Country sausage gravy, sausage",
+        "Name": "Country sausage gravy",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 16.1,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Steamfresh chef's favorites",
+        "Name": "Steamfresh chefs favorites",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.3,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Harvest fruit and chicken dressing",
+        "Name": "Harvest fruit & chicken dressing",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.3,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Macaroni and cheese",
+        "Name": "Macaroni & cheese",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 2.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Corn veggie tots, corn",
+        "Name": "Corn veggie tots",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 9.4,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Japanese-style fried rice, japanese-style",
+        "Name": "Japanese-style fried rice",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 1.7,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Yakisoba noodles, sesame sauce, sugar snap peas, shoestring carrots, water chestnuts, green onions and toasted sesame seeds, sesame noodles",
+        "Name": "Yakisoba noodles, sesame sauce, sugar snap peas, shoestring carrots, water chestnuts, green onions & toasted sesame seeds, sesame noodles",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 3.6,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Queso dips, creamy velveeta cheese sauce with salsa and crumbled chorizo",
+        "Name": "Queso dips, creamy velveeta cheese sauce with salsa & crumbled chorizo",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 7.3,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Homestyle butter 'n' garlic mashed potatoes",
+        "Name": "Homestyle butter & garlic mashed potatoes",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 10.7,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Simple 'n' creamy mashed potatoes",
+        "Name": "Simple & creamy mashed potatoes",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 10.7,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Homestyle mashed potatoes 'n' cauliflower",
+        "Name": "Homestyle mashed potatoes & cauliflower",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 7.1,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "Sweet potato & cauliflower veggie tots, sweet potato & cauliflower",
+        "Name": "Sweet potato & cauliflower veggie tots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 8.2,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Crispy seasoned potato puffs with roasted garlic and cracked black pepper",
+        "Name": "Crispy seasoned potato puffs with roasted garlic & cracked black pepper",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 11.9,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Cauliflower with white beans & onions veggie rings, cauliflower with white beans & onions",
+        "Name": "Cauliflower with white beans & onions veggie rings",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 9.4,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Garlic + herb mashed cauliflower",
+        "Name": "Garlic & herb mashed cauliflower",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.8,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Butternut squash, rice, yellow onion, parmesan cheese & parsley risotto, butternut squash",
+        "Name": "Butternut squash, rice, yellow onion, parmesan cheese & parsley risotto",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 4.3,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Quinoa and kale blend of quinoa, kale, red quinoa & red onions",
+        "Name": "Quinoa & kale blend of quinoa, kale, red quinoa & red onions",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 0.5,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "Broccoli littles purely sensible foods, broccoli littles",
+        "Name": "Broccoli littles purely sensible foods",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 7.1,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Southwest style power blend of whole grains, black beans, corn, lentils and red bell peppers with a zesty sauce, southwest style power blend",
+        "Name": "Southwest style power blend of whole grains, black beans, corn, lentils & red bell peppers with a zesty sauce",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 1.4,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Italian style power blend of whole grains, lentils, spinach, broccoli with white beans and garlic parmesan sauce, italian style power blend",
+        "Name": "Italian style power blend of whole grains, lentils, spinach, broccoli with white beans & garlic parmesan sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.1,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Larry's, mashed potatoes, bacon & cheddar cheese, bacon & cheddar cheese",
+        "Name": "Larrys, mashed potatoes, bacon & cheddar cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 6.3,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Japanese-style sticky white rice, japanese-style",
+        "Name": "Japanese-style sticky white rice",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Savory wok-fried long grain rice with edamame, carrot, onion, red bell pepper and egg side dish, vegetable",
+        "Name": "Savory wok-fried long grain rice with edamame, carrot, onion, red bell pepper & egg side dish, vegetable",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.6,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Mediterranean quinoa blend with cherry tomato, spinach & basil, mediterranean",
+        "Name": "Mediterranean quinoa blend with cherry tomato, spinach & basil",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.3,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Southwest mango quinoa blend with black beans, fire roasted corn & cilantro lime, southwest mango",
+        "Name": "Southwest mango quinoa blend with black beans, fire roasted corn & cilantro lime",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 4.8,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "The original quinoa & kale with garlic, olive oil & sea salt, original",
+        "Name": "The original quinoa & kale with garlic, olive oil & sea salt",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.5,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Deep roots quinoa blend with root veggies & kale, root veggies & kale",
+        "Name": "Deep roots quinoa blend with root veggies & kale",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 4.1,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Long grain brown rice side dish, long grain brown rice",
+        "Name": "Long grain brown rice side dish",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Long grain white rice side dish, long grain white rice",
+        "Name": "Long grain white rice side dish",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Asiago creamed spinach, asiago",
+        "Name": "Asiago creamed spinach",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.6,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Root veggie hash browns, root veggie",
+        "Name": "Root veggie hash browns",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 8.3,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Country style yolk-free noodles, country style",
+        "Name": "Country style yolk-free noodles",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 0.8,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "White rice mixed with carrots, corn and peas vegetables side dish",
+        "Name": "White rice mixed with carrots, corn & peas vegetables side dish",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Chicken flavored fried rice, seasoned chicken, scrambled eggs and a medley of vegetables, chicken",
+        "Name": "Chicken flavored fried rice, seasoned chicken, scrambled eggs & a medley of vegetables",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.4,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Crispy potato puffs, crispy",
+        "Name": "Crispy potato puffs",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 9.5,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "Barley & kale power blend with broccoli, carrots, brown rice and red beans in a light roasted garlic sauce, barley & kale power blend",
+        "Name": "Barley & kale power blend with broccoli, carrots, brown rice & red beans in a light roasted garlic sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.2,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Power blend quinoa & spinach with brown rice, cranberries and red peppers in a light red wine vinaigrette sauce, power blend",
+        "Name": "Power blend quinoa & spinach with brown rice, cranberries & red peppers in a light red wine vinaigrette sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.8,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Black rice & edamame power blend with brown rice, red peppers and mango in a light garlic soy sauce, black rice & edamame power blend",
+        "Name": "Black rice & edamame power blend with brown rice, red peppers & mango in a light garlic soy sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.8,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Stouffer's, loaded cheddar potato bake cups",
+        "Name": "Stouffers, loaded cheddar potato bake cups",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 5.3,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Stouffer's, creamy scalloped potatoes",
+        "Name": "Stouffers, creamy scalloped potatoes",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 8.3,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Stouffer's, mac & cheese, garlic parmesan, garlic parmesan",
+        "Name": "Stouffers, mac & cheese, garlic parmesan",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 6.7,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Garlic & herb mashed cauliflower, garlic & herb",
+        "Name": "Garlic & herb mashed cauliflower",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.8,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Hawaiian un-fried rice with black rice, shiitake mushrooms, pineapple, and cashews, cooked in avocado oil",
+        "Name": "Hawaiian un-fried rice with black rice, shiitake mushrooms, pineapple, & cashews, cooked in avocado oil",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "3 cheese, stuffed pasta shells with ricotta, romano & parmesan cheeses",
+        "Name": "Cheese, stuffed pasta shells with ricotta, romano & parmesan cheeses",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 2.1,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Country style egg noodles, country style",
+        "Name": "Country style egg noodles",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "Mashed butternut squash with brown sugar, brown sugar",
+        "Name": "Mashed butternut squash with brown sugar",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 3.1,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Mashed cauliflower with sea salt, cauliflower",
+        "Name": "Mashed cauliflower with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 3.1,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "White cheddar riced cauliflower with black pepper, black pepper",
+        "Name": "White cheddar riced cauliflower with black pepper",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.4,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Thai jasmine white rice, white rice",
+        "Name": "Thai jasmine white rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Creamy velveeta cheese sauce with salsa and crumbled chorizo, chorizo",
+        "Name": "Creamy velveeta cheese sauce with salsa & crumbled chorizo",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 7.3,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Seasoned shredded sweet potato puffs, sweet potato",
+        "Name": "Seasoned shredded sweet potato puffs",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 5.4,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Cauliflower risotto medley riced veggies, cauliflower risotto medley",
+        "Name": "Cauliflower risotto medley riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "Butternut squash risotto with parmesan cheese & sea salt, parmesan cheese & sea salt",
+        "Name": "Butternut squash risotto with parmesan cheese & sea salt",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 4.0,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Premium long grain rice with a hint of savory garlic side dish, garlic",
+        "Name": "Premium long grain rice with a hint of savory garlic side dish",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Asian wok quinoa blend with peas, matchstick carrots & red bell pepper, asian wok",
+        "Name": "Asian wok quinoa blend with peas, matchstick carrots & red bell pepper",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.0,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Seasoned long grain rice with carrots, edamame, red bell pepper, onion, and scrambled eggs vegetable fried rice, vegetable",
+        "Name": "Seasoned long grain rice with carrots, edamame, red bell pepper, onion, & scrambled eggs vegetable fried rice",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 0.9,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Herbs & cheese mashed cauliflower, herbs & cheese",
+        "Name": "Herbs & cheese mashed cauliflower",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.1,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Buffalo flavored seasoned shredded potatoes, buffalo",
+        "Name": "Buffalo flavored seasoned shredded potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.2,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "A blend of quinoa, kale, red quinoa & red onions, quinoa and kale blend",
+        "Name": "A blend of quinoa, kale, red quinoa & red onions, quinoa & kale blend",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 0.5,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Mediterranean quinoa blend a blend of quinoa, brown rice, italian style green beans, zucchini, yellow squash & red peppers, mediterranean quinoa blend",
+        "Name": "Mediterranean quinoa blend a blend of quinoa, brown rice, italian style green beans, zucchini, yellow squash & red peppers",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Oven-baked beans flavored with bacon original recipe, firehouse, bacon",
+        "Name": "Oven-baked beans flavored with bacon original recipe, firehouse",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.5,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Sea salt & black pepper seasoned shredded potatoes, sea salt & black pepper",
+        "Name": "Sea salt & black pepper seasoned shredded potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.2,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Chef-crafted vegetables butternut squash spirals seasoned with sea salt, sea salt",
+        "Name": "Chef-crafted vegetables butternut squash spirals seasoned with sea salt",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Brussels sprouts cakes, brussels sprouts",
+        "Name": "Brussels sprouts cakes",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 6.4,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Ancient grains chik'n tenders, ancient grains chik'n",
+        "Name": "Ancient grains chik& tenders",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 7.0,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Rice and quinoa with pesto, cheese, green beans, sun dried tomatoes and a touch of olive oil, rice and quinoa quartet",
+        "Name": "Rice & quinoa with pesto, cheese, green beans, sun dried tomatoes & a touch of olive oil, rice & quinoa quartet",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 10.2,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Spanish style organic quinoa with grilled peppers, garlic, onions and a dash of salt, spanish style",
+        "Name": "Spanish style organic quinoa with grilled peppers, garlic, onions & a dash of salt",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 3.2,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Savory cheese potatoes gratin thinly sliced potatoes with cream and savory emmenthaler cheese, savory cheese",
+        "Name": "Savory cheese potatoes gratin thinly sliced potatoes with cream & savory emmenthaler cheese",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.0,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Thinly sliced potatoes with cream, tender broccoli, and savory cheese gratin, broccoli and cheese",
+        "Name": "Thinly sliced potatoes with cream, tender broccoli, & savory cheese gratin, broccoli & cheese",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.0,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Sriracha grain blend spicy seasoned wheat berries, barley, green beans and red bell peppers, grain blend",
+        "Name": "Sriracha grain blend spicy seasoned wheat berries, barley, green beans & red bell peppers",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.8,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Zucchini grilled veggies, zucchini",
+        "Name": "Zucchini grilled veggies",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.6,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Cauliflower & broccoli veggie hash browns, cauliflower & broccoli",
+        "Name": "Cauliflower & broccoli veggie hash browns",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 8.8,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Cauliflower veggie hash browns, cauliflower",
+        "Name": "Cauliflower veggie hash browns",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 8.8,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Sweet potato casserole with praline topping, sweet potato casserole",
+        "Name": "Sweet potato casserole with praline topping",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 11.4,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Sweet potato patties, sweet potato",
+        "Name": "Sweet potato patties",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Organic traditional herb whole grain medley, traditional herb",
+        "Name": "Organic traditional herb whole grain medley",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 3.2,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Seasoned tater puffs shredded potatoes, seasoned",
+        "Name": "Seasoned tater puffs shredded potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.1,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Organic morning blend grain medley, morning blend",
+        "Name": "Organic morning blend grain medley",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.9,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Chicken fried rice, chicken",
+        "Name": "Chicken fried rice",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.8,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Riced garden vegetable pilaf with sea salt, sea salt",
+        "Name": "Riced garden vegetable pilaf with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.8,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Cauliflower risotto with parmesan cheese & sea salt, parmesan cheese & sea salt",
+        "Name": "Cauliflower risotto with parmesan cheese & sea salt",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.0,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Red, gold, purple, and sweet potatoes, shredded into veggie puff bliss!, four potato puffs",
+        "Name": "Red, gold, purple, & sweet potatoes, shredded into veggie puff bliss!, four potato puffs",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 6.8,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Loaded cauliflower with white cheddar & uncured bacon, white cheddar & uncured bacon",
+        "Name": "Loaded cauliflower with white cheddar & uncured bacon",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.2,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "Shredded white cabbage & carrots with scallions and grilled onions, lightly seasoned with salt and black pepper",
+        "Name": "Shredded white cabbage & carrots with scallions & grilled onions, lightly seasoned with salt & black pepper",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 1.6,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Cauliflower cheese bake, cauliflower",
+        "Name": "Cauliflower cheese bake",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.5,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Mediterranean-inspired riced cauliflower with grilled zucchini, fried eggplant, red and yellow peppers with sweet tomato basil sauce, mediterranean-inspired",
+        "Name": "Mediterranean-inspired riced cauliflower with grilled zucchini, fried eggplant, red & yellow peppers with sweet tomato basil sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 5.3,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Butternut squash veggie cakes, butternut squash",
+        "Name": "Butternut squash veggie cakes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.1,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Country style corn casserole tossed with roasted onions, roasted red peppers, jalapenos, and a creamy cheese sauce",
+        "Name": "Country style corn casserole tossed with roasted onions, roasted red peppers, jalapenos, & a creamy cheese sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 4.0,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Potato herb baked with slowly roasted potatoes, thyme, rosemary and chives",
+        "Name": "Potato herb baked with slowly roasted potatoes, thyme, rosemary & chives",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Potatoes gratin thinly sliced sweet potatoes with cream and savory cheese, sweet potato",
+        "Name": "Potatoes gratin thinly sliced sweet potatoes with cream & savory cheese",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 16.0,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Quinoa & squash with kale, carrots & sweet potato, quinoa & squash",
+        "Name": "Quinoa & squash with kale, carrots & sweet potato",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.5,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Original cauli-tots, original",
+        "Name": "Original cauli-tots",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 4.9,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "Kale & quinoa veggie cakes, kale & quinoa",
+        "Name": "Kale & quinoa veggie cakes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.8,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower blend with peas, carrots & red bell pepper, riced cauliflower blend",
+        "Name": "Riced cauliflower blend with peas, carrots & red bell pepper",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 2.2,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Deep roots quinoa blend with root veggies & kale, deep roots quinoa blend",
+        "Name": "Deep roots quinoa blend with root veggies & kale",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 4.1,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Mediterranean quinoa blend with cherry tomato, spinach & basil, mediterranean quinoa blend",
+        "Name": "Mediterranean quinoa blend with cherry tomato, spinach & basil",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.3,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Tuscan quinoa blend with kale, fire roasted mushrooms & white beans, tuscan quinoa blend",
+        "Name": "Tuscan quinoa blend with kale, fire roasted mushrooms & white beans",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 4.1,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Southwest mango quinoa blend with black beans, fire roasted corn & cilantro lime, southwest mango quinoa blend",
+        "Name": "Southwest mango quinoa blend with black beans, fire roasted corn & cilantro lime",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 4.8,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "The original quinoa & kale with garlic, olive oil & sea salt, quinoa & kale",
+        "Name": "The original quinoa & kale with garlic, olive oil & sea salt",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.5,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Brown rice & quinoa with garlic, olive oil & sea salt, brown rice & quinoa",
+        "Name": "Brown rice & quinoa with garlic, olive oil & sea salt",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.0,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Fluffy whipped sweet potatoes lightly sweetened with molasses and skim milk, whipped sweet potatoes",
+        "Name": "Fluffy whipped sweet potatoes lightly sweetened with molasses & skim milk",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -4626,7 +4626,7 @@
         }
     },
     {
-        "Name": "Asparagus risotto ribe rice enriched with a creamy asparagus, garlic sauce, and pieces of asparagus., asparagus",
+        "Name": "Asparagus risotto ribe rice enriched with a creamy asparagus, garlic sauce, & pieces of asparagus.",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Buffalo seasoned cauli-tots, buffalo seasoned",
+        "Name": "Buffalo seasoned cauli-tots",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 4.9,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "A blend of black beans, spinach, kale, kidney beans, corn and bell peppers with warm protein blends caribbean-style spices, protein blends caribbean-style",
+        "Name": "A blend of black beans, spinach, kale, kidney beans, corn & bell peppers with warm protein blends caribbean-style spices",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 1.8,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "California-style protein blends a savory blend of lentils, broccoli, peas, bell peppers and soybeans with a hint of garlic, california-style",
+        "Name": "California-style protein blends a savory blend of lentils, broccoli, peas, bell peppers & soybeans with a hint of garlic",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.1,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "French-style protein blends a blend of lentils, kidney beans, green beans, kale, leeks and wax beans with savory herbs and spices., french-style",
+        "Name": "French-style protein blends a blend of lentils, kidney beans, green beans, kale, leeks & wax beans with savory herbs & spices.",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 1.2,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Steamed kale & quinoa seasoned with onion and garlic, onion and garlic",
+        "Name": "Steamed kale & quinoa seasoned with onion & garlic",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 3.8,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Power blend thai style whole grains, lentils, sugar snap peas and carrots in a curry sauce",
+        "Name": "Power blend thai style whole grains, lentils, sugar snap peas & carrots in a curry sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.7,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Tabbouleh with vegetables steam in bag",
+        "Name": "Tabbouleh with vegetables steam in",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Asian style power blend of whole grains, shelled edamame, carrots, red peppers, and sauce",
+        "Name": "Asian style power blend of whole grains, shelled edamame, carrots, red peppers, & sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.8,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Thai style power blend of whole grains, lentils, sugar snap peas and carrots in a curry sauce",
+        "Name": "Thai style power blend of whole grains, lentils, sugar snap peas & carrots in a curry sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.7,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "Tortellini pasta filled with ricotta, mozzarella, and romano cheeses",
+        "Name": "Tortellini pasta filled with ricotta, mozzarella, & romano cheeses",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Seasoned garlic baby peas & mushrooms, seasoned garlic",
+        "Name": "Seasoned garlic baby peas & mushrooms",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.7,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Seasoned southwestern style rice with corn, peppers & onions, seasoned southwestern style",
+        "Name": "Seasoned southwestern style rice with corn, peppers & onions",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.5,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Macaroni & cheese organic wheat pasta & organic three cheese sauce, macaroni & cheese",
+        "Name": "Macaroni & cheese organic wheat pasta & organic three cheese sauce",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 7.8,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Asian style power blend of whole grains, shelled edamame, carrots, red peppers, and sauce, asian style power blend",
+        "Name": "Asian style power blend of whole grains, shelled edamame, carrots, red peppers, & sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.8,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "White rice mixed with carrots, corn and peas vegetables side dish, white rice with vegetables",
+        "Name": "White rice mixed with carrots, corn & peas vegetables side dish, white rice with vegetables",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Steam quick, cheesy rice and broccoli, cheesy",
+        "Name": "Steam quick, cheesy rice & broccoli",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 1.6,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Roasted garlic riced cauliflower, roasted garlic",
+        "Name": "Roasted garlic riced cauliflower",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.6,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Roasted garlic mashed cauliflower, roasted garlic",
+        "Name": "Roasted garlic mashed cauliflower",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Corn souffle simple recipe of corn baked with skim milk & eggs, corn souffle",
+        "Name": "Corn souffle simple recipe of corn baked with skim milk & eggs",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.6,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Creamy scalloped potatoes sliced russet scalloped potatoes in a creamy white sauce accented with aged parmesan cheese, creamy scalloped potatoes",
+        "Name": "Creamy scalloped potatoes sliced russet scalloped potatoes in a creamy white sauce accented with aged parmesan cheese",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 8.3,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Cheddar potato bake russet potatoes in a cheddar cheese sauce with bacon, topped with bread crumbs, cheddar potato bake",
+        "Name": "Cheddar potato bake russet potatoes in a cheddar cheese sauce with bacon, topped with bread crumbs",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 9.9,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Cheddar bacon potatoes russet potatoes in a 100% real cheddar cheese sauce accented with bacon & topped with toasted bread crumbs, cheddar bacon potatoes",
+        "Name": "Cheddar bacon potatoes russet potatoes in a 100% real cheddar cheese sauce accented with bacon & topped with toasted bread crumbs",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 9.9,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese gratin broccoli in a rich three-cheese sauce topped with toasted bread crumbs, broccoli & cheese gratin",
+        "Name": "Broccoli & cheese gratin broccoli in a rich three-cheese sauce topped with toasted bread crumbs",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 7.6,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Savory herb riced cauliflower, savory herb",
+        "Name": "Savory herb riced cauliflower",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 4.0,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Brown sugar mashed sweet potatoes & carrots, brown sugar",
+        "Name": "Brown sugar mashed sweet potatoes & carrots",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.5,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Seasoned brown sugar sweet potatoes, seasoned brown sugar",
+        "Name": "Seasoned brown sugar sweet potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 3.5,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "Thai style power blend of whole grains, lentils, sugar snap peas and carrots in a curry sauce, thai style power blend",
+        "Name": "Thai style power blend of whole grains, lentils, sugar snap peas & carrots in a curry sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.7,
@@ -5103,7 +5103,7 @@
         }
     },
     {
-        "Name": "Cauliflower riced veggies, cauliflower",
+        "Name": "Cauliflower riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Tortellini pasta filled with ricotta, mozzarella, and romano cheeses, cheese",
+        "Name": "Tortellini pasta filled with ricotta, mozzarella, & romano cheeses",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Penne pasta tossed with vine-ripened tomato sauce and a colorful vegetable medley, vegetable pasta primavera",
+        "Name": "Penne pasta tossed with vine-ripened tomato sauce & a colorful vegetable medley, vegetable pasta primavera",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.6,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Stir fry vegetables with noodles, broccoli, carrots, water chestnuts, snow pea pods, red peppers, celery & onions, stir fry vegetables with noodles",
+        "Name": "Stir fry vegetables with noodles, broccoli, carrots, water chestnuts, snow pea pods, red peppers, celery & onions",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Southern style breaded cut okra, southern style",
+        "Name": "Southern style breaded cut okra",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Southern style crowder peas, southern style",
+        "Name": "Southern style crowder peas",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 0.6,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Microwaveable potato skins, cheddar cheese & broccoli veggie skins, cheese & broccoli",
+        "Name": "Microwaveable potato skins, cheddar cheese & broccoli veggie skins",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 8.8,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Original roasted potatoes in flagship sauce, roasted potatoes",
+        "Name": "Original roasted potatoes in flagship sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 7.0,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Tabbouleh with vegetables steam in bag, tabbouleh",
+        "Name": "Tabbouleh with vegetables steam in",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Mashed roasted sweet potatoes topped with honey granola streusel casserole, sweet potato",
+        "Name": "Mashed roasted sweet potatoes topped with honey granola streusel casserole",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 2.4,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Lightly breaded crispy cauliflower florets, lightly breaded",
+        "Name": "Lightly breaded crispy cauliflower florets",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 6.7,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Four cheese ravioli, four cheese",
+        "Name": "Four cheese ravioli",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 9.7,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Seasoned sweet potatoes, carrots & red potatoes seasoned with sea salt, black pepper & herbs, seasoned",
+        "Name": "Seasoned sweet potatoes, carrots & red potatoes seasoned with sea salt, black pepper & herbs",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 2.9,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Saffron rice blend with turmeric, carrots & green onion, turmeric, carrots & green onion",
+        "Name": "Saffron rice blend with turmeric, carrots & green onion, turmeric",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 3.0,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Cilantro lime rice blend with red onion, fire roasted corn & red bell pepper, cilantro lime rice blend",
+        "Name": "Cilantro lime rice blend with red onion, fire roasted corn & red bell pepper",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 2.7,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Ancient grains & seed blend with roasted pumpkin seeds, roasted pumpkin seeds",
+        "Name": "Ancient grains & seed blend with roasted pumpkin seeds",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.8,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Cauliflower mash with cream & butter, cream & butter",
+        "Name": "Cauliflower mash with cream & butter",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "Mini cheese ravioli, mini cheese",
+        "Name": "Mini cheese ravioli",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 3.3,
@@ -5292,7 +5292,7 @@
         }
     },
     {
-        "Name": "Garlic & parmesan roasted red potatoes, garlic & parmesan",
+        "Name": "Garlic & parmesan roasted red potatoes",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 3.5,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Premium stuffing cornbread with turkey sausage, turkey",
+        "Name": "Premium stuffing cornbread with turkey sausage",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 11.0,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Traditional savory herb premium stuffing, traditional savory herb",
+        "Name": "Traditional savory herb premium stuffing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.0,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Chicken flavored with broccoli & carrots riced cauliflower, chicken",
+        "Name": "Chicken flavored with broccoli & carrots riced cauliflower",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.4,
@@ -5328,7 +5328,7 @@
         }
     },
     {
-        "Name": "Edamame cauliflower & sweet potato riced medley, edamame cauliflower & sweet potato",
+        "Name": "Edamame cauliflower & sweet potato riced medley",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.4,
@@ -5337,7 +5337,7 @@
         }
     },
     {
-        "Name": "Mac & 3 cheese with cauliflower bowls, mac & 3 cheese",
+        "Name": "Mac & cheese with cauliflower bowls",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 5.6,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Green bean casserole with crispy onions in a savory mushroom cream sauce with cheddar cheese, garlic & spices, green bean casserole",
+        "Name": "Green bean casserole with crispy onions in a savory mushroom cream sauce with cheddar cheese, garlic & spices",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 6.4,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, and scallions, loaded potato bake",
+        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, & scallions",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.5,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Sauced teriyaki stir-fry a blend of asian-style vegetables & noodles with teriyaki sauce, sauced teriyaki stir-fry",
+        "Name": "Sauced teriyaki stir-fry a blend of asian-style vegetables & noodles with teriyaki sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.5,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Creamy spinach bake spinach in a parmesan cream sauce with roasted garlic, creamy spinach bake",
+        "Name": "Creamy spinach bake spinach in a parmesan cream sauce with roasted garlic",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 7.6,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Organic butternut squash spirals with tomato sauce, butternut",
+        "Name": "Organic butternut squash spirals with tomato sauce",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.9,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Riced veggies & cheese with cauliflower, broccoli & carrots, riced veggies & cheese",
+        "Name": "Riced veggies & cheese with cauliflower, broccoli & carrots",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 2.7,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Rotini alfredo veggie pasta, rotini alfredo",
+        "Name": "Rotini alfredo veggie pasta",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 4.1,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Creamy scalloped potatoes sliced russet potatoes in a creamy white sauce accented with aged parmesan cheese, creamy scalloped potatoes",
+        "Name": "Creamy scalloped potatoes sliced russet potatoes in a creamy white sauce accented with aged parmesan cheese",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 8.3,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Steamfresh roasted red potato blend with broccoli, carrots, corn & red pepper, roasted red potato blend",
+        "Name": "Steamfresh roasted red potato blend with broccoli, carrots, corn & red pepper",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "\"\"world's best\"\" mac & cheese",
+        "Name": "Worlds best mac & cheese",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 10.2,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Spicy gochujang cauliflower with brussels sprouts, chickpeas and quinoa, riced cauliflower, cashews and pickled onions, spicy brussels sprouts, chickpeas and quinoa, riced cauliflower, cashew and pickled onions",
+        "Name": "Spicy gochujang cauliflower with brussels sprouts, chickpeas & quinoa, riced cauliflower, cashews & pickled onions, spicy brussels sprouts, chickpeas & quinoa, riced cauliflower, cashew & pickled onions",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.9,
@@ -5499,7 +5499,7 @@
         }
     },
     {
-        "Name": "Mediterranean style steam-in-bag riced cauliflower, mediterranean style",
+        "Name": "Mediterranean style steam-in- riced cauliflower",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 2.2,
@@ -5508,7 +5508,7 @@
         }
     },
     {
-        "Name": "Sauced tomato parmesan rigatoni & vegetables, sauced",
+        "Name": "Sauced tomato parmesan rigatoni & vegetables",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 2.9,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Sweet potato casserole with praline topping, sweet potato",
+        "Name": "Sweet potato casserole with praline topping",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 11.4,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "100% pure mashed sweet potatoes, sweet",
+        "Name": "100% pure mashed sweet potatoes",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -5535,7 +5535,7 @@
         }
     },
     {
-        "Name": "Whipped sweet potatoes fluffy whipped sweet potatoes lightly sweetened with molasses and skim milk",
+        "Name": "Whipped sweet potatoes fluffy whipped sweet potatoes lightly sweetened with molasses & skim milk",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "White cheddar macaroni & cheese, white cheddar",
+        "Name": "White cheddar macaroni & cheese",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 10.9,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Veggie mac & cheese shells with white cheddar cheese sauce, shells with white cheddar cheese sauce",
+        "Name": "Veggie mac & cheese shells with white cheddar cheese sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 4.6,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "White cheddar macaroni & cheese cavatappi pasta in a creamy white cheddar cheese sauce, white cheddar macaroni & cheese",
+        "Name": "White cheddar macaroni & cheese cavatappi pasta in a creamy white cheddar cheese sauce",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 11.6,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, and scallions, loaded potato",
+        "Name": "Loaded potato bake potatoes topped with a cheddar parmesan sauce, bacon, & scallions",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.5,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Zucchini spirals, zucchini",
+        "Name": "Zucchini spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Green pea & chickpea cauliflower blend riced veggies, green pea & chickpea cauliflower blend",
+        "Name": "Green pea & chickpea cauliflower blend riced veggies",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Southwest style power blend a blend of black beans, corn, lentils, whole grains, red bell peppers and lentil zucchini orzo pasta with a zesty sauce, southwest style",
+        "Name": "Southwest style power blend a blend of black beans, corn, lentils, whole grains, red bell peppers & lentil zucchini orzo pasta with a zesty sauce",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.7,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Organic farro & quinoa with broccoli and feta",
+        "Name": "Organic farro & quinoa with broccoli & feta",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.5,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Scalloped potatoes sliced in a creamy sauce, scalloped",
+        "Name": "Scalloped potatoes sliced in a creamy sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 10.7,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Mushroom risotto creamy risotto with porcini and champignon mushrooms, white wine, garlic and herbs, mushroom risotto",
+        "Name": "Mushroom risotto creamy risotto with porcini & champignon mushrooms, white wine, garlic & herbs",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Italian style breading eggplant cutlets, italian style",
+        "Name": "Italian style breading eggplant cutlets",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 11.8,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Rotini marinara veggie pasta, rotini marinara",
+        "Name": "Rotini marinara veggie pasta",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 3.3,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Fettuccine with garlic & herb sauce veggie pasta, fettuccine with garlic & herb sauce",
+        "Name": "Fettuccine with garlic & herb sauce veggie pasta",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 2.2,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Vegetable pasta primavera penne pasta tossed with vine-ripened tomato sauce and a colorful vegetable medley, vegetable pasta primavera",
+        "Name": "Vegetable pasta primavera penne pasta tossed with vine-ripened tomato sauce & a colorful vegetable medley",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 0.0,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Riced medley edamame, cauliflower & sweet potato, riced medley",
+        "Name": "Riced medley edamame, cauliflower & sweet potato",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.4,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Loaded potatoes topped with a cheddar parmesan sauce, bacon, and scallions bake, loaded potato",
+        "Name": "Loaded potatoes topped with a cheddar parmesan sauce, bacon, & scallions bake",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.5,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Brussels sprouts & bacon bake, brussels sprouts & bacon",
+        "Name": "Brussels sprouts & bacon bake",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 6.8,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Cheese ravioli, cheese",
+        "Name": "Cheese ravioli",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 4.8,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Seasoned southwestern style rice with corn, peppers & onions, corn, peppers & onions",
+        "Name": "Seasoned southwestern style rice with corn, peppers & onions, corn",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.5,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Spicy gochujang cauliflower with brussels sprouts, chickpeas and quinoa, riced cauliflower, cashews and pickled onions, spicy gochujang",
+        "Name": "Spicy gochujang cauliflower with brussels sprouts, chickpeas & quinoa, riced cauliflower, cashews & pickled onions",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.9,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Cheddar cheese mashed potato shapes, cheddar cheese",
+        "Name": "Cheddar cheese mashed potato shapes",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 9.4,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Whipped sweet potatoes fluffy whipped sweet potatoes lightly sweetened with molasses and skim milk, whipped sweet potatoes",
+        "Name": "Whipped sweet potatoes fluffy whipped sweet potatoes lightly sweetened with molasses & skim milk",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Cornbread with turkey sausage premium stuffing, cornbread with turkey sausage",
+        "Name": "Cornbread with turkey sausage premium stuffing",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 11.0,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Italian style power blend of whole grains, lentils, spinach, broccoli with white beans and garlic parmesan sauce, italian style",
+        "Name": "Italian style power blend of whole grains, lentils, spinach, broccoli with white beans & garlic parmesan sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.1,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Sauced chive butter roasted red potatoes, sauced",
+        "Name": "Sauced chive butter roasted red potatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Roasted red potato blend with broccoli, carrots, corn & red pepper, broccoli, carrots, corn & red pepper",
+        "Name": "Roasted red potato blend with broccoli, carrots, corn & red pepper, broccoli, carrots",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Spaghetti style with olive oil veggie pasta, spaghetti style with olive oil",
+        "Name": "Spaghetti style with olive oil veggie pasta",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.7,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Shredded potatoes & sweet potatoes with broccoli & cauliflower florets with garlic and lightly seasoned with salt & black pepper, garlic and lightly seasoned with salt & black pepper",
+        "Name": "Shredded potatoes & sweet potatoes with broccoli & cauliflower florets with garlic & lightly seasoned with salt & black pepper",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 1.4,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Shells with white cheddar cheese sauce veggie mac & cheese, shells with white cheddar cheese sauce",
+        "Name": "Shells with white cheddar cheese sauce veggie mac & cheese",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 4.6,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Potato, spinach & asiago veggie taters, potato, spinach & asiago",
+        "Name": "Potato, spinach & asiago veggie taters, potato",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 7.7,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Southwest style power blend of black beans, corn, lentils, whole grains, red bell peppers and lentil zucchini orzo pasta with a zesty sauce, southwest style power blend",
+        "Name": "Southwest style power blend of black beans, corn, lentils, whole grains, red bell peppers & lentil zucchini orzo pasta with a zesty sauce",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.7,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Traditional macaroni & cheese, traditional",
+        "Name": "Traditional macaroni & cheese",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 6.7,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Cheesy potato bake with bacon added diced potatoes in a creamy cheddar cheese sauce with bacon added, cheesy potato bake with bacon",
+        "Name": "Cheesy potato bake with bacon added diced potatoes in a creamy cheddar cheese sauce with bacon added",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 7.5,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Seasoned chicken flavored rice with broccoli, carrots & onions, chicken",
+        "Name": "Seasoned chicken flavored rice with broccoli, carrots & onions",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.5,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Grains + vegetables + legumes brown rice, corn, black beans & red bell pepper powered by plants, grains + vegetables + legumes",
+        "Name": "Grains & vegetables & legumes brown rice, corn, black beans & red bell pepper powered by plants",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.6,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes, farro, black beans & spinach grains + vegetables + legumes, sweet potatoes, farro, black beans & spinach",
+        "Name": "Sweet potatoes, farro, black beans & spinach grains & vegetables & legumes, sweet potatoes, farro",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.3,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Indian style with brown rice, red and white quinoa, butternut squash, lentils, & carrots in a curry sauce vegetable blends, indian style",
+        "Name": "Indian style with brown rice, red & white quinoa, butternut squash, lentils, & carrots in a curry sauce vegetable blends",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.8,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "Spinach cakes, spinach",
+        "Name": "Spinach cakes",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Spinach kid's littles, spinach",
+        "Name": "Spinach kids littles",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 9.4,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Sauced mushroom & green bean risotto, sauced",
+        "Name": "Sauced mushroom & green bean risotto",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 1.6,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Chickpea & sweet potato picadillo, chickpea & sweet potato",
+        "Name": "Chickpea & sweet potato picadillo",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 3.1,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Larry's, mashed potatoes, sour cream & chives, sour cream & chives",
+        "Name": "Larrys, mashed potatoes, sour cream & chives",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 5.6,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Chickpeas & spinach with sweet potatoes, brown rice and barley in a light olive oil & lemon sauce power blend, chickpeas & spinach",
+        "Name": "Chickpeas & spinach with sweet potatoes, brown rice & barley in a light olive oil & lemon sauce power blend",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.5,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Brown rice, corn, black beans & red bell pepper powered by plants grains + vegetables + legumes, brown rice, corn, black beans & red bell pepper",
+        "Name": "Brown rice, corn, black beans & red bell pepper powered by plants grains & vegetables & legumes, brown rice, corn",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 0.6,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Farro, broccoli, carrots & chickpeas powered by plants grains + vegetables + legumes, farro, broccoli, carrots & chickpeas",
+        "Name": "Farro, broccoli, carrots & chickpeas powered by plants grains & vegetables & legumes, farro, broccoli",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 0.3,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes, farro, black beans & spinach powered by plants grains + vegetables + legumes, sweet potatoes, farro, black beans & spinach",
+        "Name": "Sweet potatoes, farro, black beans & spinach powered by plants grains & vegetables & legumes, sweet potatoes, farro",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.3,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Buttery roasted garlic smash-in-bag fresh red potatoes with chef-inspired seasonings, buttery roasted garlic",
+        "Name": "Buttery roasted garlic smash-in- fresh red potatoes with chef-inspired seasonings",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 3.2,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Buttery chive & dill minute mashers fresh yellow potatoes with chef-inspired seasonings, buttery chive & dill",
+        "Name": "Buttery chive & dill minute mashers fresh yellow potatoes with chef-inspired seasonings",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 3.2,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Cheddar & bacon loaded potato dumplings, cheddar & bacon",
+        "Name": "Cheddar & bacon loaded potato dumplings",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 4.1,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Grifled zucchini, butternut squash & tomatoes with quinoa duo quinoa blends, grifled zucchini, butternut squash & tomatoes",
+        "Name": "Grifled zucchini, butternut squash & tomatoes with quinoa duo quinoa blends, grifled zucchini",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Peppers & onions grilled veggies, peppers & onions",
+        "Name": "Peppers & onions grilled veggies",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Southwest chipotle sweet corn blend sweet corn, black beans, red bell peppers & onions, southwest chipotle sweet corn blend",
+        "Name": "Southwest chipotle sweet corn blend sweet corn, black beans, red bell peppers & onions",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 2.5,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Crispy & crunchy cauliflower french onion veggie rings, crispy & crunchy cauliflower french onion",
+        "Name": "Crispy & crunchy cauliflower french onion veggie rings",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 8.2,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Butter balsamic glazed vegetables, butter balsamic",
+        "Name": "Butter balsamic glazed vegetables",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 4.8,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Superfood pilaf a blend of broccoli, brown rice, cauliflower, red quinoa, and spinach in a ginger garlic sauce, superfood pilaf",
+        "Name": "Superfood pilaf a blend of broccoli, brown rice, cauliflower, red quinoa, & spinach in a ginger garlic sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 4.3,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower & quinoa mediterranean style with cherry tomatoes, spinach & basil, riced cauliflower & quinoa mediterranean style",
+        "Name": "Riced cauliflower & quinoa mediterranean style with cherry tomatoes, spinach & basil",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 6.3,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Spaghetti squash veggie spirals, spaghetti squash",
+        "Name": "Spaghetti squash veggie spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Buttery sea salt & pepper smash-in-bag fresh red potatoes with chef-inspired seasonings, buttery sea salt & pepper",
+        "Name": "Buttery sea salt & pepper smash-in- fresh red potatoes with chef-inspired seasonings",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 3.2,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Vegetable fried rice seasoned long grain rice with edamame, carrot, onion, red bell pepper and egg side dish, vegetable fried rice",
+        "Name": "Vegetable fried rice seasoned long grain rice with edamame, carrot, onion, red bell pepper & egg side dish",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.6,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Loaded cheddar potato bake diced potatoes in a creamy cheddar cheese sauce accented with chives & bacon cups, loaded cheddar potato bake",
+        "Name": "Loaded cheddar potato bake diced potatoes in a creamy cheddar cheese sauce accented with chives & bacon cups",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 5.3,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Mushroom & spring pea risotto in a creamy sauce, topped with aged parmesan cheese, mushroom & spring pea",
+        "Name": "Mushroom & spring pea risotto in a creamy sauce, topped with aged parmesan cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.4,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Southwest-style potato bake red potatoes in a spicy cheddar cheese sauce with poblano peppers, southwest-style potato bake",
+        "Name": "Southwest-style potato bake red potatoes in a spicy cheddar cheese sauce with poblano peppers",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 1.9,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Corn souffle a simple recipe of corn baked with skim milk & eggs, corn souffle",
+        "Name": "Corn souffle a simple recipe of corn baked with skim milk & eggs",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.6,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Garlic parmesan freshly cooked pasta in a creamy garlic parmesan cheese sauce, topped with garlic seasoned bread crumbs mac & cheese, garlic parmesan",
+        "Name": "Garlic parmesan freshly cooked pasta in a creamy garlic parmesan cheese sauce, topped with garlic seasoned bread crumbs mac & cheese",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 6.7,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Harvest fruit and chicken includes poppyseed dressing, grilled white meat chicken, apples, dried cranberries, carrots, yellow peppers, crunchy sesame sticks, harvest fruit and chicken",
+        "Name": "Harvest fruit & chicken includes poppyseed dressing, grilled white meat chicken, apples, dried cranberries, carrots, yellow peppers, crunchy sesame sticks",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.3,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Vegetable fried rice savory wok-fried long grain rice with edamame, carrot, onion, red bell pepper and egg side dish, vegetable fried rice",
+        "Name": "Vegetable fried rice savory wok-fried long grain rice with edamame, carrot, onion, red bell pepper & egg side dish",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 0.9,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "White cheddar macaroni & cheese al dente cavatappi pasta smothered in a creamy white cheddar sauce featuring 9-month-aged sharp cheddar cheese from new york, white cheddar macaroni & cheese",
+        "Name": "White cheddar macaroni & cheese al dente cavatappi pasta smothered in a creamy white cheddar sauce featuring sharp cheddar cheese from new york",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 10.9,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Parmesan peppercorn cauliflower florets with a parmesan and peppercorn seasoning, parmesan peppercorn",
+        "Name": "Parmesan peppercorn cauliflower florets with a parmesan & peppercorn seasoning",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 4.1,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli bake broccoli topped with a cheddar parmesan sauce and panko bread crumbs, cheddar broccoli bake",
+        "Name": "Cheddar broccoli bake broccoli topped with a cheddar parmesan sauce & panko bread crumbs",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.8,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Zesty ranch oven roasters broccoli florets with ranch seasoning, zesty ranch",
+        "Name": "Zesty ranch oven roasters broccoli florets with ranch seasoning",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.5,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Brussels sprouts & applewood bacon with honey butter glaze, honey butter glaze",
+        "Name": "Brussels sprouts & applewood bacon with honey butter glaze",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 10.6,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Zucchini spirals zucchini spirals with creamy pesto sauce, zucchini spirals",
+        "Name": "Zucchini spirals zucchini spirals with creamy pesto sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 4.5,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Organic quinoa duo with grilled zucchini, butternut squash and tomatoes, grilled zucchini, butternut squash and tomatoes",
+        "Name": "Organic quinoa duo with grilled zucchini, butternut squash & tomatoes, grilled zucchini",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Bulgur with feta with olives & sundried tomatoes grain & vegetable blends, bulgur with feta",
+        "Name": "Bulgur with feta with olives & sundried tomatoes grain & vegetable blends",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.6,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Spelt & tomato with mushrooms grain & vegetable blends, spelt & tomato with mushrooms",
+        "Name": "Spelt & tomato with mushrooms grain & vegetable blends",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.8,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Grain & vegetable blends chimichurri rice with tomatoes, onions & peas, grain & vegetable blends",
+        "Name": "Grain & vegetable blends chimichurri rice with tomatoes, onions & peas",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.3,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Grain & vegetable blends bulgur, barley & red quinoa with tomato, chickpeas, red onion, spinach, olives & feta, grain & vegetable blends",
+        "Name": "Grain & vegetable blends bulgur, barley & red quinoa with tomato, chickpeas, red onion, spinach, olives & feta",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.6,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Grain & vegetable blends bulgur & red quinoa with green beans & sundried tomatoes, grain & vegetable blends",
+        "Name": "Grain & vegetable blends bulgur & red quinoa with green beans & sundried tomatoes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 9.2,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "Bacon & ranch loaded potato bites shredded potatoes stuffed with applewood bacon bits, ranch & habanero seasoning, with a ranch dip packet, bacon & ranch",
+        "Name": "Bacon & ranch loaded potato bites shredded potatoes stuffed with applewood bacon bits, ranch & habanero seasoning, with a ranch dip packet",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 12.0,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Chicken fried rice ",
+        "Name": "Chicken fried rice",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.1,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "P.f. chang's, thai style basil chicken fried rice",
+        "Name": "P.f. changs, thai style basil chicken fried rice",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 2.2,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "P.f. chang's, shrimp fried rice with bok bhoy, carrots and egg",
+        "Name": "P.f. changs, shrimp fried rice with bok bhoy, carrots & egg",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.2,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "P.f. chang's, beef fried rice",
+        "Name": "P.f. changs, beef fried rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 4.8,
@@ -6534,7 +6534,7 @@
         }
     },
     {
-        "Name": "Lightly sauced rice, carrots, peas & mushrooms pilaf, lightly sauced",
+        "Name": "Lightly sauced rice, carrots, peas & mushrooms pilaf",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.2,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Green giant, steamers, pearled barley, sugar snap peas and julienne carrots in an herb infused extra virgin olive oil sauce",
+        "Name": "Green giant, steamers, pearled barley, sugar snap peas & julienne carrots in an herb infused extra virgin olive oil sauce",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.5,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Lightly sauced cheesy rice & broccoli, lightly sauced",
+        "Name": "Lightly sauced cheesy rice & broccoli",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.2,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Nacho cheese loaded potato bites shredded potatoes stuffed with cheese, nacho & pepper seasoning, with a cheese dip packet, nacho cheese",
+        "Name": "Nacho cheese loaded potato bites shredded potatoes stuffed with cheese, nacho & pepper seasoning, with a cheese dip packet",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 13.0,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Broccoli and cauliflower florets in a creamy cheese sauce with red peppers, topped with breadcrumbs and monterey jack cheese casserole, broccoli cauliflower",
+        "Name": "Broccoli & cauliflower florets in a creamy cheese sauce with red peppers, topped with breadcrumbs & monterey jack cheese casserole, broccoli cauliflower",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 4.9,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Country style corn casserole tossed with roasted onions, roasted red peppers, jalapenos, and a creamy cheese sauce, country style",
+        "Name": "Country style corn casserole tossed with roasted onions, roasted red peppers, jalapenos, & a creamy cheese sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 4.0,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Creamy mashed potatoes blended with pasteurized process cheddar cheese, bacon, sour cream, and chives in a light breading potato bites, creamy mashed potatoes",
+        "Name": "Creamy mashed potatoes blended with pasteurized process cheddar cheese, bacon, sour cream, & chives in a light breading potato bites",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 14.3,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Green bean casserole tossed with applewood smoked bacon pieces and roasted red peppers, in a creamy cheese sauce, topped with breadcrumbs, green bean casserole",
+        "Name": "Green bean casserole tossed with applewood smoked bacon pieces & roasted red peppers, in a creamy cheese sauce, topped with breadcrumbs",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 5.9,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Stir-fry vegetables with rice steamable broccoli, carrots, celery, mushrooms, onions & red peppers with white rice, stir-fry vegetables with rice",
+        "Name": "Stir-fry vegetables with rice steamable broccoli, carrots, celery, mushrooms, onions & red peppers with white rice",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Cheese risotto cooked rice in a creamy cheese sauce italian skillets, cheese risotto",
+        "Name": "Cheese risotto cooked rice in a creamy cheese sauce italian skillets",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 4.4,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Loaded mashed with bacon, butter, sour cream and green onions potatoes, loaded mashed",
+        "Name": "Loaded mashed with bacon, butter, sour cream & green onions potatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 4.9,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Cauliflower & sweet potato riced veggies, cauliflower & sweet potato",
+        "Name": "Cauliflower & sweet potato riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Homestyle mashed potatoes with butter, sea salt and black pepper, homestyle",
+        "Name": "Homestyle mashed potatoes with butter, sea salt & black pepper",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 6.4,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Cheese pasta filled with ricotta, mozzarella, and romano cheeses tortellini, cheese",
+        "Name": "Cheese pasta filled with ricotta, mozzarella, & romano cheeses tortellini",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Beets riced veggies, beets",
+        "Name": "Beets riced veggies",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Cauliflower with lemon & garlic riced veggies, cauliflower with lemon & garlic",
+        "Name": "Cauliflower with lemon & garlic riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese broccoli tots, broccoli & cheese",
+        "Name": "Broccoli & cheese broccoli tots",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 9.4,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrot & zucchini veggie spirals, mixed vegetables",
+        "Name": "Mixed vegetables carrot & zucchini veggie spirals",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Creamy jalapeno ranch infused cream cheese, monterey jack, jalapenos, caramelized onions, mozzarella cheese and roasted red peppers dip, creamy jalapeno ranch",
+        "Name": "Creamy jalapeno ranch infused cream cheese, monterey jack, jalapenos, caramelized onions, mozzarella cheese & roasted red peppers dip",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.6,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Eggplant, peppers & zucchini in an italian blend of herbs, oil and balsamic vinegar marinated veggies, eggplant, peppers & zucchini",
+        "Name": "Eggplant, peppers & zucchini in an italian blend of herbs, oil & balsamic vinegar marinated veggies, eggplant",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Original cauliflower gnocchi, original cauliflower",
+        "Name": "Original cauliflower gnocchi",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 1.0,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Marinated blend of oils, spices & white wine mushrooms, marinated",
+        "Name": "Marinated blend of oils, spices & white wine mushrooms",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 7.5,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Butternut squash a blend of butternut squash, carrots and a hint of brown sugar veggie cakes, butternut squash",
+        "Name": "Butternut squash a blend of butternut squash, carrots & a hint of brown sugar veggie cakes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.1,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Garlic cauliflower breadsticks, garlic",
+        "Name": "Garlic cauliflower breadsticks",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 12.8,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Original cauliflower breadsticks, original",
+        "Name": "Original cauliflower breadsticks",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 12.2,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Farro & quinoa organic with broccoli and feta, farro & quinoa",
+        "Name": "Farro & quinoa organic with broccoli & feta",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.5,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Stir-fry-style riced cauliflower carrots, green peas, corn, scallions & spices, stir-fry-style",
+        "Name": "Stir-fry-style riced cauliflower carrots, green peas, corn, scallions & spices",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.4,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Cauliflower french onion crispy & crunchy veggie rings, cauliflower french onion",
+        "Name": "Cauliflower french onion crispy & crunchy veggie rings",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 8.2,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Eggplant grilled veggies, eggplant",
+        "Name": "Eggplant grilled veggies",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Zucchini garlic & parmesan veggie fries, zucchini garlic & parmesan",
+        "Name": "Zucchini garlic & parmesan veggie fries",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 9.4,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Cauliflower ranch with bacon veggie fries, cauliflower ranch with bacon",
+        "Name": "Cauliflower ranch with bacon veggie fries",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 8.2,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Cauliflower mac & cheese, cauliflower",
+        "Name": "Cauliflower mac & cheese",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 7.1,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Broccoli & rice casserole, broccoli & rice",
+        "Name": "Broccoli & rice casserole",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 7.1,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Green beans & shrimp succulent shrimp, green beans and red peppers in garlic sauce with a blend of herbs and spices, green beans & shrimp",
+        "Name": "Green beans & shrimp succulent shrimp, green beans & red peppers in garlic sauce with a blend of herbs & spices",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.5,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Scalloped potatoes, scalloped",
+        "Name": "Scalloped potatoes",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 10.7,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Cauliflower a delicious blend of vegetables accompanied by a savory gravy & creamy mashed cauliflower topping shepherd's pie, cauliflower",
+        "Name": "Cauliflower a delicious blend of vegetables accompanied by a savory gravy & creamy mashed cauliflower topping shepherds pie",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 5.3,
@@ -6912,7 +6912,7 @@
         }
     },
     {
-        "Name": "Uncured ham & cheese creamy egg custard with sharp white cheddar, uncured ham, parmesan cheese, and chives egg bites, uncured ham & cheese",
+        "Name": "Uncured ham & cheese creamy egg custard with sharp white cheddar, uncured ham, parmesan cheese, & chives egg bites",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 20.8,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Cauliflower tots, cauliflower",
+        "Name": "Cauliflower tots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 4.8,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Fried potatoes with onions, onions",
+        "Name": "Fried potatoes with onions",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Broccoli tots, broccoli",
+        "Name": "Broccoli tots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 5.4,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Creamed spinach & a classic combination packed with spinach in a rich creamy bechamel sauce topped with panko bread crumbs and baked until bubbly, creamed spinach",
+        "Name": "Creamed spinach & a classic combination packed with spinach in a rich creamy bechamel sauce topped with panko bread crumbs & baked until bubbly",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.0,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Cilantro lime seasoned rice, cilantro lime",
+        "Name": "Cilantro lime seasoned rice",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 6.2,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Vegetable fried rice white rice, peas, carrots, onion and egg in stir fry sauce, vegetable fried rice",
+        "Name": "Vegetable fried rice white rice, peas, carrots, onion & egg in stir fry sauce",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 5.4,
@@ -6993,7 +6993,7 @@
         }
     },
     {
-        "Name": "Broccoli cakes, broccoli",
+        "Name": "Broccoli cakes",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 3.7,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Green mill, twice baked potatoes, three cheese, three cheese",
+        "Name": "Green mill, twice baked potatoes, three cheese",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 6.1,
@@ -7011,7 +7011,7 @@
         }
     },
     {
-        "Name": "Potatoes & cheese with sauteed onions homemade pierogi, potatoes & cheese with sauteed onions",
+        "Name": "Potatoes & cheese with sauteed onions homemade pierogi",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 2.1,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Macaroni & cheese freshly made pasta in a real cheddar cheese sauce, macaroni & cheese",
+        "Name": "Macaroni & cheese freshly made pasta in a real cheddar cheese sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 7.1,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "Organic original veggie bites, original",
+        "Name": "Organic original veggie bites",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 9.4,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Potatoes gratin, mushroom and cream",
+        "Name": "Potatoes gratin, mushroom & cream",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 10.0,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Roasted yukon gold & redskin potato blend with olive oil, garlic and herbs, roasted yukon gold & redskin",
+        "Name": "Roasted yukon gold & redskin potato blend with olive oil, garlic & herbs",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.2,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Hawaiian un-fried rice with black rice, shiitake mushrooms, pineapple, and cashews, cooked in avocado oil, hawaiian un-fried rice",
+        "Name": "Hawaiian un-fried rice with black rice, shiitake mushrooms, pineapple, & cashews, cooked in avocado oil",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Garlic butter rotini & vegetables sauced, garlic butter",
+        "Name": "Garlic butter rotini & vegetables sauced",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.1,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Macaroni and cheese, classics",
+        "Name": "Macaroni & cheese, classics",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 2.0,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Petite potatoes with smoked gouda, onion & thyme artisan seasoning blend, smoked gouda, onion & thyme",
+        "Name": "Petite potatoes with smoked gouda, onion & thyme artisan seasoning blend, smoked gouda",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Butternut squash riced veggies, butternut squash",
+        "Name": "Butternut squash riced veggies",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Broccoli riced veggies, broccoli",
+        "Name": "Broccoli riced veggies",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Crispy seasoned potato puffs with roasted garlic and cracked black pepper, crispy seasoned, roasted garlic and cracked black pepper",
+        "Name": "Crispy seasoned potato puffs with roasted garlic & cracked black pepper, crispy seasoned",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 11.9,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Zucchini veggie spirals, zucchini",
+        "Name": "Zucchini veggie spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Garlic + herb organics mashed cauliflower, garlic + herb",
+        "Name": "Garlic & herb organics mashed cauliflower",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.8,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower casserole with green beans, fried onions & mushroom sauce riced veggies, riced cauliflower casserole",
+        "Name": "Riced cauliflower casserole with green beans, fried onions & mushroom sauce riced veggies",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 6.2,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower italian style with broccoli florets, red peppers & olive oil herb sauce riced veggies, riced cauliflower italian style",
+        "Name": "Riced cauliflower italian style with broccoli florets, red peppers & olive oil herb sauce riced veggies",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 4.0,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Seasoned, shredded potatoes tater treats, seasoned",
+        "Name": "Seasoned, shredded potatoes tater treats",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.1,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Butternut squash veggie spirals, butternut squash",
+        "Name": "Butternut squash veggie spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Riced veggies cauliflower, riced veggies",
+        "Name": "Riced veggies cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Carrots & broccoli florets with scallions and garlic, lightly seasoned with salt & black pepper shredded veggies, carrots & broccoli florets",
+        "Name": "Carrots & broccoli florets with scallions & garlic, lightly seasoned with salt & black pepper shredded veggies",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 2.1,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "White cabbage & carrots with scallions and grilled onions, lightly seasoned with salt and black pepper shredded veggies, white cabbage & carrots",
+        "Name": "White cabbage & carrots with scallions & grilled onions, lightly seasoned with salt & black pepper shredded veggies",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 1.6,
@@ -7245,7 +7245,7 @@
         }
     },
     {
-        "Name": "Broccoli cheddar veggie cakes, broccoli cheddar",
+        "Name": "Broccoli cheddar veggie cakes",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 8.8,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Organic quinoa duo with grilled zucchini, butternut squash & tomatoes grain medley, quinoa duo",
+        "Name": "Organic quinoa duo with grilled zucchini, butternut squash & tomatoes grain medley",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Organic savory mushroom whole grain medley, savory mushroom",
+        "Name": "Organic savory mushroom whole grain medley",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 2.8,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Potato herb baked with slowly roasted potatoes, thyme, rosemary and chives, potato herb",
+        "Name": "Potato herb baked with slowly roasted potatoes, thyme, rosemary & chives",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Rosemary & thyme potatoes gratin, rosemary & thyme",
+        "Name": "Rosemary & thyme potatoes gratin",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 13.0,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "Parmesan penne with spinach sauced, parmesan",
+        "Name": "Parmesan penne with spinach sauced",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.6,
@@ -7299,7 +7299,7 @@
         }
     },
     {
-        "Name": "Cauliflower, cheese & bacon veggie tots, cauliflower, cheese & bacon",
+        "Name": "Cauliflower, cheese & bacon veggie tots, cauliflower",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 10.6,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Crispy lightly breaded cauliflower florets, crispy",
+        "Name": "Crispy lightly breaded cauliflower florets",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 8.3,
@@ -7317,7 +7317,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes, carrots & red potatoes seasoned with sea salt, black pepper & herbs oven roasters, sweet potatoes, carrots & red potatoes",
+        "Name": "Sweet potatoes, carrots & red potatoes seasoned with sea salt, black pepper & herbs oven roasters, sweet potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 2.9,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Crispy lightly breaded broccoli florets, crispy",
+        "Name": "Crispy lightly breaded broccoli florets",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 8.3,
@@ -7335,7 +7335,7 @@
         }
     },
     {
-        "Name": "Sweet potato 'rotini veggie spirals, sweet potato 'rotini'",
+        "Name": "Sweet potato rotini veggie spirals",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Mac & 3 cheese with cauliflower bowls, mac & 3 cheese with cauliflower",
+        "Name": "Mac & cheese with cauliflower bowls",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 5.6,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Fried rice style riced cauliflower with carrots, peas, onions and eggs, seasoned with ginger and soy sauce, fried rice style",
+        "Name": "Fried rice style riced cauliflower with carrots, peas, onions & eggs, seasoned with ginger & soy sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 1.4,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Spanish style riced cauliflower with poblano peppers, tomatoes, and onions in a tomato sauce, spanish style",
+        "Name": "Spanish style riced cauliflower with poblano peppers, tomatoes, & onions in a tomato sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.9,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Asparagus risotto creamy cheese risotto with asparagus, asparagus risotto",
+        "Name": "Asparagus risotto creamy cheese risotto with asparagus",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.2,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Zucchini garlic & parmesan crispy & crunchy veggie fries, zucchini garlic & parmesan",
+        "Name": "Zucchini garlic & parmesan crispy & crunchy veggie fries",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 9.4,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Sweet potato latkes, sweet potato",
+        "Name": "Sweet potato latkes",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 8.0,
@@ -7398,7 +7398,7 @@
         }
     },
     {
-        "Name": "Ancient grain blend organic quinoa duo with grilled zucchini, butternut squash and tomatoes, grilled zucchini, butternut squash and tomatoes",
+        "Name": "Ancient grain blend organic quinoa duo with grilled zucchini, butternut squash & tomatoes, grilled zucchini",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Melty 3 cheese cheddar, mozzarella, parmesan crispy filled potato rosti, melty 3 cheese",
+        "Name": "Melty cheese cheddar, mozzarella, parmesan crispy filled potato rosti",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 6.7,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Sauced olive oil & lemon couscous pasta & spinach, sauced",
+        "Name": "Sauced olive oil & lemon couscous pasta & spinach",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 2.8,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower stuffing seasoned with carrots, celery, onion, rosemary, parsley, thyme, garlic & bay leaves, riced cauliflower stuffing",
+        "Name": "Riced cauliflower stuffing seasoned with carrots, celery, onion, rosemary, parsley, thyme, garlic & bay leaves",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.5,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Carrot spirals with ginger soy sauce organic plant powered plates, carrot spirals",
+        "Name": "Carrot spirals with ginger soy sauce organic plant powered plates",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.4,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Medium jollof one part rice spiced and stewed in a flavorful tomato broth with roasted red peppers and onions, medium",
+        "Name": "Medium jollof one part rice spiced & stewed in a flavorful tomato broth with roasted red peppers & onions",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.6,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Chicken white meat chicken, vegetables and scrambled eggs with a savory sauce fried rice, chicken",
+        "Name": "Chicken white meat chicken, vegetables & scrambled eggs with a savory sauce fried rice",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.0,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Quinoa & potato qrispy q's healthy hashbrown bites, original, sea salt",
+        "Name": "Quinoa & potato qrispy qs healthy hashbrown bites, original, sea salt",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 9.4,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Quinoa & potato qrispy q's, spicy",
+        "Name": "Quinoa & potato qrispy qs, spicy",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 10.9,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Bulgar & red quinoa organic with green beans and sundried tomatoes, bulgar & red quinoa",
+        "Name": "Bulgar & red quinoa organic with green beans & sundried tomatoes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 9.2,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Cauliflower puffs, cauliflower",
+        "Name": "Cauliflower puffs",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.1,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Broccoli rice casserole, broccoli rice",
+        "Name": "Broccoli rice casserole",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 5.3,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Curried riced cauliflower, curried",
+        "Name": "Curried riced cauliflower",
         "Nutrients": {
             "Protein": 34.1,
             "Fat": 2.4,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "Baja style riced cauliflower, baja style",
+        "Name": "Baja style riced cauliflower",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.4,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Superfood veggie cakes, superfood",
+        "Name": "Superfood veggie cakes",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.0,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Whole grain brown rice, whole grain red jasmine rice & whole grain black barley medley, whole grain",
+        "Name": "Whole grain brown rice, whole grain red jasmine rice & whole grain black barley medley",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.1,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Sweet potato & zucchini golden & red quinoa with sweet potato, zucchini & yellow squash quinoa, sweet potato & zucchini",
+        "Name": "Sweet potato & zucchini golden & red quinoa with sweet potato, zucchini & yellow squash quinoa",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.2,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Garlic parmesan lightly breaded cauliflower florets with a garlic parmesan sauce cauliflower wings, garlic parmesan",
+        "Name": "Garlic parmesan lightly breaded cauliflower florets with a garlic parmesan sauce cauliflower wings",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.3,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Vegetable pilaf brown rice, golden quinoa & red quinoa with green peas & carrots quinoa, vegetable pilaf",
+        "Name": "Vegetable pilaf brown rice, golden quinoa & red quinoa with green peas & carrots quinoa",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -7587,7 +7587,7 @@
         }
     },
     {
-        "Name": "Asian style red quinoa & brown rice with vegetables & soy ginger sauce quinoa, asian style",
+        "Name": "Asian style red quinoa & brown rice with vegetables & soy ginger sauce quinoa",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.1,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli topped with a cheddar parmesan sauce and panko bread crumbs cheddar broccoli bake, cheddar broccoli",
+        "Name": "Cheddar broccoli topped with a cheddar parmesan sauce & panko bread crumbs cheddar broccoli bake",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 5.8,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Mushroom risotto rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce precooked pasta, mushroom risotto",
+        "Name": "Mushroom risotto rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce precooked pasta",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Roasted & ready baby golden potatoes with himalayan salt, himalayan salt",
+        "Name": "Roasted & ready baby golden potatoes with himalayan salt",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 2.3,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Roasted & ready baby sunrise potatoes with rosemary & garlic, rosemary & garlic",
+        "Name": "Roasted & ready baby sunrise potatoes with rosemary & garlic",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 2.3,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Four cheese twice baked potatoes with a creamy blend of sour cream, cheddar, parmesan, asiago and monterey jack cheeses twice baked potatoes, four cheese",
+        "Name": "Four cheese twice baked potatoes with a creamy blend of sour cream, cheddar, parmesan, asiago & monterey jack cheeses twice baked potatoes",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 9.7,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Powered by plants ancient grains with riced sweet potato, riced sweet potato",
+        "Name": "Powered by plants ancient grains with riced sweet potato",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.7,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Powdered by plants ancient grains with riced broccoli, riced broccoli",
+        "Name": "Powdered by plants ancient grains with riced broccoli",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 0.7,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Garlic & herbs with a touch of sea salt riced cauliflower & broccoli, garlic & herbs with a touch of sea salt",
+        "Name": "Garlic & herbs with a touch of sea salt riced cauliflower & broccoli",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Southwest with black beans, corn, red bell peppers and seasoning riced cauliflower, southwest",
+        "Name": "Southwest with black beans, corn, red bell peppers & seasoning riced cauliflower",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.4,
@@ -7686,7 +7686,7 @@
         }
     },
     {
-        "Name": "Parmesan herb with diced butternut squash and parsley riced cauliflower, parmesan herb with diced butternut squash and parsley",
+        "Name": "Parmesan herb with diced butternut squash & parsley riced cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 3.5,
@@ -7695,7 +7695,7 @@
         }
     },
     {
-        "Name": "Teriyaki with pineapple, peas, carrots and sweet & savory seasoning riced cauliflower, teriyaki",
+        "Name": "Teriyaki with pineapple, peas, carrots & sweet & savory seasoning riced cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.2,
@@ -7722,7 +7722,7 @@
         }
     },
     {
-        "Name": "Quinoa salad with mediterranean vegetables a mediterranean inspired blend of peppers, eggplant, chickpeas, sun dried tomato, black olives, and almonds with extra virgin olive oil, quinoa with mediterranean vegetables",
+        "Name": "Quinoa salad with mediterranean vegetables a mediterranean inspired blend of peppers, eggplant, chickpeas, sun dried tomato, black olives, & almonds with extra virgin olive oil, quinoa with mediterranean vegetables",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.7,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Raley's, macaroni & cheese, roasted jalapeno, roasted jalapeno",
+        "Name": "Raleys, macaroni & cheese, roasted jalapeno",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.1,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Cinnamon spiced sweet steamable potatoes, cinnamon spiced sweet",
+        "Name": "Cinnamon spiced sweet steamable potatoes",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Powered by plants ancient grains with riced sweet potato, farro and black barley, riced sweet potato, farro and black barley",
+        "Name": "Powered by plants ancient grains with riced sweet potato, farro & black barley, riced sweet potato",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.7,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Powered by plants ancient grains with riced broccoli, farro and black barley, riced broccoli, farro and black barley",
+        "Name": "Powered by plants ancient grains with riced broccoli, farro & black barley, riced broccoli",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 0.7,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Southwest-style steam-in-bag burrito bowl blend made with bell peppers, onions, black beans & corn with rice in a spicy southwest-style sauce, southwest-style",
+        "Name": "Southwest-style steam-in- burrito bowl blend made with bell peppers, onions, black beans & corn with rice in a spicy southwest-style sauce",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Unseasoned with carrots, onions, and red quinoa riced broccoli, unseasoned",
+        "Name": "Unseasoned with carrots, onions, & red quinoa riced broccoli",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Seasoned potato wedges, seasoned",
+        "Name": "Seasoned potato wedges",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 4.3,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Asian with cauliflower, chickpeas, spinach, carrots, peas & mushrooms riced cauliflower, asian",
+        "Name": "Asian with cauliflower, chickpeas, spinach, carrots, peas & mushrooms riced cauliflower",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.0,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Butternut squash bake, butternut",
+        "Name": "Butternut squash bake",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.5,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Southwestern rice, southwestern",
+        "Name": "Southwestern rice",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 1.9,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Spinach bake, spinach",
+        "Name": "Spinach bake",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 1.5,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Cheese bake cauliflower, cheese",
+        "Name": "Cheese bake cauliflower",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.5,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Pilaf-style riced cauliflower, pilaf-style",
+        "Name": "Pilaf-style riced cauliflower",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 8.0,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Stir-fry-style riced cauliflower carrots, green peans, corns, scallions & spices, stir-fry-style",
+        "Name": "Stir-fry-style riced cauliflower carrots, green peans, corns, scallions & spices",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.4,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Mexican style street corn with cotija cheese, cotija cheese",
+        "Name": "Mexican style street corn with cotija cheese",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 5.3,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli topped with a cheddar parmesan sauce and panko bread crumbs bake, cheddar broccoli",
+        "Name": "Cheddar broccoli topped with a cheddar parmesan sauce & panko bread crumbs bake",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 5.8,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Jollof rice, jollof",
+        "Name": "Jollof rice",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.6,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Quinoa with vegetables, vegetables",
+        "Name": "Quinoa with vegetables",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.4,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Caribbean style protein bean & vegetable blend, caribbean style",
+        "Name": "Caribbean style protein bean & vegetable blend",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 2.1,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Cajun style protein bean & vegetable blend, cajun style",
+        "Name": "Cajun style protein bean & vegetable blend",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 2.4,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Santa fe style a perfect blend of beans, quinoa, green peas, brown rice and red peppers in a zesty southwestern style pepper sauce protein bean & vegetable blend, santa fe style",
+        "Name": "Santa fe style a perfect blend of beans, quinoa, green peas, brown rice & red peppers in a zesty southwestern style pepper sauce protein bean & vegetable blend",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 1.0,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Brown sugar mashed sweet potatoes, brown sugar",
+        "Name": "Brown sugar mashed sweet potatoes",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 2.6,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Original homestyle mashed cauliflower, original",
+        "Name": "Original homestyle mashed cauliflower",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 7.4,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Sicilian style protein bean & vegetable blend, sicilian style",
+        "Name": "Sicilian style protein bean & vegetable blend",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 2.4,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Vegetable fried rice, vegetable",
+        "Name": "Vegetable fried rice",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 5.4,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Steamables, jasmine rice, jasmine",
+        "Name": "Steamables, jasmine rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.5,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Potato poppers, potato",
+        "Name": "Potato poppers",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 6.0,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Roasted baby potatoes, roasted",
+        "Name": "Roasted baby potatoes",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Mediterranean potatoes, mediterranean",
+        "Name": "Mediterranean potatoes",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 8.8,
@@ -8046,7 +8046,7 @@
         }
     },
     {
-        "Name": "Chicken stir fry short linguini with sliced white meat chicken and crisp veggies in a sesame-ginger sauce, chicken",
+        "Name": "Chicken stir fry short linguini with sliced white meat chicken & crisp veggies in a sesame-ginger sauce",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 1.5,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Shrimp parboiled long grain white rice with shrimp and crisp veggies in an oriental sauce fried rice, shrimp",
+        "Name": "Shrimp parboiled long grain white rice with shrimp & crisp veggies in an oriental sauce fried rice",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.0,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Pearled couscous steamables, pearled",
+        "Name": "Pearled couscous steamables",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 0.0,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Crispy lightly breaded carrot slices, crispy",
+        "Name": "Crispy lightly breaded carrot slices",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 10.7,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower herb seasoned riced cauliflower blended with carrots, cranberries, leek, onion & celery stuffing, riced cauliflower",
+        "Name": "Riced cauliflower herb seasoned riced cauliflower blended with carrots, cranberries, leek, onion & celery stuffing",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.5,
@@ -8100,7 +8100,7 @@
         }
     },
     {
-        "Name": "Yellow rice long grain rice with vegetables & spices, yellow rice",
+        "Name": "Yellow rice long grain rice with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -8127,7 +8127,7 @@
         }
     },
     {
-        "Name": "Spicy mexican style riced veggie blends riced cauliflower, green & red bell peppers, fire roasted corn & spices, spicy mexican style",
+        "Name": "Spicy mexican style riced veggie blends riced cauliflower, green & red bell peppers, fire roasted corn & spices",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Creamy garlic pasta shells in a creamy garlic flavored sauce pasta sides, creamy garlic",
+        "Name": "Creamy garlic pasta shells in a creamy garlic flavored sauce pasta sides",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 2.1,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Cilantro lime riced veggie blends, cilantro lime",
+        "Name": "Cilantro lime riced veggie blends",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Riced veggie asian stir fry style riced cauliflower, red bell peppers, fire roasted corn, sweet peas & seasoning blends, riced veggie asian stir fry style",
+        "Name": "Riced veggie asian stir fry style riced cauliflower, red bell peppers, fire roasted corn, sweet peas & seasoning blends",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Southwestern style corn, peppers & seasoning street corn, southwestern style",
+        "Name": "Southwestern style corn, peppers & seasoning street corn",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 2.8,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Mexican casserole tender long-grain rice, vegetables & beans in a zesty blend of spices on a soft corn tortilla, topped with jack cheese, mexican casserole",
+        "Name": "Mexican casserole tender long-grain rice, vegetables & beans in a zesty blend of spices on a soft corn tortilla, topped with jack cheese",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 3.5,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Roasted baby potatoes whole baby potatoes with extra virgin olive oil & sea salt, extra virgin olive oil & sea salt",
+        "Name": "Roasted baby potatoes whole baby potatoes with extra virgin olive oil & sea salt",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower stir fry organic riced cauliflower mixed with peas, corn & red bell peppers tossed in a sesame ginger sauce, riced cauliflower stir fry",
+        "Name": "Riced cauliflower stir fry organic riced cauliflower mixed with peas, corn & red bell peppers tossed in a sesame ginger sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Tater puffs seasoned fried potatoes, seasoned fried potatoes",
+        "Name": "Tater puffs seasoned fried potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.1,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Asian-style vegetables & rice fresh steam mukimame, white long grain rice, carrots, red bell peppers. mushrooms & wild rice with teriyaki sauce, asian-style vegetables & rice",
+        "Name": "Asian-style vegetables & rice fresh steam mukimame, white long grain rice, carrots, red bell peppers. mushrooms & wild rice with teriyaki sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.8,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Bacon cheddar cauliflower topped with a cheddar parmesan sauce, bacon, and scallions bake, bacon cheddar cauliflower",
+        "Name": "Bacon cheddar cauliflower topped with a cheddar parmesan sauce, bacon, & scallions bake",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 8.0,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Mushroom rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce risotto, mushroom",
+        "Name": "Mushroom rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce risotto",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Parmesan garlic green pea pasta, riced broccoli, riced cauliflower, grilled zucchini, tomatoes & seasoning riced veggie blends, parmesan garlic",
+        "Name": "Parmesan garlic green pea pasta, riced broccoli, riced cauliflower, grilled zucchini, tomatoes & seasoning riced veggie blends",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.1,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Mediterranean blend potatoes, zucchini, and carrots with mediterranean inspired seasonings, mediterranean blend",
+        "Name": "Mediterranean blend potatoes, zucchini, & carrots with mediterranean inspired seasonings",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 4.7,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Butter 'n' garlic homestyle mashed potatoes, butter 'n' garlic",
+        "Name": "Butter & garlic homestyle mashed potatoes",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 10.7,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Potatoes o'brien with onions & peppers, onions & peppers",
+        "Name": "Potatoes obrien with onions & peppers",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Simple 'n' creamy homestyle mashed potatoes, simple 'n' creamy",
+        "Name": "Simple & creamy homestyle mashed potatoes",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 10.7,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Homestyle mashed potatoes 'n' cauliflower, 'n' cauliflower",
+        "Name": "Homestyle mashed potatoes & cauliflower",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 7.1,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Zucchini chips with sweet & sour sauce thick cut zucchini coated in a crispy seasoned breading with a side of tasty sweet & sour sauce, zucchini chips with sweet & sour sauce",
+        "Name": "Zucchini chips with sweet & sour sauce thick cut zucchini coated in a crispy seasoned breading with a side of tasty sweet & sour sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 8.0,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Apple a classic combination of northern spy apples and brown sugar with a cinnamon spiced oat topping crisp, apple",
+        "Name": "Apple a classic combination of northern spy apples & brown sugar with a cinnamon spiced oat topping crisp",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 5.4,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Gochujang chow mein with zucchini spirals zucchini noodles mixed with a blend of carrots, broccoli, bell peppers, green beans and edamame tossed in a red chili gochujang sauce, zucchini spirals",
+        "Name": "Gochujang chow mein with zucchini spirals zucchini noodles mixed with a blend of carrots, broccoli, bell peppers, green beans & edamame tossed in a red chili gochujang sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 1.4,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Mediterranean style riced veggie blends, mediterranean style",
+        "Name": "Mediterranean style riced veggie blends",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.1,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Vegetable lo mein noodles, cabbage, celery, onions and carrots tossed in a savory sauce side dish, vegetable lo mein",
+        "Name": "Vegetable lo mein noodles, cabbage, celery, onions & carrots tossed in a savory sauce side dish",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 3.8,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Sesame citrus riced cauliflower, sesame citrus",
+        "Name": "Sesame citrus riced cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Shrimp ravioli, shrimp",
+        "Name": "Shrimp ravioli",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.7,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Pearl barley risotto ancient grains & vegetables, pearl barley risotto",
+        "Name": "Pearl barley risotto ancient grains & vegetables",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 2.1,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Bacon cheddar breaded riced cauliflower bites with cheddar cheese, mozzarella cheese, green onions, and bacon loaded cauliflower bites, bacon cheddar",
+        "Name": "Bacon cheddar breaded riced cauliflower bites with cheddar cheese, mozzarella cheese, green onions, & bacon loaded cauliflower bites",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 10.8,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Riced cauliflower & quinoa mediterranean with spinach, cherry tomato, feta cheese & basil blend, riced cauliflower & quinoa mediterranean",
+        "Name": "Riced cauliflower & quinoa mediterranean with spinach, cherry tomato, feta cheese & basil blend",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 6.3,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Rustic potatoes & button mushrooms with green beans and asparagus in a garlic herb sauce special blends, rustic potatoes & button mushrooms",
+        "Name": "Rustic potatoes & button mushrooms with green beans & asparagus in a garlic herb sauce special blends",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.4,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "Chicken breast meat, bacon added, crisp vegetables & cooked eggs in a delicious gourmet sauce fried rice, chicken",
+        "Name": "Chicken breast meat, bacon added, crisp vegetables & cooked eggs in a delicious gourmet sauce fried rice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.5,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Cauliflower seasoned with salt, pepper, roasted garlic & onion quick roasters, cauliflower",
+        "Name": "Cauliflower seasoned with salt, pepper, roasted garlic & onion quick roasters",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 3.5,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Mushroom risotto rice with a blend of champignon & porcini mushrooms in a creamy mushroom sauce, mushroom risotto",
+        "Name": "Mushroom risotto rice with a blend of champignon & porcini mushrooms in a creamy mushroom sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.7,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Red potatoes seasoned with rosemary, thyme, & other herbs and spices quick roasters, red potatoes",
+        "Name": "Red potatoes seasoned with rosemary, thyme, & other herbs & spices quick roasters",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 3.5,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Parmesan peppercorn cauliflower florets with a parmesan and peppercorn seasoning oven roasters, parmesan peppercorn cauliflower",
+        "Name": "Parmesan peppercorn cauliflower florets with a parmesan & peppercorn seasoning oven roasters",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 4.3,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Potato and bacon mashed potatoes topped with cheddar cheese, bacon & green onions loaded potato bake, potato and bacon",
+        "Name": "Potato & bacon mashed potatoes topped with cheddar cheese, bacon & green onions loaded potato bake",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 4.3,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Creamy jalapeno ranch dip ranch infused cream cheese, monterey jack, jalapenos, caramelized onions, mozzarella cheese and roasted red peppers, creamy jalapeno ranch",
+        "Name": "Creamy jalapeno ranch dip ranch infused cream cheese, monterey jack, jalapenos, caramelized onions, mozzarella cheese & roasted red peppers",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.6,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Mediterranean style red lentil pasta, riced broccoli, riced cauliflower, feta cheese, sundried tomatoes & seasoning riced veggie blends, mediterranean style",
+        "Name": "Mediterranean style red lentil pasta, riced broccoli, riced cauliflower, feta cheese, sundried tomatoes & seasoning riced veggie blends",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.1,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Spicy mexican style riced cauliflower, green & red bell peppers, fire roasted corn & spices riced veggie blends, spicy mexican style",
+        "Name": "Spicy mexican style riced cauliflower, green & red bell peppers, fire roasted corn & spices riced veggie blends",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Organic rice & quinoa quartet with sundried tomatoes, feta and black olives",
+        "Name": "Organic rice & quinoa quartet with sundried tomatoes, feta & black olives",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.6,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Rustic potatoes & button mushrooms with green beans and asparagus in a garlic herb sauce special blends",
+        "Name": "Rustic potatoes & button mushrooms with green beans & asparagus in a garlic herb sauce special blends",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.4,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Cauliflower & cheese sauce, cheese sauce",
+        "Name": "Cauliflower & cheese sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.1,
@@ -8532,7 +8532,7 @@
         }
     },
     {
-        "Name": "Broccoli, cauliflower, carrots & cheese sauce, cheese sauce",
+        "Name": "Broccoli, cauliflower, carrots & cheese sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 2.5,
@@ -8541,7 +8541,7 @@
         }
     },
     {
-        "Name": "Crispy crowns shredded, formed potatoes, crispy crowns",
+        "Name": "Crispy crowns shredded, formed potatoes",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 11.9,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Seasoned sweet potato & vegetables with sweet potato, yellow & orange carrots & butternut squash seasoned with sea salt, garlic, rosemary & black pepper, seasoned sweet potato & vegetables",
+        "Name": "Seasoned sweet potato & vegetables with sweet potato, yellow & orange carrots & butternut squash seasoned with sea salt, garlic, rosemary & black pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 3.7,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Potato bake potato slices & red onion in a white cheese gratin sauce, potato bake",
+        "Name": "Potato bake potato slices & red onion in a white cheese gratin sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 9.8,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Shrimp fried rice parboiled long grain white rice with shrimp and crisp veggies in an oriental sauce, shrimp fried rice",
+        "Name": "Shrimp fried rice parboiled long grain white rice with shrimp & crisp veggies in an oriental sauce",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 1.0,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese tots, broccoli & cheese",
+        "Name": "Broccoli & cheese tots",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 9.4,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Marie callender's, mac & cheese",
+        "Name": "Marie callenders, mac & cheese",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 10.1,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Organic riced cauliflower blend with roasted sweet potatoes and kale, roasted sweet potatoes and kale",
+        "Name": "Organic riced cauliflower blend with roasted sweet potatoes & kale",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Organic riced cauliflower blend with stir-fry vegetables, stir-fry vegetables",
+        "Name": "Organic riced cauliflower blend with stir-fry vegetables",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Brown rice, corn, black beans and red bell pepper organic hearty blend, brown rice, corn, black beans and red bell pepper",
+        "Name": "Brown rice, corn, black beans & red bell pepper organic hearty blend, brown rice, corn",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 0.5,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Organic riced cauliflower blend with bell peppers and onions, bell peppers and onions",
+        "Name": "Organic riced cauliflower blend with bell peppers & onions",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Farro, broccoli, carrots and chickpeas organic hearty blend, farro, broccoli, carrots and chickpeas",
+        "Name": "Farro, broccoli, carrots & chickpeas organic hearty blend, farro, broccoli",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 0.0,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Cauliflower shepherd's pie, cauliflower",
+        "Name": "Cauliflower shepherds pie",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 5.3,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Specialty, asparagus risotto, asparagus",
+        "Name": "Specialty, asparagus risotto",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Red & white steam in bag quinoa with spinach & feta, red & white with spinach & feta",
+        "Name": "Red & white steam in quinoa with spinach & feta, red & white with spinach & feta",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 4.9,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Steam in bag tabbouleh with vegetables, vegetables",
+        "Name": "Steam in tabbouleh with vegetables",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.5,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Broccoli with potatoes & white beans, broccoli",
+        "Name": "Broccoli with potatoes & white beans",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.1,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Broccoli cheddar bake, broccoli cheddar",
+        "Name": "Broccoli cheddar bake",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 12.6,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Mediterranean-style steam-in-bag seasoned quinoa, couscous & vegetable blend, mediterranean-style",
+        "Name": "Mediterranean-style steam-in- seasoned quinoa, couscous & vegetable blend",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 3.8,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned quinoa & garden steam-in-bag vegetable blend, lightly seasoned quinoa & garden",
+        "Name": "Lightly seasoned quinoa & garden steam-in- vegetable blend",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 2.5,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Seasoned mediterranean-style vegetable blend for oven roasting, seasoned mediterranean-style vegetable",
+        "Name": "Seasoned mediterranean-style vegetable blend for oven roasting",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 2.9,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Seasoned brussels sprouts with regato cheese, regato cheese",
+        "Name": "Seasoned brussels sprouts with regato cheese",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 5.3,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Cauliflower vegetable steam-in-bag medley, cauliflower vegetable",
+        "Name": "Cauliflower vegetable steam-in- medley",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Cheddar & bacon lodded with shredded cheddar cheese, sour cream and bacon twice baked potatoes, cheddar & bacon",
+        "Name": "Cheddar & bacon lodded with shredded cheddar cheese, sour cream & bacon twice baked potatoes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 9.0,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Four cheese stuffed with sour cream, cheddar, parmesan, asiago and monterey jack cheese twice baked potatoes, four cheese",
+        "Name": "Four cheese stuffed with sour cream, cheddar, parmesan, asiago & monterey jack cheese twice baked potatoes",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 9.7,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Sweet potato casserole, sweet potato",
+        "Name": "Sweet potato casserole",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 4.4,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Dutch crust sweet potato casserole, dutch crust",
+        "Name": "Dutch crust sweet potato casserole",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 14.3,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Cheesy potato shredded potatoes in a creamy, cheesy sauce topped with crispy toasted corn flakes casserole sides, cheesy potato",
+        "Name": "Cheesy potato shredded potatoes in a creamy, cheesy sauce topped with crispy toasted corn flakes casserole sides",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 3.9,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli florets smothered in a cheddar parmesan cheese sauce with a touch of bacon casserole sides, cheddar broccoli",
+        "Name": "Cheddar broccoli florets smothered in a cheddar parmesan cheese sauce with a touch of bacon casserole sides",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.9,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Sweet corn sweet whole corn kernels in a creamy cornmeal batter with a touch of cheddar cheese casserole sides, sweet corn",
+        "Name": "Sweet corn sweet whole corn kernels in a creamy cornmeal batter with a touch of cheddar cheese casserole sides",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 17.4,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Green bean french cut green beans in a savory, creamy gravy topped with crispy fried onions casserole sides, green bean",
+        "Name": "Green bean french cut green beans in a savory, creamy gravy topped with crispy fried onions casserole sides",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 5.1,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Vegetable white rice with carrots, green peas, yellow and green onions in a seasoned soy sauce fried rice, vegetable",
+        "Name": "Vegetable white rice with carrots, green peas, yellow & green onions in a seasoned soy sauce fried rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.5,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Whole grain a seasoned blend of brown rice, red rice, and barley medley, whole grain",
+        "Name": "Whole grain a seasoned blend of brown rice, red rice, & barley medley",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.1,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Organic, jasmine white rice, jasmine white",
+        "Name": "Organic, jasmine white rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Southwestern steam in bag! rice, southwestern",
+        "Name": "Southwestern steam in ! rice",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 1.9,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Tater treats seasoned, shredded potatoes, tater treats",
+        "Name": "Tater treats seasoned, shredded potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 8.1,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Butternut squash seasoned with salt, pepper, roasted garlic & onion microwave roasters, butternut squash",
+        "Name": "Butternut squash seasoned with salt, pepper, roasted garlic & onion microwave roasters",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 2.9,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Au gratin homestyle casserole, au gratin",
+        "Name": "Au gratin homestyle casserole",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.6,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Fire-roasted sweet corn special blends with olive oil and sea sait, fire-roasted",
+        "Name": "Fire-roasted sweet corn special blends with olive oil & sea sait",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.7,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Fire roasted carrots, fire roasted",
+        "Name": "Fire roasted carrots",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 5.4,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Fire roasted corn, fire roasted",
+        "Name": "Fire roasted corn",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 7.2,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Baked potato casserole, baked potato",
+        "Name": "Baked potato casserole",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 7.9,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Sweet potato souffle, sweet potato",
+        "Name": "Sweet potato souffle",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 5.0,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned quinoa & garden vegetable steam-in-bag blend, lightly seasoned quinoa & garden vegetable",
+        "Name": "Lightly seasoned quinoa & garden vegetable steam-in- blend",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 2.5,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Cauliflower seasoned with salt, pepper, roasted garlic & onion microwave roasters, cauliflower",
+        "Name": "Cauliflower seasoned with salt, pepper, roasted garlic & onion microwave roasters",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 3.5,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Broccoli & cauliflower seasoned with salt, pepper, roasted garlic & onion microwave roasters, broccoli & cauliflower",
+        "Name": "Broccoli & cauliflower seasoned with salt, pepper, roasted garlic & onion microwave roasters",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 3.5,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Ancient grain blend organic quinoa duo with grilled zucchini, butternut squash and tomatoes, ancient grain blend",
+        "Name": "Ancient grain blend organic quinoa duo with grilled zucchini, butternut squash & tomatoes",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Quinoa duo organic grain medley, quinoa duo",
+        "Name": "Quinoa duo organic grain medley",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 3.5,
@@ -9045,7 +9045,7 @@
         }
     },
     {
-        "Name": "Cinnamon spiced steamable sweet potatoes, cinnamon spiced",
+        "Name": "Cinnamon spiced steamable sweet potatoes",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -9063,7 +9063,7 @@
         }
     },
     {
-        "Name": "Mushroom risotto rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce, mushroom",
+        "Name": "Mushroom risotto rice with a blend of portobello & porcini mushrooms in a creamy mushroom sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Mediterranean-style seasoned quinoa, couscous & vegetable steam-in-bag blend, mediterranean-style seasoned quinoa, couscous & vegetable",
+        "Name": "Mediterranean-style seasoned quinoa, couscous & vegetable steam-in- blend, mediterranean-style seasoned quinoa",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 3.8,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Vegetable seasoned long grain rice with a blend of colorful vegetables fried rice, vegetable",
+        "Name": "Vegetable seasoned long grain rice with a blend of colorful vegetables fried rice",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -9099,7 +9099,7 @@
         }
     },
     {
-        "Name": "Organic sweet potato croutions, sweet potato",
+        "Name": "Organic sweet potato croutions",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 5.9,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Roasted baby potatoes, roasted baby",
+        "Name": "Roasted baby potatoes",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Red potatoes seasoned with rosemary, thyme, & other herbs and spices microwave roasters, red potatoes",
+        "Name": "Red potatoes seasoned with rosemary, thyme, & other herbs & spices microwave roasters",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 3.5,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "Curried curry spices, green herbs, & a subtle kick of turmeric riced cauliflower, curried",
+        "Name": "Curried curry spices, green herbs, & a subtle kick of turmeric riced cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -9135,7 +9135,7 @@
         }
     },
     {
-        "Name": "Sesame citrus lemon and sesame with red bell peppers, edamame, & red onions riced cauliflower, sesame citrus",
+        "Name": "Sesame citrus lemon & sesame with red bell peppers, edamame, & red onions riced cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -9144,7 +9144,7 @@
         }
     },
     {
-        "Name": "Asian stir fry style riced cauliflower, fire roasted corn, sweet peas, red bell peppers & seasoning riced veggie blends, asian stir fry style",
+        "Name": "Asian stir fry style riced cauliflower, fire roasted corn, sweet peas, red bell peppers & seasoning riced veggie blends",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -9153,7 +9153,7 @@
         }
     },
     {
-        "Name": "Cheddar with bacon mashed cauliflower, cheddar with bacon",
+        "Name": "Cheddar with bacon mashed cauliflower",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 4.0,
@@ -9162,7 +9162,7 @@
         }
     },
     {
-        "Name": "Crispy lightly breaded green beans, crispy",
+        "Name": "Crispy lightly breaded green beans",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -9171,7 +9171,7 @@
         }
     },
     {
-        "Name": "Creamy pesto whole grain blend of brown rice & red quinoa, sliced green and yellow zucchini squash, halved cherry tomatoes, and chopped kale in a creamy pesto sauce topped with parmesan cheese veggies & grains, creamy pesto",
+        "Name": "Creamy pesto whole grain blend of brown rice & red quinoa, sliced green & yellow zucchini squash, halved cherry tomatoes, & chopped kale in a creamy pesto sauce topped with parmesan cheese veggies & grains",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 2.2,
@@ -9180,7 +9180,7 @@
         }
     },
     {
-        "Name": "Jasmine long grain white rice, jasmine",
+        "Name": "Jasmine long grain white rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.3,
@@ -9189,7 +9189,7 @@
         }
     },
     {
-        "Name": "Sesame green beans, sesame green",
+        "Name": "Sesame green beans",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 2.7,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Gochujang chow mein with zucchini spirals zucchini noodles mixed with a blend of carrots, broccoli, bell peppers, green beans and edamame tossed in a red chili gochujang sauce, gochujang chow mein with zucchini spirals",
+        "Name": "Gochujang chow mein with zucchini spirals zucchini noodles mixed with a blend of carrots, broccoli, bell peppers, green beans & edamame tossed in a red chili gochujang sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 1.4,
@@ -9207,7 +9207,7 @@
         }
     },
     {
-        "Name": "Olive oil & lemon couscous & spinach, olive oil & lemon",
+        "Name": "Olive oil & lemon couscous & spinach",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 3.2,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Steam-in-bag cinnamon maple butter seasoned carrots",
+        "Name": "Steam-in- cinnamon maple butter seasoned carrots",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 3.5,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Garlic & herb steam-in-bag riced cauliflower",
+        "Name": "Garlic & herb steam-in- riced cauliflower",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.3,
@@ -9270,7 +9270,7 @@
         }
     },
     {
-        "Name": "Steam-in-bag steak house style creamed spinach premium vegetables",
+        "Name": "Steam-in- steak house style creamed spinach premium vegetables",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 11.2,
@@ -9288,7 +9288,7 @@
         }
     },
     {
-        "Name": "P.f. chang's home menu korean inspired pork, 11 oz",
+        "Name": "P.f. changs home menu korean inspired pork",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 5.8,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "New england style large stuffed scallops",
+        "Name": "New engl& style large stuffed scallops",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 9.3,
@@ -9351,7 +9351,7 @@
         }
     },
     {
-        "Name": "Koch foods oven cravers cordon bleu family pack, 4 count, 20 oz",
+        "Name": "Koch foods oven cravers cordon bleu family pack, count",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 4.9,
@@ -9360,7 +9360,7 @@
         }
     },
     {
-        "Name": "Koch foods oven cravers broccoli & cheese family pack, 4 count, 20 oz",
+        "Name": "Koch foods oven cravers broccoli & cheese family pack, count",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 3.5,
@@ -9378,7 +9378,7 @@
         }
     },
     {
-        "Name": "Pictsweet farms sweet potato patties, 16 oz",
+        "Name": "Pictsweet farms sweet potato patties",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -9414,7 +9414,7 @@
         }
     },
     {
-        "Name": "Panapesca calamari rings & tentacles, 10.6 oz",
+        "Name": "Panapesca calamari rings & tentacles",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 0.7,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Mckenzie corn fritters, 16 oz",
+        "Name": "Mckenzie corn fritters",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.0,
@@ -9432,7 +9432,7 @@
         }
     },
     {
-        "Name": "Garden lites veggies made great broccoli cheddar bake, 7 oz",
+        "Name": "Garden lites veggies made great broccoli cheddar bake",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.0,
@@ -9441,7 +9441,7 @@
         }
     },
     {
-        "Name": "Scardigno's eggplant roll-ups, 16 oz",
+        "Name": "Scardignos eggplant roll-ups",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 7.2,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Nathan's famous mozzarella sticks, 18 oz",
+        "Name": "Nathans famous mozzarella sticks",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 17.5,
@@ -9585,7 +9585,7 @@
         }
     },
     {
-        "Name": "Bacon cheddar cauliflower bake topped with a cheddar parmesan sauce, bacon, and scallions, bacon cheddar",
+        "Name": "Bacon cheddar cauliflower bake topped with a cheddar parmesan sauce, bacon, & scallions",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 8.0,
@@ -9621,7 +9621,7 @@
         }
     },
     {
-        "Name": "White long grain rice, white",
+        "Name": "White long grain rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -9630,7 +9630,7 @@
         }
     },
     {
-        "Name": "Southwestern style rice & vegetables with corn, peppers, and onions in a southwestern style seasoning, southwestern style",
+        "Name": "Southwestern style rice & vegetables with corn, peppers, & onions in a southwestern style seasoning",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 2.5,
@@ -9648,7 +9648,7 @@
         }
     },
     {
-        "Name": "Cheese tortellini pasta filled with ricotta, mozzarella, and romano cheeses, cheese",
+        "Name": "Cheese tortellini pasta filled with ricotta, mozzarella, & romano cheeses",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.8,
@@ -9657,7 +9657,7 @@
         }
     },
     {
-        "Name": "Cheddar & bacon loaded with shredded cheddar cheese, sour cream and bacon twice baked potatoes, cheddar & bacon",
+        "Name": "Cheddar & bacon loaded with shredded cheddar cheese, sour cream & bacon twice baked potatoes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 9.0,
@@ -9666,7 +9666,7 @@
         }
     },
     {
-        "Name": "Creamy jalapeno ranch dip, creamy jalapeno ranch",
+        "Name": "Creamy jalapeno ranch dip",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.6,
@@ -9720,7 +9720,7 @@
         }
     },
     {
-        "Name": "Sweet potato & cauliflower dino veggie tots, sweet potato & cauliflower",
+        "Name": "Sweet potato & cauliflower dino veggie tots",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 9.2,

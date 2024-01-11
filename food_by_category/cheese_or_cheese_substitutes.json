@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "3\" battered mozzarella sticks 4611",
+        "Name": "Battered mozzarella sticks",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 12.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Premium ham & cheese bites 4625",
+        "Name": "Premium ham & cheese bites",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 9.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Caprese style mozzarella with tomato basil 4606",
+        "Name": "Caprese style mozzarella with tomato basil",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 15.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Cream cheese jalapeno snappers 4660",
+        "Name": "Cream cheese jalapeno snappers",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 8.8,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Pepper jack cheese cubes 4475",
+        "Name": "Pepper jack cheese cubes",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 15.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Homestyle white cheddar cheese curds 4532",
+        "Name": "Homestyle white cheddar cheese curds",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 23.8,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Premium reuben bites 4626",
+        "Name": "Premium reuben bites",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 6.1,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Cheddar cheese jalapeno snappers 4655",
+        "Name": "Cheddar cheese jalapeno snappers",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 6.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Trivers' half-naked yellow cheese curds 5102",
+        "Name": "Trivers half-naked yellow cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 28.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Breaded yellow cheese curds 4513",
+        "Name": "Breaded yellow cheese curds",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 17.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "25/6.4oz trivers' half-naked white cheese curds 5122",
+        "Name": "Trivers half-naked white cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 29.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "8 oz trivers' half-naked yellow cheese curds 5105",
+        "Name": "Trivers half-naked yellow cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 28.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "2.5 lb trivers' half-naked yellow cheese curds 5110",
+        "Name": "Trivers half-naked yellow cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 28.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "8 oz trivers' half-naked white cheese curds 5125",
+        "Name": "Trivers half-naked white cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 29.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Breaded white cheddar 4410",
+        "Name": "Breaded white cheddar",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 19.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Italian crusted white cheddar 4549",
+        "Name": "Italian crusted white cheddar",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 21.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Homestyle white cheddar cheese curds 4546",
+        "Name": "Homestyle white cheddar cheese curds",
         "Nutrients": {
             "Protein": 19.0,
             "Fat": 23.9,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "2.5 lb trivers' half-naked white cheese curds 5130",
+        "Name": "Trivers half-naked white cheese curds",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 29.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft garlic and herbs light 170 gr",
+        "Name": "Philadelphia cream cheese-soft garlic & herbs light gr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese garlic and herb light 270 gr",
+        "Name": "Philadelphia cream cheese garlic & herb light gr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft spring onion and black pepper light",
+        "Name": "Philadelphia cream cheese-soft spring onion & black pepper light",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 9.8,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Philadelphia handi-snacks cream cheese-snack light",
+        "Name": "Philadelphia h&i-snacks cream cheese-snack light",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 11.0,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft plain 280 gr",
+        "Name": "Philadelphia cream cheese-soft plain gr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 21.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese chive light 270 gr",
+        "Name": "Philadelphia cream cheese chive light gr",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft plain 180 gr",
+        "Name": "Philadelphia cream cheese-soft plain gr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 21.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-portions light 250.000 gr",
+        "Name": "Dairylea processed cheese-portions light gr",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 12.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft sweet chili light 170 gr",
+        "Name": "Philadelphia cream cheese-soft sweet chili light gr",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 10.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-portions light 125.000 gr",
+        "Name": "Dairylea processed cheese-portions light gr",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 9.0,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft plain lightest 180.000 gr",
+        "Name": "Philadelphia cream cheese-soft plain lightest gr",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 2.5,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-mini tubs plain 140 gr",
+        "Name": "Philadelphia cream cheese-mini tubs plain gr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 21.0,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft garlic and herbs light",
+        "Name": "Philadelphia cream cheese-soft garlic & herbs light",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 10.5,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese supermix light 125 gr",
+        "Name": "Philadelphia cream cheese supermix light gr",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.0,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft plain light 140 gr",
+        "Name": "Philadelphia cream cheese-soft plain light gr",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Dairylea dunkers processed cheese-snack level1",
+        "Name": "Dairylea dunkers processed cheese-snack",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 16.0,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-portions regular 125.000 gr",
+        "Name": "Dairylea processed cheese-portions regular gr",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 15.0,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-spread regular 145 gr",
+        "Name": "Dairylea processed cheese-spread regular gr",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 14.0,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-portions regular 250.000 gr",
+        "Name": "Dairylea processed cheese-portions regular gr",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 15.0,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft 170 gr",
+        "Name": "Philadelphia cream cheese-soft gr",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 27.5,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese ham 170.000 gr",
+        "Name": "Philadelphia cream cheese ham gr",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 12.0,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-spread cheesy cheddar 145 gr",
+        "Name": "Dairylea processed cheese-spread cheesy cheddar gr",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 21.0,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Philadelphia sensations deliciously whipped cream cheese-whipped herbs and garlic 140.000 gr",
+        "Name": "Philadelphia sensations deliciously whipped cream cheese-whipped herbs & garlic gr",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 24.0,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-mini tubs garlic and herbs 140 gr",
+        "Name": "Philadelphia cream cheese-mini tubs garlic & herbs gr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.0,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Philadelphia sensations deliciously whipped cream cheese-whipped plain 140.000 gr",
+        "Name": "Philadelphia sensations deliciously whipped cream cheese-whipped plain gr",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 25.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Dairylea processed cheese-spread regular 270 gr",
+        "Name": "Dairylea processed cheese-spread regular gr",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 14.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Cracker barrel natural cheese medium mature cheddar 200 gr",
+        "Name": "Cracker barrel natural cheese medium mature cheddar gr",
         "Nutrients": {
             "Protein": 26.0,
             "Fat": 32.0,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Philadelphia handi-snacks cream cheese-snack",
+        "Name": "Philadelphia h&i-snacks cream cheese-snack",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 11.0,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Philadelphia handi-snacks cream cheese-snack breadstick light",
+        "Name": "Philadelphia h&i-snacks cream cheese-snack breadstick light",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 11.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Dairylea strip cheese processed cheese-snack supermix 168 gr",
+        "Name": "Dairylea strip cheese processed cheese-snack supermix gr",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 26.0,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese-soft chives light 170 gr",
+        "Name": "Philadelphia cream cheese-soft chives light gr",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 11.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese garlic and herb light 125 gr",
+        "Name": "Philadelphia cream cheese garlic & herb light gr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 11.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Philadelphia cream cheese supermix 125 gr",
+        "Name": "Philadelphia cream cheese supermix gr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 21.0,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "3\"\" battered mozzarella sticks 4611",
+        "Name": "Battered mozzarella sticks",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 12.0,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "8/2.25 lb. cheesy lil bites",
+        "Name": ". cheesy lil bites",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 15.9,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Jacobo ps moz 20 lb avg",
+        "Name": "Jacobo ps moz",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Whole grain mac & cheese 6/5# 30#",
+        "Name": "Whole grain mac & cheese",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 8.8,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Rf queso blanco 30# 6 bags",
+        "Name": "Rf queso blanco bags",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 12.8,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Jacobo ps mozz 6 lb avg",
+        "Name": "Jacobo ps mozz",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Penne in alfredo sauce 30# 6 bags",
+        "Name": "Penne in alfredo sauce bags",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 7.3,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Wgr mac & cheese clean label 6/5#  30#",
+        "Name": "Wgr mac & cheese clean label",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 10.2,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Wgr mac & cheese 10/3#  30#",
+        "Name": "Wgr mac & cheese",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 9.3,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Portpk hmstyl rf mac&ches 30/6oz  11.25#",
+        "Name": "Portpk hmstyl rf mac&ches",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.0,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Wgr mac & cheese ls 30# 6 bags",
+        "Name": "Wgr mac & cheese ls bags",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 6.8,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Homestyle orig mac&cheese 6/5# 30#",
+        "Name": "Homestyle orig mac&cheese",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 9.2,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Reduced fat cheese sauce 6/5# 30#",
+        "Name": "Reduced fat cheese sauce",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 10.3,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Hmstyl rf strt mac&cheese 6/5# 30#",
+        "Name": "Hmstyl rf strt mac&cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.0,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Alfredo sauce 6/5# 30#",
+        "Name": "Alfredo sauce",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 10.8,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Rs queso blanco 6/5# 30#",
+        "Name": "Rs queso blanco",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 16.6,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Golden queso 6/5# 30#",
+        "Name": "Golden queso",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 17.1,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended low moisture part skim mozzarella cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended low moisture part skim mozzarella cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 21.4,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Queso blanco 6/5# 30#",
+        "Name": "Queso blanco",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 17.0,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat & sodium process american slice - 160 h - 5#",
+        "Name": "Bongards yellow reduced fat & sodium process american slice - h -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 14.3,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american loaf - 5#",
+        "Name": "Bongards yellow process american loaf -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Whole grain mac & cheese 30# 6 bags",
+        "Name": "Whole grain mac & cheese bags",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 6.7,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended reduced fat cheddar cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended reduced fat cheddar cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Bongards yellow cheddar feather shred - 5#",
+        "Name": "Bongards yellow cheddar feather shred -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheese sauce 6/5# 30#",
+        "Name": "Jalapeno cheese sauce",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 16.6,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat cheddar stick - 1 oz",
+        "Name": "Bongards reduced fat cheddar stick -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Hmstyl orig str mac&chees 6/5# 30#",
+        "Name": "Hmstyl orig str mac&chees",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 9.4,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat process american slice - 160 h - 5#",
+        "Name": "Bongards yellow reduced fat process american slice - h -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 16.1,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Bongards mozzarella/provolone feather shred - 5#",
+        "Name": "Bongards mozzarella/provolone feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 25.0,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Bongards process jalapeno american slice - 160 p - 5#",
+        "Name": "Bongards process jalapeno american slice - p -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 28.6,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended pepper jack cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended pepper jack cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 28.6,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat cheddar feather shred - 5#",
+        "Name": "Bongards yellow reduced fat cheddar feather shred -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Rf jalapeno cheese sauce 30# 6 bags",
+        "Name": "Rf jalapeno cheese sauce bags",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 10.3,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Hmstyl rf elbo mac&cheese 6/5# 30#",
+        "Name": "Hmstyl rf elbo mac&cheese",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 6.9,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Bongards yellow restricted melt process american slice - 160 p - 5#",
+        "Name": "Bongards yellow restricted melt process american slice - p -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Cheddar cheese sauce 6/5# 30#",
+        "Name": "Cheddar cheese sauce",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 16.6,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Bongards cheddar stick - 1 oz",
+        "Name": "Bongards cheddar stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Wgr mac & cheese 30# 6 bags",
+        "Name": "Wgr mac & cheese bags",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 9.4,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Cheddar cheese sauce clean label 6/5# 30#",
+        "Name": "Cheddar cheese sauce clean label",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 16.6,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Wgr mac & cheese 30# 6 bags",
+        "Name": "Wgr mac & cheese bags",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 9.0,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended swiss cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended swiss cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 25.0,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Philadelphia non-dairy plant-based original \"cream cheese\" spread, 8 oz tub",
+        "Name": "Philadelphia non-dairy plant-based original cream cheese spread, tub",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 21.4,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Bongards process american swiss slice - 160 h - 5#",
+        "Name": "Bongards process american swiss slice - h -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 28.6,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american slice - 160 v - 5#",
+        "Name": "Bongards yellow process american slice - v -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Bongards white process american slice - 160 v - 5#",
+        "Name": "Bongards white process american slice - v -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced sodium & fat process american slice - 160 h - 5#",
+        "Name": "Bongards yellow reduced sodium & fat process american slice - h -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat & sodium process american hoagie slice - 486 - 5#",
+        "Name": "Bongards yellow reduced fat & sodium process american hoagie slice - -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Bongards process jalapeno american slice - 120 h - 5#",
+        "Name": "Bongards process jalapeno american slice - h -",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 31.6,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended yellow cheddar cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended yellow cheddar cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended provolone cheese slice - 160 p - 5#",
+        "Name": "Bongards pasteurized blended provolone cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 25.0,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Bongards white process american loaf - 5#",
+        "Name": "Bongards white process american loaf -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american cheese spread loaf - 5#",
+        "Name": "Bongards yellow process american cheese spread loaf -",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat marble jack stick - 1 oz",
+        "Name": "Bongards reduced fat marble jack stick -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat low moisture part skim mozzarella string cheese stick - 1 oz",
+        "Name": "Bongards reduced fat low moisture part skim mozzarella string cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 10.7,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "Bongards marble cheese stick - 1 oz",
+        "Name": "Bongards marble cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Bongards mozzarella string stick - 168/1 oz",
+        "Name": "Bongards mozzarella string stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Bongards cheddar slices - 32 sos - 1.5#",
+        "Name": "Bongards cheddar slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 31.8,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Bongards provolone slices - 32 sos - 1.5#",
+        "Name": "Bongards provolone slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 27.3,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Bongards swiss cheese slices - 32 sos - 1.5#",
+        "Name": "Bongards swiss cheese slices - sos -",
         "Nutrients": {
             "Protein": 27.3,
             "Fat": 31.8,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Bongards pepper jack slices - 32 sos - 1.5#",
+        "Name": "Bongards pepper jack slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 27.3,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "Bongards yellow cheddar shred  1 oz",
+        "Name": "Bongards yellow cheddar shred",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella shred  1 oz",
+        "Name": "Bongards low moisture part skim mozzarella shred",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 17.9,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella feather shred - 5#",
+        "Name": "Bongards low moisture part skim mozzarella feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Bongards mozzarella, provolone, and cheddar feather shred - 5#",
+        "Name": "Bongards mozzarella, provolone, & cheddar feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Bongards italian blend feather shred - 5#",
+        "Name": "Bongards italian blend feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Bongards super melt yellow process american shredded cheese  5#",
+        "Name": "Bongards super melt yellow process american shredded cheese",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Bongards sharp yellow cheddar feather shred - 5#",
+        "Name": "Bongards sharp yellow cheddar feather shred -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Bongards monterey jack and cheddar fancy shred - 5#",
+        "Name": "Bongards monterey jack & cheddar fancy shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended pepper jack cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended pepper jack cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 28.6,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended low moisture part skim mozzarella cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended low moisture part skim mozzarella cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 21.4,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american loaf - 6/5#",
+        "Name": "Bongards yellow process american loaf -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Bongards process american swiss slice - 160 h - 4/5#",
+        "Name": "Bongards process american swiss slice - h -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 28.6,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american slice - 160 v - 4/5#",
+        "Name": "Bongards yellow process american slice - v -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Bongards white process american slice - 160 v - 4/5#",
+        "Name": "Bongards white process american slice - v -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced sodium & fat process american slice - 160 h - 4/5#",
+        "Name": "Bongards yellow reduced sodium & fat process american slice - h -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Bongards yellow restricted melt process american slice - 160 p - 4/5#",
+        "Name": "Bongards yellow restricted melt process american slice - p -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat process american slice - 160 h - 6/5#",
+        "Name": "Bongards yellow reduced fat process american slice - h -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 16.1,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat & sodium process american slice - 160 h - 6/5#",
+        "Name": "Bongards yellow reduced fat & sodium process american slice - h -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 14.3,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american slice - 160 v - 6/5#",
+        "Name": "Bongards yellow process american slice - v -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 32.1,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat & sodium process american hoagie slice - 486 - 8/5#",
+        "Name": "Bongards yellow reduced fat & sodium process american hoagie slice - -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Bongards process jalapeno american slices - 120 h - 4/5#",
+        "Name": "Bongards process jalapeno american slices - h -",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 31.6,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Bongards process jalapeno american slices - 160 p - 4/5#",
+        "Name": "Bongards process jalapeno american slices - p -",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 28.6,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended yellow cheddar cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended yellow cheddar cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended reduced fat cheddar cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended reduced fat cheddar cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended swiss cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended swiss cheese slice - p -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 25.0,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Bongards pasteurized blended provolone cheese slice - 160 p - 4/5#",
+        "Name": "Bongards pasteurized blended provolone cheese slice - p -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 25.0,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "Bongards white process american loaf - 6/5#",
+        "Name": "Bongards white process american loaf -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Bongards yellow process american cheese spread loaf - 6/5#",
+        "Name": "Bongards yellow process american cheese spread loaf -",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 21.4,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat cheddar cheese stick - 168/1 oz",
+        "Name": "Bongards reduced fat cheddar cheese stick -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat marble jack cheese stick - 168/1 oz",
+        "Name": "Bongards reduced fat marble jack cheese stick -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella string cheese stick - 168/1 oz",
+        "Name": "Bongards low moisture part skim mozzarella string cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Bongards reduced fat low moisture part skim mozzarella string cheese stick - 168/1 oz",
+        "Name": "Bongards reduced fat low moisture part skim mozzarella string cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 10.7,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Bongards cheddar cheese stick - 168/1 oz",
+        "Name": "Bongards cheddar cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Bongards marble cheese stick - 168/1 oz",
+        "Name": "Bongards marble cheese stick -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Bongards cheddar slices - 32 sos - 8/1.5#",
+        "Name": "Bongards cheddar slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 31.8,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Bongards provolone slices - 32 sos - 8/1.5#",
+        "Name": "Bongards provolone slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 27.3,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Bongards swiss slices - 32 sos - 8/1.5#",
+        "Name": "Bongards swiss slices - sos -",
         "Nutrients": {
             "Protein": 27.3,
             "Fat": 31.8,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Bongards pepper jack slices - 32 sos - 8/1.5#",
+        "Name": "Bongards pepper jack slices - sos -",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 27.3,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Bongards yellow cheddar shred  400/1 oz",
+        "Name": "Bongards yellow cheddar shred",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella shred  400/1 oz",
+        "Name": "Bongards low moisture part skim mozzarella shred",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 17.9,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella feather shred - 4/5#",
+        "Name": "Bongards low moisture part skim mozzarella feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Bongards yellow cheddar feather shred - 4/5#",
+        "Name": "Bongards yellow cheddar feather shred -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Bongards mozzarella, provolone, and cheddar feather shred - 4/5#",
+        "Name": "Bongards mozzarella, provolone, & cheddar feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Bongards mozzarella/provolone feather shred - 4/5#",
+        "Name": "Bongards mozzarella/provolone feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 25.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Bongards italian blend feather shred - 4/5#",
+        "Name": "Bongards italian blend feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "Bongards low moisture part skim mozzarella feather shred - 6/5#",
+        "Name": "Bongards low moisture part skim mozzarella feather shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Bongards yellow reduced fat cheddar feather shred - 4/5#",
+        "Name": "Bongards yellow reduced fat cheddar feather shred -",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 21.4,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Bongards super melt yellow process american feather shred  4/5#",
+        "Name": "Bongards super melt yellow process american feather shred",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Bongards sharp yellow cheddar cheese feather shred - 6/5#",
+        "Name": "Bongards sharp yellow cheddar cheese feather shred -",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 32.1,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Bongards monterey jack and cheddar fancy shred - 4/5#",
+        "Name": "Bongards monterey jack & cheddar fancy shred -",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 32.1,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Jacobo ps mozz 8/6 lb avg",
+        "Name": "Jacobo ps mozz",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 21.4,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Philadelphia plant-based original non dairy spread, 8 oz tub",
+        "Name": "Philadelphia plant-based original non dairy spread, tub",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 21.4,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "8/50ct whole grain reduced sodium breaded mozzarella sticks",
+        "Name": "Whole grain reduced sodium breaded mozzarella sticks",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 12.3,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "8/50 count bags breaded italian mozzarella sticks",
+        "Name": "Count bags breaded italian mozzarella sticks",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 12.4,

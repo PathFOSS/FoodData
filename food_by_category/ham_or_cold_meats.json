@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Hellers roast beef 1kg",
+        "Name": "Hellers roast beef",
         "Nutrients": {
             "Protein": 20.2,
             "Fat": 7.3,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Huttons 4x4 sliced ham 1kg",
+        "Name": "Huttons sliced ham",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 8.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Tegel classic roast shredded chicken twin pack 100g",
+        "Name": "Tegel classic roast shredded chicken twin pack",
         "Nutrients": {
             "Protein": 25.6,
             "Fat": 3.4,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Hellers ham & chicken 300g",
+        "Name": "Hellers ham & chicken",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 17.0,

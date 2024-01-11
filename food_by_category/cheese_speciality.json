@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Dairyworks edam & rice crackers 300g",
+        "Name": "Dairyworks edam & rice crackers",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 23.0,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Massimo's italian cheeses burrata 1kg",
+        "Name": "Massimos italian cheeses burrata",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 26.3,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Massimo's italian cheeses mozzarella 1kg",
+        "Name": "Massimos italian cheeses mozzarella",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 15.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Massimo's buffalo mozzarella 125g",
+        "Name": "Massimos buffalo mozzarella",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 19.5,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Massimo's burrata 125g",
+        "Name": "Massimos burrata",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 26.3,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Massimo's cherry bocconcini 125g",
+        "Name": "Massimos cherry bocconcini",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 15.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Massimo's food service range italian cheeses cherry bocconcini 1kg",
+        "Name": "Massimos food service range italian cheeses cherry bocconcini",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 15.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Massimo's food service range stracciatella italian cheeses 1kg",
+        "Name": "Massimos food service range stracciatella italian cheeses",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 26.3,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Massimo's food service range italian cheeses bocconcini 1kg",
+        "Name": "Massimos food service range italian cheeses bocconcini",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 15.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Talbot forest cheese co. peppered havarti 70g",
+        "Name": "Talbot forest cheese co. peppered havarti",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 30.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Talbot forest cheese co. peppered havarti 150g",
+        "Name": "Talbot forest cheese co. peppered havarti",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 30.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Talbot forest cheese co. garlic & chives gouda 150g",
+        "Name": "Talbot forest cheese co. garlic & chives gouda",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 31.6,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Talbot forest cheese co. chilli havarti 150g",
+        "Name": "Talbot forest cheese co. chilli havarti",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 31.6,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Massimo's italian cheeses fresh mozzarella log 1kg",
+        "Name": "Massimos italian cheeses fresh mozzarella log",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 19.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Yolo smoked cheese portion 150g",
+        "Name": "Yolo smoked cheese portion",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 24.8,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Mainland cheese & artisan crackers 38g",
+        "Name": "Mainl& cheese & artisan crackers",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 26.6,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Spring blue sheep gouda cheese 200g",
+        "Name": "Spring blue sheep gouda cheese",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 30.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Spring blue cow feta 170g",
+        "Name": "Spring blue cow feta",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 17.9,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Spring blue halloumi 195g",
+        "Name": "Spring blue halloumi",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 25.6,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Spring blue goat feta 180g",
+        "Name": "Spring blue goat feta",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 16.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Spring blue organic goat feta 150g",
+        "Name": "Spring blue organic goat feta",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 25.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Spring blue organic sheep feta 150g",
+        "Name": "Spring blue organic sheep feta",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 27.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Spring blue organic cow feta 150g",
+        "Name": "Spring blue organic cow feta",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 24.7,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Spring blue paneer cottage cheese 250g",
+        "Name": "Spring blue paneer cottage cheese",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 24.4,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Angel food dairy-free block smoked cheddar alternative 220g",
+        "Name": "Angel food dairy-free block smoked cheddar alternative",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 22.3,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Spring blue goat gouda cheese 200g",
+        "Name": "Spring blue goat gouda cheese",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 22.5,

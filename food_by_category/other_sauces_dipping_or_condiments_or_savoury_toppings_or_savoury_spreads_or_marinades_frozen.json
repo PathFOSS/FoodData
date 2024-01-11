@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Sfs minh orange sauce less sodium net wt",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 0.0,
+            "Carbs": 34.0,
+            "Calories": 140.0
+        }
+    },
+    {
+        "Name": "Sfs minh szechwan sce less sodium net wt",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 1.0,
+            "Carbs": 17.0,
+            "Calories": 81.0
+        }
+    },
+    {
+        "Name": "Sfs minh s-s sauce less sodium net wt ct",
+        "Nutrients": {
+            "Protein": 1.0,
+            "Fat": 0.0,
+            "Carbs": 30.0,
+            "Calories": 124.0
+        }
+    },
+    {
+        "Name": "Sfs minh teriyaki sce less sodium net wt",
+        "Nutrients": {
+            "Protein": 2.0,
+            "Fat": 0.5,
+            "Carbs": 33.0,
+            "Calories": 144.5
+        }
+    }
+]

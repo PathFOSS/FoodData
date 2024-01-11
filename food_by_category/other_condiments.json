@@ -1,51 +1,6 @@
 [
     {
-        "Name": "White balsamic vinegar, white balsamic",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 20.0,
-            "Calories": 80.0
-        }
-    },
-    {
-        "Name": "Balsamic vinegar of modena, balsamic",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 20.0,
-            "Calories": 80.0
-        }
-    },
-    {
-        "Name": "Glaze with balsamic vinegar of modena",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 60.0,
-            "Calories": 240.0
-        }
-    },
-    {
-        "Name": "Balsamic chardonnay white wine vinegar, balsamic chardonnay",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 40.0,
-            "Calories": 160.0
-        }
-    },
-    {
-        "Name": "Organic apple cherry butter spread",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 37.5,
-            "Calories": 150.0
-        }
-    },
-    {
-        "Name": "Balsamic organic vinegar of modena, balsamic",
+        "Name": "White balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -63,7 +18,52 @@
         }
     },
     {
-        "Name": "Aged balsamic vinegar of modena, aged balsamic",
+        "Name": "Glaze with balsamic vinegar of modena",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 60.0,
+            "Calories": 240.0
+        }
+    },
+    {
+        "Name": "Balsamic chardonnay white wine vinegar",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 40.0,
+            "Calories": 160.0
+        }
+    },
+    {
+        "Name": "Organic apple cherry butter spread",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 37.5,
+            "Calories": 150.0
+        }
+    },
+    {
+        "Name": "Balsamic organic vinegar of modena",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Balsamic vinegar of modena",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 0.0,
+            "Carbs": 20.0,
+            "Calories": 80.0
+        }
+    },
+    {
+        "Name": "Aged balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Golden balsamic vinegar, golden balsamic",
+        "Name": "Golden balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Honey infused balsamic vinegar, honey",
+        "Name": "Honey infused balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Raspberry infused balsamic vinegar, raspberry",
+        "Name": "Raspberry infused balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Apple no sugar added butter, apple",
+        "Name": "Apple no sugar added butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Isola, cream balsamic vinegar of modena, wild berry, wild berry",
+        "Name": "Isola, cream balsamic vinegar of modena, wild berry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Aged balsamic sweet vinegar of modena, aged balsamic",
+        "Name": "Aged balsamic sweet vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar, balsamic",
+        "Name": "Balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar of modena, glaze",
+        "Name": "Glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Raspberry glaze with balsamic vinegar of modena, raspberry glaze",
+        "Name": "Raspberry glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Chili glaze with balsamic vinegar of modena, chili glaze",
+        "Name": "Chili glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Chianti balsamic red wine vinegar, chianti balsamic",
+        "Name": "Chianti balsamic red wine vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar of modena, glaze with balsamic",
+        "Name": "Glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Raspberry balsamic glace, raspberry",
+        "Name": "Raspberry balsamic glace",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Cream of balsamic vinegar of modena, cream",
+        "Name": "Cream of balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Traditional balsamic vinegar of modena, traditional balsamic",
+        "Name": "Traditional balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Glaze organic with balsamic vinegar of modena, glaze",
+        "Name": "Glaze organic with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Balsamic vinaigrette, balsamic",
+        "Name": "Balsamic vinaigrette",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Apple butter fruit spread, apple butter",
+        "Name": "Apple butter fruit spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Organic balsamic vinegar of modena, balsamic",
+        "Name": "Organic balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Oregon growers, apple butter, apple",
+        "Name": "Oregon growers, apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Tap'n apple, apple butter spread",
+        "Name": "Tap& apple, apple butter spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Grand reserve balsamic vinegar",
+        "Name": "Gr& reserve balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Bella famiglia, raspberry balsamic vinegar, raspberry",
+        "Name": "Bella famiglia, raspberry balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "365 everyday value, balsamic vinegar",
+        "Name": "Everyday value, balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Gil's gourmet, maple balsamic vinegar",
+        "Name": "Gils gourmet, maple balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Simply roundy's, organic balsamic vinegar",
+        "Name": "Simply roundys, organic balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Mantova, pear organic balsamic condiment, pear",
+        "Name": "Mantova, pear organic balsamic condiment",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Apple butter handcrafted spread",
+        "Name": "Apple butter h&crafted spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Vrisi 36, balsamic vinegar",
+        "Name": "Vrisi balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Roland, balsamic glaze, tamarind",
+        "Name": "Rol&, balsamic glaze, tamarind",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Roland, balsamic vinegar of modena, fig glaze",
+        "Name": "Rol&, balsamic vinegar of modena, fig glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Ahold, nature's promise, organic balsamic vinegar",
+        "Name": "Ahold, natures promise, organic balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Colavita, white truffle balsamic glaze, white truffle",
+        "Name": "Colavita, white truffle balsamic glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Napoleon, balsamic vinegar of modena, balsamic vinegar",
+        "Name": "Napoleon, balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Trader joe's, balsamic vinegar",
+        "Name": "Trader joes, balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Blaze, the first glaze with truffle and balsamic vinegar of modena",
+        "Name": "Blaze, the first glaze with truffle & balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Rose' balsamic",
+        "Name": "Rose balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Washington apple butter, washington apple",
+        "Name": "Washington apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Gil's gourmet, blueberry balsamic vinegar",
+        "Name": "Gils gourmet, blueberry balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Spiced apple butter, spiced",
+        "Name": "Spiced apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "White balsamic vinegar of modena, white",
+        "Name": "White balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Apple butter, apple",
+        "Name": "Apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "White wine vinegar, white wine",
+        "Name": "White wine vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "20 years old balsamic vinegar",
+        "Name": "Years old balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Thyme balsamic reduction vinegar, thyme",
+        "Name": "Thyme balsamic reduction vinegar",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Ginger balsamic reduction vinegar, ginger",
+        "Name": "Ginger balsamic reduction vinegar",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Washington apple butter, apple",
+        "Name": "Washington apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Balsamic blend seasoned rice vinegar, balsamic blend",
+        "Name": "Balsamic blend seasoned rice vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "French style dijon balsamic vinaigrette, french style dijon balsamic",
+        "Name": "French style dijon balsamic vinaigrette",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "California white balsamic vinegar, white balsamic",
+        "Name": "California white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "California fig balsamic vinegar, fig balsamic",
+        "Name": "California fig balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "California oak aged balsamic vinegar, oak aged balsamic",
+        "Name": "California oak aged balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "California honey white balsamic vinegar, honey white",
+        "Name": "California honey white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar of modena, balsamic vinegar",
+        "Name": "Glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Pomegranate flavor infused vinegar, pomegranate",
+        "Name": "Pomegranate flavor infused vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Raspberry balsamic vinegar, raspberry",
+        "Name": "Raspberry balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "Organic apple butter spread, apple butter",
+        "Name": "Organic apple butter spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Savory fig condiment with balsamic vinegar of modena, savory fig",
+        "Name": "Savory fig condiment with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Apple butter premium spread, apple butter",
+        "Name": "Apple butter premium spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Strawberry glaze with balsamic vinegar of modena, strawberry",
+        "Name": "Strawberry glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Apple butta' butter, apple",
+        "Name": "Apple butta butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Premium apple butter, apple",
+        "Name": "Premium apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "Elderberry balsamic vinegar, elderberry",
+        "Name": "Elderberry balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "Pomegranate infused balsamic, pomegranate",
+        "Name": "Pomegranate infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Truffle infused balsamic, truffle",
+        "Name": "Truffle infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Italian balsamic vinegar, italian",
+        "Name": "Italian balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Old fashioned spiced apple butter, old fashioned spiced",
+        "Name": "Old fashioned spiced apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Pomegranate infused balsamic vinegar, pomegranate",
+        "Name": "Pomegranate infused balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Aged balsamic vinegar of modena, balsamic",
+        "Name": "Aged balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "White balsamic, white",
+        "Name": "White balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Summer peach infused white balsamic, summer peach",
+        "Name": "Summer peach infused white balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Spiced apple butter, spiced apple",
+        "Name": "Spiced apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar of modena, modena",
+        "Name": "Balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Traditional balsamic vinegar of modena, traditional",
+        "Name": "Traditional balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Blueberry infused balsamic, blueberry",
+        "Name": "Blueberry infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Organic glaze with balsamic vinegar of modena, balsamic vinegar",
+        "Name": "Organic glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Organic traditional balsamic vinegar of modena extravecchio, balsamic vinegar",
+        "Name": "Organic traditional balsamic vinegar of modena extravecchio",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Traditional balsamic vinegar of modena, balsamic",
+        "Name": "Traditional balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Blackberry balsamic vinegar, blackberry balsamic",
+        "Name": "Blackberry balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2484,7 +2484,7 @@
         }
     },
     {
-        "Name": "Premium aged balsamic vinegar, premium aged balsamic",
+        "Name": "Premium aged balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Fig glaze with balsamic vinegar of modena, fig glaze",
+        "Name": "Fig glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Organic balsamic vinegar of modena, balsamic vinegar",
+        "Name": "Organic balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Apple butter with honey, honey",
+        "Name": "Apple butter with honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Apple infused balsamic, apple",
+        "Name": "Apple infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Fig infused balsamic, fig",
+        "Name": "Fig infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Black cherry infused balsamic, black cherry",
+        "Name": "Black cherry infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Pear cinnamon infused balsamic, pear cinnamon",
+        "Name": "Pear cinnamon infused balsamic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Chocolate, honey, orange infused balsamic, chocolate, honey, orange",
+        "Name": "Chocolate, honey, orange infused balsamic, chocolate, honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Raspberry infused premium white balsamic reduction, raspberry infused",
+        "Name": "Raspberry infused premium white balsamic reduction",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Italian classics organic balsamic vinegar, italian classics",
+        "Name": "Italian classics organic balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar of modena, balsamic vinegar",
+        "Name": "Balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2619,7 +2619,7 @@
         }
     },
     {
-        "Name": "Oregon growers, apple butter, apple, apple",
+        "Name": "Oregon growers, apple butter, apple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "Napa valley naturals, balsamic vinegar, fig, fig",
+        "Name": "Napa valley naturals, balsamic vinegar, fig",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Isola, cream balsamic vinegar, walnut pear, walnut pear",
+        "Name": "Isola, cream balsamic vinegar, walnut pear",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "Alessi, premium white balsamic vinegar, orange blossom honey, orange blossom honey",
+        "Name": "Alessi, premium white balsamic vinegar, orange blossom honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "Alessi, premium white balsamic vinegar, raspberry blush, raspberry blush",
+        "Name": "Alessi, premium white balsamic vinegar, raspberry blush",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Apple butter cinnamon apple pie, apple butter",
+        "Name": "Apple butter cinnamon apple pie",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Strawberry infused balsamic vinegar, strawberry",
+        "Name": "Strawberry infused balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Rose balsamic vinegar, rose balsamic",
+        "Name": "Rose balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Pecan apple butter, pecan apple",
+        "Name": "Pecan apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Home recipe apple butter ",
+        "Name": "Home recipe apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar of modena ",
+        "Name": "Balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Aged balsamic vinaigrette, aged balsamic",
+        "Name": "Aged balsamic vinaigrette",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 22.6,
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar ",
+        "Name": "Balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2799,7 +2799,7 @@
         }
     },
     {
-        "Name": "Apple butter cider, apple butter",
+        "Name": "Apple butter cider",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Annie's, olive oil & balsamic vinegar dipping oil, herb, herb",
+        "Name": "Annies, olive oil & balsamic vinegar dipping oil, herb",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 73.3,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Cider apple butter, cider",
+        "Name": "Cider apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Bella famiglia, raspberry balsamic vinegar, raspberry, raspberry",
+        "Name": "Bella famiglia, raspberry balsamic vinegar, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Organic glaze with balsamic vinegar of modena, balsamic",
+        "Name": "Organic glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar of modena aceto balsamico di modena i.g.p., balsamic",
+        "Name": "Balsamic vinegar of modena aceto balsamico di modena i..p.",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Caramel-pecan apple butter, caramel-pecan apple",
+        "Name": "Caramel-pecan apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Silver label balsamic vinegar of modena, balsamic",
+        "Name": "Silver label balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Apple premium butter, apple",
+        "Name": "Apple premium butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "Everyday balsamic vinegar of modena, everyday balsamic",
+        "Name": "Everyday balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar of modena, balsamic",
+        "Name": "Glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Cherry glaze with balsamic vinegar of modena, balsamic",
+        "Name": "Cherry glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Roland, balsamic glaze, tamarind, tamarind",
+        "Name": "Rol&, balsamic glaze, tamarind",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Roland, balsamic vinegar of modena, fig glaze, fig glaze",
+        "Name": "Rol&, balsamic vinegar of modena, fig glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Balsamic 100% organic vinegar of modena, balsamic",
+        "Name": "Balsamic 100% organic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Bianco modena white balsamic vinegar, bianco modena",
+        "Name": "Bianco modena white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Savory fig artisan vinegar, savory fig",
+        "Name": "Savory fig artisan vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Rose balsamic vinegar aged in oak barrels, rose",
+        "Name": "Rose balsamic vinegar aged in oak barrels",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Apple butter spread, apple butter",
+        "Name": "Apple butter spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "Coconut premium white balsamic reduction, coconut",
+        "Name": "Coconut premium white balsamic reduction",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Apple butter jams, apple butter",
+        "Name": "Apple butter jams",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3132,7 +3132,7 @@
         }
     },
     {
-        "Name": "California white balsamic vinegar, california white balsamic",
+        "Name": "California white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Batistini farms, white balsamic modena, vanishing grape, vanishing grape",
+        "Name": "Batistini farms, white balsamic modena, vanishing grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Mantova, pear organic balsamic condiment, pear, pear",
+        "Name": "Mantova, pear organic balsamic condiment, pear",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Alessi, white balsamic reduction, ginger infused, ginger infused",
+        "Name": "Alessi, white balsamic reduction, ginger infused",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "Juice sweetened apple butter spread, juice sweetened apple butter",
+        "Name": "Juice sweetened apple butter spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Classic super dense balsamic glaze, classic",
+        "Name": "Classic super dense balsamic glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3348,7 +3348,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar of modena, balsamic vinegar of modena",
+        "Name": "Glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Balsamic premium vinegar, balsamic",
+        "Name": "Balsamic premium vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Balsamic vinegar 6% acidity of modena, balsamic",
+        "Name": "Balsamic vinegar 6% acidity of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Raspberry blush white balsamic vinegar, raspberry blush",
+        "Name": "Raspberry blush white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "Organic rich & sweet white balsamic vinegar, rich & sweet",
+        "Name": "Organic rich & sweet white balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Honey balsamic vinaigrette salad dressing, honey balsamic",
+        "Name": "Honey balsamic vinaigrette salad dressing",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Old fashioned apple butter, old fashioned",
+        "Name": "Old fashioned apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Glaze with \"aceto balsamico di modena igp\"",
+        "Name": "Glaze with aceto balsamico di modena igp",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Pure unsweetened apple butter juice, pure unsweetened apple butter",
+        "Name": "Pure unsweetened apple butter juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Raspberry glaze with aceto balsamico di modena igp, raspberry",
+        "Name": "Raspberry glaze with aceto balsamico di modena igp",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -3474,7 +3474,7 @@
         }
     },
     {
-        "Name": "Green apple glaze with cider balsamic vinegar, green apple glaze",
+        "Name": "Green apple glaze with cider balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Pomegranate organic italian condiment, pomegranate",
+        "Name": "Pomegranate organic italian condiment",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Maple cinnamon apple butter, maple cinnamon apple",
+        "Name": "Maple cinnamon apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3501,7 +3501,7 @@
         }
     },
     {
-        "Name": "Monari federzoni balsamic vinegar of modena, 16.9 fl oz",
+        "Name": "Monari federzoni balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "Roland balsamic vinegar of modena, 8.45 fl oz",
+        "Name": "Rol& balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Roland balsamic vinegar of modena, 16.9 fl oz",
+        "Name": "Rol& balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Braswell's select apple butter, 12.5 oz",
+        "Name": "Braswells select apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Bellino balsamic vinegar of modena, 8.5 fl oz",
+        "Name": "Bellino balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Delallo balsamic vinegar of modena, 8.5 fl oz",
+        "Name": "Delallo balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Creamy balsamic vinaigrette, creamy balsamic",
+        "Name": "Creamy balsamic vinaigrette",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Glaze with balsamic vinegar, balsamic vinegar",
+        "Name": "Glaze with balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Tuscanini balsamic vinegar of modena, 8.45 fl oz",
+        "Name": "Tuscanini balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Tuscanini balsamic vinegar of modena, 16.9 fl oz",
+        "Name": "Tuscanini balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Emilio balsamic vinegar of modena pgi (protected geographical indication)",
+        "Name": "Emilio balsamic vinegar of modena pgi",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Di bruno bros. glaze with balsamic vinegar of modena, 8.5 fl oz",
+        "Name": "Di bruno bros. glaze with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Varvello balsamic vinegar of modena, 8.45 fl oz",
+        "Name": "Varvello balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Organic balsamic vinegar of modena ",
+        "Name": "Organic balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Alma's balsamic vinegar of modena, 8.5 fl oz",
+        "Name": "Almas balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Balsamic organic vinegar, balsamic",
+        "Name": "Balsamic organic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Classic original with balsamic vinegar of modena, classic original",
+        "Name": "Classic original with balsamic vinegar of modena",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Blood orange infused balsamic vinegar, blood orange",
+        "Name": "Blood orange infused balsamic vinegar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

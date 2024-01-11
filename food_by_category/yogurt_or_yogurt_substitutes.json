@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Healthy choice fudge bar, 10 fl oz",
+        "Name": "Healthy choice fudge bar",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 0.8,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Healthy choice strawberry smoothie bar, 10 fl oz",
+        "Name": "Healthy choice strawberry smoothie bar",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.8,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Healthy choice mango peach smoothie bar, 10 fl oz",
+        "Name": "Healthy choice mango peach smoothie bar",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.8,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Healthy choice raspberry smoothie bar, 10 fl oz",
+        "Name": "Healthy choice raspberry smoothie bar",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.8,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Healthy choice dark fudge swirl frozen greek yogurt, 11.4 fl oz",
+        "Name": "Healthy choice dark fudge swirl frozen greek yogurt",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 3.2,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Healhty choice greek vanilla yogurt cup, 12 fl oz",
+        "Name": "Healhty choice greek vanilla yogurt cup",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Healhty choice greek strawberry yogurt cup, 12 fl oz",
+        "Name": "Healhty choice greek strawberry yogurt cup",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Healhty choice greek vanilla and strawberry yogurt cups, 48 fl oz",
+        "Name": "Healhty choice greek vanilla & strawberry yogurt cups",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Healthy choice greek blueberry yogurt cup, 12 fl oz",
+        "Name": "Healthy choice greek blueberry yogurt cup",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Healhty choice greek caramel yogurt cup, 12 fl oz",
+        "Name": "Healhty choice greek caramel yogurt cup",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 2.9,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Healhty choice greek cherry chocolate yogurt cup, 12 fl oz",
+        "Name": "Healhty choice greek cherry chocolate yogurt cup",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 3.5,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Healthy choice pomegranate blueberry yogurt bar, 15 fl oz",
+        "Name": "Healthy choice pomegranate blueberry yogurt bar",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 1.7,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Yoplait original yogurt variety pack 12 count",
+        "Name": "Yoplait original yogurt variety pack count",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack cotton candy/strawberry banana 24 ct",
+        "Name": "Yoplait go-gurt variety pack cotton c&y/strawberry banana ct",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack raspberry/strawberry banana 16 count",
+        "Name": "Yoplait go-gurt variety pack raspberry/strawberry banana count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Yoplait original yogurt variety pack strawberry/harvest peach 8 count",
+        "Name": "Yoplait original yogurt variety pack strawberry/harvest peach count",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! vanilla cupcake fat free yogurt mousse",
+        "Name": "Yoplait greek whips! vanilla cupcake fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt sour patch kids low fat yogurt 8 count",
+        "Name": "Yoplait go-gurt sour patch kids low fat yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt sour patch kids low fat yogurt 16 count",
+        "Name": "Yoplait go-gurt sour patch kids low fat yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! strawberry fat free yogurt mousse",
+        "Name": "Yoplait greek whips! strawberry fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack berry/strawberry yogurt 16 count",
+        "Name": "Yoplait go-gurt variety pack berry/strawberry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! strawberry cheesecake fat free yogurt mousse",
+        "Name": "Yoplait greek whips! strawberry cheesecake fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberry yogurt with granola 2 count",
+        "Name": "Yoplait light strawberry yogurt with granola count",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberries 'n bananas fat free yogurt",
+        "Name": "Yoplait light strawberries & bananas fat free yogurt",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Yoplait original yogurt variety pack 8 count",
+        "Name": "Yoplait original yogurt variety pack count",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Yoplait kids blueberry/strawberry variety pack 8 count",
+        "Name": "Yoplait kids blueberry/strawberry variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry/strawberry banana variety pack 4 count",
+        "Name": "Yoplait kids strawberry/strawberry banana variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Yoplait kids raspberry/strawberry banana variety pack 8 count",
+        "Name": "Yoplait kids raspberry/strawberry banana variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Yoplait cotton candy/wild berry kids low fat yogurt variety pack 8 count",
+        "Name": "Yoplait cotton c&y/wild berry kids low fat yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! lemon meringue fat free yogurt mousse",
+        "Name": "Yoplait greek whips! lemon meringue fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack strawberry/vanilla yogurt 24 count",
+        "Name": "Yoplait go-gurt variety pack strawberry/vanilla yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt cotton candy/strawberry yogurt 16 count",
+        "Name": "Yoplait go-gurt cotton c&y/strawberry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein strawberry fat free yogurt",
+        "Name": "Yoplait greek protein strawberry fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein key lime fat free yogurt",
+        "Name": "Yoplait greek protein key lime fat free yogurt",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! coconut macaroon fat free yogurt mousse",
+        "Name": "Yoplait greek whips! coconut macaroon fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack punch/strawberry 8 count",
+        "Name": "Yoplait go-gurt variety pack punch/strawberry count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt strawberry riptide sponge berry low fat yogurt 8ct",
+        "Name": "Yoplait go-gurt strawberry riptide sponge berry low fat yogurt",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein mixed berry fat free yogurt",
+        "Name": "Yoplait greek protein mixed berry fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein black cherry fat free yogurt",
+        "Name": "Yoplait greek protein black cherry fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt yogurt variety pack cotton candy/melon berry 8 ct",
+        "Name": "Yoplait go-gurt yogurt variety pack cotton c&y/melon berry ct",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Yoplait simply go-gurt strawberry yogurt 8 count",
+        "Name": "Yoplait simply go-gurt strawberry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Yoplait light blueberry yogurt with granola 2 pack",
+        "Name": "Yoplait light blueberry yogurt with granola pack",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt strawberry/vanilla yogurt 16 count",
+        "Name": "Yoplait go-gurt strawberry/vanilla yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein coconut fat free yogurt",
+        "Name": "Yoplait greek protein coconut fat free yogurt",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Yoplait simply go-gurt strawberry/mixed berry yogurt 16 count",
+        "Name": "Yoplait simply go-gurt strawberry/mixed berry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Yoplait light blackberry pomegranate/blueberry fat free yogurt variety pack 8 count",
+        "Name": "Yoplait light blackberry pomegranate/blueberry fat free yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt berry/cherry yogurt 16 count",
+        "Name": "Yoplait go-gurt berry/cherry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein vanilla fat free yogurt",
+        "Name": "Yoplait greek protein vanilla fat free yogurt",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt low fat yogurt variety pack berry/strawberry 24 count",
+        "Name": "Yoplait go-gurt low fat yogurt variety pack berry/strawberry count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack berry/strawberry 8 count",
+        "Name": "Yoplait go-gurt variety pack berry/strawberry count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Yoplait kids berry/strawberry banana variety pack 8 count",
+        "Name": "Yoplait kids berry/strawberry banana variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Yoplait s'mores mix-ins",
+        "Name": "Yoplait smores mix-ins",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.0,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack strawberry banana/watermelon 8 count",
+        "Name": "Yoplait go-gurt variety pack strawberry banana/watermelon count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt strawberry/mixed berry yogurt 16 count",
+        "Name": "Yoplait go-gurt strawberry/mixed berry yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Yoplait original variety pack strawberry/strawberry banana yogurt 8 count",
+        "Name": "Yoplait original variety pack strawberry/strawberry banana yogurt count",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberry/blueberry fat free yogurt variety pack 8 count",
+        "Name": "Yoplait light strawberry/blueberry fat free yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack punch/strawberry watermelon 16 count",
+        "Name": "Yoplait go-gurt variety pack punch/strawberry watermelon count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein peach fat free yogurt",
+        "Name": "Yoplait greek protein peach fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberry/peach fat free yogurt variety pack 8 count",
+        "Name": "Yoplait light strawberry/peach fat free yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Annie's organic no added sugar raspberry strawberry spinach whole milk yogurt 4 count",
+        "Name": "Annies organic no added sugar raspberry strawberry spinach whole milk yogurt count",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.0,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Yoplait simply organic go-gurt strawberry/mixed berry whole milk yogurt 32 count",
+        "Name": "Yoplait simply organic go-gurt strawberry/mixed berry whole milk yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Yoplait dippers vanilla bean greek nonfat yogurt and honey oat crisps",
+        "Name": "Yoplait dippers vanilla bean greek nonfat yogurt & honey oat crisps",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 4.6,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry/strawberry banana variety pack 8 count",
+        "Name": "Yoplait kids strawberry/strawberry banana variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! salted caramel fat free yogurt mousse",
+        "Name": "Yoplait greek whips! salted caramel fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Annie's organic berry patch / strawberry banana whole milk yogurt tubes 8 count",
+        "Name": "Annies organic berry patchstrawberry banana whole milk yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Annie's organic whole milk summer strawberry yogurt tubes 8 count",
+        "Name": "Annies organic whole milk summer strawberry yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein strawberry cheesecake fat free yogurt",
+        "Name": "Yoplait greek protein strawberry cheesecake fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein blueberry fat free yogurt",
+        "Name": "Yoplait greek protein blueberry fat free yogurt",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt low fat yogurt berry/strawberry 32 count",
+        "Name": "Yoplait go-gurt low fat yogurt berry/strawberry count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! peaches 'n cream fat free yogurt mousse",
+        "Name": "Yoplait greek whips! peaches & cream fat free yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 protein strawberry banana fat free yogurt",
+        "Name": "Yoplait greek protein strawberry banana fat free yogurt",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "Yoplait low fat yogurt berry/strawberry 8 count",
+        "Name": "Yoplait low fat yogurt berry/strawberry count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry/cotton candy variety pack 8 count",
+        "Name": "Yoplait kids strawberry/cotton c&y variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Annie's organic berry patch / very vanilla whole milk yogurt tubes 8 count",
+        "Name": "Annies organic berry patchvery vanilla whole milk yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Yoplait cookies 'n cream mix-ins",
+        "Name": "Yoplait cookies & cream mix-ins",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.0,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberries 'n bananas yogurt",
+        "Name": "Yoplait light strawberries & bananas yogurt",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.0,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Yoplait original french vanilla low fat yogurt 8 count",
+        "Name": "Yoplait original french vanilla low fat yogurt count",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait french style yogurt petites dark chocolate raspberry 2-pack",
+        "Name": "Oui by yoplait french style yogurt petites dark chocolate raspberry",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 5.0,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait sea salt caramel french style yogurt petites 2 pack",
+        "Name": "Oui by yoplait sea salt caramel french style yogurt petites pack",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 4.5,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait french style yogurt petites caramelized apple 2-pack",
+        "Name": "Oui by yoplait french style yogurt petites caramelized apple",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 5.0,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait french style yogurt petites chocolate with shavings 2-pack",
+        "Name": "Oui by yoplait french style yogurt petites chocolate with shavings",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.1,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Go-gurt vanilla low fat yogurt & chocolate graham dunkers 4 count",
+        "Name": "Go-gurt vanilla low fat yogurt & chocolate graham dunkers count",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 4.0,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Go-gurt cotton candy low fat yogurt & honey graham dunkers 4 count",
+        "Name": "Go-gurt cotton c&y low fat yogurt & honey graham dunkers count",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 4.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Go-gurt strawberry low fat yogurt & honey graham dunkers 4 count",
+        "Name": "Go-gurt strawberry low fat yogurt & honey graham dunkers count",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 4.0,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt sour patch kids low fat yogurt 32 count",
+        "Name": "Yoplait go-gurt sour patch kids low fat yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack green apple/watermelon jolly rancher 16 count",
+        "Name": "Yoplait go-gurt variety pack green apple/watermelon jolly rancher count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Yoplait whips! dunkin' cinnamon coffee roll yogurt mousse",
+        "Name": "Yoplait whips! dunkin cinnamon coffee roll yogurt mousse",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.5,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt variety pack green apple/watermelon jolly rancher 8 count",
+        "Name": "Yoplait go-gurt variety pack green apple/watermelon jolly rancher count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.9,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Yoplait smooth style strawberry/vanilla low fat yogurt variety pack 16 count",
+        "Name": "Yoplait smooth style strawberry/vanilla low fat yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.9,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Yoplait smooth style strawberry banana/blueberry low fat yogurt variety pack 16 count",
+        "Name": "Yoplait smooth style strawberry banana/blueberry low fat yogurt variety pack count",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.9,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Yoplait whips! dunkin' french vanilla latte yogurt mousse",
+        "Name": "Yoplait whips! dunkin french vanilla latte yogurt mousse",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.5,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks pumpkin pomegranate quinoa",
+        "Name": "Plum mighty tots snacks pumpkin pomegranate quinoa",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Plum stage2 greek yogurt baby food raspberry spinach",
+        "Name": "Plum greek yogurt baby food raspberry spinach",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.7,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks blackberry purp carrot quinoa",
+        "Name": "Plum mighty tots snacks blackberry purp carrot quinoa",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks spinach kiwi barley",
+        "Name": "Plum mighty tots snacks spinach kiwi barley",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks mango pineapple",
+        "Name": "Plum mighty tots snacks mango pineapple",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.5,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks strawberry kale amaranth",
+        "Name": "Plum mighty tots snacks strawberry kale amaranth",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks",
+        "Name": "Plum mighty tots snacks",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks blueberry sweet potato millet",
+        "Name": "Plum mighty tots snacks blueberry sweet potato millet",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Plum stage2 greek yogurt baby food green bean pear",
+        "Name": "Plum greek yogurt baby food green bean pear",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Plum mighty 4 tots snacks sweet potato banana",
+        "Name": "Plum mighty tots snacks sweet potato banana",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.5,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt lemon",
+        "Name": "Yoplait grk prtn ff ygrt lemon",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 whips ff ygrt black cherry",
+        "Name": "Yoplait grk whips ff ygrt black cherry",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt blbry",
+        "Name": "Yoplait grk prtn ff ygrt blbry",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt strwbry",
+        "Name": "Yoplait grk prtn ff ygrt strwbry",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt cinn swirl",
+        "Name": "Yoplait grk prtn ff ygrt cinn swirl",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt rspbry",
+        "Name": "Yoplait grk prtn ff ygrt rspbry",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt apple pie",
+        "Name": "Yoplait grk prtn ff ygrt apple pie",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Annie's homegrown organic mixed berry whole milk yogurt, 4 ct",
+        "Name": "Annies homegrown organic mixed berry whole milk yogurt, ct",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.1,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Muller corner greek peach   5.3z",
+        "Name": "Muller corner greek peach",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.3,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Muller corner vanilla with granola   5.3z",
+        "Name": "Muller corner vanilla with granola",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Muller corner greek blueberry   5.3z",
+        "Name": "Muller corner greek blueberry",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "Muller corner drk chocolate raspberry   5.3z",
+        "Name": "Muller corner drk chocolate raspberry",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.0,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Muller frutup strawberry banana   5.3z",
+        "Name": "Muller frutup strawberry banana",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.3,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Muller  drk chocolate  pecan granola   5.3z",
+        "Name": "Muller drk chocolate pecan granola",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 4.0,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Muller frutup lemon   5.3z",
+        "Name": "Muller frutup lemon",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Muller corner strawberry   5.3z",
+        "Name": "Muller corner strawberry",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.3,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Muller corner greek mango   5.3z",
+        "Name": "Muller corner greek mango",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.3,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Muller corner vanilla with choco balls   5.3z",
+        "Name": "Muller corner vanilla with choco balls",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 4.0,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Muller corner greek honeyed apricot   5.3z",
+        "Name": "Muller corner greek honeyed apricot",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.3,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "Muller corner greek almond   5.3z",
+        "Name": "Muller corner greek almond",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 5.3,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Muller corner dark chocolate cherry   5.3z",
+        "Name": "Muller corner dark chocolate cherry",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.0,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Muller corner greek blackberry raspberry   5.3z",
+        "Name": "Muller corner greek blackberry raspberry",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "Name": "Muller corner greek chocolate coconut crunch   5.3z",
+        "Name": "Muller corner greek chocolate coconut crunch",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 3.3,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Muller corner greek strawberry   5.3z",
+        "Name": "Muller corner greek strawberry",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Muller corner vanilla with crispy crunch   5.3z",
+        "Name": "Muller corner vanilla with crispy crunch",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.7,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Muller frutup peach passionfruit   5.3z",
+        "Name": "Muller frutup peach passionfruit",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.0,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Yoplait grk 100 prtn ff ygrt black cherry",
+        "Name": "Yoplait grk prtn ff ygrt black cherry",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 0.0,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Go-gurt hershey's cookies and cream low fat yogurt 8 count",
+        "Name": "Go-gurt hersheys cookies & cream low fat yogurt count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.8,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Yoplait peach mango smoothie 4 count",
+        "Name": "Yoplait peach mango smoothie count",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 1.4,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Yoplait light blueberry yogurt with granola 2 pack",
+        "Name": "Yoplait light blueberry yogurt with granola pack",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.2,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait dark chocolate raspberry french style yogurt petites 2 pack",
+        "Name": "Oui by yoplait dark chocolate raspberry french style yogurt petites pack",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 5.0,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Yoplait original strawberry gluten-free low-fat yogurt cup 8 count",
+        "Name": "Yoplait original strawberry gluten-free low-fat yogurt cup count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free strawberry banana and cotton candy yogurt tubes 24 count",
+        "Name": "Yoplait go-gurt kids gluten free strawberry banana & cotton c&y yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids raspberry and strawberry banana yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt kids raspberry & strawberry banana yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! vanilla cupcake gluten-free low-fat yogurt mousse cup",
+        "Name": "Yoplait greek whips! vanilla cupcake gluten-free low-fat yogurt mousse cup",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 1.0,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! strawberry low fat yogurt mousse",
+        "Name": "Yoplait greek whips! strawberry low fat yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 1.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free berry and strawberry yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt kids gluten free berry & strawberry yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! strawberry cheesecake gluten-free low-fat yogurt mousse cup",
+        "Name": "Yoplait greek whips! strawberry cheesecake gluten-free low-fat yogurt mousse cup",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 1.0,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberry yogurt with granola 2 pack",
+        "Name": "Yoplait light strawberry yogurt with granola pack",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.2,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry and blueberry gluten-free low-fat yogurt cup variety pack 8 count",
+        "Name": "Yoplait kids strawberry & blueberry gluten-free low-fat yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -2628,7 +2628,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! lemon meringue low fat yogurt mousse",
+        "Name": "Yoplait greek whips! lemon meringue low fat yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 1.0,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt spongebob squarepants cotton candy and strawberry yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt spongebob squarepants cotton c&y & strawberry yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt marvel avengers gluten free berry and fruit punch yogurt tubes 8 count",
+        "Name": "Yoplait go-gurt marvel avengers gluten free berry & fruit punch yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt yogurt variety pack cotton candy/melon berry 8 count",
+        "Name": "Yoplait go-gurt yogurt variety pack cotton c&y/melon berry count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "Yoplait original cookies 'n cream low fat yogurt",
+        "Name": "Yoplait original cookies & cream low fat yogurt",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Yoplait simply go-gurt kids gluten free strawberry yogurt pouches (8 count)",
+        "Name": "Yoplait simply go-gurt kids gluten free strawberry yogurt pouches count)",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -2709,7 +2709,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt disney's frozen gluten free strawberry and vanilla yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt disneys frozen gluten free strawberry & vanilla yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Yoplait simply go-gurt kids gluten free strawberry and mixed berry yogurt pouches (16 count)",
+        "Name": "Yoplait simply go-gurt kids gluten free strawberry & mixed berry yogurt pouches count)",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt gluten free berry and cherry yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt gluten free berry & cherry yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free strawberry and mixed berry yogurt tubes 16 count",
+        "Name": "Yoplait go-gurt kids gluten free strawberry & mixed berry yogurt tubes count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Yoplait original strawberry and strawberry banana gluten-free yogurt cup variety pack 8 count",
+        "Name": "Yoplait original strawberry & strawberry banana gluten-free yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Yoplait light strawberry and harvest peach gluten-free fat-free yogurt cup variety pack 8 count",
+        "Name": "Yoplait light strawberry & harvest peach gluten-free fat-free yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Go-gurt by yoplait low fat yogurt berry/strawberry 32 count",
+        "Name": "Go-gurt by yoplait low fat yogurt berry/strawberry count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Yoplait greek 100 whips! peaches 'n cream low fat yogurt mousse",
+        "Name": "Yoplait greek whips! peaches & cream low fat yogurt mousse",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 1.0,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry and cotton candy gluten-free low-fat yogurt cup variety pack 8 count",
+        "Name": "Yoplait kids strawberry & cotton c&y gluten-free low-fat yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Yoplait original mountain blueberry and mixed berry gluten-free yogurt cup variety pack 8 count",
+        "Name": "Yoplait original mountain blueberry & mixed berry gluten-free yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Plm m4 ban pch pum car 2x6 4oz",
+        "Name": "Plm ban pch pum car",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Plm m4 apl blkbry pcar grkyog 4oz",
+        "Name": "Plm apl blkbry pcar grkyog",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Plm m4 ban kiwi spn grkyog 2x6 4oz",
+        "Name": "Plm ban kiwi spn grkyog",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Plm m4 mang pineapl wht bn 3.75oz",
+        "Name": "Plm mang pineapl wht bn",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.5,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Plm mveg swpot apl ban 3.75oz",
+        "Name": "Plm mveg swpot apl ban",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.5,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Plm m4 straw ban grkyog kale 2x6 4oz",
+        "Name": "Plm straw ban grkyog kale",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Plm m4 straw ban grkyog kale 4pk 16oz",
+        "Name": "Plm straw ban grkyog kale",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Plm m4 ban blue swpot car 2x6 4oz",
+        "Name": "Plm ban blue swpot car",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Plm m4 swpot ban grkyog 3.75oz",
+        "Name": "Plm swpot ban grkyog",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.5,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "Simply mixed berry and strawberry banana low fat go-gurt 8 count",
+        "Name": "Simply mixed berry & strawberry banana low fat go-gurt count",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Yplt orig strwbry lf ygrt 8 ct",
+        "Name": "Yplt orig strwbry lf ygrt ct",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt vrty pack 24 ct",
+        "Name": "Yplt gogurt vrty pack ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt vrty pk 16 ct",
+        "Name": "Yplt go-gurt vrty pk ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Yplt orig vrty pk ygrt 8 ct",
+        "Name": "Yplt orig vrty pk ygrt ct",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt vrty pk ygrt 16ct",
+        "Name": "Yplt go-gurt vrty pk ygrt",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Yplt kids variety pack 8 ct",
+        "Name": "Yplt kids variety pack ct",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Yplt kids variety pack 4 ct",
+        "Name": "Yplt kids variety pack ct",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Yplt orig ygrt vrty pack 12 ct",
+        "Name": "Yplt orig ygrt vrty pack ct",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt ygrt vrty pk 8 ct",
+        "Name": "Yplt go-gurt ygrt vrty pk ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt variety pack 16 ct",
+        "Name": "Yplt gogurt variety pack ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt vrty pk 24 ct",
+        "Name": "Yplt go-gurt vrty pk ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt variety pack 8 ct",
+        "Name": "Yplt go-gurt variety pack ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt variety pack 16ct",
+        "Name": "Yplt go-gurt variety pack",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Yplt lt ygrt variety pack 8 ct",
+        "Name": "Yplt lt ygrt variety pack ct",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt variety pack 32 ct",
+        "Name": "Yplt gogurt variety pack ct",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Yplt lf ygrt berry/strwbry 8ct",
+        "Name": "Yplt lf ygrt berry/strwbry",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Yplt orig ygrt vrty pack 8 ct",
+        "Name": "Yplt orig ygrt vrty pack ct",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Oui yog petit chocolate 2pk",
+        "Name": "Oui yog petit chocolate",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.1,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Gogurt cc & hnygrhm dnk 4ct",
+        "Name": "Gogurt cc & hnygrhm dnk",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 3.0,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Gogurt strwbygrt&hny dnks 4ct",
+        "Name": "Gogurt strwbygrt&hny dnks",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 3.0,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Yplt go-gurt vrty jlyrnch 16ct",
+        "Name": "Yplt go-gurt vrty jlyrnch",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt jollyranch 8ct",
+        "Name": "Yplt gogurt jollyranch",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Yplt smth ygrt vrty pk 16 ct",
+        "Name": "Yplt smth ygrt vrty pk ct",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Yplt smthstl ygrt vrty pk 16ct",
+        "Name": "Yplt smthstl ygrt vrty pk",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Plm m4 pum pom quin",
+        "Name": "Plm pum pom quin",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Plm m4 apl blkbry pur car",
+        "Name": "Plm apl blkbry pur car",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Plm m4 spn kiwi barley",
+        "Name": "Plm spn kiwi barley",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Plm m4 mang pineapl",
+        "Name": "Plm mang pineapl",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.5,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Plm m4 straw ban kale",
+        "Name": "Plm straw ban kale",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "Plm m4 straw ban kale grkyog",
+        "Name": "Plm straw ban kale grkyog",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.4,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Plm m4 swt pot car blue apl",
+        "Name": "Plm swt pot car blue apl",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Plm m4 swt pot ban yog",
+        "Name": "Plm swt pot ban yog",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.5,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Gogurt hrshey cookiencream 8ct",
+        "Name": "Gogurt hrshey cookiencream",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3789,7 +3789,7 @@
         }
     },
     {
-        "Name": "Yoplait peach mango smthie 4ct",
+        "Name": "Yoplait peach mango smthie",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Smpl mxdbrynstrwban gogurt 8ct",
+        "Name": "Smpl mxdbrynstrwban gogurt",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Yoplait original dunkin' apple fritter low fat yogurt",
+        "Name": "Yoplait original dunkin apple fritter low fat yogurt",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Yoplait original dunkin' boston crme donut low fat yogurt",
+        "Name": "Yoplait original dunkin boston crme donut low fat yogurt",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt sourpatch kids 8ct",
+        "Name": "Yplt gogurt sourpatch kids",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt sourptch kid 16 ct",
+        "Name": "Yplt gogurt sourptch kid ct",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Yop lt strwbry ygrtngrnla 2ct",
+        "Name": "Yop lt strwbry ygrtngrnla",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.2,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Go-gurt strwbry cttncandy 16ct",
+        "Name": "Go-gurt strwbry cttnc&y",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Yplt simply gogurt strwbry 8ct",
+        "Name": "Yplt simply gogurt strwbry",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Yplt lt blbry ygrt & grnla 2pk",
+        "Name": "Yplt lt blbry ygrt & grnla",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 1.2,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Yplt simply go-gurt 16 ct",
+        "Name": "Yplt simply go-gurt ct",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.2,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "Oui ygrt pet seasaltcrml 2pk",
+        "Name": "Oui ygrt pet seasaltcrml",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 4.0,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Yplt gogurt sourptch kid 32 ct",
+        "Name": "Yplt gogurt sourptch kid ct",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.0,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Yoplait original strawberry gluten-free low-fat yogurt cup pack 8 count",
+        "Name": "Yoplait original strawberry gluten-free low-fat yogurt cup pack count",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free strawberry banana and cotton candy yogurt tubes (24 count)",
+        "Name": "Yoplait go-gurt kids gluten free strawberry banana & cotton c&y yogurt tubes count)",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free raspberry and strawberry banana yogurt pouches 16 count",
+        "Name": "Yoplait go-gurt kids gluten free raspberry & strawberry banana yogurt pouches count",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Yoplait original strawberry and harvest peach gluten-free low-free yogurt cup variety pack 8 count",
+        "Name": "Yoplait original strawberry & harvest peach gluten-free low-free yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 1.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free berry and strawberry yogurt tubes (16 count)",
+        "Name": "Yoplait go-gurt kids gluten free berry & strawberry yogurt tubes count)",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry and blueberry gluten-free low-fat yogurt cup variety pack (8 count)",
+        "Name": "Yoplait kids strawberry & blueberry gluten-free low-fat yogurt cup variety pack count)",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt spongebob squarepants cotton candy and strawberry yogurt tubes (16 count)",
+        "Name": "Yoplait go-gurt spongebob squarepants cotton c&y & strawberry yogurt tubes count)",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt marvel avengers gluten free berry and fruit punch yogurt tubes (16 count)",
+        "Name": "Yoplait go-gurt marvel avengers gluten free berry & fruit punch yogurt tubes count)",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt disney's frozen gluten free strawberry and vanilla yogurt tubes (16 count)",
+        "Name": "Yoplait go-gurt disneys frozen gluten free strawberry & vanilla yogurt tubes count)",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.6,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free strawberry and berry yogurt pouches (8 count)",
+        "Name": "Yoplait go-gurt kids gluten free strawberry & berry yogurt pouches count)",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt kids gluten free strawberry and mixed berry yogurt tubes (16 count)",
+        "Name": "Yoplait go-gurt kids gluten free strawberry & mixed berry yogurt tubes count)",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.0,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Yoplait kids strawberry and cotton candy gluten-free low-fat yogurt cup variety pack (8 count)",
+        "Name": "Yoplait kids strawberry & cotton c&y gluten-free low-fat yogurt cup variety pack count)",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.0,
@@ -4203,7 +4203,7 @@
         }
     },
     {
-        "Name": "Oui by yoplait petites chocolate with shavings french-style whole milk yogurt jars (2 count)",
+        "Name": "Oui by yoplait petites chocolate with shavings french-style whole milk yogurt jars count)",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.1,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Yoplait go-gurt dunkers strawberry yogurt and honey graham sticks kids snacks (4 count)",
+        "Name": "Yoplait go-gurt dunkers strawberry yogurt & honey graham sticks kids snacks count)",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 3.0,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Yoplait original strawberry and harvest peach gluten-free low-fat yogurt cup variety pack 8 count",
+        "Name": "Yoplait original strawberry & harvest peach gluten-free low-fat yogurt cup variety pack count",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.1,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Plum organics mighty 4 blends banana, peach, pumpkin, carrot, greek yogurt & oat, 4oz",
+        "Name": "Plum organics mighty blends banana, peach, pumpkin, carrot, greek yogurt & oat",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Plum organics mighty 4 blends banana, kiwi, spinach, greek yogurt & barley, 4oz",
+        "Name": "Plum organics mighty blends banana, kiwi, spinach, greek yogurt & barley",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.4,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Plum organics mighty veggie sweet potato, apple, banana & carrot, 3.75 oz",
+        "Name": "Plum organics mighty veggie sweet potato, apple, banana & carrot",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.5,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Go-gurt raspberry and strawberry banana variety pack low fat yogurt tubes 16 count",
+        "Name": "Go-gurt raspberry & strawberry banana variety pack low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Go-gurt simply mixed berry and strawberry banana low fat tubes 8 count",
+        "Name": "Go-gurt simply mixed berry & strawberry banana low fat tubes count",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 1.1,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Go-gurt berry and strawberry low fat yogurt variety pack 16 count",
+        "Name": "Go-gurt berry & strawberry low fat yogurt variety pack count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Go-gurt strawberry and mixed berry low fat yogurt tubes 16 count",
+        "Name": "Go-gurt strawberry & mixed berry low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Go-gurt berry and strawberry low fat yogurt tubes 32 count",
+        "Name": "Go-gurt berry & strawberry low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Go-gurt punch and strawberry watermelon low fat yogurt tubes variety pack 16 count",
+        "Name": "Go-gurt punch & strawberry watermelon low fat yogurt tubes variety pack count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Go-gurt cotton candy and strawberry banana low fat yogurt tubes variety pack 24 count",
+        "Name": "Go-gurt cotton c&y & strawberry banana low fat yogurt tubes variety pack count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.1,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Go-gurt strawberry and vanilla low fat yogurt tubes 24 count",
+        "Name": "Go-gurt strawberry & vanilla low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.1,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Go-gurt berry and strawberry low fat yogurt tubes variety pack 24 count",
+        "Name": "Go-gurt berry & strawberry low fat yogurt tubes variety pack count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.1,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "Go-gurt berry and cherry low fat yogurt tubes 16 count",
+        "Name": "Go-gurt berry & cherry low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Go-gurt spiderman gluten free berry and fruit punch yogurt tubes 8 count",
+        "Name": "Go-gurt spiderman gluten free berry & fruit punch yogurt tubes count",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.9,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Go-gurt cotton candy and melon berry low fat yogurt tubes 8 count",
+        "Name": "Go-gurt cotton c&y & melon berry low fat yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.1,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Go-gurt disney's frozen gluten free strawberry and vanilla yogurt tubes 16 count",
+        "Name": "Go-gurt disneys frozen gluten free strawberry & vanilla yogurt tubes count",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.1,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Go-gurt simply strawberry yogurt tubes 8 count",
+        "Name": "Go-gurt simply strawberry yogurt tubes count",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 1.1,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Go-gurt simply strawberry and mixed berry low fat yogurt pouches 16 count",
+        "Name": "Go-gurt simply strawberry & mixed berry low fat yogurt pouches count",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 1.1,

@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Pickles, vienna, dill, kk, 3/16\", plank, kosher, 650 +/- 50, ref, 5 gal pail",
+        "Name": "Pickles, vienna, dill, kk, plank, kosher, &/- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Pickles, chipico, dill, spear, kosher, 400 +/- 25, ref, 5 gal pail",
+        "Name": "Pickles, chipico, dill, spear, kosher, &/- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Sauerkraut, cobblestreet market, kosher, ref, 5 gal pail",
+        "Name": "Sauerkraut, cobblestreet market, kosher, ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Pickles, chipico, dill, smooth, 3/16\", plank, kosher, 650 +/- 50, ref, 5 gal pail",
+        "Name": "Pickles, chipico, dill, smooth, plank, kosher, &/- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

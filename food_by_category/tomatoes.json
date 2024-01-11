@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Tomato puree, tomato",
+        "Name": "Tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano chunky crushed tomatoes, basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano chunky crushed tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano italian style diced tomatoes, basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano italian style diced tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Tomato paste, tomato",
+        "Name": "Tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Tomato sauce, tomato",
+        "Name": "Tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Italian style stewed tomatoes, italian style",
+        "Name": "Italian style stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Spicy green chilies & lime salsa style petite diced tomatoes, spicy green chilies & lime",
+        "Name": "Spicy green chilies & lime salsa style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Green chilies petite diced tomatoes, green chilies",
+        "Name": "Green chilies petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Green peppers & onions diced tomatoes, green peppers & onions",
+        "Name": "Green peppers & onions diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & olive oil crushed tomatoes, roasted garlic & olive oil",
+        "Name": "Roasted garlic & olive oil crushed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Chunky style ground peeled tomatoes, chunky style",
+        "Name": "Chunky style ground peeled tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Tomato no salt added sauce, tomato",
+        "Name": "Tomato no salt added sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Tomato no salt added paste, tomato",
+        "Name": "Tomato no salt added paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes & green chilies, mild",
+        "Name": "Mild diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "No salt added tomato sauce, tomato",
+        "Name": "No salt added tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Tomato 100% organic paste, tomato",
+        "Name": "Tomato 100% organic paste",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano tomato paste product, italian style with basil & oregano",
+        "Name": "Italian style with basil & oregano tomato paste product",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Tomato no salt added puree, tomato",
+        "Name": "Tomato no salt added puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Herbs & olive oil chopped italian tomatoes, herbs & olive oil",
+        "Name": "Herbs & olive oil chopped italian tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Mexican-style diced tomatoes, mexican-style",
+        "Name": "Mexican-style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Mexican-style diced tomatoes with lime juice, cilantro & green chilies, mexican-style diced with lime juice, cilantro & green chilies",
+        "Name": "Mexican-style diced tomatoes with lime juice, cilantro & green chilies, mexican-style diced with lime juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes with chili seasonings in sauce, mild",
+        "Name": "Mild diced tomatoes with chili seasonings in sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Sun-dried tomato paste, tomato",
+        "Name": "Sun-dried tomato paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with green chilies, green chilies",
+        "Name": "Petite diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Medium with onions diced tomatoes with chili seasonings in sauce, medium with onions",
+        "Name": "Medium with onions diced tomatoes with chili seasonings in sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Italian-style stewed tomatoes with garlic, oregano & basil, italian-style with garlic, oregano & basil",
+        "Name": "Italian-style stewed tomatoes with garlic, oregano & basil, italian-style with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Italian-style diced tomatoes with garlic, oregano & basil, italian-style",
+        "Name": "Italian-style diced tomatoes with garlic, oregano & basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Garlic & onion diced tomatoes, garlic & onion",
+        "Name": "Garlic & onion diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Non-gmo tomato puree, tomato",
+        "Name": "Non-gmo tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Mild jalapenos salsa tomatoes, mild jalapenos",
+        "Name": "Mild jalapenos salsa tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes in tomato juice, italian style",
+        "Name": "Italian style diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Chili ready diced tomatoes, chili ready",
+        "Name": "Chili ready diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes in tomato juice, tomato",
+        "Name": "Whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes, fire roasted",
+        "Name": "Fire roasted diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "San marzano style special cut tomatoes pear tomato strips with basil in puree, san marzano style",
+        "Name": "San marzano style special cut tomatoes pear tomato strips with basil in puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes with basil, garlic & oregano in organic tomato juice, basil, garlic & oregano",
+        "Name": "Organic diced tomatoes with basil, garlic & oregano in organic tomato juice, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes seasoned with organic basil, garlic and oregano, italian style with organic basil, garlic and oregano",
+        "Name": "Italian style diced tomatoes seasoned with organic basil, garlic & oregano, italian style with organic basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes in tomato juice, fire roasted",
+        "Name": "Fire roasted diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with garlic & onion, garlic & onion",
+        "Name": "Diced tomatoes with garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes in organic tomato juice, fire roasted",
+        "Name": "Fire roasted diced tomatoes in organic tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Italian stewed tomatoes, italian",
+        "Name": "Italian stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Italian diced tomatoes, italian",
+        "Name": "Italian diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chilies, green chilies",
+        "Name": "Diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes with organic green chiles, green chiles",
+        "Name": "Organic diced tomatoes with organic green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Green chilies mild diced tomatoes, green chilies mild",
+        "Name": "Green chilies mild diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Organic tomato paste, tomato",
+        "Name": "Organic tomato paste",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Mexican style stewed tomatoes, mexican style",
+        "Name": "Mexican style stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Whole tomatoes in tomato juice, tomato",
+        "Name": "Whole tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Basil & herbs crushed tomatoes, basil & herbs",
+        "Name": "Basil & herbs crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes & green chilies with lime & cilantro, lime & cilantro",
+        "Name": "Diced tomatoes & green chilies with lime & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes & green chilies, original",
+        "Name": "Original diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Petite cut diced tomatoes with sweet onion, sweet onion",
+        "Name": "Petite cut diced tomatoes with sweet onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Italian style with onion, celery & bell pepper stewed tomatoes, italian style with onion, celery & bell pepper",
+        "Name": "Italian style with onion, celery & bell pepper stewed tomatoes, italian style with onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Petite cut diced tomatoes with garlic & olive oil, garlic & olive oil",
+        "Name": "Petite cut diced tomatoes with garlic & olive oil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Italian style crushed tomatoes in heavy puree, italian style",
+        "Name": "Italian style crushed tomatoes in heavy puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Italian style with onion & garlic diced tomatoes, italian style with onion & garlic",
+        "Name": "Italian style with onion & garlic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "San marzano style whole peeled italian tomatoes, san marzano style",
+        "Name": "San marzano style whole peeled italian tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic & onion, roasted garlic & onion",
+        "Name": "Diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes with basil, basil",
+        "Name": "Crushed tomatoes with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned salad ready unpeeled tomato wedges, lightly seasoned",
+        "Name": "Lightly seasoned salad ready unpeeled tomato wedges",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 2.7,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Mild tikka masala sauce, mild, tikka masala",
+        "Name": "Mild tikka masala sauce, mild",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 6.7,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes, italian style",
+        "Name": "Italian style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes with green chilies, original",
+        "Name": "Original diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Gluten free homestyle tomato sauce, homestyle tomato",
+        "Name": "Gluten free homestyle tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes in tomato juice, stewed tomatoes",
+        "Name": "Stewed tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "San marzano style italian tomatoes, san marzano style",
+        "Name": "San marzano style italian tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Yellow whole peeled tomatoes in juice, yellow whole peeled tomatoes",
+        "Name": "Yellow whole peeled tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Seasoned tomato sauce, seasoned tomato",
+        "Name": "Seasoned tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.6,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes with basil in tomato puree, basil",
+        "Name": "Crushed tomatoes with basil in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Double concentrated tomato paste, tomato",
+        "Name": "Double concentrated tomato paste",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Fire-roasted diced tomatoes in juice, fire-roasted",
+        "Name": "Fire-roasted diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Organic crushed tomatoes with basil, basil",
+        "Name": "Organic crushed tomatoes with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with chipotle, chipotle",
+        "Name": "Petite diced tomatoes with chipotle",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Homestyle tomato paste, homestyle",
+        "Name": "Homestyle tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Organic double concentrated tomato paste, tomato",
+        "Name": "Organic double concentrated tomato paste",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "San marzano style whole peeled tomatoes, san marzano style",
+        "Name": "San marzano style whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "San marzano style garlic & crushed red pepper whole peeled tomatoes, san marzano style garlic & crushed red pepper",
+        "Name": "San marzano style garlic & crushed red pepper whole peeled tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "100% natural tomato sauce, tomato",
+        "Name": "100% natural tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Italian style plum tomatoes, italian style",
+        "Name": "Italian style plum tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Chunky crushed tomatoes with omega-3, chunky",
+        "Name": "Chunky crushed tomatoes with chunky",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano diced tomatoes, basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano diced tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & olive oil petite diced tomatoes, basil, garlic & olive oil",
+        "Name": "Basil, garlic & olive oil petite diced tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Diced italian classics steam peeled tomatoes, italian classics",
+        "Name": "Diced italian classics steam peeled tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "San marzano style petite diced italian tomatoes, san marzano style",
+        "Name": "San marzano style petite diced italian tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Seasoned crushed & diced tomatoes in a thick sauce chili starter, seasoned crushed & diced tomatoes in a thick sauce",
+        "Name": "Seasoned crushed & diced tomatoes in a thick sauce chili starter",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Italian-style tomato paste, italian-style tomato",
+        "Name": "Italian-style tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "San marzano style fire roasted whole tomatoes, san marzano style",
+        "Name": "San marzano style fire roasted whole tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Cherry italian tomatoes, cherry",
+        "Name": "Cherry italian tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Furmano's, petite diced tomatoes",
+        "Name": "Furmanos, petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Furmano's, tomato puree",
+        "Name": "Furmanos, tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Furmano's, italian style diced tomatoes, basil, garlic, oregano",
+        "Name": "Furmanos, italian style diced tomatoes, basil, garlic, oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Italian chopped tomatoes, italian chopped tomatoes",
+        "Name": "Italian chopped tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Italian peeled tomatoes, italian peeled tomatoes",
+        "Name": "Italian peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced fire roasted  salsa",
+        "Name": "Tomatoes diced fire roasted salsa",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Middle earth organics, organic tomato sauce with olives and capers",
+        "Name": "Middle earth organics, organic tomato sauce with olives & capers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 5.8,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Italian  peeled tomatoes",
+        "Name": "Italian peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Cento, chef's cut tomatoes with basil leaf",
+        "Name": "Cento, chefs cut tomatoes with basil leaf",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Roundy's, organics, tomato sauce",
+        "Name": "Roundys, organics, tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "Roundy's, organic tomato paste",
+        "Name": "Roundys, organic tomato paste",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.0,
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "Name": "Roundy's, organics crushed tomatoes in puree with basil",
+        "Name": "Roundys, organics crushed tomatoes in puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Roundy's, diced tomatoes in juice",
+        "Name": "Roundys, diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Roundy's, organic diced tomatoes in juice",
+        "Name": "Roundys, organic diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Furmano's, diced tomatoes",
+        "Name": "Furmanos, diced tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Furmano's, chili style diced tomatoes, ancho chili & cumin",
+        "Name": "Furmanos, chili style diced tomatoes, ancho chili & cumin",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "Furmano's, italian style diced tomatoes, basil, garlic & oregano",
+        "Name": "Furmanos, italian style diced tomatoes, basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Furmano's, diced tomatoes, green peppers & onions",
+        "Name": "Furmanos, diced tomatoes, green peppers & onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Furmano's, crushed tomatoes",
+        "Name": "Furmanos, crushed tomatoes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Furmano's, roasted garlic & olive oil crushed tomatoes",
+        "Name": "Furmanos, roasted garlic & olive oil crushed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Shoprite, diced tomatoes with basil and oregano",
+        "Name": "Shoprite, diced tomatoes with basil & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Shoprite, diced tomatoes with roasted garlic and onion",
+        "Name": "Shoprite, diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Cento, tomatoes, chef's diced",
+        "Name": "Cento, tomatoes, chefs diced",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Diane's garden, tomato sauce",
+        "Name": "Dianes garden, tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Sole d'italia, crushed tomatoes",
+        "Name": "Sole ditalia, crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Sam's choice, organic diced tomatoes",
+        "Name": "Sams choice, organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Italian style stewed tomatoes with garlic, oregano and basil",
+        "Name": "Italian style stewed tomatoes with garlic, oregano & basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic tomato sauce",
+        "Name": "Everyday value, organic tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "365 everyday value, tomato sauce, tomato",
+        "Name": "Everyday value, tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic petite diced tomatoes, jalapeno & cilantro",
+        "Name": "Everyday value, organic petite diced tomatoes, jalapeno & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic diced tomatoes",
+        "Name": "Everyday value, organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "365 everyday value, diced fire roasted, tomatoes",
+        "Name": "Everyday value, diced fire roasted, tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "365 everyday value, diced fire roasted tomatoes",
+        "Name": "Everyday value, diced fire roasted tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Rustichella d'abruzzo, tomato sauce with olives, olives",
+        "Name": "Rustichella dabruzzo, tomato sauce with olives",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 7.7,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Natura's, ranchera tomato sauce",
+        "Name": "Naturas, ranchera tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Delallo, handcrafted italian plum tomato sauce, tomato basil",
+        "Name": "Delallo, h&crafted italian plum tomato sauce, tomato basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 3.2,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "San merican tomato, crushed roasted tomatoes with eggplant, kale and beet puree",
+        "Name": "San merican tomato, crushed roasted tomatoes with eggplant, kale & beet puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "365 everyday value, double concentrated tomato paste",
+        "Name": "Everyday value, double concentrated tomato paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Heinen's, organic tomato sauce",
+        "Name": "Heinens, organic tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Chef's diced tomatoes",
+        "Name": "Chefs diced tomatoes",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with lime, cilantro and green chilies",
+        "Name": "Petite diced tomatoes with lime, cilantro & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion, celery and green peppers",
+        "Name": "Petite diced tomatoes with onion, celery & green peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic and onion",
+        "Name": "Diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "'e...san marzano italian chopped tomatoes",
+        "Name": "E...san marzano italian chopped tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Cons-mate, tomato and chicken concentrate, tomato and chicken",
+        "Name": "Cons-mate, tomato & chicken concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with garlic and olive oil",
+        "Name": "Diced tomatoes with garlic & olive oil",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Tomato wedges with olive oil and italian spices",
+        "Name": "Tomato wedges with olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.4,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Hunt's, tomato paste, garlic",
+        "Name": "Hunts, tomato paste, garlic",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Hunt's, chunky tomato sauce",
+        "Name": "Hunts, chunky tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Hunt's, tomato paste, herbs and spices",
+        "Name": "Hunts, tomato paste, herbs & spices",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Hunt's, crushed tomatoes",
+        "Name": "Hunts, crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Hunt's, stewed tomatoes",
+        "Name": "Hunts, stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced with jalapeno and habanero chilies",
+        "Name": "Tomatoes diced with jalapeno & habanero chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Italian crushed tomatoes with onion and garlic",
+        "Name": "Italian crushed tomatoes with onion & garlic",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Chipotle style petite diced tomatoes, chipotle style",
+        "Name": "Chipotle style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes in tomato juice with basil, garlic & oregano, italian style",
+        "Name": "Italian style diced tomatoes in tomato juice with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes in tomato juice with roasted garlic & onion, roasted garlic & onion",
+        "Name": "Diced tomatoes in tomato juice with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with jalapenos, jalapenos",
+        "Name": "Petite diced tomatoes with jalapenos",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Southwestern style petite diced tomatoes, southwestern style",
+        "Name": "Southwestern style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Nonna's tomato sauce",
+        "Name": "Nonnas tomato sauce",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.8,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced with roasted garlic and onion",
+        "Name": "Tomatoes diced with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Mexican diced tomatoes with lime juice & cilantro, mexican",
+        "Name": "Mexican diced tomatoes with lime juice & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Ital brand, italian peeled tomatoes with basil leaf in tomato puree",
+        "Name": "Ital br&, italian peeled tomatoes with basil leaf in tomato puree",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -7686,7 +7686,7 @@
         }
     },
     {
-        "Name": "Rustichella d'abruzzo, tomato sauce with olives",
+        "Name": "Rustichella dabruzzo, tomato sauce with olives",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 10.4,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Fire roasted texmex diced choice tomatoes, fire roasted",
+        "Name": "Fire roasted texmex diced choice tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes with garlic, garlic",
+        "Name": "Fire roasted diced tomatoes with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Salad ready unpeeled tri color tomato wedges seasoned in olive oil and italian spices",
+        "Name": "Salad ready unpeeled tri color tomato wedges seasoned in olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.4,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Fancy select tomato sauce, tomato",
+        "Name": "Fancy select tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Choice italian style stewed tomatoes, italian style",
+        "Name": "Choice italian style stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes with green chiles, mild",
+        "Name": "Mild diced tomatoes with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chiles original, original",
+        "Name": "Diced tomatoes with green chiles original",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with chipotle peppers, chipotle peppers",
+        "Name": "Petite diced tomatoes with chipotle peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with sweet onion, sweet onion",
+        "Name": "Diced tomatoes with sweet onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Mexican style with jalapeno peppers & spices diced tomatoes, mexican style",
+        "Name": "Mexican style with jalapeno peppers & spices diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Original recipe stewed tomatoes, original recipe",
+        "Name": "Original recipe stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Sliced stewed tomatoes mexican style with cumin, celery & peppers, mexican style",
+        "Name": "Sliced stewed tomatoes mexican style with cumin, celery & peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Italian style with basil, oregano & garlic flavor tomato paste product, italian style",
+        "Name": "Italian style with basil, oregano & garlic flavor tomato paste product",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Chili style seasoned diced tomatoes, chili style",
+        "Name": "Chili style seasoned diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Southwest style petite diced tomatoes, southwest style",
+        "Name": "Southwest style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Furmano's, diced tomatoes, green peppers & onions, green peppers & onions",
+        "Name": "Furmanos, diced tomatoes, green peppers & onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -8388,7 +8388,7 @@
         }
     },
     {
-        "Name": "Onion, celery & green peppers petite diced tomatoes, onion, celery & green peppers",
+        "Name": "Onion, celery & green peppers petite diced tomatoes, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano diced tomatoes , basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano diced tomatoes , basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Meijer, diced tomatoes, sweet onion, sweet onion",
+        "Name": "Meijer, diced tomatoes, sweet onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Meijer, diced tomatoes & green chilies, mild, mild",
+        "Name": "Meijer, diced tomatoes & green chilies, mild",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Meijer, italian style stewed tomatoes, basil & oregano, basil & oregano",
+        "Name": "Meijer, italian style stewed tomatoes, basil & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Meijer, diced tomatoes & green chilies, original, original",
+        "Name": "Meijer, diced tomatoes & green chilies, original",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8559,7 +8559,7 @@
         }
     },
     {
-        "Name": "Meijer, diced tomatoes & green chilies, lime & cilantro, lime & cilantro",
+        "Name": "Meijer, diced tomatoes & green chilies, lime & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Peeled plum tomatoes, peeled plum tomatoes",
+        "Name": "Peeled plum tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Organic tomato sauce, tomato",
+        "Name": "Organic tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Del monte, diced tomatoes, green pepper, onion, green pepper, onion",
+        "Name": "Del monte, diced tomatoes, green pepper, onion, green pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes puree, roma tomatoes",
+        "Name": "Roma tomatoes puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Diced peeled tomatoes in tomato juice, tomato",
+        "Name": "Diced peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Mexican recipe stewed tomatoes sliced with mild chili & mexican seasoning, mexican recipe",
+        "Name": "Mexican recipe stewed tomatoes sliced with mild chili & mexican seasoning",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes in tomato puree with basil, basil",
+        "Name": "Crushed tomatoes in tomato puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Fire roasted crushed tomatoes, fire roasted",
+        "Name": "Fire roasted crushed tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes paste, tomatoes",
+        "Name": "Roma tomatoes paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes sauce, roma tomatoes",
+        "Name": "Roma tomatoes sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with jalapeno & cilantro, jalapeno & cilantro",
+        "Name": "Petite diced tomatoes with jalapeno & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Diced fire roasted tomatoes, fire roasted",
+        "Name": "Diced fire roasted tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Italian recipe tomatoes diced with garlic, oregano & basil, italian recipe",
+        "Name": "Italian recipe tomatoes diced with garlic, oregano & basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "San marzano style special cut pear tomato strips with basil in puree, san marzano style",
+        "Name": "San marzano style special cut pear tomato strips with basil in puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Petite cut tomatoes in a light puree, tomatoes",
+        "Name": "Petite cut tomatoes in a light puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced with roasted garlic, roasted garlic",
+        "Name": "Tomatoes diced with roasted garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Mild tomatoes diced with hatch green chilies, mild",
+        "Name": "Mild tomatoes diced with hatch green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced with green bell pepper & onion, green bell pepper & onion",
+        "Name": "Tomatoes diced with green bell pepper & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes with green chilies, mild",
+        "Name": "Mild diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Mild crushed fire roasted tomatillos with garlic & poblano pepper, fire roasted",
+        "Name": "Mild crushed fire roasted tomatillos with garlic & poblano pepper",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Mild crushed fire roasted tomatoes with roasted garlic & onion, roasted garlic & onion",
+        "Name": "Mild crushed fire roasted tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Mild crushed fire roasted tomatoes with chipotle, mild",
+        "Name": "Mild crushed fire roasted tomatoes with chipotle",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Italian style crushed tomatoes, italian style",
+        "Name": "Italian style crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes with basil, garlic & oregano, italian style with basil, garlic & oregano",
+        "Name": "Italian style diced tomatoes with basil, garlic & oregano, italian style with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes and green chilies, original",
+        "Name": "Original diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes seasoned with organic basil, garlic and oregano, italian style",
+        "Name": "Italian style diced tomatoes seasoned with organic basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes with green chilies medium, green chilies medium",
+        "Name": "Organic diced tomatoes with green chilies medium",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic diced tomatoes, fire roasted",
+        "Name": "Fire roasted organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "No salt added tomato paste, tomato",
+        "Name": "No salt added tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Classic organic tomato sauce, classic",
+        "Name": "Classic organic tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes with seasonings, fire roasted",
+        "Name": "Fire roasted diced tomatoes with seasonings",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Italian style basil & oregano sliced stewed tomatoes, italian style basil & oregano",
+        "Name": "Italian style basil & oregano sliced stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes in juice, fire roasted",
+        "Name": "Fire roasted diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Bella terra, organic fire roasted diced tomatoes, san marzano, san marzano",
+        "Name": "Bella terra, organic fire roasted diced tomatoes, san marzano",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 2.0,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Italian style with garlic, oregano & basil diced tomatoes, italian style",
+        "Name": "Italian style with garlic, oregano & basil diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -9135,7 +9135,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with sweet onion, sweet onion",
+        "Name": "Petite diced tomatoes with sweet onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9162,7 +9162,7 @@
         }
     },
     {
-        "Name": "Italian style tomato paste, basil, oregano and natural garlic",
+        "Name": "Italian style tomato paste, basil, oregano & natural garlic",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Hunt's, tomato paste, garlic, hunt's, tomato paste, garlic",
+        "Name": "Hunts, tomato paste, garlic, hunts, tomato paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -9207,7 +9207,7 @@
         }
     },
     {
-        "Name": "Hunt's, chunky tomato sauce, basil, garlic & oregano",
+        "Name": "Hunts, chunky tomato sauce, basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9216,7 +9216,7 @@
         }
     },
     {
-        "Name": "Hunt's, tomato paste, herbs and spices, hunt's, tomato paste, herbs and spices",
+        "Name": "Hunts, tomato paste, herbs & spices, hunts, tomato paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -9225,7 +9225,7 @@
         }
     },
     {
-        "Name": "Hunt's, crushed tomatoes, hunt's, crushed tomatoes",
+        "Name": "Hunts, crushed tomatoes, hunts",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9234,7 +9234,7 @@
         }
     },
     {
-        "Name": "Hunt's, stewed tomatoes, hunt's, stewed tomatoes",
+        "Name": "Hunts, stewed tomatoes, hunts",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Italian style tomato paste product, italian style",
+        "Name": "Italian style tomato paste product",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -9279,7 +9279,7 @@
         }
     },
     {
-        "Name": "Italian style tomato sauce, italian style",
+        "Name": "Italian style tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9297,7 +9297,7 @@
         }
     },
     {
-        "Name": "Passata gusto crushed tomatoes with onion, garlic & basil, passata gusto",
+        "Name": "Passata gusto crushed tomatoes with onion, garlic & basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9306,7 +9306,7 @@
         }
     },
     {
-        "Name": "Sliced stewed tomatoes with onion, celery & bell pepper, onion, celery & bell pepper",
+        "Name": "Sliced stewed tomatoes with onion, celery & bell pepper, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9315,7 +9315,7 @@
         }
     },
     {
-        "Name": "Italian style crushed tomatoes in puree, italian style",
+        "Name": "Italian style crushed tomatoes in puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "Mexican style tomato sauce, mexican style",
+        "Name": "Mexican style tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9387,7 +9387,7 @@
         }
     },
     {
-        "Name": "Mexican style stewed tomatoes with jalapeno peppers & spices, mexican style",
+        "Name": "Mexican style stewed tomatoes with jalapeno peppers & spices",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9396,7 +9396,7 @@
         }
     },
     {
-        "Name": "Fire roasted flame peeled diced tomatoes, fire roasted",
+        "Name": "Fire roasted flame peeled diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9405,7 +9405,7 @@
         }
     },
     {
-        "Name": "Unpeeled tomato wedges in olive oil & italian spices, olive oil & italian spices",
+        "Name": "Unpeeled tomato wedges in olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.4,
@@ -9414,7 +9414,7 @@
         }
     },
     {
-        "Name": "Italian style basil & oregano tomato sauce, italian style basil & oregano",
+        "Name": "Italian style basil & oregano tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Mexican style tomato sauce with peppers, garlic & spices, mexican style with peppers, garlic & spices",
+        "Name": "Mexican style tomato sauce with peppers, garlic & spices, mexican style with peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9432,7 +9432,7 @@
         }
     },
     {
-        "Name": "Choice, fire roasted diced tomatoes with garlic, garlic",
+        "Name": "Choice, fire roasted diced tomatoes with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9450,7 +9450,7 @@
         }
     },
     {
-        "Name": "Salad ready unpeeled tomato wedges seasoned in olive oil & italian spices, olive oil & italian spices",
+        "Name": "Salad ready unpeeled tomato wedges seasoned in olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.4,
@@ -9459,7 +9459,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes & green chilies with lime juice & cilantro, lime juice & cilantro",
+        "Name": "Diced tomatoes & green chilies with lime juice & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9468,7 +9468,7 @@
         }
     },
     {
-        "Name": "Salad ready unpeeled tri color tomato wedges seasoned in olive oil & italian spices, olive oil & italian spices",
+        "Name": "Salad ready unpeeled tri color tomato wedges seasoned in olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.4,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Hot diced tomatoes with habanero peppers, hot",
+        "Name": "Hot diced tomatoes with habanero peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9486,7 +9486,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with garlic & olive oil, garlic & olive oil",
+        "Name": "Petite diced tomatoes with garlic & olive oil",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.9,
@@ -9504,7 +9504,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes chili ready, chili ready",
+        "Name": "Diced tomatoes chili ready",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9513,7 +9513,7 @@
         }
     },
     {
-        "Name": "Italian blend stewed tomatoes, italian blend",
+        "Name": "Italian blend stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9522,7 +9522,7 @@
         }
     },
     {
-        "Name": "Chili style with onions diced tomatoes, chili style",
+        "Name": "Chili style with onions diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9531,7 +9531,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion, celery & pepper, onion, celery & pepper",
+        "Name": "Petite diced tomatoes with onion, celery & pepper, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic & onions, roasted garlic & onions",
+        "Name": "Diced tomatoes with roasted garlic & onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9549,7 +9549,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes with green chiles, original",
+        "Name": "Original diced tomatoes with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9558,7 +9558,7 @@
         }
     },
     {
-        "Name": "Onions & garlic chopped tomatoes, onions & garlic",
+        "Name": "Onions & garlic chopped tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9594,7 +9594,7 @@
         }
     },
     {
-        "Name": "Greek tomato sauce with grilled eggplant, greek tomato",
+        "Name": "Greek tomato sauce with grilled eggplant",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 7.2,
@@ -9612,7 +9612,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes with seasonings, seasonings",
+        "Name": "Fire roasted diced tomatoes with seasonings",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9639,7 +9639,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes with chiles, mild",
+        "Name": "Mild diced tomatoes with chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9648,7 +9648,7 @@
         }
     },
     {
-        "Name": "Mexican fiesta diced tomatoes, mexican fiesta",
+        "Name": "Mexican fiesta diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9666,7 +9666,7 @@
         }
     },
     {
-        "Name": "Choice fire roasted diced tomatoes with seasonings, fire roasted",
+        "Name": "Choice fire roasted diced tomatoes with seasonings",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9684,7 +9684,7 @@
         }
     },
     {
-        "Name": "Original green chilies petite diced tomatoes, original green chilies",
+        "Name": "Original green chilies petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9720,7 +9720,7 @@
         }
     },
     {
-        "Name": "Medium diced tomatoes with green chilies, medium",
+        "Name": "Medium diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Steam peeled diced tomatoes with roasted garlic & onion, roasted garlic & onion",
+        "Name": "Steam peeled diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9765,7 +9765,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chiles, green chiles",
+        "Name": "Diced tomatoes with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9774,7 +9774,7 @@
         }
     },
     {
-        "Name": "Italian style crushed tomatoes with basil, garlic & oregano, italian style",
+        "Name": "Italian style crushed tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9783,7 +9783,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with garlic, oregano & basil, garlic, oregano & basil",
+        "Name": "Diced tomatoes with garlic, oregano & basil, garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9828,7 +9828,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with basil, garlic and oregano",
+        "Name": "Diced tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9882,7 +9882,7 @@
         }
     },
     {
-        "Name": "Picante tomato sauce, picante tomato",
+        "Name": "Picante tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9891,7 +9891,7 @@
         }
     },
     {
-        "Name": "San marzano style crushed italian tomatoes, san marzano style",
+        "Name": "San marzano style crushed italian tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -9900,7 +9900,7 @@
         }
     },
     {
-        "Name": "Sofrito espanol, sofrito",
+        "Name": "Sofrito espanol",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.6,
@@ -9909,7 +9909,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with basil, garlic, and oregano, basil, garlic, and oregano",
+        "Name": "Diced tomatoes with basil, garlic, & oregano, basil, garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -9945,7 +9945,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced roma tomatoes with garlic, garlic",
+        "Name": "Fire roasted diced roma tomatoes with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -9954,7 +9954,7 @@
         }
     },
     {
-        "Name": "Petite diced with basil, garlic & oregano roma tomatoes, basil, garlic & oregano",
+        "Name": "Petite diced with basil, garlic & oregano roma tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10053,7 +10053,7 @@
         }
     },
     {
-        "Name": "Tomato sauce italiano, tomato",
+        "Name": "Tomato sauce italiano",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10071,7 +10071,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes made with sea salt, sea salt",
+        "Name": "Petite diced tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -10080,7 +10080,7 @@
         }
     },
     {
-        "Name": "Whole tomatoes made with sea salt, sea salt",
+        "Name": "Whole tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -10089,7 +10089,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes made with sea salt, sea salt",
+        "Name": "Diced tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -10107,7 +10107,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes made with sea salt, sea salt",
+        "Name": "Whole peeled tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -10116,7 +10116,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes made with sea salt, sea salt",
+        "Name": "Stewed tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10125,7 +10125,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes made with sea salt, sea salt",
+        "Name": "Crushed tomatoes made with sea salt",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -10170,7 +10170,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes with onions, celery and green peppers, onions, celery and green peppers",
+        "Name": "Stewed tomatoes with onions, celery & green peppers, onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10197,7 +10197,7 @@
         }
     },
     {
-        "Name": "Organic kids' tomato sauce",
+        "Name": "Organic kids tomato sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.8,
@@ -10206,7 +10206,7 @@
         }
     },
     {
-        "Name": "Chunky style crushed tomatoes, chunky style",
+        "Name": "Chunky style crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10215,7 +10215,7 @@
         }
     },
     {
-        "Name": "No salt added coarse ground tomatoes in organic tomato puree, coarse ground tomatoes",
+        "Name": "No salt added coarse ground tomatoes in organic tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10224,7 +10224,7 @@
         }
     },
     {
-        "Name": "Fire roasted with seasonings diced tomatoes, fire roasted with seasonings",
+        "Name": "Fire roasted with seasonings diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -10233,7 +10233,7 @@
         }
     },
     {
-        "Name": "Fire roasted with garlic diced tomatoes, fire roasted with garlic",
+        "Name": "Fire roasted with garlic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10251,7 +10251,7 @@
         }
     },
     {
-        "Name": "Tomato no salt added organic paste, tomato",
+        "Name": "Tomato no salt added organic paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -10260,7 +10260,7 @@
         }
     },
     {
-        "Name": "Mexican style with peppers & spices sliced stewed tomatoes, mexican style with peppers & spices",
+        "Name": "Mexican style with peppers & spices sliced stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10269,7 +10269,7 @@
         }
     },
     {
-        "Name": "Italian style with basil, garlic & oregano diced tomatoes, italian style with basil, garlic & oregano",
+        "Name": "Italian style with basil, garlic & oregano diced tomatoes, italian style with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10278,7 +10278,7 @@
         }
     },
     {
-        "Name": "Mexican style with jalapeno peppers & spices diced tomatoes, mexican style with jalapeno peppers & spices",
+        "Name": "Mexican style with jalapeno peppers & spices diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10287,7 +10287,7 @@
         }
     },
     {
-        "Name": "Tomato and chicken concentrate, tomato and chicken, tomato and chicken",
+        "Name": "Tomato & chicken concentrate, tomato & chicken",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -10296,7 +10296,7 @@
         }
     },
     {
-        "Name": "100% natural tomatoes sauce, tomatoes",
+        "Name": "100% natural tomatoes sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10305,7 +10305,7 @@
         }
     },
     {
-        "Name": "Hunt's, diced fennel & red pepper",
+        "Name": "Hunts, diced fennel & red pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10332,7 +10332,7 @@
         }
     },
     {
-        "Name": "Hunt's, whole peeled plum tomatoes, no salt added, hunt's, whole peeled plum tomatoes, no salt added",
+        "Name": "Hunts, whole peeled plum tomatoes, no salt added, hunts, whole peeled plum tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10350,7 +10350,7 @@
         }
     },
     {
-        "Name": "100% natural tomatoes paste, tomatoes",
+        "Name": "100% natural tomatoes paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -10386,7 +10386,7 @@
         }
     },
     {
-        "Name": "Organic tomatoes sauce, tomatoes",
+        "Name": "Organic tomatoes sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10395,7 +10395,7 @@
         }
     },
     {
-        "Name": "Organic fire-roasted diced tomatoes, fire-roasted",
+        "Name": "Organic fire-roasted diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10404,7 +10404,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes, diced",
+        "Name": "Diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10431,7 +10431,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes with garlic, oregano & basil, italian style",
+        "Name": "Italian style diced tomatoes with garlic, oregano & basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -10440,7 +10440,7 @@
         }
     },
     {
-        "Name": "Italian style with garlic, oregano & basil sliced stewed tomatoes, italian style",
+        "Name": "Italian style with garlic, oregano & basil sliced stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10467,7 +10467,7 @@
         }
     },
     {
-        "Name": "Italian style with basil, garlic & oregano petite diced tomatoes, italian style with basil, garlic & oregano",
+        "Name": "Italian style with basil, garlic & oregano petite diced tomatoes, italian style with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10503,7 +10503,7 @@
         }
     },
     {
-        "Name": "Mexican style with peppers, garlic & spices tomato sauce, mexican style with peppers, garlic & spices",
+        "Name": "Mexican style with peppers, garlic & spices tomato sauce, mexican style with peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10512,7 +10512,7 @@
         }
     },
     {
-        "Name": "Original with green chilies mexican style diced tomatoes, original with green chilies",
+        "Name": "Original with green chilies mexican style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10521,7 +10521,7 @@
         }
     },
     {
-        "Name": "Italian blend diced tomatoes, italian blend",
+        "Name": "Italian blend diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -10539,7 +10539,7 @@
         }
     },
     {
-        "Name": "Whole plum tomatoes with basil, basil",
+        "Name": "Whole plum tomatoes with basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10548,7 +10548,7 @@
         }
     },
     {
-        "Name": "Stewed mexican tomatoes, stewed mexican",
+        "Name": "Stewed mexican tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10557,7 +10557,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes in tomato juice, diced tomatoes",
+        "Name": "Organic diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10566,7 +10566,7 @@
         }
     },
     {
-        "Name": "Tomato basil sauce made with fresh basil, fresh garlic & fresh onions, tomato basil",
+        "Name": "Tomato basil sauce made with fresh basil, fresh garlic & fresh onions",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.4,
@@ -10575,7 +10575,7 @@
         }
     },
     {
-        "Name": "Caramelized onion & roasted garlic sauce made with fresh basil, caramelized onion & roasted garlic",
+        "Name": "Caramelized onion & roasted garlic sauce made with fresh basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.6,
@@ -10584,7 +10584,7 @@
         }
     },
     {
-        "Name": "Tomato basil sauce, tomato basil",
+        "Name": "Tomato basil sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 4.8,
@@ -10593,7 +10593,7 @@
         }
     },
     {
-        "Name": "No salt added tomatoes petite diced with medium green chilies, medium green chilies",
+        "Name": "No salt added tomatoes petite diced with medium green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10602,7 +10602,7 @@
         }
     },
     {
-        "Name": "Tomato paste with basil, oregano & garlic, basil, oregano & garlic",
+        "Name": "Tomato paste with basil, oregano & garlic, basil",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -10611,7 +10611,7 @@
         }
     },
     {
-        "Name": "Italian whole peeled tomatoes with basil leaf, italian",
+        "Name": "Italian whole peeled tomatoes with basil leaf",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10620,7 +10620,7 @@
         }
     },
     {
-        "Name": "San marzano style whole peeled tomatoes in tomato juice, san marzano style",
+        "Name": "San marzano style whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10629,7 +10629,7 @@
         }
     },
     {
-        "Name": "Fire roasted crushed tomatoes in tomato puree, fire roasted",
+        "Name": "Fire roasted crushed tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10638,7 +10638,7 @@
         }
     },
     {
-        "Name": "Fire roasted san marzano style whole peeled tomatoes in tomato juice, fire roasted san marzano style",
+        "Name": "Fire roasted san marzano style whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10647,7 +10647,7 @@
         }
     },
     {
-        "Name": "Italian style peeled pear tomatoes with basil, italian style",
+        "Name": "Italian style peeled pear tomatoes with basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10665,7 +10665,7 @@
         }
     },
     {
-        "Name": "Rosee tomato sauce, rosee",
+        "Name": "Rosee tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 10.3,
@@ -10674,7 +10674,7 @@
         }
     },
     {
-        "Name": "San marzano style strips peeled pear tomatoes in puree with leaf basil, san marzano style",
+        "Name": "San marzano style strips peeled pear tomatoes in puree with leaf basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10683,7 +10683,7 @@
         }
     },
     {
-        "Name": "San marzano style whole peeled pear tomatoes with leaf basil, san marzano style",
+        "Name": "San marzano style whole peeled pear tomatoes with leaf basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10692,7 +10692,7 @@
         }
     },
     {
-        "Name": "San marzano style garlic, olive oil & basil whole peeled tomatoes, san marzano style garlic, olive oil & basil",
+        "Name": "San marzano style garlic, olive oil & basil whole peeled tomatoes, san marzano style garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10701,7 +10701,7 @@
         }
     },
     {
-        "Name": "Organic original diced tomatoes & green chilies, original",
+        "Name": "Organic original diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10710,7 +10710,7 @@
         }
     },
     {
-        "Name": "Original organic diced tomatoes & green chilies, original",
+        "Name": "Original organic diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10728,7 +10728,7 @@
         }
     },
     {
-        "Name": "100% natural petite diced tomatoes with garlic & extra virgin olive oil, garlic & extra virgin olive oil",
+        "Name": "100% natural petite diced tomatoes with garlic & extra virgin olive oil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10737,7 +10737,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with serrano pepper, serrano",
+        "Name": "Diced tomatoes with serrano pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10746,7 +10746,7 @@
         }
     },
     {
-        "Name": "Italian style whole peeled tomatoes basil leaf, italian style",
+        "Name": "Italian style whole peeled tomatoes basil leaf",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10755,7 +10755,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes, tomatoes",
+        "Name": "Diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10791,7 +10791,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes, italian",
+        "Name": "Italian style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -10800,7 +10800,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano tomato paste product, italian style",
+        "Name": "Italian style with basil & oregano tomato paste product",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -10809,7 +10809,7 @@
         }
     },
     {
-        "Name": "Lime & cilantro diced tomatoes & green chilies, lime & cilantro",
+        "Name": "Lime & cilantro diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10818,7 +10818,7 @@
         }
     },
     {
-        "Name": "No salt added tomato puree, tomato",
+        "Name": "No salt added tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10827,7 +10827,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green pepper & onion, green pepper & onion",
+        "Name": "Diced tomatoes with green pepper & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10845,7 +10845,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes with italian herbs, italian herbs",
+        "Name": "Stewed tomatoes with italian herbs",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10854,7 +10854,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes, organic",
+        "Name": "Organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10863,7 +10863,7 @@
         }
     },
     {
-        "Name": "Tuscan eggplant tomato sauce, eggplant",
+        "Name": "Tuscan eggplant tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 3.2,
@@ -10872,7 +10872,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes in water with green chilies, green chilies",
+        "Name": "Petite diced tomatoes in water with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10881,7 +10881,7 @@
         }
     },
     {
-        "Name": "Fired roasted with seasonings diced tomatoes, fired roasted with seasonings",
+        "Name": "Fired roasted with seasonings diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10890,7 +10890,7 @@
         }
     },
     {
-        "Name": "Fire roasted salsa style with peppers, onions & garlic diced tomatoes, fire roasted salsa style with peppers, onions & garlic",
+        "Name": "Fire roasted salsa style with peppers, onions & garlic diced tomatoes, fire roasted salsa style with peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10899,7 +10899,7 @@
         }
     },
     {
-        "Name": "Pomodoro tomato sauce, pomodoro",
+        "Name": "Pomodoro tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10908,7 +10908,7 @@
         }
     },
     {
-        "Name": "Passata rustica crushed tomatoes, passata rustica",
+        "Name": "Passata rustica crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10917,7 +10917,7 @@
         }
     },
     {
-        "Name": "Passata classico strained tomatoes, passata classico",
+        "Name": "Passata classico strained tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10926,7 +10926,7 @@
         }
     },
     {
-        "Name": "Chipotle diced tomatoes & chipotle peppers, chipotle",
+        "Name": "Chipotle diced tomatoes & chipotle peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10935,7 +10935,7 @@
         }
     },
     {
-        "Name": "Eden organic, crushed tomatoes, sweet basil, sweet basil",
+        "Name": "Eden organic, crushed tomatoes, sweet basil",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -10944,7 +10944,7 @@
         }
     },
     {
-        "Name": "Crushed italian tomatoes, italian",
+        "Name": "Crushed italian tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -10953,7 +10953,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic & onion, diced tomatoes",
+        "Name": "Diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10962,7 +10962,7 @@
         }
     },
     {
-        "Name": "Italian-style diced tomatoes with basil, garlic & oregano, basil, garlic & oregano",
+        "Name": "Italian-style diced tomatoes with basil, garlic & oregano, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -10980,7 +10980,7 @@
         }
     },
     {
-        "Name": "Whole cherry tomato in passata, whole cherry tomato",
+        "Name": "Whole cherry tomato in passata",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10989,7 +10989,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion celery & peppers, onion celery & peppers",
+        "Name": "Petite diced tomatoes with onion celery & peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10998,7 +10998,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes, petite diced",
+        "Name": "Petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11007,7 +11007,7 @@
         }
     },
     {
-        "Name": "Tomatoes petite diced, tomatoes",
+        "Name": "Tomatoes petite diced",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11016,7 +11016,7 @@
         }
     },
     {
-        "Name": "Tomato passata, tomato",
+        "Name": "Tomato passata",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11034,7 +11034,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes in juice with green chiles, original",
+        "Name": "Original diced tomatoes in juice with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11061,7 +11061,7 @@
         }
     },
     {
-        "Name": "Chef's cut tomatoes with basil leaf",
+        "Name": "Chefs cut tomatoes with basil leaf",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11070,7 +11070,7 @@
         }
     },
     {
-        "Name": "Italian style sliced stewed in tomatoes juice, italian style",
+        "Name": "Italian style sliced stewed in tomatoes juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11088,7 +11088,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic and onion, roasted garlic and onion",
+        "Name": "Diced tomatoes with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11106,7 +11106,7 @@
         }
     },
     {
-        "Name": "Peeled whole tomatoes in tomato juice, tomatoes",
+        "Name": "Peeled whole tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11115,7 +11115,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano tomato sauce, italian style with basil & oregano tomato",
+        "Name": "Italian style with basil & oregano tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11133,7 +11133,7 @@
         }
     },
     {
-        "Name": "Italian style with olive oil, garlic & spices diced tomatoes, italian style with olive oil, garlic & spices",
+        "Name": "Italian style with olive oil, garlic & spices diced tomatoes, italian style with olive oil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -11151,7 +11151,7 @@
         }
     },
     {
-        "Name": "Tomato organic paste, tomato",
+        "Name": "Tomato organic paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -11160,7 +11160,7 @@
         }
     },
     {
-        "Name": "Tomato organic sauce, tomato",
+        "Name": "Tomato organic sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11169,7 +11169,7 @@
         }
     },
     {
-        "Name": "Italian style in puree crushed tomatoes, italian style",
+        "Name": "Italian style in puree crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11187,7 +11187,7 @@
         }
     },
     {
-        "Name": "Homestyle crushed tomatoes, homestyle",
+        "Name": "Homestyle crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11196,7 +11196,7 @@
         }
     },
     {
-        "Name": "Tomato vine ripened paste, tomato",
+        "Name": "Tomato vine ripened paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -11205,7 +11205,7 @@
         }
     },
     {
-        "Name": "Chili-ready diced tomatoes with a blend of chili spices, chili-ready",
+        "Name": "Chili-ready diced tomatoes with a blend of chili spices",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11214,7 +11214,7 @@
         }
     },
     {
-        "Name": "Italian-style diced tomatoes with basil, garlic & oregano, italian-style",
+        "Name": "Italian-style diced tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -11223,7 +11223,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion, celery & peppers, onion, celery & peppers",
+        "Name": "Petite diced tomatoes with onion, celery & peppers, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11232,7 +11232,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion, celery & green pepper, onion, celery & green pepper",
+        "Name": "Petite diced tomatoes with onion, celery & green pepper, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11241,7 +11241,7 @@
         }
     },
     {
-        "Name": "Mexican style petite diced tomatoes, mexican style",
+        "Name": "Mexican style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11250,7 +11250,7 @@
         }
     },
     {
-        "Name": "Classic diced tomatoes, classic",
+        "Name": "Classic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11259,7 +11259,7 @@
         }
     },
     {
-        "Name": "Chili starter seasoned & diced tomatoes, chili starter",
+        "Name": "Chili starter seasoned & diced tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11286,7 +11286,7 @@
         }
     },
     {
-        "Name": "Chili style with onions diced tomatoes, chili style with onions",
+        "Name": "Chili style with onions diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11295,7 +11295,7 @@
         }
     },
     {
-        "Name": "Italian style vine ripened crushed tomatoes, italian style",
+        "Name": "Italian style vine ripened crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11304,7 +11304,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes, tomatoes",
+        "Name": "Whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11313,7 +11313,7 @@
         }
     },
     {
-        "Name": "Mild petite diced tomatoes with green chilies, mild, green chilies",
+        "Name": "Mild petite diced tomatoes with green chilies, mild",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11322,7 +11322,7 @@
         }
     },
     {
-        "Name": "Fancy tomato sauce, fancy tomato",
+        "Name": "Fancy tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11331,7 +11331,7 @@
         }
     },
     {
-        "Name": "Mexican stewed tomatoes, mexican",
+        "Name": "Mexican stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11340,7 +11340,7 @@
         }
     },
     {
-        "Name": "Italian style diced tomatoes with oil, italian style",
+        "Name": "Italian style diced tomatoes with oil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -11349,7 +11349,7 @@
         }
     },
     {
-        "Name": "Classic stewed tomatoes, classic",
+        "Name": "Classic stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11358,7 +11358,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with onion, celery, & green pepper, onion, celery, & green pepper",
+        "Name": "Petite diced tomatoes with onion, celery, & green pepper, onion, celery",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11367,7 +11367,7 @@
         }
     },
     {
-        "Name": "Italian style stewed tomatoes in tomato juice, italian style",
+        "Name": "Italian style stewed tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11376,7 +11376,7 @@
         }
     },
     {
-        "Name": "Tomatoes sauce, tomatoes",
+        "Name": "Tomatoes sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11394,7 +11394,7 @@
         }
     },
     {
-        "Name": "Regular style tomato puree, regular style",
+        "Name": "Regular style tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11403,7 +11403,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chilies with lime & cilantro, lime & cilantro",
+        "Name": "Diced tomatoes with green chilies with lime & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11412,7 +11412,7 @@
         }
     },
     {
-        "Name": "Classic petite diced tomatoes, classic",
+        "Name": "Classic petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11421,7 +11421,7 @@
         }
     },
     {
-        "Name": "Classic crushed tomatoes, classic",
+        "Name": "Classic crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11430,7 +11430,7 @@
         }
     },
     {
-        "Name": "Original petite diced tomatoes with green chilies, original",
+        "Name": "Original petite diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11439,7 +11439,7 @@
         }
     },
     {
-        "Name": "Fancy tomato sauce, tomato",
+        "Name": "Fancy tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11448,7 +11448,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes with green chilies, original, green chilies",
+        "Name": "Original diced tomatoes with green chilies, original",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11466,7 +11466,7 @@
         }
     },
     {
-        "Name": "Vine ripened tomato sauce, tomato",
+        "Name": "Vine ripened tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11475,7 +11475,7 @@
         }
     },
     {
-        "Name": "Chili-ready diced tomatoes, chili-ready",
+        "Name": "Chili-ready diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11502,7 +11502,7 @@
         }
     },
     {
-        "Name": "Classic tomato sauce, classic tomato",
+        "Name": "Classic tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11520,7 +11520,7 @@
         }
     },
     {
-        "Name": "Chili ready diced tomatoes, chili",
+        "Name": "Chili ready diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11529,7 +11529,7 @@
         }
     },
     {
-        "Name": "Chili starter crushed & diced tomatoes, chili starter",
+        "Name": "Chili starter crushed & diced tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11538,7 +11538,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with sweet onions, sweet onions",
+        "Name": "Petite diced tomatoes with sweet onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11556,7 +11556,7 @@
         }
     },
     {
-        "Name": "Classic tomato paste, classic",
+        "Name": "Classic tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -11565,7 +11565,7 @@
         }
     },
     {
-        "Name": "Green chilies with lime & cilantro petite diced tomatoes, green chilies with lime & cilantro",
+        "Name": "Green chilies with lime & cilantro petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11574,7 +11574,7 @@
         }
     },
     {
-        "Name": "Mexican diced tomatoes, mexican",
+        "Name": "Mexican diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11583,7 +11583,7 @@
         }
     },
     {
-        "Name": "Tomatoes crushed, tomatoes",
+        "Name": "Tomatoes crushed",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11592,7 +11592,7 @@
         }
     },
     {
-        "Name": "Homestyle tomato paste with italian herbs, tomato",
+        "Name": "Homestyle tomato paste with italian herbs",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -11601,7 +11601,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes, stewed",
+        "Name": "Stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11610,7 +11610,7 @@
         }
     },
     {
-        "Name": "Whole tomatoes in puree, whole tomatoes",
+        "Name": "Whole tomatoes in puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11628,7 +11628,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes with green chiles, green chiles",
+        "Name": "Petite diced tomatoes with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11646,7 +11646,7 @@
         }
     },
     {
-        "Name": "Whole san marzano style tomatoes with basil, whole san marzano style",
+        "Name": "Whole san marzano style tomatoes with basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11655,7 +11655,7 @@
         }
     },
     {
-        "Name": "Whole tomatoes, whole",
+        "Name": "Whole tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11664,7 +11664,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes with onions, celery & green peppers, onions, celery & green peppers",
+        "Name": "Stewed tomatoes with onions, celery & green peppers, onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11682,7 +11682,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes tomato juice from concentrate, diced tomatoes",
+        "Name": "Diced tomatoes tomato juice from concentrate",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11691,7 +11691,7 @@
         }
     },
     {
-        "Name": "Serrano diced tomatoes with serrano pepper, serrano",
+        "Name": "Serrano diced tomatoes with serrano pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11718,7 +11718,7 @@
         }
     },
     {
-        "Name": "San marzano style tomatoes whole peeled in juice, san marzano style",
+        "Name": "San marzano style tomatoes whole peeled in juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11745,7 +11745,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes in juice, diced tomatoes",
+        "Name": "Diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11754,7 +11754,7 @@
         }
     },
     {
-        "Name": "Victoria, organic sauce, tomato herb, tomato herb",
+        "Name": "Victoria, organic sauce, tomato herb",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.8,
@@ -11763,7 +11763,7 @@
         }
     },
     {
-        "Name": "Tomato paste, tomato paste",
+        "Name": "Tomato paste",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -11772,7 +11772,7 @@
         }
     },
     {
-        "Name": "Mexican style stewed tomatoes with jalapeno peppers, mexican style, jalapeno peppers",
+        "Name": "Mexican style stewed tomatoes with jalapeno peppers, mexican style",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11790,7 +11790,7 @@
         }
     },
     {
-        "Name": "Tomato basil paste, tomato basil",
+        "Name": "Tomato basil paste",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -11817,7 +11817,7 @@
         }
     },
     {
-        "Name": "Tomatoes with basil leaf, basil leaf",
+        "Name": "Tomatoes with basil leaf",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11844,7 +11844,7 @@
         }
     },
     {
-        "Name": "Furmano's, chili style diced tomatoes, ancho chili & cumin, ancho chili & cumin",
+        "Name": "Furmanos, chili style diced tomatoes, ancho chili & cumin",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -11853,7 +11853,7 @@
         }
     },
     {
-        "Name": "Mild tomato sauce, mild tomato",
+        "Name": "Mild tomato sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 7.1,
@@ -11889,7 +11889,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green peppers, celery & onions, green peppers, celery & onions",
+        "Name": "Diced tomatoes with green peppers, celery & onions, green peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11907,7 +11907,7 @@
         }
     },
     {
-        "Name": "Tio santi, mexican style tomato sauce, hot, hot",
+        "Name": "Tio santi, mexican style tomato sauce, hot",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11916,7 +11916,7 @@
         }
     },
     {
-        "Name": "Ballymaloe, sauce, original, original",
+        "Name": "Ballymaloe, sauce, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11943,7 +11943,7 @@
         }
     },
     {
-        "Name": "Organic tomato sauce ",
+        "Name": "Organic tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11979,7 +11979,7 @@
         }
     },
     {
-        "Name": "Crushed roma style tomatoes in tomato puree, roma style tomatoes",
+        "Name": "Crushed roma style tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -11988,7 +11988,7 @@
         }
     },
     {
-        "Name": "Whole peeled plum tomatoes pelati ",
+        "Name": "Whole peeled plum tomatoes pelati",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12024,7 +12024,7 @@
         }
     },
     {
-        "Name": "No salt added diced tomatoes in tomato juice, tomato juice",
+        "Name": "No salt added diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12033,7 +12033,7 @@
         }
     },
     {
-        "Name": "Stewed sliced tomatoes in tomato juice, tomato",
+        "Name": "Stewed sliced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12042,7 +12042,7 @@
         }
     },
     {
-        "Name": "The original hot tomato sauce, hot",
+        "Name": "The original hot tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12078,7 +12078,7 @@
         }
     },
     {
-        "Name": "Spartan, diced tomatoes, fire roasted with garlic, fire roasted with garlic",
+        "Name": "Spartan, diced tomatoes, fire roasted with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12105,7 +12105,7 @@
         }
     },
     {
-        "Name": "Roma style tomato paste with italian herbs, roma style",
+        "Name": "Roma style tomato paste with italian herbs",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.5,
@@ -12150,7 +12150,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with jalapenos, lime juice & cilantro, jalapenos, lime juice & cilantro",
+        "Name": "Diced tomatoes with jalapenos, lime juice & cilantro, jalapenos",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12159,7 +12159,7 @@
         }
     },
     {
-        "Name": "Tomatoes crushed with basil, basil",
+        "Name": "Tomatoes crushed with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12186,7 +12186,7 @@
         }
     },
     {
-        "Name": "Chili ready tomatoes, chili ready",
+        "Name": "Chili ready tomatoes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -12195,7 +12195,7 @@
         }
     },
     {
-        "Name": "Rustichella d'abruzzo, tomato sauce with olives, olives, olives",
+        "Name": "Rustichella dabruzzo, tomato sauce with olives, olives",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 7.7,
@@ -12204,7 +12204,7 @@
         }
     },
     {
-        "Name": "Italian diced tomatoes with basil, garlic & oregano, italian with basil, garlic & oregano",
+        "Name": "Italian diced tomatoes with basil, garlic & oregano, italian with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12249,7 +12249,7 @@
         }
     },
     {
-        "Name": "La preferida, diced tomatoes with green chilies, zesty mild, original, zesty mild, original",
+        "Name": "La preferida, diced tomatoes with green chilies, zesty mild, original, zesty mild",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12258,7 +12258,7 @@
         }
     },
     {
-        "Name": "Italian tomato paste, italian tomato",
+        "Name": "Italian tomato paste",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -12267,7 +12267,7 @@
         }
     },
     {
-        "Name": "Steam peeled diced tomatoes with basil, garlic & oregano in organic tomato juice, basil, garlic & oregano",
+        "Name": "Steam peeled diced tomatoes with basil, garlic & oregano in organic tomato juice, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12285,7 +12285,7 @@
         }
     },
     {
-        "Name": "Steam peeled diced tomatoes with organic green chiles, green chiles",
+        "Name": "Steam peeled diced tomatoes with organic green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12303,7 +12303,7 @@
         }
     },
     {
-        "Name": "Unpeeled tomato wedges seasoned in olive oil & italian spices, olive oil & italian spices",
+        "Name": "Unpeeled tomato wedges seasoned in olive oil & italian spices",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 2.7,
@@ -12348,7 +12348,7 @@
         }
     },
     {
-        "Name": "San marzano style whole tomatoes, san marzano style",
+        "Name": "San marzano style whole tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12357,7 +12357,7 @@
         }
     },
     {
-        "Name": "Tomato sauce with oregano, garlic & basil, oregano, garlic & basil",
+        "Name": "Tomato sauce with oregano, garlic & basil, oregano",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12366,7 +12366,7 @@
         }
     },
     {
-        "Name": "San marzano style whole peeled pear tomatoes with fresh leaf basil, san marzano style",
+        "Name": "San marzano style whole peeled pear tomatoes with fresh leaf basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12375,7 +12375,7 @@
         }
     },
     {
-        "Name": "Italian crushed tomatoes with basil, italian",
+        "Name": "Italian crushed tomatoes with basil",
         "Nutrients": {
             "Protein": 1.3,
             "Fat": 0.0,
@@ -12384,7 +12384,7 @@
         }
     },
     {
-        "Name": "Vine ripened tomato paste, vine ripened",
+        "Name": "Vine ripened tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -12411,7 +12411,7 @@
         }
     },
     {
-        "Name": "Tomato sauce with oregano, garlic & basil, tomato with oregano, garlic & basil",
+        "Name": "Tomato sauce with oregano, garlic & basil, tomato with oregano",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12420,7 +12420,7 @@
         }
     },
     {
-        "Name": "Italian style with garlic, oregano & basil petite diced tomatoes, italian style with garlic, oregano & basil",
+        "Name": "Italian style with garlic, oregano & basil petite diced tomatoes, italian style with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12429,7 +12429,7 @@
         }
     },
     {
-        "Name": "Organic tomato puree, tomato",
+        "Name": "Organic tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12447,7 +12447,7 @@
         }
     },
     {
-        "Name": "Salsa style petite diced tomatoes in natural tomato juice, salsa style",
+        "Name": "Salsa style petite diced tomatoes in natural tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12456,7 +12456,7 @@
         }
     },
     {
-        "Name": "Italian style tomato sauce, italian style tomato",
+        "Name": "Italian style tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12465,7 +12465,7 @@
         }
     },
     {
-        "Name": "Organic crushed tomatoes in organic tomato puree with basil, basil",
+        "Name": "Organic crushed tomatoes in organic tomato puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12474,7 +12474,7 @@
         }
     },
     {
-        "Name": "Tomato and chicken flavor concentrate, tomato and chicken",
+        "Name": "Tomato & chicken flavor concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -12483,7 +12483,7 @@
         }
     },
     {
-        "Name": "Celery & peppers stewed tomatoes, celery & peppers",
+        "Name": "Celery & peppers stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12492,7 +12492,7 @@
         }
     },
     {
-        "Name": "Onion, celery & green peppers diced tomatoes, onion, celery & green peppers",
+        "Name": "Onion, celery & green peppers diced tomatoes, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12501,7 +12501,7 @@
         }
     },
     {
-        "Name": "Sweet onion diced tomatoes, sweet onion",
+        "Name": "Sweet onion diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12510,7 +12510,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes & green chiles, original",
+        "Name": "Original diced tomatoes & green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12519,7 +12519,7 @@
         }
     },
     {
-        "Name": "Fire roasted tomatoes diced, fire roasted",
+        "Name": "Fire roasted tomatoes diced",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12546,7 +12546,7 @@
         }
     },
     {
-        "Name": "Pomodoro 100% italian sauce, pomodoro",
+        "Name": "Pomodoro 100% italian sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12555,7 +12555,7 @@
         }
     },
     {
-        "Name": "Clover valley, diced tomatoes with green chilies, mild, mild",
+        "Name": "Clover valley, diced tomatoes with green chilies, mild",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12564,7 +12564,7 @@
         }
     },
     {
-        "Name": "Clover valley, diced tomatoes with habaneros, hot, hot",
+        "Name": "Clover valley, diced tomatoes with habaneros, hot",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12600,7 +12600,7 @@
         }
     },
     {
-        "Name": "Red gold, petite diced tomatoes & chipotle peppers, chipotle, chipotle",
+        "Name": "Red gold, petite diced tomatoes & chipotle peppers, chipotle",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -12609,7 +12609,7 @@
         }
     },
     {
-        "Name": "Red pack, stewed tomatoes, basil, garlic & oregano, basil, garlic & oregano",
+        "Name": "Red pack, stewed tomatoes, basil, garlic & oregano, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12618,7 +12618,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes, sweet onion, sweet onion",
+        "Name": "Petite diced tomatoes, sweet onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12627,7 +12627,7 @@
         }
     },
     {
-        "Name": "Red pack, 100% natural diced tomatoes, roasted garlic & onion, roasted garlic & onion",
+        "Name": "Red pack, 100% natural diced tomatoes, roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12636,7 +12636,7 @@
         }
     },
     {
-        "Name": "Red pack, petite diced tomatoes, green chilies, green chilies",
+        "Name": "Red pack, petite diced tomatoes, green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12681,7 +12681,7 @@
         }
     },
     {
-        "Name": "Mediterranean sun-dried tomato sauce, mediterranean sun-dried tomato",
+        "Name": "Mediterranean sun-dried tomato sauce",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.5,
@@ -12690,7 +12690,7 @@
         }
     },
     {
-        "Name": "Sauce, tomatoes ",
+        "Name": "Sauce, tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12699,7 +12699,7 @@
         }
     },
     {
-        "Name": "Organic diced roma style tomatoes with natural sea salt ",
+        "Name": "Organic diced roma style tomatoes with natural sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12708,7 +12708,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes ",
+        "Name": "Stewed tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12717,7 +12717,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes ",
+        "Name": "Diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12726,7 +12726,7 @@
         }
     },
     {
-        "Name": "Medium original diced tomatoes with green chilies, medium, green chilies",
+        "Name": "Medium original diced tomatoes with green chilies, medium",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12735,7 +12735,7 @@
         }
     },
     {
-        "Name": "San marzano style peeled pear tomatoes in juice with basil & sea salt, san marzano style",
+        "Name": "San marzano style peeled pear tomatoes in juice with basil & sea salt",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12744,7 +12744,7 @@
         }
     },
     {
-        "Name": "San marzano style chopped tomatoes in puree with sea salt, sea salt",
+        "Name": "San marzano style chopped tomatoes in puree with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12753,7 +12753,7 @@
         }
     },
     {
-        "Name": "San marzano style chopped tomatoes in puree, san marzano style",
+        "Name": "San marzano style chopped tomatoes in puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12762,7 +12762,7 @@
         }
     },
     {
-        "Name": "Chili tomato sauce, chili",
+        "Name": "Chili tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12780,7 +12780,7 @@
         }
     },
     {
-        "Name": "Peeled plum tomatoes italian style in puree with sweet basil, sweet basil",
+        "Name": "Peeled plum tomatoes italian style in puree with sweet basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12789,7 +12789,7 @@
         }
     },
     {
-        "Name": "Tuscan herb petite diced tomatoes with rosemary, onions & garlic, rosemary, onions & garlic",
+        "Name": "Tuscan herb petite diced tomatoes with rosemary, onions & garlic, rosemary",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -12798,7 +12798,7 @@
         }
     },
     {
-        "Name": "Italian style in puree with olive oil diced tomatoes, italian style",
+        "Name": "Italian style in puree with olive oil diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -12807,7 +12807,7 @@
         }
     },
     {
-        "Name": "Italian style with basil, garlic & olive oil tomato sauce, italian style",
+        "Name": "Italian style with basil, garlic & olive oil tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12816,7 +12816,7 @@
         }
     },
     {
-        "Name": "Southern vineyard petite diced tomatoes with white wine, olive oil & onion, white wine, olive oil & onion",
+        "Name": "Southern vineyard petite diced tomatoes with white wine, olive oil & onion, white wine",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -12825,7 +12825,7 @@
         }
     },
     {
-        "Name": "Chunky style in puree with sweet basil crushed tomatoes, chunky style",
+        "Name": "Chunky style in puree with sweet basil crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12834,7 +12834,7 @@
         }
     },
     {
-        "Name": "Northern herb petite diced tomatoes with marjoram, basil & parsley, marjoram, basil & parsley",
+        "Name": "Northern herb petite diced tomatoes with marjoram, basil & parsley, marjoram",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -12843,7 +12843,7 @@
         }
     },
     {
-        "Name": "Extra thick tomato puree with sweet basil, sweet basil",
+        "Name": "Extra thick tomato puree with sweet basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -12861,7 +12861,7 @@
         }
     },
     {
-        "Name": "Italian style basil & oregano stewed tomatoes, italian style basil & oregano",
+        "Name": "Italian style basil & oregano stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12870,7 +12870,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano tomato paste product, italian style with basil & oregano tomato",
+        "Name": "Italian style with basil & oregano tomato paste product",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -12879,7 +12879,7 @@
         }
     },
     {
-        "Name": "Tomato puree passata, tomato puree",
+        "Name": "Tomato puree passata",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -12888,7 +12888,7 @@
         }
     },
     {
-        "Name": "Organic fire roasted diced tomatoes, fire roasted",
+        "Name": "Organic fire roasted diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12897,7 +12897,7 @@
         }
     },
     {
-        "Name": "Italian-style diced tomatoes seasoned with basil, garlic and oregano, italian-style",
+        "Name": "Italian-style diced tomatoes seasoned with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12906,7 +12906,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with organic green chiles, green chiles",
+        "Name": "Diced tomatoes with organic green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12915,7 +12915,7 @@
         }
     },
     {
-        "Name": "Petite diced tomatoes in tomato juice, tomato juice",
+        "Name": "Petite diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12924,7 +12924,7 @@
         }
     },
     {
-        "Name": "Italian organic diced tomatoes , italian",
+        "Name": "Italian organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12933,7 +12933,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes with green chilies, green chilies",
+        "Name": "Organic diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -12951,7 +12951,7 @@
         }
     },
     {
-        "Name": "Italian organic diced tomatoes, italian",
+        "Name": "Italian organic diced tomatoes",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 2.0,
@@ -12987,7 +12987,7 @@
         }
     },
     {
-        "Name": "Italian-style petite diced tomatoes with basil, garlic & oregano, italian-style with basil, garlic & oregano",
+        "Name": "Italian-style petite diced tomatoes with basil, garlic & oregano, italian-style with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13005,7 +13005,7 @@
         }
     },
     {
-        "Name": "Tomato vine ripened sauce, tomato",
+        "Name": "Tomato vine ripened sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13014,7 +13014,7 @@
         }
     },
     {
-        "Name": "Vine ripened tomato sauce, vine ripened",
+        "Name": "Vine ripened tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13023,7 +13023,7 @@
         }
     },
     {
-        "Name": "Organic, crushed tomatoes in puree with basil, basil",
+        "Name": "Organic, crushed tomatoes in puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13041,7 +13041,7 @@
         }
     },
     {
-        "Name": "Roasted garlic organic diced tomatoes, roasted garlic",
+        "Name": "Roasted garlic organic diced tomatoes",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 3.0,
@@ -13050,7 +13050,7 @@
         }
     },
     {
-        "Name": "Tomato sauce with cheese, tomato",
+        "Name": "Tomato sauce with cheese",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.8,
@@ -13059,7 +13059,7 @@
         }
     },
     {
-        "Name": "Tomato paste double concentrated, tomato",
+        "Name": "Tomato paste double concentrated",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -13068,7 +13068,7 @@
         }
     },
     {
-        "Name": "Beef meatloaf with mashed potatoes, tomato sauce & green beans, beef meatloaf",
+        "Name": "Beef meatloaf with mashed potatoes, tomato sauce & green beans",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 7.1,
@@ -13077,7 +13077,7 @@
         }
     },
     {
-        "Name": "Concentrated tomato paste, tomato",
+        "Name": "Concentrated tomato paste",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -13095,7 +13095,7 @@
         }
     },
     {
-        "Name": "Spicy tuscan tomato organic sauce, spicy tuscan tomato",
+        "Name": "Spicy tuscan tomato organic sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -13113,7 +13113,7 @@
         }
     },
     {
-        "Name": "Traditional smooth passata, traditional",
+        "Name": "Traditional smooth passata",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -13131,7 +13131,7 @@
         }
     },
     {
-        "Name": "Rich tomato sauce, rich tomato",
+        "Name": "Rich tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13149,7 +13149,7 @@
         }
     },
     {
-        "Name": "Italian stewed tomatoes with basil, garlic & oregano, italian with basil, garlic & oregano",
+        "Name": "Italian stewed tomatoes with basil, garlic & oregano, italian with basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13158,7 +13158,7 @@
         }
     },
     {
-        "Name": "Tuscan tomato organic sauce, tuscan tomato",
+        "Name": "Tuscan tomato organic sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13194,7 +13194,7 @@
         }
     },
     {
-        "Name": "Rustic tomato basil organic sauce, rustic tomato basil",
+        "Name": "Rustic tomato basil organic sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.2,
@@ -13221,7 +13221,7 @@
         }
     },
     {
-        "Name": "Italian tomato sauce, italian tomato",
+        "Name": "Italian tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13230,7 +13230,7 @@
         }
     },
     {
-        "Name": "Hot diced tomatoes with habaneros, hot",
+        "Name": "Hot diced tomatoes with habaneros",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13266,7 +13266,7 @@
         }
     },
     {
-        "Name": "Fancy select tomato paste, tomato",
+        "Name": "Fancy select tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -13275,7 +13275,7 @@
         }
     },
     {
-        "Name": "Choice italian style diced tomatoes, italian style",
+        "Name": "Choice italian style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -13284,7 +13284,7 @@
         }
     },
     {
-        "Name": "Tomatoes petite diced with garlic & olive oil, garlic & olive oil",
+        "Name": "Tomatoes petite diced with garlic & olive oil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -13293,7 +13293,7 @@
         }
     },
     {
-        "Name": "Choice hot mexican style tomato sauce, hot",
+        "Name": "Choice hot mexican style tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13302,7 +13302,7 @@
         }
     },
     {
-        "Name": "Mexican fiesta tomatoes diced with lime juice & cilantro, lime juice & cilantro",
+        "Name": "Mexican fiesta tomatoes diced with lime juice & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13311,7 +13311,7 @@
         }
     },
     {
-        "Name": "Choice tomatoes diced with roasted garlic & onion, roasted garlic & onion",
+        "Name": "Choice tomatoes diced with roasted garlic & onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13320,7 +13320,7 @@
         }
     },
     {
-        "Name": "Tomatoes petite diced with green chiles, green chiles",
+        "Name": "Tomatoes petite diced with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13329,7 +13329,7 @@
         }
     },
     {
-        "Name": "Tomatoes petite diced with chipotle chiles, chipotle chiles",
+        "Name": "Tomatoes petite diced with chipotle chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13338,7 +13338,7 @@
         }
     },
     {
-        "Name": "Choice tomatoes petite diced with sweet onions, sweet onions",
+        "Name": "Choice tomatoes petite diced with sweet onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13356,7 +13356,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes & green chiles, mild",
+        "Name": "Mild diced tomatoes & green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13365,7 +13365,7 @@
         }
     },
     {
-        "Name": "Mushroom sauce, mushroom",
+        "Name": "Mushroom sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -13374,7 +13374,7 @@
         }
     },
     {
-        "Name": "Tricolor rustic cut tomatoes, tricolor",
+        "Name": "Tricolor rustic cut tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.4,
@@ -13383,7 +13383,7 @@
         }
     },
     {
-        "Name": "Ranchera style tomato sauce, ranchera style",
+        "Name": "Ranchera style tomato sauce",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.5,
@@ -13392,7 +13392,7 @@
         }
     },
     {
-        "Name": "Mexican style beef hash fully cooked picadillo seasoned ground beef with potatoes, tomatoes, onions and peppers, mexican style beef hash",
+        "Name": "Mexican style beef hash fully cooked picadillo seasoned ground beef with potatoes, tomatoes, onions & peppers",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 10.2,
@@ -13401,7 +13401,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes with basil, crushed tomatoes",
+        "Name": "Crushed tomatoes with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13410,7 +13410,7 @@
         }
     },
     {
-        "Name": "Hot & spicy tomato sauce, hot & spicy tomato",
+        "Name": "Hot & spicy tomato sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -13419,7 +13419,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano stewed tomatoes, basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano stewed tomatoes, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13428,7 +13428,7 @@
         }
     },
     {
-        "Name": "Heirloom vine-ripened tomato sauce, heirloom",
+        "Name": "Heirloom vine-ripened tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 2.4,
@@ -13437,7 +13437,7 @@
         }
     },
     {
-        "Name": "Tomato double concentrated paste, tomato",
+        "Name": "Tomato double concentrated paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -13446,7 +13446,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes in tomato juice, tomato juice",
+        "Name": "Diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13455,7 +13455,7 @@
         }
     },
     {
-        "Name": "Garlic, olive oil & basil san marzano style whole peeled tomatoes, garlic, olive oil & basil",
+        "Name": "Garlic, olive oil & basil san marzano style whole peeled tomatoes, garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13464,7 +13464,7 @@
         }
     },
     {
-        "Name": "Organic, tomato paste, tomato",
+        "Name": "Organic, tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -13491,7 +13491,7 @@
         }
     },
     {
-        "Name": "Tomato paste, thick and hearty",
+        "Name": "Tomato paste, thick & hearty",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -13509,7 +13509,7 @@
         }
     },
     {
-        "Name": "Chili-ready diced tomatoes with a blend of chili spices, chili spices",
+        "Name": "Chili-ready diced tomatoes with a blend of chili spices",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13518,7 +13518,7 @@
         }
     },
     {
-        "Name": "Contadina, organic roma style tomato sauce, sea salt, sea salt",
+        "Name": "Contadina, organic roma style tomato sauce, sea salt",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13527,7 +13527,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes paste, roma tomatoes",
+        "Name": "Roma tomatoes paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -13536,7 +13536,7 @@
         }
     },
     {
-        "Name": "Italian peeled tomatoes in tomato puree, tomato puree",
+        "Name": "Italian peeled tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13572,7 +13572,7 @@
         }
     },
     {
-        "Name": "Chef's diced tomatoes in juice",
+        "Name": "Chefs diced tomatoes in juice",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13581,7 +13581,7 @@
         }
     },
     {
-        "Name": "Tomatoes diced with jalapeno and habanero chilies, hot",
+        "Name": "Tomatoes diced with jalapeno & habanero chilies, hot",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13590,7 +13590,7 @@
         }
     },
     {
-        "Name": "Cherry tomato sauce, cherry tomato",
+        "Name": "Cherry tomato sauce",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 5.3,
@@ -13617,7 +13617,7 @@
         }
     },
     {
-        "Name": "Sliced stewed tomatoes with peppers, celery & cumin, peppers, celery & cumin",
+        "Name": "Sliced stewed tomatoes with peppers, celery & cumin, peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13626,7 +13626,7 @@
         }
     },
     {
-        "Name": "Fire roasted in juice diced tomatoes, fire roasted",
+        "Name": "Fire roasted in juice diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13635,7 +13635,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chilies original, green chilies original",
+        "Name": "Diced tomatoes with green chilies original",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13644,7 +13644,7 @@
         }
     },
     {
-        "Name": "Italian style with garlic, oregano & basil tomatoes diced, italian style",
+        "Name": "Italian style with garlic, oregano & basil tomatoes diced",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -13662,7 +13662,7 @@
         }
     },
     {
-        "Name": "Stewed tomatoes, italian ",
+        "Name": "Stewed tomatoes, italian",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13671,7 +13671,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes in organic tomato juice, tomato juice",
+        "Name": "Whole peeled tomatoes in organic tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13689,7 +13689,7 @@
         }
     },
     {
-        "Name": "Premium tomato sauce, tomato",
+        "Name": "Premium tomato sauce",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -13698,7 +13698,7 @@
         }
     },
     {
-        "Name": "Organic crushed with basil tomatoes in tomato puree, tomatoes",
+        "Name": "Organic crushed with basil tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13707,7 +13707,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes in tomato juice with sea salt, garlic & onion, fire roasted with sea salt, garlic & onion",
+        "Name": "Fire roasted diced tomatoes in tomato juice with sea salt, garlic & onion, fire roasted with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -13716,7 +13716,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with basil, garlic and oregano, basil, garlic and oregano",
+        "Name": "Diced tomatoes with basil, garlic & oregano, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13734,7 +13734,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with green chilies mild, green chilies mild",
+        "Name": "Diced tomatoes with green chilies mild",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13743,7 +13743,7 @@
         }
     },
     {
-        "Name": "Tomato fancy puree, tomato",
+        "Name": "Tomato fancy puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13752,7 +13752,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes in puree with basil, basil",
+        "Name": "Crushed tomatoes in puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13761,7 +13761,7 @@
         }
     },
     {
-        "Name": "Italian kitchen crushed tomatoes, italian kitchen",
+        "Name": "Italian kitchen crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13779,7 +13779,7 @@
         }
     },
     {
-        "Name": "Polpa rustica coarsely chopped tomatoes in puree, polpa rustica",
+        "Name": "Polpa rustica coarsely chopped tomatoes in puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13797,7 +13797,7 @@
         }
     },
     {
-        "Name": "Italian style with onions, celery and bell pepper sliced stewed tomatoes in tomato juice, italian style in tomato juice",
+        "Name": "Italian style with onions, celery & bell pepper sliced stewed tomatoes in tomato juice, italian style in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13815,7 +13815,7 @@
         }
     },
     {
-        "Name": "Peeled whole tomatoes in tomato juice, tomato juice",
+        "Name": "Peeled whole tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13824,7 +13824,7 @@
         }
     },
     {
-        "Name": "Onion & roasted garlic diced tomatoes, onion & roasted garlic",
+        "Name": "Onion & roasted garlic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13842,7 +13842,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes with seasonings in juice, fire roasted",
+        "Name": "Fire roasted diced tomatoes with seasonings in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -13851,7 +13851,7 @@
         }
     },
     {
-        "Name": "Italian-style petite diced tomatoes with basil, garlic & oregano, italian-style",
+        "Name": "Italian-style petite diced tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13860,7 +13860,7 @@
         }
     },
     {
-        "Name": "Italian style tomato paste with basil, oregano & natural garlic flavor, italian style tomato with basil, oregano & natural garlic",
+        "Name": "Italian style tomato paste with basil, oregano & natural garlic flavor, italian style tomato with basil",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -13869,7 +13869,7 @@
         }
     },
     {
-        "Name": "Italian style no salt added diced tomatoes, italian style",
+        "Name": "Italian style no salt added diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13896,7 +13896,7 @@
         }
     },
     {
-        "Name": "Fire roasted salsa style tomatoes, fire roasted salsa style",
+        "Name": "Fire roasted salsa style tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13914,7 +13914,7 @@
         }
     },
     {
-        "Name": "Medium diced tomatoes with lime, cilantro & green chiles, lime, cilantro & green chiles",
+        "Name": "Medium diced tomatoes with lime, cilantro & green chiles, lime",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13923,7 +13923,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with onion, celery & green peppers, onion, celery & green peppers",
+        "Name": "Diced tomatoes with onion, celery & green peppers, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13959,7 +13959,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes in puree, steam peeled with basil, basil",
+        "Name": "Crushed tomatoes in puree, steam peeled with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -13968,7 +13968,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes steam peeled with garlic, oregano & basil, garlic, oregano & basil",
+        "Name": "Diced tomatoes steam peeled with garlic, oregano & basil, garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13977,7 +13977,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced with garlic roma tomatoes, fire roasted diced with garlic",
+        "Name": "Fire roasted diced with garlic roma tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -13986,7 +13986,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes & green chiles petites, diced tomatoes & green chiles",
+        "Name": "Diced tomatoes & green chiles petites",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14004,7 +14004,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with mild green chiles, mild green chiles",
+        "Name": "Diced tomatoes with mild green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14013,7 +14013,7 @@
         }
     },
     {
-        "Name": "Original diced tomatoes with green chiles, with green chiles",
+        "Name": "Original diced tomatoes with green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14031,7 +14031,7 @@
         }
     },
     {
-        "Name": "Rose tomato sauce, rose",
+        "Name": "Rose tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 3.4,
@@ -14040,7 +14040,7 @@
         }
     },
     {
-        "Name": "Mild diced tomatoes with green chilies in tomato juice, mild",
+        "Name": "Mild diced tomatoes with green chilies in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14049,7 +14049,7 @@
         }
     },
     {
-        "Name": "Tomato double concetrated paste, tomato",
+        "Name": "Tomato double concetrated paste",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -14058,7 +14058,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with serrano pepper, serrano pepper",
+        "Name": "Diced tomatoes with serrano pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14067,7 +14067,7 @@
         }
     },
     {
-        "Name": "Organic, tomato sauce, tomato",
+        "Name": "Organic, tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14085,7 +14085,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes juice, whole peeled tomatoes",
+        "Name": "Whole peeled tomatoes juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14094,7 +14094,7 @@
         }
     },
     {
-        "Name": "Tomato sauce with onion, garlic & cilantro, tomato with onion, garlic & cilantro",
+        "Name": "Tomato sauce with onion, garlic & cilantro, tomato with onion",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14112,7 +14112,7 @@
         }
     },
     {
-        "Name": "Tomato product paste with basil, oregano & garlic, tomato",
+        "Name": "Tomato product paste with basil, oregano & garlic",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -14130,7 +14130,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with jalapenos, onion & cumin, with jalapenos, onion & cumin",
+        "Name": "Diced tomatoes with jalapenos, onion & cumin, with jalapenos",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14139,7 +14139,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with habaneros hot, habaneros hot",
+        "Name": "Diced tomatoes with habaneros hot",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14148,7 +14148,7 @@
         }
     },
     {
-        "Name": "Kitchen recipe crushed tomatoes, kitchen recipe",
+        "Name": "Kitchen recipe crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14166,7 +14166,7 @@
         }
     },
     {
-        "Name": "Organic cherry tomato passata, cherry tomato",
+        "Name": "Organic cherry tomato passata",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.4,
@@ -14184,7 +14184,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes whole with basil, basil",
+        "Name": "Roma tomatoes whole with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14193,7 +14193,7 @@
         }
     },
     {
-        "Name": "Petite diced roma tomatoes, petite diced",
+        "Name": "Petite diced roma tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14202,7 +14202,7 @@
         }
     },
     {
-        "Name": "Classic red tomato sauce, classic red",
+        "Name": "Classic red tomato sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 7.0,
@@ -14211,7 +14211,7 @@
         }
     },
     {
-        "Name": "Mexican style diced tomatoes, mexican style",
+        "Name": "Mexican style diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14229,7 +14229,7 @@
         }
     },
     {
-        "Name": "San marzano style crushed tomatoes, san marzano style",
+        "Name": "San marzano style crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14238,7 +14238,7 @@
         }
     },
     {
-        "Name": "Shakshuka moroccan-style tomato sauce, shakshuka moroccan-style tomato",
+        "Name": "Shakshuka moroccan-style tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 4.0,
@@ -14247,7 +14247,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes in sauce, sauce",
+        "Name": "Whole peeled tomatoes in sauce",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.0,
@@ -14256,7 +14256,7 @@
         }
     },
     {
-        "Name": "Vine sweetened organic diced tomatoes, vine sweetened",
+        "Name": "Vine sweetened organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14265,7 +14265,7 @@
         }
     },
     {
-        "Name": "Green tomato mostarda casa forcello, green tomato",
+        "Name": "Green tomato mostarda casa forcello",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14274,7 +14274,7 @@
         }
     },
     {
-        "Name": "Dominican style tomato paste, dominican style",
+        "Name": "Dominican style tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -14283,7 +14283,7 @@
         }
     },
     {
-        "Name": "Spanish style tomato sauce, spanish style",
+        "Name": "Spanish style tomato sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14292,7 +14292,7 @@
         }
     },
     {
-        "Name": "No salt added italian style diced tomatoes with basil, garlic & oregano, basil, garlic & oregano",
+        "Name": "No salt added italian style diced tomatoes with basil, garlic & oregano, basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -14301,7 +14301,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with onion, celery & green bell pepper, diced tomatoes",
+        "Name": "Diced tomatoes with onion, celery & green bell pepper",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14310,7 +14310,7 @@
         }
     },
     {
-        "Name": "Italian style with basil, garlic & oregano tomato sauce, italian style with basil, garlic & oregano",
+        "Name": "Italian style with basil, garlic & oregano tomato sauce, italian style with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14328,7 +14328,7 @@
         }
     },
     {
-        "Name": "Organic whole peeled tomatoes in tomato juice, tomato juice",
+        "Name": "Organic whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14373,7 +14373,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with roasted garlic & herb, roasted garlic & herb",
+        "Name": "Diced tomatoes with roasted garlic & herb",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14382,7 +14382,7 @@
         }
     },
     {
-        "Name": "San marzano style italian whole peeled tomatoes, san marzano style",
+        "Name": "San marzano style italian whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -14391,7 +14391,7 @@
         }
     },
     {
-        "Name": "San marzano style garlic, olive oil & basil whole peeled tomatoes, san marzano style",
+        "Name": "San marzano style garlic, olive oil & basil whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14418,7 +14418,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes in tomato juice, tomato juice",
+        "Name": "Organic diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14427,7 +14427,7 @@
         }
     },
     {
-        "Name": "Original zesty mild diced tomatoes with green chilies, original zesty mild",
+        "Name": "Original zesty mild diced tomatoes with green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14436,7 +14436,7 @@
         }
     },
     {
-        "Name": "Spanish style tomato sauce, spanish style tomato",
+        "Name": "Spanish style tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14445,7 +14445,7 @@
         }
     },
     {
-        "Name": "Italian-style petite diced tomatoes, italian-style",
+        "Name": "Italian-style petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14463,7 +14463,7 @@
         }
     },
     {
-        "Name": "San marzano style organic whole tomatoes, san marzano style",
+        "Name": "San marzano style organic whole tomatoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14472,7 +14472,7 @@
         }
     },
     {
-        "Name": "Garlic & olive oil petite diced tomatoes, garlic & olive oil",
+        "Name": "Garlic & olive oil petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -14490,7 +14490,7 @@
         }
     },
     {
-        "Name": "Tomato organic puree, tomato",
+        "Name": "Tomato organic puree",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -14499,7 +14499,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes southwest style with chilies, southwest style",
+        "Name": "Diced tomatoes southwest style with chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14508,7 +14508,7 @@
         }
     },
     {
-        "Name": "Picadillo mexican style beef hash, picadillo",
+        "Name": "Picadillo mexican style beef hash",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 10.2,
@@ -14517,7 +14517,7 @@
         }
     },
     {
-        "Name": "Roma diced tomatoes, roma",
+        "Name": "Roma diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14526,7 +14526,7 @@
         }
     },
     {
-        "Name": "Roma tomatoes paste, roma",
+        "Name": "Roma tomatoes paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -14535,7 +14535,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano tomato sauce, italian style with basil & oregano",
+        "Name": "Italian style with basil & oregano tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14544,7 +14544,7 @@
         }
     },
     {
-        "Name": "Harvest tomato sauce, harvest tomato",
+        "Name": "Harvest tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14553,7 +14553,7 @@
         }
     },
     {
-        "Name": "No salt added stewed tomatoes, no salt added",
+        "Name": "No salt added stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14589,7 +14589,7 @@
         }
     },
     {
-        "Name": "Cherry tomatoes, cherry",
+        "Name": "Cherry tomatoes",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.2,
@@ -14598,7 +14598,7 @@
         }
     },
     {
-        "Name": "Tomato harvest paste, tomato",
+        "Name": "Tomato harvest paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -14607,7 +14607,7 @@
         }
     },
     {
-        "Name": "Italian style with basil & oregano stewed tomatoes, italian style with basil & oregano",
+        "Name": "Italian style with basil & oregano stewed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14625,7 +14625,7 @@
         }
     },
     {
-        "Name": "Puttanesca tomato sauce, puttanesca",
+        "Name": "Puttanesca tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.0,
@@ -14634,7 +14634,7 @@
         }
     },
     {
-        "Name": "Fra diavolo tomato sauce, fra diavolo",
+        "Name": "Fra diavolo tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.0,
@@ -14643,7 +14643,7 @@
         }
     },
     {
-        "Name": "Roasted garlic tomato sauce, roasted garlic",
+        "Name": "Roasted garlic tomato sauce",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.0,
@@ -14652,7 +14652,7 @@
         }
     },
     {
-        "Name": "Red wine tomato sauce, red wine",
+        "Name": "Red wine tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.0,
@@ -14661,7 +14661,7 @@
         }
     },
     {
-        "Name": "Sicilian gravy tomato sauce, sicilian gravy",
+        "Name": "Sicilian gravy tomato sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.0,
@@ -14670,7 +14670,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic no salt added diced tomatoes, fire roasted",
+        "Name": "Fire roasted organic no salt added diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14679,7 +14679,7 @@
         }
     },
     {
-        "Name": "Fire roasted san marzano style organic whole tomatoes, fire roasted san marzano style",
+        "Name": "Fire roasted san marzano style organic whole tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14688,7 +14688,7 @@
         }
     },
     {
-        "Name": "Beef meatloaf classic recipe beef meatloaf with mashed potatoes, tomato sauce & green beans, beef meatloaf",
+        "Name": "Beef meatloaf classic recipe beef meatloaf with mashed potatoes, tomato sauce & green beans",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 7.1,
@@ -14697,7 +14697,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic petite diced tomatoes, fire roasted",
+        "Name": "Fire roasted organic petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14706,7 +14706,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic petite diced tomatoes with chipotle peppers, fire roasted",
+        "Name": "Fire roasted organic petite diced tomatoes with chipotle peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14715,7 +14715,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic petite diced tomatoes with adobo seasoning, fire roasted",
+        "Name": "Fire roasted organic petite diced tomatoes with adobo seasoning",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14724,7 +14724,7 @@
         }
     },
     {
-        "Name": "No salt added tomato sauce, no salt added tomato",
+        "Name": "No salt added tomato sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14742,7 +14742,7 @@
         }
     },
     {
-        "Name": "Tomato organic no salt added sauce, tomato",
+        "Name": "Tomato organic no salt added sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14760,7 +14760,7 @@
         }
     },
     {
-        "Name": "San marzano style organic whole peeled tomatoes with basil, san marzano style",
+        "Name": "San marzano style organic whole peeled tomatoes with basil",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14769,7 +14769,7 @@
         }
     },
     {
-        "Name": "San marzano style organic diced tomatoes with italian herbs, san marzano style",
+        "Name": "San marzano style organic diced tomatoes with italian herbs",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14787,7 +14787,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic crushed tomatoes, fire roasted",
+        "Name": "Fire roasted organic crushed tomatoes",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -14796,7 +14796,7 @@
         }
     },
     {
-        "Name": "Chunky tomato organic sauce, chunky tomato",
+        "Name": "Chunky tomato organic sauce",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -14805,7 +14805,7 @@
         }
     },
     {
-        "Name": "San marzano style organic whole peeled tomatoes, san marzano style",
+        "Name": "San marzano style organic whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14814,7 +14814,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic diced tomatoes with medium green chilies, fire roasted",
+        "Name": "Fire roasted organic diced tomatoes with medium green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14832,7 +14832,7 @@
         }
     },
     {
-        "Name": "Whole tomatoes, tomatoes",
+        "Name": "Whole tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14841,7 +14841,7 @@
         }
     },
     {
-        "Name": "Whole peeled pear tomatoes in juice, juice",
+        "Name": "Whole peeled pear tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14859,7 +14859,7 @@
         }
     },
     {
-        "Name": "Organic diced tomatoes in tomato juice from concentrate, tomato juice",
+        "Name": "Organic diced tomatoes in tomato juice from concentrate",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14868,7 +14868,7 @@
         }
     },
     {
-        "Name": "Tomato sauce tomatoes, tomato",
+        "Name": "Tomato sauce tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14877,7 +14877,7 @@
         }
     },
     {
-        "Name": "Sliced stewed tomatoes in tomato juice, tomato juice",
+        "Name": "Sliced stewed tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14886,7 +14886,7 @@
         }
     },
     {
-        "Name": "Tomato no salt added sauce, tomato no salt added",
+        "Name": "Tomato no salt added sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14895,7 +14895,7 @@
         }
     },
     {
-        "Name": "No salt added diced tomatoes, no salt added",
+        "Name": "No salt added diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14904,7 +14904,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic whole tomatoes, fire roasted",
+        "Name": "Fire roasted organic whole tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14913,7 +14913,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano tomatoes sauce, basil, garlic & oregano",
+        "Name": "Basil, garlic & oregano tomatoes sauce, basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -14922,7 +14922,7 @@
         }
     },
     {
-        "Name": "Basil, garlic & oregano tomato paste, tomato",
+        "Name": "Basil, garlic & oregano tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -14931,7 +14931,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes for chili, chili",
+        "Name": "Diced tomatoes for chili",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14940,7 +14940,7 @@
         }
     },
     {
-        "Name": "Stewed no salt added sliced tomatoes, stewed no salt added",
+        "Name": "Stewed no salt added sliced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14949,7 +14949,7 @@
         }
     },
     {
-        "Name": "Spicy red pepper diced tomatoes, spicy red pepper",
+        "Name": "Spicy red pepper diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14967,7 +14967,7 @@
         }
     },
     {
-        "Name": "Garlic fire roasted diced tomatoes, garlic",
+        "Name": "Garlic fire roasted diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14994,7 +14994,7 @@
         }
     },
     {
-        "Name": "Basil crushed tomatoes, basil",
+        "Name": "Basil crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15012,7 +15012,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with italian herbs, italian herbs",
+        "Name": "Diced tomatoes with italian herbs",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -15021,7 +15021,7 @@
         }
     },
     {
-        "Name": "Ground peeled tomatoes with basil, basil",
+        "Name": "Ground peeled tomatoes with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15039,7 +15039,7 @@
         }
     },
     {
-        "Name": "Mexican recipe with jalapenos, garlic & cumin stewed tomatoes, mexican recipe with jalapenos, garlic & cumin",
+        "Name": "Mexican recipe with jalapenos, garlic & cumin stewed tomatoes, mexican recipe with jalapenos",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15048,7 +15048,7 @@
         }
     },
     {
-        "Name": "Italian crushed tomatoes in organic tomato puree, italian",
+        "Name": "Italian crushed tomatoes in organic tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15057,7 +15057,7 @@
         }
     },
     {
-        "Name": "Tomato premium sauce, tomato",
+        "Name": "Tomato premium sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15066,7 +15066,7 @@
         }
     },
     {
-        "Name": "Stewed italian style sliced tomatoes, stewed italian style",
+        "Name": "Stewed italian style sliced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15075,7 +15075,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with basil, garlic & oregano, basil, garlic & oregano",
+        "Name": "Diced tomatoes with basil, garlic & oregano, basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.4,
@@ -15084,7 +15084,7 @@
         }
     },
     {
-        "Name": "Pear tomato strips in tomato puree with basil, tomato puree with basil",
+        "Name": "Pear tomato strips in tomato puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15093,7 +15093,7 @@
         }
     },
     {
-        "Name": "Salsa style diced tomatoes in juice, salsa style",
+        "Name": "Salsa style diced tomatoes in juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15102,7 +15102,7 @@
         }
     },
     {
-        "Name": "Peeled whole san marzano style tomatoes with basil, basil",
+        "Name": "Peeled whole san marzano style tomatoes with basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15111,7 +15111,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes, whole",
+        "Name": "Whole peeled tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15120,7 +15120,7 @@
         }
     },
     {
-        "Name": "Tri color tomato wedges, tri color",
+        "Name": "Tri color tomato wedges",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 1.4,
@@ -15138,7 +15138,7 @@
         }
     },
     {
-        "Name": "Sofrito style tomato sauce, sofrito style tomato",
+        "Name": "Sofrito style tomato sauce",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.5,
@@ -15147,7 +15147,7 @@
         }
     },
     {
-        "Name": "Hatch diced tomatoes & fire roasted hatch chilies, hatch",
+        "Name": "Hatch diced tomatoes & fire roasted hatch chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15156,7 +15156,7 @@
         }
     },
     {
-        "Name": "Sweet onion petite diced tomatoes, sweet onion",
+        "Name": "Sweet onion petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15174,7 +15174,7 @@
         }
     },
     {
-        "Name": "San marzano style italian crushed tomatoes, san marzano style",
+        "Name": "San marzano style italian crushed tomatoes",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -15183,7 +15183,7 @@
         }
     },
     {
-        "Name": "No salt added peeled whole tomatoes, no salt added",
+        "Name": "No salt added peeled whole tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15192,7 +15192,7 @@
         }
     },
     {
-        "Name": "Meatball sauce, meatball",
+        "Name": "Meatball sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 4.8,
@@ -15201,7 +15201,7 @@
         }
     },
     {
-        "Name": "Original no salt added diced tomatoes & green chilies, original",
+        "Name": "Original no salt added diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15210,7 +15210,7 @@
         }
     },
     {
-        "Name": "Mexican style lime & cilantro diced tomatoes with lime juice & cilantro, mexican style lime & cilantro",
+        "Name": "Mexican style lime & cilantro diced tomatoes with lime juice & cilantro",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15219,7 +15219,7 @@
         }
     },
     {
-        "Name": "Chunky diced tomatoes & green chilies, chunky",
+        "Name": "Chunky diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15228,7 +15228,7 @@
         }
     },
     {
-        "Name": "Chili fixin's seasoned diced tomatoes & green chilies, chili fixin's",
+        "Name": "Chili fixins seasoned diced tomatoes & green chilies",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15237,7 +15237,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with garlic, garlic",
+        "Name": "Diced tomatoes with garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -15255,7 +15255,7 @@
         }
     },
     {
-        "Name": "Organic, crushed tomatoes in puree with basil, puree with basil",
+        "Name": "Organic, crushed tomatoes in puree with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15291,7 +15291,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes in tomato puree, tomato puree",
+        "Name": "Diced tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15300,7 +15300,7 @@
         }
     },
     {
-        "Name": "No salt added crushed tomatoes, no salt added",
+        "Name": "No salt added crushed tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15327,7 +15327,7 @@
         }
     },
     {
-        "Name": "Ground unpeeled pear tomatoes in pear tomato puree, pear tomato puree",
+        "Name": "Ground unpeeled pear tomatoes in pear tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15345,7 +15345,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes with rosemary & oregano, rosemary & oregano",
+        "Name": "Diced tomatoes with rosemary & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15354,7 +15354,7 @@
         }
     },
     {
-        "Name": "Italian peeled tomatoes in tomato puree, italian",
+        "Name": "Italian peeled tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15363,7 +15363,7 @@
         }
     },
     {
-        "Name": "Smoked tomato fresh sauce, smoked tomato",
+        "Name": "Smoked tomato fresh sauce",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 9.7,
@@ -15372,7 +15372,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic petite diced tomatoes with roasted garlic, fire roasted",
+        "Name": "Fire roasted organic petite diced tomatoes with roasted garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15381,7 +15381,7 @@
         }
     },
     {
-        "Name": "Italian crushed tomatoes in tomato puree, italian",
+        "Name": "Italian crushed tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15390,7 +15390,7 @@
         }
     },
     {
-        "Name": "Mild zesty tomato & green chili sauce, mild zesty tomato & green chili",
+        "Name": "Mild zesty tomato & green chili sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15399,7 +15399,7 @@
         }
     },
     {
-        "Name": "Original zesty tomato & green chili sauce, original zesty tomato & green chili",
+        "Name": "Original zesty tomato & green chili sauce",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15408,7 +15408,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes in organic tomato juice, tomato juice",
+        "Name": "Diced tomatoes in organic tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15426,7 +15426,7 @@
         }
     },
     {
-        "Name": "Diced tomatoes no salt added in organic tomato juice, tomato juice",
+        "Name": "Diced tomatoes no salt added in organic tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15435,7 +15435,7 @@
         }
     },
     {
-        "Name": "Organic petite diced tomatoes in tomato juice, tomato juice",
+        "Name": "Organic petite diced tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15471,7 +15471,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced tomatoes in tomato juice with sea salt, garlic & onion, fire roasted in tomato juice with sea salt, garlic & onion",
+        "Name": "Fire roasted diced tomatoes in tomato juice with sea salt, garlic & onion, fire roasted in tomato juice with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -15480,7 +15480,7 @@
         }
     },
     {
-        "Name": "Italian cherry tomatoes, italian cherry",
+        "Name": "Italian cherry tomatoes",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -15489,7 +15489,7 @@
         }
     },
     {
-        "Name": "Specialty, whole peeled san marzano tomato in tomato juice with basil, tomato juice with basil",
+        "Name": "Specialty, whole peeled san marzano tomato in tomato juice with basil",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15498,7 +15498,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes in tomato juice, tomato juice",
+        "Name": "Whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15507,7 +15507,7 @@
         }
     },
     {
-        "Name": "Chopped tomatoes in tomato puree, tomato puree",
+        "Name": "Chopped tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15525,7 +15525,7 @@
         }
     },
     {
-        "Name": "No salt added organic diced tomatoes, no salt added",
+        "Name": "No salt added organic diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15534,7 +15534,7 @@
         }
     },
     {
-        "Name": "Organic tomato paste, organic",
+        "Name": "Organic tomato paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -15543,7 +15543,7 @@
         }
     },
     {
-        "Name": "Fire roasted organic petite diced green tomatoes, fire roasted",
+        "Name": "Fire roasted organic petite diced green tomatoes",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -15552,7 +15552,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes with chili pepper, chili pepper",
+        "Name": "Crushed tomatoes with chili pepper",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15561,7 +15561,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes in tomato puree, tomato puree",
+        "Name": "Crushed tomatoes in tomato puree",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -15570,7 +15570,7 @@
         }
     },
     {
-        "Name": "Garlic and olive oil petite diced tomatoes, garlic and olive oil",
+        "Name": "Garlic & olive oil petite diced tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -15579,7 +15579,7 @@
         }
     },
     {
-        "Name": "Tomatoes paste, tomatoes",
+        "Name": "Tomatoes paste",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -15597,7 +15597,7 @@
         }
     },
     {
-        "Name": "Whole peeled tomatoes in juice, in juice",
+        "Name": "Whole peeled tomatoes in juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15606,7 +15606,7 @@
         }
     },
     {
-        "Name": "Italian style petite diced tomatoes with basil, garlic & oregano, italian style",
+        "Name": "Italian style petite diced tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15615,7 +15615,7 @@
         }
     },
     {
-        "Name": "Italian style stewed tomatoes with basil, garlic & oregano, italian style",
+        "Name": "Italian style stewed tomatoes with basil, garlic & oregano",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15624,7 +15624,7 @@
         }
     },
     {
-        "Name": "Fried tomato sauce, fried tomato",
+        "Name": "Fried tomato sauce",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.7,
@@ -15633,7 +15633,7 @@
         }
     },
     {
-        "Name": "California whole peeled tomatoes in tomato juice, tomato juice",
+        "Name": "California whole peeled tomatoes in tomato juice",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15642,7 +15642,7 @@
         }
     },
     {
-        "Name": "Radiant rose wine tomato sauce, radiant rose wine",
+        "Name": "Radiant rose wine tomato sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 3.8,
@@ -15768,7 +15768,7 @@
         }
     },
     {
-        "Name": "Mutti crushed tomatoes, 14 oz",
+        "Name": "Mutti crushed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15777,7 +15777,7 @@
         }
     },
     {
-        "Name": "Polpa  crushed tomatoes",
+        "Name": "Polpa crushed tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15822,7 +15822,7 @@
         }
     },
     {
-        "Name": "Passata rustica chunky style tomato puree, passata rustica",
+        "Name": "Passata rustica chunky style tomato puree",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -15831,7 +15831,7 @@
         }
     },
     {
-        "Name": "Organic crushed tomatoes with basil in tomato puree, basil in tomato puree",
+        "Name": "Organic crushed tomatoes with basil in tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -15840,7 +15840,7 @@
         }
     },
     {
-        "Name": "Crushed tomatoes with tomato puree, tomato puree",
+        "Name": "Crushed tomatoes with tomato puree",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,

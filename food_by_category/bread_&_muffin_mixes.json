@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Plain bread crumbs, plain",
+        "Name": "Plain bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Classic sourdough artisan bread mix, classic sourdough",
+        "Name": "Classic sourdough artisan bread mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Seasoned crispy shrimp fry seafood batter mix, seasoned crispy shrimp fry",
+        "Name": "Seasoned crispy shrimp fry seafood batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Seasoned crispy chicken fry chicken batter mix, seasoned crispy chicken fry",
+        "Name": "Seasoned crispy chicken fry chicken batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Plain light & crispy panko bread crumbs, plain",
+        "Name": "Plain light & crispy panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Seasoned salt free bread crumbs, seasoned",
+        "Name": "Seasoned salt free bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Seasoned with pecorino romano cheese bread crumbs, seasoned",
+        "Name": "Seasoned with pecorino romano cheese bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Corn muffin mix, corn",
+        "Name": "Corn muffin mix",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 11.8,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Whole wheat panko bread crumbs, whole wheat",
+        "Name": "Whole wheat panko bread crumbs",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Spicy hot panko chipotle seasoned bread crumbs, spicy hot",
+        "Name": "Spicy hot panko chipotle seasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Seasoned gluten free italian style crumbs with pecorino romano cheese, seasoned",
+        "Name": "Seasoned gluten free italian style crumbs with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Plain 100% whole wheat bread crumbs, plain",
+        "Name": "Plain 100% whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Seasoned flour, seasoned",
+        "Name": "Seasoned flour",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 0.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Breader, spicy & hot, spicy & hot",
+        "Name": "Breader, spicy & hot",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk muffin mix, chocolate chunk",
+        "Name": "Chocolate chunk muffin mix",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 8.7,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Italian seasoned breadcrumbs, italian seasoned",
+        "Name": "Italian seasoned breadcrumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Seasoned crispy fish fry seafood breading mix, seasoned crispy fish fry",
+        "Name": "Seasoned crispy fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Cornbread gluten free baking mix, cornbread",
+        "Name": "Cornbread gluten free baking mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Light & fluffy buttermilk pancake mix, light & fluffy buttermilk",
+        "Name": "Light & fluffy buttermilk pancake mix",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.1,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Wild blueberry fat free muffin mix, wild blueberry",
+        "Name": "Wild blueberry fat free muffin mix",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Seasoned with pecorino romano cheese 100% whole wheat bread crumbs, seasoned",
+        "Name": "Seasoned with pecorino romano cheese 100% whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Peanut butter mighty muffin, peanut butter",
+        "Name": "Peanut butter mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 14.6,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "S'mores mighty muffin, s'mores",
+        "Name": "Smores mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 12.7,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Hawaiian sweet artisan bread mix, hawaiian sweet",
+        "Name": "Hawaiian sweet artisan bread mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 4.4,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Blueberry streusel with crumb topping premium muffin mix, blueberry streusel",
+        "Name": "Blueberry streusel with crumb topping premium muffin mix",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 3.7,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Classic fry breading mix, classic fry",
+        "Name": "Classic fry breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "New orleans style fish fry seafood breading mix, new orleans style fish fry",
+        "Name": "New orleans style fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Artisan bread almond flour baking mix, artisan bread",
+        "Name": "Artisan bread almond flour baking mix",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 28.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Fish 'n chips seafood batter mix, fish 'n chips",
+        "Name": "Fish & chips seafood batter mix",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Seafood fry mix, seafood",
+        "Name": "Seafood fry mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "New orleans style salmon cake mix, new orleans style salmon",
+        "Name": "New orleans style salmon cake mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 2.2,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "New orleans style fish fri crispy southern seafood breading mix, new orleans style fish fri",
+        "Name": "New orleans style fish fri crispy southern seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "New orleans style shrimp fri seasoned seafood breading mix, new orleans style shrimp fri",
+        "Name": "New orleans style shrimp fri seasoned seafood breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Seasoned fish fry breading mix, seasoned",
+        "Name": "Seasoned fish fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "New orleans style hush puppy mix, new orleans style",
+        "Name": "New orleans style hush puppy mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 1.4,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Seasoned fish-fri seafood breading mix, fish-fri",
+        "Name": "Seasoned fish-fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Crispy southern new orleans style fish fri seafood breading mix, crispy southern new orleans style fish fri",
+        "Name": "Crispy southern new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Pumpkin muffin & bread almond flour mix, pumpkin muffin & bread",
+        "Name": "Pumpkin muffin & bread almond flour mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 14.3,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Country muffin mix, raspberry, raspberry",
+        "Name": "Country muffin mix, raspberry",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 8.3,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Hannaford, muffin mix, blueberry, blueberry",
+        "Name": "Hannaford, muffin mix, blueberry",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 8.3,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Ginger evans, premium muffin mix, banana nut, banana nut",
+        "Name": "Ginger evans, premium muffin mix, banana nut",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 14.3,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Original plain bread crumbs, original plain",
+        "Name": "Original plain bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned bread crumbs, italian style",
+        "Name": "Italian style seasoned bread crumbs",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 5.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Unseasoned bread crumbs, unseasoned",
+        "Name": "Unseasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.2,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Plain gluten free crumbs, plain",
+        "Name": "Plain gluten free crumbs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Seasoned bread crumbs, seasoned",
+        "Name": "Seasoned bread crumbs",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 5.0,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned crumbs with pecorino romano cheese, italian style seasoned crumbs",
+        "Name": "Italian style seasoned crumbs with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Cinnamon apple mighty muffin, cinnamon apple",
+        "Name": "Cinnamon apple mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 10.9,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Triple chocolate chunk premium muffin mix, triple chocolate chunk",
+        "Name": "Triple chocolate chunk premium muffin mix",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 13.9,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Batter mix, sweet onion, sweet onion",
+        "Name": "Batter mix, sweet onion",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Classic pumpkin bread kit with icing, icing",
+        "Name": "Classic pumpkin bread kit with icing",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Banana quick bread mix, banana",
+        "Name": "Banana quick bread mix",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 7.1,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Country white artisan bread mix, country white",
+        "Name": "Country white artisan bread mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Cranberry quick bread mix, cranberry",
+        "Name": "Cranberry quick bread mix",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 5.7,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Cranberry orange flavor muffin mix, cranberry orange",
+        "Name": "Cranberry orange flavor muffin mix",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 1.4,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Plain italian bread crumbs, plain",
+        "Name": "Plain italian bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Panko crispy breadcrumbs, panko",
+        "Name": "Panko crispy breadcrumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Cajun crispy fish fry seafood breading mix, spicy recipe, crispy, fish fry",
+        "Name": "Cajun crispy fish fry seafood breading mix, spicy recipe, crispy",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Classic muffin mix, classic",
+        "Name": "Classic muffin mix",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 6.7,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Corn bread mix, corn bread",
+        "Name": "Corn bread mix",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Japanese style panko bread crumbs, japanese style panko",
+        "Name": "Japanese style panko bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "S'mores mighty muffin with probiotics, s'mores",
+        "Name": "Smores mighty muffin with probiotics",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 12.7,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Triple berry mighty muffin, triple berry",
+        "Name": "Triple berry mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 10.9,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Lemon poppy seed mighty muffin, lemon poppy seed",
+        "Name": "Lemon poppy seed mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 10.9,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Peanut butter & jelly mighty muffin with probiotics*, peanut butter & jelly",
+        "Name": "Peanut butter & jelly mighty muffin with probiotics*",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 12.7,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Panko japanese style plain bread crumbs, panko japanese style plain",
+        "Name": "Panko japanese style plain bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Plain panko gluten free crumbs, plain",
+        "Name": "Plain panko gluten free crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Italian style bread crumbs, italian style",
+        "Name": "Italian style bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Gluten free panko style coating, panko",
+        "Name": "Gluten free panko style coating",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Banana nut protein muffin mix, banana nut",
+        "Name": "Banana nut protein muffin mix",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 7.0,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Panko bread crumbs, panko",
+        "Name": "Panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Parmesan garlic chicken coating mix, parmesan garlic",
+        "Name": "Parmesan garlic chicken coating mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Bbq chicken coating mix, bbq",
+        "Name": "Bbq chicken coating mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Italian seasoned crispy breadcrumbs, italian seasoned",
+        "Name": "Italian seasoned crispy breadcrumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Classic style whole wheat breadcrumbs, classic style",
+        "Name": "Classic style whole wheat breadcrumbs",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 1.1,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Plain japanese style panko bread crumbs, plain",
+        "Name": "Plain japanese style panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Plain breadcrumbs, plain",
+        "Name": "Plain breadcrumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Homestyle chicken fry chicken batter mix, homestyle chicken fry",
+        "Name": "Homestyle chicken fry chicken batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Panko japanese style bread crumbs, panko japanese style",
+        "Name": "Panko japanese style bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 0.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Plain gluten free breadcrumbs, plain",
+        "Name": "Plain gluten free breadcrumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Golden toasted bread crumbs, golden toasted",
+        "Name": "Golden toasted bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice bread baking kit, pumpkin spice",
+        "Name": "Pumpkin spice bread baking kit",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Beer bread mix, beer bread",
+        "Name": "Beer bread mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 1.1,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Mini pumpkin donut muffin mix, pumpkin",
+        "Name": "Mini pumpkin donut muffin mix",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Seasoned bread crumbs made with romano cheese, garlic & onion flavor, seasoned",
+        "Name": "Seasoned bread crumbs made with romano cheese, garlic & onion flavor",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Green banana & sweet potato pancake mix, green banana & sweet potato",
+        "Name": "Green banana & sweet potato pancake mix",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Shrimp fry breading mix, shrimp fry",
+        "Name": "Shrimp fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Chicken fry breading mix, chicken",
+        "Name": "Chicken fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Fish fry breading mix, fish fry",
+        "Name": "Fish fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon quick bread & muffin mix, apple cinnamon",
+        "Name": "Apple cinnamon quick bread & muffin mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 2.6,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll mighty muffin, cinnamon roll",
+        "Name": "Cinnamon roll mighty muffin",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 9.1,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "French bread crumbs, french",
+        "Name": "French bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Italian seasoned bread crumbs, italian seasoned",
+        "Name": "Italian seasoned bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Blueberry protein muffin mix, blueberry",
+        "Name": "Blueberry protein muffin mix",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 9.2,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Zucchini quick bread mix, zucchini",
+        "Name": "Zucchini quick bread mix",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 0.0,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "The original wing breading, the original",
+        "Name": "The original wing breading",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Tart cherry chocolate mighty muffin with probiotics, tart cherry chocolate",
+        "Name": "Tart cherry chocolate mighty muffin with probiotics",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 12.7,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Peanut butter mighty muffin with probiotics, peanut butter",
+        "Name": "Peanut butter mighty muffin with probiotics",
         "Nutrients": {
             "Protein": 36.4,
             "Fat": 14.6,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Gingerbread quick bread & muffin mix, gingerbread",
+        "Name": "Gingerbread quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Homestyle flavor pumpkin spice muffin mix, homestyle, pumpkin spice",
+        "Name": "Homestyle flavor pumpkin spice muffin mix, homestyle",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 5.6,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Parmesan panko cod bites, parmesan panko cod",
+        "Name": "Parmesan panko cod bites",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 4.8,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Cranberry orange muffin & quick bread mix, cranberry orange",
+        "Name": "Cranberry orange muffin & quick bread mix",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 5.6,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "4c, plain bread crumbs",
+        "Name": "Plain bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "4c, bread crumbs, plain",
+        "Name": "Bread crumbs, plain",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Don's chuck wagon, fish & chips batter mix",
+        "Name": "Dons chuck wagon, fish & chips batter mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Ian's, italian style panko breadcrumbs",
+        "Name": "Ians, italian style panko breadcrumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Roundy's, italian classics plain bread crumbs",
+        "Name": "Roundys, italian classics plain bread crumbs",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.8,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Roundy's, italian classics, italian style bread crumbs",
+        "Name": "Roundys, italian classics, italian style bread crumbs",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 5.9,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Emeril's, panko bread crumbs",
+        "Name": "Emerils, panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 11.7,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "4c, seasoned bread crumbs",
+        "Name": "Seasoned bread crumbs",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 5.0,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "4c, bread crumbs, seasoned, salt free",
+        "Name": "Bread crumbs, seasoned, salt free",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Emeril's, panko bread crumbs, original",
+        "Name": "Emerils, panko bread crumbs, original",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "4c, bread crumbs, seasoned",
+        "Name": "Bread crumbs, seasoned",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 5.0,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Roundy's, hot & spicy bread crumbs",
+        "Name": "Roundys, hot & spicy bread crumbs",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 2.9,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Roundy's, italian classics roasted garlic bread crumbs",
+        "Name": "Roundys, italian classics roasted garlic bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, 10 grain bread mix",
+        "Name": "Bobs red mill, grain bread mix",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 9.8,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Springfield, bread crumbs, italian style, seasoned with a blend of cheese, salt, parsley and spices",
+        "Name": "Springfield, bread crumbs, italian style, seasoned with a blend of cheese, salt, parsley & spices",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, premium muffin mix, date nut bran",
+        "Name": "Bobs red mill, premium muffin mix, date nut bran",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 2.2,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, stone ground rye bread mix",
+        "Name": "Bobs red mill, stone ground rye bread mix",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 8.1,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, 100% whole wheat bread mix",
+        "Name": "Bobs red mill, 100% whole wheat bread mix",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 9.8,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Bookbinder's, bread crumbs, lemon",
+        "Name": "Bookbinders, bread crumbs, lemon",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 4.7,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Glutino, gluten free pantry, gluten free favorite sandwich bread mix",
+        "Name": "Glutino, gluten free pantry, gluten free favorite s&wich bread mix",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 0.0,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Streit's, potato pancake latkes mix",
+        "Name": "Streits, potato pancake latkes mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Streit's, vegetable potato pancake mix",
+        "Name": "Streits, vegetable potato pancake mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Roland, italian style bread crumbs",
+        "Name": "Rol&, italian style bread crumbs",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 0.0,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "365 everyday value, bread crumbs whole wheat",
+        "Name": "Everyday value, bread crumbs whole wheat",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.7,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Ener-g, breadcrumbs",
+        "Name": "Ener-, breadcrumbs",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Seasoned coating mix for chicken, fish, and pork",
+        "Name": "Seasoned coating mix for chicken, fish, & pork",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.7,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Plain style  bread crumbs",
+        "Name": "Plain style bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "365 everyday value, bread crumbs",
+        "Name": "Everyday value, bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, bread mix, cinnamon raisin",
+        "Name": "Bobs red mill, bread mix, cinnamon raisin",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.3,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, stone ground oat bran muffin mix with dates & nuts",
+        "Name": "Bobs red mill, stone ground oat bran muffin mix with dates & nuts",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 4.7,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, irish soda bread mix",
+        "Name": "Bobs red mill, irish soda bread mix",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 14.3,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Pandeyuca tapioca bread",
+        "Name": "P&eyuca tapioca bread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Fish 'n chips seafood batter mix",
+        "Name": "Fish & chips seafood batter mix",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 0.0,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Zatarain's, wondereful fish fri seafood breading",
+        "Name": "Zatarains, wondereful fish fri seafood breading",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 0.0,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Zatarain's, seasoned fish fry seafood breading mix",
+        "Name": "Zatarains, seasoned fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "Lawry's, buffalo chicken",
+        "Name": "Lawrys, buffalo chicken",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Zatarain's, fish fri, crispy southern seafood breading mix",
+        "Name": "Zatarains, fish fri, crispy southern seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Zatarain's, fish fri, seafood breading mix, crispy southern",
+        "Name": "Zatarains, fish fri, seafood breading mix, crispy southern",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Zatarain's, shrimp fri seasoned seafood breading mix",
+        "Name": "Zatarains, shrimp fri seasoned seafood breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Zatarain's, seasoned shrimp fri seafood breading mix",
+        "Name": "Zatarains, seasoned shrimp fri seafood breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Zatarain's, chicken frying mix, chicken breading mix, crispy southern",
+        "Name": "Zatarains, chicken frying mix, chicken breading mix, crispy southern",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 0.0,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Zatarain's, fish fri, seafood breading mix, seasoned",
+        "Name": "Zatarains, fish fri, seafood breading mix, seasoned",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Zatarain's, crispy seasoned all purpose batter breading mix",
+        "Name": "Zatarains, crispy seasoned all purpose batter breading mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Zatarain's, chick fri chicken breading",
+        "Name": "Zatarains, chick fri chicken breading",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Zatarain's, fish fri, seafood breading",
+        "Name": "Zatarains, fish fri, seafood breading",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Zatarain's, shrimp fri, seafood breading mix, seasoned",
+        "Name": "Zatarains, shrimp fri, seafood breading mix, seasoned",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "Hodgson mill, 9 grain bread mix",
+        "Name": "Hodgson mill, grain bread mix",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 4.5,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Zatarain's, fish fri, seafood breading mix, crispy cajun",
+        "Name": "Zatarains, fish fri, seafood breading mix, crispy cajun",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Marilyn's, bubble bread mix, original make with 12 ounce carbonated beverage, sparkling waters, juices and sodas!",
+        "Name": "Marilyns, bubble bread mix, original make with ounce carbonated beverage, sparkling waters, juices & sodas!",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.3,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Whole note, muffin mix, cappuccino and dark chocolate",
+        "Name": "Whole note, muffin mix, cappuccino & dark chocolate",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.9,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Cheatin' wheat, pancake mix",
+        "Name": "Cheatin wheat, pancake mix",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 0.0,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "Roundy's, panko italian bread crumbs",
+        "Name": "Roundys, panko italian bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 5.4,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Roundy's, panko whole wheat bread crumbs",
+        "Name": "Roundys, panko whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, spice apple bran muffin mix",
+        "Name": "Bobs red mill, spice apple bran muffin mix",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 0.0,
@@ -3402,7 +3402,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, stone ground raisin bran muffin mix",
+        "Name": "Bobs red mill, stone ground raisin bran muffin mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, muffin mix",
+        "Name": "Bobs red mill, muffin mix",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "Panko japanese style seasoned bread crumbs, panko japanese style",
+        "Name": "Panko japanese style seasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Frontier flapjack and baking mix",
+        "Name": "Frontier flapjack & baking mix",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 6.6,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Cupid's pantry, cinnamon spiced french toast batter mix",
+        "Name": "Cupids pantry, cinnamon spiced french toast batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Marie callender's, muffin mix, cranberry orange",
+        "Name": "Marie callenders, muffin mix, cranberry orange",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 4.5,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Marie callender's, muffin mix, cinnamon apple",
+        "Name": "Marie callenders, muffin mix, cinnamon apple",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.0,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Libby's, classic pumpkin bread kit with icing",
+        "Name": "Libbys, classic pumpkin bread kit with icing",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Sandwich bread mix",
+        "Name": "S&wich bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.1,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Nana's bread crumbs",
+        "Name": "Nanas bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Martha white, muffin mix with blueberry bits, blueberry",
+        "Name": "Martha white, muffin mix with blueberry bits",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 8.8,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Fish and shrimp with paprika breading",
+        "Name": "Fish & shrimp with paprika breading",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Traditional bread crumbs, traditional",
+        "Name": "Traditional bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Panko japanese style plain bread crumbs, panko japanese style",
+        "Name": "Panko japanese style plain bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Spiced pumpkin muffin mix, spiced pumpkin",
+        "Name": "Spiced pumpkin muffin mix",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Classic panko bread crumbs, classic",
+        "Name": "Classic panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Cheesy bacon biscuit mix, cheesy bacon",
+        "Name": "Cheesy bacon biscuit mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 10.9,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Coconut seasoned panko bread crumbs for crunchy foods, coconut",
+        "Name": "Coconut seasoned panko bread crumbs for crunchy foods",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.7,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Banana bread mix, banana",
+        "Name": "Banana bread mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Banana nut protein muffin mug, banana nut",
+        "Name": "Banana nut protein muffin mug",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 15.8,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Plain panko crispy bread crumbs, plain",
+        "Name": "Plain panko crispy bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Italian style panko crispy bread crumbs, italian style",
+        "Name": "Italian style panko crispy bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Roasted garlic bread crumbs, roasted garlic",
+        "Name": "Roasted garlic bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Italian style panko bread crumbs, italian style",
+        "Name": "Italian style panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Plain panko bread crumbs, plain",
+        "Name": "Plain panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Italian seasoned panko bread crumbs, italian seasoned",
+        "Name": "Italian seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 11.7,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Japanese style plain panko bread crumbs, japanese style plain",
+        "Name": "Japanese style plain panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5535,7 +5535,7 @@
         }
     },
     {
-        "Name": "Japanese style seasoned panko bread crumbs, japanese style seasoned",
+        "Name": "Japanese style seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Gluten free italian style seasoned crumbs with pecorino romano cheese, italian style seasoned",
+        "Name": "Gluten free italian style seasoned crumbs with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Pizza crust mix, pizza",
+        "Name": "Pizza crust mix",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 6.8,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Vegetarian corn muffin mix, vegetarian",
+        "Name": "Vegetarian corn muffin mix",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 11.8,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Panko 100% whole wheat japanese style bread crumbs, japanese style",
+        "Name": "Panko 100% whole wheat japanese style bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Gluten free plain crumbs, plain",
+        "Name": "Gluten free plain crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "Seafood batter mix fish'n chips, seafood batter",
+        "Name": "Seafood batter mix fish& chips",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 0.0,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Crispy southern new orleans style fish fri seafood breading mix, crispy southern",
+        "Name": "Crispy southern new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Chicken new orleans style bake & crisp breading mix, chicken new orleans style bake & crisp",
+        "Name": "Chicken new orleans style bake & crisp breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 4.5,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Crispy southern chicken frying mix, crispy southern chicken",
+        "Name": "Crispy southern chicken frying mix",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 0.0,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Tuscan herb panko bread crumbs, tuscan herb",
+        "Name": "Tuscan herb panko bread crumbs",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 5.7,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Seasoned new orleans style fish fri seafood breading mix, seasoned new orleans style fish fri",
+        "Name": "Seasoned new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Crispy seasoned new orleans style all purpose batter seasoned breading mix, crispy seasoned",
+        "Name": "Crispy seasoned new orleans style all purpose batter seasoned breading mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Italian herb panko bread crumbs, italian herb",
+        "Name": "Italian herb panko bread crumbs",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 5.7,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Lemon pepper new orleans style fish fri seafood breading mix, lemon pepper new orleans style fish fri",
+        "Name": "Lemon pepper new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Garlic new orleans style fish fri seafood breading mix, garlic new orleans style fish fri",
+        "Name": "Garlic new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Bread and muffin mix, pumpkin",
+        "Name": "Bread & muffin mix, pumpkin",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.6,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Hearty whole grain bread mix, hearty whole grain",
+        "Name": "Hearty whole grain bread mix",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 10.0,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Original seasoned breading for fish & shrimp, original",
+        "Name": "Original seasoned breading for fish & shrimp",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 2.5,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Italian style lightly toasted gluten free bread crumbs, italian style",
+        "Name": "Italian style lightly toasted gluten free bread crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Plain lightly toasted gluten free bread crumbs, plain",
+        "Name": "Plain lightly toasted gluten free bread crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Light & crispy japanese style bread crumbs plain panko, light & crispy, japanese style",
+        "Name": "Light & crispy japanese style bread crumbs plain panko, light & crispy",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Japanese style bread crumbs panko seasoned, japanese style bread crumbs",
+        "Name": "Japanese style bread crumbs panko seasoned",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Japanese style panko plain bread crumbs, japanese style panko plain",
+        "Name": "Japanese style panko plain bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned crumbs with pecorino romano cheese, italian style",
+        "Name": "Italian style seasoned crumbs with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Japanese style panko seasoned bread crumbs, japanese style",
+        "Name": "Japanese style panko seasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Betty crocker, muffin & quick bread mix, banana nut, banana nut",
+        "Name": "Betty crocker, muffin & quick bread mix, banana nut",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.9,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice coffeehouse style quick bread mix, pumpkin spice",
+        "Name": "Pumpkin spice coffeehouse style quick bread mix",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Coffeehouse style cranberry quick bread mix, coffeehouse style cranberry",
+        "Name": "Coffeehouse style cranberry quick bread mix",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned crispy gourmet panko bread crumbs, italian style",
+        "Name": "Italian style seasoned crispy gourmet panko bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Plain crispy gourmet panko bread crumbs, plain",
+        "Name": "Plain crispy gourmet panko bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 1.8,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Raisin oatcup mix, raisin oatcup",
+        "Name": "Raisin oatcup mix",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 11.9,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Pumpkin bread mix, pumpkin",
+        "Name": "Pumpkin bread mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 0.0,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Gluten free banana bread mix, banana bread",
+        "Name": "Gluten free banana bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Hot & spicy style bread crumbs, hot & spicy style",
+        "Name": "Hot & spicy style bread crumbs",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 2.9,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Bare muffin bake mix, bare",
+        "Name": "Bare muffin bake mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 1.7,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Homestyle pretzel rub for pork, chicken & fish, homestyle",
+        "Name": "Homestyle pretzel rub for pork, chicken & fish",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -6039,7 +6039,7 @@
         }
     },
     {
-        "Name": "Crispy oven-style seasoned barbecue coating mix, crispy oven-style",
+        "Name": "Crispy oven-style seasoned barbecue coating mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 0.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Original plain bread crumbs, original, plain",
+        "Name": "Original plain bread crumbs, original",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 3.6,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Cajun style seasoned breading for fish & shrimp, cajun style",
+        "Name": "Cajun style seasoned breading for fish & shrimp",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 2.5,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Seasoned fish fry mix, seasoned",
+        "Name": "Seasoned fish fry mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Blueberry muffin mix, blueberry",
+        "Name": "Blueberry muffin mix",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 6.4,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Spicy chicken batter mix for baked or fried chicken, spicy",
+        "Name": "Spicy chicken batter mix for baked or fried chicken",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Hushpuppy chicken batter mix, hushpuppy chicken",
+        "Name": "Hushpuppy chicken batter mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Fish batter mix for baked or fried fish, fish",
+        "Name": "Fish batter mix for baked or fried fish",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Chicken batter, chicken",
+        "Name": "Chicken batter",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Spiced banana mug muffin mix, spiced banana",
+        "Name": "Spiced banana mug muffin mix",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.9,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon mug muffin mix, apple cinnamon",
+        "Name": "Apple cinnamon mug muffin mix",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.9,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Japanese style panko breadcrumbs, panko",
+        "Name": "Japanese style panko breadcrumbs",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Chocolate chip 100% whole grain flour protein muffin mix, chocolate chip",
+        "Name": "Chocolate chip 100% whole grain flour protein muffin mix",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 6.7,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Italian-style bread crumbs, italian-style",
+        "Name": "Italian-style bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Romano cheese seasoned panko crispy bread crumbs, romano cheese",
+        "Name": "Romano cheese seasoned panko crispy bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Organic italian style bread crumbs, italian style",
+        "Name": "Organic italian style bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Organic plain panko bread crumbs, plain",
+        "Name": "Organic plain panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Organic plain bread crumbs, plain",
+        "Name": "Organic plain bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Ancient grain teff & oat flour muffin mix, muffin",
+        "Name": "Ancient grain teff & oat flour muffin mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Extra crispy seasoned coating mix, extra crispy",
+        "Name": "Extra crispy seasoned coating mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Pumpkin spiced bread & muffin mix, pumpkin",
+        "Name": "Pumpkin spiced bread & muffin mix",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.2,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "Pumpkin gluten free bread mix, pumpkin",
+        "Name": "Pumpkin gluten free bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Zucchini gluten free bread mix, zucchini",
+        "Name": "Zucchini gluten free bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Original bread crumbs, original",
+        "Name": "Original bread crumbs",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 5.0,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Lemon poppyseed muffin mix, lemon poppyseed",
+        "Name": "Lemon poppyseed muffin mix",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 9.0,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice quick bread & muffin mix, pumpkin spice",
+        "Name": "Pumpkin spice quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon fall quick bread & muffin mix, apple cinnamon",
+        "Name": "Apple cinnamon fall quick bread & muffin mix",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 7.1,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Fall cranberry orange muffin & quick bread mix, cranberry orange",
+        "Name": "Fall cranberry orange muffin & quick bread mix",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 5.6,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Imitation blueberry muffin mix, blueberry",
+        "Name": "Imitation blueberry muffin mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 9.0,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Italian style lightly toasted bread crumbs, italian style",
+        "Name": "Italian style lightly toasted bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "Name": "Plain lightly toasted bread crumbs, plain",
+        "Name": "Plain lightly toasted bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Artisan bread almond flour mix, artisan bread",
+        "Name": "Artisan bread almond flour mix",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 24.0,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Classic crab cake mix, classic crab cake",
+        "Name": "Classic crab cake mix",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Panko japanese style seasoned bread crumbs, panko japanese style seasoned",
+        "Name": "Panko japanese style seasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Plain whole wheat bread crumbs, plain",
+        "Name": "Plain whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Italian seasoned whole wheat bread crumbs, italian seasoned",
+        "Name": "Italian seasoned whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Traditional lightly toasted cracker crumbs, traditional",
+        "Name": "Traditional lightly toasted cracker crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Island breeze panko breadcrumbs, spicy, sweet",
+        "Name": "Isl& breeze panko breadcrumbs, spicy, sweet",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 0.0,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Seasoned japanese style panko bread crumbs, seasoned",
+        "Name": "Seasoned japanese style panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Coconut shrimp & chicken breading, coconut shrimp",
+        "Name": "Coconut shrimp & chicken breading",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 17.5,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & butter krispy fillet, roasted garlic & butter",
+        "Name": "Roasted garlic & butter krispy fillet",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Banana bread gluten free bread mix, banana bread",
+        "Name": "Banana bread gluten free bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Chicken fry chicken breading mix, chicken fry",
+        "Name": "Chicken fry chicken breading mix",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 0.0,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Seasoned panko bread crumbs, seasoned",
+        "Name": "Seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Pumpkin bread gluten free bread mix, pumpkin bread",
+        "Name": "Pumpkin bread gluten free bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Zucchini bread gluten free bread mix, zucchini bread",
+        "Name": "Zucchini bread gluten free bread mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Italian pecans, almonds, cashews, italian",
+        "Name": "Italian pecans, almonds, cashews",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 50.0,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Pork air fry seasoned coating mix, pork",
+        "Name": "Pork air fry seasoned coating mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Original pistachios, cashews, almonds bread crumb, original",
+        "Name": "Original pistachios, cashews, almonds bread crumb",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 43.8,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Authentic colombian flavor corn and cassava bread mix bunuelos, authentic colombian",
+        "Name": "Authentic colombian flavor corn & cassava bread mix bunuelos",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 24.0,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Cassava bread mix, cassava",
+        "Name": "Cassava bread mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 20.0,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Multigrain organic pancake & waffle mix, multigrain",
+        "Name": "Multigrain organic pancake & waffle mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.5,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Japanese style fried chicken co ating mix, japanese style",
+        "Name": "Japanese style fried chicken co ating mix",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 0.0,
@@ -6912,7 +6912,7 @@
         }
     },
     {
-        "Name": "Japanese style panko bread crumbs, japanese style",
+        "Name": "Japanese style panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Extra crispy tempura batter mix, extra crispy",
+        "Name": "Extra crispy tempura batter mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Panko japanese style bread crumbs, panko",
+        "Name": "Panko japanese style bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Panko style coating, panko style",
+        "Name": "Panko style coating",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Buttermilk complete pancake mix, buttermilk",
+        "Name": "Buttermilk complete pancake mix",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 2.5,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Panko seasoned with pecorino romano cheese, pecorino romano cheese",
+        "Name": "Panko seasoned with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Original panko bread crumbs, original panko",
+        "Name": "Original panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Japanese style 100% whole wheat bread crumbs panko, japanese style",
+        "Name": "Japanese style 100% whole wheat bread crumbs panko",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper seafood coating mix, lemon & pepper",
+        "Name": "Lemon & pepper seafood coating mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 4.8,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "Panko seasoned with pecorino romano cheese bread crumbs, panko seasoned",
+        "Name": "Panko seasoned with pecorino romano cheese bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Panko plain bread crumbs, panko plain",
+        "Name": "Panko plain bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Blueberry muffin mix with real blueberries, blueberry",
+        "Name": "Blueberry muffin mix with real blueberries",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.6,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Chocolate chip flavor protein muffin mix, chocolate chip",
+        "Name": "Chocolate chip flavor protein muffin mix",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 6.7,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Food lion, muffin mix, apple, cinnamon, apple, cinnamon",
+        "Name": "Food lion, muffin mix, apple, cinnamon, apple",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 7.9,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Food lion, muffin mix, blueberry, blueberry",
+        "Name": "Food lion, muffin mix, blueberry",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 8.3,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Corn and cassava bread mix, corn and cassava",
+        "Name": "Corn & cassava bread mix",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 24.0,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Gluten free buttermilk pancake mix, buttermilk",
+        "Name": "Gluten free buttermilk pancake mix",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.1,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Honey cornbread & muffin mix, honey",
+        "Name": "Honey cornbread & muffin mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Coconut shrimp & chicken breading for seafood & chicken, coconut shrimp",
+        "Name": "Coconut shrimp & chicken breading for seafood & chicken",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 17.5,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Parmesan panko eod bites, parmesan panko",
+        "Name": "Parmesan panko eod bites",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 4.8,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Coconut shrimp & chicken breading, coconut",
+        "Name": "Coconut shrimp & chicken breading",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 17.5,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Original air fryer recipe, original",
+        "Name": "Original air fryer recipe",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 13.3,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Italian seasoned breadcrumbs, seasoned",
+        "Name": "Italian seasoned breadcrumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "New orleans style crispy seasoned all purpose batter seasoned breading mix, new orleans style crispy seasoned",
+        "Name": "New orleans style crispy seasoned all purpose batter seasoned breading mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Seasoned panko with pecorino romano cheese, seasoned",
+        "Name": "Seasoned panko with pecorino romano cheese",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Chickpea gluten free plain crumbs, chickpea",
+        "Name": "Chickpea gluten free plain crumbs",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 5.0,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Seasoned with pecorino romano cheese panko bread crumbs, seasoned",
+        "Name": "Seasoned with pecorino romano cheese panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Japanese style fried chicken coating mix, japanese style fried chicken",
+        "Name": "Japanese style fried chicken coating mix",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 0.0,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Tempura extra crispy batter mix, tempura extra crispy",
+        "Name": "Tempura extra crispy batter mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Buttermilk gluten free pancake mix, buttermilk",
+        "Name": "Buttermilk gluten free pancake mix",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 6.1,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Honey gluten free cornbread & muffin mix, honey",
+        "Name": "Honey gluten free cornbread & muffin mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Banana bread mix, banana bread",
+        "Name": "Banana bread mix",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -7245,7 +7245,7 @@
         }
     },
     {
-        "Name": "Spicy chicken seasoned breading mix, spicy chicken",
+        "Name": "Spicy chicken seasoned breading mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Seasoned with pecorino romano cheese panko bread crumbs, seasoned with pecorino romano cheese",
+        "Name": "Seasoned with pecorino romano cheese panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Chicken, fish, and pork seasoned coating mix, chicken, fish, and pork",
+        "Name": "Chicken, fish, & pork seasoned coating mix, chicken, fish",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper oven easy seafood coating mix, lemon & pepper",
+        "Name": "Lemon & pepper oven easy seafood coating mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 4.8,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Bread mix, bread mix",
+        "Name": "Bread mix",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.5,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Kroger, bread crumbs, traditional, traditional",
+        "Name": "Kroger, bread crumbs, traditional",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned bread crumbs with imported romano cheese, italian style",
+        "Name": "Italian style seasoned bread crumbs with imported romano cheese",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 5.0,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Chicken breading, hot 'n' spicy",
+        "Name": "Chicken breading, hot & spicy",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Spicy buffalo style breading mix, spicy buffalo style",
+        "Name": "Spicy buffalo style breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Colonna, seasoned bread crumbs, roasted garlic, roasted garlic",
+        "Name": "Colonna, seasoned bread crumbs, roasted garlic",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -7398,7 +7398,7 @@
         }
     },
     {
-        "Name": "Cornmeal recipe breading mix, cornmeal recipe",
+        "Name": "Cornmeal recipe breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Key food, bread crumbs, plain, plain",
+        "Name": "Key food, bread crumbs, plain",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "Name": "Glutino, gluten free breadcrumbs, original, original",
+        "Name": "Glutino, gluten free breadcrumbs, original",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 3.3,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Tempo, home style chicken bake topping, lemon pepper, lemon pepper",
+        "Name": "Tempo, home style chicken bake topping, lemon pepper",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Ginger evans, premium muffin & quick bread mix, blueberry, blueberry",
+        "Name": "Ginger evans, premium muffin & quick bread mix, blueberry",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.6,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Bob's red mill, premium muffin mix, date nut bran, date nut bran",
+        "Name": "Bobs red mill, premium muffin mix, date nut bran",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 2.2,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Manischewitz, potato pancake mix, garlic & parmesan, garlic & parmesan",
+        "Name": "Manischewitz, potato pancake mix, garlic & parmesan",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Yellow fish breading, yellow",
+        "Name": "Yellow fish breading",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Ardenne farm, all natural baking mix, blueberry muffin, blueberry muffin",
+        "Name": "Ardenne farm, all natural baking mix, blueberry muffin",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -7488,7 +7488,7 @@
         }
     },
     {
-        "Name": "Ardenne farm, all natural baking mix, cinnamon crunch muffin & crumb cake, cinnamon crunch muffin & crumb cake",
+        "Name": "Ardenne farm, all natural baking mix, cinnamon crunch muffin & crumb cake",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.0,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Food lion, muffin mix, strawberry, strawberry",
+        "Name": "Food lion, muffin mix, strawberry",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 7.7,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Vigo, golden toasted bread crumbs, italian style, italian style",
+        "Name": "Vigo, golden toasted bread crumbs, italian style",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Cora, bread crumbs, italian, italian",
+        "Name": "Cora, bread crumbs, italian",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "Original beer bread baking mix, original beer bread",
+        "Name": "Original beer bread baking mix",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 0.0,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned panko bread crumbs, italian style",
+        "Name": "Italian style seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Hot buttered rum batter, original ",
+        "Name": "Hot buttered rum batter, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 7.7,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Edward & sons, organic panko japanese style breadcrumbs, original, original",
+        "Name": "Edward & sons, organic panko japanese style breadcrumbs, original",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.7,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Seasoned coating mix, seasoned",
+        "Name": "Seasoned coating mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 22.2,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Seasoned crispy fish fry seafood breading mix, seasoned crispy",
+        "Name": "Seasoned crispy fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Jaz gourmet food co, savoury muffin mix, rosemary raisin pecan, rosemary raisin pecan",
+        "Name": "Jaz gourmet food co, savoury muffin mix, rosemary raisin pecan",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -7695,7 +7695,7 @@
         }
     },
     {
-        "Name": "Organic plain breadcrumbs, plain",
+        "Name": "Organic plain breadcrumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -7704,7 +7704,7 @@
         }
     },
     {
-        "Name": "Essential everyday, muffin mix, blueberry, blueberry",
+        "Name": "Essential everyday, muffin mix, blueberry",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 3.6,
@@ -7722,7 +7722,7 @@
         }
     },
     {
-        "Name": "Tempura seafood batter mix, tempura",
+        "Name": "Tempura seafood batter mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Hush puppy corn meal mix, hush puppy",
+        "Name": "Hush puppy corn meal mix",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 0.0,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Oven easy, lemon & pepper seafood coating mix, lemon & pepper",
+        "Name": "Oven easy, lemon & pepper seafood coating mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 4.8,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Beer batter seafood batter mix, beer batter",
+        "Name": "Beer batter seafood batter mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "Fry easy, all-purpose batter fry mix, all-purpose batter",
+        "Name": "Fry easy, all-purpose batter fry mix",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 0.0,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Pumpkin muffin & bread almond flour baking mix, pumpkin muffin & bread",
+        "Name": "Pumpkin muffin & bread almond flour baking mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 16.7,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Spiced pumpkin bread & muffin mix, spiced pumpkin",
+        "Name": "Spiced pumpkin bread & muffin mix",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.2,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Banana quick bread & muffin mix, banana",
+        "Name": "Banana quick bread & muffin mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Bookbinder's, bread crumbs, lemon, lemon",
+        "Name": "Bookbinders, bread crumbs, lemon",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 4.7,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Potato pancake latkes mix, potato",
+        "Name": "Potato pancake latkes mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk pancake mix, chocolate chunk",
+        "Name": "Chocolate chunk pancake mix",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 7.5,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Lemon bread flavored bread kit with lemon zest glaze, lemon",
+        "Name": "Lemon bread flavored bread kit with lemon zest glaze",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 2.1,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Spaetzle authentic german dumplings, spaetzle",
+        "Name": "Spaetzle authentic german dumplings",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 3.3,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Plain homestyle bread crumbs, plain",
+        "Name": "Plain homestyle bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.7,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Cajun crispy fish fry seafood breading mix, cajun crispy fish fry",
+        "Name": "Cajun crispy fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Italian homestyle bread crumbs, italian",
+        "Name": "Italian homestyle bread crumbs",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 2.7,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Plain panko bread crumbs, plain panko",
+        "Name": "Plain panko bread crumbs",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 0.0,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Cornflake crumbs, cornflake",
+        "Name": "Cornflake crumbs",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Deluxe cinnamon swirl sugar free quick bread & muffin mix, deluxe cinnamon swirl",
+        "Name": "Deluxe cinnamon swirl sugar free quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 6.1,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Pumpkin flavored quick bread & muffin mix, pumpkin",
+        "Name": "Pumpkin flavored quick bread & muffin mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Panko bread crumbs ",
+        "Name": "Panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Fleischmann's, simply homemade, stoneground wheat bread mix",
+        "Name": "Fleischmanns, simply homemade, stoneground wheat bread mix",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 5.2,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Fleischmann's, multigrain baking mix",
+        "Name": "Fleischmanns, multigrain baking mix",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 2.9,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Pillsbury, sugar free quick bread & muffin mix, deluxe cinnamon swirl, deluxe cinnamon swirl",
+        "Name": "Pillsbury, sugar free quick bread & muffin mix, deluxe cinnamon swirl",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 6.1,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Country white no-knead bread mix, country white",
+        "Name": "Country white no-knead bread mix",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Italian herb no-knead bread mix, italian herb",
+        "Name": "Italian herb no-knead bread mix",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Sourdough no-knead bread mix, sourdough",
+        "Name": "Sourdough no-knead bread mix",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -8118,7 +8118,7 @@
         }
     },
     {
-        "Name": "Fleischmann's, simply homemade, muffin & bread mix, banana, banana",
+        "Name": "Fleischmanns, simply homemade, muffin & bread mix, banana",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 1.6,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Pretzel no-knead bread mix, pretzel",
+        "Name": "Pretzel no-knead bread mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 2.2,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Everything flavor seasoned coating mix, everything",
+        "Name": "Everything flavor seasoned coating mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.7,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon muffin mix, apple cinnamon",
+        "Name": "Apple cinnamon muffin mix",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 7.9,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Pull-apart bites monkey bread with caramel flavored sauce, caramel",
+        "Name": "Pull-apart bites monkey bread with caramel flavored sauce",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 9.6,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Bisquick flavor burstin' complete pancake mix, bisquick flavor burstin'",
+        "Name": "Bisquick flavor burstin complete pancake mix",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 6.9,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Corn muffin professional mix, corn muffin",
+        "Name": "Corn muffin professional mix",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 10.6,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Italian bread crumbs, italian",
+        "Name": "Italian bread crumbs",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 5.9,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Banana flavor quick bread mix, banana",
+        "Name": "Banana flavor quick bread mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 6.1,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Pumpkin quick bread mix, pumpkin",
+        "Name": "Pumpkin quick bread mix",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.8,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Wonderful fish fri seafood breading, wonderful",
+        "Name": "Wonderful fish fri seafood breading",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 0.0,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Seasoned fish fri seafood breading mix, seasoned",
+        "Name": "Seasoned fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Salmon cake mix, salmon cake",
+        "Name": "Salmon cake mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 2.2,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Crispy southern fish fri seafood breading mix, crispy southern",
+        "Name": "Crispy southern fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Chicken bake & crisp chicken breading mix, chicken",
+        "Name": "Chicken bake & crisp chicken breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 4.5,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Seasoned shrimp fri seafood breading mix, seasoned",
+        "Name": "Seasoned shrimp fri seafood breading mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Hush puppy mix, hush puppy",
+        "Name": "Hush puppy mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 1.4,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Seasoned fish-fri seafood breading mix, seasoned",
+        "Name": "Seasoned fish-fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Crispy seasoned all purpose batter seasoned breading mix, crispy seasoned",
+        "Name": "Crispy seasoned all purpose batter seasoned breading mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Lemon pepper fish fri seafood breading mix, lemon pepper",
+        "Name": "Lemon pepper fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Garlic fish fri seafood breading mix, garlic",
+        "Name": "Garlic fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Italian seasoned panko crispy breadcrumbs, italian seasoned panko",
+        "Name": "Italian seasoned panko crispy breadcrumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Yeast roll mix, yeast",
+        "Name": "Yeast roll mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 7.3,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Cajun crispy fish fry seafood breading mix, cajun crispy",
+        "Name": "Cajun crispy fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned panko bread crumbs, italian style seasoned",
+        "Name": "Italian style seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 12.5,
@@ -8388,7 +8388,7 @@
         }
     },
     {
-        "Name": "White cheddar cheese flavored beer bread mix, white cheddar cheese",
+        "Name": "White cheddar cheese flavored beer bread mix",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 2.0,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Original beer bread mix, original",
+        "Name": "Original beer bread mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 1.1,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "Tomato basil bread mix, tomato basil",
+        "Name": "Tomato basil bread mix",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 1.1,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Pumpkin bread mix, pumpkin bread",
+        "Name": "Pumpkin bread mix",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 0.0,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Fall apple cinnamon flavored quick bread & muffin mix, fall apple cinnamon",
+        "Name": "Fall apple cinnamon flavored quick bread & muffin mix",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 7.1,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Fall cranberry orange flavored muffin & quick bread mix, fall cranberry orange",
+        "Name": "Fall cranberry orange flavored muffin & quick bread mix",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 5.6,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Cranberry orange flavored muffin & quick bread mix, cranberry orange",
+        "Name": "Cranberry orange flavored muffin & quick bread mix",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 5.6,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice muffin & bread mix, pumpkin spice",
+        "Name": "Pumpkin spice muffin & bread mix",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 12.5,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Banana nut flavored sugar free muffin & bread mix, banana nut",
+        "Name": "Banana nut flavored sugar free muffin & bread mix",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 21.2,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Pan molido bread crumbs, pan molido",
+        "Name": "Pan molido bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Italian parmesan beer bread mix, italian parmesan",
+        "Name": "Italian parmesan beer bread mix",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 0.0,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Chocolate chip banana bread mix, chocolate chip",
+        "Name": "Chocolate chip banana bread mix",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 7.0,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Spicy seasoned breading mix, spicy",
+        "Name": "Spicy seasoned breading mix",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Grain free flatbread mix, flatbread",
+        "Name": "Grain free flatbread mix",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 14.0,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Sweet corn bread & muffin mix, sweet",
+        "Name": "Sweet corn bread & muffin mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -8550,7 +8550,7 @@
         }
     },
     {
-        "Name": "Original panko bread crumbs, original",
+        "Name": "Original panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Classic pumpkin bread kit with icing, classic pumpkin",
+        "Name": "Classic pumpkin bread kit with icing",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Mexican style cornbread & muffin mix, mexican style",
+        "Name": "Mexican style cornbread & muffin mix",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 8.9,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Heavenly white gluten-free sandwich bread mix, heavenly white",
+        "Name": "Heavenly white gluten-free s&wich bread mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 2.1,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored muffin mix mug cakes, blueberry",
+        "Name": "Blueberry flavored muffin mix mug cakes",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 7.7,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Cinnamon bread mix, cinnamon",
+        "Name": "Cinnamon bread mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Cajun crispy fish fry seafood breading mix, cajun",
+        "Name": "Cajun crispy fish fry seafood breading mix",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.8,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Cranberry orange muffin mix, cranberry orange",
+        "Name": "Cranberry orange muffin mix",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.6,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Martha white, muffin mix with blueberry bits, blueberry, blueberry",
+        "Name": "Martha white, muffin mix with blueberry bits, blueberry",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 8.8,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Martha white, honey bran muffin mix, honey bran",
+        "Name": "Martha white, honey bran muffin mix",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.1,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Marvelous muffins gluten free baking mix, marvelous muffins",
+        "Name": "Marvelous muffins gluten free baking mix",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 1.5,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Toasted plain bread crumbs, toasted plain",
+        "Name": "Toasted plain bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Original panko japanese style crumbs, original",
+        "Name": "Original panko japanese style crumbs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Organic sweet potato pancake mix, sweet potato",
+        "Name": "Organic sweet potato pancake mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 0.0,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Organic chocolate chippy pumpkin bread mix, chocolate chippy pumpkin",
+        "Name": "Organic chocolate chippy pumpkin bread mix",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 5.2,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Gluten free banana bread mix, banana",
+        "Name": "Gluten free banana bread mix",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 1.9,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Gluten free cranberry & orange quick bread & muffin mix, cranberry & orange",
+        "Name": "Gluten free cranberry & orange quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 1.7,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice quick bread mix, pumpkin spice",
+        "Name": "Pumpkin spice quick bread mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Honey bourbon coating & seasoning mix, honey bourbon",
+        "Name": "Honey bourbon coating & seasoning mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Holiday gingerbread quick bread & muffin mix, holiday gingerbread",
+        "Name": "Holiday gingerbread quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Beer gluten free bread mix, beer",
+        "Name": "Beer gluten free bread mix",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 1.6,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored muffin mix, blueberry",
+        "Name": "Blueberry flavored muffin mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 9.0,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Empanizador tipo mexicano seasoned bread crumbs, empanizador tipo mexicano",
+        "Name": "Empanizador tipo mexicano seasoned bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Flaming hot chicken breading, flaming hot chicken",
+        "Name": "Flaming hot chicken breading",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Brown sugar cinnamon oats, banana nut muffin, fruit & nut mix, brown sugar cinnamon oats, banana nut muffin",
+        "Name": "Brown sugar cinnamon oats, banana nut muffin, fruit & nut mix, brown sugar cinnamon oats",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.9,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Sweet & versatile gluten free muffin & quick bread mix, sweet & versatile",
+        "Name": "Sweet & versatile gluten free muffin & quick bread mix",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.9,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Cranberry flavored with real cranberries & orange peel quick bread & muffin mix, cranberry",
+        "Name": "Cranberry flavored with real cranberries & orange peel quick bread & muffin mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Smokey bbq coating & seasoning mix, smokey bbq",
+        "Name": "Smokey bbq coating & seasoning mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Flatbread & pizza keto bread mix, flatbread & pizza",
+        "Name": "Flatbread & pizza keto bread mix",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 15.6,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Banana caramel no sugar added keto muffin mix, banana caramel",
+        "Name": "Banana caramel no sugar added keto muffin mix",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Whole foods market, japanese cooking breadcrumbs, italian herb panko, italian herb panko",
+        "Name": "Whole foods market, japanese cooking breadcrumbs, italian herb panko",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Whole foods market, japanese panko breadcrumbs, pistachio garlic, pistachio garlic",
+        "Name": "Whole foods market, japanese panko breadcrumbs, pistachio garlic",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Sweet chipotle sweet new mexico chilies and chipotle peppers panko bread crumbs, sweet chipotle",
+        "Name": "Sweet chipotle sweet new mexico chilies & chipotle peppers panko bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Marilyn's, bubble bread mix, original make with 12 ounce carbonated beverage, sparkling waters, juices and sodas!, original make with 12 ounce carbonated beverage, sparkling waters, juices and sodas!",
+        "Name": "Marilyns, bubble bread mix, original make with ounce carbonated beverage, sparkling waters, juices & sodas!, original make with ounce carbonated beverage, sparkling waters",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.3,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Whole note, muffin mix, cappuccino and dark chocolate, cappuccino and dark chocolate",
+        "Name": "Whole note, muffin mix, cappuccino & dark chocolate",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.9,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Panko crumbs bake or deep fry for a crispy, crunchy coating, panko",
+        "Name": "Panko crumbs bake or deep fry for a crispy, crunchy coating",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 1.1,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Whole wheat classic style breadcrumbs for baking or frying, whole wheat",
+        "Name": "Whole wheat classic style breadcrumbs for baking or frying",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 1.1,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Organic, buttermilk pancake and waffle mix, buttermilk",
+        "Name": "Organic, buttermilk pancake & waffle mix",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 1.2,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Barbeque air fryer seasoned coating mix, barbeque",
+        "Name": "Barbeque air fryer seasoned coating mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 17.3,
@@ -9045,7 +9045,7 @@
         }
     },
     {
-        "Name": "Italian herb & parmesan crunchy panko seasoned coating mix, italian herb & parmesan",
+        "Name": "Italian herb & parmesan crunchy panko seasoned coating mix",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 10.0,
@@ -9054,7 +9054,7 @@
         }
     },
     {
-        "Name": "Original recipe pancake mix, original recipe",
+        "Name": "Original recipe pancake mix",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 3.5,
@@ -9063,7 +9063,7 @@
         }
     },
     {
-        "Name": "Coconut japanese style panko breadcrumbs, coconut",
+        "Name": "Coconut japanese style panko breadcrumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 8.3,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Sriracha japanese style panko bread crumbs, sriracha",
+        "Name": "Sriracha japanese style panko bread crumbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.7,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Dynasty, japanese style bread crumbs, rice panko, rice panko",
+        "Name": "Dynasty, japanese style bread crumbs, rice panko",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.9,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Hannaford, bread crumbs, original, original",
+        "Name": "Hannaford, bread crumbs, original",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Ginger evans, quick bread & muffin mix, pumpkin spice, pumpkin spice",
+        "Name": "Ginger evans, quick bread & muffin mix, pumpkin spice",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.8,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "Panko flakes breadcrumbs, cajun, cajun",
+        "Name": "Panko flakes breadcrumbs, cajun",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 8.7,
@@ -9135,7 +9135,7 @@
         }
     },
     {
-        "Name": "Nonna antuzzi, gourmet bread crumbs, chipotle, chipotle",
+        "Name": "Nonna antuzzi, gourmet bread crumbs, chipotle",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 3.2,
@@ -9144,7 +9144,7 @@
         }
     },
     {
-        "Name": "Campeno, bread crumbs, garlic, garlic",
+        "Name": "Campeno, bread crumbs, garlic",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 2.9,
@@ -9153,7 +9153,7 @@
         }
     },
     {
-        "Name": "Bella gluten free, rustic multigrain dinner roll mix, seeds & grains, seeds & grains",
+        "Name": "Bella gluten free, rustic multigrain dinner roll mix, seeds & grains",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 6.1,
@@ -9180,7 +9180,7 @@
         }
     },
     {
-        "Name": "Whole foods market, cooking japanese breadcrumbs, almond lemon panko, almond lemon panko",
+        "Name": "Whole foods market, cooking japanese breadcrumbs, almond lemon panko",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 4.5,
@@ -9243,7 +9243,7 @@
         }
     },
     {
-        "Name": "Gia russa, italian seasoned bread crumbs, whole grain, whole grain",
+        "Name": "Gia russa, italian seasoned bread crumbs, whole grain",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Marie callender's, muffin mix, cranberry orange, cranberry orange",
+        "Name": "Marie callenders, muffin mix, cranberry orange",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 4.5,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Marie callender's, muffin mix, cinnamon apple, cinnamon apple",
+        "Name": "Marie callenders, muffin mix, cinnamon apple",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.0,
@@ -9297,7 +9297,7 @@
         }
     },
     {
-        "Name": "Honey cornbread muffin mix, honey cornbread",
+        "Name": "Honey cornbread muffin mix",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 13.5,
@@ -9315,7 +9315,7 @@
         }
     },
     {
-        "Name": "Sunrise apple cinnamon muffin mix, apple cinnamon",
+        "Name": "Sunrise apple cinnamon muffin mix",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 13.4,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "Sweet potato muffin, sweet potato muffin",
+        "Name": "Sweet potato muffin",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -9369,7 +9369,7 @@
         }
     },
     {
-        "Name": "Fish and shrimp with paprika breading, red",
+        "Name": "Fish & shrimp with paprika breading, red",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice bread mix, pumpkin spice",
+        "Name": "Pumpkin spice bread mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -9468,7 +9468,7 @@
         }
     },
     {
-        "Name": "Blueberry flavor muffin mix, blueberry",
+        "Name": "Blueberry flavor muffin mix",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 3.1,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Whole wheat bread crumbs, whole wheat",
+        "Name": "Whole wheat bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.7,
@@ -9486,7 +9486,7 @@
         }
     },
     {
-        "Name": "Cilantro lime seasoned panko bread crumbs, cilantro lime",
+        "Name": "Cilantro lime seasoned panko bread crumbs",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -9495,7 +9495,7 @@
         }
     },
     {
-        "Name": "Shoprite, bread crumbs, plain, plain",
+        "Name": "Shoprite, bread crumbs, plain",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.8,
@@ -9513,7 +9513,7 @@
         }
     },
     {
-        "Name": "Reduced fat crescent rolls, reduced fat",
+        "Name": "Reduced fat crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.7,
@@ -9522,7 +9522,7 @@
         }
     },
     {
-        "Name": "Pumpkin seasons bread mix, pumpkin",
+        "Name": "Pumpkin seasons bread mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 0.0,
@@ -9531,7 +9531,7 @@
         }
     },
     {
-        "Name": "10 grain bread mix with whole grains & flaxseed, 10 grain",
+        "Name": "Grain bread mix with whole grains & flaxseed",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 3.0,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Plain organic gluten-free toasted chickpea crumbs, plain",
+        "Name": "Plain organic gluten-free toasted chickpea crumbs",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 5.0,
@@ -9549,7 +9549,7 @@
         }
     },
     {
-        "Name": "Hatch green chile corn muffin mix, hatch green chile corn muffin",
+        "Name": "Hatch green chile corn muffin mix",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 1.6,
@@ -9558,7 +9558,7 @@
         }
     },
     {
-        "Name": "Homemade white bread mix, homemade white",
+        "Name": "Homemade white bread mix",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 4.0,
@@ -9567,7 +9567,7 @@
         }
     },
     {
-        "Name": "Rustic bread mix, rustic bread",
+        "Name": "Rustic bread mix",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -9576,7 +9576,7 @@
         }
     },
     {
-        "Name": "Beer seafood batter mix, beer",
+        "Name": "Beer seafood batter mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -9585,7 +9585,7 @@
         }
     },
     {
-        "Name": "Japanese style bread flakes panko, (japanese style bread flakes)",
+        "Name": "Japanese style bread flakes panko",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 2.2,
@@ -9594,7 +9594,7 @@
         }
     },
     {
-        "Name": "Parmesan & basil artisan bread mix, parmesan & basil",
+        "Name": "Parmesan & basil artisan bread mix",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 4.4,
@@ -9603,7 +9603,7 @@
         }
     },
     {
-        "Name": "Deluxe cinnamon swirl flavored sugar free quick bread & muffin mix, , deluxe cinnamon swirl",
+        "Name": "Deluxe cinnamon swirl flavored sugar free quick bread & muffin mix,",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 6.1,
@@ -9612,7 +9612,7 @@
         }
     },
     {
-        "Name": "Garlic & herb artisan bread mix, garlic & herb",
+        "Name": "Garlic & herb artisan bread mix",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 4.4,
@@ -9621,7 +9621,7 @@
         }
     },
     {
-        "Name": "Extra crispy chicken seasoned coating mix for chicken, extra crispy chicken",
+        "Name": "Extra crispy chicken seasoned coating mix for chicken",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 6.7,
@@ -9630,7 +9630,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon flavored muffin mix, apple cinnamon",
+        "Name": "Apple cinnamon flavored muffin mix",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 7.9,
@@ -9639,7 +9639,7 @@
         }
     },
     {
-        "Name": "Maple brown sugar flavor burstin' complete pancake mix, maple brown sugar",
+        "Name": "Maple brown sugar flavor burstin complete pancake mix",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 6.9,
@@ -9648,7 +9648,7 @@
         }
     },
     {
-        "Name": "Homemade wonderful bread mix, homemade wonderful",
+        "Name": "Homemade wonderful bread mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 0.0,
@@ -9657,7 +9657,7 @@
         }
     },
     {
-        "Name": "Coconut seasoned panko, coconut",
+        "Name": "Coconut seasoned panko",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 8.3,
@@ -9675,7 +9675,7 @@
         }
     },
     {
-        "Name": "Pumpkin classic pumpkin bread kit with icing, pumpkin",
+        "Name": "Pumpkin classic pumpkin bread kit with icing",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -9684,7 +9684,7 @@
         }
     },
     {
-        "Name": "Double dark chocolate muffin mix, double dark chocolate",
+        "Name": "Double dark chocolate muffin mix",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 6.8,
@@ -9693,7 +9693,7 @@
         }
     },
     {
-        "Name": "Moroccan spiced flatbread mix, moroccan spiced flatbread",
+        "Name": "Moroccan spiced flatbread mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 16.7,
@@ -9711,7 +9711,7 @@
         }
     },
     {
-        "Name": "Cranberry flavored quick bread & muffin mix with real cranberries & orange peel, cranberry",
+        "Name": "Cranberry flavored quick bread & muffin mix with real cranberries & orange peel",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -9720,7 +9720,7 @@
         }
     },
     {
-        "Name": "Lemon pepper fish breading, lemon pepper",
+        "Name": "Lemon pepper fish breading",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -9729,7 +9729,7 @@
         }
     },
     {
-        "Name": "Original seasoned fish breading, original",
+        "Name": "Original seasoned fish breading",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Favorite sandwich gluten free pantry bread mix, favorite sandwich",
+        "Name": "Favorite s&wich gluten free pantry bread mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -9747,7 +9747,7 @@
         }
     },
     {
-        "Name": "Seasoned new orleans style fish fri seafood breading mix, seasoned",
+        "Name": "Seasoned new orleans style fish fri seafood breading mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 0.0,
@@ -9756,7 +9756,7 @@
         }
     },
     {
-        "Name": "Seasoned with pecorino romano cheese bread crumbs, seasoned with pecorino romano cheese",
+        "Name": "Seasoned with pecorino romano cheese bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -9765,7 +9765,7 @@
         }
     },
     {
-        "Name": "Cajun fish breading, cajun",
+        "Name": "Cajun fish breading",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 2.2,
@@ -9774,7 +9774,7 @@
         }
     },
     {
-        "Name": "Plain gluten free panko flakes, plain",
+        "Name": "Plain gluten free panko flakes",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 13.3,
@@ -9783,7 +9783,7 @@
         }
     },
     {
-        "Name": "Italian-style panko bread crumbs, italian-style",
+        "Name": "Italian-style panko bread crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -9792,7 +9792,7 @@
         }
     },
     {
-        "Name": "Lemon poppy seed flavored muffin mix, lemon poppy seed",
+        "Name": "Lemon poppy seed flavored muffin mix",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 5.1,
@@ -9801,7 +9801,7 @@
         }
     },
     {
-        "Name": "Classic chicken fry breading mix, classic chicken fry",
+        "Name": "Classic chicken fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9810,7 +9810,7 @@
         }
     },
     {
-        "Name": "Cajun style breading and batter mix, cajun style",
+        "Name": "Cajun style breading & batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -9819,7 +9819,7 @@
         }
     },
     {
-        "Name": "Oven style breading mix, oven style",
+        "Name": "Oven style breading mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 15.0,
@@ -9828,7 +9828,7 @@
         }
     },
     {
-        "Name": "Chocolate chip muffins mix, chocolate chip",
+        "Name": "Chocolate chip muffins mix",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 26.5,
@@ -9837,7 +9837,7 @@
         }
     },
     {
-        "Name": "Original recipe fish breading/batter mix, original recipe",
+        "Name": "Original recipe fish breading/batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 13.3,
@@ -9846,7 +9846,7 @@
         }
     },
     {
-        "Name": "Beer batter fish batter mix, beer batter",
+        "Name": "Beer batter fish batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9855,7 +9855,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll mix, cinnamon",
+        "Name": "Cinnamon roll mix",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -9864,7 +9864,7 @@
         }
     },
     {
-        "Name": "Pink chocolate chip pancake mix, pink chocolate chip",
+        "Name": "Pink chocolate chip pancake mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 11.2,
@@ -9873,7 +9873,7 @@
         }
     },
     {
-        "Name": "Spiced pumpkin bread & muffine mix, spiced pumpkin",
+        "Name": "Spiced pumpkin bread & muffine mix",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 1.2,
@@ -9882,7 +9882,7 @@
         }
     },
     {
-        "Name": "Classic plain bread crumbs, classic plain",
+        "Name": "Classic plain bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -9891,7 +9891,7 @@
         }
     },
     {
-        "Name": "White cheddar cheese beer bread mix, white cheddar cheese",
+        "Name": "White cheddar cheese beer bread mix",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 2.0,
@@ -9900,7 +9900,7 @@
         }
     },
     {
-        "Name": "Meijer, moist select, quick bread mix, pumpkin, pumpkin",
+        "Name": "Meijer, moist select, quick bread mix, pumpkin",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.8,
@@ -9909,7 +9909,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheddar beer bread mix, jalapeno cheddar beer",
+        "Name": "Jalapeno cheddar beer bread mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 3.6,
@@ -9918,7 +9918,7 @@
         }
     },
     {
-        "Name": "Beer bread mix, beer",
+        "Name": "Beer bread mix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -9927,7 +9927,7 @@
         }
     },
     {
-        "Name": "Deluxe cinnamon swirl flavored sugar free quick bread & muffin mix, deluxe cinnamon swirl",
+        "Name": "Deluxe cinnamon swirl flavored sugar free quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 6.1,
@@ -9936,7 +9936,7 @@
         }
     },
     {
-        "Name": "Brown sugar cinnamon oats, banana nut muffin, fruit & nut mix, brown sugar cinnamon, banana nut, fruit & nut",
+        "Name": "Brown sugar cinnamon oats, banana nut muffin, fruit & nut mix, brown sugar cinnamon, banana nut",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.9,
@@ -9945,7 +9945,7 @@
         }
     },
     {
-        "Name": "Plain panko crispy coating crumbs, plain panko",
+        "Name": "Plain panko crispy coating crumbs",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.0,
@@ -9954,7 +9954,7 @@
         }
     },
     {
-        "Name": "Vegetable potato pancake mix, vegetable potato",
+        "Name": "Vegetable potato pancake mix",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 0.0,
@@ -9963,7 +9963,7 @@
         }
     },
     {
-        "Name": "Original gourmet panko bread flakes, original",
+        "Name": "Original gourmet panko bread flakes",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 1.5,
@@ -9972,7 +9972,7 @@
         }
     },
     {
-        "Name": "Keto muffin mix, keto muffin",
+        "Name": "Keto muffin mix",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -9981,7 +9981,7 @@
         }
     },
     {
-        "Name": "Muffin & scone gluten free mix, muffin & scone",
+        "Name": "Muffin & scone gluten free mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9990,7 +9990,7 @@
         }
     },
     {
-        "Name": "Keto coconut crumbs gluten free & grain free breading substitute, keto coconut crumbs",
+        "Name": "Keto coconut crumbs gluten free & grain free breading substitute",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 26.7,
@@ -9999,7 +9999,7 @@
         }
     },
     {
-        "Name": "Sunflower seeds crumbs breading substitute, sunflower seeds crumbs",
+        "Name": "Sunflower seeds crumbs breading substitute",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 20.0,
@@ -10008,7 +10008,7 @@
         }
     },
     {
-        "Name": "Peanut crumbs organic & gluten free breading substitute, peanut crumbs",
+        "Name": "Peanut crumbs organic & gluten free breading substitute",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 11.7,
@@ -10017,7 +10017,7 @@
         }
     },
     {
-        "Name": "Chickpea crumbs organic & gluten free breading substitute, chickpea crumbs",
+        "Name": "Chickpea crumbs organic & gluten free breading substitute",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 6.7,
@@ -10026,7 +10026,7 @@
         }
     },
     {
-        "Name": "Lightly salted organic bread crumbs, lightly salted",
+        "Name": "Lightly salted organic bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.7,
@@ -10044,7 +10044,7 @@
         }
     },
     {
-        "Name": "Plain white cubed stuffing lightly seasoned white bread, plain white",
+        "Name": "Plain white cubed stuffing lightly seasoned white bread",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 4.3,
@@ -10053,7 +10053,7 @@
         }
     },
     {
-        "Name": "Italian style bread crumbs without cheese, italian style",
+        "Name": "Italian style bread crumbs without cheese",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 5.9,
@@ -10071,7 +10071,7 @@
         }
     },
     {
-        "Name": "Awesome onion seasoned flour crispy fry mix, awesome onion",
+        "Name": "Awesome onion seasoned flour crispy fry mix",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -10080,7 +10080,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirl muffin mix, cinnamon swirl",
+        "Name": "Cinnamon swirl muffin mix",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 26.2,
@@ -10089,7 +10089,7 @@
         }
     },
     {
-        "Name": "Chicken fry breading mix, chicken fry",
+        "Name": "Chicken fry breading mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -10098,7 +10098,7 @@
         }
     },
     {
-        "Name": "Golden grain white bread mix, golden grain white",
+        "Name": "Golden grain white bread mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 1.8,
@@ -10107,7 +10107,7 @@
         }
     },
     {
-        "Name": "Cinnamon swirl quick bread mix, cinnamon swirl",
+        "Name": "Cinnamon swirl quick bread mix",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 1.5,
@@ -10116,7 +10116,7 @@
         }
     },
     {
-        "Name": "Potato dumplings mix, potato dumplings",
+        "Name": "Potato dumplings mix",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.7,
@@ -10125,7 +10125,7 @@
         }
     },
     {
-        "Name": "Italian style bread with herbs, spices & real pecorino romano cheese crumbs, italian style",
+        "Name": "Italian style bread with herbs, spices & real pecorino romano cheese crumbs",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -10134,7 +10134,7 @@
         }
     },
     {
-        "Name": "Banana nut muffin mix, banana nut",
+        "Name": "Banana nut muffin mix",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 15.0,
@@ -10143,7 +10143,7 @@
         }
     },
     {
-        "Name": "Garlic butter seasoned coating mix, garlic butter",
+        "Name": "Garlic butter seasoned coating mix",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.5,
@@ -10152,7 +10152,7 @@
         }
     },
     {
-        "Name": "Plain gluten free bread crumbs, plain",
+        "Name": "Plain gluten free bread crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -10161,7 +10161,7 @@
         }
     },
     {
-        "Name": "Italian gluten free bread crumbs, italian",
+        "Name": "Italian gluten free bread crumbs",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.7,
@@ -10170,7 +10170,7 @@
         }
     },
     {
-        "Name": "Passover pretzel crumbs, passover pretzel",
+        "Name": "Passover pretzel crumbs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -10179,7 +10179,7 @@
         }
     },
     {
-        "Name": "Fall cranberry orange muffin & quick bread mix, fall cranberry orange",
+        "Name": "Fall cranberry orange muffin & quick bread mix",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 5.6,
@@ -10188,7 +10188,7 @@
         }
     },
     {
-        "Name": "Gingerbread holiday quick bread & muffin mix, gingerbread",
+        "Name": "Gingerbread holiday quick bread & muffin mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -10359,7 +10359,7 @@
         }
     },
     {
-        "Name": "Hot'n spicy seasoned bread crumbs",
+        "Name": "Hot& spicy seasoned bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.0,
@@ -10395,7 +10395,7 @@
         }
     },
     {
-        "Name": "House-autry flavor expressions sweet thai chili, 2 count, 5 oz",
+        "Name": "House-autry flavor expressions sweet thai chili, count",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -10431,7 +10431,7 @@
         }
     },
     {
-        "Name": "Blueberry muffin tops mix, blueberry",
+        "Name": "Blueberry muffin tops mix",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 6.0,
@@ -10440,7 +10440,7 @@
         }
     },
     {
-        "Name": "Vanilla gluten free muffin mix, vanilla",
+        "Name": "Vanilla gluten free muffin mix",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.4,
@@ -10449,7 +10449,7 @@
         }
     },
     {
-        "Name": "Kinnikinnick pancake & waffle mix, 16 oz",
+        "Name": "Kinnikinnick pancake & waffle mix",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -10584,7 +10584,7 @@
         }
     },
     {
-        "Name": "Plain organic breadcrumbs, plain",
+        "Name": "Plain organic breadcrumbs",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -10593,7 +10593,7 @@
         }
     },
     {
-        "Name": "Rustic bread mix, rustic",
+        "Name": "Rustic bread mix",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -10602,7 +10602,7 @@
         }
     },
     {
-        "Name": "Sesame homestyle bread crumbs, sesame",
+        "Name": "Sesame homestyle bread crumbs",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 13.3,
@@ -10629,7 +10629,7 @@
         }
     },
     {
-        "Name": "Onion ring batter mix, onion ring",
+        "Name": "Onion ring batter mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,

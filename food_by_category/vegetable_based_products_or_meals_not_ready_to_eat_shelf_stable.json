@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Betty crocker au gratin potatoes",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 0.0,
+            "Carbs": 79.3,
+            "Calories": 344.8
+        }
+    },
+    {
+        "Name": "Betty crocker butter & herb mashed potatoes",
+        "Nutrients": {
+            "Protein": 4.3,
+            "Fat": 8.7,
+            "Carbs": 69.6,
+            "Calories": 373.9
+        }
+    },
+    {
+        "Name": "Betty crocker au gratin potatoes value size",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 0.0,
+            "Carbs": 82.1,
+            "Calories": 342.8
+        }
+    }
+]

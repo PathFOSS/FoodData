@@ -1,0 +1,2324 @@
+[
+    {
+        "Name": "Kelloggs froot loops cereal",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 3.7,
+            "Carbs": 87.7,
+            "Calories": 406.1
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal multi grain",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.3,
+            "Carbs": 86.6,
+            "Calories": 388.9
+        }
+    },
+    {
+        "Name": "Kellogg apple jacks",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 3.7,
+            "Carbs": 87.8,
+            "Calories": 405.3
+        }
+    },
+    {
+        "Name": "Kelloggs cinnabon cereal",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 7.4,
+            "Carbs": 83.7,
+            "Calories": 423.0
+        }
+    },
+    {
+        "Name": "Bear naked cereal sea salted caramel apple",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.9,
+            "Carbs": 74.4,
+            "Calories": 423.7
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 0.3,
+            "Carbs": 88.2,
+            "Calories": 377.1
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal multi grain cinnamon",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 1.4,
+            "Carbs": 86.3,
+            "Calories": 389.4
+        }
+    },
+    {
+        "Name": "Kelloggs froot loops cereal reduced sugar",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 4.1,
+            "Carbs": 86.6,
+            "Calories": 408.9
+        }
+    },
+    {
+        "Name": "Kellogg frosted flakes energy clusters",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 1.9,
+            "Carbs": 82.0,
+            "Calories": 385.9
+        }
+    },
+    {
+        "Name": "Kellogg froot loops bloopers",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 3.8,
+            "Carbs": 87.6,
+            "Calories": 403.0
+        }
+    },
+    {
+        "Name": "Kelloggs licensed br&s cereal frozen movie",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 3.4,
+            "Carbs": 84.9,
+            "Calories": 398.6
+        }
+    },
+    {
+        "Name": "Kelloggs all bran cereal complete wheat flakes",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 2.5,
+            "Carbs": 81.6,
+            "Calories": 389.7
+        }
+    },
+    {
+        "Name": "Kelloggs corn pops cereal",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 1.2,
+            "Carbs": 90.4,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs all bran cereal original",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 3.3,
+            "Carbs": 74.0,
+            "Calories": 375.7
+        }
+    },
+    {
+        "Name": "Kelloggs froot loops cereal",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 3.7,
+            "Carbs": 87.7,
+            "Calories": 406.1
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 0.3,
+            "Carbs": 88.2,
+            "Calories": 377.1
+        }
+    },
+    {
+        "Name": "Bear naked cereal original cinnamon protein",
+        "Nutrients": {
+            "Protein": 19.0,
+            "Fat": 21.1,
+            "Carbs": 52.5,
+            "Calories": 475.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal original cinnamon",
+        "Nutrients": {
+            "Protein": 19.0,
+            "Fat": 21.1,
+            "Carbs": 52.5,
+            "Calories": 475.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal sea salted caramel apple",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.9,
+            "Carbs": 74.4,
+            "Calories": 423.7
+        }
+    },
+    {
+        "Name": "Kelloggs corn pops cereal",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 1.2,
+            "Carbs": 90.4,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs all bran cereal buds",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 2.5,
+            "Carbs": 81.0,
+            "Calories": 382.1
+        }
+    },
+    {
+        "Name": "Kelloggs apple jacks cereal",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 3.8,
+            "Carbs": 87.6,
+            "Calories": 406.6
+        }
+    },
+    {
+        "Name": "Kelloggs crispix cereal",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 0.8,
+            "Carbs": 87.2,
+            "Calories": 382.4
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal chocolate multi grain",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 2.9,
+            "Carbs": 85.8,
+            "Calories": 398.5
+        }
+    },
+    {
+        "Name": "Kellogg froot loops",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 3.6,
+            "Carbs": 87.6,
+            "Calories": 404.4
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal multi grain",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.3,
+            "Carbs": 86.6,
+            "Calories": 388.9
+        }
+    },
+    {
+        "Name": "Kelloggs apple jacks cereal reduced sugar",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 4.2,
+            "Carbs": 86.6,
+            "Calories": 409.4
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 0.3,
+            "Carbs": 88.2,
+            "Calories": 377.1
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal reduced sugar",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.3,
+            "Carbs": 86.6,
+            "Calories": 388.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural granola banana nut",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 23.3,
+            "Carbs": 61.0,
+            "Calories": 492.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural granola fruit & nut",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 19.8,
+            "Carbs": 65.0,
+            "Calories": 479.0
+        }
+    },
+    {
+        "Name": "Bear naked cereal honey almond protein",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 25.0,
+            "Carbs": 48.6,
+            "Calories": 494.2
+        }
+    },
+    {
+        "Name": "Bear naked cereal cinnamon & sunflower butter soft baked",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 20.3,
+            "Carbs": 60.8,
+            "Calories": 468.7
+        }
+    },
+    {
+        "Name": "Bear naked cereal cacao & cashew butter soft baked",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 19.7,
+            "Carbs": 63.5,
+            "Calories": 471.7
+        }
+    },
+    {
+        "Name": "Bear naked cereal pepita hemp sunflower butter",
+        "Nutrients": {
+            "Protein": 11.2,
+            "Fat": 18.9,
+            "Carbs": 62.3,
+            "Calories": 464.1
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural fit vanilla almond",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.8,
+            "Carbs": 72.6,
+            "Calories": 415.6
+        }
+    },
+    {
+        "Name": "Bear naked cereal cinnamon sunflower",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 20.3,
+            "Carbs": 60.8,
+            "Calories": 468.7
+        }
+    },
+    {
+        "Name": "Bear naked cereal maple pecan",
+        "Nutrients": {
+            "Protein": 10.3,
+            "Fat": 14.5,
+            "Carbs": 71.8,
+            "Calories": 458.9
+        }
+    },
+    {
+        "Name": "Kashi heritage sides whole grain pilaf",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 5.1,
+            "Carbs": 70.1,
+            "Calories": 374.3
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cocoa coconut with kamut khorasan wheat granola",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 16.6,
+            "Carbs": 68.2,
+            "Calories": 461.0
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cherry cinnamon & cardamom",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 10.4,
+            "Carbs": 67.5,
+            "Calories": 408.0
+        }
+    },
+    {
+        "Name": "Kashi organic cereal pepita & sunflower",
+        "Nutrients": {
+            "Protein": 14.1,
+            "Fat": 17.1,
+            "Carbs": 58.4,
+            "Calories": 443.9
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cinnamon harvest",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 1.4,
+            "Carbs": 79.0,
+            "Calories": 372.6
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cinnamon harvest",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 1.4,
+            "Carbs": 78.9,
+            "Calories": 372.2
+        }
+    },
+    {
+        "Name": "Kashi golean cereal vanilla",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 11.7,
+            "Carbs": 67.8,
+            "Calories": 440.1
+        }
+    },
+    {
+        "Name": "Kashi golean cereal vanilla",
+        "Nutrients": {
+            "Protein": 15.9,
+            "Fat": 11.7,
+            "Carbs": 67.8,
+            "Calories": 440.1
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal cinnamon",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 5.4,
+            "Carbs": 80.1,
+            "Calories": 406.2
+        }
+    },
+    {
+        "Name": "Kashi golean cereal original",
+        "Nutrients": {
+            "Protein": 21.3,
+            "Fat": 3.2,
+            "Carbs": 69.1,
+            "Calories": 390.4
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crunch",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 5.9,
+            "Carbs": 71.4,
+            "Calories": 405.5
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crunch",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 5.9,
+            "Carbs": 71.4,
+            "Calories": 405.5
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal whole grain flakes",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 1.5,
+            "Carbs": 81.4,
+            "Calories": 383.1
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal puffed",
+        "Nutrients": {
+            "Protein": 13.0,
+            "Fat": 3.3,
+            "Carbs": 80.8,
+            "Calories": 404.9
+        }
+    },
+    {
+        "Name": "Kashi organic cereal promise cinnamon harvest",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 1.4,
+            "Carbs": 78.9,
+            "Calories": 372.2
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal simply maize",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 3.4,
+            "Carbs": 83.3,
+            "Calories": 395.0
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal indigo morning",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 3.4,
+            "Carbs": 82.8,
+            "Calories": 392.6
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal honey toasted oat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 5.4,
+            "Carbs": 80.6,
+            "Calories": 407.4
+        }
+    },
+    {
+        "Name": "Kashi golean cereal cinnamon",
+        "Nutrients": {
+            "Protein": 22.1,
+            "Fat": 8.2,
+            "Carbs": 62.6,
+            "Calories": 412.6
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal cinnamon",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 5.4,
+            "Carbs": 80.1,
+            "Calories": 406.2
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crunch",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 5.9,
+            "Carbs": 71.4,
+            "Calories": 405.5
+        }
+    },
+    {
+        "Name": "Kashi golean cereal vanilla graham",
+        "Nutrients": {
+            "Protein": 20.4,
+            "Fat": 3.6,
+            "Carbs": 70.3,
+            "Calories": 395.2
+        }
+    },
+    {
+        "Name": "Kashi whole health rtec berry blossom",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 3.0,
+            "Carbs": 83.1,
+            "Calories": 389.4
+        }
+    },
+    {
+        "Name": "Kelloggs rice krispies cereal",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 0.6,
+            "Carbs": 88.3,
+            "Calories": 384.6
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal red berries",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 1.3,
+            "Carbs": 87.1,
+            "Calories": 385.3
+        }
+    },
+    {
+        "Name": "Kelloggs all bran cereal complete wheat flakes",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 2.5,
+            "Carbs": 81.6,
+            "Calories": 389.7
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs cocoa krispies cereal",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 2.6,
+            "Carbs": 88.3,
+            "Calories": 395.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kellogg product",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 1.3,
+            "Carbs": 84.3,
+            "Calories": 382.9
+        }
+    },
+    {
+        "Name": "Kelloggs cracklin oat bran cereal",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 14.1,
+            "Carbs": 70.3,
+            "Calories": 444.9
+        }
+    },
+    {
+        "Name": "Kelloggs muslix cereal",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 5.0,
+            "Carbs": 75.2,
+            "Calories": 380.2
+        }
+    },
+    {
+        "Name": "Kelloggs cocoa krispies cereal",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 2.7,
+            "Carbs": 87.9,
+            "Calories": 394.3
+        }
+    },
+    {
+        "Name": "Kellogg raisin bran",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kellogg low fat granola without raisins",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 5.7,
+            "Carbs": 80.9,
+            "Calories": 409.7
+        }
+    },
+    {
+        "Name": "Kellogg low fat granola with raisins",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 5.2,
+            "Carbs": 80.1,
+            "Calories": 403.2
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal gluten free",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 2.5,
+            "Carbs": 86.5,
+            "Calories": 392.9
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal crunch",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 1.8,
+            "Carbs": 84.9,
+            "Calories": 382.2
+        }
+    },
+    {
+        "Name": "Kelloggs low fat granola cereal crunchy",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 4.6,
+            "Carbs": 83.2,
+            "Calories": 407.0
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal cranberry",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 1.5,
+            "Carbs": 84.2,
+            "Calories": 377.9
+        }
+    },
+    {
+        "Name": "Kellogg origins cereal fruit & seed muesli raisin apricot cranberry with pumpkin seeds",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 4.7,
+            "Carbs": 71.0,
+            "Calories": 356.3
+        }
+    },
+    {
+        "Name": "Kellogg origins cereal fruit & nut muesli apricot cashew raisin coconut",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 7.8,
+            "Carbs": 0.0,
+            "Calories": 70.2
+        }
+    },
+    {
+        "Name": "Kellogg origins cereal cranberry walnut",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 8.2,
+            "Carbs": 77.6,
+            "Calories": 412.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal coconut almond",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 7.5,
+            "Carbs": 78.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Kelloggs low fat granola cereal with raisins",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 5.2,
+            "Carbs": 80.1,
+            "Calories": 403.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal cinnamon brown sugar crunch",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.6,
+            "Carbs": 69.8,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg breakfast mix cinnamon roasted pecan",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 11.3,
+            "Carbs": 76.3,
+            "Calories": 438.9
+        }
+    },
+    {
+        "Name": "Kellogg raisin bran fruit & nut",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 4.6,
+            "Carbs": 79.9,
+            "Calories": 393.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal protein plus",
+        "Nutrients": {
+            "Protein": 31.2,
+            "Fat": 2.6,
+            "Carbs": 59.8,
+            "Calories": 387.4
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal vanilla almond",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 4.3,
+            "Carbs": 82.6,
+            "Calories": 400.7
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal coconut almond",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 7.5,
+            "Carbs": 78.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Kellogg krave cereal",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kellogg krave cereal",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kelloggs rice krispies cereal",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 0.6,
+            "Carbs": 88.3,
+            "Calories": 384.6
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kellogg low fat granola without raisins",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 5.7,
+            "Carbs": 80.9,
+            "Calories": 409.7
+        }
+    },
+    {
+        "Name": "Kelloggs low fat granola cereal crunchy",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 4.6,
+            "Carbs": 83.2,
+            "Calories": 407.0
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal chocolate",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal double chocolate",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 11.6,
+            "Carbs": 76.0,
+            "Calories": 436.4
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal vanilla almond",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 4.3,
+            "Carbs": 82.6,
+            "Calories": 400.7
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 1.9,
+            "Carbs": 78.3,
+            "Calories": 361.1
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal milk chocolate",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal chocolate",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal low carb protein plus",
+        "Nutrients": {
+            "Protein": 31.2,
+            "Fat": 2.6,
+            "Carbs": 59.8,
+            "Calories": 387.4
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal vanilla almond",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 4.3,
+            "Carbs": 82.6,
+            "Calories": 400.7
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal omega",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 2.5,
+            "Carbs": 82.7,
+            "Calories": 382.5
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal chocolate",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 11.5,
+            "Carbs": 76.4,
+            "Calories": 436.7
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal whole grain nuggets",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 2.3,
+            "Carbs": 79.6,
+            "Calories": 387.5
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cranberry spelt & flax granola",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 9.6,
+            "Carbs": 75.3,
+            "Calories": 424.8
+        }
+    },
+    {
+        "Name": "Kashi organic cereal organic promise sprouted grains",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 2.1,
+            "Carbs": 80.0,
+            "Calories": 379.3
+        }
+    },
+    {
+        "Name": "Kashi organic cereal promise sprouted grain",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 2.1,
+            "Carbs": 80.0,
+            "Calories": 379.3
+        }
+    },
+    {
+        "Name": "Kashi organic cereal sweet potato sunshine",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 2.4,
+            "Carbs": 83.5,
+            "Calories": 389.2
+        }
+    },
+    {
+        "Name": "Kashi organic cereal cacao nib almond & coconut",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 15.9,
+            "Carbs": 60.8,
+            "Calories": 438.7
+        }
+    },
+    {
+        "Name": "Kashi organic cereal toasted oat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 5.4,
+            "Carbs": 80.6,
+            "Calories": 407.4
+        }
+    },
+    {
+        "Name": "Kashi organic cereal sweet potato sunshine",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 2.4,
+            "Carbs": 83.5,
+            "Calories": 389.2
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal honey toasted oat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 5.4,
+            "Carbs": 80.6,
+            "Calories": 407.4
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal blueberry",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 4.3,
+            "Carbs": 80.9,
+            "Calories": 397.1
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal honey toasted oat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 5.4,
+            "Carbs": 80.6,
+            "Calories": 407.4
+        }
+    },
+    {
+        "Name": "Kashi golean cereal",
+        "Nutrients": {
+            "Protein": 21.3,
+            "Fat": 3.2,
+            "Carbs": 69.1,
+            "Calories": 390.4
+        }
+    },
+    {
+        "Name": "Kashi organic cereal berry fruitful",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 1.3,
+            "Carbs": 76.2,
+            "Calories": 359.3
+        }
+    },
+    {
+        "Name": "Kashi golean cereal original",
+        "Nutrients": {
+            "Protein": 21.3,
+            "Fat": 3.2,
+            "Carbs": 69.1,
+            "Calories": 390.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal cinnamon brown sugar crunch",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.6,
+            "Carbs": 69.8,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal cinnamon brown sugar crunch",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.6,
+            "Carbs": 69.8,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal smores",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 10.9,
+            "Carbs": 76.4,
+            "Calories": 432.9
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal low fat cranberry",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 3.9,
+            "Carbs": 82.8,
+            "Calories": 398.3
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal cinnamon brown sugar crunch",
+        "Nutrients": {
+            "Protein": 22.3,
+            "Fat": 2.6,
+            "Carbs": 69.8,
+            "Calories": 391.8
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal raspberry almond",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 4.5,
+            "Carbs": 81.2,
+            "Calories": 402.9
+        }
+    },
+    {
+        "Name": "Kellogg special k cereal low fat granola with cranberries",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 3.9,
+            "Carbs": 82.8,
+            "Calories": 398.3
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal raspberry almond",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 4.5,
+            "Carbs": 81.2,
+            "Calories": 402.9
+        }
+    },
+    {
+        "Name": "Kellogg breakfast mix salted caramel almond",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 10.1,
+            "Carbs": 75.1,
+            "Calories": 429.7
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran raisin & honey",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 3.2,
+            "Carbs": 81.0,
+            "Calories": 384.8
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal chocolate delight",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 7.2,
+            "Carbs": 81.3,
+            "Calories": 415.6
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal cinnamon pecan",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 6.0,
+            "Carbs": 81.2,
+            "Calories": 408.8
+        }
+    },
+    {
+        "Name": "Kashi heart to heart cereal honey toasted oat",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 5.4,
+            "Carbs": 80.6,
+            "Calories": 407.4
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs low fat granola cereal with raisins",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 5.2,
+            "Carbs": 80.1,
+            "Calories": 403.2
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal crunch",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 1.8,
+            "Carbs": 84.9,
+            "Calories": 382.2
+        }
+    },
+    {
+        "Name": "Kellogg raisin bran crunch",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 1.8,
+            "Carbs": 84.9,
+            "Calories": 382.2
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal chocolate delight",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 7.2,
+            "Carbs": 81.3,
+            "Calories": 415.6
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal cinnamon pecan",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 6.0,
+            "Carbs": 81.2,
+            "Calories": 408.8
+        }
+    },
+    {
+        "Name": "Kelloggs rice krispies cereal",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 0.6,
+            "Carbs": 88.3,
+            "Calories": 384.6
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal crunch",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 1.8,
+            "Carbs": 84.9,
+            "Calories": 382.2
+        }
+    },
+    {
+        "Name": "Kelloggs krave cereal smores",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 10.9,
+            "Carbs": 76.4,
+            "Calories": 432.9
+        }
+    },
+    {
+        "Name": "Kashi organic cereal promise autumn wheat",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 1.4,
+            "Carbs": 78.7,
+            "Calories": 374.6
+        }
+    },
+    {
+        "Name": "Kellogg low fat granola without raisins",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 5.7,
+            "Carbs": 80.9,
+            "Calories": 409.7
+        }
+    },
+    {
+        "Name": "Kelloggs corn pops cereal",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 1.2,
+            "Carbs": 90.4,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs froot loops cereal in a cup",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 3.7,
+            "Carbs": 87.7,
+            "Calories": 406.1
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal low fat granola",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 5.5,
+            "Carbs": 76.9,
+            "Calories": 404.3
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal low fat granola",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 5.5,
+            "Carbs": 76.9,
+            "Calories": 404.3
+        }
+    },
+    {
+        "Name": "Kelloggs apple jacks cereal in a cup",
+        "Nutrients": {
+            "Protein": 5.2,
+            "Fat": 3.7,
+            "Carbs": 87.8,
+            "Calories": 405.3
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal in a cup",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 0.3,
+            "Carbs": 88.2,
+            "Calories": 377.1
+        }
+    },
+    {
+        "Name": "Kellogg frosted flakes energy clusters",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 1.9,
+            "Carbs": 82.0,
+            "Calories": 385.9
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crunch",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 5.9,
+            "Carbs": 71.4,
+            "Calories": 405.5
+        }
+    },
+    {
+        "Name": "Kashi organic cereal promise isl& vanilla",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 1.4,
+            "Carbs": 78.8,
+            "Calories": 372.2
+        }
+    },
+    {
+        "Name": "Kashi organic cereal strawberry fields",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 0.7,
+            "Carbs": 83.5,
+            "Calories": 377.9
+        }
+    },
+    {
+        "Name": "Kelloggs rice krispies cereal brown rice whole grain",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 2.3,
+            "Carbs": 82.4,
+            "Calories": 381.5
+        }
+    },
+    {
+        "Name": "Kelloggs frosted flakes cereal multi grain cinnamon",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 1.4,
+            "Carbs": 86.3,
+            "Calories": 389.4
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural fit triple berry",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 6.3,
+            "Carbs": 75.6,
+            "Calories": 405.1
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural fit vanilla almond",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.8,
+            "Carbs": 72.6,
+            "Calories": 415.6
+        }
+    },
+    {
+        "Name": "Bear naked cereal honey almond protein",
+        "Nutrients": {
+            "Protein": 18.7,
+            "Fat": 25.0,
+            "Carbs": 48.6,
+            "Calories": 494.2
+        }
+    },
+    {
+        "Name": "Bear naked cereal cacao cashew",
+        "Nutrients": {
+            "Protein": 10.1,
+            "Fat": 19.7,
+            "Carbs": 63.5,
+            "Calories": 471.7
+        }
+    },
+    {
+        "Name": "Bear naked bites dark chocolate sea salt",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 20.7,
+            "Carbs": 57.1,
+            "Calories": 460.7
+        }
+    },
+    {
+        "Name": "Bear naked bites peanut butter honey",
+        "Nutrients": {
+            "Protein": 14.9,
+            "Fat": 22.6,
+            "Carbs": 53.2,
+            "Calories": 475.8
+        }
+    },
+    {
+        "Name": "Bear naked cereal chocolate granola",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 12.7,
+            "Carbs": 69.8,
+            "Calories": 431.1
+        }
+    },
+    {
+        "Name": "Bear naked cereal all natural granola fruit & nut",
+        "Nutrients": {
+            "Protein": 10.2,
+            "Fat": 19.8,
+            "Carbs": 65.0,
+            "Calories": 479.0
+        }
+    },
+    {
+        "Name": "Kelloggs all bran cereal original",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 3.3,
+            "Carbs": 73.7,
+            "Calories": 374.5
+        }
+    },
+    {
+        "Name": "Kashi golean cereal toasted berry crumble",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 8.2,
+            "Carbs": 66.7,
+            "Calories": 412.6
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crunch honey almond flax",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 9.9,
+            "Carbs": 66.9,
+            "Calories": 423.9
+        }
+    },
+    {
+        "Name": "Kashi golean cereal crisp toasted berry",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 8.2,
+            "Carbs": 66.7,
+            "Calories": 412.6
+        }
+    },
+    {
+        "Name": "Kelloggs apple jacks cereal",
+        "Nutrients": {
+            "Protein": 5.5,
+            "Fat": 3.8,
+            "Carbs": 87.6,
+            "Calories": 406.6
+        }
+    },
+    {
+        "Name": "Bear naked cereal chocolate almond",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 6.2,
+            "Carbs": 81.4,
+            "Calories": 414.2
+        }
+    },
+    {
+        "Name": "Kashi golean cereal chocolate coconut",
+        "Nutrients": {
+            "Protein": 19.0,
+            "Fat": 13.3,
+            "Carbs": 62.1,
+            "Calories": 444.1
+        }
+    },
+    {
+        "Name": "Bear naked cereal toasted coconut almond",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 10.2,
+            "Carbs": 72.1,
+            "Calories": 427.0
+        }
+    },
+    {
+        "Name": "Bear naked cereal toasted coconut",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 9.0,
+            "Carbs": 78.5,
+            "Calories": 428.6
+        }
+    },
+    {
+        "Name": "Kashi bear naked cereal honey nut",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 4.3,
+            "Carbs": 82.6,
+            "Calories": 403.5
+        }
+    },
+    {
+        "Name": "Keebler cereal chips deluxe rainbow",
+        "Nutrients": {
+            "Protein": 6.1,
+            "Fat": 11.0,
+            "Carbs": 78.5,
+            "Calories": 437.4
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size strawberry",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 1.6,
+            "Carbs": 84.6,
+            "Calories": 387.6
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal pumpkin spice",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 1.6,
+            "Carbs": 84.3,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kellogg mini-wheats pumpkin spice",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 1.6,
+            "Carbs": 84.3,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs corn flakes cereal",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 0.4,
+            "Carbs": 84.1,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs shredded wheat minis cereal bite size unfrosted",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 2.0,
+            "Carbs": 82.0,
+            "Calories": 392.4
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal blueberry vanilla",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 1.4,
+            "Carbs": 83.3,
+            "Calories": 381.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal cranberry yogurt",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.4,
+            "Carbs": 82.9,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kellogg mini-wheats bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal blueberry muffin",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 1.6,
+            "Carbs": 84.8,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal blueberry muffin",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 1.6,
+            "Carbs": 84.8,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal maple brown sugar",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 1.5,
+            "Carbs": 84.7,
+            "Calories": 387.1
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal maple brown sugar",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 1.5,
+            "Carbs": 84.7,
+            "Calories": 387.1
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal little bites original",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.7,
+            "Carbs": 84.3,
+            "Calories": 389.3
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal raspberry",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.8,
+            "Carbs": 82.1,
+            "Calories": 379.8
+        }
+    },
+    {
+        "Name": "Kellogg mini-wheats bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size unfrosted",
+        "Nutrients": {
+            "Protein": 11.6,
+            "Fat": 2.0,
+            "Carbs": 82.0,
+            "Calories": 392.4
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal little bites chocolate",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 3.4,
+            "Carbs": 81.4,
+            "Calories": 392.2
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal little bites chocolate",
+        "Nutrients": {
+            "Protein": 9.0,
+            "Fat": 3.4,
+            "Carbs": 81.4,
+            "Calories": 392.2
+        }
+    },
+    {
+        "Name": "Kelloggs corn flakes cereal",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 0.4,
+            "Carbs": 84.1,
+            "Calories": 370.0
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal strawberry apple",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 2.4,
+            "Carbs": 83.9,
+            "Calories": 383.6
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal strawberry apple",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 2.4,
+            "Carbs": 83.9,
+            "Calories": 383.6
+        }
+    },
+    {
+        "Name": "Kellogg cinnabon cereal",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 7.3,
+            "Carbs": 83.3,
+            "Calories": 421.7
+        }
+    },
+    {
+        "Name": "Kellogg all bran cereal original",
+        "Nutrients": {
+            "Protein": 13.4,
+            "Fat": 4.8,
+            "Carbs": 73.5,
+            "Calories": 390.8
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal berry",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 7.9,
+            "Carbs": 75.6,
+            "Calories": 415.5
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal",
+        "Nutrients": {
+            "Protein": 17.8,
+            "Fat": 1.8,
+            "Carbs": 73.4,
+            "Calories": 381.0
+        }
+    },
+    {
+        "Name": "Kellogg rice krispies",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 0.6,
+            "Carbs": 88.2,
+            "Calories": 384.2
+        }
+    },
+    {
+        "Name": "Kellogg corn flakes",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 0.4,
+            "Carbs": 84.4,
+            "Calories": 371.2
+        }
+    },
+    {
+        "Name": "Bear naked bites dark chocolate",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 20.7,
+            "Carbs": 57.1,
+            "Calories": 460.7
+        }
+    },
+    {
+        "Name": "Bear naked bites peanut butter",
+        "Nutrients": {
+            "Protein": 14.9,
+            "Fat": 22.6,
+            "Carbs": 53.2,
+            "Calories": 475.8
+        }
+    },
+    {
+        "Name": "Bear naked bites coconut vanilla cashew",
+        "Nutrients": {
+            "Protein": 9.8,
+            "Fat": 16.7,
+            "Carbs": 62.2,
+            "Calories": 438.3
+        }
+    },
+    {
+        "Name": "Bear naked bites dark chocolate trail mix",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 14.6,
+            "Carbs": 64.5,
+            "Calories": 429.4
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal frosted strawberry",
+        "Nutrients": {
+            "Protein": 8.7,
+            "Fat": 1.6,
+            "Carbs": 84.6,
+            "Calories": 387.6
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal bite size frosted",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.6,
+            "Carbs": 84.4,
+            "Calories": 388.8
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal crunch",
+        "Nutrients": {
+            "Protein": 6.6,
+            "Fat": 1.8,
+            "Carbs": 84.9,
+            "Calories": 382.2
+        }
+    },
+    {
+        "Name": "Nat vly oat clusters cereal choc",
+        "Nutrients": {
+            "Protein": 13.6,
+            "Fat": 8.5,
+            "Carbs": 72.9,
+            "Calories": 422.5
+        }
+    },
+    {
+        "Name": "Kashi whole health ready to eat cereal dark cocoa karma",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 2.1,
+            "Carbs": 82.1,
+            "Calories": 380.5
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal chocolate coconut",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 13.0,
+            "Carbs": 71.8,
+            "Calories": 442.6
+        }
+    },
+    {
+        "Name": "Gmills reeses puffs corn puffs cereal gnt sz",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 10.3,
+            "Carbs": 75.9,
+            "Calories": 423.9
+        }
+    },
+    {
+        "Name": "Gmills cheerios sweetened whl grn oat cereal strwbry family sz",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 5.4,
+            "Carbs": 78.6,
+            "Calories": 391.4
+        }
+    },
+    {
+        "Name": "Gmills cheerios sweetened whl grn oat cereal pumpkin spice",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 7.1,
+            "Carbs": 78.6,
+            "Calories": 406.7
+        }
+    },
+    {
+        "Name": "Gmills reeses puffs bunnies swt crnchy corn puffs cereal family sz",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 10.3,
+            "Carbs": 75.9,
+            "Calories": 423.9
+        }
+    },
+    {
+        "Name": "Gmills oatmeal crisp flakes cluster cereal hearty raisins",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 4.0,
+            "Carbs": 79.0,
+            "Calories": 384.4
+        }
+    },
+    {
+        "Name": "Gmills tiny toast sweetened cereal strwbry",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.7,
+            "Carbs": 78.6,
+            "Calories": 439.1
+        }
+    },
+    {
+        "Name": "Gmills cheerios sweetened crn oat cereal banana nut",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 5.4,
+            "Carbs": 78.6,
+            "Calories": 391.4
+        }
+    },
+    {
+        "Name": "Gmills reeses puffs bunnies swt crnchy corn puffs cereal",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 10.3,
+            "Carbs": 75.9,
+            "Calories": 423.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal peanut butter",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 20.6,
+            "Carbs": 61.5,
+            "Calories": 479.0
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal raspberry almond",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 4.5,
+            "Carbs": 81.2,
+            "Calories": 402.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal coconut almond",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 7.5,
+            "Carbs": 78.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal raspberry almond",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 4.5,
+            "Carbs": 81.2,
+            "Calories": 402.9
+        }
+    },
+    {
+        "Name": "Kelloggs special k cereal coconut almond",
+        "Nutrients": {
+            "Protein": 8.5,
+            "Fat": 7.5,
+            "Carbs": 78.0,
+            "Calories": 413.5
+        }
+    },
+    {
+        "Name": "Kelloggs cocoa krispies cereal",
+        "Nutrients": {
+            "Protein": 4.6,
+            "Fat": 2.6,
+            "Carbs": 88.3,
+            "Calories": 395.0
+        }
+    },
+    {
+        "Name": "Gmills girl scouts whl grn corn cereal caramel crnch",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 8.9,
+            "Carbs": 78.6,
+            "Calories": 408.9
+        }
+    },
+    {
+        "Name": "Bear naked cereal cinnamon",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 5.3,
+            "Carbs": 80.9,
+            "Calories": 404.9
+        }
+    },
+    {
+        "Name": "Gmills cheerios cereal rte pumpkin spice",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 7.1,
+            "Carbs": 78.6,
+            "Calories": 406.7
+        }
+    },
+    {
+        "Name": "Gmills girl scouts whl grn corn cereal thin mints",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 10.7,
+            "Carbs": 78.6,
+            "Calories": 425.1
+        }
+    },
+    {
+        "Name": "Nat vly gran crnch oats n hny",
+        "Nutrients": {
+            "Protein": 7.4,
+            "Fat": 16.7,
+            "Carbs": 70.4,
+            "Calories": 461.5
+        }
+    },
+    {
+        "Name": "Kashi golean cereal peanut butter",
+        "Nutrients": {
+            "Protein": 18.0,
+            "Fat": 17.1,
+            "Carbs": 58.8,
+            "Calories": 461.1
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal pumpkin spice",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 1.6,
+            "Carbs": 84.3,
+            "Calories": 388.0
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal vanilla latte",
+        "Nutrients": {
+            "Protein": 9.1,
+            "Fat": 1.6,
+            "Carbs": 84.1,
+            "Calories": 387.2
+        }
+    },
+    {
+        "Name": "Kelloggs mini-wheats cereal little bites original",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 1.7,
+            "Carbs": 84.3,
+            "Calories": 389.3
+        }
+    },
+    {
+        "Name": "Kelloggs raisin bran cereal banana",
+        "Nutrients": {
+            "Protein": 6.3,
+            "Fat": 4.2,
+            "Carbs": 81.7,
+            "Calories": 389.8
+        }
+    },
+    {
+        "Name": "Kashi golean cereal original",
+        "Nutrients": {
+            "Protein": 16.7,
+            "Fat": 5.9,
+            "Carbs": 71.4,
+            "Calories": 405.5
+        }
+    },
+    {
+        "Name": "Kashi golean cereal honey almond flax",
+        "Nutrients": {
+            "Protein": 16.8,
+            "Fat": 9.9,
+            "Carbs": 66.9,
+            "Calories": 423.9
+        }
+    },
+    {
+        "Name": "Atmns gold grn free gran tstd coconut almond",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 46.7,
+            "Carbs": 36.7,
+            "Calories": 620.3
+        }
+    },
+    {
+        "Name": "Nat vly prtn gran oats n hny",
+        "Nutrients": {
+            "Protein": 20.0,
+            "Fat": 12.0,
+            "Carbs": 62.0,
+            "Calories": 436.0
+        }
+    },
+    {
+        "Name": "Nat vly oat clusters cereal honey",
+        "Nutrients": {
+            "Protein": 13.6,
+            "Fat": 6.8,
+            "Carbs": 74.6,
+            "Calories": 414.0
+        }
+    },
+    {
+        "Name": "Cascadian farm organic dark chocolate almond granola cereal",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 12.9,
+            "Carbs": 72.6,
+            "Calories": 445.3
+        }
+    },
+    {
+        "Name": "Cascadian farm organic fruitful os breakfast cereal",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.0,
+            "Carbs": 86.5,
+            "Calories": 403.6
+        }
+    },
+    {
+        "Name": "Cascadian farm organic berry vanilla puffs gluten free breakfast cereal",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 3.5,
+            "Carbs": 86.0,
+            "Calories": 394.3
+        }
+    },
+    {
+        "Name": "Cascadian farm organic french vanilla almond granola cereal",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 12.5,
+            "Carbs": 75.0,
+            "Calories": 440.9
+        }
+    }
+]

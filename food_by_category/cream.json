@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Creme fraiche madagascar vanilla cultured cream, creme fraiche",
+        "Name": "Creme fraiche madagascar vanilla cultured cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 39.3,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Mexican style sour cream, mexican style",
+        "Name": "Mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Light sour cream, light",
+        "Name": "Light sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Half and half",
+        "Name": "Half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Thick & rich grade a sour cream, thick & rich",
+        "Name": "Thick & rich grade a sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Chive onion sour cream, chive onion",
+        "Name": "Chive onion sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Chive onion sour cream dip, chive onion",
+        "Name": "Chive onion sour cream dip",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Half and half ultra-pasteurized",
+        "Name": "Half & half ultra-pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Light cream, light cream",
+        "Name": "Light cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Milk, milk",
+        "Name": "Milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Zesty buffalo sour cream dip, zesty buffalo",
+        "Name": "Zesty buffalo sour cream dip",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Original sweetened grade a dairy whipped topping, original",
+        "Name": "Original sweetened grade a dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Sweet cream half & half, sweet cream",
+        "Name": "Sweet cream half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Light cream, light",
+        "Name": "Light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Fat free grade a ultra-pasteurized half & half, half & half",
+        "Name": "Fat free grade a ultra-pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Half & half grade a ultra-pasteurized, half & half",
+        "Name": "Half & half grade a ultra-pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Original whipped light cream, original",
+        "Name": "Original whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice whipped topping, pumpkin spice",
+        "Name": "Pumpkin spice whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Peppermint whipped topping, peppermint",
+        "Name": "Peppermint whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Sour cream old fashioned-style glazed cake donut, sour cream",
+        "Name": "Sour cream old fashioned-style glazed cake donut",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 19.3,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Extra creamy whipped cream, extra creamy",
+        "Name": "Extra creamy whipped cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Original sour cream, original",
+        "Name": "Original sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Extra creamy whipped topping, extra creamy",
+        "Name": "Extra creamy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Original whipped topping, original",
+        "Name": "Original whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Sour cream plant-based alternative, sour cream",
+        "Name": "Sour cream plant-based alternative",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Whole milk classic sour cream, whole milk classic",
+        "Name": "Whole milk classic sour cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Grade a blend of milk & cream half & half, milk & cream",
+        "Name": "Grade a blend of milk & cream half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Sweetened light whipped cream, sweetened light",
+        "Name": "Sweetened light whipped cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Almond and coconut based dairy free sour cream alternative, almond and coconut",
+        "Name": "Almond & coconut based dairy free sour cream alternative",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Crema hondurena soft blend dairy spread, crema hondurena",
+        "Name": "Crema hondurena soft blend dairy spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.1,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Grade a light cream, light",
+        "Name": "Grade a light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Sweetened vanilla whipped light cream, sweetened vanilla",
+        "Name": "Sweetened vanilla whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Vanilla coconut cream & almondmilk, vanilla",
+        "Name": "Vanilla coconut cream & almondmilk",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.0,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Unsweetened coconut cream & almondmilk, unsweetened",
+        "Name": "Unsweetened coconut cream & almondmilk",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Weis, grade a light sour cream, light",
+        "Name": "Weis, grade a light sour cream",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 8.1,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Weis quality, grade a light sour cream, light",
+        "Name": "Weis quality, grade a light sour cream",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 8.1,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Daisy brand, light sour cream",
+        "Name": "Daisy br&, light sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Bashas', light sour cream",
+        "Name": "Bashas, light sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Roundy's, cultured sour cream",
+        "Name": "Roundys, cultured sour cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Roundy's, extra creamy whipped topping",
+        "Name": "Roundys, extra creamy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Nancy's, organic cultured sour cream",
+        "Name": "Nancys, organic cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Nancy's, organic sour cream",
+        "Name": "Nancys, organic sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Yoder's, squeezable sour cream",
+        "Name": "Yoders, squeezable sour cream",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 19.2,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Nancy's, cultured sour cream",
+        "Name": "Nancys, cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Fresh grass[tilde]fed heavy cream",
+        "Name": "Fresh grassfed heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Friendly farms, half & half, made with all natural milk and cream",
+        "Name": "Friendly farms, half & half, made with all natural milk & cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Rich & creamy half and half",
+        "Name": "Rich & creamy half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Rich & creamy fat-free half and half",
+        "Name": "Rich & creamy fat-free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Land o lakes, lowfat half and half",
+        "Name": "L& o lakes, lowfat half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.0,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Land o lakes, half and half ultra-pasteurized milk and cream",
+        "Name": "L& o lakes, half & half ultra-pasteurized milk & cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Land o lakes, half & half",
+        "Name": "L& o lakes, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Land o lakes, rich & creamy light cream",
+        "Name": "L& o lakes, rich & creamy light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Land o lakes, rich & creamy heavy whipping cream",
+        "Name": "L& o lakes, rich & creamy heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "365 everyday value, heavy cream",
+        "Name": "Everyday value, heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic low fat cream, sour",
+        "Name": "Everyday value, organic low fat cream, sour",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "365 everyday value, half & half",
+        "Name": "Everyday value, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "365 everyday value, light-cream",
+        "Name": "Everyday value, light-cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Food lion, half & half milk and cream",
+        "Name": "Food lion, half & half milk & cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Rosenberger's, half and half",
+        "Name": "Rosenbergers, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Farmland fresh dairies, heavy cream",
+        "Name": "Farml& fresh dairies, heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Ultra-pasteurized half-and-half",
+        "Name": "Ultra-pasteurized half-&-half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Crema mexicana \"mexican style\" cream product",
+        "Name": "Crema mexicana mexican style cream product",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Roundy's, ultra-pasteurized sweetened whipped topping, original",
+        "Name": "Roundys, ultra-pasteurized sweetened whipped topping, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Dean's, heavy whipping cream",
+        "Name": "Deans, heavy whipping cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 40.0,
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "Name": "Dean's, half & half",
+        "Name": "Deans, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Dean's, country fresh, half & half cream",
+        "Name": "Deans, country fresh, half & half cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Dean's, ultra-pasteurized half & half",
+        "Name": "Deans, ultra-pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Roundy's, ultra-pasteurized homogenized half & half",
+        "Name": "Roundys, ultra-pasteurized homogenized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Roundy's, fat free ultra-pasteurized half & half",
+        "Name": "Roundys, fat free ultra-pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Roundy's, grade a ultra-pasteurized homogenized half & half",
+        "Name": "Roundys, grade a ultra-pasteurized homogenized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Sour cream with chives and onions",
+        "Name": "Sour cream with chives & onions",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Hood, half and half",
+        "Name": "Hood, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Ultra-pasteurized half and half",
+        "Name": "Ultra-pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Key food, half and half",
+        "Name": "Key food, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Cream-o-land, half and half",
+        "Name": "Cream-o-l&, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Cream-o-land, half & half",
+        "Name": "Cream-o-l&, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Key food, fat free half and half",
+        "Name": "Key food, fat free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Rosenberger's, half & half",
+        "Name": "Rosenbergers, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Weis quality, grade a light cream ultra-pasteurized homogenized, light",
+        "Name": "Weis quality, grade a light cream ultra-pasteurized homogenized",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Ahold, nature's promise, organic half & half",
+        "Name": "Ahold, natures promise, organic half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Grade a half half and ultra-pasteurized",
+        "Name": "Grade a half half & ultra-pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Hlf-and-half ultra- pasteurized",
+        "Name": "Hlf-&-half ultra- pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Half and half milk milk",
+        "Name": "Half & half milk milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "Trader joe's, half & half",
+        "Name": "Trader joes, half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Half and half cream",
+        "Name": "Half & half cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Fat free half and half",
+        "Name": "Fat free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Ultra-pasteurized fat free half and half",
+        "Name": "Ultra-pasteurized fat free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Hand-made cheese",
+        "Name": "H&-made cheese",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 35.7,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Half-and-half ultra-pasteurized",
+        "Name": "Half-&-half ultra-pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Fresh half and half",
+        "Name": "Fresh half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Fresh half-and-half",
+        "Name": "Fresh half-&-half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "The brooklyn creamery company, single cream, extra thick, a thick and rich spoonable cream",
+        "Name": "The brooklyn creamery company, single cream, extra thick, a thick & rich spoonable cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 21.3,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Half and half coffee creamer",
+        "Name": "Half & half coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "Half & half cream and milk",
+        "Name": "Half & half cream & milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Light sour cream smooth & creamy, sour",
+        "Name": "Light sour cream smooth & creamy",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 8.3,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Original whipped topping made with real cream, original",
+        "Name": "Original whipped topping made with real cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Smooth & creamy all natural sour cream, smooth & creamy",
+        "Name": "Smooth & creamy all natural sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Rich and creamy mexican style sour cream, rich and creamy",
+        "Name": "Rich & creamy mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "French-style cultured cream, french-style",
+        "Name": "French-style cultured cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 39.3,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "Fat-free rich and creamy half and half",
+        "Name": "Fat-free rich & creamy half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Fat-free half and half",
+        "Name": "Fat-free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Sweetened extra creamy whipped topping, sweetened",
+        "Name": "Sweetened extra creamy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Extra creamy sweetened whipped topping, extra creamy",
+        "Name": "Extra creamy sweetened whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Original sweetened ultra pasteurized whipped topping, original",
+        "Name": "Original sweetened ultra pasteurized whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Original dairy whipped topping, original",
+        "Name": "Original dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Extra creamy dairy whipped topping, extra creamy",
+        "Name": "Extra creamy dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Sweet cream coffee creamer, sweet cream",
+        "Name": "Sweet cream coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Grade a light sour cream, light",
+        "Name": "Grade a light sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Lite cultured sour cream, lite",
+        "Name": "Lite cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 8.3,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Lite sour cream, lite",
+        "Name": "Lite sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Rich & creamy heavy whipping cream, rich & creamy",
+        "Name": "Rich & creamy heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Lactose-free half and half",
+        "Name": "Lactose-free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "All natural smooth & creamy light sour cream, light sour",
+        "Name": "All natural smooth & creamy light sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Sour cream squeeze, sour cream",
+        "Name": "Sour cream squeeze",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Bacon & cheddar sour cream dip, bacon & cheddar",
+        "Name": "Bacon & cheddar sour cream dip",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Original grade a dairy whipped topping, original",
+        "Name": "Original grade a dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4446,7 +4446,7 @@
         }
     },
     {
-        "Name": "Peanut butter cup dairy whipped topping, peanut butter cup",
+        "Name": "Peanut butter cup dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Fat free half and half ultra pasteurized",
+        "Name": "Fat free half & half ultra pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Ultra pasteurized half and half",
+        "Name": "Ultra pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -4482,7 +4482,7 @@
         }
     },
     {
-        "Name": "Rich & creamy ultra pasteurized half and half",
+        "Name": "Rich & creamy ultra pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -4509,7 +4509,7 @@
         }
     },
     {
-        "Name": "Grade a half + half",
+        "Name": "Grade a half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Caramel cream dessert, caramel cream",
+        "Name": "Caramel cream dessert",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 15.2,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Rich and creamy mexican style sour cream",
+        "Name": "Rich & creamy mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Mexican style rich and creamy sour cream",
+        "Name": "Mexican style rich & creamy sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Half and half real milk and cream",
+        "Name": "Half & half real milk & cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "Light coconut whipped topping, light",
+        "Name": "Light coconut whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Lowfat half and half",
+        "Name": "Lowfat half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.0,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Rich and creamy fat-free half and half, rich and creamy",
+        "Name": "Rich & creamy fat-free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Rich and creamy heavy whipping cream, rich and creamy",
+        "Name": "Rich & creamy heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Chocolate whipped topping, chocolate",
+        "Name": "Chocolate whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Cane sugar sweetened real whipped light cream, cane sugar sweetened",
+        "Name": "Cane sugar sweetened real whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Chive onion sour cream top the tater, chive onion sour cream",
+        "Name": "Chive onion sour cream top the tater",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Heavy cream, heavy cream",
+        "Name": "Heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Sweet cream all-natural coffee creamer, sweet cream",
+        "Name": "Sweet cream all-natural coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Med crema table cream, med crema",
+        "Name": "Med crema table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Coconut organic heavy cream, coconut",
+        "Name": "Coconut organic heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 30.0,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Onion flavored cultured sour cream, onion",
+        "Name": "Onion flavored cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "Reddi wip, dairy whipped topping, extra creamy, extra creamy",
+        "Name": "Reddi wip, dairy whipped topping, extra creamy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Reddi wip, real whipped cream, original, original",
+        "Name": "Reddi wip, real whipped cream, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Half & half coffee creamers, half & half",
+        "Name": "Half & half coffee creamers",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 11.1,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Half & half real milk and creamers",
+        "Name": "Half & half real milk & creamers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -4878,7 +4878,7 @@
         }
     },
     {
-        "Name": "Original whipped light real cream, original",
+        "Name": "Original whipped light real cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Vanilla plant based half almond milk & half coconut cream, vanilla",
+        "Name": "Vanilla plant based half almond milk & half coconut cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Unsweetened plant based half almond milk & half coconut cream, unsweetened",
+        "Name": "Unsweetened plant based half almond milk & half coconut cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Vanilla calm pot de creme french style dessert, vanilla",
+        "Name": "Vanilla calm pot de creme french style dessert",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 17.9,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Original plant-based half & half, original",
+        "Name": "Original plant-based half & half",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.7,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Extra creamy premium sour cream, extra creamy",
+        "Name": "Extra creamy premium sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 30.0,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Creamy oatmilk & coconutmilk dairy free half & half alternative, creamy oatmilk & coconutmilk",
+        "Name": "Creamy oatmilk & coconutmilk dairy free half & half alternative",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Cashewmilk coconut cream organic dairy-free half & half, cashewmilk coconut cream",
+        "Name": "Cashewmilk coconut cream organic dairy-free half & half",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 5.0,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Organic creamed coconut, creamed",
+        "Name": "Organic creamed coconut",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 65.8,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Sweet foam foamed dairy blend, sweet foam",
+        "Name": "Sweet foam foamed dairy blend",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.3,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Mexicana table cream, mexicana",
+        "Name": "Mexicana table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Light sour cream, light sour",
+        "Name": "Light sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Squeeze sour cream, squeeze",
+        "Name": "Squeeze sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Probiotic organic sour cream, sour",
+        "Name": "Probiotic organic sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Crema mexicana agria sour cream, crema mexicana",
+        "Name": "Crema mexicana agria sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Salvadoran style sour cream, salvadoran style",
+        "Name": "Salvadoran style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5094,7 +5094,7 @@
         }
     },
     {
-        "Name": "Rich and creamy fat-free, rich and creamy",
+        "Name": "Rich & creamy fat-free",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Half & half creamers, half & half",
+        "Name": "Half & half creamers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Ultra-pasteurized 100% real milk and light cream",
+        "Name": "Ultra-pasteurized 100% real milk & light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Rich & creamy fat free half & half, rich & creamy",
+        "Name": "Rich & creamy fat free half & half",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.0,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Original half & half, original",
+        "Name": "Original half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Lite table cream, lite",
+        "Name": "Lite table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.3,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Sour cream, sour",
+        "Name": "Sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Caramel half & half, caramel",
+        "Name": "Caramel half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Chipotle mexican style sour cream, chipotle mexican style",
+        "Name": "Chipotle mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 15.0,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Creamy oatmilk & coconutmilk half & half, creamy oatmilk & coconutmilk",
+        "Name": "Creamy oatmilk & coconutmilk half & half",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Sour cream crema mexicana, sour cream",
+        "Name": "Sour cream crema mexicana",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5274,7 +5274,7 @@
         }
     },
     {
-        "Name": "Extra creamy sweetened dairy whipped topping, extra creamy",
+        "Name": "Extra creamy sweetened dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Spicy jalapeno mexican style sour cream, spicy jalapeno mexican style",
+        "Name": "Spicy jalapeno mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Vanilla calm french style dessert, vanilla",
+        "Name": "Vanilla calm french style dessert",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 17.9,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Crema mexicana table cream, crema mexicana",
+        "Name": "Crema mexicana table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Almond and coconut based sour cream alternative, almond and coconut",
+        "Name": "Almond & coconut based sour cream alternative",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Crema salvadorena sour cream, crema salvadorena",
+        "Name": "Crema salvadorena sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Rich and creamy half and half",
+        "Name": "Rich & creamy half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 5.0,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Half & half coffee creamer singles, half & half",
+        "Name": "Half & half coffee creamer singles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Rich and creamy heavy whipping cream",
+        "Name": "Rich & creamy heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Rich & creamy ultra-pasteurized fat free half & half, rich & creamy",
+        "Name": "Rich & creamy ultra-pasteurized fat free half & half",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 0.0,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Creme de leite table cream, creme de leite",
+        "Name": "Creme de leite table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 26.7,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Squeeze, sour cream, sour",
+        "Name": "Squeeze, sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Spicy jalapeno sour cream, spicy jalapeno",
+        "Name": "Spicy jalapeno sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5499,7 +5499,7 @@
         }
     },
     {
-        "Name": "Chipotle sour cream, chipotle",
+        "Name": "Chipotle sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 15.0,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Caramel cheesecake layered cream dessert, caramel cheesecake",
+        "Name": "Caramel cheesecake layered cream dessert",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 20.2,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Key lime pie with graham crackers crust layered cream dessert, key lime pie",
+        "Name": "Key lime pie with graham crackers crust layered cream dessert",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Lite grade a sour cream, lite",
+        "Name": "Lite grade a sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.7,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Creamy roasted tomato soup with pesto, creamy roasted tomato",
+        "Name": "Creamy roasted tomato soup with pesto",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Almond & coconut non-dairy whipped topping, almond & coconut",
+        "Name": "Almond & coconut non-dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "A2 whipping cream",
+        "Name": "Whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "A2 half & half",
+        "Name": "Half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Heavy whipping cream, cream",
+        "Name": "Heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Crema oaxaquena thick & creamy mexican style sour cream, crema oaxaquena",
+        "Name": "Crema oaxaquena thick & creamy mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Weis, grade a light sour cream, light, light",
+        "Name": "Weis, grade a light sour cream, light",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 8.1,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Weis quality, grade a light sour cream, light, light",
+        "Name": "Weis quality, grade a light sour cream, light",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 8.1,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "All natural sour cream, sour",
+        "Name": "All natural sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Salted whipped butter, salted",
+        "Name": "Salted whipped butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 77.8,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Sweetened sugar-free whipped heavy cream, sweetened",
+        "Name": "Sweetened sugar-free whipped heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Mexican style chipotle sour cream, mexican style chipotle",
+        "Name": "Mexican style chipotle sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 15.0,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Fat free rich & creamy half & half, rich & creamy",
+        "Name": "Fat free rich & creamy half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Almond and coconut based sour cream, almond and coconut",
+        "Name": "Almond & coconut based sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Fat free ultra pasteurized half and half",
+        "Name": "Fat free ultra pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Brown sugar & vanilla sweetened whipped light cream, brown sugar & vanilla",
+        "Name": "Brown sugar & vanilla sweetened whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Media crema lite table cream, media crema lite",
+        "Name": "Media crema lite table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.3,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Vanilla flavor half almond milk & half coconut cream, vanilla",
+        "Name": "Vanilla flavor half almond milk & half coconut cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Peppermint flavored whipped topping, peppermint",
+        "Name": "Peppermint flavored whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Pumpkin flavored whipped topping, pumpkin",
+        "Name": "Pumpkin flavored whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -5823,7 +5823,7 @@
         }
     },
     {
-        "Name": "Light fresh cream, light",
+        "Name": "Light fresh cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Breakstone's, sour cream",
+        "Name": "Breakstones, sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Breakstone's, fat free sour cream",
+        "Name": "Breakstones, fat free sour cream",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.0,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Lite sour cream grade a ",
+        "Name": "Lite sour cream grade a",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 8.3,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "100% natural grade a hampshire sour cream, sour cream",
+        "Name": "100% natural grade a hampshire sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Crema mexicana \"\"mexican style\"\" cream product",
+        "Name": "Crema mexicana mexican style cream product",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Half & half ",
+        "Name": "Half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Heavy whipping cream ",
+        "Name": "Heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Hlf-and-half ultra- pasteurized ",
+        "Name": "Hlf-&-half ultra- pasteurized",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Chocolate hazelnut filling no bake cheesecake, chocolate hazelnut",
+        "Name": "Chocolate hazelnut filling no bake cheesecake",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 17.4,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Caramel dairy whipped topping, caramel",
+        "Name": "Caramel dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Madagascar vanilla creme fraiche, madagascar vanilla",
+        "Name": "Madagascar vanilla creme fraiche",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 39.3,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "Thick & rich sour cream, thick & rich",
+        "Name": "Thick & rich sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Original sweetened whipped light cream, original sweetened",
+        "Name": "Original sweetened whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Crema mexicana sour cream, crema mexicana",
+        "Name": "Crema mexicana sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Half & half singles coffee creamer, half & half",
+        "Name": "Half & half singles coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Espresso feisty french-style dessert, espresso",
+        "Name": "Espresso feisty french-style dessert",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 17.9,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Fresh salvadorian sour cream, fresh salvadorian",
+        "Name": "Fresh salvadorian sour cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 17.9,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Salvadorian style sour cream, salvadorian style",
+        "Name": "Salvadorian style sour cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 17.9,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Salvadoran style cream, salvadoran style",
+        "Name": "Salvadoran style cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Honduran style cream, honduran style",
+        "Name": "Honduran style cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Vanilla cream half & half, vanilla cream",
+        "Name": "Vanilla cream half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Central american style crema salvadorena, central american style",
+        "Name": "Central american style crema salvadorena",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 19.4,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Creme fraiche french-style cultured cream, creme fraiche",
+        "Name": "Creme fraiche french-style cultured cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 39.3,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Roundy's, ultra-pasteurized sweetened whipped topping, original, original",
+        "Name": "Roundys, ultra-pasteurized sweetened whipped topping, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Half and half coffee creamer, half and half",
+        "Name": "Half & half coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Honduran style sour cream, honduran style",
+        "Name": "Honduran style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Picante mexican-style sour cream, picante",
+        "Name": "Picante mexican-style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Original mexican-style sour cream, original",
+        "Name": "Original mexican-style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Original whipped dairy topping, original",
+        "Name": "Original whipped dairy topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Organic coconut cream, coconut",
+        "Name": "Organic coconut cream",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 21.0,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Original sweetened dairy whipped topping, original",
+        "Name": "Original sweetened dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Crema salvadorena grade a sour cream, crema salvadorena",
+        "Name": "Crema salvadorena grade a sour cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Crema mexicana grade a sour cream, crema mexicana",
+        "Name": "Crema mexicana grade a sour cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Vanilla cream flavored advanced nutrition meal replacement shake, vanilla cream",
+        "Name": "Vanilla cream flavored advanced nutrition meal replacement shake",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.8,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Zero sugar dairy whipped topping, zero sugar",
+        "Name": "Zero sugar dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 30.0,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Original sweetened dairy whipped topping, original sweetened",
+        "Name": "Original sweetened dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Hannaford, half & half, original, original",
+        "Name": "Hannaford, half & half, original",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Puck, filled creme, honey, honey",
+        "Name": "Puck, filled creme, honey",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Organic valley, ultra pasteurized grade a half & half cream, hazelnut, hazelnut",
+        "Name": "Organic valley, ultra pasteurized grade a half & half cream, hazelnut",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Weis quality, grade a original half & half ultra-pasteurized homogenized, light, light",
+        "Name": "Weis quality, grade a original half & half ultra-pasteurized homogenized, light",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Weis quality, half & half, original, original",
+        "Name": "Weis quality, half & half, original",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Weis quality, grade a light cream ultra-pasteurized homogenized, light, light",
+        "Name": "Weis quality, grade a light cream ultra-pasteurized homogenized, light",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Fat free half and half, french vanilla",
+        "Name": "Fat free half & half, french vanilla",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "Organic sour cream, organic",
+        "Name": "Organic sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Light whipped topping, light",
+        "Name": "Light whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Cilantro lime mexican style sour cream, cilantro lime",
+        "Name": "Cilantro lime mexican style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Reddi wip, real whipped cream, chocolate, chocolate",
+        "Name": "Reddi wip, real whipped cream, chocolate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 19.2,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Whipped topping, original ",
+        "Name": "Whipped topping, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Original extra creamy dairy whipped topping, original",
+        "Name": "Original extra creamy dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Signature real cream plain frappe base, plain frappe",
+        "Name": "Signature real cream plain frappe base",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 4.0,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Rich & creamy ultra pasteurized half and half, rich & creamy",
+        "Name": "Rich & creamy ultra pasteurized half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Half & half ultra pasteurized homogenized milk, half & half",
+        "Name": "Half & half ultra pasteurized homogenized milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Original extra creamy whipped cream, original",
+        "Name": "Original extra creamy whipped cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavored whipped topping, pumpkin spice",
+        "Name": "Pumpkin spice flavored whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Half & half liquid coffee creamer singles, half & half",
+        "Name": "Half & half liquid coffee creamer singles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Half & half ultra-pasteurized soda, half & half",
+        "Name": "Half & half ultra-pasteurized soda",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Old style heavy cream, old style",
+        "Name": "Old style heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Sweetened dairy whipped topping, sweetened",
+        "Name": "Sweetened dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Creamy whipped topping, creamy",
+        "Name": "Creamy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Sweetened dairy whipped topping cream, sweetened",
+        "Name": "Sweetened dairy whipped topping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Mexican-style sour cream, mexican-style",
+        "Name": "Mexican-style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 23.3,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Sweetened whipped light cream, sweetened",
+        "Name": "Sweetened whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 25.0,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavored whipping cream, pumpkin spice",
+        "Name": "Pumpkin spice flavored whipping cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 30.0,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Vanilla bourbon whipping cream, vanilla bourbon",
+        "Name": "Vanilla bourbon whipping cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 30.0,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Decadent chocolate whipping cream, decadent chocolate",
+        "Name": "Decadent chocolate whipping cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 30.0,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Light ultra-pasteurized cream, light",
+        "Name": "Light ultra-pasteurized cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Salvadorean style sour cream, salvadorean style",
+        "Name": "Salvadorean style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Sabor olanchano acidified sour cream, sabor olanchano",
+        "Name": "Sabor olanchano acidified sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Half and half ultra-pasteurized milk",
+        "Name": "Half & half ultra-pasteurized milk",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Light coffee cream, light",
+        "Name": "Light coffee cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Regular sour cream, regular",
+        "Name": "Regular sour cream",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Dairy whipped topping, extra creamy, extra creamy",
+        "Name": "Dairy whipped topping, extra creamy",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Real whipped cream, original, original",
+        "Name": "Real whipped cream, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Real whipped cream, chocolate, chocolate",
+        "Name": "Real whipped cream, chocolate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 19.2,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Sugar-free whipped heavy cream, sugar-free",
+        "Name": "Sugar-free whipped heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Onion & chive fire-roasted sour cream topping, onion & chive",
+        "Name": "Onion & chive fire-roasted sour cream topping",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 23.3,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Smooth & creamy natural sour cream, smooth & creamy",
+        "Name": "Smooth & creamy natural sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Old fashioned heavy whipping cream, old fashioned",
+        "Name": "Old fashioned heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Homemade vanilla whipping cream, homemade vanilla",
+        "Name": "Homemade vanilla whipping cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 30.0,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Cultured sour cream, cultured sour",
+        "Name": "Cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Crema guatemalteca grade a cultured cream, crema guatemalteca",
+        "Name": "Crema guatemalteca grade a cultured cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Hampshire sour cream, hampshire",
+        "Name": "Hampshire sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Peaches & crema flavored dessert, peaches & crema",
+        "Name": "Peaches & crema flavored dessert",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 15.0,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Strawberries & crema fresas con crema dessert, fresas con crema",
+        "Name": "Strawberries & crema fresas con crema dessert",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 15.0,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Cilantro lime flavored sour cream topping, cilantro lime",
+        "Name": "Cilantro lime flavored sour cream topping",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 23.3,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Organic heavy whipping cream, organic",
+        "Name": "Organic heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "French onion chip'n dip real sour cream, french onion",
+        "Name": "French onion chip& dip real sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7011,7 +7011,7 @@
         }
     },
     {
-        "Name": "Crema mexicana grade a cultured sour cream, crema mexicana",
+        "Name": "Crema mexicana grade a cultured sour cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Crema hondurena cultured cream, crema hondurena",
+        "Name": "Crema hondurena cultured cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Maple vanilla real whipped light cream, maple vanilla",
+        "Name": "Maple vanilla real whipped light cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Half & half coffee creamer, half & half",
+        "Name": "Half & half coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Rich & creamy sour cream, rich & creamy",
+        "Name": "Rich & creamy sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Light organic sour cream, light",
+        "Name": "Light organic sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Half and half uht-processed creamers, half and half",
+        "Name": "Half & half uht-processed creamers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 11.1,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Garlic & fine herbs cooking cream, garlic & fine herbs",
+        "Name": "Garlic & fine herbs cooking cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 18.3,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "Light table cream, light",
+        "Name": "Light table cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Sweetened extra creamy dairy whipped topping, sweetened extra creamy",
+        "Name": "Sweetened extra creamy dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Half & half, fresh, half & half",
+        "Name": "Half & half, fresh",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Sweetened sugar free whipped heavy cream, sweetened",
+        "Name": "Sweetened sugar free whipped heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Old fashioned fresh heavy whipping cream, old fashioned",
+        "Name": "Old fashioned fresh heavy whipping cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Cafe style half & half, cafe style",
+        "Name": "Cafe style half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Organic cafe style half & half, cafe style",
+        "Name": "Organic cafe style half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Sour natural pasteurized cream, sour",
+        "Name": "Sour natural pasteurized cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Half & half milk & cream, half & half",
+        "Name": "Half & half milk & cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Sour cream dairy free alternative, sour cream",
+        "Name": "Sour cream dairy free alternative",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 12.5,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Central american style cream, central american style",
+        "Name": "Central american style cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Original la crema del pueblo, original",
+        "Name": "Original la crema del pueblo",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Mexican style cultured sour cream, mexican style",
+        "Name": "Mexican style cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Fat free sour cream, fat free",
+        "Name": "Fat free sour cream",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Half & half organic uht, half & half",
+        "Name": "Half & half organic uht",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -7299,7 +7299,7 @@
         }
     },
     {
-        "Name": "Sweetened fat free half & half, sweetened",
+        "Name": "Sweetened fat free half & half",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Sweetened whipped heavy cream, sweetened",
+        "Name": "Sweetened whipped heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Nitro creamer nitrogen-infused coffee creamer, nitro creamer",
+        "Name": "Nitro creamer nitrogen-infused coffee creamer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.0,
@@ -7335,7 +7335,7 @@
         }
     },
     {
-        "Name": "Original extra creamy dairy whipped topping, original extra creamy",
+        "Name": "Original extra creamy dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Fat free dairy whipped topping, fat free",
+        "Name": "Fat free dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Caramel topper dairy whipped topping, caramel topper",
+        "Name": "Caramel topper dairy whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 20.0,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Original extra creamy whipped cream, original extra creamy",
+        "Name": "Original extra creamy whipped cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Fat free whipped topping, fat free",
+        "Name": "Fat free whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Pumpkin whipped topping, pumpkin",
+        "Name": "Pumpkin whipped topping",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Crema mexicana mexican style cultured sour cream, crema mexicana",
+        "Name": "Crema mexicana mexican style cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Creme fraiche rich sour cream, creme fraiche",
+        "Name": "Creme fraiche rich sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 36.7,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Smackin' whip",
+        "Name": "Smackin whip",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 14.3,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Heavy cream, heavy",
+        "Name": "Heavy cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 40.0,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Just like sour cream alternative, just like sour",
+        "Name": "Just like sour cream alternative",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.7,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Extra creamy oatmilk, extra creamy",
+        "Name": "Extra creamy oatmilk",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 3.8,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Central american style cultured sour cream, central american style",
+        "Name": "Central american style cultured sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "French-style gourmet whipped creme, french-style gourmet",
+        "Name": "French-style gourmet whipped creme",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Richlands dairy and creamery",
+        "Name": "Richl&s dairy & creamery",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 11.7,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Crema hondurena cultured soft blend spread, crema hondurena",
+        "Name": "Crema hondurena cultured soft blend spread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 21.4,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Tropical cultured cream, 14 oz",
+        "Name": "Tropical cultured cream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 25.0,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Itamb table cream, 10.5 oz",
+        "Name": "Itamb table cream",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 25.2,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Creamy original oatmilk + protein plant-based milk",
+        "Name": "Creamy original oatmilk & protein plant-based milk",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 2.5,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Farmland fresh dairies heavy cream, one pint",
+        "Name": "Farml& fresh dairies heavy cream, one pint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 33.3,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Farmland fresh dairies light cream, one quart",
+        "Name": "Farml& fresh dairies light cream, one quart",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 20.0,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Goat milk stage 3 for toddlers 1 year & up toddler drink",
+        "Name": "Goat milk stage for toddlers year & up toddler drink",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 26.2,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Salvadorean style sour cream, salvadorean style sour",
+        "Name": "Salvadorean style sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Sour all natural cream, sour",
+        "Name": "Sour all natural cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Triple churned & extra creamy sour cream, triple churned & extra creamy",
+        "Name": "Triple churned & extra creamy sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Mexican cultured cream, mexican",
+        "Name": "Mexican cultured cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Crema salvadorina sour cream, crema salvadorina",
+        "Name": "Crema salvadorina sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Creamy sour cream, creamy",
+        "Name": "Creamy sour cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Salvadorian cream, salvadorian",
+        "Name": "Salvadorian cream",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 40.0,

@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Lipton, green tea chamomile mint with other natural flavors, k-cup pods, chamomile mint with other natural flavor",
+        "Name": "Lipton, green tea chamomile mint with other natural flavors, k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Lipton, tea & honey, iced green tea mix, blackberry pomegranate flavor with other natural flavor, blackberry pomegranate flavor with other natural flavor",
+        "Name": "Lipton, tea & honey, iced green tea mix, blackberry pomegranate flavor with other natural flavor",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade liquid water enhancer, strawberry lemonade",
+        "Name": "Strawberry lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Fruit punch liquid water enhancer, fruit punch",
+        "Name": "Fruit punch liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon liquid water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Lipton, liquid iced black tea mix, lemon flavor with other natural flavor, lemon flavor with other natural flavor",
+        "Name": "Lipton, liquid iced black tea mix, lemon flavor with other natural flavor",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Lipton, liquid iced black tea mix, tropical mango flavor with other natural flavor, tropical mango flavor with other natural flavor",
+        "Name": "Lipton, liquid iced black tea mix, tropical mango flavor with other natural flavor",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Berry blast flavor energy liquid water enhancer, berry blast",
+        "Name": "Berry blast flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate liquid water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavors liquid water enhancer, fruit punch",
+        "Name": "Fruit punch flavors liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Orange electrolyte drink enhancer, orange",
+        "Name": "Orange electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Black cherry energy liquid water enhancer, black cherry",
+        "Name": "Black cherry energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade liquid water enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Sweet tea liquid water enhancer, sweet tea",
+        "Name": "Sweet tea liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Wild berry energy liquid water enhancer, wild berry",
+        "Name": "Wild berry energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Orange blast drink enhancer, orange blast",
+        "Name": "Orange blast drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Orange flavored liquid water enhancer, orange",
+        "Name": "Orange flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Sweet tea flavored liquid water enhancer, sweet tea",
+        "Name": "Sweet tea flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade flavored liquid water enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Sugar free wild purple smash liquid water enhancer, wild purple smash",
+        "Name": "Sugar free wild purple smash liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Unsweetened pink grapefruit collagen infused water, unsweetened pink grapefruit",
+        "Name": "Unsweetened pink grapefruit collagen infused water",
         "Nutrients": {
             "Protein": 59.2,
             "Fat": 0.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Apple cheer flavored water beverage, apple cheer",
+        "Name": "Apple cheer flavored water beverage",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Passionfruit, mango & blood orange flavored cold water enhancer, passionfruit, mango & blood orange",
+        "Name": "Passionfruit, mango & blood orange flavored cold water enhancer, passionfruit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Fruit punch drink enhancer, fruit punch",
+        "Name": "Fruit punch drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Lemonade liquid water enhancer, lemonade",
+        "Name": "Lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Tropical guava drink enhancer, tropical guava",
+        "Name": "Tropical guava drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Fruit2o, purified water beverage, raspberry",
+        "Name": "Purified water beverage, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Tierney's iced tea co, black tea mix, passion fruit raspberry",
+        "Name": "Tierneys iced tea co, black tea mix, passion fruit raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Giant, nature's promise, drink enhancer, lemonade",
+        "Name": "Giant, natures promise, drink enhancer, lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Nature's promise, drink enhancer, mango, pineapple",
+        "Name": "Natures promise, drink enhancer, mango, pineapple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Drop2o, water enhancer, peach mint",
+        "Name": "Water enhancer, peach mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Ahold, nature's promise, drink enhancer, strawberry watermelon",
+        "Name": "Ahold, natures promise, drink enhancer, strawberry watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Sodastream, welch's sparkling drink mix, concord grape",
+        "Name": "Sodastream, welchs sparkling drink mix, concord grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Drop2o, thirst therapy water enhancer, orange mint",
+        "Name": "Thirst therapy water enhancer, orange mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Drop2o, water enhancer thirst therapy, pomegranate & mint",
+        "Name": "Water enhancer thirst therapy, pomegranate & mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Tierney's iced tea co., iced tea, lemon mint",
+        "Name": "Tierneys iced tea co., iced tea, lemon mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Sadastream, waters plus+, sparkling water mix, orange",
+        "Name": "Sadastream, waters plus&, sparkling water mix, orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Black cherry +energy liquid beverage enhancer",
+        "Name": "Black cherry &energy liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy water enhancer, tropical fusion",
+        "Name": "Natures way, alive!, energy water enhancer, tropical fusion",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy max water enhancer, tropical fusion",
+        "Name": "Natures way, alive!, energy max water enhancer, tropical fusion",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy water enhancer, berry blast",
+        "Name": "Natures way, alive!, energy water enhancer, berry blast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Nature's way, energy max water enhances, berry blast",
+        "Name": "Natures way, energy max water enhances, berry blast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Liquid water enhancer with electrolytes and vitamins b3 b6 b12",
+        "Name": "Liquid water enhancer with electrolytes & vitamins",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "+ h2o energy liquid beverage enhancer",
+        "Name": "& energy liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "4c, liquid water enhancer, fruit punch",
+        "Name": "Liquid water enhancer, fruit punch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Stur, liquid tea infusion, black tea + lemon",
+        "Name": "Stur, liquid tea infusion, black tea & lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Stur, liquid water enhancer, coconut water + lime",
+        "Name": "Stur, liquid water enhancer, coconut water & lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Energy naturally and artificially flavored soda mix",
+        "Name": "Energy naturally & artificially flavored soda mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Berry blast flavored liquid water enhancer, berry blast",
+        "Name": "Berry blast flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Botanical cocktail + soda, syrup",
+        "Name": "Botanical cocktail & soda, syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Sport electrolytes + vitamin b3, b6, b12",
+        "Name": "Sport electrolytes & vitamin",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "Sport electrolytes + vitamins b3, b6, b12 liquid water enhancer",
+        "Name": "Sport electrolytes & vitamins liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "Name": "Liquid water enhancer, energy caffeine + vitamins b3, b6, b12",
+        "Name": "Liquid water enhancer, energy caffeine & vitamins",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters sparkling gourmet water mix, coriander apple blossom",
+        "Name": "Sodastream, waters sparkling gourmet water mix, cori&er apple blossom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "4c, totally light, green tea liquid water enhancer, honey & natural lemon",
+        "Name": "Totally light, green tea liquid water enhancer, honey & natural lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "4c, totally light tea, lemon",
+        "Name": "Totally light tea, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Essential everyday, liquid water enhancer with vitamins (b3), (b6), (b12), berry pomegranate",
+        "Name": "Essential everyday, liquid water enhancer with vitamins berry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Canada dry, ginger ale soda mix, ginger ale",
+        "Name": "Canada dry, ginger ale soda mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Handcrafted simple syrup",
+        "Name": "H&crafted simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Apple and lemon juice concentrates",
+        "Name": "Apple & lemon juice concentrates",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Sodastream, v8 splash, sparkling drink mix, fruit medley",
+        "Name": "Sodastream, splash, sparkling drink mix, fruit medley",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Green tea with ginseng and honey liquid water enhancer",
+        "Name": "Green tea with ginseng & honey liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Peach drops, peach",
+        "Name": "Peach drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Groovin' grape liquid water enhancer, groovin' grape",
+        "Name": "Groovin grape liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Cherry limeade energy liquid water enhancer, cherry limeade",
+        "Name": "Cherry limeade energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Grape liquid beverage enhancer, grape",
+        "Name": "Grape liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon liquid beverage enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate liquid beverage enhancer, berry pomegranate",
+        "Name": "Berry pomegranate liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Cranberry raspberry liquid water enhancer, cranberry raspberry",
+        "Name": "Cranberry raspberry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Orange vanilla liquid water enhancer, orange vanilla",
+        "Name": "Orange vanilla liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "Acai berry storm liquid water enhancer, acai berry storm",
+        "Name": "Acai berry storm liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Blackberry raspberry liquid water enhancer, blackberry raspberry",
+        "Name": "Blackberry raspberry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "Berry grape liquid water enhancer, berry grape",
+        "Name": "Berry grape liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Cherry liquid drink mix, cherry",
+        "Name": "Cherry liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Ginger ale drink mix, ginger ale",
+        "Name": "Ginger ale drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Diet caffeine free cola drink mix, cola",
+        "Name": "Diet caffeine free cola drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "Xtreme energy drink mix, xtreme",
+        "Name": "Xtreme energy drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Pink grapefruit drink mix, pink grapefruit",
+        "Name": "Pink grapefruit drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3348,7 +3348,7 @@
         }
     },
     {
-        "Name": "Diet root beer drink mix, diet root beer",
+        "Name": "Diet root beer drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Ginger ale diet drink mix, ginger ale",
+        "Name": "Ginger ale diet drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Diet dr pete drink mix, diet dr pete",
+        "Name": "Diet dr pete drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Concord grape flavored sparkling drink mix, concord grape",
+        "Name": "Concord grape flavored sparkling drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3384,7 +3384,7 @@
         }
     },
     {
-        "Name": "+h2o, orange tangerine liquid beverage enhancer, orange tangerine",
+        "Name": "Orange tangerine liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Diet lemon lime drink mix, diet lemon lime",
+        "Name": "Diet lemon lime drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3402,7 +3402,7 @@
         }
     },
     {
-        "Name": "Black cherry +energy liquid beverage enhancer, black cherry",
+        "Name": "Black cherry &energy liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "Liquid water enhancer with electrolytes and vitamins b3 b6 b12, performance grape",
+        "Name": "Liquid water enhancer with electrolytes & vitamins performance grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "+h2o energy, strawberry kiwi liquid beverage enhancer, strawberry kiwi",
+        "Name": "Energy, strawberry kiwi liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Orange tangerine liquid water enhancer, orange tangerine",
+        "Name": "Orange tangerine liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Cherry liquid water enhancer, cherry",
+        "Name": "Cherry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Blueberry lemonade liquid water enhancer, blueberry lemonade",
+        "Name": "Blueberry lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, strawberry lemonade, strawberry lemonade",
+        "Name": "Meijer, liquid water enhancer, strawberry lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3474,7 +3474,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, half & half, tea & lemonade, half & half, tea & lemonade",
+        "Name": "Meijer, liquid water enhancer, half & half, tea & lemonade, half & half",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Orange tangerine, orange",
+        "Name": "Orange tangerine",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, blue raspberry, blue raspberry",
+        "Name": "Meijer, liquid water enhancer, blue raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, grape, grape",
+        "Name": "Meijer, liquid water enhancer, grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Groovy grape! liquid water enhancer, groovy grape",
+        "Name": "Groovy grape! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, strawberry kiwi, strawberry kiwi",
+        "Name": "Meijer, liquid water enhancer, strawberry kiwi",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Meijer, liquid water enhancer, cherry limeade, cherry limeade",
+        "Name": "Meijer, liquid water enhancer, cherry limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Lemonade, liquid water enhancer, lemonade",
+        "Name": "Lemonade, liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Iced mocha java iced coffee concentrate, iced mocha java",
+        "Name": "Iced mocha java iced coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Diet cola drink mix, cola",
+        "Name": "Diet cola drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Naturally flavored diet orange drink mix, orange",
+        "Name": "Naturally flavored diet orange drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Dr pete drink mix, dr pete",
+        "Name": "Dr pete drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Cherry cola drink mix, cherry cola",
+        "Name": "Cherry cola drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Cranberry raspberry drink mix, cranberry raspberry",
+        "Name": "Cranberry raspberry drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Cola drink mix, cola",
+        "Name": "Cola drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Lemon lime drink mix, lemon lime",
+        "Name": "Lemon lime drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Root beer drink mix, root beer",
+        "Name": "Root beer drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Minute maid, drops, fruit punch, apple, grape, pinneapple, apple, grape, pinneapple",
+        "Name": "Minute maid, drops, fruit punch, apple, grape, pinneapple, apple, grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Nestea, liquid water enhancer, iced tea with lemon, lemon",
+        "Name": "Nestea, liquid water enhancer, iced tea with lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Grape liquid drink mix, grape",
+        "Name": "Grape liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade liquid drink mix, strawberry lemonade",
+        "Name": "Strawberry lemonade liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Tonic drink mix, tonic",
+        "Name": "Tonic drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Grape electrolyte drink enhancer, grape",
+        "Name": "Grape electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Grape liquid water enhancer, grape",
+        "Name": "Grape liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3789,7 +3789,7 @@
         }
     },
     {
-        "Name": "Watermelon punch water enhancer drops, watermelon punch",
+        "Name": "Watermelon punch water enhancer drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Coconut pineapple drink mix, coconut pineapple",
+        "Name": "Coconut pineapple drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Cherry blackberry liquid water enhancer, cherry blackberry",
+        "Name": "Cherry blackberry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Apple and lemon juice concentrates, lemonade",
+        "Name": "Apple & lemon juice concentrates, lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Black cherry liquid water enhancer, black cherry",
+        "Name": "Black cherry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Tropical cherry liquid water enhancer, tropical cherry",
+        "Name": "Tropical cherry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Orange drink mix, orange",
+        "Name": "Orange drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Nestea, liquid water enhancer iced tea, cherry passionfruit, cherry passionfruit",
+        "Name": "Nestea, liquid water enhancer iced tea, cherry passionfruit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Fruit punch liquid beverage enhancer, fruit punch",
+        "Name": "Fruit punch liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Homestyle lemonade drink mix, homestyle lemonade",
+        "Name": "Homestyle lemonade drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Fountain mist drink mix, fountain mist",
+        "Name": "Fountain mist drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Diet fountain mist drink mix, diet fountain mist",
+        "Name": "Diet fountain mist drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "Black cherry energy fruit juice, black cherry",
+        "Name": "Black cherry energy fruit juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon with b vitamins fruit juice, strawberry watermelon",
+        "Name": "Strawberry watermelon with b vitamins fruit juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Orange tangerine liquid beverage enhancer, orange tangerine",
+        "Name": "Orange tangerine liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "+h2o, sweet tea liquid beverage enhancer, sweet tea",
+        "Name": "Sweet tea liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "+h2o, fruit punch liquid beverage enhancer, fruit punch",
+        "Name": "Fruit punch liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "+h2o, strawberry kiwi energy liquid beverage enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi energy liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "+h2o, black cherry energy liquid beverage enhancer, black cherry",
+        "Name": "Black cherry energy liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "+h2o, raspberry lemonade liquid beverage enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "+h2o, strawberry watermelon liquid beverage enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "+h2o, berry pomegranate liquid beverage enhancer, berry pomegranate",
+        "Name": "Berry pomegranate liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "Glaceau vitaminwater, zero calories energy drink, rise orange, rise orange",
+        "Name": "Glaceau vitaminwater, zero calories energy drink, rise orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "Orange tangerine with b vitamins, orange",
+        "Name": "Orange tangerine with b vitamins",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi energy liquid water enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "Half & half iced tea lemonade liquid water enhancer, half & half",
+        "Name": "Half & half iced tea lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Peach drops unsweetened natural flavor essence, peach",
+        "Name": "Peach drops unsweetened natural flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Unsweetened natural flavor essence grapefruit drops, unsweetened",
+        "Name": "Unsweetened natural flavor essence grapefruit drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade replenish drink enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade replenish drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Cherry limeade energy drink enhancer, cherry limeade",
+        "Name": "Cherry limeade energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate replenish drink enhancer, berry pomegranate",
+        "Name": "Berry pomegranate replenish drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Unsweetened natural flavor essence lime drops, unsweetened",
+        "Name": "Unsweetened natural flavor essence lime drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Unsweetened natural flavor essence mango drops, unsweetened",
+        "Name": "Unsweetened natural flavor essence mango drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon drink mix, strawberry watermelon",
+        "Name": "Strawberry watermelon drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Unsweetened natural flavor essence lemon drops, unsweetened",
+        "Name": "Unsweetened natural flavor essence lemon drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "Very cherry liquid drink mix water enhancer, very cherry",
+        "Name": "Very cherry liquid drink mix water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Green apple liquid drink mix water enhancer, green apple",
+        "Name": "Green apple liquid drink mix water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Pink lemonade light low calorie drink mix, pink lemonade",
+        "Name": "Pink lemonade light low calorie drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4203,7 +4203,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon replenish drink enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon replenish drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Black cherry flavored liquid enhancer, black cherry",
+        "Name": "Black cherry flavored liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavored liquid enhancer, fruit punch",
+        "Name": "Fruit punch flavored liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Apple blend drink mix, apple blend",
+        "Name": "Apple blend drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Huckleberry shrub, huckleberry",
+        "Name": "Huckleberry shrub",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Glaceau vitaminwater, zero calories energy drink, acai-blueberry pomegranate, acai-blueberry pomegranate",
+        "Name": "Glaceau vitaminwater, zero calories energy drink, acai-blueberry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Oranges & cream drink enhancer, oranges & cream",
+        "Name": "Oranges & cream drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Apple cider vinegar strawberry pineapple drink enhancer, apple cider vinegar strawberry pineapple",
+        "Name": "Apple cider vinegar strawberry pineapple drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Raspberry drops unsweetened natural flavor essence, raspberry drops",
+        "Name": "Raspberry drops unsweetened natural flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "+h2o, raspberry lemonade liquid beverage enhancer",
+        "Name": "Raspberry lemonade liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Kroger, tea drink mix, peach, peach",
+        "Name": "Kroger, tea drink mix, peach",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Cherry limeade liquid energy water enhancer, cherry limeade",
+        "Name": "Cherry limeade liquid energy water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "Wildberry blast liquid energy water enhancer, wildberry blast",
+        "Name": "Wildberry blast liquid energy water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon drink enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Squeezed lemonade flavored flavor enhancer with vitamins, squeezed lemonade, squeezed lemonade",
+        "Name": "Squeezed lemonade flavored flavor enhancer with vitamins, squeezed lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Flavor enhancer with vitamins, revive fruit punch, revive fruit punch",
+        "Name": "Flavor enhancer with vitamins, revive fruit punch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Lemonade drink enhancer, lemonade",
+        "Name": "Lemonade drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "+h2o, strawberry kiwi liquid beverage enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi liquid beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Zero calories energy drink, rise orange, rise orange",
+        "Name": "Zero calories energy drink, rise orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4509,7 +4509,7 @@
         }
     },
     {
-        "Name": "Half & half iced tea lemonade liquid water enhancer, half & half iced tea lemonade",
+        "Name": "Half & half iced tea lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Zero calories energy drink, acai-blueberry pomegranate, acai-blueberry pomegranate",
+        "Name": "Zero calories energy drink, acai-blueberry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon replenish liquid water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Tropical pineapple mango drink enhancer, tropical pineapple mango",
+        "Name": "Tropical pineapple mango drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "Lemon, orange & ginger flavored cold water enhancer, lemon, orange & ginger",
+        "Name": "Lemon, orange & ginger flavored cold water enhancer, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Blueberry, apple & blackcurrant flavoured clod water enhancer, blueberry, apple & blackcurrant",
+        "Name": "Blueberry, apple & blackcurrant flavoured clod water enhancer, blueberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Watermelon, mint & strawberry flavoured cold water enhancer, watermelon, mint & strawberry",
+        "Name": "Watermelon, mint & strawberry flavoured cold water enhancer, watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Strawberry liquid water enhancer, strawberry",
+        "Name": "Strawberry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade drink enhancer, strawberry lemonade",
+        "Name": "Strawberry lemonade drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Blue raspberry performance liquid water enhancer, blue raspberry",
+        "Name": "Blue raspberry performance liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade water enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Fruit punch replenish liquid water enhancer, fruit punch",
+        "Name": "Fruit punch replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4626,7 +4626,7 @@
         }
     },
     {
-        "Name": "Rose wine cocktail mixer drink enhancer, rose wine",
+        "Name": "Rose wine cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "Mucho mango fruit juice cocktail liquid water enhancer, mucho mango",
+        "Name": "Mucho mango fruit juice cocktail liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Watermelon liquid drink mix, watermelon",
+        "Name": "Watermelon liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Watermelon & mint flavoured cold water enhancer, watermelon & mint",
+        "Name": "Watermelon & mint flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Strawberry & lemon flavoured cold water enhancer, strawberry & lemon",
+        "Name": "Strawberry & lemon flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Lemon & ginger flavoured cold water enhancer, lemon & ginger",
+        "Name": "Lemon & ginger flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Blueberry & apple flavoured cold water enhancer infusers, blueberry & apple",
+        "Name": "Blueberry & apple flavoured cold water enhancer infusers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Orange liquid water enhancer, orange",
+        "Name": "Orange liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4716,7 +4716,7 @@
         }
     },
     {
-        "Name": "Fruit punch vitamin liquid water enhancer, fruit punch",
+        "Name": "Fruit punch vitamin liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Oregon growers, fruit butter, vanilla pear, vanilla pear",
+        "Name": "Oregon growers, fruit butter, vanilla pear",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Kroger, lite instant drink mix, cherry pomegranate, cherry pomegranate",
+        "Name": "Kroger, lite instant drink mix, cherry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "Fruit2o, purified water beverage, raspberry, raspberry",
+        "Name": "Purified water beverage, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Giant, sport liquid water enhancer, grape, grape",
+        "Name": "Giant, sport liquid water enhancer, grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Kroger, vitamin liquid water enhancer, strawberry watermelon, strawberry watermelon",
+        "Name": "Kroger, vitamin liquid water enhancer, strawberry watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Kroger, liquid water enhancer, pineapple coconut, pineapple coconut",
+        "Name": "Kroger, liquid water enhancer, pineapple coconut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Publix, publix, water enhancer, strawberry lemonade, strawberry lemonade",
+        "Name": "Publix, publix, water enhancer, strawberry lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Aquafusion, unsweetened liquid beverage enhancer, pear ginger, pear ginger",
+        "Name": "Aquafusion, unsweetened liquid beverage enhancer, pear ginger",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "Bigelow, liquid water enhancer, raspberry hibiscus tea, raspberry hibiscus tea",
+        "Name": "Bigelow, liquid water enhancer, raspberry hibiscus tea",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Tierney's iced tea co, black tea mix, passion fruit raspberry, passion fruit raspberry",
+        "Name": "Tierneys iced tea co, black tea mix, passion fruit raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "Giant, nature's promise, drink enhancer, lemonade, lemonade",
+        "Name": "Giant, natures promise, drink enhancer, lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Publix, water enhancer, black cherry, black cherry",
+        "Name": "Publix, water enhancer, black cherry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Skinnygirl, naturally flavored sparkling drink mix, mango berry, mango berry",
+        "Name": "Skinnygirl, naturally flavored sparkling drink mix, mango berry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Nature's promise, drink enhancer, mango, pineapple, mango, pineapple",
+        "Name": "Natures promise, drink enhancer, mango, pineapple, mango",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters fruits, sparkling water mix, red apple, red apple",
+        "Name": "Sodastream, waters fruits, sparkling water mix, red apple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling drink mix, homestyle lemonade, homestyle lemonade",
+        "Name": "Sodastream, sparkling drink mix, homestyle lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "Sodastream, fruits, sparkling drink mix, pink lemonade, pink lemonade",
+        "Name": "Sodastream, fruits, sparkling drink mix, pink lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Bigelow, liquid water enhancer, peach tea, peach tea",
+        "Name": "Bigelow, liquid water enhancer, peach tea",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Sodastream, caps, sierra mist soda mix, lemon-lime, lemon-lime",
+        "Name": "Sodastream, caps, sierra mist soda mix, lemon-lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Drop2o, water enhancer, peach mint, peach mint",
+        "Name": "Water enhancer, peach mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Waterful, keurig kold, flavored water, citrus celebration, citrus celebration",
+        "Name": "Waterful, keurig kold, flavored water, citrus celebration",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Ahold, nature's promise, drink enhancer, strawberry watermelon, strawberry watermelon",
+        "Name": "Ahold, natures promise, drink enhancer, strawberry watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Teisseire, gourmet drops, orange & peach, orange & peach",
+        "Name": "Teisseire, gourmet drops, orange & peach",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling drink mix, mint lemonade, mint lemonade",
+        "Name": "Sodastream, sparkling drink mix, mint lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling drink mix, lemon-ginger, lemon-ginger",
+        "Name": "Sodastream, sparkling drink mix, lemon-ginger",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling drink mix, limeade, limeade",
+        "Name": "Sodastream, sparkling drink mix, limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Sodastream, water essence sparkling water mix, peach, peach",
+        "Name": "Sodastream, water essence sparkling water mix, peach",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Go splash, water enhancer juice, peach mango passion fruit, peach mango passion fruit",
+        "Name": "Go splash, water enhancer juice, peach mango passion fruit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Go splash, tropical water enhancer, pineapple, coconut, lime, pineapple, coconut, lime",
+        "Name": "Go splash, tropical water enhancer, pineapple, coconut, lime, pineapple, coconut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Drop2o, thirst therapy water enhancer, orange mint, orange mint",
+        "Name": "Thirst therapy water enhancer, orange mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Drop2o, water enhancer thirst therapy, pomegranate & mint, pomegranate & mint",
+        "Name": "Water enhancer thirst therapy, pomegranate & mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 32.5,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Blueberry & apple flavoured cold water enhancer, blueberry & apple",
+        "Name": "Blueberry & apple flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5139,7 +5139,7 @@
         }
     },
     {
-        "Name": "Huckleberry drink enhancer, huckleberry",
+        "Name": "Huckleberry drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Strawberry drink enhancer, strawberry",
+        "Name": "Strawberry drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Sweet black tea liquid water enhancer, sweet black tea",
+        "Name": "Sweet black tea liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Chamomile mint green tea k-cup pods, chamomile mint",
+        "Name": "Chamomile mint green tea k-cup pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Black pomegranate flavor tea & honey iced green tea mix, black pomegranate",
+        "Name": "Black pomegranate flavor tea & honey iced green tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Black cherry dragonfruit flavor tea & honey liquid iced tea mix, black cherry dragonfruit",
+        "Name": "Black cherry dragonfruit flavor tea & honey liquid iced tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Lemon flavor liquid iced black tea mix, lemon",
+        "Name": "Lemon flavor liquid iced black tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Tropical mango flavor liquid iced black tea mix, tropical mango",
+        "Name": "Tropical mango flavor liquid iced black tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Green tea honey & natural lemon flavor liquid water enhancer, green tea",
+        "Name": "Green tea honey & natural lemon flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Essential everyday, liquid water enhancer, orange tangerine, orange tangerine",
+        "Name": "Essential everyday, liquid water enhancer, orange tangerine",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Cherry flavored zero sugar low calorie liquid water enhancer, cherry",
+        "Name": "Cherry flavored zero sugar low calorie liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Grape electrolyte hydration mix with water, grape",
+        "Name": "Grape electrolyte hydration mix with water",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Lemon-lime, berry, pink lemonade, grape, orange, electrolyte hydration sweetener, lemon-lime, berry, pink lemonade, grape, orange",
+        "Name": "Lemon-lime, berry, pink lemonade, grape, orange, electrolyte hydration sweetener, lemon-lime, berry, pink lemonade, grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "Grape electrolyte hydration, grape",
+        "Name": "Grape electrolyte hydration",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5274,7 +5274,7 @@
         }
     },
     {
-        "Name": "Orange electrolyte hydration, orange",
+        "Name": "Orange electrolyte hydration",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Iced tea with cherry passionfruit flavor liquid water enhancer, iced tea with cherry passionfruit",
+        "Name": "Iced tea with cherry passionfruit flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Lemon flavored sweet iced tea mix, lemon",
+        "Name": "Lemon flavored sweet iced tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Orange liquid drink mix, orange",
+        "Name": "Orange liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5328,7 +5328,7 @@
         }
     },
     {
-        "Name": "Lemon lime liquid water enhancer, lemon lime",
+        "Name": "Lemon lime liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5337,7 +5337,7 @@
         }
     },
     {
-        "Name": "Black cherry lime liquid drink mix, black cherry lime",
+        "Name": "Black cherry lime liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Mango peach liquid water enhancer, mango peach",
+        "Name": "Mango peach liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Crystal light, iced tea drink mix, lemon, lemon",
+        "Name": "Crystal light, iced tea drink mix, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade drink mix, strawberry lemonade",
+        "Name": "Strawberry lemonade drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Maxwell house, iced coffee concentrate drink mix, caramel, caramel",
+        "Name": "Maxwell house, iced coffee concentrate drink mix, caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Tropical punch liquid drink mix, tropical punch",
+        "Name": "Tropical punch liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Orchard apple liquid water enhancer, orchard apple",
+        "Name": "Orchard apple liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Blueberry raspberry liquid drink mix, blueberry raspberry",
+        "Name": "Blueberry raspberry liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Pomegranate lemonade liquid drink mix, pomegranate lemonade",
+        "Name": "Pomegranate lemonade liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Blue raspberry liquid drink mix, blue raspberry",
+        "Name": "Blue raspberry liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Maxwell house, iced coffee concentrate, vanilla, vanilla",
+        "Name": "Maxwell house, iced coffee concentrate, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Mio energy, liquid water enhancer, wicked blue citrus, wicked blue citrus",
+        "Name": "Mio energy, liquid water enhancer, wicked blue citrus",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Dasani, flavor enhancer, lime, lime",
+        "Name": "Dasani, flavor enhancer, lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Dasani, drops infusions flavor enhancer, strawberry basil, strawberry basil",
+        "Name": "Dasani, drops infusions flavor enhancer, strawberry basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Green thunder liquid water enhancer, green thunder",
+        "Name": "Green thunder liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Orange pineapple drink mix, orange pineapple",
+        "Name": "Orange pineapple drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Dasani, drops, flavor enhancer, cherry pomegranate, cherry pomegranate",
+        "Name": "Dasani, drops, flavor enhancer, cherry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Strawberry orange liquid water enhancer, strawberry orange",
+        "Name": "Strawberry orange liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5499,7 +5499,7 @@
         }
     },
     {
-        "Name": "Citrus green tea liquid water enhancer, citrus green tea",
+        "Name": "Citrus green tea liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5508,7 +5508,7 @@
         }
     },
     {
-        "Name": "Strawberry pineapple refresh liquid drink mix with caffeine, strawberry pineapple refresh",
+        "Name": "Strawberry pineapple refresh liquid drink mix with caffeine",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Strawberry pineapple smash liquid water enhancer, strawberry pineapple smash",
+        "Name": "Strawberry pineapple smash liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Flavor enhancer ",
+        "Name": "Flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5535,7 +5535,7 @@
         }
     },
     {
-        "Name": "Kool-aid, liquid, drink mix, watermelon, watermelon",
+        "Name": "Kool-aid, liquid, drink mix, watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5544,7 +5544,7 @@
         }
     },
     {
-        "Name": "Folgers, flavors, coffee enhancer, vanilla, vanilla",
+        "Name": "Folgers, flavors, coffee enhancer, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Folgers, iced cafe, coffee drink concentrate, original latte, original latte",
+        "Name": "Folgers, iced cafe, coffee drink concentrate, original latte",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Hazelnut latte artificially flavored coffee drink concentrate, hazelnut",
+        "Name": "Hazelnut latte artificially flavored coffee drink concentrate",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Vanilla latte, vanilla",
+        "Name": "Vanilla latte",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Dasani, drops flavor enhancer, pineapple coconut, pineapple coconut",
+        "Name": "Dasani, drops flavor enhancer, pineapple coconut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Dasani, drops, flavor enhancer, pink lemonade, pink lemonade",
+        "Name": "Dasani, drops, flavor enhancer, pink lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Dasani, drops, flavor enhancer, strawberry, kiwi, strawberry, kiwi",
+        "Name": "Dasani, drops, flavor enhancer, strawberry, kiwi, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Mio, liquid water enhancer, acai berry storm, acai berry storm",
+        "Name": "Mio, liquid water enhancer, acai berry storm",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Mio, liquid water enhancer, berry blast, berry blast",
+        "Name": "Mio, liquid water enhancer, berry blast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "Wicked blue citrus liquid water enhancer, wicked blue citrus",
+        "Name": "Wicked blue citrus liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Mio, energyliquid water enhancer, black cherry natural flavor with other natural flavor, black cherry natural flavor with other natural flavor",
+        "Name": "Mio, energyliquid water enhancer, black cherry natural flavor with other natural flavor",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Mio, fit liquid water enhancer, lemon lime, lemon lime",
+        "Name": "Mio, fit liquid water enhancer, lemon lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Mio, fit liquid water enhancer, orange, orange",
+        "Name": "Mio, fit liquid water enhancer, orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Mio, liquid water enhancer, arctic grape, arctic grape",
+        "Name": "Mio, liquid water enhancer, arctic grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Berry blast liquid water enhancer, berry blast",
+        "Name": "Berry blast liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Mango pineapple drink mix packets, mango pineapple",
+        "Name": "Mango pineapple drink mix packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5742,7 +5742,7 @@
         }
     },
     {
-        "Name": "Acai berry bliss liquid drink mix, acai berry",
+        "Name": "Acai berry bliss liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Watermelon lemonade liquid water enhancer, watermelon lemonade",
+        "Name": "Watermelon lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Lime sparkling water enhancer drink mix, lime",
+        "Name": "Lime sparkling water enhancer drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Grapefruit sparkling water enhancer drink mix, grapefruit",
+        "Name": "Grapefruit sparkling water enhancer drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi liquid water enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Green tea with ginseng and honey liquid water enhancer, green tea with ginseng and honey",
+        "Name": "Green tea with ginseng & honey liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Iced vanilla java iced coffee concentrate, iced vanilla java",
+        "Name": "Iced vanilla java iced coffee concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Blackberry lemonade liquid drink mix, blackberry lemonade",
+        "Name": "Blackberry lemonade liquid drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Arctic grape liquid water enhancer, arctic grape",
+        "Name": "Arctic grape liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5823,7 +5823,7 @@
         }
     },
     {
-        "Name": "Black cherry flavor liquid water enhancer, black cherry",
+        "Name": "Black cherry flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Tropical fusion liquid water enhancer, tropical fusion",
+        "Name": "Tropical fusion liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Shockin' blue raspberry sour jammers flavored drink, shockin' blue raspberry",
+        "Name": "Shockin blue raspberry sour jammers flavored drink",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Tropical punch zero sugar jammers drink, tropical punch",
+        "Name": "Tropical punch zero sugar jammers drink",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Iced tea with lemon flavor liquid water enhancer, iced tea with lemon",
+        "Name": "Iced tea with lemon flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Black pomegranate flavor tea & honey iced green tea mix to go packets, black pomegranate",
+        "Name": "Black pomegranate flavor tea & honey iced green tea mix to go packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Orange tangerine flavor liquid water enhancer, orange tangerine",
+        "Name": "Orange tangerine flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Lemonade flavor drink enhancer, lemonade",
+        "Name": "Lemonade flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Pineapple coconut drink enhancer, pineapple coconut",
+        "Name": "Pineapple coconut drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Orange blast flavor drink enhancer, orange blast",
+        "Name": "Orange blast flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Peach tea flavor drink enhancer, peach tea",
+        "Name": "Peach tea flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Mango pineapple flavor drink enhancer, mango pineapple",
+        "Name": "Mango pineapple flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "Berry blast flavor energy drink enhancer, berry blast",
+        "Name": "Berry blast flavor energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavor drink enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Orange tangerine flavor drink enhancer, orange tangerine",
+        "Name": "Orange tangerine flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "Black cherry flavor energy drink enhancer, black cherry",
+        "Name": "Black cherry flavor energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Fruit punch zero calorie liquid water enhancer, fruit punch",
+        "Name": "Fruit punch zero calorie liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Grape zero calorie liquid water enhancer, grape",
+        "Name": "Grape zero calorie liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Orange zero calorie liquid water enhancer, orange",
+        "Name": "Orange zero calorie liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Half & half tea & lemonade liquid water enhancer, half & half tea & lemonade",
+        "Name": "Half & half tea & lemonade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Blue raspberry liquid water enhancer, blue raspberry",
+        "Name": "Blue raspberry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Groovy grape! flavored liquid water enhancer, groovy grape!",
+        "Name": "Groovy grape! flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Wacky wild cherry! flavored liquid water enhancer, wacky wild cherry!",
+        "Name": "Wacky wild cherry! flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Cherry limeade liquid water enhancer, cherry limeade",
+        "Name": "Cherry limeade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6039,7 +6039,7 @@
         }
     },
     {
-        "Name": "Tropical tango punch! flavor liquid water enhancer, tropical tango punch!",
+        "Name": "Tropical tango punch! flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Pineapple coconut liquid water enhancer, pineapple coconut",
+        "Name": "Pineapple coconut liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Mango pineapple liquid water enhancer, mango pineapple",
+        "Name": "Mango pineapple liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate flavor liquid water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Grape zero calorie drink enhancer, grape",
+        "Name": "Grape zero calorie drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Raspberry black tea drink enhancer, raspberry black tea",
+        "Name": "Raspberry black tea drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Peach mango passion fruit tropical drink enhancer, peach mango passion fruit",
+        "Name": "Peach mango passion fruit tropical drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6102,7 +6102,7 @@
         }
     },
     {
-        "Name": "Pineapple coconut lime tropical drink enhancer, pineapple coconut lime",
+        "Name": "Pineapple coconut lime tropical drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade flavor drink enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi flavor energy drink enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi flavor energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Grape flavor drink enhancer, grape",
+        "Name": "Grape flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Southern sweet tea flavor drink enhancer, southern sweet tea",
+        "Name": "Southern sweet tea flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Blue raspberry flavor electrolyte drink enhancer, blue raspberry",
+        "Name": "Blue raspberry flavor electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavor liquid water enhancer, fruit punch",
+        "Name": "Fruit punch flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Pineapple mango flavor liquid water enhancer, pineapple mango",
+        "Name": "Pineapple mango flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Awesome apple berry! liquid water enhancer, awesome apple berry!",
+        "Name": "Awesome apple berry! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Tropical passion fruit flavor liquid water enhancer, tropical passion fruit",
+        "Name": "Tropical passion fruit flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Grape peach squeeze! liquid water enhancer, grape peach squeeze!",
+        "Name": "Grape peach squeeze! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Peach bellini flavor cocktail mixer drink enhancer, peach bellini",
+        "Name": "Peach bellini flavor cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Minty mojito flavor cocktail mixer drink enhancer, minty mojito",
+        "Name": "Minty mojito flavor cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Grape flavor liquid water enhancer, grape",
+        "Name": "Grape flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Wacky wild cherry! flavor liquid water enhancer, wacky wild cherry!",
+        "Name": "Wacky wild cherry! flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavor electrolyte drink enhancer, fruit punch",
+        "Name": "Fruit punch flavor electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavor liquid water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Mango & passion fruit flavoured cold water enhancer infusers, mango & passion fruit",
+        "Name": "Mango & passion fruit flavoured cold water enhancer infusers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Watermelon & mint flavoured cold water enhancer infusers, watermelon & mint",
+        "Name": "Watermelon & mint flavoured cold water enhancer infusers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavor drink enhancer, fruit punch",
+        "Name": "Fruit punch flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavor thirst quencher concentrate pods, fruit punch",
+        "Name": "Fruit punch flavor thirst quencher concentrate pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Strawberry-kiwi punch flavors electrolyte beverage, strawberry-kiwi punch",
+        "Name": "Strawberry-kiwi punch flavors electrolyte beverage",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "Hannaford, energy water enhancer, cherry limeade, cherry limeade",
+        "Name": "Hannaford, energy water enhancer, cherry limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Publix, water enhancer, orange tangerine, orange tangerine",
+        "Name": "Publix, water enhancer, orange tangerine",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Market basket, liquid drink enhancer, lemonade, lemonade",
+        "Name": "Market basket, liquid drink enhancer, lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Green magic organic chia squeeze, green magic",
+        "Name": "Green magic organic chia squeeze",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 2.5,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Sodastream, skinnygirl, sparkling drink mix, mango, berry, mango, berry",
+        "Name": "Sodastream, skinnygirl, sparkling drink mix, mango, berry, mango",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Sodastream, fruits sparkling water mix, homestyle lemonade, homestyle lemonade",
+        "Name": "Sodastream, fruits sparkling water mix, homestyle lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling water mix, pink lemonade, pink lemonade",
+        "Name": "Sodastream, sparkling water mix, pink lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Sadastream, waters plus+, sparkling water mix, orange, orange",
+        "Name": "Sadastream, waters plus&, sparkling water mix, orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters sparkling gourmet, green apple, cucumber, green apple, cucumber",
+        "Name": "Sodastream, waters sparkling gourmet, green apple, cucumber, green apple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Luzianne, water enhancer, green tea with lemon, green tea with lemon",
+        "Name": "Luzianne, water enhancer, green tea with lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy water enhancer, tropical fusion, tropical fusion",
+        "Name": "Natures way, alive!, energy water enhancer, tropical fusion",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy max water enhancer, tropical fusion, tropical fusion",
+        "Name": "Natures way, alive!, energy max water enhancer, tropical fusion",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Nature's way, alive!, energy water enhancer, berry blast, berry blast",
+        "Name": "Natures way, alive!, energy water enhancer, berry blast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Nature's way, energy max water enhances, berry blast, berry blast",
+        "Name": "Natures way, energy max water enhances, berry blast",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Green way, flavor enhancer, raspberry pomegranate, raspberry pomegranate",
+        "Name": "Green way, flavor enhancer, raspberry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Black cherry flavor simply clear energy drink enhancer, black cherry",
+        "Name": "Black cherry flavor simply clear energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Liquid water enhancer, coconut water + pineapple",
+        "Name": "Liquid water enhancer, coconut water & pineapple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Stur, liquid tea infusion, black tea + lemon, black tea + lemon",
+        "Name": "Stur, liquid tea infusion, black tea & lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Stur, liquid water enhancer, coconut water + lime, coconut water + lime",
+        "Name": "Stur, liquid water enhancer, coconut water & lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Stur, coconut liquid water enhancer, original, original",
+        "Name": "Stur, coconut liquid water enhancer, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Energy naturally and artificially flavored soda mix, mango",
+        "Name": "Energy naturally & artificially flavored soda mix, mango",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Cranberry-raspberry flavored soda mix with other natural & artificial flavors, cranberry-raspberry",
+        "Name": "Cranberry-raspberry flavored soda mix with other natural & artificial flavors",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Water enhancer,  fuji apple",
+        "Name": "Water enhancer, fuji apple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Spartan, liquid water enhancer, strawberry watermelon, strawberry watermelon",
+        "Name": "Spartan, liquid water enhancer, strawberry watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Spartan, liquid water enhancer, black cherry, black cherry",
+        "Name": "Spartan, liquid water enhancer, black cherry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6786,7 +6786,7 @@
         }
     },
     {
-        "Name": "Spartan, liquid water enhancer, berry pomegranate, berry pomegranate",
+        "Name": "Spartan, liquid water enhancer, berry pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Spartan, water enhancer, raspberry lemonade, raspberry lemonade",
+        "Name": "Spartan, water enhancer, raspberry lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Spartan, liquid water enhancer, blue raspberry, blue raspberry",
+        "Name": "Spartan, liquid water enhancer, blue raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Spartan, liquid water enhancer, fruit punch, fruit punch",
+        "Name": "Spartan, liquid water enhancer, fruit punch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling water mix, pink grapefruit, pink grapefruit",
+        "Name": "Sodastream, sparkling water mix, pink grapefruit",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Sodastream, skinnygirl sparkling drink mix, cucumber lime, cucumber lime",
+        "Name": "Sodastream, skinnygirl sparkling drink mix, cucumber lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters sparkling gourmet, lime basil, lime basil",
+        "Name": "Sodastream, waters sparkling gourmet, lime basil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters fruit sparkling mix, kiwi pear, kiwi pear",
+        "Name": "Sodastream, waters fruit sparkling mix, kiwi pear",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling water mix, lemon, lemon",
+        "Name": "Sodastream, sparkling water mix, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling gourmet water mix, blackcurrant lime, blackcurrant lime",
+        "Name": "Sodastream, sparkling gourmet water mix, blackcurrant lime",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Sodastream, waters sparkling gourmet water mix, coriander apple blossom, coriander apple blossom",
+        "Name": "Sodastream, waters sparkling gourmet water mix, cori&er apple blossom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Sodastream, sparkling drink mix, cream soda, cream soda",
+        "Name": "Sodastream, sparkling drink mix, cream soda",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Chai concentrate, chai",
+        "Name": "Chai concentrate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Grape flavor simply clear zero calorie drink enhancer, grape",
+        "Name": "Grape flavor simply clear zero calorie drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Raspberry black tea flavor drink enhancer, raspberry black tea",
+        "Name": "Raspberry black tea flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Tropical flavor pineapple mango drink enhancer, tropical",
+        "Name": "Tropical flavor pineapple mango drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavor simply clear drink enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon flavor simply clear drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Ginger-lime handcrafted simple syrup, ginger-lime",
+        "Name": "Ginger-lime h&crafted simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Sport water enhancer fruit punch, fruit punch",
+        "Name": "Sport water enhancer fruit punch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Propel, liquid water enhancer, strawberry kiwi, strawberry kiwi",
+        "Name": "Propel, liquid water enhancer, strawberry kiwi",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Propel, zero sport, electrolyte water enhancer, grape, grape",
+        "Name": "Propel, zero sport, electrolyte water enhancer, grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade flavor simply clear drink enhancer, strawberry lemonade",
+        "Name": "Strawberry lemonade flavor simply clear drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Sodastream, v8 splash, sparkling drink mix, fruit medley, fruit medley",
+        "Name": "Sodastream, splash, sparkling drink mix, fruit medley",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Tierney's iced tea co., iced tea, lemon mint, lemon mint",
+        "Name": "Tierneys iced tea co., iced tea, lemon mint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Orange flavor electrolyte drink enhancer, orange",
+        "Name": "Orange flavor electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Lemon iced tea flavor liquid water enhancer, lemon iced tea",
+        "Name": "Lemon iced tea flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Wildberry pomegranate liquid water enhancer, wildberry pomegranate",
+        "Name": "Wildberry pomegranate liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Caffeinated rose earl grey loose leaf tea, rose earl grey",
+        "Name": "Caffeinated rose earl grey loose leaf tea",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Strawberry grade a milk, strawberry",
+        "Name": "Strawberry grade a milk",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.3,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Oranges & cream flavor drink enhancer, oranges & cream",
+        "Name": "Oranges & cream flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Rose wine flavor cocktail mixer drink enhancer, rose wine",
+        "Name": "Rose wine flavor cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Tropical pineapple mango flavor drink enhancer, tropical pineapple mango",
+        "Name": "Tropical pineapple mango flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Tropical guava flavor drink enhancer, tropical guava",
+        "Name": "Tropical guava flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Huckleberry flavor focus drink enhancer, huckleberry",
+        "Name": "Huckleberry flavor focus drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Pineapple flavor sparkling water, pineapple",
+        "Name": "Pineapple flavor sparkling water",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Lemon flavor drops, lemon",
+        "Name": "Lemon flavor drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Peach bubly flavor drops, peach bubly",
+        "Name": "Peach bubly flavor drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7245,7 +7245,7 @@
         }
     },
     {
-        "Name": "Orange unsweetened natural flavor essence drops, orange",
+        "Name": "Orange unsweetened natural flavor essence drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Go splash, tropical water enhancer, pineapple mango, pineapple mango",
+        "Name": "Go splash, tropical water enhancer, pineapple mango",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Raspberry black tea flavored liquid water enhancer, raspberry black tea",
+        "Name": "Raspberry black tea flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Black cherry flavored energy liquid water enhancer, black cherry",
+        "Name": "Black cherry flavored energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Pineapple mango flavored liquid water enhancer, pineapple mango",
+        "Name": "Pineapple mango flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "Raspberry flavor drops, raspberry",
+        "Name": "Raspberry flavor drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7299,7 +7299,7 @@
         }
     },
     {
-        "Name": "Tropical harmony + aloe fruit concentrate blend with ice or h2o, tropical harmony",
+        "Name": "Tropical harmony & aloe fruit concentrate blend with ice or tropical harmony",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -7317,7 +7317,7 @@
         }
     },
     {
-        "Name": "Lemon lime beverage enhancer, lemon lime",
+        "Name": "Lemon lime beverage enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Dex4, glucose liquid, berry twist, berry twist",
+        "Name": "Glucose liquid, berry twist",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavored liquid water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Iced tea, lemonade ",
+        "Name": "Iced tea, lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavored sport liquid water enhancer, fruit punch",
+        "Name": "Fruit punch flavored sport liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Grove square, ice cream shop float mix, orange dreamcicle, orange dreamcicle",
+        "Name": "Grove square, ice cream shop float mix, orange dreamcicle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "4c, liquid water enhancer, fruit punch, fruit punch",
+        "Name": "Liquid water enhancer, fruit punch",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Food lion, energy water enhancer, cherry limeade, cherry limeade",
+        "Name": "Food lion, energy water enhancer, cherry limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Weis quality, liquid energy water enhancer tropical rush, tropical rush ",
+        "Name": "Weis quality, liquid energy water enhancer tropical rush",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Refreshe, energy liquid water enhancer, cherry limeade, cherry limeade",
+        "Name": "Refreshe, energy liquid water enhancer, cherry limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Kroger, liquid water enhancer, peach & white grape, peach & white grape",
+        "Name": "Kroger, liquid water enhancer, peach & white grape",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Meijer, true goodness, liquid water enhancer, strawberry watermelon, strawberry watermelon",
+        "Name": "Meijer, true goodness, liquid water enhancer, strawberry watermelon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "4c, totally light tea, lemon, lemon",
+        "Name": "Totally light tea, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7614,7 +7614,7 @@
         }
     },
     {
-        "Name": "Essential everyday, liquid water enhancer, cherry limeade, cherry limeade",
+        "Name": "Essential everyday, liquid water enhancer, cherry limeade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Canada dry, ginger ale soda mix, ginger ale, ginger ale",
+        "Name": "Canada dry, ginger ale soda mix, ginger ale",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Blue raspberry sport liquid water enhancer, blue raspberry",
+        "Name": "Blue raspberry sport liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Energy cherry limeade liquid water enhancer, cherry limeade",
+        "Name": "Energy cherry limeade liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Milk please, milk spash, milk flavoring, sir strawberry swirl, sir strawberry swirl",
+        "Name": "Milk please, milk spash, milk flavoring, sir strawberry swirl",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Replenish lemonade water enhancer, lemonade",
+        "Name": "Replenish lemonade water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Liquid water enhancer sweet tea, sweet tea",
+        "Name": "Liquid water enhancer sweet tea",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate flavor replenish liquid water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate flavor replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi flavor energy liquid water enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavor replenish liquid water enhancer, fruit punch",
+        "Name": "Fruit punch flavor replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Blue raspberry flavor zero calorie sport liquid water enhancer, blue raspberry",
+        "Name": "Blue raspberry flavor zero calorie sport liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Wild berry flavor energy liquid water enhancer, wild berry",
+        "Name": "Wild berry flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavor replenish liquid water enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon flavor replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Honey citron & ginger tea, honey citron & ginger",
+        "Name": "Honey citron & ginger tea",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Pineapple-tangerine aguas frescas flavored liquid enhancer, pineapple-tangerine",
+        "Name": "Pineapple-tangerine aguas frescas flavored liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Hibiscus berries flavored liquid enhancer, hibiscus berries",
+        "Name": "Hibiscus berries flavored liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Cucumber limeade flavored aguas frescas, cucumber limeade",
+        "Name": "Cucumber limeade flavored aguas frescas",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate flavored liquid water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Orange tangerine flavored liquid water enhancer, orange tangerine",
+        "Name": "Orange tangerine flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Lemonade flavored liquid water enhancer, lemonade",
+        "Name": "Lemonade flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Cucumber limeade flavored liquid enhancer, cucumber limeade",
+        "Name": "Cucumber limeade flavored liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Mango dragon fruit flavored green tea & juice drink mix, mango dragon fruit",
+        "Name": "Mango dragon fruit flavored green tea & juice drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Peach mango passionfruit liquid water enhancer, peach mango passionfruit",
+        "Name": "Peach mango passionfruit liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Southern sweet tea drink enhancer, southern sweet tea",
+        "Name": "Southern sweet tea drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Strawberry & lemon flavoured cold infuse water enhancer infusers, strawberry & lemon",
+        "Name": "Strawberry & lemon flavoured cold infuse water enhancer infusers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Grape drink enhancer, grape",
+        "Name": "Grape drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Tropical punch drink enhancer, tropical punch",
+        "Name": "Tropical punch drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Lemonade flavor liquid water enhancer, lemonade",
+        "Name": "Lemonade flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Wicked blue citrus flavor liquid water enhancer, wicked blue citrus",
+        "Name": "Wicked blue citrus flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Lemon-lime beverage mix kold pods, lemon-lime",
+        "Name": "Lemon-lime beverage mix kold pods",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Strawberry basil infusions flavor enhancer, strawberry basil",
+        "Name": "Strawberry basil infusions flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Orange passionfruit flavor enhancer, orange passionfruit",
+        "Name": "Orange passionfruit flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Pear acai flavor enhancer, pear acai",
+        "Name": "Pear acai flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavored drops, fruit punch",
+        "Name": "Fruit punch flavored drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Berry lemonade flavored lemonade starter drink mix, berry lemonade",
+        "Name": "Berry lemonade flavored lemonade starter drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Drops, orange flavor enhancer with electrolytes, orange",
+        "Name": "Drops, orange flavor enhancer with electrolytes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8118,7 +8118,7 @@
         }
     },
     {
-        "Name": "Watermelon punch water enhancer, watermelon punch",
+        "Name": "Watermelon punch water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8127,7 +8127,7 @@
         }
     },
     {
-        "Name": "Mango tropical flavored drops, mango tropical",
+        "Name": "Mango tropical flavored drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Lemonade flavored drops, lemonade",
+        "Name": "Lemonade flavored drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Drops, fruit punch flavor enhancer with electrolytes, fruit punch",
+        "Name": "Drops, fruit punch flavor enhancer with electrolytes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Squeezed lemonade flavor enhancer with vitamins drops, squeezed lemonade",
+        "Name": "Squeezed lemonade flavor enhancer with vitamins drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Revive fruit punch flavor enhancer with vitamins drops, revive fruit punch",
+        "Name": "Revive fruit punch flavor enhancer with vitamins drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Pineapple coconut flavor enhancer, pineapple coconut",
+        "Name": "Pineapple coconut flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Pink lemonade flavor enhancer, pink lemonade",
+        "Name": "Pink lemonade flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi flavor enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi flavor enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Rise orange flavor enhancer with vitamins drops, rise orange",
+        "Name": "Rise orange flavor enhancer with vitamins drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Xxx acai-blueberry pomegranate flavor enhancer with vitamins drops, xxx acai-blueberry pomegranate",
+        "Name": "Xxx acai-blueberry pomegranate flavor enhancer with vitamins drops",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Mango & passionfruit cold infuse flavoured cold water enhancer, mango & passionfruit",
+        "Name": "Mango & passionfruit cold infuse flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Watermelon & mint cold infuse flavoured cold water enhancer, watermelon & mint",
+        "Name": "Watermelon & mint cold infuse flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Strawberry & lemon cold infuse flavoured cold water enhancer, strawberry & lemon",
+        "Name": "Strawberry & lemon cold infuse flavoured cold water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Peach mango flavored liquid water enhancer, peach mango",
+        "Name": "Peach mango flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Coconut lime flavored liquid water enhancer, coconut lime",
+        "Name": "Coconut lime flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Grape flavored liquid water enhancer, grape",
+        "Name": "Grape flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Cherry limeade flavored energy liquid water enhancer, cherry limeade",
+        "Name": "Cherry limeade flavored energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Tropical fusion flavored energy liquid water enhancer, tropical fusion",
+        "Name": "Tropical fusion flavored energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Tropical fruits fruit enhanced coconut water, tropical fruits",
+        "Name": "Tropical fruits fruit enhanced coconut water",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.0,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Tropical melon flavor drink enhancer, tropical melon",
+        "Name": "Tropical melon flavor drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Tangerine passion fruit flavored liquid water enhancer, tangerine passion fruit",
+        "Name": "Tangerine passion fruit flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Blueberry lemonade flavored liquid water enhancer, blueberry lemonade",
+        "Name": "Blueberry lemonade flavored liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Cherry flavored zero sugar liquid water enhancer, cherry",
+        "Name": "Cherry flavored zero sugar liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Pineapple mango replenish water enhancer, pineapple mango",
+        "Name": "Pineapple mango replenish water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Mixed berry hydration drink, mixed berry",
+        "Name": "Mixed berry hydration drink",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Root beer flavored diet drink mix, root beer",
+        "Name": "Root beer flavored diet drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Homestyle lemonade flavored drink mix, homestyle lemonade",
+        "Name": "Homestyle lemonade flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Pink grapefruit flavored drink mix, pink grapefruit",
+        "Name": "Pink grapefruit flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon flavored drink mix, strawberry watermelon",
+        "Name": "Strawberry watermelon flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8388,7 +8388,7 @@
         }
     },
     {
-        "Name": "Fountain mist flavored diet drink mix, fountain mist",
+        "Name": "Fountain mist flavored diet drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Fountain mist flavored drink mix, fountain mist",
+        "Name": "Fountain mist flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "Dr pete flavored drink mix, dr pete",
+        "Name": "Dr pete flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Cola flavored diet drink mix, cola",
+        "Name": "Cola flavored diet drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Root beer flavored drink mix, root beer",
+        "Name": "Root beer flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Black cherry flavor energy liquid water enhancer, black cherry",
+        "Name": "Black cherry flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Xtreme energy caffeine + vitamins flavored drink mix, xtreme energy caffeine + vitamins",
+        "Name": "Xtreme energy caffeine & vitamins flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Diet dr pete flavored drink mix, diet dr pete",
+        "Name": "Diet dr pete flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Diet lemon lime flavored drink mix, diet lemon lime",
+        "Name": "Diet lemon lime flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Lemon lime flavored drink mix, lemon lime",
+        "Name": "Lemon lime flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Ginger ale flavored drink mix, ginger ale",
+        "Name": "Ginger ale flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon simply clear drink enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon simply clear drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Lemon lime flavor sierra mist beverage mix, lemon lime",
+        "Name": "Lemon lime flavor sierra mist beverage mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Orange flavored zero sugar liquid water enhancer, orange",
+        "Name": "Orange flavored zero sugar liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Sweet tea flavor liquid water enhancer, sweet tea",
+        "Name": "Sweet tea flavor liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Lemon drops unsweetened natural flavor essence, lemon drops",
+        "Name": "Lemon drops unsweetened natural flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8532,7 +8532,7 @@
         }
     },
     {
-        "Name": "Cherry cola flavored drink mix, cherry cola",
+        "Name": "Cherry cola flavored drink mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8541,7 +8541,7 @@
         }
     },
     {
-        "Name": "Groovy grape! liquid water enhancer, groovy grape!",
+        "Name": "Groovy grape! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8550,7 +8550,7 @@
         }
     },
     {
-        "Name": "Grape, strawberry, peach, tropical punch flavored fizzpop drops, grape, strawberry, peach, tropical punch",
+        "Name": "Grape, strawberry, peach, tropical punch flavored fizzpop drops, grape, strawberry, peach",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8559,7 +8559,7 @@
         }
     },
     {
-        "Name": "Watermelon flavor cartridge, watermelon",
+        "Name": "Watermelon flavor cartridge",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8568,7 +8568,7 @@
         }
     },
     {
-        "Name": "Red fruit flavor energy drink enhancer, red fruit",
+        "Name": "Red fruit flavor energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Cherry limeade flavor energy liquid water enhancer, cherry limeade",
+        "Name": "Cherry limeade flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Tropical flavor energy liquid water enhancer, tropical",
+        "Name": "Tropical flavor energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Tropical fusion energy liquid water enhancer, tropical fusion",
+        "Name": "Tropical fusion energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Wild berry liquid water enhancer, wild berry",
+        "Name": "Wild berry liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Wacky wild cherry! liquid water enhancer, wacky wild cherry!",
+        "Name": "Wacky wild cherry! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Pineapple mango liquid water enhancer, pineapple mango",
+        "Name": "Pineapple mango liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Tropical passionfruit liquid water enhancer, tropical passionfruit",
+        "Name": "Tropical passionfruit liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Triple berry caffeinated unsweetened flavor essence, triple berry",
+        "Name": "Triple berry caffeinated unsweetened flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Tropical tango punch! liquid water enhancer, tropical tango punch!",
+        "Name": "Tropical tango punch! liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Orange performance liquid water enhancer, orange",
+        "Name": "Orange performance liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Lemon lime beverage mix, lemon lime",
+        "Name": "Lemon lime beverage mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Black cherry energy drink enhancer, black cherry",
+        "Name": "Black cherry energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Berry pomegranate replenish liquid water enhancer, berry pomegranate",
+        "Name": "Berry pomegranate replenish liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Wildberry energy liquid water enhancer, wildberry",
+        "Name": "Wildberry energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Guava liquid water enhancer, guava",
+        "Name": "Guava liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Pineapple all-in-one super syrup, pineapple",
+        "Name": "Pineapple all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Lemon-lime beverage mix, lemon-lime",
+        "Name": "Lemon-lime beverage mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Island punch cartridge, island punch",
+        "Name": "Isl& punch cartridge",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Peach tea drink enhancer, peach tea",
+        "Name": "Peach tea drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Grapefruit drops unsweetened natural flavor essence, grapefruit drops",
+        "Name": "Grapefruit drops unsweetened natural flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Lime drops unsweetened natural flavor essence, lime drops",
+        "Name": "Lime drops unsweetened natural flavor essence",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Blackberry pomegranate tea & honey iced green tea mix to go packets, blackberry pomegranate",
+        "Name": "Blackberry pomegranate tea & honey iced green tea mix to go packets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Tropical mango liquid iced black tea mix, tropical mango",
+        "Name": "Tropical mango liquid iced black tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Lemon liquid iced black tea mix, lemon",
+        "Name": "Lemon liquid iced black tea mix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Cucumber limeade aguas frescas liquid enhancer, cucumber limeade",
+        "Name": "Cucumber limeade aguas frescas liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Hibiscus berries aguas frescas liquid enhancer, hibiscus berries",
+        "Name": "Hibiscus berries aguas frescas liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Pineapple tangerine aguas frescas liquid enhancer, pineapple tangerine",
+        "Name": "Pineapple tangerine aguas frescas liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Strawberry watermelon aguas frescas liquid enhancer, strawberry watermelon",
+        "Name": "Strawberry watermelon aguas frescas liquid enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Black cherry flavored antioxidant water enhancer, black cherry",
+        "Name": "Black cherry flavored antioxidant water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Arctic grape fit liquid water enhancer, arctic grape",
+        "Name": "Arctic grape fit liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Citrus green tea vitamins liquid water enhancer, citrus green tea",
+        "Name": "Citrus green tea vitamins liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Strawberry kiwi energy drink enhancer, strawberry kiwi",
+        "Name": "Strawberry kiwi energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Blue raspberry electrolyte drink enhancer, blue raspberry",
+        "Name": "Blue raspberry electrolyte drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Raspberry lemonade drink enhancer, raspberry lemonade",
+        "Name": "Raspberry lemonade drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Grape simply clear zero color drink enhancer, grape",
+        "Name": "Grape simply clear zero color drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Black cherry simply clear energy drink enhancer, black cherry",
+        "Name": "Black cherry simply clear energy drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Great value, black tea drink enhancer, raspberry, raspberry",
+        "Name": "Great value, black tea drink enhancer, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Mango pineapple drink enhancer, mango pineapple",
+        "Name": "Mango pineapple drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Peach tea real brewed tea drink enhancer, peach tea",
+        "Name": "Peach tea real brewed tea drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Strawberry lemonade simply clear drink enhancer, strawberry lemonade",
+        "Name": "Strawberry lemonade simply clear drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Peach bellini cocktail mixer drink enhancer, peach bellini",
+        "Name": "Peach bellini cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Minty mojito cocktail mixer drink enhancer, minty mojito",
+        "Name": "Minty mojito cocktail mixer drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Original squeezed  lemon juice",
+        "Name": "Original squeezed lemon juice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Ginger ale and raspberry lemonade",
+        "Name": "Ginger ale & raspberry lemonade",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9045,7 +9045,7 @@
         }
     },
     {
-        "Name": "Canada dry ginger ale, 12 fl oz, 24 count",
+        "Name": "Canada dry ginger ale, , count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Tropical melon drink enhancer, tropical melon",
+        "Name": "Tropical melon drink enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Acai energy liquid water enhancer, acai",
+        "Name": "Acai energy liquid water enhancer",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

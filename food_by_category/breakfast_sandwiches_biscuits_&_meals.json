@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Homestyle pork sausage gravy & biscuits, homestyle",
+        "Name": "Homestyle pork sausage gravy & biscuits",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 11.1,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Country sausage & biscuits with cheese, cheese",
+        "Name": "Country sausage & biscuits with cheese",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 14.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored breakfast biscuits, blueberry",
+        "Name": "Blueberry flavored breakfast biscuits",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 16.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Spinach egg & potato omelet, spinach",
+        "Name": "Spinach egg & potato omelet",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 10.7,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Roasted red pepper egg & potato omelet, roasted red pepper",
+        "Name": "Roasted red pepper egg & potato omelet",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 9.3,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Traditional egg & potato omelet, traditional",
+        "Name": "Traditional egg & potato omelet",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 9.3,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Red pepper spread & monterey jack bistro chorizo patty with applewood flavored bacon breakfast sandwich, red pepper spread & monterey jack",
+        "Name": "Red pepper spread & monterey jack bistro chorizo patty with applewood flavored bacon breakfast s&wich",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 22.7,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Canadian-style bacon with strawberry jam breakfast sandwich, canadian-style bacon",
+        "Name": "Canadian-style bacon with strawberry jam breakfast s&wich",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 12.7,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Honey biscuit with sausage and cheddar cheese, honey biscuit with sausage and cheddar",
+        "Name": "Honey biscuit with sausage & cheddar cheese",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 26.2,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Apple crisp apple dessert cup with oats & honey granola, apple crisp",
+        "Name": "Apple crisp apple dessert cup with oats & honey granola",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Uncured ham & swiss egg bites, uncured ham & swiss",
+        "Name": "Uncured ham & swiss egg bites",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 13.2,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Feta & chives egg bites, feta & chives",
+        "Name": "Feta & chives egg bites",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 13.2,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Breakfast sausage & cheddar sous-vide egg bites, breakfast sausage & cheddar",
+        "Name": "Breakfast sausage & cheddar sous-vide egg bites",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 16.7,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Sausage & pepper jack egg bites, sausage & pepper jack",
+        "Name": "Sausage & pepper jack egg bites",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 15.8,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Egg and chesse keto bite, egg and cheese",
+        "Name": "Egg & chesse keto bite, egg & cheese",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 26.3,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese croissant, bacon, egg & cheese",
+        "Name": "Bacon, egg & cheese croissant, bacon",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 18.4,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Eggs, potatoes & cheesy bacon sauce snack bowl, eggs, potatoes & cheesy bacon sauce",
+        "Name": "Eggs, potatoes & cheesy bacon sauce snack bowl, eggs",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 9.2,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Spinach & bell pepper egg bites, spinach & bell pepper",
+        "Name": "Spinach & bell pepper egg bites",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 12.3,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Sandwiches",
+        "Name": "S&wiches",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 25.9,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Flatbread pocket sandwiches",
+        "Name": "Flatbread pocket s&wiches",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 6.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Williams, express, fully cooked sausage, egg & cheese biscuits sandwiches",
+        "Name": "Williams, express, fully cooked sausage, egg & cheese biscuits s&wiches",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 18.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Signature cafe, ham, potato, and cheddar frittata",
+        "Name": "Signature cafe, ham, potato, & cheddar frittata",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 15.0,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "French toast ready to eat sandwiches",
+        "Name": "French toast ready to eat s&wiches",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 10.0,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Pretzel flatbread sandwiches",
+        "Name": "Pretzel flatbread s&wiches",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 3.9,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Waffle sandwich",
+        "Name": "Waffle s&wich",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 10.3,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Ole' west omelet",
+        "Name": "Ole west omelet",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 3.8,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Biscuit sandwich",
+        "Name": "Biscuit s&wich",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 19.5,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Protein breakfast sandwich",
+        "Name": "Protein breakfast s&wich",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 7.1,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Earth's best, egg, cheese & spinach pocket",
+        "Name": "Earths best, egg, cheese & spinach pocket",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "12 country sausage & biscuits",
+        "Name": "Country sausage & biscuits",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 16.7,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "4 maple sausage, 4 egg & cheese",
+        "Name": "Maple sausage, egg & cheese",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 20.0,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese biscuit sandwich",
+        "Name": "Bacon, egg & cheese biscuit s&wich",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 16.5,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Croissant sausage, egg & cheese sandwiches",
+        "Name": "Croissant sausage, egg & cheese s&wiches",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 21.9,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "12 country sausage & biscuits with cheese",
+        "Name": "Country sausage & biscuits with cheese",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 20.4,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "Biscuit sausage, egg & cheese sandwiches",
+        "Name": "Biscuit sausage, egg & cheese s&wiches",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 23.4,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Sausage, egg and cheese bagel",
+        "Name": "Sausage, egg & cheese bagel",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 13.1,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Egg, cheese + sausage in a fresh baked tortilla",
+        "Name": "Egg, cheese & sausage in a fresh baked tortilla",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 12.7,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Biscuit sandwiches",
+        "Name": "Biscuit s&wiches",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 16.8,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Big burly breakfast sandwich",
+        "Name": "Big burly breakfast s&wich",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 14.7,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "3 x 3 breakfast burrito",
+        "Name": "Breakfast burrito",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.2,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Frittata with artichokes and feta cheese",
+        "Name": "Frittata with artichokes & feta cheese",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 12.1,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Chorizo breakfast sandwich",
+        "Name": "Chorizo breakfast s&wich",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 41.9,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Chorizo and sauce, potatoes, cheese, salsa & tortilla strips tex mex bowl",
+        "Name": "Chorizo & sauce, potatoes, cheese, salsa & tortilla strips tex mex bowl",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 13.5,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Meat lovers real eggs, sausage, cheddar cheese & bacon, meat lovers",
+        "Name": "Meat lovers real eggs, sausage, cheddar cheese & bacon",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 15.9,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Aunt jemima, griddle melts, egg & cheese, egg & cheese",
+        "Name": "Aunt jemima, griddle melts, egg & cheese",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 9.9,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Aunt jemima, griddle poppers, griddle puffs, very berry, very berry",
+        "Name": "Aunt jemima, griddle poppers, griddle puffs, very berry",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 16.7,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "Lance, quick starts, granola breakfast biscuit sandwiches, raspberry greek yogurt naturally flavored, raspberry greek yogurt naturally flavored",
+        "Name": "Lance, quick starts, granola breakfast biscuit s&wiches, raspberry greek yogurt naturally flavored",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 18.9,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Country sausage & biscuits, country",
+        "Name": "Country sausage & biscuits",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 10.6,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "Stouffer's, sausage & egg scramble in cheddar cheese sauce",
+        "Name": "Stouffers, sausage & egg scramble in cheddar cheese sauce",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 7.8,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Buttermilk bread, buttermilk",
+        "Name": "Buttermilk bread",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 4.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Frittata with artichokes and feta cheese, spinach and mushroom",
+        "Name": "Frittata with artichokes & feta cheese, spinach & mushroom",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 12.1,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "All american scramble potatoes, sharp cheddar cheese & uncured bacon kit, all american scramble",
+        "Name": "All american scramble potatoes, sharp cheddar cheese & uncured bacon kit",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 15.3,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Denver scramble applewood smoked ham, mild cheddar cheese, potatoes, green peppers & onions kit, denver scramble",
+        "Name": "Denver scramble applewood smoked ham, mild cheddar cheese, potatoes, green peppers & onions kit",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 9.4,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "Ranchero tofu scramble, ranchero tofu",
+        "Name": "Ranchero tofu scramble",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.3,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Applewood smoked ham denver scramble kit, applewood smoked ham",
+        "Name": "Applewood smoked ham denver scramble kit",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 9.4,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Southwest style scramble kit, southwest style",
+        "Name": "Southwest style scramble kit",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.3,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Sharp cheddar cheese, pork sausage & uncured bacon protein packed scramble kit, sharp cheddar cheese, pork sausage & uncured bacon",
+        "Name": "Sharp cheddar cheese, pork sausage & uncured bacon protein packed scramble kit, sharp cheddar cheese",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 31.8,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms, onions & red peppers veggie scramble kit, sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms, onions & red peppers",
+        "Name": "Sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms, onions & red peppers veggie scramble kit, sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 17.6,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Real egg whites, turkey sausage & cheddar cheese, turkey sausage",
+        "Name": "Real egg whites, turkey sausage & cheddar cheese",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 5.3,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Walnut peach apple trail mix, blueberry nut breakfast flats, blueberry greek nonfat yogurt morning go-kit, walnut peach apple, blueberry nut, blueberry",
+        "Name": "Walnut peach apple trail mix, blueberry nut breakfast flats, blueberry greek nonfat yogurt morning go-kit, walnut peach apple, blueberry nut",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 9.3,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Berry almond trail mix, cranberry almond breakfast flats, strawberry greek nonfat yogurt morning go-kit, berry almond, cranberry almond, strawberry",
+        "Name": "Berry almond trail mix, cranberry almond breakfast flats, strawberry greek nonfat yogurt morning go-kit, berry almond, cranberry almond",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 8.2,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Rustic scramble turkey sausage, low-moisture part-skim mozzarella cheese, potatoes, mushrooms, onions & red peppers kit, rustic scramble",
+        "Name": "Rustic scramble turkey sausage, low-moisture part-skim mozzarella cheese, potatoes, mushrooms, onions & red peppers kit",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 7.1,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Ultimate scramble pork sausage, mild cheddar cheese, potatoes, onions, green & red peppers kit, ultimate scramble",
+        "Name": "Ultimate scramble pork sausage, mild cheddar cheese, potatoes, onions, green & red peppers kit",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 16.5,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Blueberry muffin and sausage bites",
+        "Name": "Blueberry muffin & sausage bites",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 21.2,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Egg white and turkey sausage breakfast burrito, egg white and turkey sausage",
+        "Name": "Egg white & turkey sausage breakfast burrito",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 10.7,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Steak & cheddar with real eggs, diced steak & cheddar cheese, steak & cheddar",
+        "Name": "Steak & cheddar with real eggs, diced steak & cheddar cheese",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 9.9,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese, real eggs, spicy pork sausage & pepper jack cheese",
+        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese, real eggs",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 13.9,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Fluffy mini muffin shaped eggs with country-style pork sausage and a three cheese blend bites, country-style sausage",
+        "Name": "Fluffy mini muffin shaped eggs with country-style pork sausage & a three cheese blend bites, country-style sausage",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 19.2,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Bell pepper & cheese fluffy mini muffin shaped eggs three cheese blend egg bites, bell pepper & cheese",
+        "Name": "Bell pepper & cheese fluffy mini muffin shaped eggs three cheese blend egg bites",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 16.9,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Mushroom & asiago fluffy mini muffin shaped eggs with mushrooms, a four cheese blend & a hint of rosemary egg bites, mushroom & asiago",
+        "Name": "Mushroom & asiago fluffy mini muffin shaped eggs with mushrooms, a four cheese blend & a hint of rosemary egg bites",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 16.1,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Buttermilk biscuit, buttermilk",
+        "Name": "Buttermilk biscuit",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 10.9,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Breakfast bento box with a hard cooked egg, mini pancakes, strawberries, blueberries and hazelnut spread",
+        "Name": "Breakfast bento with a hard cooked egg, mini pancakes, strawberries, blueberries & hazelnut spread",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 8.3,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Flatbread pocket sandwiches, egg white & turkey sausage",
+        "Name": "Flatbread pocket s&wiches, egg white & turkey sausage",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 6.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Signature cafe, egg frittata, bacon, tomato and swiss frittata, bacon, tomato and swiss frittata",
+        "Name": "Signature cafe, egg frittata, bacon, tomato & swiss frittata, bacon",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 18.6,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Signature cafe, frittata, maple sausage, potato and cheddar, maple sausage, potato and cheddar",
+        "Name": "Signature cafe, frittata, maple sausage, potato & cheddar, maple sausage",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 18.6,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Cocoa & banana plant-based breakfast, cocoa & banana",
+        "Name": "Cocoa & banana plant-based breakfast",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 6.1,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Apple & cinnamon plant-based breakfast with real fruit and coconut, apple & cinnamon",
+        "Name": "Apple & cinnamon plant-based breakfast with real fruit & coconut",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 4.2,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Sausage biscuits, sausage",
+        "Name": "Sausage biscuits",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 25.0,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Peanut butter sandwich breakfast biscuits, peanut butter",
+        "Name": "Peanut butter s&wich breakfast biscuits",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 18.0,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Banana bread breakfast biscuits, banana bread",
+        "Name": "Banana bread breakfast biscuits",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 16.0,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Organic apples & blueberries oatmeal + sprouted quinoa super morning bowl, organic apples & blueberries",
+        "Name": "Organic apples & blueberries oatmeal & sprouted quinoa super morning bowl",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 2.7,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Meat lovers sausage, egg, cheese & bacon loaded sausage bites, meat lovers",
+        "Name": "Meat lovers sausage, egg, cheese & bacon loaded sausage bites",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 22.9,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Cocoa & banana plant-based breakfast with real fruit and coconut, cocoa & banana",
+        "Name": "Cocoa & banana plant-based breakfast with real fruit & coconut",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 6.1,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Sausage, egg and cheese croissant",
+        "Name": "Sausage, egg & cheese croissant",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 24.2,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Banana bread soft baked breakfast biscuits, banana bread",
+        "Name": "Banana bread soft baked breakfast biscuits",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 16.0,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Turkey sausage, egg & cheese loaded sausage bites, turkey sausage, egg & cheese",
+        "Name": "Turkey sausage, egg & cheese loaded sausage bites, turkey sausage",
         "Nutrients": {
             "Protein": 18.1,
             "Fat": 15.2,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Sausage & cheddar whole egg, pork sausage, and cheddar cheese, sausage & cheddar",
+        "Name": "Sausage & cheddar whole egg, pork sausage, & cheddar cheese",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 17.8,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Cottage, sharp cheddar and feta cheeses, with chives egg bites, feta & chives",
+        "Name": "Cottage, sharp cheddar & feta cheeses, with chives egg bites, feta & chives",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 13.2,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Roasted red pepper & mozzarella cheese egg bites, roasted red pepper & mozzarella cheese",
+        "Name": "Roasted red pepper & mozzarella cheese egg bites",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 10.8,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Uncured bacon & cheddar cheese pasture-raised egg bites, uncured bacon & cheddar cheese",
+        "Name": "Uncured bacon & cheddar cheese pasture-raised egg bites",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 13.1,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Bacon & 3 cheese egg bites, bacon & 3 cheese",
+        "Name": "Bacon & cheese egg bites",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 16.1,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Uncured ham + swiss sous vide egg bites, uncured ham + swiss",
+        "Name": "Uncured ham & swiss sous vide egg bites",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 12.0,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Uncured bacon + pepper jack sous vide egg bites, uncured bacon + pepper jack",
+        "Name": "Uncured bacon & pepper jack sous vide egg bites",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 16.0,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Broccoli + cheddar sous vide egg bites, broccoli + cheddar",
+        "Name": "Broccoli & cheddar sous vide egg bites",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 14.0,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Sandwiches, sausage egg & cheese",
+        "Name": "S&wiches, sausage egg & cheese",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 25.9,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "Sandwiches, sausage, egg & cheese on a muffin",
+        "Name": "S&wiches, sausage, egg & cheese on a muffin",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 16.8,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Burrito, burrito",
+        "Name": "Burrito",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 13.1,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "Egg & cheese on a biscuit sandwich sausage, egg & cheese",
+        "Name": "Egg & cheese on a biscuit s&wich sausage",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 18.1,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Sausage & gravy potatoes, country gravy, eggs, sausage & cheddar cheese breakfast bowl, sausage & gravy",
+        "Name": "Sausage & gravy potatoes, country gravy, eggs, sausage & cheddar cheese breakfast bowl",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 11.6,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Sausage real eggs, sausage & cheddar cheese, sausage",
+        "Name": "Sausage real eggs, sausage & cheddar cheese",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 14.6,
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "Name": "Eggs, chorizo sausage & 3 cheeses oven-baked egg bites, eggs, chorizo sausage & 3 cheeses",
+        "Name": "Eggs, chorizo sausage & cheeses oven-baked egg bites, eggs",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 16.0,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Breakfast combos pancakes with sausage & syrup, breakfast combos",
+        "Name": "Breakfast combos pancakes with sausage & syrup",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 18.7,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Oven-baked egg bites, egg",
+        "Name": "Oven-baked egg bites",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 16.8,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Eggs, bacon & 3 cheeses oven-baked egg bites, eggs, bacon & 3 cheeses",
+        "Name": "Eggs, bacon & cheeses oven-baked egg bites, eggs",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 16.0,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Gouda & bacon whole egg, gouda cheese, and bacon omelet minis, gouda & bacon",
+        "Name": "Gouda & bacon whole egg, gouda cheese, & bacon omelet minis",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 16.7,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Cheesy chicken fully cooked seasoned chicken with eggs, cheese & vegetables breakfast poppers, cheesy chicken",
+        "Name": "Cheesy chicken fully cooked seasoned chicken with eggs, cheese & vegetables breakfast poppers",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.2,
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "Name": "Scrambled eggs, uncured bacon, and pepper jack cheese in a flour tortilla burrito, egg, uncured bacon, and pepper jack cheese",
+        "Name": "Scrambled eggs, uncured bacon, & pepper jack cheese in a flour tortilla burrito, egg, uncured bacon",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 14.1,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "English muffin, egg and cheese breakfast sandwich, english muffin, egg and cheese",
+        "Name": "English muffin, egg & cheese breakfast s&wich, english muffin",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 10.6,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Bacon breakfast taco egg, bacon, cheddar and monterey jack cheese on a flour tortilla, bacon",
+        "Name": "Bacon breakfast taco egg, bacon, cheddar & monterey jack cheese on a flour tortilla",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 15.9,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Spiced apple breakfast grains, spiced apple",
+        "Name": "Spiced apple breakfast grains",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.3,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Turkey sausage & cheese egg bites, turkey sausage & cheese",
+        "Name": "Turkey sausage & cheese egg bites",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 18.5,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Egg & cheese with cheese sauce on homestyle bread griddle melts, egg & cheese",
+        "Name": "Egg & cheese with cheese sauce on homestyle bread griddle melts",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 9.9,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Very berry bite-size griddle puffs with diced cranberries and natural blueberry flavor griddle poppers, very berry",
+        "Name": "Very berry bite-size griddle puffs with diced cranberries & natural blueberry flavor griddle poppers",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 16.7,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Apples & cinnamon with oatmeal streusel, artificial and real maple flavored sauce on cinnamon bread griddle melts, apples & cinnamon",
+        "Name": "Apples & cinnamon with oatmeal streusel, artificial & real maple flavored sauce on cinnamon bread griddle melts",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 6.3,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "Banana bread flavor soft baked breakfast biscuits, banana bread",
+        "Name": "Banana bread flavor soft baked breakfast biscuits",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 16.0,
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese, spicy sausage",
+        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 13.9,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Peppers & onions breakfast pairings, peppers & onions",
+        "Name": "Peppers & onions breakfast pairings",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 13.1,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Three cheese 1 sous vide egg with cheddar, parmesan and jack cheeses & 3 turkey breakfast sausage links breakfast pairings, three cheese",
+        "Name": "Three cheese sous vide egg with cheddar, parmesan & jack cheeses & turkey breakfast sausage links breakfast pairings",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 14.8,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Egg'wich the breadless breakfast, egg'wich",
+        "Name": "Eggwich the breadless breakfast",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 14.7,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Egg bacon western pizzeria & grill breakfast, egg bacon western",
+        "Name": "Egg bacon western pizzeria & grill breakfast",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 14.7,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Pancakes with bacon & syrup breakfast combos, pancakes with bacon & syrup",
+        "Name": "Pancakes with bacon & syrup breakfast combos",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 11.2,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "Egg & sausage cage-free eggs, turkey sausage, jack & cheddar cheeses, wrapped in a flour tortilla breakfast burritos, egg & sausage",
+        "Name": "Egg & sausage cage-free eggs, turkey sausage, jack & cheddar cheeses, wrapped in a flour tortilla breakfast burritos",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 9.6,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Eggs, potatoes & cheesy sausage sauce snack bowl, eggs, potatoes & cheesy sausage sauce",
+        "Name": "Eggs, potatoes & cheesy sausage sauce snack bowl, eggs",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 8.4,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Get focused! wake up with a blend of cage-free eggs, fresh kale, farro, smoked gouda, & our savory grounds poignantly seasoned with rosemary & fennel functional breakfast burrito, get focused!",
+        "Name": "Get focused! wake up with a blend of cage-free eggs, fresh kale, farro, smoked gouda, & our savory grounds poignantly seasoned with rosemary & fennel functional breakfast burrito",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 7.7,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese biscuit, bacon, egg & cheese",
+        "Name": "Bacon, egg & cheese biscuit, bacon",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 16.5,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "Sausage & egg scramble scrambled eggs, russet potatoes & sausage in a real cheddar cheese sauce, sausage & egg scramble",
+        "Name": "Sausage & egg scramble scrambled eggs, russet potatoes & sausage in a real cheddar cheese sauce",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 7.8,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "French toast casserole bites, french toast",
+        "Name": "French toast casserole bites",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 14.3,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, buttermilk biscuit, sausage, egg & cheese sandwich",
+        "Name": "Odoms tennessee pride, buttermilk biscuit, sausage, egg & cheese s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 20.2,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, croissant egg and cheese sandwich, maple sausage, odom's tennessee pride, croissant egg and cheese sandwich, maple sausage",
+        "Name": "Odoms tennessee pride, croissant egg & cheese s&wich, maple sausage, odoms tennessee pride, croissant egg & cheese s&wich",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 20.5,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, muffin egg & cheese sandwich, sausage, odom's tennessee pride, muffin egg & cheese sandwich, sausage",
+        "Name": "Odoms tennessee pride, muffin egg & cheese s&wich, sausage, odoms tennessee pride, muffin egg & cheese s&wich",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 13.4,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, croissant egg and cheese sandwich, sausage, odom's tennessee pride, croissant egg and cheese sandwich, sausage",
+        "Name": "Odoms tennessee pride, croissant egg & cheese s&wich, sausage, odoms tennessee pride, croissant egg & cheese s&wich",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 21.4,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, sausage biscuits, turkey, odom's tennessee pride, sausage biscuits, turkey",
+        "Name": "Odoms tennessee pride, sausage biscuits, turkey, odoms tennessee pride, sausage biscuits",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 6.0,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Odom's tennessee pride, sausage & buttermilk biscuits sandwiches, odom's tennessee pride, sausage & buttermilk biscuits sandwiches",
+        "Name": "Odoms tennessee pride, sausage & buttermilk biscuits s&wiches, odoms tennessee pride",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 23.1,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Egg & cheese on a biscuit sausage sandwiches, egg & cheese",
+        "Name": "Egg & cheese on a biscuit sausage s&wiches",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 18.1,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Bite size cookies made with milk chocolate m&m's minis, milk chocolate m&m's minis",
+        "Name": "Bite size cookies made with milk chocolate m&ms minis",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 24.4,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese croissant sandwiches, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese croissant s&wiches, sausage",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 21.9,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "Canadian bacon, egg white & cheese honey wheat english muffin sandwiches, canadian bacon, egg white & cheese",
+        "Name": "Canadian bacon, egg white & cheese honey wheat english muffin s&wiches, canadian bacon",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 3.9,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese biscuit sandwiches, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese biscuit s&wiches, sausage",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 21.9,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Original pancakes & sausage on a stick!, original",
+        "Name": "Original pancakes & sausage on a stick!",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 18.3,
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "Name": "Spicy sausage, egg and cheese on toast spicy sausage & fluffy egg topped with a pasteurized process cheese between slices of sourdough toast big burly breakfast sandwich, spicy sausage, egg and cheese on toast",
+        "Name": "Spicy sausage, egg & cheese on toast spicy sausage & fluffy egg topped with a pasteurized process cheese between slices of sourdough toast big burly breakfast s&wich, spicy sausage",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 14.7,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Meat lovers with real eggs, sausage, cheddar cheese & bacon simple scrambles, meat lovers",
+        "Name": "Meat lovers with real eggs, sausage, cheddar cheese & bacon simple scrambles",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 15.9,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Sausage real eggs, sausage & cheddar cheese simple scrambles, sausage",
+        "Name": "Sausage real eggs, sausage & cheddar cheese simple scrambles",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 14.6,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "Bacon real eggs, cheddar cheese & bacon simple scrambles, bacon",
+        "Name": "Bacon real eggs, cheddar cheese & bacon simple scrambles",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 15.2,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Turkey sausage real egg whites, turkey sausage & cheddar cheese simple scrambles, turkey sausage",
+        "Name": "Turkey sausage real egg whites, turkey sausage & cheddar cheese simple scrambles",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 5.3,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "Blueberry muffin and sausage bites morning combos, blueberry muffin and sausage bites",
+        "Name": "Blueberry muffin & sausage bites morning combos",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 21.2,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "Steak & cheddar with real eggs, diced steak & cheddar cheese simple scrambles, steak & cheddar",
+        "Name": "Steak & cheddar with real eggs, diced steak & cheddar cheese simple scrambles",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 9.9,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese simple scrambles, spicy sausage",
+        "Name": "Spicy sausage with real eggs, spicy pork sausage & pepper jack cheese simple scrambles",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 13.9,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Sausage & cheddar whole egg, pork sausage, and cheddar cheese omelet minis, sausage & cheddar",
+        "Name": "Sausage & cheddar whole egg, pork sausage, & cheddar cheese omelet minis",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 17.8,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Feta & chives cottage, sharp cheddar and feta cheeses, with chives egg bites, feta & chives",
+        "Name": "Feta & chives cottage, sharp cheddar & feta cheeses, with chives egg bites",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 13.2,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Sausage & pepper jack sausage with cottage, sharp cheddar, & pepper jack cheeses egg bites, sausage & pepper jack",
+        "Name": "Sausage & pepper jack sausage with cottage, sharp cheddar, & pepper jack cheeses egg bites",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 15.8,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "Ham, bell peppers, mushroom, bacon and onion egg frittatas with turkey sausage and cheese egg'wich, ham, bell peppers, mushroom, bacon and onion egg frittatas with turkey sausage and cheese",
+        "Name": "Ham, bell peppers, mushroom, bacon & onion egg frittatas with turkey sausage & cheese eggwich, ham, bell peppers, mushroom",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 14.7,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "French toast, pork sausage and scrambled eggs casserole bites, french toast",
+        "Name": "French toast, pork sausage & scrambled eggs casserole bites",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 14.3,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Bacon & three cheese sous vide egg bites, bacon & three cheese",
+        "Name": "Bacon & three cheese sous vide egg bites",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 16.1,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Kale, red pepper & three cheese sous vide egg bites, kale, red pepper & three cheese",
+        "Name": "Kale, red pepper & three cheese sous vide egg bites, kale",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 7.7,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Original puff bunz, original",
+        "Name": "Original puff bunz",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 17.6,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Veggies with asiago cheese sous vide egg bites, veggies with asiago cheese",
+        "Name": "Veggies with asiago cheese sous vide egg bites",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 10.8,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Fluffy eggs with uncured bacon, monterey jack and cheddar cheeses egg bites, uncured bacon & cheese",
+        "Name": "Fluffy eggs with uncured bacon, monterey jack & cheddar cheeses egg bites, uncured bacon & cheese",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 19.2,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Pork sausage & cheese fluffy eggs with pork sausage, monterey jack and cheddar cheeses egg bites, pork sausage & cheese",
+        "Name": "Pork sausage & cheese fluffy eggs with pork sausage, monterey jack & cheddar cheeses egg bites",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 19.2,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Spinach & peppers fluffy egg whites with spinach, red and green peppers & monterey jack cheese egg bites, spinach & peppers",
+        "Name": "Spinach & peppers fluffy egg whites with spinach, red & green peppers & monterey jack cheese egg bites",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 12.3,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "2x sausage & cheese double sausage, double cheese biscuit sandwich, 2x sausage & cheese",
+        "Name": "Sausage & cheese double sausage, double cheese biscuit s&wich",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 19.5,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "3 x 3 breakfast burrito, 3 meats, 3 cheeses, 3 peppers",
+        "Name": "Breakfast burrito, meats, cheeses, peppers",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 6.2,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Biscuit sandwich, sausage, egg & cheese",
+        "Name": "Biscuit s&wich, sausage, egg & cheese",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 24.1,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Egg frittata flavored breakfast cup, egg frittata",
+        "Name": "Egg frittata flavored breakfast cup",
         "Nutrients": {
             "Protein": 35.3,
             "Fat": 38.2,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Steak & cheddar real eggs, diced steak & cheddar cheese, steak & cheddar",
+        "Name": "Steak & cheddar real eggs, diced steak & cheddar cheese",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 9.9,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Monte carlo french toast canadian-style bacon with strawberry jam and american cheese on cinnamon french toast breakfast sandwiches, monte carlo french toast",
+        "Name": "Monte carlo french toast canadian-style bacon with strawberry jam & american cheese on cinnamon french toast breakfast s&wiches",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 12.7,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Turkey sausage & veggie eggs, white cheddar cheese, turkey sausage, onions, and bell peppers in whole wheat tortilla breakfast wraps, turkey sausage & veggie",
+        "Name": "Turkey sausage & veggie eggs, white cheddar cheese, turkey sausage, onions, & bell peppers in whole wheat tortilla breakfast wraps",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 11.8,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Egg and cheese keto bite, egg and cheese",
+        "Name": "Egg & cheese keto bite",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 26.3,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Poblano sweet potato with cheddar & jack cheese, black beans & corn burrito, poblano sweet potato",
+        "Name": "Poblano sweet potato with cheddar & jack cheese, black beans & corn burrito",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 9.3,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Original egg white wraps, original",
+        "Name": "Original egg white wraps",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.0,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Veggie scramble eggs, potatoes, black beans, peppers, salsa and cheddar cheese breakfast bowl, veggie scramble",
+        "Name": "Veggie scramble eggs, potatoes, black beans, peppers, salsa & cheddar cheese breakfast bowl",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 7.7,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Meat lovers eggs, sausage, bacon ham and cheddar cheese breakfast bowl, meat lovers",
+        "Name": "Meat lovers eggs, sausage, bacon ham & cheddar cheese breakfast bowl",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 9.4,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Spicy chicken & cheese biscuit, spicy chicken & cheese",
+        "Name": "Spicy chicken & cheese biscuit",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 14.7,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Strawberry almond granola smoothie bowl, strawberry almond",
+        "Name": "Strawberry almond granola smoothie bowl",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Biscuit sandwiches, bacon, egg & cheese",
+        "Name": "Biscuit s&wiches, bacon, egg & cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 16.8,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Broccoli & parmesan sous-vide egg bites, broccoli & parmesan",
+        "Name": "Broccoli & parmesan sous-vide egg bites",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 2.5,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Sausage egg & cheese biscuit, sausage egg & cheese",
+        "Name": "Sausage egg & cheese biscuit",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 20.1,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Breakfast scramble chorizo-inspired protein-rich tofu scramble made with hearty potatoes and green peppers superfood skillet, breakfast scramble",
+        "Name": "Breakfast scramble chorizo-inspired protein-rich tofu scramble made with hearty potatoes & green peppers superfood skillet",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 11.6,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Egg whites with spinach & herbs omelet rolls, egg whites with spinach & herbs",
+        "Name": "Egg whites with spinach & herbs omelet rolls",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 7.9,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Cage free eggs with cheddar & parmesan cheese omelet rolls, cheddar & parmesan cheese",
+        "Name": "Cage free eggs with cheddar & parmesan cheese omelet rolls",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 12.3,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Turkey sausage, egg & cheddar homestyle breakfast sandwich, turkey sausage, egg & cheddar",
+        "Name": "Turkey sausage, egg & cheddar homestyle breakfast s&wich, turkey sausage",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 11.9,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Double egg & cheddar homestyle breakfast sandwich, double egg & cheddar",
+        "Name": "Double egg & cheddar homestyle breakfast s&wich",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 11.9,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheddar homestyle breakfast sandwich, bacon, egg & cheddar",
+        "Name": "Bacon, egg & cheddar homestyle breakfast s&wich, bacon",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 15.8,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese english muffin sandwiches, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese english muffin s&wiches, sausage",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 15.4,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Sausage & 3 cheese egg bites, sausage & 3 cheese",
+        "Name": "Sausage & cheese egg bites",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 14.6,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Bacon & 3 cheeses egg bites, bacon & 3 cheeses",
+        "Name": "Bacon & cheeses egg bites",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 15.0,
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "Name": "Southwest fire roasted corn breakfast bar with sweet potato, southwest fire roasted corn",
+        "Name": "Southwest fire roasted corn breakfast bar with sweet potato",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 9.4,
@@ -2628,7 +2628,7 @@
         }
     },
     {
-        "Name": "Bob evans, sausage, egg & cheese biscuit sandwich",
+        "Name": "Bob evans, sausage, egg & cheese biscuit s&wich",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 20.5,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "Bacon, egg & cheese tacos, bacon, egg & cheese",
+        "Name": "Bacon, egg & cheese tacos, bacon",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 11.8,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese tacos, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese tacos, sausage",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 13.2,
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "Name": "Hot sausage biscuits, hot sausage",
+        "Name": "Hot sausage biscuits",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 25.0,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Protein lover's a hearty, cheesy, italian breakfast scramble featuring fire-roasted tomatoes, bell peppers, and our meatless tuscan savory grounds functional breakfast burritos, protein lover's",
+        "Name": "Protein lovers a hearty, cheesy, italian breakfast scramble featuring fire-roasted tomatoes, bell peppers, & our meatless tuscan savory grounds functional breakfast burritos",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 5.6,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "Get focused! an english breakfast flavor, with smoked gouda, cage-free eggs, kale, farro, meatless grounds, and seasoned with rosemary functional breakfast burritos, get focused!",
+        "Name": "Get focused! an english breakfast flavor, with smoked gouda, cage-free eggs, kale, farro, meatless grounds, & seasoned with rosemary functional breakfast burritos",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 7.8,
@@ -2709,7 +2709,7 @@
         }
     },
     {
-        "Name": "Country sausage & biscuits, country sausage",
+        "Name": "Country sausage & biscuits",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 10.6,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Egg white cheese & canadian bacon on a whole grain muffin, egg white cheese & canadian bacon on a whole grain",
+        "Name": "Egg white cheese & canadian bacon on a whole grain muffin",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 4.2,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Sausage egg & cheese biscuit sandwiches, sausage & egg cheese",
+        "Name": "Sausage egg & cheese biscuit s&wiches, sausage & egg cheese",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 18.5,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Real eggs, sausage & cheddar cheese breakfast cup, real eggs, sausage & cheddar cheese",
+        "Name": "Real eggs, sausage & cheddar cheese breakfast cup, real eggs",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 15.2,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Canadian bacon, egg white & cheese muffin sandwich, canadian bacon, egg white & cheese",
+        "Name": "Canadian bacon, egg white & cheese muffin s&wich, canadian bacon",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.9,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Ham, bacon, pork sausage, potatoes & cheese triple meat bowl, triple meat",
+        "Name": "Ham, bacon, pork sausage, potatoes & cheese triple meat bowl",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 14.1,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Colby jack classic reduced fat colby & reduced fat monterey jack cheeses, colby jack",
+        "Name": "Colby jack classic reduced fat colby & reduced fat monterey jack cheeses",
         "Nutrients": {
             "Protein": 26.3,
             "Fat": 21.1,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Breakfast sausage & cheese tamale, breakfast sausage & cheese",
+        "Name": "Breakfast sausage & cheese tamale",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 16.2,
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "Name": "Organic, egg whites, spinach and chicken sausage breakfast bowl, egg whites, spinach and chicken sausage",
+        "Name": "Organic, egg whites, spinach & chicken sausage breakfast bowl, egg whites",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 3.2,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Spinach & feta sous-vide egg bites, spinach & feta",
+        "Name": "Spinach & feta sous-vide egg bites",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 10.0,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Sausage, egg, cheese croissant, sausage, egg, cheese",
+        "Name": "Sausage, egg, cheese croissant, sausage, egg",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 15.5,
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "Name": "Egg white & cheese english muffin lite turkey sausage, egg white & cheese",
+        "Name": "Egg white & cheese english muffin lite turkey sausage",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 5.2,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Country-style sausage breakfast sandwiches, country-style sausage",
+        "Name": "Country-style sausage breakfast s&wiches",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 14.1,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Egg & sausage tamarito, egg & sausage",
+        "Name": "Egg & sausage tamarito",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 22.9,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Tater tot breakfast with plant based sausage cage free scrambled eggs, tater tots and red & green peppers with a cheddar cheese sauce bowl, tater tot breakfast with plant based sausage",
+        "Name": "Tater tot breakfast with plant based sausage cage free scrambled eggs, tater tots & red & green peppers with a cheddar cheese sauce bowl",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 8.6,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Sausage & bacon with mozzarella cheese, egg, cheese sauce, sausage and bacon breakfast take & bake mia italian traditional crust pizza, sausage & bacon",
+        "Name": "Sausage & bacon with mozzarella cheese, egg, cheese sauce, sausage & bacon breakfast take & bake mia italian traditional crust pizza",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 14.2,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Broccoli cheddar breakfast scrambled egg with broccoli, cauliflower & white cheddar cheese, broccoli, cauliflower & white cheddar cheese",
+        "Name": "Broccoli cheddar breakfast scrambled egg with broccoli, cauliflower & white cheddar cheese, broccoli",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 4.3,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese breakfast bowl, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese breakfast bowl, sausage",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 14.7,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Jumbo bacon & sausage breakfast burrito, jumbo bacon & sausage",
+        "Name": "Jumbo bacon & sausage breakfast burrito",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 15.5,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Southwest-style breakfast sandwiches, southwest-style",
+        "Name": "Southwest-style breakfast s&wiches",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 12.5,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Sausage,egg, cheese bagel, sausage,egg, cheese",
+        "Name": "Sausage,egg, cheese bagel, sausage,egg",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 6.5,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Sausage biscuits sandwiches, sausage",
+        "Name": "Sausage biscuits s&wiches",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 19.8,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "Peanut butter & grape jelly sandwich, peanut butter & grape jelly",
+        "Name": "Peanut butter & grape jelly s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 21.2,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Scrambled eggs with crispy chunks of bacon and creamy cheese sauce with a side of diced potatoes, crispy bacon scramble",
+        "Name": "Scrambled eggs with crispy chunks of bacon & creamy cheese sauce with a side of diced potatoes, crispy bacon scramble",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 6.0,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "Southwest style scramble chorizo, monterey jack cheese, potatoes, tomatoes, green & red bell peppers, jalapeno peppers & onions kit, southwest style scramble",
+        "Name": "Southwest style scramble chorizo, monterey jack cheese, potatoes, tomatoes, green & red bell peppers, jalapeno peppers & onions kit",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 15.3,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Veggie scramble sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms, onions & red peppers kit, veggie scramble",
+        "Name": "Veggie scramble sharp white cheddar cheese, mild cheddar cheese, potatoes, broccoli, mushrooms, onions & red peppers kit",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 17.6,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Peanut butter & strawberry jam sandwich, peanut butter & strawberry jam",
+        "Name": "Peanut butter & strawberry jam s&wich",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 21.2,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Bacon, egg and cheese croissant country sandwich, bacon, egg and cheese croissant",
+        "Name": "Bacon, egg & cheese croissant country s&wich, bacon",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 15.2,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Meat lovers diced potatoes, red & green peppers, onions, sausage crumbles & bacon skillets, meat lovers",
+        "Name": "Meat lovers diced potatoes, red & green peppers, onions, sausage crumbles & bacon skillets",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 13.4,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Bacon, egg, cheese croissant, bacon, egg, cheese",
+        "Name": "Bacon, egg, cheese croissant, bacon, egg",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 0.0,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese biscuit, sausage, egg & cheese",
+        "Name": "Sausage, egg & cheese biscuit, sausage",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 21.9,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Griddle cake sandwich",
+        "Name": "Griddle cake s&wich",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 19.5,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Egg, cheese & bacon muffin sandwich, egg, cheese & bacon muffin",
+        "Name": "Egg, cheese & bacon muffin s&wich, egg",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 0.0,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Uncured bacon & cheddar cheese breakfast bar with hash browns, uncured bacon & cheddar cheese",
+        "Name": "Uncured bacon & cheddar cheese breakfast bar with hash browns",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 12.9,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "Uncured ham & gruyere fluffy mini muffin shaped egg whites with savory uncured ham and creamy gruyere cheese egg bites, uncured ham & gruyere",
+        "Name": "Uncured ham & gruyere fluffy mini muffin shaped egg whites with savory uncured ham & creamy gruyere cheese egg bites",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 12.4,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Red pepper spread & monterey jack bistro chorizo patty with applewood flavored bacon breakfast sandwiches, red pepper spread & monterey jack",
+        "Name": "Red pepper spread & monterey jack bistro chorizo patty with applewood flavored bacon breakfast s&wiches",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 22.7,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Sausage with cottage, sharp cheddar, and pepper jack cheeses egg bites, sausage & pepper jack",
+        "Name": "Sausage with cottage, sharp cheddar, & pepper jack cheeses egg bites, sausage & pepper jack",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 15.8,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Spicy sausage, egg and cheese on toast spicy sausage & fluffy egg topped with pasteurized process cheese between slices of sourdough toast big burly breakfast sandwiches, spicy sausage, egg and cheese on toast",
+        "Name": "Spicy sausage, egg & cheese on toast spicy sausage & fluffy egg topped with pasteurized process cheese between slices of sourdough toast big burly breakfast s&wiches, spicy sausage",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 14.7,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Bonasaurus breakfast burrito with potatoes, anaheim green chiles, sauteed onions, mushroom and tomatillo salsa, potatoes, anaheim green chiles, sauteed onions, mushroom and tomatillo salsa",
+        "Name": "Bonasaurus breakfast burrito with potatoes, anaheim green chiles, sauteed onions, mushroom & tomatillo salsa, potatoes, anaheim green chiles, sauteed onions",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.5,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Sausage & three cheese egg, pork sausage, cheddar, mozzarella & gouda cheese egg bites, sausage & three cheese",
+        "Name": "Sausage & three cheese egg, pork sausage, cheddar, mozzarella & gouda cheese egg bites",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 17.7,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Veggie breakfast with potatoes, eggs, green chile, anaheim green chiles and cheese burrito, veggie breakfast",
+        "Name": "Veggie breakfast with potatoes, eggs, green chile, anaheim green chiles & cheese burrito",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 7.5,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Broccoli & parmesan egg bites, broccoli & parmesan",
+        "Name": "Broccoli & parmesan egg bites",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 2.5,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "American scrambled eggs, diced potatoes and pork sausage links breakfast platter, american",
+        "Name": "American scrambled eggs, diced potatoes & pork sausage links breakfast platter",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 17.3,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Organic, breakfast egg whites, spinach and chicken sausage bowl, breakfast",
+        "Name": "Organic, breakfast egg whites, spinach & chicken sausage bowl",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 3.2,
@@ -3132,7 +3132,7 @@
         }
     },
     {
-        "Name": "Sausage & cheddar cheese breakfast bar with a cheese crust, sausage & cheddar cheese",
+        "Name": "Sausage & cheddar cheese breakfast bar with a cheese crust",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 12.9,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheddar cheese breakfast bar with a pastry crust, broccoli & cheddar cheese",
+        "Name": "Broccoli & cheddar cheese breakfast bar with a pastry crust",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 12.9,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "Blueberry with vanilla creme breakfast sandwich, blueberry with vanilla creme",
+        "Name": "Blueberry with vanilla creme breakfast s&wich",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 19.1,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Colby jack reduced fat colby & monterey jack classic cheeses, colby jack",
+        "Name": "Colby jack reduced fat colby & monterey jack classic cheeses",
         "Nutrients": {
             "Protein": 26.3,
             "Fat": 21.1,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Dark chocolate sandwich, dark chocolate",
+        "Name": "Dark chocolate s&wich",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 26.7,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Chicken sausage, egg & cheese breakfast nuggets, chicken sausage, egg & cheese",
+        "Name": "Chicken sausage, egg & cheese breakfast nuggets, chicken sausage",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 15.5,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Chimichurri breakfast bowl scrambld eggs, sweet potato & rice, in south american-inspired pesto sauge, chimichurri",
+        "Name": "Chimichurri breakfast bowl scrambld eggs, sweet potato & rice, in south american-inspired pesto sauge",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.7,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Potato, egg, pork sausage, and cheese breakfast burrito sausage, potato, egg, pork sausage, and cheese",
+        "Name": "Potato, egg, pork sausage, & cheese breakfast burrito sausage, potato, egg, pork sausage",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 10.1,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Ham, egg & cheese english muffin, ham, egg & cheese",
+        "Name": "Ham, egg & cheese english muffin, ham",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 8.6,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Broccoli cheddar scrambled eggs with broccoli, cauliflower & white cheddar cheese breakfast scramble, broccoli cheddar",
+        "Name": "Broccoli cheddar scrambled eggs with broccoli, cauliflower & white cheddar cheese breakfast scramble",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 4.3,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Maple sausage, egg & cheese cinnamon swirl croissant, maple sausage, egg & cheese cinnamon swirl",
+        "Name": "Maple sausage, egg & cheese cinnamon swirl croissant, maple sausage",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 15.9,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Sausage & biscuits, sausage",
+        "Name": "Sausage & biscuits",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 17.1,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Sausage & buttermilk biscuits, sausage & buttermilk",
+        "Name": "Sausage & buttermilk biscuits",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 21.9,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Meat lovers diced potatoes, red & green peppers, onions, sausage crumbles, cheddar cheese & bacon skillets, meat lovers",
+        "Name": "Meat lovers diced potatoes, red & green peppers, onions, sausage crumbles, cheddar cheese & bacon skillets",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 13.4,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "Omelets to-go filled with cheddar cheese, cheddar cheese",
+        "Name": "Omelets to-go filled with cheddar cheese",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 24.7,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Bistro chorizo patty with applewood flavored bacon red pepper spread & monterey jack on a bistro bun breakfast sandwiches, bistro chorizo",
+        "Name": "Bistro chorizo patty with applewood flavored bacon red pepper spread & monterey jack on a bistro bun breakfast s&wiches",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 22.7,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "The sesher acai peanut butter cacao smoothie bowl topped with granola, the sesher",
+        "Name": "The sesher acai peanut butter cacao smoothie bowl topped with granola",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 8.9,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Acai peanut butter cacao the sesher base, acai peanut butter cacao",
+        "Name": "Acai peanut butter cacao the sesher base",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 7.1,

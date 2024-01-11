@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d",
+        "Name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin a & vitamin d",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 1.9,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d",
+        "Name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin a & vitamin d",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 0.9,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)",
+        "Name": "Milk, nonfat, fluid, with added vitamin a & vitamin d",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 0.1,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Carrots, frozen, unprepared (includes foods for usda's food distribution program)",
+        "Name": "Carrots, frozen, unprepared",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.5,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Oranges, raw, navels (includes foods for usda's food distribution program)",
+        "Name": "Oranges, raw, navels",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.1,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Strawberries, raw",
+        "Name": "Strawberries",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.2,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+        "Name": "Ham, sliced, pre-packaged, deli meat",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 3.7,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Pears, raw, bartlett (includes foods for usda's food distribution program)",
+        "Name": "Pears, raw, bartlett",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.2,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Restaurant, chinese, sweet and sour pork",
+        "Name": "Restaurant, chinese, sweet & sour pork",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 13.6,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Restaurant, latino, pupusas con frijoles (pupusas, bean)",
+        "Name": "Restaurant, latino, pupusas con frijoles",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 9.0,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
+        "Name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to fat, choice, raw",
         "Nutrients": {
             "Protein": 22.8,
             "Fat": 6.4,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+        "Name": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to fat, select, cooked, roasted",
         "Nutrients": {
             "Protein": 27.7,
             "Fat": 6.4,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+        "Name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to fat, select, raw",
         "Nutrients": {
             "Protein": 23.4,
             "Fat": 2.5,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+        "Name": "Beef, round, top round roast, boneless, separable lean only, trimmed to fat, select, raw",
         "Nutrients": {
             "Protein": 23.7,
             "Fat": 2.4,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+        "Name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to fat, choice, cooked, grilled",
         "Nutrients": {
             "Protein": 27.3,
             "Fat": 11.4,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
+        "Name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to fat, select, raw",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 5.3,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Beans, dry, dark red kidney (0% moisture)",
+        "Name": "Beans, dry, dark red kidney",
         "Nutrients": {
             "Protein": 25.9,
             "Fat": 1.3,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Beans, dry, pink (0% moisture)",
+        "Name": "Beans, dry, pink",
         "Nutrients": {
             "Protein": 23.4,
             "Fat": 1.2,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Beans, dry, black (0% moisture)",
+        "Name": "Beans, dry, black",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 1.4,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Beans, dry, small white (0% moisture)",
+        "Name": "Beans, dry, small white",
         "Nutrients": {
             "Protein": 24.5,
             "Fat": 1.3,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Beans, dry, red (0% moisture)",
+        "Name": "Beans, dry, red",
         "Nutrients": {
             "Protein": 21.3,
             "Fat": 1.2,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Beans, dry, great northern (0% moisture)",
+        "Name": "Beans, dry, great northern",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 1.2,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Bananas, ripe and slightly ripe, raw",
+        "Name": "Bananas, ripe & slightly ripe, raw",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.3,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Mushroom, lion's mane",
+        "Name": "Mushroom, lions mane",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.3,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Flour, 00",
+        "Name": "Flour",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 1.5,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Flour, semolina, coarse and semi-coarse",
+        "Name": "Flour, semolina, coarse & semi-coarse",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 1.6,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Beef, ground, 90% lean meat / 10% fat, raw",
+        "Name": "Beef, ground, 90% lean meat10% fat, raw",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 12.8,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Beef, ground, 80% lean meat / 20% fat, raw",
+        "Name": "Beef, ground, 80% lean meat20% fat, raw",
         "Nutrients": {
             "Protein": 17.5,
             "Fat": 19.4,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "Seeds, pumpkin seeds (pepitas), raw",
+        "Name": "Seeds, pumpkin seeds , raw",
         "Nutrients": {
             "Protein": 29.9,
             "Fat": 40.0,

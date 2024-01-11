@@ -1,0 +1,254 @@
+[
+    {
+        "Name": "Mini breakfast bites, glazed, whole grain, pack",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 12.8,
+            "Carbs": 47.4,
+            "Calories": 330.4
+        }
+    },
+    {
+        "Name": "Cinnamon roll, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 10.6,
+            "Carbs": 61.2,
+            "Calories": 373.0
+        }
+    },
+    {
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 10.8,
+            "Carbs": 59.1,
+            "Calories": 367.2
+        }
+    },
+    {
+        "Name": "Apple fritter bun, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 21.2,
+            "Carbs": 41.2,
+            "Calories": 374.4
+        }
+    },
+    {
+        "Name": "Croffin, raspberry cheese, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 16.8,
+            "Carbs": 33.6,
+            "Calories": 310.4
+        }
+    },
+    {
+        "Name": "Croissants, almond filled, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 21.2,
+            "Carbs": 40.4,
+            "Calories": 380.8
+        }
+    },
+    {
+        "Name": "Donut, whole grain, powdered sugar, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 14.3,
+            "Carbs": 47.2,
+            "Calories": 330.7
+        }
+    },
+    {
+        "Name": "Donut, whole grain, chocolate cake, glazed, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 13.2,
+            "Carbs": 51.6,
+            "Calories": 342.8
+        }
+    },
+    {
+        "Name": "Cinnamon swirls, whole grain, bulk",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.6,
+            "Carbs": 56.5,
+            "Calories": 349.8
+        }
+    },
+    {
+        "Name": "Danish, almond filled, mini, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 20.9,
+            "Carbs": 39.5,
+            "Calories": 374.1
+        }
+    },
+    {
+        "Name": "Breakfast bun, whole grain, glazed, extended shelf life, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 20.9,
+            "Carbs": 44.0,
+            "Calories": 381.7
+        }
+    },
+    {
+        "Name": "Croissants, chocolate filled, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 18.6,
+            "Carbs": 42.5,
+            "Calories": 358.6
+        }
+    },
+    {
+        "Name": "Croissant, gourmet, chocolate",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 21.1,
+            "Carbs": 47.4,
+            "Calories": 400.7
+        }
+    },
+    {
+        "Name": "Croissants, filled, farmers cheese, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 19.5,
+            "Carbs": 32.7,
+            "Calories": 334.7
+        }
+    },
+    {
+        "Name": "Donut, whole grain, cake glazed, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 13.2,
+            "Carbs": 45.0,
+            "Calories": 312.0
+        }
+    },
+    {
+        "Name": "Croissants, mini, chocolate filled, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 20.0,
+            "Carbs": 48.6,
+            "Calories": 397.2
+        }
+    },
+    {
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.6,
+            "Carbs": 56.5,
+            "Calories": 349.8
+        }
+    },
+    {
+        "Name": "Mini breakfast bites, whole grain, apple, pack",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 12.8,
+            "Carbs": 52.6,
+            "Calories": 346.0
+        }
+    },
+    {
+        "Name": "Breakfast buns, whole grain, reduced fat, fortified, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 11.8,
+            "Carbs": 47.1,
+            "Calories": 323.0
+        }
+    },
+    {
+        "Name": "Donut, whole grain, chocolate enrobed, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.3,
+            "Fat": 19.8,
+            "Carbs": 45.0,
+            "Calories": 371.4
+        }
+    },
+    {
+        "Name": "Croissants, strawberry cheese filled, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 18.6,
+            "Carbs": 36.3,
+            "Calories": 337.4
+        }
+    },
+    {
+        "Name": "Croffin, cinnamon, freezer-to-oven",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 15.9,
+            "Carbs": 39.8,
+            "Calories": 330.7
+        }
+    },
+    {
+        "Name": "Cinnamon roll, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 9.9,
+            "Carbs": 67.6,
+            "Calories": 393.1
+        }
+    },
+    {
+        "Name": "Cinnamon swirls, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 11.3,
+            "Carbs": 57.8,
+            "Calories": 366.5
+        }
+    },
+    {
+        "Name": "Chocolate swirls, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 10.5,
+            "Carbs": 58.8,
+            "Calories": 360.5
+        }
+    },
+    {
+        "Name": "Donuts, cake, powdered sugar, individually wrapped",
+        "Nutrients": {
+            "Protein": 1.8,
+            "Fat": 21.1,
+            "Carbs": 47.4,
+            "Calories": 386.7
+        }
+    },
+    {
+        "Name": "Donuts, whole grain, powdered sugar cake, reduced fat, fortified, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 15.6,
+            "Carbs": 57.8,
+            "Calories": 389.2
+        }
+    },
+    {
+        "Name": "Donuts, crispy king, yeast raised, thaw & finish",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 20.0,
+            "Carbs": 38.3,
+            "Calories": 360.0
+        }
+    }
+]

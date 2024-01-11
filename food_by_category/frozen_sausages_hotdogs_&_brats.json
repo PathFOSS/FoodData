@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Turkey fully cooked sausage links, turkey",
+        "Name": "Turkey fully cooked sausage links",
         "Nutrients": {
             "Protein": 17.8,
             "Fat": 6.7,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Country sausage skinless links, country sausage",
+        "Name": "Country sausage skinless links",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Original fully cooked pork sausage patties, original",
+        "Name": "Original fully cooked pork sausage patties",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 22.1,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Turkey fully cooked sausage patties, turkey",
+        "Name": "Turkey fully cooked sausage patties",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 5.2,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Medium country sausage patties, medium",
+        "Name": "Medium country sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Medium country sausage patties, medium country sausage",
+        "Name": "Medium country sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Pork sausage patties, pork",
+        "Name": "Pork sausage patties",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 35.3,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Original fully cooked sausage patties, original",
+        "Name": "Original fully cooked sausage patties",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 28.9,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Maple fully cooked sausage links, maple",
+        "Name": "Maple fully cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Microwavable original heat -n- serve fully cooked sausage links, original",
+        "Name": "Microwavable original heat -n- serve fully cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Original premium sausage, original",
+        "Name": "Original premium sausage",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Murry's, hot italian sausage",
+        "Name": "Murrys, hot italian sausage",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 17.9,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Beeler's, hot pork sausage",
+        "Name": "Beelers, hot pork sausage",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 21.1,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Roundy's, select, chicken sausage, sun-dried tomato & basil",
+        "Name": "Roundys, select, chicken sausage, sun-dried tomato & basil",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 7.8,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Shelton's, turkey italian sausage",
+        "Name": "Sheltons, turkey italian sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 26.8,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Chicken sausage, cajun-style andouille",
+        "Name": "Chicken sausage, cajun-style &ouille",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 6.6,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Swaggerty's farm, premium sausage links",
+        "Name": "Swaggertys farm, premium sausage links",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 29.6,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Isernio's, italian chicken sausage",
+        "Name": "Isernios, italian chicken sausage",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 3.7,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "7\" link italian sausage with cheese and peppers",
+        "Name": "Link italian sausage with cheese & peppers",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 21.2,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "7 \" link beer bratwurst",
+        "Name": "Link beer bratwurst",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 23.2,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Italian sausage with provolone and parmesan cheese",
+        "Name": "Italian sausage with provolone & parmesan cheese",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 23.2,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "7\"(3-1) - bratwurst with porcini mushrooms and provolone",
+        "Name": "- bratwurst with porcini mushrooms & provolone",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 26.5,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "7\" (3-1) - bratwurst with cheddar and jalapeno peppers",
+        "Name": "- bratwurst with cheddar & jalapeno peppers",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 26.5,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Chipotle and cheddar sausage",
+        "Name": "Chipotle & cheddar sausage",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 19.9,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Sam's choice, beef franks in a panko & cheese blanket",
+        "Name": "Sams choice, beef franks in a panko & cheese blanket",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 23.5,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Wellshire, fully cooked original pork sausage skinless links, original",
+        "Name": "Wellshire, fully cooked original pork sausage skinless links",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 28.6,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "8 fresh pork sausage patties",
+        "Name": "Fresh pork sausage patties",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 31.2,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "24 sausage patties",
+        "Name": "Sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "24 country sausage patties",
+        "Name": "Country sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Pork and herb bangers",
+        "Name": "Pork & herb bangers",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 26.3,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "16 turkey sausage patties",
+        "Name": "Turkey sausage patties",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 8.9,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro",
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers & cilantro",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 7.7,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Deliciously spicy german brand smoked sausage",
+        "Name": "Deliciously spicy german br& smoked sausage",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 26.5,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Maple breakfast links, maple",
+        "Name": "Maple breakfast links",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 26.7,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Traditional pork sausage links, traditional",
+        "Name": "Traditional pork sausage links",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 37.8,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Maple sausage links, maple",
+        "Name": "Maple sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Original sausage links made with pork & turkey, original",
+        "Name": "Original sausage links made with pork & turkey",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Country sausage skinless links, country",
+        "Name": "Country sausage skinless links",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "24 smokehouse sausage patties, smoke",
+        "Name": "Smokehouse sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 32.1,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Bob evans, pork sausage links, original, original",
+        "Name": "Bob evans, pork sausage links, original",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 22.2,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Fully cooked country sausage skinless links, country",
+        "Name": "Fully cooked country sausage skinless links",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Fully cooked pork country sausage patties, pork",
+        "Name": "Fully cooked pork country sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Chicken bratwurst with sauteed onions, chicken bratwurst",
+        "Name": "Chicken bratwurst with sauteed onions",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 7.0,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Sage sausage patties, sage",
+        "Name": "Sage sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Chicken & maple breakfast sausage, chicken & maple",
+        "Name": "Chicken & maple breakfast sausage",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 11.9,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Pork & sage mini sliders patties, pork & sage",
+        "Name": "Pork & sage mini sliders patties",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 23.5,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "Chorizo fluffy egg bites with cheddar cheese, chorizo crumbles, fire roasted peppers, onions and chives, chorizo egg bites",
+        "Name": "Chorizo fluffy egg bites with cheddar cheese, chorizo crumbles, fire roasted peppers, onions & chives, chorizo egg bites",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 12.2,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Maple flavored breakfast saus'age patties, maple",
+        "Name": "Maple flavored breakfast sausage patties",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 7.9,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Fully cooked original sausage links, original",
+        "Name": "Fully cooked original sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Fully cooked maple sausage links, maple",
+        "Name": "Fully cooked maple sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage",
+        "Name": "Provolone & romano cheese with fennel & red bell pepper chicken sausage",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 8.8,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Original pork sausage patties, original",
+        "Name": "Original pork sausage patties",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 28.9,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "Fully cooked original pork sausage links, original",
+        "Name": "Fully cooked original pork sausage links",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 22.2,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Maple flavored pork sausage patties, maple",
+        "Name": "Maple flavored pork sausage patties",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 36.0,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Classic smoked polish sausage, classic smoked",
+        "Name": "Classic smoked polish sausage",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 29.3,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Premium beef franks quarter pound, beef",
+        "Name": "Premium beef franks quarter pound",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 29.5,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Maple pork frozen sausage links, maple",
+        "Name": "Maple pork frozen sausage links",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 37.5,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Jumbo premium beef franks, beef",
+        "Name": "Jumbo premium beef franks",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 30.4,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro, spicy chipotle",
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers & cilantro",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 7.7,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Classic pork sausage links, classic",
+        "Name": "Classic pork sausage links",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 42.9,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Smokehouse sausage patties, smokehouse",
+        "Name": "Smokehouse sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 32.1,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Original fully cooked pork sausage links, original",
+        "Name": "Original fully cooked pork sausage links",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 22.2,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Original pork sausage links, original",
+        "Name": "Original pork sausage links",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 21.6,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Beef 'n cheddar hickory smoked 100% grass fed beef sausage, beef 'n cheddar hickory smoked",
+        "Name": "Beef & cheddar hickory smoked 100% grass fed beef sausage",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 22.6,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "Uncured polish sausage, uncured polish",
+        "Name": "Uncured polish sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 26.2,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Beef premium jumbo franks, beef",
+        "Name": "Beef premium jumbo franks",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 30.4,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "Skinless turkey sausage patties, turkey",
+        "Name": "Skinless turkey sausage patties",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 8.9,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Maple syrup skinless pork sausages, maple syrup",
+        "Name": "Maple syrup skinless pork sausages",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 40.6,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "Fully cooked sausage patties, sausage",
+        "Name": "Fully cooked sausage patties",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 35.5,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "Maple pork sausage links, maple",
+        "Name": "Maple pork sausage links",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 40.8,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheddar smoked sausage, jalapeno cheddar",
+        "Name": "Jalapeno cheddar smoked sausage",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 28.6,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "Spicy cheddar omelet smoked pork, cheese, onion, green pepper and egg product link, spicy cheddar omelet",
+        "Name": "Spicy cheddar omelet smoked pork, cheese, onion, green pepper & egg product link",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 28.6,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "Beef franks, beef",
+        "Name": "Beef franks",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 29.5,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Maple pork links, maple",
+        "Name": "Maple pork links",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 37.5,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Maple tasty links skinless pork sausages, maple",
+        "Name": "Maple tasty links skinless pork sausages",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 40.6,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "Hot italian sausage, hot italian",
+        "Name": "Hot italian sausage",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 26.8,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "Mild italian sausage, mild italian",
+        "Name": "Mild italian sausage",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 26.8,
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "Name": "Smokehouse sausage patties, smokehouse sausage",
+        "Name": "Smokehouse sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 32.1,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Hot pork sausage patties, hot",
+        "Name": "Hot pork sausage patties",
         "Nutrients": {
             "Protein": 17.3,
             "Fat": 38.5,
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "Name": "Sweet hamonado skinless longanisa, sweet hamonado",
+        "Name": "Sweet hamonado skinless longanisa",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 16.1,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "Name": "Sage sausage patties, sage sausage",
+        "Name": "Sage sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Traditional turkey sausage, traditional",
+        "Name": "Traditional turkey sausage",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 15.7,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "Organic chicken & maple breakfast sausage, chicken & maple",
+        "Name": "Organic chicken & maple breakfast sausage",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 13.6,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Turkey sausage patties, turkey sausage",
+        "Name": "Turkey sausage patties",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 8.9,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Diestel turkey ranch, breakfast turkey sausage, diestel turkey ranch, breakfast turkey sausage",
+        "Name": "Diestel turkey ranch, breakfast turkey sausage, diestel turkey ranch",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 7.1,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Original pork sausage, original",
+        "Name": "Original pork sausage",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 37.5,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Maple flavored fully cooked pork sausage patties, maple",
+        "Name": "Maple flavored fully cooked pork sausage patties",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 32.0,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "Kroger, country sausage patties, mild, mild",
+        "Name": "Kroger, country sausage patties, mild",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 32.4,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "Savory sage pork sausage, savory sage",
+        "Name": "Savory sage pork sausage",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 35.7,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "Chicken & maple breakfast sausage patties, chicken & maple",
+        "Name": "Chicken & maple breakfast sausage patties",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 12.1,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Jimmy dean, pork sausage patties, original, original",
+        "Name": "Jimmy dean, pork sausage patties, original",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 35.3,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "7\"\" link italian sausage with cheese and peppers",
+        "Name": "Link italian sausage with cheese & peppers",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 21.2,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "7 \"\" link beer bratwurst",
+        "Name": "Link beer bratwurst",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 23.2,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "7\"\"(3-1) - bratwurst with porcini mushrooms and provolone",
+        "Name": "- bratwurst with porcini mushrooms & provolone",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 26.5,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "7\"\" (3-1) - bratwurst with cheddar and jalapeno peppers",
+        "Name": "- bratwurst with cheddar & jalapeno peppers",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 26.5,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Vermont maple fully cooked sausage patties, vermont maple",
+        "Name": "Vermont maple fully cooked sausage patties",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 28.9,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Banquet, brown 'n serve, fully cooked sausage links, maple, maple ",
+        "Name": "Banquet, brown & serve, fully cooked sausage links, maple",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Country recipe fully cooked sausage links, country recipe",
+        "Name": "Country recipe fully cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 27.8,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Original flavor cooked sausage links, original",
+        "Name": "Original flavor cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Maple flavor cooked sausage links, maple",
+        "Name": "Maple flavor cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 29.6,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Sage premium pork sausage, sage",
+        "Name": "Sage premium pork sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 30.4,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Maple premium pork sausage, maple",
+        "Name": "Maple premium pork sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 30.4,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Pork bangers, pork",
+        "Name": "Pork bangers",
         "Nutrients": {
             "Protein": 14.5,
             "Fat": 9.2,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Mini franks in a blanket miniature cocktail sausage rolls in flaky puff pastry, mini franks in a blanket",
+        "Name": "Mini franks in a blanket miniature cocktail sausage rolls in flaky puff pastry",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 28.9,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Original fresh pork sausage patties, original",
+        "Name": "Original fresh pork sausage patties",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 26.5,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Chorizo eggs, potatoes, chorizo sausage, cheddar cheese, peppers & onions breakfast bowl, chorizo",
+        "Name": "Chorizo eggs, potatoes, chorizo sausage, cheddar cheese, peppers & onions breakfast bowl",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 13.1,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "Country mild premium pork sausage, country mild",
+        "Name": "Country mild premium pork sausage",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 33.9,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "Hot premium pork sausage, hot",
+        "Name": "Hot premium pork sausage",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 33.9,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "Roundy's, select, chicken sausage, sun-dried tomato & basil, sun-dried tomato & basil",
+        "Name": "Roundys, select, chicken sausage, sun-dried tomato & basil",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 7.8,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Pork organic bratwurst, pork",
+        "Name": "Pork organic bratwurst",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 20.0,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Wellshire, sausage links, turkey maple, turkey maple",
+        "Name": "Wellshire, sausage links, turkey maple",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 10.7,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Hormel, bacon & pork sausage, jalapeno, jalapeno",
+        "Name": "Hormel, bacon & pork sausage, jalapeno",
         "Nutrients": {
             "Protein": 20.8,
             "Fat": 34.0,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Hormel, bacon & pork sausage, maple black pepper, maple black pepper",
+        "Name": "Hormel, bacon & pork sausage, maple black pepper",
         "Nutrients": {
             "Protein": 20.8,
             "Fat": 30.2,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Mini chicken sausage, three cheese ",
+        "Name": "Mini chicken sausage, three cheese",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Italian sausage, italian",
+        "Name": "Italian sausage",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 20.4,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Jones dairy farm, golden brown fully cooked sausage patties, mild, mild",
+        "Name": "Jones dairy farm, golden brown fully cooked sausage patties, mild",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 36.4,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage, provolone and romano cheese with fennel and red bell pepper",
+        "Name": "Provolone & romano cheese with fennel & red bell pepper chicken sausage",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 8.8,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers and cilantro, spicy chipotle with fire roasted green peppers and cilantro",
+        "Name": "Spicy chipotle chicken sausage with fire roasted green peppers & cilantro, spicy chipotle with fire roasted green peppers & cilantro",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 7.7,
@@ -2484,7 +2484,7 @@
         }
     },
     {
-        "Name": "Provolone and romano cheese with fennel and red bell pepper chicken sausage, provolone and romano cheese",
+        "Name": "Provolone & romano cheese with fennel & red bell pepper chicken sausage",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 8.8,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Honey sriracha flavored sausage, honey sriracha",
+        "Name": "Honey sriracha flavored sausage",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 25.9,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Hot italian mini sausage, hot italian",
+        "Name": "Hot italian mini sausage",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 24.1,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Hot beef links, hot",
+        "Name": "Hot beef links",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 13.2,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Chicken links, chicken",
+        "Name": "Chicken links",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 5.5,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Wellshire, fully cooked original pork sausage skinless links, original, original",
+        "Name": "Wellshire, fully cooked original pork sausage skinless links, original",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 28.6,
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "Name": "Premium mild pork sausage, mild",
+        "Name": "Premium mild pork sausage",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 26.3,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Organic chicken & maple sausage, chicken & maple",
+        "Name": "Organic chicken & maple sausage",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 15.2,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Organic chicken & sage sausage link, chicken & sage",
+        "Name": "Organic chicken & sage sausage link",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 13.6,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "Turkey sausage patties, turkey",
+        "Name": "Turkey sausage patties",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 8.9,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Sweet italian sausage meat, sweet italian",
+        "Name": "Sweet italian sausage meat",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 25.0,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "Beef milk links, beef",
+        "Name": "Beef milk links",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 34.2,
@@ -2709,7 +2709,7 @@
         }
     },
     {
-        "Name": "Spicy turkey hot links, spicy",
+        "Name": "Spicy turkey hot links",
         "Nutrients": {
             "Protein": 20.2,
             "Fat": 3.8,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "Chorizo salvadorean brand sausage, chorizo",
+        "Name": "Chorizo salvadorean br& sausage",
         "Nutrients": {
             "Protein": 17.5,
             "Fat": 3.5,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Sweet italian sausage meat, sweet italian sausage",
+        "Name": "Sweet italian sausage meat",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 25.0,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Puerto rican style longaniza links, puerto rican style",
+        "Name": "Puerto rican style longaniza links",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 34.2,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "Cocktail beef franks wrapped in puff pastry, cocktail beef franks",
+        "Name": "Cocktail beef franks wrapped in puff pastry",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 20.0,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Bratwurst ultimate plant-based saus'ge links, bratwurst",
+        "Name": "Bratwurst ultimate plant-based sausge links",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 10.1,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Country recipe pork & turkey fully cooked sausage links, country recipe",
+        "Name": "Country recipe pork & turkey fully cooked sausage links",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 27.8,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Chicken sausage links, chicken",
+        "Name": "Chicken sausage links",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 8.5,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Smokey cheddar smoked sausage, smokey cheddar",
+        "Name": "Smokey cheddar smoked sausage",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 28.6,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Original sausage links, original",
+        "Name": "Original sausage links",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 25.0,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "Original pork sausage links, original pork",
+        "Name": "Original pork sausage links",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 37.8,
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "Name": "Spicy pork fully cooked sausage patties, spicy pork",
+        "Name": "Spicy pork fully cooked sausage patties",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 40.0,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Maple pork sausage patties, maple",
+        "Name": "Maple pork sausage patties",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 36.0,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "Maple flavored chicken sausage links, maple",
+        "Name": "Maple flavored chicken sausage links",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 11.9,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Maple flavored chicken sausage patties, maple",
+        "Name": "Maple flavored chicken sausage patties",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 12.1,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Little sizzlers original pork sausage, little sizzlers original",
+        "Name": "Little sizzlers original pork sausage",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 45.3,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Uncured beer bratwurst, uncured beer",
+        "Name": "Uncured beer bratwurst",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 17.6,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Cumberland\" pork bangers, cumberland\"",
+        "Name": "Cumberl& pork bangers",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 11.8,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Pork italian organic sausage, pork",
+        "Name": "Pork italian organic sausage",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 20.0,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Cocktail beef franks wrapped in puff pastry, cocktail beef",
+        "Name": "Cocktail beef franks wrapped in puff pastry",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 20.0,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Italian premium cooked sausage topping, italian",
+        "Name": "Italian premium cooked sausage topping",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 23.2,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "Chorizo croquettes, chorizo",
+        "Name": "Chorizo croquettes",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 6.9,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "Franks in a blanket made with beef and pork, in a puff pastry, encrusted in parmesan topping, beef and pork",
+        "Name": "Franks in a blanket made with beef & pork, in a puff pastry, encrusted in parmesan topping",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 23.4,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Italian made with shellfish (shrimp and scallops), salmon and white fish fillet, fennel and italian parsley seafood sausage, italian",
+        "Name": "Italian made with shellfish , salmon & white fish fillet, fennel & italian parsley seafood sausage",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 5.9,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "Pork sausage fully cooked maple links, pork sausage",
+        "Name": "Pork sausage fully cooked maple links",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.9,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Spicy pork sausage patties, spicy",
+        "Name": "Spicy pork sausage patties",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 40.0,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Honey mustard pretzel crunch dogs, honey mustard",
+        "Name": "Honey mustard pretzel crunch dogs",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 22.4,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Heat 'n serve original  sausage links",
+        "Name": "Heat & serve original sausage links",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 34.5,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Southern blend country sausage patties, southern blend",
+        "Name": "Southern blend country sausage patties",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 37.8,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Mild italian sausage slices, mild italian",
+        "Name": "Mild italian sausage slices",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 30.4,

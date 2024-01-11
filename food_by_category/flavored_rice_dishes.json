@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Coconut ginger rice, coconut ginger",
+        "Name": "Coconut ginger rice",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Texmati, light brown rice, red quinoa and fire roasted freekeh",
+        "Name": "Texmati, light brown rice, red quinoa & fire roasted freekeh",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 2.1,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Garlic & herb rice pilaf, garlic & herb",
+        "Name": "Garlic & herb rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Original long grain & wild rice, original",
+        "Name": "Original long grain & wild rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Wild mushroom & herb rice pilaf, wild mushroom & herb",
+        "Name": "Wild mushroom & herb rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Caribbean rice long grain white rice with a sweet and savory caribbean inspired blend of pineapple, coconut, and seasoning rice side, caribbean rice",
+        "Name": "Caribbean rice long grain white rice with a sweet & savory caribbean inspired blend of pineapple, coconut, & seasoning rice side",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 2.9,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Black beans & rice long grain rice mix with beans, vegetables & spices, black beans & rice",
+        "Name": "Black beans & rice long grain rice mix with beans, vegetables & spices",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 2.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Brown rice jambalaya long grain brown rice, onions and bell peppers with traditional new orleans seasonings rice dinner mix, brown rice jambalaya",
+        "Name": "Brown rice jambalaya long grain brown rice, onions & bell peppers with traditional new orleans seasonings rice dinner mix",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.5,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Jambalaya with cheese long grain rice mix with vegetables & spices, jambalaya with cheese",
+        "Name": "Jambalaya with cheese long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.8,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Mexican rice, mexican",
+        "Name": "Mexican rice",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Jambalaya long grain rice mix with vegetables & spices, jambalaya",
+        "Name": "Jambalaya long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "New orleans style garlic & herb rice long grain white rice mix and orzo pasta with savory seasonings, new orleans style garlic & herb",
+        "Name": "New orleans style garlic & herb rice long grain white rice mix & orzo pasta with savory seasonings",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Bourbon chicken long grain rice mix with a touch of naturally flavored bourbon & spices, bourbon chicken",
+        "Name": "Bourbon chicken long grain rice mix with a touch of naturally flavored bourbon & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain rice & orzo pasta with vegetables & spices, rice pilaf",
+        "Name": "Rice pilaf long grain rice & orzo pasta with vegetables & spices",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 0.8,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Sides long grain and wild rice with spices",
+        "Name": "Sides long grain & wild rice with spices",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.8,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Red beans & long grain rice mix with beans, vegetables & spices, beans, vegetables & spices",
+        "Name": "Red beans & long grain rice mix with beans, vegetables & spices, beans",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 1.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain white rice and orzo pasta lightly seasoned with garlic, onions and bell peppers, rice pilaf",
+        "Name": "Rice pilaf long grain white rice & orzo pasta lightly seasoned with garlic, onions & bell peppers",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Black beans and rice",
+        "Name": "Black beans & rice",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 1.5,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "New orleans style black beans and rice reduced sodium long grain white rice and black beans seasoned with bell pepper, onion and garlic, new orleans style black beans and rice",
+        "Name": "New orleans style black beans & rice reduced sodium long grain white rice & black beans seasoned with bell pepper, onion & garlic",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Dirty rice long grain rice mix with vegetables & spices, dirty rice",
+        "Name": "Dirty rice long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice, vermicelli, chicken broth and herbs, chicken",
+        "Name": "Chicken flavor rice, vermicelli, chicken broth & herbs",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Mexican rice with pinto beans long grain rice and pinto beans seasoned with a blend of onion, garlic, and a hint of tomato rice dinner mix, mexican rice with pinto beans",
+        "Name": "Mexican rice with pinto beans long grain rice & pinto beans seasoned with a blend of onion, garlic, & a hint of tomato rice dinner mix",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Cajun gumbo & rice entree mix, cajun gumbo & rice",
+        "Name": "Cajun gumbo & rice entree mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Porcini risotto, porcini",
+        "Name": "Porcini risotto",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.9,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "White cheddar broccoli rice, white cheddar broccoli",
+        "Name": "White cheddar broccoli rice",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 5.2,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Asiago cheese & cracked black pepper rice, asiago cheese & cracked black pepper",
+        "Name": "Asiago cheese & cracked black pepper rice",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 5.5,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Rustic mexican rice & beans, rustic mexican",
+        "Name": "Rustic mexican rice & beans",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 1.4,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Roasted garlic alfredo rice, roasted garlic",
+        "Name": "Roasted garlic alfredo rice",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 5.2,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice medley with herb seasoning, herb seasoning",
+        "Name": "Long grain & wild rice medley with herb seasoning",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Cajun red beans & rice quick cook cajun meal, cajun red beans & rice",
+        "Name": "Cajun red beans & rice quick cook cajun meal",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 1.8,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Spicy yellow rice mix with seasonings, spicy yellow",
+        "Name": "Spicy yellow rice mix with seasonings",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Savory blend of onion, garlic yellow rice, savory blend of onion, garlic",
+        "Name": "Savory blend of onion, garlic yellow rice, savory blend of onion",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 2.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Classic pilaf rice mix with seasonings, classic pilaf",
+        "Name": "Classic pilaf rice mix with seasonings",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Broccoli with cheese rice mix with seasonings, broccoli with cheese",
+        "Name": "Broccoli with cheese rice mix with seasonings",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.3,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Spanish authentic seasonings & long grain rice, spanish",
+        "Name": "Spanish authentic seasonings & long grain rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Cajun garlic butter rice & pasta blend with garlic, butter & mild cajun spices, cajun garlic butter",
+        "Name": "Cajun garlic butter rice & pasta blend with garlic, butter & mild cajun spices",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 1.5,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Cilantro lime rice with zesty cilantro lime seasoning, cilantro lime",
+        "Name": "Cilantro lime rice with zesty cilantro lime seasoning",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Chicken rice & pasta blend in a chicken flavored sauce, chicken",
+        "Name": "Chicken rice & pasta blend in a chicken flavored sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice & pasta blend in a cheddar cheese sauce with broccoli, cheddar broccoli",
+        "Name": "Cheddar broccoli rice & pasta blend in a cheddar cheese sauce with broccoli",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Parmesan garlic brown rice with white beans, parmesan garlic",
+        "Name": "Parmesan garlic brown rice with white beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 7.4,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice & pasta blend with broccoli in a cheddar cheese sauce, cheddar broccoli",
+        "Name": "Cheddar broccoli rice & pasta blend with broccoli in a cheddar cheese sauce",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 1.5,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Spanish rice pilaf mix, spanish rice",
+        "Name": "Spanish rice pilaf mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Spanish rice & pasta blend with red & green peppers in a sweet tomato sauce, spanish",
+        "Name": "Spanish rice & pasta blend with red & green peppers in a sweet tomato sauce",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 1.5,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice & pasta blend in a savory chicken flavored sauce, chicken",
+        "Name": "Chicken flavored rice & pasta blend in a savory chicken flavored sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Pumpkin & sage farro pilaf, pumpkin & sage",
+        "Name": "Pumpkin & sage farro pilaf",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Rice medley rice pilaf rice & pasta mix with herbs & seasoning, rice medley",
+        "Name": "Rice medley rice pilaf rice & pasta mix with herbs & seasoning",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice mix with herb seasoning, herb",
+        "Name": "Long grain & wild rice mix with herb seasoning",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Broccoli au gratin rice & orzo blend with broccoli & three cheeses, broccoli au gratin",
+        "Name": "Broccoli au gratin rice & orzo blend with broccoli & three cheeses",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 4.3,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Spanish style brown rice with bell peppers and white beans, spanish style",
+        "Name": "Spanish style brown rice with bell peppers & white beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 3.1,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & seasonings, chicken",
+        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & seasonings",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Beef flavored rice & vermicelli mix with beef stock & vegetables, beef",
+        "Name": "Beef flavored rice & vermicelli mix with beef stock & vegetables",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 1.4,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Lemon butter and herb brown rice with white beans, lemon butter and herb",
+        "Name": "Lemon butter & herb brown rice with white beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.9,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Spanish a blend of lentils, chickpeas, peas + rice, spanish",
+        "Name": "Spanish a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Hot & spicy buffalo chicken flavor rice, cayenne red pepper sauce and chicken broth, hot & spicy buffalo chicken",
+        "Name": "Hot & spicy buffalo chicken flavor rice, cayenne red pepper sauce & chicken broth",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Cilantro lime a blend of lentils, chickpeas, peas + rice, cilantro lime",
+        "Name": "Cilantro lime a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Medley fried rice, medley",
+        "Name": "Medley fried rice",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 3.0,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Harvest pilaf medley with ancient grains, harvest pilaf",
+        "Name": "Harvest pilaf medley with ancient grains",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 5.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Creamy cheese risotto with mushrooms and peas, mushroom risotto",
+        "Name": "Creamy cheese risotto with mushrooms & peas, mushroom risotto",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 4.4,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Original a blend of lentils, chickpeas, peas + rice, original",
+        "Name": "Original a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Rice & pasta blend in a savory chicken flavored sauce, chicken",
+        "Name": "Rice & pasta blend in a savory chicken flavored sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 3.9,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Dirty rice creole rice dinner mix, dirty rice",
+        "Name": "Dirty rice creole rice dinner mix",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Butter & herb creole rice dinner mix, butter & herb",
+        "Name": "Butter & herb creole rice dinner mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 1.1,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Original chicken & rice mix, original",
+        "Name": "Original chicken & rice mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Original long grain rice and orzo pasta seasoned with a blend of garlic, onion and herbs rice pilaf seasoned mix, original",
+        "Name": "Original long grain rice & orzo pasta seasoned with a blend of garlic, onion & herbs rice pilaf seasoned mix",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 0.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Garlic & olive oil jasmine rice, garlic & olive oil",
+        "Name": "Garlic & olive oil jasmine rice",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 2.0,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Quinoa and brown rice",
+        "Name": "Quinoa & brown rice",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.7,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Cajun jambalaya mix quick cook cajun meal, cajun jambalaya mix",
+        "Name": "Cajun jambalaya mix quick cook cajun meal",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "Roasted garlic adobo brown rice with black beans, roasted garlic adobo",
+        "Name": "Roasted garlic adobo brown rice with black beans",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 3.1,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Cajun brown jambalaya mix, cajun brown jambalaya",
+        "Name": "Cajun brown jambalaya mix",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Cheesy taco & rice seasoning mix skillet meal, cheesy taco & rice",
+        "Name": "Cheesy taco & rice seasoning mix skillet meal",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 3.6,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Mexican style rice & chicken with tomato, peppers, and olives, mexican style",
+        "Name": "Mexican style rice & chicken with tomato, peppers, & olives",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 9.8,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Cheese risotto, cheese",
+        "Name": "Cheese risotto",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 4.2,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Yellow spanish-style rice with black beans, red peppers and sweet corn, yellow spanish-style",
+        "Name": "Yellow spanish-style rice with black beans, red peppers & sweet corn",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 5.7,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Rice and sauce chicken flavor broccoli",
+        "Name": "Rice & sauce chicken flavor broccoli",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 7.7,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, carrots and beef broth with other natural flavors mix",
+        "Name": "Rice, vermicelli, carrots & beef broth with other natural flavors mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Streit's, rice & vermicelli mix, chicken",
+        "Name": "Streits, rice & vermicelli mix, chicken",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Food club, rice & sauce, cheddar broccoli, rice and pasta in a cheese sauce with broccoli",
+        "Name": "Food club, rice & sauce, cheddar broccoli, rice & pasta in a cheese sauce with broccoli",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 2.2,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Roundy's, pilaf rice mix",
+        "Name": "Roundys, pilaf rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": "Weis quality, boil-in-bag rice",
+        "Name": "Weis quality, boil-in- rice",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 0.0,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "New orleans, beef rice, beef",
+        "Name": "New orleans, beef rice",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 1.1,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Tony chachere's, creole butter & herb dinner mix",
+        "Name": "Tony chacheres, creole butter & herb dinner mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Goya, hoppin' john seasoned rice with blackeye peas",
+        "Name": "Goya, hoppin john seasoned rice with blackeye peas",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 1.1,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Beef flavor rice, vermicelli, beef broth and carrots",
+        "Name": "Beef flavor rice, vermicelli, beef broth & carrots",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Sweet and sour rice",
+        "Name": "Sweet & sour rice",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.5,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, chicken broth and herbs with other natural flavors",
+        "Name": "Rice, vermicelli, chicken broth & herbs with other natural flavors",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Meijer, rice & vermicelli mix with chicken broth & spices, chicken",
+        "Name": "Meijer, rice & vermicelli mix with chicken broth & spices",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.1,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Premium risotto with sun dried tomatoes and italian arborio rice",
+        "Name": "Premium risotto with sun dried tomatoes & italian arborio rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Giant, rich and flavorful italian rice, citrus lemon",
+        "Name": "Giant, rich & flavorful italian rice, citrus lemon",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "White and red quinoa with brown rice",
+        "Name": "White & red quinoa with brown rice",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.4,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "365 everyday value, rice pilaf",
+        "Name": "Everyday value, rice pilaf",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic wild rice mix",
+        "Name": "Everyday value, organic wild rice mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.0,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic spanish rice pilaf",
+        "Name": "Everyday value, organic spanish rice pilaf",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Rice with peas and carrots",
+        "Name": "Rice with peas & carrots",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Haldiram's, minute khana hyderabadi biryani",
+        "Name": "Haldirams, minute khana hyderabadi biryani",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 9.0,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "A taste of china, sweet and sour rice, sweet and sour",
+        "Name": "A taste of china, sweet & sour rice",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.5,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Zatarain's, jambalaya mix, spicy",
+        "Name": "Zatarains, jambalaya mix, spicy",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Zatarain's, red beans and rice",
+        "Name": "Zatarains, red beans & rice",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 2.0,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Zatarain's, brown rice jambalaya mix",
+        "Name": "Zatarains, brown rice jambalaya mix",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.5,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Zatarain's, jambalaya with cheese",
+        "Name": "Zatarains, jambalaya with cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.8,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "Zatarain's, cheddar broccoli rice",
+        "Name": "Zatarains, cheddar broccoli rice",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 3.9,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Zatarain's, flavored rice, cajun chicken",
+        "Name": "Zatarains, flavored rice, cajun chicken",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Zatarain's, dirty rice mix",
+        "Name": "Zatarains, dirty rice mix",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.0,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "Zatarain's, dirty rice mix, original",
+        "Name": "Zatarains, dirty rice mix, original",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Zatarain's, wild brown rice mix",
+        "Name": "Zatarains, wild brown rice mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Zatarain's, dirty rice with cheese",
+        "Name": "Zatarains, dirty rice with cheese",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 6.6,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Zatarain's, bourbon chicken flavored rice, bourbon chicken",
+        "Name": "Zatarains, bourbon chicken flavored rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Zatarain's, southern bbq rice mix side dish",
+        "Name": "Zatarains, southern bbq rice mix side dish",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.5,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Long grain white rice in a creamy blend of parmesan, garlic and herbs",
+        "Name": "Long grain white rice in a creamy blend of parmesan, garlic & herbs",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 6.2,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "New orleans style wild brown rice, seasoned wild and brown rice with red and green bell peppers",
+        "Name": "New orleans style wild brown rice, seasoned wild & brown rice with red & green bell peppers",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.9,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Zatarain's, long grain & wild rice mix",
+        "Name": "Zatarains, long grain & wild rice mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.8,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Zatarain's, rice pilaf side dish",
+        "Name": "Zatarains, rice pilaf side dish",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Yellow rice, long grain rice lightly seasoned with bell peppers, onions and garlic",
+        "Name": "Yellow rice, long grain rice lightly seasoned with bell peppers, onions & garlic",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -2484,7 +2484,7 @@
         }
     },
     {
-        "Name": "Zatarain's, jambalaya mix, original",
+        "Name": "Zatarains, jambalaya mix, original",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.2,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Zatarain's, black beans and rice",
+        "Name": "Zatarains, black beans & rice",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 2.0,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Zatarain's, garlic butter flavored rice mix",
+        "Name": "Zatarains, garlic butter flavored rice mix",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.6,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Zatarain's, reduced sodium black beans and rice",
+        "Name": "Zatarains, reduced sodium black beans & rice",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "Neilly's foods, zesty rice & red beans mix",
+        "Name": "Neillys foods, zesty rice & red beans mix",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 1.2,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Neilly's foods, jollof rice mix",
+        "Name": "Neillys foods, jollof rice mix",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.2,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, chicken broth and herbs",
+        "Name": "Rice, vermicelli, chicken broth & herbs",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "5 whole grain blend",
+        "Name": "Whole grain blend",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "Cajun rice and beans",
+        "Name": "Cajun rice & beans",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 2.1,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Heirloom organic rice and grains",
+        "Name": "Heirloom organic rice & grains",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 6.7,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Organic whole grain masala rice and seasoning mix",
+        "Name": "Organic whole grain masala rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.5,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Uncle ben's, broccoli rice au gratin",
+        "Name": "Uncle bens, broccoli rice au gratin",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Uncle ben's, chicken & broccoli rice",
+        "Name": "Uncle bens, chicken & broccoli rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.8,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Uncle ben's, country inn rice pilaf",
+        "Name": "Uncle bens, country inn rice pilaf",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.8,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Texmati organic lightly milled brown rice, organic flaxseed and organic black beluga lentils",
+        "Name": "Texmati organic lightly milled brown rice, organic flaxseed & organic black beluga lentils",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 5.2,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Gourmet express arroz a banda",
+        "Name": "Gourmet express arroz a b&a",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.5,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "Red beans and rice",
+        "Name": "Red beans & rice",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 4.3,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Uncle ben's, country inn, flavored chicken rice, chicken",
+        "Name": "Uncle bens, country inn, flavored chicken rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Enriched white and brown calrose rice",
+        "Name": "Enriched white & brown calrose rice",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Rice-a-roni, rice, pasta, three cheeses and broccoli, cheddar broccoli",
+        "Name": "Rice-a-roni, rice, pasta, three cheeses & broccoli, cheddar broccoli",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.4,
@@ -3636,7 +3636,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, carrots and beef broth",
+        "Name": "Rice, vermicelli, carrots & beef broth",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Neilly's foods, brown rice jambalaya mix",
+        "Name": "Neillys foods, brown rice jambalaya mix",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.8,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Mixed 7 grains",
+        "Name": "Mixed grains",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 2.2,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Savory roasted chicken rice with carrots and celery",
+        "Name": "Savory roasted chicken rice with carrots & celery",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Cauliflower \"fried rice\" blend",
+        "Name": "Cauliflower fried rice blend",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice mix with vermicelli, chicken",
+        "Name": "Chicken flavor rice mix with vermicelli",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice with herb seasonings, herb seasonings",
+        "Name": "Long grain & wild rice with herb seasonings",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 0.0,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Spanish rice flavor with vermicelli & spanish seasoning, spanish rice",
+        "Name": "Spanish rice flavor with vermicelli & spanish seasoning",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.7,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Yellow rice saffron and turmeric rice mix",
+        "Name": "Yellow rice saffron & turmeric rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -4446,7 +4446,7 @@
         }
     },
     {
-        "Name": "New orleans style red beans & rice mix long grain rice, red beans, onions, and bell peppers, orleans style",
+        "Name": "New orleans style red beans & rice mix long grain rice, red beans, onions, & bell peppers",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Simple sides, rice and sauce chicken flavor broccoli",
+        "Name": "Simple sides, rice & sauce chicken flavor broccoli",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 7.7,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice mix, chicken",
+        "Name": "Chicken flavored rice mix",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.4,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, carrots and beef broth with other natural flavors mix, beef",
+        "Name": "Rice, vermicelli, carrots & beef broth with other natural flavors mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Organic whole grain spanish rice & seasoning mix, spanish rice",
+        "Name": "Organic whole grain spanish rice & seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 3.6,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Countrywild rice, countrywild",
+        "Name": "Countrywild rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Yellow rice & pasta blend seasoned with onion, garlic and latin spices, yellow rice",
+        "Name": "Yellow rice & pasta blend seasoned with onion, garlic & latin spices",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 1.6,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Fried rice with peas, carrots & onions, peas, carrots & onions",
+        "Name": "Fried rice with peas, carrots & onions, peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.0,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "A taste of china, sweet and sour rice, sweet and sour, sweet and sour",
+        "Name": "A taste of china, sweet & sour rice, sweet & sour",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.5,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Butter & chive sprouted risotto, butter & chive",
+        "Name": "Butter & chive sprouted risotto",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.8,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "Beef flavored rice mix, beef",
+        "Name": "Beef flavored rice mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Spanish style rice mix, spanish style",
+        "Name": "Spanish style rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Stir fried style rice mix, stir fried style",
+        "Name": "Stir fried style rice mix",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Spicy jambalaya long grain white rice, onions and bell peppers with traditional new orleans seasonings dinner mix, spicy jambalaya",
+        "Name": "Spicy jambalaya long grain white rice, onions & bell peppers with traditional new orleans seasonings dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Black-eyed peas & rice long grain white rice, black-eyed peas and bell peppers with mild seasonings dinner mix, black-eyed peas & rice",
+        "Name": "Black-eyed peas & rice long grain white rice, black-eyed peas & bell peppers with mild seasonings dinner mix",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 0.8,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Zatarain's, black beans and rice, original, original",
+        "Name": "Zatarains, black beans & rice, original",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Jambalaya rice dinner mix with cheese, jambalaya",
+        "Name": "Jambalaya rice dinner mix with cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 6.7,
@@ -4626,7 +4626,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli long grain white rice and broccoli florets in creamy blend of cheeses rice side, cheddar broccoli",
+        "Name": "Cheddar broccoli long grain white rice & broccoli florets in creamy blend of cheeses rice side",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.9,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "New orleans style chicken long grain white rice with natural chicken flavor, onions and bell peppers side dish rice mix, new orleans style chicken",
+        "Name": "New orleans style chicken long grain white rice with natural chicken flavor, onions & bell peppers side dish rice mix",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 0.8,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Dirty long grain white rice, onions, and bell peppers, with authentic cajun seasonings dinner mix, dirty rice",
+        "Name": "Dirty long grain white rice, onions, & bell peppers, with authentic cajun seasonings dinner mix, dirty rice",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "New orleans style smothered chicken rice mix, smothered chicken",
+        "Name": "New orleans style smothered chicken rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Long grain brown and wild rice side with a savory blend of herbs and seasonings, wild brown rice",
+        "Name": "Long grain brown & wild rice side with a savory blend of herbs & seasonings, wild brown rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 2.6,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Zatarain's, dirty brown rice mix",
+        "Name": "Zatarains, dirty brown rice mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 2.3,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Long grain white rice and tender red beans, onions and bell peppers dinner mix, red beans & rice",
+        "Name": "Long grain white rice & tender red beans, onions & bell peppers dinner mix, red beans & rice",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 1.5,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Paella rice mix, paella",
+        "Name": "Paella rice mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 2.6,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Jambalaya rice dinner mix, jambalaya",
+        "Name": "Jambalaya rice dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "New orleans style garlic & herb long grain white rice and orzo pasta with savory seasonings mix, garlic & herb",
+        "Name": "New orleans style garlic & herb long grain white rice & orzo pasta with savory seasonings mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "New orleans style bourbon chicken flavored rice, bourbon chicken",
+        "Name": "New orleans style bourbon chicken flavored rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "New orleans style jambalaya mix, new orleans style",
+        "Name": "New orleans style jambalaya mix",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 1.0,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Yellow rice long grain rice lightly seasoned with bell peppers, onions and garlic, yellow rice",
+        "Name": "Yellow rice long grain rice lightly seasoned with bell peppers, onions & garlic",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -4752,7 +4752,7 @@
         }
     },
     {
-        "Name": "New orleans style long grain white rice with sweet and spicy southern style bbq seasonings mix side dish, new orleans style southern bbq",
+        "Name": "New orleans style long grain white rice with sweet & spicy southern style bbq seasonings mix side dish, new orleans style southern bbq",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.5,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Long grain white rice in a creamy blend of parmesan, garlic and herbs, creamy parmesan",
+        "Name": "Long grain white rice in a creamy blend of parmesan, garlic & herbs, creamy parmesan",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 6.2,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Long grain white rice in a rich, seasoned roux with red and green bell peppers, gumbo mix with rice",
+        "Name": "Long grain white rice in a rich, seasoned roux with red & green bell peppers, gumbo mix with rice",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Long grain white rice and orzo pasta lightly seasoned with garlic, onions and bell peppers rice side, rice pilaf",
+        "Name": "Long grain white rice & orzo pasta lightly seasoned with garlic, onions & bell peppers rice side, rice pilaf",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 0.8,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Long grain yellow rice and broccoli pieces lightly seasoned with onions and garlic side, yellow rice with broccoli",
+        "Name": "Long grain yellow rice & broccoli pieces lightly seasoned with onions & garlic side, yellow rice with broccoli",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 0.8,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Jambalaya reduced sodium rice dinner mix, jambalaya",
+        "Name": "Jambalaya reduced sodium rice dinner mix",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.2,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice, chicken",
+        "Name": "Chicken flavored rice",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 2.3,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "New orleans style mild jambalaya mix, new orleans style",
+        "Name": "New orleans style mild jambalaya mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "New orleans style black beans and rice, new orleans style",
+        "Name": "New orleans style black beans & rice",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "New orleans style dirty rice mix, new orleans style",
+        "Name": "New orleans style dirty rice mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -4842,7 +4842,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, chicken broth and herbs with other natural flavors, chicken",
+        "Name": "Rice, vermicelli, chicken broth & herbs with other natural flavors",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Long grain rice and pinto beans seasoned with a blend of onion, garlic, and a hint of tomato dinner mix, mexican rice with pinto beans",
+        "Name": "Long grain rice & pinto beans seasoned with a blend of onion, garlic, & a hint of tomato dinner mix, mexican rice with pinto beans",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Jambalaya creole dinner mix, jambalaya",
+        "Name": "Jambalaya creole dinner mix",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.7,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Organic sprouted toasted coconut rice, toasted coconut",
+        "Name": "Organic sprouted toasted coconut rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 4.4,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Organic sprouted thai red curry rice, thai red curry",
+        "Name": "Organic sprouted thai red curry rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Organic sprouted vegetable fried rice, vegetable",
+        "Name": "Organic sprouted vegetable fried rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -4914,7 +4914,7 @@
         }
     },
     {
-        "Name": "Organic sprouted chile verde rice, chile verde",
+        "Name": "Organic sprouted chile verde rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Long grain rice pilaf with orzo, onion & garlic, orzo, onion & garlic",
+        "Name": "Long grain rice pilaf with orzo, onion & garlic, orzo",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "5 grain blend, french onion",
+        "Name": "Grain blend, french onion",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 2.6,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "Uncle ben's, country inn, flavored chicken rice, chicken, chicken",
+        "Name": "Uncle bens, country inn, flavored chicken rice, chicken",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Rice and vermicelli pasta in a cheddar cheese and broccoli sauce sides, cheddar broccoli",
+        "Name": "Rice & vermicelli pasta in a cheddar cheese & broccoli sauce sides, cheddar broccoli",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 1.5,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Rice-a-roni, rice, pasta, three cheeses and broccoli, cheddar broccoli, cheddar broccoli",
+        "Name": "Rice-a-roni, rice, pasta, three cheeses & broccoli, cheddar broccoli",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.4,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Rice, vermicelli, carrots and beef broth, beef",
+        "Name": "Rice, vermicelli, carrots & beef broth",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Chicken rice pilaf mix, chicken",
+        "Name": "Chicken rice pilaf mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Zesty lemon quinoa & brown rice blend, zesty lemon",
+        "Name": "Zesty lemon quinoa & brown rice blend",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.2,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Mediterranean medley quinoa & brown rice blend, mediterranean medley",
+        "Name": "Mediterranean medley quinoa & brown rice blend",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.2,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "Organic ready to serve! red quinoa & brown rice with garlic, red quinoa & brown rice",
+        "Name": "Organic ready to serve! red quinoa & brown rice with garlic",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.2,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Broccoli with cheese rice mix with seasonings, broccoli",
+        "Name": "Broccoli with cheese rice mix with seasonings",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.3,
@@ -5103,7 +5103,7 @@
         }
     },
     {
-        "Name": "Chicken rice mix with seasonings with vermicelli, chicken",
+        "Name": "Chicken rice mix with seasonings with vermicelli",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Organic turmeric brown rice, turmeric",
+        "Name": "Organic turmeric brown rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.4,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Tuscan-style mushroom risotto kit, tuscan-style mushroom",
+        "Name": "Tuscan-style mushroom risotto kit",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.9,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Spanish style rice & vermicelli mix with green peppers & seasoning, spanish style rice",
+        "Name": "Spanish style rice & vermicelli mix with green peppers & seasoning",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Rice pilaf & pasta mix, rice pilaf",
+        "Name": "Rice pilaf & pasta mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Rice with zesty cilantro lime seasoning, cilantro lime",
+        "Name": "Rice with zesty cilantro lime seasoning",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Spanish style white rice & seasoning mix, spanish style",
+        "Name": "Spanish style white rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.8,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Cilantro lime rice & seasoning mix, cilantro lime rice",
+        "Name": "Cilantro lime rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -5211,7 +5211,7 @@
         }
     },
     {
-        "Name": "Rice and pasta in a savory spanish sauce, spanish",
+        "Name": "Rice & pasta in a savory spanish sauce",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 1.5,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Rice & vermicelli mix with chicken flavor & spices, chicken",
+        "Name": "Rice & vermicelli mix with chicken flavor & spices",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Spicy szechuan-style chicken & rice kit, spicy szechuan-style",
+        "Name": "Spicy szechuan-style chicken & rice kit",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 0.0,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavored rice, roasted chicken",
+        "Name": "Roasted chicken flavored rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.5,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Organic rice pilaf rice & seasoning mix, rice pilaf",
+        "Name": "Organic rice pilaf rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Herb & butter rice blend mix in a delicate sauce, herb & butter",
+        "Name": "Herb & butter rice blend mix in a delicate sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 0.8,
@@ -5274,7 +5274,7 @@
         }
     },
     {
-        "Name": "Chicken rice & sauce, chicken",
+        "Name": "Chicken rice & sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -5283,7 +5283,7 @@
         }
     },
     {
-        "Name": "Whole grain 5 rice blend",
+        "Name": "Whole grain rice blend",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -5301,7 +5301,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice & vermicelli mix, chicken",
+        "Name": "Chicken flavored rice & vermicelli mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Spanish style seasoned rice mix, spanish style",
+        "Name": "Spanish style seasoned rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Long grain and wild rice pilaf, long grain and wild",
+        "Name": "Long grain & wild rice pilaf",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.0,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice & sauce, chicken",
+        "Name": "Chicken flavor rice & sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice and pasta in a cheese sauce with broccoli, cheddar broccoli",
+        "Name": "Cheddar broccoli rice & pasta in a cheese sauce with broccoli",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 2.3,
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "Name": "Rice and pasta blend with garlic, creamy butter and mild cajun spices sauce, cajun garlic butter",
+        "Name": "Rice & pasta blend with garlic, creamy butter & mild cajun spices sauce, cajun garlic butter",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 1.5,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Family style cheddar broccoli rice in a cheese sauce, cheddar broccoli",
+        "Name": "Family style cheddar broccoli rice in a cheese sauce",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.6,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "Chicken flavored gourmet side rice, chicken",
+        "Name": "Chicken flavored gourmet side rice",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 1.5,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Spanish style gourmet rice side, spanish style",
+        "Name": "Spanish style gourmet rice side",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 1.3,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Family style chicken flavored rice, chicken",
+        "Name": "Family style chicken flavored rice",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 0.0,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Family style spanish rice with bell peppers in a sweet tomato sauce, family style",
+        "Name": "Family style spanish rice with bell peppers in a sweet tomato sauce",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 0.0,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavored gourmet side rice, cheddar broccoli",
+        "Name": "Cheddar broccoli flavored gourmet side rice",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 3.0,
@@ -5427,7 +5427,7 @@
         }
     },
     {
-        "Name": "Original pilaf quinoa blend, original pilaf",
+        "Name": "Original pilaf quinoa blend",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.4,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Rosemary & olive oil a blend of quinoa & brown rice, rosemary & olive oil",
+        "Name": "Rosemary & olive oil a blend of quinoa & brown rice",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.4,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Original long grain & wild rice with a blend of vegetables, spices and other natural flavors seasoned mix, original long grain & wild rice",
+        "Name": "Original long grain & wild rice with a blend of vegetables, spices & other natural flavors seasoned mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.0,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Garlic & herb chicken skillet meals, garlic & herb chicken",
+        "Name": "Garlic & herb chicken skillet meals",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 1.2,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Southwest chicken with quinoa and brown rice",
+        "Name": "Southwest chicken with quinoa & brown rice",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 3.6,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Lemon shrimp with orzo and long grain rice skillet meals, lemon shrimp",
+        "Name": "Lemon shrimp with orzo & long grain rice skillet meals",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 1.2,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Coconut jasmine ready rice pouch, coconut jasmine",
+        "Name": "Coconut jasmine ready rice pouch",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 2.9,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Beef & broccoli with quinoa and brown rice skillet meals, beef & broccoli",
+        "Name": "Beef & broccoli with quinoa & brown rice skillet meals",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 3.4,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Spanish style flavor infused dry rice, spanish style",
+        "Name": "Spanish style flavor infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & olive oil long grain & wild rice, roasted garlic & olive oil",
+        "Name": "Roasted garlic & olive oil long grain & wild rice",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 1.8,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Chicken & wild, tender long grain & wild rice with chicken flavored sauce, chicken & wild",
+        "Name": "Chicken & wild, tender long grain & wild rice with chicken flavored sauce",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Chicken & herb flavor infused dry rice, chicken & herb",
+        "Name": "Chicken & herb flavor infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Jambalaya ready rice, jambalaya",
+        "Name": "Jambalaya ready rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.4,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Garlic & butter flavor infused dry rice, garlic & butter",
+        "Name": "Garlic & butter flavor infused dry rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.1,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavor infused dry rice, roasted chicken",
+        "Name": "Roasted chicken flavor infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Beef flavored rice & vermicelli mix, beef",
+        "Name": "Beef flavored rice & vermicelli mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Fried rice original rice & vermicelli mix in a blend of asian seasoning, fried rice",
+        "Name": "Fried rice original rice & vermicelli mix in a blend of asian seasoning",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Spanish style yellow rice, spanish style",
+        "Name": "Spanish style yellow rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "New orleans style red beans & rice mix, red beans & rice",
+        "Name": "New orleans style red beans & rice mix",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 1.0,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Jambalaya creole rice dinner mix, jambalaya",
+        "Name": "Jambalaya creole rice dinner mix",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Hot & spicy jalapeno cheddar rice, hot & spicy jalapeno cheddar",
+        "Name": "Hot & spicy jalapeno cheddar rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 5.4,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice mix with herb seasoning, long grain & wild rice",
+        "Name": "Long grain & wild rice mix with herb seasoning",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Broccoli au gratin rice & orzo blend with broccoli & three cheeses, broccoli au gratin rice",
+        "Name": "Broccoli au gratin rice & orzo blend with broccoli & three cheeses",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 4.3,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Cuban style long grain rice & black beans with savory spices, cuban style",
+        "Name": "Cuban style long grain rice & black beans with savory spices",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.8,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Original authentic vegan yellow rice mix, original",
+        "Name": "Original authentic vegan yellow rice mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Long grain white rice and tender red beans, onions and bell peppers rice dinner mix",
+        "Name": "Long grain white rice & tender red beans, onions & bell peppers rice dinner mix",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 1.5,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "New orleans style black beans and rice reduced sodium long grain white rice and black beans seasoned with bell pepper, onion and garlic",
+        "Name": "New orleans style black beans & rice reduced sodium long grain white rice & black beans seasoned with bell pepper, onion & garlic",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Whole grain medley brown & wild with herbs and spices rice",
+        "Name": "Whole grain medley brown & wild with herbs & spices rice",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.0,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Spanish a blend of lentils, chickpeas, peas + rice",
+        "Name": "Spanish a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Cajun chicken flavored classic cajun recipe with hints of cajun style seasoning, natural chicken flavor, red pepper and garlic rice dinner mix",
+        "Name": "Cajun chicken flavored classic cajun recipe with hints of cajun style seasoning, natural chicken flavor, red pepper & garlic rice dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Dirty rice long grain white rice, onions and bell peppers with authentic cajun seasonings rice dinner mix",
+        "Name": "Dirty rice long grain white rice, onions & bell peppers with authentic cajun seasonings rice dinner mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Red beans & rice long grain white rice and tender red beans, onions and bell peppers rice dinner mix",
+        "Name": "Red beans & rice long grain white rice & tender red beans, onions & bell peppers rice dinner mix",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 1.5,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "New orleans style garlic & herb rice long grain white rice mix and orzo pasta with savory seasonings",
+        "Name": "New orleans style garlic & herb rice long grain white rice mix & orzo pasta with savory seasonings",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain white rice and orzo pasta lightly seasoned with garlic, onions and bell peppers",
+        "Name": "Rice pilaf long grain white rice & orzo pasta lightly seasoned with garlic, onions & bell peppers",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Mexican rice with pinto beans long grain rice and pinto beans seasoned with a blend of onion, garlic, and a hint of tomato rice dinner mix",
+        "Name": "Mexican rice with pinto beans long grain rice & pinto beans seasoned with a blend of onion, garlic, & a hint of tomato rice dinner mix",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Spanish style brown rice with bell peppers and white beans",
+        "Name": "Spanish style brown rice with bell peppers & white beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 3.1,
@@ -6102,7 +6102,7 @@
         }
     },
     {
-        "Name": "Hot & spicy buffalo chicken flavor rice, cayenne red pepper sauce and chicken",
+        "Name": "Hot & spicy buffalo chicken flavor rice, cayenne red pepper sauce & chicken",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Cilantro lime a blend of lentils, chickpeas, peas + rice",
+        "Name": "Cilantro lime a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Beef flavored rice & vermicelli mix with beef broth & herbs rice medley, beef",
+        "Name": "Beef flavored rice & vermicelli mix with beef broth & herbs rice medley",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & herbs rice medley, chicken",
+        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & herbs rice medley",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Black beans, bell peppers and spices white white quinoa with brown rice quinoa blend, black beans, bell peppers and spices",
+        "Name": "Black beans, bell peppers & spices white white quinoa with brown rice quinoa blend, black beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 4.4,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Spanish organic whole grain rice & seasoning mix, spanish",
+        "Name": "Spanish organic whole grain rice & seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 3.6,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Garlic & basil whole grain rice & wild seasoning mix, garlic & basil",
+        "Name": "Garlic & basil whole grain rice & wild seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.7,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Wild porcini mushroom organic whole grain rice & wild rice seasoning mix, wild porcini mushroom",
+        "Name": "Wild porcini mushroom organic whole grain rice & wild rice seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.7,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Organic whole grain red beans & rice seasoning mix, organic",
+        "Name": "Organic whole grain red beans & rice seasoning mix",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Cajun chicken flavored classic cajun recipe with hints of cajun style seasoning, natural chicken flavor, red pepper and garlic rice dinner mix, cajun chicken",
+        "Name": "Cajun chicken flavored classic cajun recipe with hints of cajun style seasoning, natural chicken flavor, red pepper & garlic rice dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Dirty rice long grain white rice, onions and bell peppers with authentic cajun seasonings rice dinner mix, dirty rice",
+        "Name": "Dirty rice long grain white rice, onions & bell peppers with authentic cajun seasonings rice dinner mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Red beans & rice long grain white rice and tender red beans, onions and bell peppers rice dinner mix, red beans & rice",
+        "Name": "Red beans & rice long grain white rice & tender red beans, onions & bell peppers rice dinner mix",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 1.5,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "New orleans style long grain white rice with mixed garden vegetable and seasonings mix side dish, new orleans style garden vegetable",
+        "Name": "New orleans style long grain white rice with mixed garden vegetable & seasonings mix side dish, new orleans style garden vegetable",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 0.8,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Butter flavored long grain white rice mildly seasoned with garlic, onion and butter, garlic butter",
+        "Name": "Butter flavored long grain white rice mildly seasoned with garlic, onion & butter, garlic butter",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.6,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Long grain rice with seasonings black beans, black beans",
+        "Name": "Long grain rice with seasonings black beans",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 1.8,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Wild rice, carrots and mushrooms quinoa blend white quinoa with brown rice, wild rice, carrots and mushrooms",
+        "Name": "Wild rice, carrots & mushrooms quinoa blend white quinoa with brown rice, wild rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 3.3,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Wild blend whole grain rice, wild blend",
+        "Name": "Wild blend whole grain rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Toasted coconut organic sprouted rice, toasted coconut",
+        "Name": "Toasted coconut organic sprouted rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 4.4,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Korean bbq organic sprouted rice, korean bbq",
+        "Name": "Korean bbq organic sprouted rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Creamy cheddar rice, creamy cheddar",
+        "Name": "Creamy cheddar rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.8,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Butter & herb rice, butter & herb",
+        "Name": "Butter & herb rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.9,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Black beans & brown rice with corn, peppers & spices, corn, peppers & spices",
+        "Name": "Black beans & brown rice with corn, peppers & spices, corn",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.5,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice and vermicelli pasta in a cheddar cheese and broccoli sauce rice sides, cheddar broccoli",
+        "Name": "Cheddar broccoli rice & vermicelli pasta in a cheddar cheese & broccoli sauce rice sides",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 1.5,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Creamy four cheese with vermicelli, creamy four cheese",
+        "Name": "Creamy four cheese with vermicelli",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 2.1,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Whole grain medley brown & wild with herbs and spices rice, whole grain medley",
+        "Name": "Whole grain medley brown & wild with herbs & spices rice",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.0,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Spanish style with tomatoes & peppers, spanish style",
+        "Name": "Spanish style with tomatoes & peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.0,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "Broccoli with cheese & long grain rice, broccoli with cheese & long grain",
+        "Name": "Broccoli with cheese & long grain rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 5.3,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Chile verde rice side long grain white rice with onions, garlic, and a unique blend of refreshing lime with  hint of jalapeno, chile verde",
+        "Name": "Chile verde rice side long grain white rice with onions, garlic, & a unique blend of refreshing lime with hint of jalapeno",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.6,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "Cilantro lime flavored whole grain blends rice & quinoa, cilantro lime",
+        "Name": "Cilantro lime flavored whole grain blends rice & quinoa",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 3.5,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Jerk chicken rice dinner mix, jerk chicken",
+        "Name": "Jerk chicken rice dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Cuban-style black beans & rice, cuban-style",
+        "Name": "Cuban-style black beans & rice",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Gluten-free organic spanish style white rice & seasoning mix, spanish style white rice",
+        "Name": "Gluten-free organic spanish style white rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.8,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Organic cilantro lime white rice & seasoning mix, cilantro lime",
+        "Name": "Organic cilantro lime white rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Gluten-free organic rice pilaf white rice & seasoning mix, rice pilaf",
+        "Name": "Gluten-free organic rice pilaf white rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Chicken flavored seasoned with herbs and natural flavors rice & vermicelli mix, chicken",
+        "Name": "Chicken flavored seasoned with herbs & natural flavors rice & vermicelli mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -6534,7 +6534,7 @@
         }
     },
     {
-        "Name": "Spanish style rice and vermicelli mix in a spanish style tomato sauce seasoned rice mix, spanish style",
+        "Name": "Spanish style rice & vermicelli mix in a spanish style tomato sauce seasoned rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice with a blend of vegetables, spices and other natural flavors original seasoned rice mix, long grain & wild rice",
+        "Name": "Long grain & wild rice with a blend of vegetables, spices & other natural flavors original seasoned rice mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.0,
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "Name": "Gumbo creole rice dinner mix, gumbo",
+        "Name": "Gumbo creole rice dinner mix",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Hot & spicy jalapeno cheddar flavor rice, jalapenos and cheddar cheese, hot & spicy jalapeno cheddar",
+        "Name": "Hot & spicy jalapeno cheddar flavor rice, jalapenos & cheddar cheese",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 5.4,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Cilantro limon jasmine rice, cilantro limon",
+        "Name": "Cilantro limon jasmine rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.1,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Original vegan yellow rice mix, original",
+        "Name": "Original vegan yellow rice mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavored rice with herbs & carrots, roasted chicken",
+        "Name": "Roasted chicken flavored rice with herbs & carrots",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.5,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Cilantro lime dry rice mix with sweet corn & green onions, cilantro lime",
+        "Name": "Cilantro lime dry rice mix with sweet corn & green onions",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 1.7,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Garlic & olive oil jasmine rice, garlic & olive",
+        "Name": "Garlic & olive oil jasmine rice",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.1,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Vegetable primavera italian risotto , vegetable primavera",
+        "Name": "Vegetable primavera italian risotto",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 2.2,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Mediterranean cauliflower rice, mediterranean",
+        "Name": "Mediterranean cauliflower rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.0,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Garlic & olive oil flavored jasmine rice, garlic & olive oil",
+        "Name": "Garlic & olive oil flavored jasmine rice",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.1,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Chicken hearty rice and pasta in a savory chicken flavored sauce with carrots, peas and peppers rice mix, chicken",
+        "Name": "Chicken hearty rice & pasta in a savory chicken flavored sauce with carrots, peas & peppers rice mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 2.2,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Original organic whole grain rice & wild rice seasoning mix, original",
+        "Name": "Original organic whole grain rice & wild rice seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.7,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Chesapeake bay style organic crabby rice & seasoning mix, chesapeake bay style",
+        "Name": "Chesapeake bay style organic crabby rice & seasoning mix",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.9,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Spanish style organic whole grain quinoa & rice seasoning mix, spanish style",
+        "Name": "Spanish style organic whole grain quinoa & rice seasoning mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Basil & bell pepper organic whole grain quinoa rice & seasoning mix, basil & bell pepper",
+        "Name": "Basil & bell pepper organic whole grain quinoa rice & seasoning mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -6687,7 +6687,7 @@
         }
     },
     {
-        "Name": "Garlic & basil organic whole grain rice & wild rice seasoning mix, garlic & basil",
+        "Name": "Garlic & basil organic whole grain rice & wild rice seasoning mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.7,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Garlic primavera traditional italian risotto, garlic primavera",
+        "Name": "Garlic primavera traditional italian risotto",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.9,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Spicy jambalaya long grain rice mix with vegetables & spices, spicy jambalaya",
+        "Name": "Spicy jambalaya long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Cajun chicken flavored long grain rice mix with vegetables & spices, cajun chicken",
+        "Name": "Cajun chicken flavored long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Red beans & rice long grain rice mix with beans, vegetables & spices, red beans & rice",
+        "Name": "Red beans & rice long grain rice mix with beans, vegetables & spices",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 2.0,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Long grain white rice with authentic cajun seasonings and a blend of three cheeses, dirty rice with cheese",
+        "Name": "Long grain white rice with authentic cajun seasonings & a blend of three cheeses, dirty rice with cheese",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 6.6,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Spanish rice long grain rice mix with vegetables & spices in a tomato sauce, spanish rice",
+        "Name": "Spanish rice long grain rice mix with vegetables & spices in a tomato sauce",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.2,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Long grain yellow rice with vegetables & spices, yellow rice",
+        "Name": "Long grain yellow rice with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Creamy parmesan long grain white rice in a creamy blend of parmesan, garlic and herbs, creamy parmesan",
+        "Name": "Creamy parmesan long grain white rice in a creamy blend of parmesan, garlic & herbs",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 6.2,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Mild jambalaya long grain rice mix with vegetables & spices, mild",
+        "Name": "Mild jambalaya long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Garlic butter flavored long grain white rice mildly seasoned with garlic, onion and butter rice side, garlic butter",
+        "Name": "Garlic butter flavored long grain white rice mildly seasoned with garlic, onion & butter rice side",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.6,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Cilantro lime long grain rice with lime & spices, cilantro lime",
+        "Name": "Cilantro lime long grain rice with lime & spices",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Porcini risotto naturally seasoned, porcini",
+        "Name": "Porcini risotto naturally seasoned",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.9,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Thai red curry organic sprouted rice, thai red curry",
+        "Name": "Thai red curry organic sprouted rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -6831,7 +6831,7 @@
         }
     },
     {
-        "Name": "Chile verde organic sprouted rice, chile verde",
+        "Name": "Chile verde organic sprouted rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Chicken flavored whole grain brown ready rice, chicken",
+        "Name": "Chicken flavored whole grain brown ready rice",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.7,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Broccoli with cheese long grain rice, broccoli with cheese",
+        "Name": "Broccoli with cheese long grain rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 6.1,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Spicy yellow seasonings & long grain rice, spicy",
+        "Name": "Spicy yellow seasonings & long grain rice",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Spanish style rice organic rice & seasoning mix, spanish style rice",
+        "Name": "Spanish style rice organic rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.8,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Cilantro lime organic rice & seasoning mix, cilantro lime",
+        "Name": "Cilantro lime organic rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Rice pilaf organic white rice & seasoning mix, rice pilaf",
+        "Name": "Rice pilaf organic white rice & seasoning mix",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Garden district kitchen salsa verde brown rice with red beans, salsa verde",
+        "Name": "Garden district kitchen salsa verde brown rice with red beans",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 3.7,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Jambalaya long grain rice, onions, bell peppers & garlic with paprika & red peppers rice dinner mix, jambalaya",
+        "Name": "Jambalaya long grain rice, onions, bell peppers & garlic with paprika & red peppers rice dinner mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -6912,7 +6912,7 @@
         }
     },
     {
-        "Name": "Garlic & ghee seasoned basmati rice, garlic & ghee",
+        "Name": "Garlic & ghee seasoned basmati rice",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 3.6,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Red beans & rice creole rice dinner mix, red beans & rice",
+        "Name": "Red beans & rice creole rice dinner mix",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 1.1,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Black beans & rice organic whole grain rice & seasoning mix, black beans & rice",
+        "Name": "Black beans & rice organic whole grain rice & seasoning mix",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Red beans & rice organic whole grain rice & seasoning mix, red beans & rice",
+        "Name": "Red beans & rice organic whole grain rice & seasoning mix",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Butternut squash risotto, butternut squash",
+        "Name": "Butternut squash risotto",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.0,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Chile verde long grain white rice with onions, garlic, and a unique blend of refreshing lime with a hint of jalapeno rice side, chile verde",
+        "Name": "Chile verde long grain white rice with onions, garlic, & a unique blend of refreshing lime with a hint of jalapeno rice side",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.6,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Onion, lime & chili fonio pilaf, onion, lime & chili",
+        "Name": "Onion, lime & chili fonio pilaf, onion",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Pesto cauliflower rice, pesto",
+        "Name": "Pesto cauliflower rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -7011,7 +7011,7 @@
         }
     },
     {
-        "Name": "Saffron yellow rice, saffron",
+        "Name": "Saffron yellow rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7020,7 +7020,7 @@
         }
     },
     {
-        "Name": "Basil & bell pepper organic whole grain quinoa & rice seasoning mix, basil & bell pepper",
+        "Name": "Basil & bell pepper organic whole grain quinoa & rice seasoning mix",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 3.5,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "New orleans style dirty rice with cheese long grain white rice with authentic cajun seasonings and a blend of three cheeses, new orleans style dirty rice with cheese",
+        "Name": "New orleans style dirty rice with cheese long grain white rice with authentic cajun seasonings & a blend of three cheeses",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 6.6,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Yellow rice long grain rice with vegetables & spices, yellow rice",
+        "Name": "Yellow rice long grain rice with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Jambalaya reduced sodium long grain rice mix with vegetables & spices, jambalaya",
+        "Name": "Jambalaya reduced sodium long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Garden vegetable with peas, carrots & corn pouch, garden vegetable",
+        "Name": "Garden vegetable with peas, carrots & corn pouch",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.7,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Four cheese risotto, four cheese",
+        "Name": "Four cheese risotto",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 7.0,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Asian ginger riced red lentil pilaf, asian ginger",
+        "Name": "Asian ginger riced red lentil pilaf",
         "Nutrients": {
             "Protein": 26.0,
             "Fat": 2.0,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Original organic legume risoni, original",
+        "Name": "Original organic legume risoni",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 3.3,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Chicken seasonings & long grain rice, chicken",
+        "Name": "Chicken seasonings & long grain rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Beef flavor rice, vermicelli, carrots and beef broth, beef",
+        "Name": "Beef flavor rice, vermicelli, carrots & beef broth",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Spanish recipe saffron yellow rice, spanish recipe",
+        "Name": "Spanish recipe saffron yellow rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Streit's, rice & vermicelli mix, chicken, chicken",
+        "Name": "Streits, rice & vermicelli mix, chicken",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Food club, rice & sauce, spanish, spanish",
+        "Name": "Food club, rice & sauce, spanish",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 1.5,
@@ -7182,7 +7182,7 @@
         }
     },
     {
-        "Name": "Food club, rice medley, spanish, spanish",
+        "Name": "Food club, rice medley, spanish",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Hy-top, rice mix, chicken, chicken",
+        "Name": "Hy-top, rice mix, chicken",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.1,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "New orleans, beef rice, beef, beef",
+        "Name": "New orleans, beef rice, beef",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 1.1,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Food club, rice medley, broccoli au gratin, broccoli au gratin",
+        "Name": "Food club, rice medley, broccoli au gratin",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 11.4,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Vigo, seasoned armenian style rice pilaf, chicken, chicken",
+        "Name": "Vigo, seasoned armenian style rice pilaf, chicken",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Bear creek country kitchens, rice mix, beef, beef",
+        "Name": "Bear creek country kitchens, rice mix, beef",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 1.4,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Spiced rice with raisins, raisins",
+        "Name": "Spiced rice with raisins",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 13.0,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Yellow curry rice, yellow curry",
+        "Name": "Yellow curry rice",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 3.0,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "Cuban recipe authentic black beans & rice, cuban recipe",
+        "Name": "Cuban recipe authentic black beans & rice",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 0.9,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Giant, rich and flavorful italian rice, citrus lemon, citrus lemon",
+        "Name": "Giant, rich & flavorful italian rice, citrus lemon",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Garlic & herb flavour rice pilaf, garlic & herb",
+        "Name": "Garlic & herb flavour rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Rice with peas and carrots, roasted chicken",
+        "Name": "Rice with peas & carrots, roasted chicken",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Rice pilaf, rice pilaf",
+        "Name": "Rice pilaf",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 1.1,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Casbah spanish regular rice pilaf long grain, casbah spanish regular rice pilaf long grain",
+        "Name": "Casbah spanish regular rice pilaf long grain",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -7398,7 +7398,7 @@
         }
     },
     {
-        "Name": "Yellow rice & pasta blend seasoned with onion, garlic and latin spices, yellow",
+        "Name": "Yellow rice & pasta blend seasoned with onion, garlic & latin spices",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 1.6,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Sweet and sour rice, sweet and sour",
+        "Name": "Sweet & sour rice",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.5,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Gumbo mix long grain rice in a rich, seasoned roux with vegetables, gumbo mix",
+        "Name": "Gumbo mix long grain rice in a rich, seasoned roux with vegetables",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.0,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Long grain and wild rice with spices, long grain and wild rice",
+        "Name": "Long grain & wild rice with spices",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.8,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Red beans & rice reduced sodium long grain rice mix with beans, vegetables & spices, red beans & rice",
+        "Name": "Red beans & rice reduced sodium long grain rice mix with beans, vegetables & spices",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 1.0,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Mild jambalaya long grain rice mix with vegetables & spices, mild jambalaya",
+        "Name": "Mild jambalaya long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Dirty rice reduced sodium long grain rice mix with vegetables & spices, dirty rice",
+        "Name": "Dirty rice reduced sodium long grain rice mix with vegetables & spices",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -7488,7 +7488,7 @@
         }
     },
     {
-        "Name": "Cilantro lime flavored long grain rice with lime & spices, cilantro lime",
+        "Name": "Cilantro lime flavored long grain rice with lime & spices",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Classic fresh & zesty cilantro lime rice, classic fresh & zesty",
+        "Name": "Classic fresh & zesty cilantro lime rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Spanish rice & pasta blend with bell peppers in a sweet tomato sauce, spanish",
+        "Name": "Spanish rice & pasta blend with bell peppers in a sweet tomato sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Rice and chicken flavored seasoning mix comida kit, rice and chicken",
+        "Name": "Rice & chicken flavored seasoning mix comida kit",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 2.3,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Beef flavor lower sodium rice, vermicelli, beef broth and carrots, beef",
+        "Name": "Beef flavor lower sodium rice, vermicelli, beef broth & carrots",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Asian sides teriyaki rice, teriyaki rice",
+        "Name": "Asian sides teriyaki rice",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 2.9,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Basil lemongrass curry flavor thai style basmati rice, basil lemongrass curry",
+        "Name": "Basil lemongrass curry flavor thai style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.9,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Fire roasted tomatillo & green chili flavor mexican style basmati rice, fire roasted tomatillo & green chili",
+        "Name": "Fire roasted tomatillo & green chili flavor mexican style basmati rice",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 0.0,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Provencal vegetable flavor french style basmati rice, provencal vegetable",
+        "Name": "Provencal vegetable flavor french style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 0.0,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Herb & lemon flavor greek style basmati rice, herb & lemon",
+        "Name": "Herb & lemon flavor greek style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.9,
@@ -7587,7 +7587,7 @@
         }
     },
     {
-        "Name": "Chimichurri flavor argentinian style basmati rice, chimichurri",
+        "Name": "Chimichurri flavor argentinian style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.9,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Roasted chicken & herb flavor rice pilaf, roasted chicken & herb",
+        "Name": "Roasted chicken & herb flavor rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavor rice, pasta, three cheeses and broccoli, cheddar broccoli",
+        "Name": "Cheddar broccoli flavor rice, pasta, three cheeses & broccoli",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.4,
@@ -7614,7 +7614,7 @@
         }
     },
     {
-        "Name": "Fried rice delicious mix of rice, vermicelli and asian seasonings, fried rice",
+        "Name": "Fried rice delicious mix of rice, vermicelli & asian seasonings",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice pilaf mix, chicken",
+        "Name": "Chicken flavor rice pilaf mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Mediterranean medley flavor quinoa & brown rice blend, mediterranean medley",
+        "Name": "Mediterranean medley flavor quinoa & brown rice blend",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.2,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Wood fired tandoori flavor indian style basmati rice, wood fired tandoori",
+        "Name": "Wood fired t&oori flavor indian style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.9,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Herb tagine flavor moroccan style basmati rice, herb tagine",
+        "Name": "Herb tagine flavor moroccan style basmati rice",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 0.0,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Beef flavor rice mix with vermicelli, beef",
+        "Name": "Beef flavor rice mix with vermicelli",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 0.0,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Arroz con pollo rice and chicken flavored seasoning mix comida kit, arroz con pollo",
+        "Name": "Arroz con pollo rice & chicken flavored seasoning mix comida kit",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 2.3,
@@ -7686,7 +7686,7 @@
         }
     },
     {
-        "Name": "Garlic & onion flavored whole grain brown, garlic & onion",
+        "Name": "Garlic & onion flavored whole grain brown",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -7695,7 +7695,7 @@
         }
     },
     {
-        "Name": "New orleans recipe authentic red beans & rice, new orleans recipe",
+        "Name": "New orleans recipe authentic red beans & rice",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 0.0,
@@ -7704,7 +7704,7 @@
         }
     },
     {
-        "Name": "Mild one pot biryani rice kit, mild",
+        "Name": "Mild one pot biryani rice kit",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 0.0,
@@ -7713,7 +7713,7 @@
         }
     },
     {
-        "Name": "Chicken flavon rice & vermicelli mix with herbs, other natural flavors and chicken broth rice mix, chicken",
+        "Name": "Chicken flavon rice & vermicelli mix with herbs, other natural flavors & chicken broth rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Premium risotto with sun dried tomatoes and italian arborio rice ",
+        "Name": "Premium risotto with sun dried tomatoes & italian arborio rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Rice, naturally flavored seasoning mix and salsa",
+        "Name": "Rice, naturally flavored seasoning mix & salsa",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 1.0,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Betty crocker, helper, hamburger double cheesy quesadilla sauce mix, double cheesy quesadilla, double cheesy quesadilla",
+        "Name": "Betty crocker, helper, hamburger double cheesy quesadilla sauce mix, double cheesy quesadilla",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 3.7,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Tuscan-style mushroom risotto kit, tuscan-style",
+        "Name": "Tuscan-style mushroom risotto kit",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.9,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Chicken tikka masala kit, chicken tikka masala",
+        "Name": "Chicken tikka masala kit",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 0.6,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Lemon pepper a blend of lentils, chickpeas, peas + rice, lemon pepper",
+        "Name": "Lemon pepper a blend of lentils, chickpeas, peas & rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.0,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & spices, chicken",
+        "Name": "Chicken flavored rice & vermicelli mix with chicken broth & spices",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.1,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Oriental fried rice mix with vermicelli & herbs, vermicelli & herbs",
+        "Name": "Oriental fried rice mix with vermicelli & herbs",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 1.4,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Spanish with vermicelli & spanish seasoning rice mix, spanish",
+        "Name": "Spanish with vermicelli & spanish seasoning rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Rosemary & olive oil quinoa/brown rice blend, rosemary & olive oil quinoa/brown",
+        "Name": "Rosemary & olive oil quinoa/brown rice blend",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 4.3,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Chicken flavor fried rice & pasta blend in a soy, sesame & chicken flavored sauce, chicken",
+        "Name": "Chicken flavor fried rice & pasta blend in a soy, sesame & chicken flavored sauce",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 3.1,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Teriyaki rice & pasta blend in a sweet teriyaki sauce, teriyaki",
+        "Name": "Teriyaki rice & pasta blend in a sweet teriyaki sauce",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 2.9,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Dirty rice & pasta blend with onions, garlic and mild cajun spices, dirty",
+        "Name": "Dirty rice & pasta blend with onions, garlic & mild cajun spices",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Red beans & rice & pasta blend with red beans, bell peppers & cajun spices, red beans & rice",
+        "Name": "Red beans & rice & pasta blend with red beans, bell peppers & cajun spices",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 3.1,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Taco rice & pasta blend with cheese in a taco flavored sauce, taco",
+        "Name": "Taco rice & pasta blend with cheese in a taco flavored sauce",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 1.6,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Beef flavor rice & pasta blend in a savory beef flavored sauce, beef",
+        "Name": "Beef flavor rice & pasta blend in a savory beef flavored sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Creamy chicken flavor rice & pasta blend in a creamy chicken flavored sauce, creamy chicken",
+        "Name": "Creamy chicken flavor rice & pasta blend in a creamy chicken flavored sauce",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 2.3,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice & pasta blend in a savory chicken flavored sauce, chicken",
+        "Name": "Chicken flavor rice & pasta blend in a savory chicken flavored sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 3.9,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Herb & butter flavor rice & pasta blend in a delicate butter flavored & herb sauce, herb & butter",
+        "Name": "Herb & butter flavor rice & pasta blend in a delicate butter flavored & herb sauce",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.5,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Rice pilaf flavor rice & pasta blend in a chicken flavored sauce with seasonings, rice pilaf",
+        "Name": "Rice pilaf flavor rice & pasta blend in a chicken flavored sauce with seasonings",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 1.6,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Rice medley rice & pasta blend in a savory sauce with carrots & peas, rice medley",
+        "Name": "Rice medley rice & pasta blend in a savory sauce with carrots & peas",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Asian bbq rice & pasta blend in a sweet soy sauce with ginger & sesame, asian bbq",
+        "Name": "Asian bbq rice & pasta blend in a sweet soy sauce with ginger & sesame",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 2.7,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Buffalo chicken flavor rice & pasta blend in a classic buffalo style sauce, buffalo chicken",
+        "Name": "Buffalo chicken flavor rice & pasta blend in a classic buffalo style sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 2.3,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "White cheddar queso rice & pasta blend in a creamy white cheddar flavored sauce with a touch of jalapeno, white cheddar queso",
+        "Name": "White cheddar queso rice & pasta blend in a creamy white cheddar flavored sauce with a touch of jalapeno",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 2.9,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Creamy chipotle rice & pasta blend in a creamy chipotle tomato sauce, creamy chipotle",
+        "Name": "Creamy chipotle rice & pasta blend in a creamy chipotle tomato sauce",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 2.3,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Steak fajitas flavor rice & pasta with steak flavor, bell peppers & fajita seasoning, steak fajitas",
+        "Name": "Steak fajitas flavor rice & pasta with steak flavor, bell peppers & fajita seasoning",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 1.6,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Thai curry rice & pasta blend in a spicy curry, soy & sesame flavored sauce, thai curry",
+        "Name": "Thai curry rice & pasta blend in a spicy curry, soy & sesame flavored sauce",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 4.4,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Garlic parmesan flavor rice & pasta blend in a creamy garlic and parmesan cheese flavored sauce, garlic parmesan",
+        "Name": "Garlic parmesan flavor rice & pasta blend in a creamy garlic & parmesan cheese flavored sauce",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 3.0,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Creole garlic butter flavor rice & pasta blend in a buttery garlic & cajun flavored sauce, creole garlic butter",
+        "Name": "Creole garlic butter flavor rice & pasta blend in a buttery garlic & cajun flavored sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Mushroom flavor rice & pasta blend in a savory mushroom flavored sauce, mushroom",
+        "Name": "Mushroom flavor rice & pasta blend in a savory mushroom flavored sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -8046,7 +8046,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavor rice & pasta blend with broccoli in a cheesy cheddar sauce, cheddar broccoli",
+        "Name": "Cheddar broccoli flavor rice & pasta blend with broccoli in a cheesy cheddar sauce",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.0,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Mexican rice & pasta blend with bell pepper & mexican seasoning, mexican",
+        "Name": "Mexican rice & pasta blend with bell pepper & mexican seasoning",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli long grain white rice and broccoli florets in a creamy blend of cheeses rice side, cheddar broccoli",
+        "Name": "Cheddar broccoli long grain white rice & broccoli florets in a creamy blend of cheeses rice side",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.9,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Chicken long grain white rice with natural chicken flavor, onions and bell peppers rice mix side dish, chicken",
+        "Name": "Chicken long grain white rice with natural chicken flavor, onions & bell peppers rice mix side dish",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 0.8,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Wild brown rice long grain brown and wild rice with a savory blend of herbs and seasonings rice side, wild brown rice",
+        "Name": "Wild brown rice long grain brown & wild rice with a savory blend of herbs & seasonings rice side",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 2.6,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Dirty rice with cheese long grain white rice with authentic cajun seasonings and a blend of three cheeses, dirty rice with cheese",
+        "Name": "Dirty rice with cheese long grain white rice with authentic cajun seasonings & a blend of three cheeses",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 6.6,
@@ -8100,7 +8100,7 @@
         }
     },
     {
-        "Name": "Spicy red beans & rice long grain white rice and tender red beans, onions and bell peppers rice dinner mix, spicy red beans & rice",
+        "Name": "Spicy red beans & rice long grain white rice & tender red beans, onions & bell peppers rice dinner mix",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 1.5,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Garlic & herb long grain white rice and orzo pasta with savory seasonings rice mix, garlic & herb",
+        "Name": "Garlic & herb long grain white rice & orzo pasta with savory seasonings rice mix",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 1.3,
@@ -8118,7 +8118,7 @@
         }
     },
     {
-        "Name": "Bourbon chicken flavored long grain rice mix with a touch of flavored bourbon & spices, bourbon chicken",
+        "Name": "Bourbon chicken flavored long grain rice mix with a touch of flavored bourbon & spices",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -8127,7 +8127,7 @@
         }
     },
     {
-        "Name": "Jambalaya mix, jambalaya",
+        "Name": "Jambalaya mix",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 1.0,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Creamy parmesan long grain white rice in a creamy blend of parmesan, garlic and herbs rice side, creamy parmesan",
+        "Name": "Creamy parmesan long grain white rice in a creamy blend of parmesan, garlic & herbs rice side",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 6.2,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Wild brown rice seasoned wild and brown rice with red and green bell peppers big easy heat & serve rice, wild brown rice",
+        "Name": "Wild brown rice seasoned wild & brown rice with red & green bell peppers big easy heat & serve rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.9,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Garden vegetable long grain white rice with mixed vegetables and seasonings rice mix side dish, garden vegetable",
+        "Name": "Garden vegetable long grain white rice with mixed vegetables & seasonings rice mix side dish",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 0.8,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain white rice and orzo pasta lightly seasoned with garlic, onions and bell peppers rice side, rice pilaf",
+        "Name": "Rice pilaf long grain white rice & orzo pasta lightly seasoned with garlic, onions & bell peppers rice side",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Black beans and rice reduced sodium long grain white rice and black beans seasoned with bell pepper, onion and garlic, black beans and rice",
+        "Name": "Black beans & rice reduced sodium long grain white rice & black beans seasoned with bell pepper, onion & garlic",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 1.5,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "5 whole grain blend a combination of long grain parboiled brown rice, pearled durum wheat, colusari red rice, sprouted brown rice and wild rice, 5 whole grain blend",
+        "Name": "Whole grain blend a combination of long grain parboiled brown rice, pearled durum wheat, colusari red rice, sprouted brown rice & wild rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Black pearl a unique wholesome blend of whole grain brown rice, black barley and daikon radish seeds medley, black pearl",
+        "Name": "Black pearl a unique wholesome blend of whole grain brown rice, black barley & daikon radish seeds medley",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.1,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Mountain red blend a colorful combination of ulikan red rice, enriched long grain rice, red jasmine rice, easton lentils and black quinoa, mountain red blend",
+        "Name": "Mountain red blend a colorful combination of ulikan red rice, enriched long grain rice, red jasmine rice, easton lentils & black quinoa",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Spinach & artichoke rice in a cheesy sauce with spinach & artichokes, spinach & artichoke rice",
+        "Name": "Spinach & artichoke rice in a cheesy sauce with spinach & artichokes",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 4.3,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Roasted garlic alfredo rice, roasted garlic alfredo",
+        "Name": "Roasted garlic alfredo rice",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 5.2,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Mango habanero brown rice & quinoa seasoned with real pieces of mango and a touch of habanero pepper rice & quinoa whole grain blends, mango habanero",
+        "Name": "Mango habanero brown rice & quinoa seasoned with real pieces of mango & a touch of habanero pepper rice & quinoa whole grain blends",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 2.9,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Cilantro lime flavored brown rice, wild rice & quinoa seasoned with cilantro & real lime rice & quinoa whole grain blends, cilantro lime",
+        "Name": "Cilantro lime flavored brown rice, wild rice & quinoa seasoned with cilantro & real lime rice & quinoa whole grain blends",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 3.5,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Salsa verde brown rice with red beans, salsa verde",
+        "Name": "Salsa verde brown rice with red beans",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 3.7,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Tomato & bell pepper fonio pilaf, tomato & bell pepper",
+        "Name": "Tomato & bell pepper fonio pilaf",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Mexican inspired mild smoked paprika & lime rice, mexican inspired mild smoked paprika & lime",
+        "Name": "Mexican inspired mild smoked paprika & lime rice",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 5.7,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Red beans & rice mix, red beans & rice",
+        "Name": "Red beans & rice mix",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 0.9,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Mild singapore inspired savory rice, mild singapore",
+        "Name": "Mild singapore inspired savory rice",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 5.7,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Medium jamaican inspired rice & peas, medium jamaican",
+        "Name": "Medium jamaican inspired rice & peas",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 5.7,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "West african inspired jollof rice, west african",
+        "Name": "West african inspired jollof rice",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 5.7,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Red quinoa, green lentils, barley & brown rice blend, red quinoa, green lentils, barley & brown",
+        "Name": "Red quinoa, green lentils, barley & brown rice blend, red quinoa, green lentils",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 2.2,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Barley, spelt & brown rice blend, barley, spelt & brown",
+        "Name": "Barley, spelt & brown rice blend, barley",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 2.2,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Original rice pilaf mix, original",
+        "Name": "Original rice pilaf mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Organic quinoa & brown rice with garlic, garlic",
+        "Name": "Organic quinoa & brown rice with garlic",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 1.5,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "Cilantro lime whole grain rice & quinoa mix with spices, cilantro lime",
+        "Name": "Cilantro lime whole grain rice & quinoa mix with spices",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 2.6,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Red beans long grain rice, red beans",
+        "Name": "Red beans long grain rice",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 0.9,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Chicken mexican rice, chicken",
+        "Name": "Chicken mexican rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Vindaloo meal kit, vindaloo",
+        "Name": "Vindaloo meal kit",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.9,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Cauliflower \"\"fried rice\"\" blend",
+        "Name": "Cauliflower fried rice blend",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Lime garlic rice mix, lime",
+        "Name": "Lime garlic rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Medium vegetable pulao, medium",
+        "Name": "Medium vegetable pulao",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 3.8,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Mushroom fusion a robust blend of wild rice, red rice, mushrooms, and brown rice with an herb seasoning packet, mushroom fusion",
+        "Name": "Mushroom fusion a robust blend of wild rice, red rice, mushrooms, & brown rice with an herb seasoning packet",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 1.4,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Afro- funk fonio pilaf, afro- funk",
+        "Name": "Afro- funk fonio pilaf",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.1,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Cheddar flavor rice, cheddar",
+        "Name": "Cheddar flavor rice",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.9,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavored ready rice, cheddar broccoli",
+        "Name": "Cheddar broccoli flavored ready rice",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.9,
@@ -8532,7 +8532,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavored with carrots & herbs ready rice, roasted chicken",
+        "Name": "Roasted chicken flavored with carrots & herbs ready rice",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.4,
@@ -8541,7 +8541,7 @@
         }
     },
     {
-        "Name": "Teriyaki rice mix, teriyaki",
+        "Name": "Teriyaki rice mix",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Mexican style rice, mexican style",
+        "Name": "Mexican style rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Beef flavored rice, beef",
+        "Name": "Beef flavored rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Zesty seasoned mexican rice with whole grain corn, zesty",
+        "Name": "Zesty seasoned mexican rice with whole grain corn",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Savory roasted chicken rice with carrots and celery, roasted chicken",
+        "Name": "Savory roasted chicken rice with carrots & celery",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -8685,7 +8685,7 @@
         }
     },
     {
-        "Name": "Broccoli & cheese rice mix, broccoli & cheese",
+        "Name": "Broccoli & cheese rice mix",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 4.0,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Fresh & zesty flavor classic cilantro lime rice, fresh & zesty",
+        "Name": "Fresh & zesty flavor classic cilantro lime rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Aromatic jasmine fried rice mix, jasmine",
+        "Name": "Aromatic jasmine fried rice mix",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Classic coconut ginger rice, classic",
+        "Name": "Classic coconut ginger rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Authentic spanish recipe saffron yellow rice with parboiled rice, authentic spanish recipe",
+        "Name": "Authentic spanish recipe saffron yellow rice with parboiled rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Spanish style organic rice, spanish style",
+        "Name": "Spanish style organic rice",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.3,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Mexican style rice & street corn flavored basmati rice, mexican style rice & street corn",
+        "Name": "Mexican style rice & street corn flavored basmati rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.3,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Creamy avocado lime rice, creamy avocado",
+        "Name": "Creamy avocado lime rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.9,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Rice pilaf with orzo pasta, orzo pasta",
+        "Name": "Rice pilaf with orzo pasta",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Paella valenciana yellow rice & seafood dinner, paella valenciana",
+        "Name": "Paella valenciana yellow rice & seafood dinner",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 4.4,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Spanish rice pilaf, spanish",
+        "Name": "Spanish rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Jambalaya long grain rice mix with vegetables & spices with cheese, jambalaya",
+        "Name": "Jambalaya long grain rice mix with vegetables & spices with cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.8,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Etoufee base seasoning mix of spices & vegetables add seafood and tomato paste for a one-pot dish, etoufee base",
+        "Name": "Etoufee base seasoning mix of spices & vegetables add seafood & tomato paste for a one-pot dish",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.3,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Spanish style seasoned yellow rice, spanish style seasoned",
+        "Name": "Spanish style seasoned yellow rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Long grain rice with herbs & roasted chicken flavor, herbs & roasted chicken",
+        "Name": "Long grain rice with herbs & roasted chicken flavor",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Spanish style long grain rice, spanish style",
+        "Name": "Spanish style long grain rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain rice classic pilaf mix, rice pilaf",
+        "Name": "Rice pilaf long grain rice classic pilaf mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Jambalaya long grain rice authentic recipe with onions, peppers & fragrant spices, jambalaya",
+        "Name": "Jambalaya long grain rice authentic recipe with onions, peppers & fragrant spices",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Fajita rice bowl with mexican rice mains, fajita",
+        "Name": "Fajita rice bowl with mexican rice mains",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 3.2,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Sides long grain rice with vegetables & spices yellow rice, vegetables & spices",
+        "Name": "Sides long grain rice with vegetables & spices yellow rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Red beans & rice long grain rice mix with beans, vegetables & spices, red beans",
+        "Name": "Red beans & rice long grain rice mix with beans, vegetables & spices",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 1.0,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Saffron cooked long grain white rice flavored with saffron & spices rice, saffron",
+        "Name": "Saffron cooked long grain white rice flavored with saffron & spices rice",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavored rice, cheddar broccoli",
+        "Name": "Cheddar broccoli flavored rice",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.9,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Organic brown & wild rice, brown & wild",
+        "Name": "Organic brown & wild rice",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 1.8,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Long grain rice with herbs & garlic, herbs & garlic",
+        "Name": "Long grain rice with herbs & garlic",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Original vegan yellow rice mix with chickpeas, original",
+        "Name": "Original vegan yellow rice mix with chickpeas",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Wild brown rice long grain brown and wild rice with vegetables & spices, wild brown rice",
+        "Name": "Wild brown rice long grain brown & wild rice with vegetables & spices",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 2.6,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Double cheesy quesadilla rice and naturally & artificially flavored sauce mix, double cheesy quesadilla",
+        "Name": "Double cheesy quesadilla rice & naturally & artificially flavored sauce mix",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 3.7,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Seasoned rice with coconut, coconut",
+        "Name": "Seasoned rice with coconut",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 4.4,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavored 90 second rice, roasted chicken",
+        "Name": "Roasted chicken flavored second rice",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 2.4,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Long grain rice vermicelli with onion, garlic, carrot and beef flavored seasoning rice mix, beef",
+        "Name": "Long grain rice vermicelli with onion, garlic, carrot & beef flavored seasoning rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 12.5,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Mushroom risotto, mushroom",
+        "Name": "Mushroom risotto",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 3.3,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Dirty rice long grain rice, dirty rice",
+        "Name": "Dirty rice long grain rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Mexican style chicken flavor microwaveable rice, mexican style chicken",
+        "Name": "Mexican style chicken flavor microwaveable rice",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 0.0,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Broccoli rice, broccoli",
+        "Name": "Broccoli rice",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Cuban inspired rice & black beans, cuban inspired",
+        "Name": "Cuban inspired rice & black beans",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Herb & butter flavored rice & pasta blend in a delicate butter & herb sauce, herb & butter",
+        "Name": "Herb & butter flavored rice & pasta blend in a delicate butter & herb sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Stir fried rice, stir fried",
+        "Name": "Stir fried rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9045,7 +9045,7 @@
         }
     },
     {
-        "Name": "Original rice pilaf, original",
+        "Name": "Original rice pilaf",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -9054,7 +9054,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice blend mix, chicken",
+        "Name": "Chicken flavor rice blend mix",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 1.6,
@@ -9063,7 +9063,7 @@
         }
     },
     {
-        "Name": "Chicken flavor rice mix, chicken",
+        "Name": "Chicken flavor rice mix",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.4,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice mix, long grain & wild",
+        "Name": "Long grain & wild rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -9081,7 +9081,7 @@
         }
     },
     {
-        "Name": "Red beans & rice new orleans style rice mix, red beans & rice",
+        "Name": "Red beans & rice new orleans style rice mix",
         "Nutrients": {
             "Protein": 10.8,
             "Fat": 1.5,
@@ -9090,7 +9090,7 @@
         }
     },
     {
-        "Name": "Quinoa & brown organic rice blend, quinoa & brown",
+        "Name": "Quinoa & brown organic rice blend",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 3.3,
@@ -9099,7 +9099,7 @@
         }
     },
     {
-        "Name": "Cheese sauce mix macaroni and cheese dinner",
+        "Name": "Cheese sauce mix macaroni & cheese dinner",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.7,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavor and herbs basmati rice, roasted chicken",
+        "Name": "Roasted chicken flavor & herbs basmati rice",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Chili garlic flavored ready rice, chili garlic",
+        "Name": "Chili garlic flavored ready rice",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & herbs basmati rice, roasted garlic & herbs basmati",
+        "Name": "Roasted garlic & herbs basmati rice",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 0.0,
@@ -9144,7 +9144,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain rice, rice pilaf",
+        "Name": "Rice pilaf long grain rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -9162,7 +9162,7 @@
         }
     },
     {
-        "Name": "Rice and chicken flavored seasoning mix, rice and chicken",
+        "Name": "Rice & chicken flavored seasoning mix",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 2.3,
@@ -9171,7 +9171,7 @@
         }
     },
     {
-        "Name": "Rice medley brown rice, red rice, wild rice,, rice medley",
+        "Name": "Rice medley brown rice, red rice, wild rice,",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.5,
@@ -9180,7 +9180,7 @@
         }
     },
     {
-        "Name": "Creole-style red beans & rice made with smoked paprika, red pepper & red beans, creole-style",
+        "Name": "Creole-style red beans & rice made with smoked paprika, red pepper & red beans",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 3.0,
@@ -9189,7 +9189,7 @@
         }
     },
     {
-        "Name": "5 grain pilaf with red quinoa, buckwheat groats, black barley, millet & white rice, 5 grain",
+        "Name": "Grain pilaf with red quinoa, buckwheat groats, black barley, millet & white rice",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 1.0,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Chicken rice with vegetables, chicken",
+        "Name": "Chicken rice with vegetables",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -9207,7 +9207,7 @@
         }
     },
     {
-        "Name": "Risotto with cheese and black pepper, cheese and black pepper",
+        "Name": "Risotto with cheese & black pepper",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 3.6,
@@ -9216,7 +9216,7 @@
         }
     },
     {
-        "Name": "Chicken rice & pasta blend in a savory chicken sauce, chicken",
+        "Name": "Chicken rice & pasta blend in a savory chicken sauce",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.5,
@@ -9225,7 +9225,7 @@
         }
     },
     {
-        "Name": "Spanish organic rice, spanish",
+        "Name": "Spanish organic rice",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 3.4,
@@ -9234,7 +9234,7 @@
         }
     },
     {
-        "Name": "Chicken rice & vermicelli mix with chicken broth & spices, chicken",
+        "Name": "Chicken rice & vermicelli mix with chicken broth & spices",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.1,
@@ -9243,7 +9243,7 @@
         }
     },
     {
-        "Name": "Tuscan rice & beans dinner kit, tuscan rice & beans",
+        "Name": "Tuscan rice & beans dinner kit",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 2.6,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Texas style rice & beans dinner kit, texas style rice & beans",
+        "Name": "Texas style rice & beans dinner kit",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 1.8,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Spanish yellow rice, spanish yellow",
+        "Name": "Spanish yellow rice",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 1.8,
@@ -9279,7 +9279,7 @@
         }
     },
     {
-        "Name": "Wild mushroom & herb flavor rice pilaf mix, wild mushroom & herb",
+        "Name": "Wild mushroom & herb flavor rice pilaf mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9288,7 +9288,7 @@
         }
     },
     {
-        "Name": "Parmesan & romano cheese rice with parmesan and romano cheeses, parmesan & romano cheese",
+        "Name": "Parmesan & romano cheese rice with parmesan & romano cheeses",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.2,
@@ -9297,7 +9297,7 @@
         }
     },
     {
-        "Name": "Long grain & wild rice tender long grain & wild rice with herbs, long grain & wild rice",
+        "Name": "Long grain & wild rice tender long grain & wild rice with herbs",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9306,7 +9306,7 @@
         }
     },
     {
-        "Name": "Butter & garlic flavor angel hair pasta in a creamy butter and garlic sauce, butter & garlic",
+        "Name": "Butter & garlic flavor angel hair pasta in a creamy butter & garlic sauce",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.6,
@@ -9315,7 +9315,7 @@
         }
     },
     {
-        "Name": "Smothered chicken long grain white rice and bell peppers seasoned with a rich cajun gravy rice mix, smothered chicken",
+        "Name": "Smothered chicken long grain white rice & bell peppers seasoned with a rich cajun gravy rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9324,7 +9324,7 @@
         }
     },
     {
-        "Name": "Southern bbq long grain white rice with sweet and spicy southern style bbq seasonings rice mix side dish, southern bbq",
+        "Name": "Southern bbq long grain white rice with sweet & spicy southern style bbq seasonings rice mix side dish",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.5,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "Mediterranean pilaf, mediterranean",
+        "Name": "Mediterranean pilaf",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 3.0,
@@ -9342,7 +9342,7 @@
         }
     },
     {
-        "Name": "Roasted vegetable & chicken flavor long grain & wild rice mix, roasted vegetable & chicken",
+        "Name": "Roasted vegetable & chicken flavor long grain & wild rice mix",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -9351,7 +9351,7 @@
         }
     },
     {
-        "Name": "Toasted almond rice pilaf mix, toasted almond",
+        "Name": "Toasted almond rice pilaf mix",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 5.4,
@@ -9360,7 +9360,7 @@
         }
     },
     {
-        "Name": "Pilaf long grain rice, pilaf",
+        "Name": "Pilaf long grain rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -9378,7 +9378,7 @@
         }
     },
     {
-        "Name": "Yellow saffron & turmeric seasoned basmati rice, yellow",
+        "Name": "Yellow saffron & turmeric seasoned basmati rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.5,
@@ -9387,7 +9387,7 @@
         }
     },
     {
-        "Name": "Dirty long grain rice, dirty",
+        "Name": "Dirty long grain rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9396,7 +9396,7 @@
         }
     },
     {
-        "Name": "Jambalaya new orleans style rice mix, jambalaya",
+        "Name": "Jambalaya new orleans style rice mix",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.1,
@@ -9405,7 +9405,7 @@
         }
     },
     {
-        "Name": "Rice pilaf long grain rice, orzo and seasoning",
+        "Name": "Rice pilaf long grain rice, orzo & seasoning",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 7.1,
@@ -9414,7 +9414,7 @@
         }
     },
     {
-        "Name": "Jambalaya long grain rice, jambalaya",
+        "Name": "Jambalaya long grain rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Cilantro lime rice, cilantro lime",
+        "Name": "Cilantro lime rice",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 7.5,
@@ -9432,7 +9432,7 @@
         }
     },
     {
-        "Name": "Cilantro lime 90 second rice, cilantro lime",
+        "Name": "Cilantro lime second rice",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.0,
@@ -9441,7 +9441,7 @@
         }
     },
     {
-        "Name": "Spiced basmati 90 second rice with turmeric, ginger, white pepper & cumin, spiced basmati",
+        "Name": "Spiced basmati second rice with turmeric, ginger, white pepper & cumin",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.8,
@@ -9450,7 +9450,7 @@
         }
     },
     {
-        "Name": "90 second rice pilaf with toasted orzo",
+        "Name": "Second rice pilaf with toasted orzo",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 2.4,
@@ -9459,7 +9459,7 @@
         }
     },
     {
-        "Name": "Lemon basil 90 second rice, lemon basil",
+        "Name": "Lemon basil second rice",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 2.0,
@@ -9468,7 +9468,7 @@
         }
     },
     {
-        "Name": "Szechuan rice, szechuan",
+        "Name": "Szechuan rice",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 7.0,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice, pasta, cheddar cheese and broccoli, cheddar broccoli",
+        "Name": "Cheddar broccoli rice, pasta, cheddar cheese & broccoli",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 7.1,
@@ -9486,7 +9486,7 @@
         }
     },
     {
-        "Name": "Creamy four cheese flavor rice, vermicelli and four creamy cheeses, creamy four cheese",
+        "Name": "Creamy four cheese flavor rice, vermicelli & four creamy cheeses",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 8.0,
@@ -9495,7 +9495,7 @@
         }
     },
     {
-        "Name": "Herb & butter rice, pasta, herbs and butter, herb & butter",
+        "Name": "Herb & butter rice, pasta, herbs & butter",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -9504,7 +9504,7 @@
         }
     },
     {
-        "Name": "Spanish style rice, spanish style",
+        "Name": "Spanish style rice",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 2.0,
@@ -9513,7 +9513,7 @@
         }
     },
     {
-        "Name": "Brown rice with lentils & quinoa organic blend, brown rice with lentils & quinoa",
+        "Name": "Brown rice with lentils & quinoa organic blend",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 3.3,
@@ -9522,7 +9522,7 @@
         }
     },
     {
-        "Name": "Creamy four cheese with vermicelli, vermicelli",
+        "Name": "Creamy four cheese with vermicelli",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 2.1,
@@ -9531,7 +9531,7 @@
         }
     },
     {
-        "Name": "Rice medley long grain white rice & wild rice with herb seasoning, rice medley",
+        "Name": "Rice medley long grain white rice & wild rice with herb seasoning",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Chicken & mushroom flavor rice, vermicelli and mushrooms, chicken & mushroom",
+        "Name": "Chicken & mushroom flavor rice, vermicelli & mushrooms",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.8,
@@ -9549,7 +9549,7 @@
         }
     },
     {
-        "Name": "Beef flavor rice, vermicelli, beef broth and carrots, beef",
+        "Name": "Beef flavor rice, vermicelli, beef broth & carrots",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -9558,7 +9558,7 @@
         }
     },
     {
-        "Name": "Rice pilaf rice, pasta, herbs and seasonings, rice pilaf",
+        "Name": "Rice pilaf rice, pasta, herbs & seasonings",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9567,7 +9567,7 @@
         }
     },
     {
-        "Name": "Chicken & broccoli flavor rice, vermicelli, chicken broth, broccoli and carrots, chicken & broccoli",
+        "Name": "Chicken & broccoli flavor rice, vermicelli, chicken broth, broccoli & carrots",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 0.9,
@@ -9576,7 +9576,7 @@
         }
     },
     {
-        "Name": "Country cheddar flavor rice and creamy cheddar cheese, country cheddar",
+        "Name": "Country cheddar flavor rice & creamy cheddar cheese",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 8.0,
@@ -9585,7 +9585,7 @@
         }
     },
     {
-        "Name": "Spanish rice & pasta blend with bell peppers in a sweet tomato sauce, spanish rice",
+        "Name": "Spanish rice & pasta blend with bell peppers in a sweet tomato sauce",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 1.6,
@@ -9594,7 +9594,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli rice & pasta blend with broccoli in a cheesy cheddar sauce, cheddar broccoli",
+        "Name": "Cheddar broccoli rice & pasta blend with broccoli in a cheesy cheddar sauce",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 1.6,
@@ -9603,7 +9603,7 @@
         }
     },
     {
-        "Name": "Restaurant recipe mexican fiesta rice, restaurant recipe",
+        "Name": "Restaurant recipe mexican fiesta rice",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.2,
@@ -9612,7 +9612,7 @@
         }
     },
     {
-        "Name": "Spanish rice tender rice and vermicelli with zesty spanish seasonings, spanish rice",
+        "Name": "Spanish rice tender rice & vermicelli with zesty spanish seasonings",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9621,7 +9621,7 @@
         }
     },
     {
-        "Name": "Chicken & garlic flavor rice, vermicelli, chicken broth and garlic, chicken & garlic",
+        "Name": "Chicken & garlic flavor rice, vermicelli, chicken broth & garlic",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.9,
@@ -9630,7 +9630,7 @@
         }
     },
     {
-        "Name": "Cheddar broccoli flavor rice, pasta, cheddar cheese and broccoli, cheddar broccoli",
+        "Name": "Cheddar broccoli flavor rice, pasta, cheddar cheese & broccoli",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 7.5,
@@ -9639,7 +9639,7 @@
         }
     },
     {
-        "Name": "Fast cook long grain & wild rice with 23 herbs and seasonings, fast cook",
+        "Name": "Fast cook long grain & wild rice with herbs & seasonings",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 0.9,
@@ -9648,7 +9648,7 @@
         }
     },
     {
-        "Name": "Spanish style rice with tomatoes & peppers, spanish style",
+        "Name": "Spanish style rice with tomatoes & peppers",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.7,
@@ -9657,7 +9657,7 @@
         }
     },
     {
-        "Name": "Garden vegetable rice with peas, carrots & corn, garden vegetable",
+        "Name": "Garden vegetable rice with peas, carrots & corn",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.7,
@@ -9666,7 +9666,7 @@
         }
     },
     {
-        "Name": "Chicken whole grain brown rice, chicken",
+        "Name": "Chicken whole grain brown rice",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.7,
@@ -9675,7 +9675,7 @@
         }
     },
     {
-        "Name": "Restaurant recipe rice pilaf, restaurant recipe",
+        "Name": "Restaurant recipe rice pilaf",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -9684,7 +9684,7 @@
         }
     },
     {
-        "Name": "Chicken & wild tender long grain & wild rice with chicken flavored sauce, chicken & wild",
+        "Name": "Chicken & wild tender long grain & wild rice with chicken flavored sauce",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -9693,7 +9693,7 @@
         }
     },
     {
-        "Name": "Herb roasted chicken long grain & wild rice, herb roasted chicken",
+        "Name": "Herb roasted chicken long grain & wild rice",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 2.6,
@@ -9702,7 +9702,7 @@
         }
     },
     {
-        "Name": "French onion brown rice, red rice, couscous, red & black quinoa 5 grain blend, french onion",
+        "Name": "French onion brown rice, red rice, couscous, red & black quinoa grain blend",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 2.6,
@@ -9711,7 +9711,7 @@
         }
     },
     {
-        "Name": "Savory herb long grain white rice, basmati rice, orzo, wild rice basmati medley, savory herb",
+        "Name": "Savory herb long grain white rice, basmati rice, orzo, wild rice basmati medley",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.9,
@@ -9720,7 +9720,7 @@
         }
     },
     {
-        "Name": "5 grain medley auinoa pilaf",
+        "Name": "Grain medley auinoa pilaf",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 2.6,
@@ -9729,7 +9729,7 @@
         }
     },
     {
-        "Name": "Broccoli rice au gratin, broccoli rice",
+        "Name": "Broccoli rice au gratin",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 4.4,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Jambalaya rice, jambalaya",
+        "Name": "Jambalaya rice",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 1.4,
@@ -9747,7 +9747,7 @@
         }
     },
     {
-        "Name": "Chicken & herb flavor infusions infused dry rice, chicken & herb",
+        "Name": "Chicken & herb flavor infusions infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9756,7 +9756,7 @@
         }
     },
     {
-        "Name": "Roasted chicken flavor infusions infused dry rice, roasted chicken",
+        "Name": "Roasted chicken flavor infusions infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9765,7 +9765,7 @@
         }
     },
     {
-        "Name": "Garlic & butter flavor infusions infused dry rice, garlic & butter",
+        "Name": "Garlic & butter flavor infusions infused dry rice",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.1,
@@ -9774,7 +9774,7 @@
         }
     },
     {
-        "Name": "Spanish style flavor infusions infused dry rice, spanish style",
+        "Name": "Spanish style flavor infusions infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -9783,7 +9783,7 @@
         }
     },
     {
-        "Name": "Parmesan & butter flavor infusions infused dry rice, parmesan & butter",
+        "Name": "Parmesan & butter flavor infusions infused dry rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9792,7 +9792,7 @@
         }
     },
     {
-        "Name": "Coconut jasmine rice, coconut jasmine",
+        "Name": "Coconut jasmine rice",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 2.9,
@@ -9801,7 +9801,7 @@
         }
     },
     {
-        "Name": "Southwest chicken with quinoa and brown rice skillet meals, southwest chicken",
+        "Name": "Southwest chicken with quinoa & brown rice skillet meals",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 3.6,
@@ -9810,7 +9810,7 @@
         }
     },
     {
-        "Name": "Garlic & herb chicken with long grain and wild rice skillet meals, garlic & herb chicken",
+        "Name": "Garlic & herb chicken with long grain & wild rice skillet meals",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 1.2,
@@ -9819,7 +9819,7 @@
         }
     },
     {
-        "Name": "Cheese risotto rice, cheese risotto",
+        "Name": "Cheese risotto rice",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 4.2,
@@ -9828,7 +9828,7 @@
         }
     },
     {
-        "Name": "Garlic & onion whole grain brown rice, garlic & onion",
+        "Name": "Garlic & onion whole grain brown rice",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -9837,7 +9837,7 @@
         }
     },
     {
-        "Name": "Restaurant recipe mexican fiesta rice, restaurant recipe mexican fiesta",
+        "Name": "Restaurant recipe mexican fiesta rice",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.2,
@@ -9846,7 +9846,7 @@
         }
     },
     {
-        "Name": "Spanish rice, spanish",
+        "Name": "Spanish rice",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 5.1,
@@ -9873,7 +9873,7 @@
         }
     },
     {
-        "Name": "Original recipe with 23 herbs and seasonings long grain & wild rice, original recipe with 23 herbs and seasonings",
+        "Name": "Original recipe with herbs & seasonings long grain & wild rice",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 0.9,
@@ -9882,7 +9882,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & romano cheese risotto, roasted garlic & romano cheese",
+        "Name": "Roasted garlic & romano cheese risotto",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 7.0,
@@ -9900,7 +9900,7 @@
         }
     },
     {
-        "Name": "Roasted chicken 90 second rice, roasted chicken",
+        "Name": "Roasted chicken second rice",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 2.4,
@@ -9909,7 +9909,7 @@
         }
     },
     {
-        "Name": "Original recipe long grain & wild rice with 23 herbs and seasonings, original recipe",
+        "Name": "Original recipe long grain & wild rice with herbs & seasonings",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 0.9,
@@ -9918,7 +9918,7 @@
         }
     },
     {
-        "Name": "Chicken whole grain brown rice, chicken whole grain brown",
+        "Name": "Chicken whole grain brown rice",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.7,
@@ -9927,7 +9927,7 @@
         }
     },
     {
-        "Name": "Quinoa pilaf brown rice, red rice, couscous, red & black quinoa 5 grain medley, quinoa pilaf",
+        "Name": "Quinoa pilaf brown rice, red rice, couscous, red & black quinoa grain medley",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 2.6,
@@ -9945,7 +9945,7 @@
         }
     },
     {
-        "Name": "Rice pilaf, pilaf",
+        "Name": "Rice pilaf",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -9954,7 +9954,7 @@
         }
     },
     {
-        "Name": "Chicken & vegetable rice, chicken & vegetable",
+        "Name": "Chicken & vegetable rice",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 2.6,
@@ -9963,7 +9963,7 @@
         }
     },
     {
-        "Name": "Chicken & herb rice flavor infusions, chicken & herb",
+        "Name": "Chicken & herb rice flavor infusions",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9972,7 +9972,7 @@
         }
     },
     {
-        "Name": "Roasted chicken rice flavor infusions, roasted chicken",
+        "Name": "Roasted chicken rice flavor infusions",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -9981,7 +9981,7 @@
         }
     },
     {
-        "Name": "Garlic & butter rice flavor infusions, garlic & butter",
+        "Name": "Garlic & butter rice flavor infusions",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.1,
@@ -9990,7 +9990,7 @@
         }
     },
     {
-        "Name": "Spanish style rice flavor infusions, spanish style",
+        "Name": "Spanish style rice flavor infusions",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 2.2,
@@ -9999,7 +9999,7 @@
         }
     },
     {
-        "Name": "Parmesan & butter rice flavor infusions, parmesan & butter",
+        "Name": "Parmesan & butter rice flavor infusions",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -10008,7 +10008,7 @@
         }
     },
     {
-        "Name": "Cajun red beans & rice, cajun red",
+        "Name": "Cajun red beans & rice",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 1.8,
@@ -10017,7 +10017,7 @@
         }
     },
     {
-        "Name": "Four cheesy flavor mac 'n cheese",
+        "Name": "Four cheesy flavor mac & cheese",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.1,
@@ -10026,7 +10026,7 @@
         }
     },
     {
-        "Name": "Cheesy bacon flavor with other natural flavors mac'n cheese",
+        "Name": "Cheesy bacon flavor with other natural flavors mac& cheese",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 4.7,
@@ -10035,7 +10035,7 @@
         }
     },
     {
-        "Name": "Converted brand enriched parboiled long grain rice",
+        "Name": "Converted br& enriched parboiled long grain rice",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.0,
@@ -10044,7 +10044,7 @@
         }
     },
     {
-        "Name": "Chicken & herb flavored basmati rice, chicken & herb",
+        "Name": "Chicken & herb flavored basmati rice",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 2.8,
@@ -10053,7 +10053,7 @@
         }
     },
     {
-        "Name": "Roasted chicken rice, roasted chicken",
+        "Name": "Roasted chicken rice",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.8,
@@ -10062,7 +10062,7 @@
         }
     },
     {
-        "Name": "Coconut rice organic whole grain rice pilaf, coconut rice",
+        "Name": "Coconut rice organic whole grain rice pilaf",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 8.6,
@@ -10071,7 +10071,7 @@
         }
     },
     {
-        "Name": "Butter belle buttery white rice, butter belle",
+        "Name": "Butter belle buttery white rice",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.1,

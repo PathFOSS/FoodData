@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Spirulina 1000 mg double strength nutrient rich superfood",
+        "Name": "Spirulina mg double strength nutrient rich superfood",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 0.0,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Spirulina 500mg tablets",
+        "Name": "Spirulina tablets",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Chlorella 1000mg green superfood",
+        "Name": "Chlorella green superfood",
         "Nutrients": {
             "Protein": 51.3,
             "Fat": 0.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Pines, green duo capsules, 600mg",
+        "Name": "Pines, green duo capsules",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 0.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Pines, green duo wheatgrass and alfalfa superior blend powder",
+        "Name": "Pines, green duo wheatgrass & alfalfa superior blend powder",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Pines, wheat grass tablets, 500 mg",
+        "Name": "Pines, wheat grass tablets, mg",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Super algae spirulina & chlorella micronutrient immune support & detoxification 50/50 blend of whole green nutrition tablets",
+        "Name": "Super algae spirulina & chlorella micronutrient immune support & detoxification blend of whole green nutrition tablets",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Organic wheatgrass whole food powder, wheatgrass",
+        "Name": "Organic wheatgrass whole food powder",
         "Nutrients": {
             "Protein": 33.3,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Organic wheatgrass juice whole food powder, wheatgrass juice",
+        "Name": "Organic wheatgrass juice whole food powder",
         "Nutrients": {
             "Protein": 33.3,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Ancient superfood supports energy, antioxidant protection, and immune functions",
+        "Name": "Ancient superfood supports energy, antioxidant protection, & immune functions",
         "Nutrients": {
             "Protein": 83.3,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Raw organic perfect food wheat grass juice juiced green superfood powder, unflavored, unflavored",
+        "Name": "Raw organic perfect food wheat grass juice juiced green superfood powder, unflavored",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Organic spirulina whole food powder, spirulina",
+        "Name": "Organic spirulina whole food powder",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 0.0,

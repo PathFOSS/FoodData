@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Solid white albacore premium tuna in water, solid white albacore",
+        "Name": "Solid white albacore premium tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in water, chunk light",
+        "Name": "Chunk light tuna in water",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.4,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Solid yellowfin tuna in extra virgin olive oil, solid yellowfin tuna",
+        "Name": "Solid yellowfin tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 11.5,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Premium chunk light tuna in vegetable oil, chunk light",
+        "Name": "Premium chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.5,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore premium tuna in water, chunk white albacore",
+        "Name": "Chunk white albacore premium tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Premium chunk light tuna in water, chunk light",
+        "Name": "Premium chunk light tuna in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Albacore chunk white tuna in water, albacore chunk white",
+        "Name": "Albacore chunk white tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.7,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Garlic herb elite wild tuna, garlic herb",
+        "Name": "Garlic herb elite wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Chunk light yellowfin tuna in vegetable oil, chunk light",
+        "Name": "Chunk light yellowfin tuna in vegetable oil",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 2.7,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Zesty lemon pepper chunk light tuna in water, chunk light tuna",
+        "Name": "Zesty lemon pepper chunk light tuna in water",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Premium lightly marinated sweet and spicy chunk light tuna in water, sweet and spicy",
+        "Name": "Premium lightly marinated sweet & spicy chunk light tuna in water",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 0.7,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk light tuna in vegetable oil, chunk light",
+        "Name": "Wild caught chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 8.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in water, solid white",
+        "Name": "Solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 0.9,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore premium wild tuna in extra virgin olive oil & sea salt, chunk white albacore",
+        "Name": "Chunk white albacore premium wild tuna in extra virgin olive oil & sea salt",
         "Nutrients": {
             "Protein": 27.4,
             "Fat": 8.8,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore premium wild tuna in water & sea salt, chunk white albacore",
+        "Name": "Chunk white albacore premium wild tuna in water & sea salt",
         "Nutrients": {
             "Protein": 27.4,
             "Fat": 2.2,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Chunk light skipjack premium wild tuna in water & sea salt, chunk light skipjack",
+        "Name": "Chunk light skipjack premium wild tuna in water & sea salt",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 0.4,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Chunk light yellowfin tuna in water, chunk light",
+        "Name": "Chunk light yellowfin tuna in water",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy chunk light tuna, sweet & spicy",
+        "Name": "Sweet & spicy chunk light tuna",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 0.7,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Lemon pepper chunk light tuna, lemon pepper",
+        "Name": "Lemon pepper chunk light tuna",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 0.7,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Wild albacore tuna in water and sea salt",
+        "Name": "Wild albacore tuna in water & sea salt",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 1.3,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Wild skipjack chunk light tuna in water and sea salt",
+        "Name": "Wild skipjack chunk light tuna in water & sea salt",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 0.9,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in water & sea salt, solid white albacore",
+        "Name": "Solid white albacore tuna in water & sea salt",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 2.2,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Wild caught skipjack tuna chunk light in water, skipjack tuna",
+        "Name": "Wild caught skipjack tuna chunk light in water",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 0.4,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk light tuna in water, chunk light",
+        "Name": "Wild caught chunk light tuna in water",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.2,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna with basil pesto in extra virgin olive oil, basil pesto",
+        "Name": "Yellowfin tuna with basil pesto in extra virgin olive oil",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 23.9,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk white albacore tuna in water, chunk white",
+        "Name": "Wild caught chunk white albacore tuna in water",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 1.3,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Reduced sodium chunk light tuna in water, chunk light",
+        "Name": "Reduced sodium chunk light tuna in water",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 0.0,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Ventresca white tuna belly in olive oil, ventresca",
+        "Name": "Ventresca white tuna belly in olive oil",
         "Nutrients": {
             "Protein": 24.0,
             "Fat": 8.0,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Lemon pepper light tuna in water, lemon pepper",
+        "Name": "Lemon pepper light tuna in water",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 1.4,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Light sweet & spicy wild caught tuna in water, light, sweet & spicy",
+        "Name": "Light sweet & spicy wild caught tuna in water, light",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 1.4,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Cajun elite wild tuna, cajun",
+        "Name": "Cajun elite wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Citrus pepper elite wild tuna, citrus pepper",
+        "Name": "Citrus pepper elite wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Chili lime elite wild tuna, chili lime",
+        "Name": "Chili lime elite wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy pole & line skipjack flake light tuna, sweet & spicy",
+        "Name": "Sweet & spicy pole & line skipjack flake light tuna",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 2.9,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Bumble bee, prime fillet omega-3 albacore tuna",
+        "Name": "Bumble bee, prime fillet albacore tuna",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 4.5,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Dolores, chunk light yellowfin tuna, tuna",
+        "Name": "Dolores, chunk light yellowfin tuna",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Tonnino, tuna fillets with capers and garlic in olive oil",
+        "Name": "Tonnino, tuna fillets with capers & garlic in olive oil",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 6.2,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "Sweet and spicy tuna",
+        "Name": "Sweet & spicy tuna",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 0.7,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Adobo tuna in soy sauce and vinegar",
+        "Name": "Adobo tuna in soy sauce & vinegar",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 5.4,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Trader joe's, albacore tuna in water",
+        "Name": "Trader joes, albacore tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Breast o' chicken, chunk light tuna in vegetable oil",
+        "Name": "Breast o chicken, chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "Name": "Breast o' chicken, chunk light tuna in water",
+        "Name": "Breast o chicken, chunk light tuna in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "Eatwell brand, chunk white tuna in oil",
+        "Name": "Eatwell br&, chunk white tuna in oil",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 21.4,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Wild-caught yellowfin tuna in extra virgin olive  oil",
+        "Name": "Wild-caught yellowfin tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 12.2,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "365 everyday value, chunk white albacore tuna",
+        "Name": "Everyday value, chunk white albacore tuna",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 2.8,
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "Name": "365 everyday value, chunk light tuna",
+        "Name": "Everyday value, chunk light tuna",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 0.0,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "365 everyday value, chunk light tuna in water",
+        "Name": "Everyday value, chunk light tuna in water",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 0.0,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Wild skipjack solid light tuna in water and sea salt",
+        "Name": "Wild skipjack solid light tuna in water & sea salt",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Hot and spicy style tuna",
+        "Name": "Hot & spicy style tuna",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 12.5,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Pole and line caught skipjack tuna",
+        "Name": "Pole & line caught skipjack tuna",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 0.6,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Pole and line caught",
+        "Name": "Pole & line caught",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 1.1,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "Sandwich in seconds tuna salad",
+        "Name": "S&wich in seconds tuna salad",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 0.5,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Tuna salad sandwich",
+        "Name": "Tuna salad s&wich",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 0.7,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "Tuna in water with lemon and dill",
+        "Name": "Tuna in water with lemon & dill",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 1.2,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Bold lightly seasoned premium tuna red curry with coconut, red curry with coconut",
+        "Name": "Bold lightly seasoned premium tuna red curry with coconut",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.7,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Spicy korean style with gochujang, spicy korean style",
+        "Name": "Spicy korean style with gochujang",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 0.7,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Albacore tuna in extra virgin olive oil with sea salt, albacore tuna",
+        "Name": "Albacore tuna in extra virgin olive oil with sea salt",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 26.8,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Premium tuna solid white albacore in water, solid white albacore",
+        "Name": "Premium tuna solid white albacore in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.0,
@@ -3501,7 +3501,7 @@
         }
     },
     {
-        "Name": "Jalapeno seasoned tuna, jalapeno",
+        "Name": "Jalapeno seasoned tuna",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 0.0,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper seasoned tuna, lemon & pepper",
+        "Name": "Lemon & pepper seasoned tuna",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.0,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Skip jack wild tuna, skip jack",
+        "Name": "Skip jack wild tuna",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.2,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Spicy thai chili seasoned tuna, spicy thai chili",
+        "Name": "Spicy thai chili seasoned tuna",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 0.7,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Premium chunk light tuna in vegetable oil, chunk light tuna",
+        "Name": "Premium chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.5,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Bumble bee, omega 3 albacore tuna",
+        "Name": "Bumble bee, omega albacore tuna",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 2.8,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "White albacore tuna in water, white albacore",
+        "Name": "White albacore tuna in water",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 2.0,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Premium tuna chunk white albacore in water, chunk white albacore",
+        "Name": "Premium tuna chunk white albacore in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in oil, chunk light",
+        "Name": "Chunk light tuna in oil",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.5,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Premium tuna solid white albacore in vegetable oil, solid white albacore",
+        "Name": "Premium tuna solid white albacore in vegetable oil",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.5,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Solid white wild tuna albacore with sea salt, sea salt",
+        "Name": "Solid white wild tuna albacore with sea salt",
         "Nutrients": {
             "Protein": 29.6,
             "Fat": 0.0,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Tuna creations, lightly marinated premium chunk light tuna, sweet & spicy, sweet & spicy",
+        "Name": "Tuna creations, lightly marinated premium chunk light tuna, sweet & spicy",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 0.7,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Lightly marinated premium chunk light tuna, bacon ranch, bacon ranch",
+        "Name": "Lightly marinated premium chunk light tuna, bacon ranch",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 6.8,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Ready-to-eat tuna salad, albacore, albacore",
+        "Name": "Ready-to-eat tuna salad, albacore",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.7,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "Tuna creations, lightly marinated premium chunk light tuna, lemon pepper, lemon pepper",
+        "Name": "Tuna creations, lightly marinated premium chunk light tuna, lemon pepper",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 0.7,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Kid's creations, lightly marinated premium chunk light tuna, honey bbq, honey bbq",
+        "Name": "Kids creations, lightly marinated premium chunk light tuna, honey bbq",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 2.7,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Tuna creations, lightly marinated premium chunk light tuna, ranch, ranch",
+        "Name": "Tuna creations, lightly marinated premium chunk light tuna, ranch",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 2.7,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Premium chunk light tuna in water, chunk light tuna",
+        "Name": "Premium chunk light tuna in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.0,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore tuna in extra virgin olive oil, albacore tuna",
+        "Name": "Chunk white albacore tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 9.3,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Troll caught solid white albacore tuna in water, solid white",
+        "Name": "Troll caught solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 29.4,
             "Fat": 2.4,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Light skipjack tuna packed in water, light",
+        "Name": "Light skipjack tuna packed in water",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Italian style solid light tuna tonno in olive oil, italian style",
+        "Name": "Italian style solid light tuna tonno in olive oil",
         "Nutrients": {
             "Protein": 26.8,
             "Fat": 8.9,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Pole and line caught marinated sweet chili skipjack  chunk tuna in water",
+        "Name": "Pole & line caught marinated sweet chili skipjack chunk tuna in water",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 1.1,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "Lemon sesame & ginger seasoned tuna, lemon sesame & ginger",
+        "Name": "Lemon sesame & ginger seasoned tuna",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 0.7,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Pole and line caught skipjack tuna in water",
+        "Name": "Pole & line caught skipjack tuna in water",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 1.1,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Pole & troll caught solid white albacore premium tuna in water, solid white",
+        "Name": "Pole & troll caught solid white albacore premium tuna in water",
         "Nutrients": {
             "Protein": 25.9,
             "Fat": 1.2,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Tuna salad sandwich, tuna salad",
+        "Name": "Tuna salad s&wich",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 0.5,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna, albacore",
+        "Name": "Albacore wild tuna",
         "Nutrients": {
             "Protein": 27.4,
             "Fat": 10.6,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna in water, albacore",
+        "Name": "Albacore wild tuna in water",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 4.4,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Wild albacore tuna in water with lemon and dill, lemon and dill",
+        "Name": "Wild albacore tuna in water with lemon & dill",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 1.2,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Albacore tuna in extra virgin olive oil, albacore tuna",
+        "Name": "Albacore tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 26.8,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "No salt added chunk light tuna in water, chunk light",
+        "Name": "No salt added chunk light tuna in water",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 0.6,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna in extra virgin olive oil with sea salt, sea salt",
+        "Name": "Yellowfin tuna in extra virgin olive oil with sea salt",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 27.1,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & herb seasoned tuna, roasted garlic & herb",
+        "Name": "Roasted garlic & herb seasoned tuna",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 0.7,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna in extra virgin olive oil, yellowfin tuna",
+        "Name": "Yellowfin tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 26.8,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Albacore solid white tuna in water, albacore",
+        "Name": "Albacore solid white tuna in water",
         "Nutrients": {
             "Protein": 27.7,
             "Fat": 0.8,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Chunk light wild tuna yellowfin with sea salt, chunk light",
+        "Name": "Chunk light wild tuna yellowfin with sea salt",
         "Nutrients": {
             "Protein": 27.8,
             "Fat": 0.0,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Unsalted chunk light wild tuna tongol, unsalted",
+        "Name": "Unsalted chunk light wild tuna tongol",
         "Nutrients": {
             "Protein": 23.1,
             "Fat": 0.9,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Chunk light yellowfin tuna in water, chunk light yellowfin",
+        "Name": "Chunk light yellowfin tuna in water",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.9,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Tuna in hot sauce, hot sauce",
+        "Name": "Tuna in hot sauce",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "Chili lime wild tuna, chili lime",
+        "Name": "Chili lime wild tuna",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.5,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Elite cajun wild tuna, cajun",
+        "Name": "Elite cajun wild tuna",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 4.7,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Tandoori wild tuna",
+        "Name": "T&oori wild tuna",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.5,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Garlic herb wild tuna, garlic herb",
+        "Name": "Garlic herb wild tuna",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 4.7,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Elite tandoori wild tuna",
+        "Name": "Elite t&oori wild tuna",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 4.7,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in water, albacore tuna",
+        "Name": "Solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 23.1,
             "Fat": 1.4,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Cracked black pepper tuna infused with evoo, herbs & spices, cracked black pepper",
+        "Name": "Cracked black pepper tuna infused with evoo, herbs & spices",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 7.5,
@@ -4482,7 +4482,7 @@
         }
     },
     {
-        "Name": "Natural smoked tuna infused with evoo, herbs & spices, natural smoked",
+        "Name": "Natural smoked tuna infused with evoo, herbs & spices",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 8.8,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Wild albacore tuna in water with jalapeno, jalapeno",
+        "Name": "Wild albacore tuna in water with jalapeno",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 1.2,
@@ -4500,7 +4500,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper light tuna, lemon & pepper",
+        "Name": "Lemon & pepper light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.7,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "Albacore tuna omega-3 tuna oil",
+        "Name": "Albacore tuna tuna oil",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 2.8,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Premium lightly marinated sweet and spicy chunk light tuna in water",
+        "Name": "Premium lightly marinated sweet & spicy chunk light tuna in water",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 0.7,
@@ -4653,7 +4653,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with omega-3 gourmet tuna oil",
+        "Name": "Albacore tuna with gourmet tuna oil",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 4.5,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with omega-3 tuna oil",
+        "Name": "Albacore tuna with tuna oil",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 2.8,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with chipotle & olive oil, chipotle & olive oil",
+        "Name": "Albacore tuna with chipotle & olive oil",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 16.1,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Chunk light premium tuna in water, chunk light",
+        "Name": "Chunk light premium tuna in water",
         "Nutrients": {
             "Protein": 19.4,
             "Fat": 0.0,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore tuna in vegetable oil, chunk white",
+        "Name": "Chunk white albacore tuna in vegetable oil",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 6.2,
@@ -4761,7 +4761,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in water, solid white albacore",
+        "Name": "Solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.9,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "No salt added skipjack 100% pure wild tuna, skipjack",
+        "Name": "No salt added skipjack 100% pure wild tuna",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.2,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Sun-dried tomato & basil seasoned tuna, sun-dried tomato & basil",
+        "Name": "Sun-dried tomato & basil seasoned tuna",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 0.0,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Chipotle seasoned tuna, chipotle",
+        "Name": "Chipotle seasoned tuna",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 0.0,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in vegetable oil, solid white albacore",
+        "Name": "Solid white albacore tuna in vegetable oil",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 4.4,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Sustainably caught chunk light skipjack tuna in water, chunk light",
+        "Name": "Sustainably caught chunk light skipjack tuna in water",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 0.6,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in vegetable oil, chunk light tuna",
+        "Name": "Chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 19.4,
             "Fat": 4.0,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Sriracha seasoned tuna, sriracha",
+        "Name": "Sriracha seasoned tuna",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 0.0,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in vegetable oil, chunk light",
+        "Name": "Chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.5,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Wild skipjack chunk light tuna in water, wild skipjack",
+        "Name": "Wild skipjack chunk light tuna in water",
         "Nutrients": {
             "Protein": 27.1,
             "Fat": 0.6,
@@ -4905,7 +4905,7 @@
         }
     },
     {
-        "Name": "Solid white albacore in water, solid white albacore",
+        "Name": "Solid white albacore in water",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.9,
@@ -4914,7 +4914,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore tuna in water, chunk white",
+        "Name": "Chunk white albacore tuna in water",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 0.7,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Ginger sesame lightly seasoned premium tuna, ginger sesame",
+        "Name": "Ginger sesame lightly seasoned premium tuna",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.4,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Cracked pepper & sea salt seasoned tuna, cracked pepper & sea salt",
+        "Name": "Cracked pepper & sea salt seasoned tuna",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.7,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Tomato basil premium chunk light tuna, tomato basil",
+        "Name": "Tomato basil premium chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "Chunk tuna in water, tuna",
+        "Name": "Chunk tuna in water",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 0.3,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Mediterranean salad, mediterranean",
+        "Name": "Mediterranean salad",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 11.3,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna with lime & basil, lime & basil",
+        "Name": "Albacore wild tuna with lime & basil",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 12.2,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna with lemon & thyme, lemon & thyme",
+        "Name": "Albacore wild tuna with lemon & thyme",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 9.5,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna with sweet chili pepper, sweet chili pepper",
+        "Name": "Albacore wild tuna with sweet chili pepper",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 9.5,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Albacore wild tuna with jalapeno & cumin, jalapeno & cumin",
+        "Name": "Albacore wild tuna with jalapeno & cumin",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 5.4,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Premium ginger sesame chunk light tuna, ginger sesame",
+        "Name": "Premium ginger sesame chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in water, tuna",
+        "Name": "Chunk light tuna in water",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 0.7,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Cajun wild tuna, cajun",
+        "Name": "Cajun wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Citrus pepper wild tuna, citrus pepper",
+        "Name": "Citrus pepper wild tuna",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 4.7,
@@ -5085,7 +5085,7 @@
         }
     },
     {
-        "Name": "Albcore tuna with omega-3 tuna oil",
+        "Name": "Albcore tuna with tuna oil",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 4.5,
@@ -5103,7 +5103,7 @@
         }
     },
     {
-        "Name": "Omega-3 albacore tuna",
+        "Name": "Albacore tuna",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 2.8,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "No salt added 100% pure albacore wild tuna, albacore",
+        "Name": "No salt added 100% pure albacore wild tuna",
         "Nutrients": {
             "Protein": 24.7,
             "Fat": 2.9,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Solid light tuna yellowfin tuna in spring water, solid light tuna",
+        "Name": "Solid light tuna yellowfin tuna in spring water",
         "Nutrients": {
             "Protein": 26.8,
             "Fat": 0.0,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper seasoned tuna medley, lemon & pepper",
+        "Name": "Lemon & pepper seasoned tuna medley",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 5.3,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Premium light tuna in water, premium light",
+        "Name": "Premium light tuna in water",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 0.7,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Wild albacore solid white tuna in water with a touch of sea salt, sea salt",
+        "Name": "Wild albacore solid white tuna in water with a touch of sea salt",
         "Nutrients": {
             "Protein": 28.3,
             "Fat": 1.8,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Skip jack wild tuna in pure olive oil, skip jack",
+        "Name": "Skip jack wild tuna in pure olive oil",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 16.5,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Sweet spicy tuna, sweet spicy",
+        "Name": "Sweet spicy tuna",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 0.7,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk white albacore, albacore",
+        "Name": "Wild caught chunk white albacore",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 2.8,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Salted wild caught chunk white albacore pole & line tuna in spring water, salted",
+        "Name": "Salted wild caught chunk white albacore pole & line tuna in spring water",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 2.3,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Wild caught skipjack tuna lemon pepper flavored flake tuna, lemon pepper",
+        "Name": "Wild caught skipjack tuna lemon pepper flavored flake tuna",
         "Nutrients": {
             "Protein": 20.9,
             "Fat": 3.2,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Wild caught skipjack tuna chunk light in water & sea salt, skipjack tuna",
+        "Name": "Wild caught skipjack tuna chunk light in water & sea salt",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 0.4,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Solid white albacore premium tuna in vegetable oil, solid white albacore",
+        "Name": "Solid white albacore premium tuna in vegetable oil",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.5,
@@ -5274,7 +5274,7 @@
         }
     },
     {
-        "Name": "Wild caught tuna seasoned with jalapeno, jalapeno",
+        "Name": "Wild caught tuna seasoned with jalapeno",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.7,
@@ -5283,7 +5283,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper seasoned with wild caught tuna, lemon & pepper",
+        "Name": "Lemon & pepper seasoned with wild caught tuna",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.0,
@@ -5292,7 +5292,7 @@
         }
     },
     {
-        "Name": "Chipotle seasoned with wild caught tuna, chipotle",
+        "Name": "Chipotle seasoned with wild caught tuna",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 0.0,
@@ -5310,7 +5310,7 @@
         }
     },
     {
-        "Name": "Wild caught tuna seasoned with sriracha seafoods, sriracha",
+        "Name": "Wild caught tuna seasoned with sriracha seafoods",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 0.7,
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "Name": "Wild caught tuna seasoned with lemon sesame & ginger, lemon sesame & ginger",
+        "Name": "Wild caught tuna seasoned with lemon sesame & ginger",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 0.7,
@@ -5328,7 +5328,7 @@
         }
     },
     {
-        "Name": "Latin citrus tuna wild tina, quinoa white beans jalapeno lime juice, cilantro veggies, latin citrus",
+        "Name": "Latin citrus tuna wild tina, quinoa white beans jalapeno lime juice, cilantro veggies",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 2.7,
@@ -5337,7 +5337,7 @@
         }
     },
     {
-        "Name": "Spicy jalapenos premium fillets of tuna, spicy jalapenos",
+        "Name": "Spicy jalapenos premium fillets of tuna",
         "Nutrients": {
             "Protein": 25.3,
             "Fat": 2.0,
@@ -5346,7 +5346,7 @@
         }
     },
     {
-        "Name": "Light tuna in water, light",
+        "Name": "Light tuna in water",
         "Nutrients": {
             "Protein": 23.9,
             "Fat": 0.7,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Lemon pepper tuna, lemon pepper",
+        "Name": "Lemon pepper tuna",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.0,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "Wild yellowfin tuna with lemon pepper in extra virgin olive oil, lemon pepper",
+        "Name": "Wild yellowfin tuna with lemon pepper in extra virgin olive oil",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 17.6,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with jalapenos & olive oil, jalapenos & olive oil",
+        "Name": "Albacore tuna with jalapenos & olive oil",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 0.0,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Wild caught tuna seasoned with spicy thai chili, spicy thai chili",
+        "Name": "Wild caught tuna seasoned with spicy thai chili",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 1.4,
@@ -5418,7 +5418,7 @@
         }
     },
     {
-        "Name": "Sun-dried tomato & basil seasoned with wild caught tuna, sun-dried tomato & basil",
+        "Name": "Sun-dried tomato & basil seasoned with wild caught tuna",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 0.0,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with omega-3 tuna oil, omega-3 tuna oil",
+        "Name": "Albacore tuna with tuna oil",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 2.8,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Chunk light premium tuna in vegetable oil, vegetable oil",
+        "Name": "Chunk light premium tuna in vegetable oil",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.5,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Albacore tuna with pesto & olive oil, pesto & olive oil",
+        "Name": "Albacore tuna with pesto & olive oil",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Pepper & sea salt cracked sea foods, pepper & sea salt",
+        "Name": "Pepper & sea salt cracked sea foods",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.7,
@@ -5481,7 +5481,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & herb wild caught tuna, roasted garlic & herb",
+        "Name": "Roasted garlic & herb wild caught tuna",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 0.7,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Solid white albacore premium tuna in vegetable oil, vegetable oil",
+        "Name": "Solid white albacore premium tuna in vegetable oil",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.5,
@@ -5508,7 +5508,7 @@
         }
     },
     {
-        "Name": "Lemon and pepper premium fillets of tuna, lemon and pepper",
+        "Name": "Lemon & pepper premium fillets of tuna",
         "Nutrients": {
             "Protein": 24.0,
             "Fat": 2.0,
@@ -5517,7 +5517,7 @@
         }
     },
     {
-        "Name": "Jalapeno seasoned with wild caught tuna, jalapeno",
+        "Name": "Jalapeno seasoned with wild caught tuna",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 0.7,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Lemon sesame & ginger seasoned with wild caught tuna, lemon sesame & ginger",
+        "Name": "Lemon sesame & ginger seasoned with wild caught tuna",
         "Nutrients": {
             "Protein": 16.9,
             "Fat": 0.7,
@@ -5535,7 +5535,7 @@
         }
     },
     {
-        "Name": "Ranch chunk light tuna, ranch",
+        "Name": "Ranch chunk light tuna",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 4.0,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "Chunk light yellowfin tuna in spring water, spring water",
+        "Name": "Chunk light yellowfin tuna in spring water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.9,
@@ -5571,7 +5571,7 @@
         }
     },
     {
-        "Name": "Solid white albacore tuna in oil, solid white",
+        "Name": "Solid white albacore tuna in oil",
         "Nutrients": {
             "Protein": 27.4,
             "Fat": 4.4,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Bumble bee, sensations, seasoned tuna medley, lemon & pepper, lemon & pepper",
+        "Name": "Bumble bee, sensations, seasoned tuna medley, lemon & pepper",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 5.3,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Bumble bee, sensations, seasoned tuna medley, sundried tomato & basil, sundried tomato & basil",
+        "Name": "Bumble bee, sensations, seasoned tuna medley, sundried tomato & basil",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 5.3,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Fishing vessel st. jude, solid white albacore tuna, original, original",
+        "Name": "Fishing vessel st. jude, solid white albacore tuna, original",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 12.5,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Dolores, chunk light yellowfin tuna, tuna, tuna",
+        "Name": "Dolores, chunk light yellowfin tuna, tuna",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 7.1,
@@ -5625,7 +5625,7 @@
         }
     },
     {
-        "Name": "Skipjack wild tuna & sea salt, sea salt",
+        "Name": "Skipjack wild tuna & sea salt",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.2,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Bumble bee, sensations, seasoned tuna medley, spicy thai chili, spicy thai chili",
+        "Name": "Bumble bee, sensations, seasoned tuna medley, spicy thai chili",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 5.3,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Solid white albacore gourmet tuna in water, solid white albacore",
+        "Name": "Solid white albacore gourmet tuna in water",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.9,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Premium wild caught chunk light tuna in water, water",
+        "Name": "Premium wild caught chunk light tuna in water",
         "Nutrients": {
             "Protein": 22.4,
             "Fat": 0.6,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Very low sodium solid white albacore gourmet tuna in water, very low sodium solid white albacore",
+        "Name": "Very low sodium solid white albacore gourmet tuna in water",
         "Nutrients": {
             "Protein": 28.6,
             "Fat": 0.9,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Solid white - no salt added albacore tuna in spring water, solid white",
+        "Name": "Solid white - no salt added albacore tuna in spring water",
         "Nutrients": {
             "Protein": 29.2,
             "Fat": 2.5,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Garlic herb wild tuna meal kit, garlic herb",
+        "Name": "Garlic herb wild tuna meal kit",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 7.8,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Premium wild caught solid white albacore tuna in water, water",
+        "Name": "Premium wild caught solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in vegetable oil, vegetable oil",
+        "Name": "Chunk light tuna in vegetable oil",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Light skipjack tuna, light",
+        "Name": "Light skipjack tuna",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.0,
@@ -5841,7 +5841,7 @@
         }
     },
     {
-        "Name": "Pole and line caught solid white albacore tuna albacore tuna in extra virgin olive oil",
+        "Name": "Pole & line caught solid white albacore tuna albacore tuna in extra virgin olive oil",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 14.3,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Lemon pepper flavored pole and line caught skipjack tuna marinated chunk tuna in water, lemon pepper",
+        "Name": "Lemon pepper flavored pole & line caught skipjack tuna marinated chunk tuna in water",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 1.1,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Pole and line caught skipjack tuna chunk light in water",
+        "Name": "Pole & line caught skipjack tuna chunk light in water",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 1.1,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Pole and line caught solid white albacore tuna in water & sea salt, water & sea salt",
+        "Name": "Pole & line caught solid white albacore tuna in water & sea salt",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 2.7,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "No salt added pole and line caught solid white albacore tuna in water",
+        "Name": "No salt added pole & line caught solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 2.7,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Pole and line caught sweet chili skipjack tuna marinated chunk tuna in water",
+        "Name": "Pole & line caught sweet chili skipjack tuna marinated chunk tuna in water",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 1.1,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Pole and line caught skipjack tuna chunk light in water & sea salt, water & sea salt",
+        "Name": "Pole & line caught skipjack tuna chunk light in water & sea salt",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 0.6,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Garlic and herb premium wild caught chunk light tuna, garlic and herb",
+        "Name": "Garlic & herb premium wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 9.4,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Sweet and spicy premium wild caught chunk light tuna, sweet and spicy",
+        "Name": "Sweet & spicy premium wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 3.5,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Wild caught solid white albacore tuna in water & sea salt, water & sea salt",
+        "Name": "Wild caught solid white albacore tuna in water & sea salt",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 2.2,
@@ -5958,7 +5958,7 @@
         }
     },
     {
-        "Name": "Wild caught skipjack tuna flake tuna in sweet chili sauce, sweet chili sauce",
+        "Name": "Wild caught skipjack tuna flake tuna in sweet chili sauce",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 2.7,
@@ -5976,7 +5976,7 @@
         }
     },
     {
-        "Name": "Lemon pepper flavored flake wild caught skipjack tuna, lemon pepper",
+        "Name": "Lemon pepper flavored flake wild caught skipjack tuna",
         "Nutrients": {
             "Protein": 20.9,
             "Fat": 3.2,
@@ -5985,7 +5985,7 @@
         }
     },
     {
-        "Name": "Wild caught skipjack tuna chunk light in water & sea salt, water & sea salt",
+        "Name": "Wild caught skipjack tuna chunk light in water & sea salt",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 0.4,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Wild caught albacore tuna solid white in extra virgin olive oil, extra virgin olive oil",
+        "Name": "Wild caught albacore tuna solid white in extra virgin olive oil",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 10.6,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk light skipjack tuna in water & sea salt, water & sea salt",
+        "Name": "Wild caught chunk light skipjack tuna in water & sea salt",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 0.4,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Wild caught albacore tuna solid white in water & sea salt, water & sea salt",
+        "Name": "Wild caught albacore tuna solid white in water & sea salt",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 2.2,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Bonito and vegetables california salad, bonito and vegetables california",
+        "Name": "Bonito & vegetables california salad",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 8.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Tuna fillets with lemon & pepper in olive oil, lemon & pepper",
+        "Name": "Tuna fillets with lemon & pepper in olive oil",
         "Nutrients": {
             "Protein": 21.8,
             "Fat": 21.8,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Garlic pole caught wild albacore, garlic",
+        "Name": "Garlic pole caught wild albacore",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 8.9,
@@ -6102,7 +6102,7 @@
         }
     },
     {
-        "Name": "Chunk light skipjack tuna, chunk light",
+        "Name": "Chunk light skipjack tuna",
         "Nutrients": {
             "Protein": 26.8,
             "Fat": 0.9,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Wild skipjack tuna chunk in water with sea salt, sea salt",
+        "Name": "Wild skipjack tuna chunk in water with sea salt",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 0.4,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Tuna salad, tuna",
+        "Name": "Tuna salad",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 0.5,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Premium tuna fillets in olive oil & thyme, olive oil & thyme",
+        "Name": "Premium tuna fillets in olive oil & thyme",
         "Nutrients": {
             "Protein": 25.4,
             "Fat": 12.7,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Wild caught tuna seasoned with roasted garlic & herb, roasted garlic & herb",
+        "Name": "Wild caught tuna seasoned with roasted garlic & herb",
         "Nutrients": {
             "Protein": 22.5,
             "Fat": 0.7,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Tomato basil chunk light tuna, tomato basil",
+        "Name": "Tomato basil chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Ginger sesame wild caught premium chunk light tuna, ginger sesame",
+        "Name": "Ginger sesame wild caught premium chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Wild caught certified solid white albacore tuna in water, water",
+        "Name": "Wild caught certified solid white albacore tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 1.8,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy wild caught chunk light tuna, sweet & spicy",
+        "Name": "Sweet & spicy wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Solid tuna in vegetable oil, vegetable oil",
+        "Name": "Solid tuna in vegetable oil",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 10.3,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Chunk light - no salt added tongol tuna in spring water, chunk light",
+        "Name": "Chunk light - no salt added tongol tuna in spring water",
         "Nutrients": {
             "Protein": 26.6,
             "Fat": 0.9,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Solid albacore tuna in extra virgin olive oil with sea salt, sea salt",
+        "Name": "Solid albacore tuna in extra virgin olive oil with sea salt",
         "Nutrients": {
             "Protein": 30.4,
             "Fat": 5.4,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Ranch wild caught chunk light tuna, ranch",
+        "Name": "Ranch wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 2.7,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "No salt added skipjack chunk tuna in water, skipjack",
+        "Name": "No salt added skipjack chunk tuna in water",
         "Nutrients": {
             "Protein": 28.2,
             "Fat": 0.6,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Lime & black pepper skipjack tuna flake light tuna, lime & black pepper",
+        "Name": "Lime & black pepper skipjack tuna flake light tuna",
         "Nutrients": {
             "Protein": 22.9,
             "Fat": 3.6,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "Wild caught pole & line albacore solid white tuna in water, water",
+        "Name": "Wild caught pole & line albacore solid white tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 5.3,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Hickory smoke chunk light tuna, hickory smoke",
+        "Name": "Hickory smoke chunk light tuna",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 3.4,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Sundried tomato wild caught tuna infused with extra virgin olive oil, herbs & spices, sundried tomato",
+        "Name": "Sundried tomato wild caught tuna infused with extra virgin olive oil, herbs & spices",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 5.0,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Lemon & thyme wild caught tuna infused with extra virgin olive oil, herbs & spices, lemon & thyme",
+        "Name": "Lemon & thyme wild caught tuna infused with extra virgin olive oil, herbs & spices",
         "Nutrients": {
             "Protein": 27.5,
             "Fat": 7.5,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy wild caught seasoned tuna in water, sweet & spicy",
+        "Name": "Sweet & spicy wild caught seasoned tuna in water",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 2.7,
@@ -6345,7 +6345,7 @@
         }
     },
     {
-        "Name": "Ranch wild caught seasoned tuna in water, ranch",
+        "Name": "Ranch wild caught seasoned tuna in water",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 6.1,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Lemon pepper wild caught seasoned tuna in water, lemon pepper",
+        "Name": "Lemon pepper wild caught seasoned tuna in water",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 2.7,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Solid white albacore premium wild caught tuna in water, solid white albacore",
+        "Name": "Solid white albacore premium wild caught tuna in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.8,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Chunk light premium wild caught tuna in water, chunk light",
+        "Name": "Chunk light premium wild caught tuna in water",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.0,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Chunk light skipjack wild caught tuna in water, chunk light skipjack",
+        "Name": "Chunk light skipjack wild caught tuna in water",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 0.6,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore wild caught tuna in water, chunk white albacore",
+        "Name": "Chunk white albacore wild caught tuna in water",
         "Nutrients": {
             "Protein": 27.1,
             "Fat": 1.2,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Skipjack chunk light wild caught tuna in oil, skipjack chunk light",
+        "Name": "Skipjack chunk light wild caught tuna in oil",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Skipjack wild jack in water, skipjack",
+        "Name": "Skipjack wild jack in water",
         "Nutrients": {
             "Protein": 27.4,
             "Fat": 0.9,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "Albacore white tuna in water, albacore",
+        "Name": "Albacore white tuna in water",
         "Nutrients": {
             "Protein": 27.0,
             "Fat": 0.7,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Solid white albacore wild caught tuna in water & sea salt, solid white albacore",
+        "Name": "Solid white albacore wild caught tuna in water & sea salt",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 2.2,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Spanish medley wild caught tuna, spanish",
+        "Name": "Spanish medley wild caught tuna",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.8,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Lemon pepper chunk light premium tuna in water, lemon pepper chunk light",
+        "Name": "Lemon pepper chunk light premium tuna in water",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 0.0,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Hickory smoked chunk light premium tuna in water, hickory smoked",
+        "Name": "Hickory smoked chunk light premium tuna in water",
         "Nutrients": {
             "Protein": 28.4,
             "Fat": 2.0,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna in olive oil, chunk light",
+        "Name": "Chunk light tuna in olive oil",
         "Nutrients": {
             "Protein": 27.0,
             "Fat": 13.5,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Solid light yellowfin tuna in olive oil, solid light yellowfin tuna",
+        "Name": "Solid light yellowfin tuna in olive oil",
         "Nutrients": {
             "Protein": 26.0,
             "Fat": 12.5,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna ventresca in olive oil, yellowfin",
+        "Name": "Yellowfin tuna ventresca in olive oil",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 18.0,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Chunk light wild caught tuna in water, chunk light",
+        "Name": "Chunk light wild caught tuna in water",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 1.4,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Latin citrus wild tuna, quinoa, white beans, jalapeno, lime juice, cilantro & veggies creations microwavables, latin citrus",
+        "Name": "Latin citrus wild tuna, quinoa, white beans, jalapeno, lime juice, cilantro & veggies creations microwavables",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 2.7,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Solid white albacore wild caught tuna, solid white albacore",
+        "Name": "Solid white albacore wild caught tuna",
         "Nutrients": {
             "Protein": 26.9,
             "Fat": 0.0,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Lemon pepper tuna creations, lemon pepper",
+        "Name": "Lemon pepper tuna creations",
         "Nutrients": {
             "Protein": 24.3,
             "Fat": 0.7,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Hickory smoked tuna creations, hickory smoked",
+        "Name": "Hickory smoked tuna creations",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 4.7,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Extra virgin olive oil and lemon dill marinated tuna fillet, extra virgin olive oil and lemon dill",
+        "Name": "Extra virgin olive oil & lemon dill marinated tuna fillet",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 14.3,
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "Name": "Chunk light wild caught skipjack tuna in water, chunk light",
+        "Name": "Chunk light wild caught skipjack tuna in water",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 0.9,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Lemon pepper albacore flavored white tuna in water, lemon pepper albacore",
+        "Name": "Lemon pepper albacore flavored white tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.7,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Tomato basil wild caught chunk light tuna, tomato basil",
+        "Name": "Tomato basil wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6732,7 +6732,7 @@
         }
     },
     {
-        "Name": "Chunk light tuna with sweet corn in oil, chunk light",
+        "Name": "Chunk light tuna with sweet corn in oil",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 4.3,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Ranch chunk light wild caught tuna, ranch chunk light",
+        "Name": "Ranch chunk light wild caught tuna",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 4.0,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Veggie tuna with minced vegetables, veggie",
+        "Name": "Veggie tuna with minced vegetables",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 16.1,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Tuna style flakes in water, water",
+        "Name": "Tuna style flakes in water",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -6822,7 +6822,7 @@
         }
     },
     {
-        "Name": "Wild yellowfin tuna premium slow cooked ahi steaks, wild yellowfin tuna",
+        "Name": "Wild yellowfin tuna premium slow cooked ahi steaks",
         "Nutrients": {
             "Protein": 30.6,
             "Fat": 1.2,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Lemon & herbs de provence yellowfin tuna in olive oil, lemon & herbs de provence yellowfin tuna",
+        "Name": "Lemon & herbs de provence yellowfin tuna in olive oil",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 9.7,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Herb & garlic chunk light tuna, herb & garlic chunk light",
+        "Name": "Herb & garlic chunk light tuna",
         "Nutrients": {
             "Protein": 27.0,
             "Fat": 1.4,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Hot & spicy fish-free tuna style flakes, hot & spicy",
+        "Name": "Hot & spicy fish-free tuna style flakes",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 8.2,
@@ -6903,7 +6903,7 @@
         }
     },
     {
-        "Name": "Sweet and spicy light tuna, sweet and spicy",
+        "Name": "Sweet & spicy light tuna",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.4,
@@ -6912,7 +6912,7 @@
         }
     },
     {
-        "Name": "Lemon pepper seasoned tuna in water, lemon pepper",
+        "Name": "Lemon pepper seasoned tuna in water",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Jalapeno seasoned light tuna, jalapeno",
+        "Name": "Jalapeno seasoned light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6948,7 +6948,7 @@
         }
     },
     {
-        "Name": "Lemon pepper seasoned light tuna, lemon pepper",
+        "Name": "Lemon pepper seasoned light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna premium chunks in spring water, yellowfin tuna",
+        "Name": "Yellowfin tuna premium chunks in spring water",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.6,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned in smoke flavor gourmet light tuna, lightly seasoned in smoke",
+        "Name": "Lightly seasoned in smoke flavor gourmet light tuna",
         "Nutrients": {
             "Protein": 36.0,
             "Fat": 8.0,
@@ -6984,7 +6984,7 @@
         }
     },
     {
-        "Name": "Tuna style flakes in sunflower oil, sunflower oil",
+        "Name": "Tuna style flakes in sunflower oil",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 5.9,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Quinoa & chickpeas wild caught tuna, quinoa & chickpeas",
+        "Name": "Quinoa & chickpeas wild caught tuna",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 13.5,
@@ -7038,7 +7038,7 @@
         }
     },
     {
-        "Name": "Solid white albacore pole and line caught tuna in water & sea salt, solid white albacore in water & sea salt",
+        "Name": "Solid white albacore pole & line caught tuna in water & sea salt, solid white albacore in water & sea salt",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 2.5,
@@ -7047,7 +7047,7 @@
         }
     },
     {
-        "Name": "Chunk light skipjack pole and line caught tuna in water & sea salt, chunk light skipjack in water & sea salt",
+        "Name": "Chunk light skipjack pole & line caught tuna in water & sea salt, chunk light skipjack in water & sea salt",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 0.6,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Marinated chunk sweet chili skipjack pole and line caught tuna in water, marinated chunk sweet chili skipjack in water",
+        "Name": "Marinated chunk sweet chili skipjack pole & line caught tuna in water, marinated chunk sweet chili skipjack in water",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 1.1,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Solid white albacore pole and line caught tuna in water, solid white albacore in water",
+        "Name": "Solid white albacore pole & line caught tuna in water, solid white albacore in water",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 2.7,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "Chunk light skipjack pole and line caught tuna in water, chunk light skipjack in water",
+        "Name": "Chunk light skipjack pole & line caught tuna in water, chunk light skipjack in water",
         "Nutrients": {
             "Protein": 24.4,
             "Fat": 1.1,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Lemon pepper flavored pole and line caught skipjack tuna, lemon pepper",
+        "Name": "Lemon pepper flavored pole & line caught skipjack tuna",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 1.1,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Solid white albacore pole and line caught tuna in extra virgin olive oil, solid white albacore in extra virgin olive oil",
+        "Name": "Solid white albacore pole & line caught tuna in extra virgin olive oil, solid white albacore in extra virgin olive oil",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 14.3,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Chunk light sweet & spicy tuna, sweet & spicy",
+        "Name": "Chunk light sweet & spicy tuna",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.7,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Spanish medley wild caught tuna, spanish medley",
+        "Name": "Spanish medley wild caught tuna",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.8,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Albacore sweet & spicy flavored white tune in water, albacore sweet & spicy",
+        "Name": "Albacore sweet & spicy flavored white tune in water",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 1.4,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "Bold red curry with coconut wild caught tuna creations, bold red curry with coconut",
+        "Name": "Bold red curry with coconut wild caught tuna creations",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 2.7,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Bold tapatio with lime tuna creations, bold tapatio with lime",
+        "Name": "Bold tapatio with lime tuna creations",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 1.4,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Bold sriracha tuna creations, bold sriracha",
+        "Name": "Bold sriracha tuna creations",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 1.4,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Mediterranean style premium tuna with sundried tomatoes in extra virgin olive oil, mediterranean style",
+        "Name": "Mediterranean style premium tuna with sundried tomatoes in extra virgin olive oil",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 12.2,
@@ -7299,7 +7299,7 @@
         }
     },
     {
-        "Name": "Mexican style premium tuna with jalapeno peppers in sunflower oil, mexican style",
+        "Name": "Mexican style premium tuna with jalapeno peppers in sunflower oil",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 6.8,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Honey bbq kid's creations, honey bbq",
+        "Name": "Honey bbq kids creations",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 2.7,
@@ -7335,7 +7335,7 @@
         }
     },
     {
-        "Name": "Thai style premium tuna with chili peppers in sunflower oil, thai style",
+        "Name": "Thai style premium tuna with chili peppers in sunflower oil",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 10.8,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Albacore ready-to-eat tuna salad, albacore",
+        "Name": "Albacore ready-to-eat tuna salad",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 4.7,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Herb & garlic tuna creations, herb & garlic",
+        "Name": "Herb & garlic tuna creations",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 5.4,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Bacon ranch flavored kid's creations, bacon ranch",
+        "Name": "Bacon ranch flavored kids creations",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 6.8,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Sweet & spicy tuna creations, sweet & spicy",
+        "Name": "Sweet & spicy tuna creations",
         "Nutrients": {
             "Protein": 21.6,
             "Fat": 0.7,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Original deli style ready-to-eat tuna salad, original deli style",
+        "Name": "Original deli style ready-to-eat tuna salad",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 4.1,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Lemon pepper chunk light tuna, lemon pepper chunk light",
+        "Name": "Lemon pepper chunk light tuna",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 0.7,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Wild caught chunk light tuna in water, wild caught",
+        "Name": "Wild caught chunk light tuna in water",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 0.0,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Ginger sesame chunk light tuna, ginger sesame chunk",
+        "Name": "Ginger sesame chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Chunk light tongol tuna, chunk light tongol",
+        "Name": "Chunk light tongol tuna",
         "Nutrients": {
             "Protein": 26.9,
             "Fat": 0.5,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Unsalted solid white albacore wild caught tuna, unsalted solid white albacore",
+        "Name": "Unsalted solid white albacore wild caught tuna",
         "Nutrients": {
             "Protein": 26.9,
             "Fat": 0.0,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Ginger sesame wild caught chunk light tuna, ginger sesame",
+        "Name": "Ginger sesame wild caught chunk light tuna",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 0.0,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "4 bean medley wild caught tuna, 4 bean medley",
+        "Name": "Bean medley wild caught tuna",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 15.9,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Tuna solid pack in oil, oil",
+        "Name": "Tuna solid pack in oil",
         "Nutrients": {
             "Protein": 22.4,
             "Fat": 5.9,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Yellowfin tuna fillets in olive oil infused with truffle, yellowfin tuna",
+        "Name": "Yellowfin tuna fillets in olive oil infused with truffle",
         "Nutrients": {
             "Protein": 25.9,
             "Fat": 8.2,
@@ -7569,7 +7569,7 @@
         }
     },
     {
-        "Name": "Lemon & dill plant-based tuna, lemon & dill",
+        "Name": "Lemon & dill plant-based tuna",
         "Nutrients": {
             "Protein": 24.6,
             "Fat": 22.8,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Sweet and spicy chunk light premium wild caught tuna, sweet and spicy chunk light",
+        "Name": "Sweet & spicy chunk light premium wild caught tuna",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 3.5,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Garlic and tuscan herb infused olive oil yellowfin tuna",
+        "Name": "Garlic & tuscan herb infused olive oil yellowfin tuna",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 9.7,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Lemon and herbes de provence infused olive oil yellowfin tuna",
+        "Name": "Lemon & herbes de provence infused olive oil yellowfin tuna",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 9.7,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Pole & line skipjack wild caught tuna in water, pole & line",
+        "Name": "Pole & line skipjack wild caught tuna in water",
         "Nutrients": {
             "Protein": 23.9,
             "Fat": 0.9,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Chunk white albacore tuna in water, chunk white albacore tuna",
+        "Name": "Chunk white albacore tuna in water",
         "Nutrients": {
             "Protein": 26.9,
             "Fat": 0.0,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Albacore solid white in water tuna ",
+        "Name": "Albacore solid white in water tuna",
         "Nutrients": {
             "Protein": 21.8,
             "Fat": 1.8,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Lemon & pepper yellowfin in extra virgin olive oil, lemon & pepper",
+        "Name": "Lemon & pepper yellowfin in extra virgin olive oil",
         "Nutrients": {
             "Protein": 24.8,
             "Fat": 11.5,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Skipjack solid light wild tuna, skipjack",
+        "Name": "Skipjack solid light wild tuna",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 16.1,

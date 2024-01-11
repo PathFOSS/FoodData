@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Whole wheat blend pancake & waffle mix, whole wheat blend",
+        "Name": "Whole wheat blend pancake & waffle mix",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 1.7,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Blueberry & maple unleashed flapjack, blueberry & maple",
+        "Name": "Blueberry & maple unleashed flapjack",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 11.1,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Honey waffle, honey",
+        "Name": "Honey waffle",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 23.3,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Strawberry filled crepes, strawberry",
+        "Name": "Strawberry filled crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 10.9,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolled crepe, cinnamon",
+        "Name": "Cinnamon rolled crepe",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 12.5,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Frozen ii homestyle waffles, homestyle",
+        "Name": "Frozen ii homestyle waffles",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 8.6,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Hot chocolate complete pancake and waffle mix, hot chocolate",
+        "Name": "Hot chocolate complete pancake & waffle mix",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 3.9,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Sam's choice, waffle cookies, cinnamon, honey",
+        "Name": "Sams choice, waffle cookies, cinnamon, honey",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 18.8,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Waffle works, waffle sandwich snack, double chocolate",
+        "Name": "Waffle works, waffle s&wich snack, double chocolate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Waffle works, waffle snax, waffle sandwiches, chocolate",
+        "Name": "Waffle works, waffle snax, waffle s&wiches, chocolate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "King sooper's, city market, gourmet belgium waffles",
+        "Name": "King soopers, city market, gourmet belgium waffles",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 7.5,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Camilla's kitchen, sweet belgian waffles, original",
+        "Name": "Camillas kitchen, sweet belgian waffles, original",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 18.2,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Honey stinger, honey waffle, honey",
+        "Name": "Honey stinger, honey waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Honey stinger, strawberry waffle, strawberry",
+        "Name": "Honey stinger, strawberry waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Honey stinger, vanilla waffle, vanilla",
+        "Name": "Honey stinger, vanilla waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Honey stinger, lemon waffle, lemon",
+        "Name": "Honey stinger, lemon waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Honey stinger, gingersnap waffle, gingersnap",
+        "Name": "Honey stinger, gingersnap waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Honey stinger, caramel waffle, caramel",
+        "Name": "Honey stinger, caramel waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Stroopwafel 8 wafels",
+        "Name": "Stroopwafel wafels",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Waffle sandwich snacks",
+        "Name": "Waffle s&wich snacks",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "6 brioche waffles with butter",
+        "Name": "Brioche waffles with butter",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 22.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Homestyle french toast, homestyle",
+        "Name": "Homestyle french toast",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 3.5,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Blueberry pancakes, blueberry",
+        "Name": "Blueberry pancakes",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 4.3,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Homestyle waffles, homestyle",
+        "Name": "Homestyle waffles",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 4.3,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Buttermilk pancakes, buttermilk",
+        "Name": "Buttermilk pancakes",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 2.6,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Honey stinger, strawberry waffle, strawberry, strawberry",
+        "Name": "Honey stinger, strawberry waffle, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Honey stinger, lemon waffle, lemon, lemon",
+        "Name": "Honey stinger, lemon waffle, lemon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "French toast bread, french toast",
+        "Name": "French toast bread",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 2.7,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Strawberry crepes french recipe, strawberry crepes",
+        "Name": "Strawberry crepes french recipe",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 4.7,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Blueberry apple oven baked stoneground wheat snack, blueberry apple",
+        "Name": "Blueberry apple oven baked stoneground wheat snack",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 22.2,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Liege belgian chocolate chip waffles, liege belgian chocolate chip",
+        "Name": "Liege belgian chocolate chip waffles",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 22.2,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Brioche waffles with butter and belgian chocolate chips",
+        "Name": "Brioche waffles with butter & belgian chocolate chips",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 24.0,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Banana belgian style gourmet bites pancake puffs, banana belgian style",
+        "Name": "Banana belgian style gourmet bites pancake puffs",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 17.6,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Crispy crepe dark milk chocolate, crispy crepe",
+        "Name": "Crispy crepe dark milk chocolate",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 20.0,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Sweet cheese blintzes, sweet cheese",
+        "Name": "Sweet cheese blintzes",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 8.2,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Mini maple pancakes and maple sausage bites morning combos",
+        "Name": "Mini maple pancakes & maple sausage bites morning combos",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 20.4,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Hazelnut chocolate filled french crepes, hazelnut chocolate",
+        "Name": "Hazelnut chocolate filled french crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 21.9,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Caramel stroopwafel dutch waffle, caramel",
+        "Name": "Caramel stroopwafel dutch waffle",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Caramel dutch waffle, caramel",
+        "Name": "Caramel dutch waffle",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Chocolate hazelnut filled crepes, chocolate hazelnut",
+        "Name": "Chocolate hazelnut filled crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 25.0,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Crepes to go! caramel filled with crispy cereal balls, caramel",
+        "Name": "Crepes to go! caramel filled with crispy cereal balls",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 15.6,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "Chocolate hazelnut filled with crispy cereal balls, chocolate hazelnut",
+        "Name": "Chocolate hazelnut filled with crispy cereal balls",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 21.9,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Sam's choice, waffle cookies, cinnamon, honey, cinnamon, honey",
+        "Name": "Sams choice, waffle cookies, cinnamon, honey, cinnamon",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 18.8,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": "Original belgian waffle with pearl sugar, original",
+        "Name": "Original belgian waffle with pearl sugar",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 23.6,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Belgian waffle with sugar pearls, sugar pearls",
+        "Name": "Belgian waffle with sugar pearls",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 24.4,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Blueberry french toast, blueberry",
+        "Name": "Blueberry french toast",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Waffle works, waffle sandwich snack, double chocolate, double chocolate",
+        "Name": "Waffle works, waffle s&wich snack, double chocolate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Waffle works, waffle snax, waffle sandwiches, chocolate, chocolate",
+        "Name": "Waffle works, waffle snax, waffle s&wiches, chocolate",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored french toast, blueberry",
+        "Name": "Blueberry flavored french toast",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Cinnamon brown sugar protein waffles, cinnamon brown sugar",
+        "Name": "Cinnamon brown sugar protein waffles",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 14.5,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Blueberry blintzes 6 filled crepes, blueberry",
+        "Name": "Blueberry blintzes filled crepes",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 1.6,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Mini maple pancakes and maple sausage bites morning combos, mini maple pancakes and maple sausage bites",
+        "Name": "Mini maple pancakes & maple sausage bites morning combos",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 20.4,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Holiday hot chocolate flavored complete pancake and waffle mix, holiday hot chocolate",
+        "Name": "Holiday hot chocolate flavored complete pancake & waffle mix",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 3.9,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "French toast breakfast bread, french toast",
+        "Name": "French toast breakfast bread",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 6.1,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "Honey mini waffles, honey",
+        "Name": "Honey mini waffles",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 24.0,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "De wafelbakkers, pancakes, chocolate chip, chocolate chip",
+        "Name": "De wafelbakkers, pancakes, chocolate chip",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 6.8,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored waffles, blueberry",
+        "Name": "Blueberry flavored waffles",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 5.0,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Original sweet belgian waffles, original",
+        "Name": "Original sweet belgian waffles",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 20.0,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Waffle sandwich snacks, salted caramel",
+        "Name": "Waffle s&wich snacks, salted caramel",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored organic waffles, blueberry",
+        "Name": "Blueberry flavored organic waffles",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 10.0,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Original crepes, original",
+        "Name": "Original crepes",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 8.0,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Caramel flavor dutch syrup waffles/stroopwafels, caramel",
+        "Name": "Caramel flavor dutch syrup waffles/stroopwafels",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 18.8,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Organic salted caramel flavored waffle, salted caramel",
+        "Name": "Organic salted caramel flavored waffle",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Honey stinger, honey waffle, honey, honey",
+        "Name": "Honey stinger, honey waffle, honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Honey stinger, vanilla waffle, vanilla, vanilla",
+        "Name": "Honey stinger, vanilla waffle, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Honey stinger, gingersnap waffle, gingersnap, gingersnap",
+        "Name": "Honey stinger, gingersnap waffle, gingersnap",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.3,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "Honey stinger, caramel waffle, caramel, caramel",
+        "Name": "Honey stinger, caramel waffle, caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "Chocolate crepes, chocolate",
+        "Name": "Chocolate crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 15.6,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "Authentic belgian waffle, belgian",
+        "Name": "Authentic belgian waffle",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 22.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Original recipe heart-shaped waffles, original recipe",
+        "Name": "Original recipe heart-shaped waffles",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 22.1,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Original vanilla belgian pastry wafels, original vanilla",
+        "Name": "Original vanilla belgian pastry wafels",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 23.6,
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "Name": "Hazelnut chocolate banana organic crepes, hazelnut chocolate banana",
+        "Name": "Hazelnut chocolate banana organic crepes",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 8.2,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Maple flavored authentic belgian waffles, maple",
+        "Name": "Maple flavored authentic belgian waffles",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 21.4,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Cinnamon authentic belgian waffles, cinnamon",
+        "Name": "Cinnamon authentic belgian waffles",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 22.9,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "French pancakes to-go!, french",
+        "Name": "French pancakes to-go!",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 17.1,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Chocolate & hazelnut rolled crepes, chocolate & hazelnut",
+        "Name": "Chocolate & hazelnut rolled crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 21.9,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Original belgian waffle, original",
+        "Name": "Original belgian waffle",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 23.6,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Garlic & fine herbs boursin cheese filled crepes, garlic & fine herbs",
+        "Name": "Garlic & fine herbs boursin cheese filled crepes",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 40.0,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "French style round crepes, french style",
+        "Name": "French style round crepes",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 7.0,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Chocolate chip dutch pancake puffy bites, chocolate chip",
+        "Name": "Chocolate chip dutch pancake puffy bites",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Vanilla buttermilk flavored protein waffles, vanilla buttermilk",
+        "Name": "Vanilla buttermilk flavored protein waffles",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 14.5,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Cookies & cream waffle, cookies & cream",
+        "Name": "Cookies & cream waffle",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Vanilla waffles, vanilla",
+        "Name": "Vanilla waffles",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 23.3,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Wild blueberry french toast bake, wild blueberry french",
+        "Name": "Wild blueberry french toast bake",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.8,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "French recipe euro classic chocolate crepes, french recipe",
+        "Name": "French recipe euro classic chocolate crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 15.6,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Classic strawberry crepes, strawberry crepes",
+        "Name": "Classic strawberry crepes",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 4.7,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Traditional belgian waffles, traditional",
+        "Name": "Traditional belgian waffles",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 22.9,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Gingerbread waffles, gingerbread",
+        "Name": "Gingerbread waffles",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 18.3,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Authentic sweet belgian waffle, authentic sweet",
+        "Name": "Authentic sweet belgian waffle",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 22.0,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Strawberry grab & go liege-style waffles, strawberry",
+        "Name": "Strawberry grab & go liege-style waffles",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 18.2,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Chocolate chip dutch pancake bites, chocolate chip",
+        "Name": "Chocolate chip dutch pancake bites",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Classic caramel stroopwafels caramel filled cookies, classic caramel",
+        "Name": "Classic caramel stroopwafels caramel filled cookies",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 19.4,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "Original dutch mini pancakes, original dutch",
+        "Name": "Original dutch mini pancakes",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 17.3,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Strawberry waffles, strawberry",
+        "Name": "Strawberry waffles",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 18.5,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "Hot chocolate holiday complete pancake and waffle mix, hot chocolate",
+        "Name": "Hot chocolate holiday complete pancake & waffle mix",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 3.9,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Authentic belgian waffle, authentic belgian",
+        "Name": "Authentic belgian waffle",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 22.0,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Waffle bowls, waffle",
+        "Name": "Waffle bowls",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 4.2,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Strawberry filled crepes on the go!, strawberry",
+        "Name": "Strawberry filled crepes on the go!",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.7,

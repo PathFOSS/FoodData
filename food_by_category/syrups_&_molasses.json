@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Unsulphured organic blackstrap molasses, unsulphured",
+        "Name": "Unsulphured organic blackstrap molasses",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Sugar free syrup, sugar free",
+        "Name": "Sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Original syrup, original",
+        "Name": "Original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Red raspberry syrup, red raspberry",
+        "Name": "Red raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Maple flavor sugar free low calorie syrup, maple",
+        "Name": "Maple flavor sugar free low calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "100% pure maple syrup, maple",
+        "Name": "100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Butter flavor sugar free low calorie syrup, butter",
+        "Name": "Butter flavor sugar free low calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Maple flavor sugar free, maple",
+        "Name": "Maple flavor sugar free",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Blueberry syrup, blueberry",
+        "Name": "Blueberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Chocolate syrup, chocolate",
+        "Name": "Chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Bosco, flavored syrup, mocha, mocha",
+        "Name": "Bosco, flavored syrup, mocha",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Caramel flavored syrup, caramel",
+        "Name": "Caramel flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Strawberry flavored syrup, strawberry",
+        "Name": "Strawberry flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Chocolate flavored syrup, chocolate",
+        "Name": "Chocolate flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup, maple",
+        "Name": "Organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Gourmet syrups, vanilla, vanilla",
+        "Name": "Gourmet syrups, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Honey creme syrup, honey creme, honey creme",
+        "Name": "Honey creme syrup, honey creme",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Lite syrup, lite",
+        "Name": "Lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Strawberry syrup, strawberry",
+        "Name": "Strawberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Lite original syrup, lite original",
+        "Name": "Lite original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Old fashioned syrup made with molasses + brown sugar, old fashioned",
+        "Name": "Old fashioned syrup made with molasses & brown sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Butter syrup, butter",
+        "Name": "Butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Light syrup, light",
+        "Name": "Light syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Light corn syrup with real vanilla, vanilla",
+        "Name": "Light corn syrup with real vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Light corn syrup with real vanilla, real vanilla",
+        "Name": "Light corn syrup with real vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Lite reduced calorie syrup, lite",
+        "Name": "Lite reduced calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Golden maple syrup, golden",
+        "Name": "Golden maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Amber maple syrup, amber maple",
+        "Name": "Amber maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Maple walnut syrup, maple walnut",
+        "Name": "Maple walnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Grade a dark color maple syrup, maple",
+        "Name": "Grade a dark color maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Butter flavored syrup, butter",
+        "Name": "Butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Vanilla syrup, vanilla",
+        "Name": "Vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "Name": "Hazelnut syrup, hazelnut",
+        "Name": "Hazelnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Mocha sauce, mocha",
+        "Name": "Mocha sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 1.7,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Sugar-free vanilla syrup, vanilla",
+        "Name": "Sugar-free vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Maple syrup, maple",
+        "Name": "Maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 10.8,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Butter flavored pancake & waffle syrup, butter",
+        "Name": "Butter flavored pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Lite pancake & waffle syrup, lite",
+        "Name": "Lite pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Original flavor syrup, original",
+        "Name": "Original flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Raspberry & mint organic soda syrup, raspberry & mint",
+        "Name": "Raspberry & mint organic soda syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Classic indian organic tonic syrup, classic indian",
+        "Name": "Classic indian organic tonic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "Pink grapefruit organic soda syrup, pink grapefruit",
+        "Name": "Pink grapefruit organic soda syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Pure maple syrup, maple",
+        "Name": "Pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Organic smooth & mild brown rice syrup, brown rice",
+        "Name": "Organic smooth & mild brown rice syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Organic 100% pure vermont maple syrup, maple",
+        "Name": "Organic 100% pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "Caramel zero sugar puremade syrup, caramel",
+        "Name": "Caramel zero sugar puremade syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Vanilla zero sugar puremade syrup, vanilla",
+        "Name": "Vanilla zero sugar puremade syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "100% pure date syrup, date",
+        "Name": "100% pure date syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Hazelnut puremade syrup, hazelnut",
+        "Name": "Hazelnut puremade syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Raspberry syrup with ginseng, raspberry",
+        "Name": "Raspberry syrup with ginseng",
         "Nutrients": {
             "Protein": 0.2,
             "Fat": 0.0,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "Original ginger ale organic soda syrup, original ginger ale",
+        "Name": "Original ginger ale organic soda syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Extra buttery flavored syrup, buttery",
+        "Name": "Extra buttery flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Caramel syrup, caramel",
+        "Name": "Caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Vermont organic maple syrup apple brandy",
+        "Name": "Vermont organic maple syrup apple br&y",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Sugar free classic hazelnut syrup, classic hazelnut",
+        "Name": "Sugar free classic hazelnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "French vanilla syrup, french vanilla",
+        "Name": "French vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Sugar free raspberry syrup, raspberry",
+        "Name": "Sugar free raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Chocolate sugar free syrup, chocolate",
+        "Name": "Chocolate sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Classic hazelnut syrup, classic hazelnut",
+        "Name": "Classic hazelnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Blonde cola organic soda syrup, blonde cola",
+        "Name": "Blonde cola organic soda syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Raspberry super fruit syrup, raspberry",
+        "Name": "Raspberry super fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Mountain berry super fruit syrup, mountain berry",
+        "Name": "Mountain berry super fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Maple bourbon flavor monk fruit sweetened pancake syrup, maple bourbon",
+        "Name": "Maple bourbon flavor monk fruit sweetened pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -819,7 +819,7 @@
         }
     },
     {
-        "Name": "Classic maple sweetened pancake monk fruit syrup, classic maple",
+        "Name": "Classic maple sweetened pancake monk fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Elderberry cheeky tart cherry syrup, elderberry",
+        "Name": "Elderberry cheeky tart cherry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Light real vanilla corn syrup, light real vanilla",
+        "Name": "Light real vanilla corn syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Cranberry premium syrup, cranberry",
+        "Name": "Cranberry premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Blueberry premium syrup, blueberry",
+        "Name": "Blueberry premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Organic vanilla infused maple syrup, vanilla",
+        "Name": "Organic vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Pure maple syrup, pure maple",
+        "Name": "Pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Light corn syrup made with real vanilla, real vanilla",
+        "Name": "Light corn syrup made with real vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Organic pomegranate molasses the better sugar syrup, pomegranate molasses",
+        "Name": "Organic pomegranate molasses the better sugar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "Chocolate flavored sugar free syrup, chocolate",
+        "Name": "Chocolate flavored sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "Spiced apple holiday fruit syrup, spiced apple",
+        "Name": "Spiced apple holiday fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "Sugar free pumpkin spice flavoring syrup, pumpkin spice",
+        "Name": "Sugar free pumpkin spice flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Original pancake syrup, original",
+        "Name": "Original pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Date syrup, date",
+        "Name": "Date syrup",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 0.0,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "Organic pure maple syrup, maple",
+        "Name": "Organic pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Organic 100% pure maple syrup, maple",
+        "Name": "Organic 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "Five citrus sweet & sour no. 32 syrup, five citrus sweet & sour",
+        "Name": "Five citrus sweet & sour no. syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Hibiscus-mint-lemon botanical infused syrup, hibiscus-mint-lemon",
+        "Name": "Hibiscus-mint-lemon botanical infused syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Triple sec premium syrup, triple sec",
+        "Name": "Triple sec premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Butter pancake syrup, butter pancake",
+        "Name": "Butter pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Lite pancake syrup, lite",
+        "Name": "Lite pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Butter pancake syrup, butter",
+        "Name": "Butter pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Margie's, guava syrup",
+        "Name": "Margies, guava syrup",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Margie's, papaya syrup",
+        "Name": "Margies, papaya syrup",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Margie's, banana syrup, banana",
+        "Name": "Margies, banana syrup",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Shoprite, chocolate syrup, chocolate",
+        "Name": "Shoprite, chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Shoprite, strawberry syrup, strawberry",
+        "Name": "Shoprite, strawberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "U-bet, fox's, strawberry syrup, strawberry",
+        "Name": "U-bet, foxs, strawberry syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Cracovia, raspberry syrup, raspberry",
+        "Name": "Cracovia, raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Margie's, strawberry banana syrup",
+        "Name": "Margies, strawberry banana syrup",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Kozlowski farms, sonoma county classics, blackberry syrup & sauce, blackberry syrup & sauce",
+        "Name": "Kozlowski farms, sonoma county classics, blackberry syrup & sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Spring tree, maple syrup, maple",
+        "Name": "Spring tree, maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Cary's, maple syrup",
+        "Name": "Carys, maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Macdonald's, maple syrup",
+        "Name": "Macdonalds, maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "Name": "Maple grove farms, sugar free low calorie syrup, maple",
+        "Name": "Maple grove farms, sugar free low calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Cary's, american diabetes association, sugar free low calorie syrup, maple",
+        "Name": "Carys, american diabetes association, sugar free low calorie syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Fifty50, fructose sweetened syrup, maple",
+        "Name": "Fructose sweetened syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "Gonzalez, pancake and waffle syrup",
+        "Name": "Gonzalez, pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": "Mrs. butter-worth's, sugar free syrup",
+        "Name": "Mrs. butter-worths, sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "365 everyday value, chocolate syrup",
+        "Name": "Everyday value, chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "Pickett's, ginger beer concentrated syrup",
+        "Name": "Picketts, ginger beer concentrated syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Crown maple syrup, maple syrup",
+        "Name": "Crown maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "B.g. reynolds', hand-crafted exotic syrups, vanilla",
+        "Name": "B.. reynolds, h&-crafted exotic syrups, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "Roundy's, syrup, butter lite",
+        "Name": "Roundys, syrup, butter lite",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Roundy's, original syrup",
+        "Name": "Roundys, original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "Wagner's, pure maple syrup",
+        "Name": "Wagners, pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "Alaga, the original cane flavor syrup, cane",
+        "Name": "Alaga, the original cane flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Raley's, organic maple syrup",
+        "Name": "Raleys, organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Hand-crafted syrup",
+        "Name": "H&-crafted syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Mama's choice, premium blackberry syrup, blackberry",
+        "Name": "Mamas choice, premium blackberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Mama's choice, syrup, blueberry, premium",
+        "Name": "Mamas choice, syrup, blueberry, premium",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Mrs. schlorer's, golden table syrup, turkey",
+        "Name": "Mrs. schlorers, golden table syrup, turkey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "Michele's, honey creme syrup, honey creme",
+        "Name": "Micheles, honey creme syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, zero calorie hazelnut syrup, hazelnut",
+        "Name": "Davinci gourmet, zero calorie hazelnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, cane sugar vanilla syrup, vanilla",
+        "Name": "Davinci gourmet, cane sugar vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Grace, fruit punch syrup, fruit punch",
+        "Name": "Grace, fruit punch syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "Feronia forests' mission pure maple syrup",
+        "Name": "Feronia forests mission pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Molasses  blackstrap",
+        "Name": "Molasses blackstrap",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic caramel syrup, caramel",
+        "Name": "Davinci gourmet, classic caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic raspberry syrup, raspberry",
+        "Name": "Davinci gourmet, classic raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic peppermint syrup, peppermint",
+        "Name": "Davinci gourmet, classic peppermint syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, sugar free caramel syrup, caramel",
+        "Name": "Davinci gourmet, sugar free caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, sugar free vanilla syrup, vanilla",
+        "Name": "Davinci gourmet, sugar free vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic cinnamon syrup, cinnamon",
+        "Name": "Davinci gourmet, classic cinnamon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Brad's organic, maple syrup",
+        "Name": "Brads organic, maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Handcrafted maple syrup",
+        "Name": "H&crafted maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "365 everyday value, grade a maple syrup",
+        "Name": "Everyday value, grade a maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Cary's, sugar free syrup, maple",
+        "Name": "Carys, sugar free syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "America's northwest, syrup, marion blackberry",
+        "Name": "Americas northwest, syrup, marion blackberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Torani, classic caramel syrup, caramel",
+        "Name": "Torani, classic caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Lopez island farm, marionberry syrup, marionberry",
+        "Name": "Lopez isl& farm, marionberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Blackberry patch, blueberry syrup, blueberry",
+        "Name": "Blackberry patch, blueberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Roundy's, butter syrup",
+        "Name": "Roundys, butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4383,7 +4383,7 @@
         }
     },
     {
-        "Name": "Simply roundy's, organic maple syrup",
+        "Name": "Simply roundys, organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Roundy's select, true maple syrup",
+        "Name": "Roundys select, true maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Roundy's, original syrup, original",
+        "Name": "Roundys, original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Hawaii's best hawaiian, coconut syrup & delights",
+        "Name": "Hawaiis best hawaiian, coconut syrup & delights",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 11.7,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "Michele's, maple creme syrup",
+        "Name": "Micheles, maple creme syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Michele's, butter pecan syrup",
+        "Name": "Micheles, butter pecan syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4446,7 +4446,7 @@
         }
     },
     {
-        "Name": "S'mores syrup",
+        "Name": "Smores syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Western family, rich'n buttery artificial butter flavored syrup",
+        "Name": "Western family, rich& buttery artificial butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4536,7 +4536,7 @@
         }
     },
     {
-        "Name": "Anderson's, pure maple syrup",
+        "Name": "&ersons, pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic dark maple syrup",
+        "Name": "Everyday value, organic dark maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic grade a maple syrup",
+        "Name": "Everyday value, organic grade a maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Aunt jemima, butter rich syrup, butter",
+        "Name": "Aunt jemima, butter rich syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Santa cruz organic, chocolate syrup, chocolate",
+        "Name": "Santa cruz organic, chocolate syrup",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Tiger's blood snow cone syrup",
+        "Name": "Tigers blood snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Cotton candy snow cone syrup",
+        "Name": "Cotton c&y snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5355,7 +5355,7 @@
         }
     },
     {
-        "Name": "Fuller's sugarhouse, 100% pure maple syrup",
+        "Name": "Fullers sugarhouse, 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5409,7 +5409,7 @@
         }
     },
     {
-        "Name": "Maple grove farms, 100 % pure maple syrup",
+        "Name": "Maple grove farms, % pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5562,7 +5562,7 @@
         }
     },
     {
-        "Name": "S'mores flavoring syrup",
+        "Name": "Smores flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Rich'n buttery artificial butter flavored syrup",
+        "Name": "Rich& buttery artificial butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Maple syrup + honey",
+        "Name": "Maple syrup & honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Pure vermont maple syrup, maple",
+        "Name": "Pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Butter pancake & waffle syrup, butter",
+        "Name": "Butter pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Lite pancake & waffle syrup, pancake & waffle",
+        "Name": "Lite pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5832,7 +5832,7 @@
         }
     },
     {
-        "Name": "Butter pecan pancake & waffle syrup, butter pecan",
+        "Name": "Butter pecan pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "South georgia blueberry prestige small batch fruit syrup, south georgia blueberry",
+        "Name": "South georgia blueberry prestige small batch fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Light corn syrup, light",
+        "Name": "Light corn syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "Cinnamon + vanilla infused maple syrup, cinnamon + vanilla",
+        "Name": "Cinnamon & vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Butter flavored lite syrup, butter",
+        "Name": "Butter flavored lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Robust 100% pure maple syrup, robust",
+        "Name": "Robust 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Meijer, syrup, strawberry, strawberry",
+        "Name": "Meijer, syrup, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Meijer, syrup, chocolate, chocolate",
+        "Name": "Meijer, syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -6039,7 +6039,7 @@
         }
     },
     {
-        "Name": "Butter flavor syrup, syrup",
+        "Name": "Butter flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Butter artificially flavored syrup, butter",
+        "Name": "Butter artificially flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Sugar free original syrup, original",
+        "Name": "Sugar free original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Cary's, sugar free syrup, maple, maple",
+        "Name": "Carys, sugar free syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Aunt jemima, lite syrup, original, original",
+        "Name": "Aunt jemima, lite syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Vermont maple syrup, vermont maple",
+        "Name": "Vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Homestyle syrup, homestyle",
+        "Name": "Homestyle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Original lite syrup, original",
+        "Name": "Original lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Natural butter lite syrup, natural butter",
+        "Name": "Natural butter lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Butter rich syrup, butter rich",
+        "Name": "Butter rich syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Pure vermont maple syrup, pure vermont maple",
+        "Name": "Pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "All-in-one super syrup, tiger's blood",
+        "Name": "All-in-one super syrup, tigers blood",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Cotton candy",
+        "Name": "Cotton c&y",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6309,7 +6309,7 @@
         }
     },
     {
-        "Name": "Orange deelite all-in-one super syrup, orange deelite",
+        "Name": "Orange deelite all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Lite butter syrup, butter",
+        "Name": "Lite butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "100% pure vermont maple syrup, vermont maple",
+        "Name": "100% pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Butter flavor pancake syrup, butter",
+        "Name": "Butter flavor pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Butter flavored pancake syrup, butter",
+        "Name": "Butter flavored pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Grade a golden vermont maple syrup, golden",
+        "Name": "Grade a golden vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged vermont maple syrup, bourbon barrel aged",
+        "Name": "Bourbon barrel aged vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Salted caramel caramelized vermont maple syrup, salted caramel",
+        "Name": "Salted caramel caramelized vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice coffee syrup, pumpkin spice",
+        "Name": "Pumpkin spice coffee syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6525,7 +6525,7 @@
         }
     },
     {
-        "Name": "Coconut syrup unrefined sustainable sweetener, coconut",
+        "Name": "Coconut syrup unrefined sustainable sweetener",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6534,7 +6534,7 @@
         }
     },
     {
-        "Name": "Butter pecan syrup, butter pecan",
+        "Name": "Butter pecan syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Vermont maple syrup infused with habanero, vermont maple",
+        "Name": "Vermont maple syrup infused with habanero",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "Name": "Original pancake & waffle syrup, original",
+        "Name": "Original pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Mountain berry kodiak syrup, mountain berry",
+        "Name": "Mountain berry kodiak syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged wisconsin maple syrup, bourbon barrel aged",
+        "Name": "Bourbon barrel aged wisconsin maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Butter pecan pancake & waffle, butter pecan",
+        "Name": "Butter pecan pancake & waffle",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Crystal white corn syrup, crystal white",
+        "Name": "Crystal white corn syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Red raspberry super fruit syrup, red raspberry",
+        "Name": "Red raspberry super fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Apricot super fruit syrup, apricot",
+        "Name": "Apricot super fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Pancake & waffle syrup, pancake & waffle",
+        "Name": "Pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Lite pancake syrup, lite pancake",
+        "Name": "Lite pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Raspberry fruit syrup, raspberry",
+        "Name": "Raspberry fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Strawberry fruit syrup, strawberry",
+        "Name": "Strawberry fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Blueberry fruit syrup, blueberry",
+        "Name": "Blueberry fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Lite pancake & waffle maple syrup, lite",
+        "Name": "Lite pancake & waffle maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Butter lite syrup, butter",
+        "Name": "Butter lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Pineapple syrup, pineapple",
+        "Name": "Pineapple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.1,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Pancake syrup, pancake",
+        "Name": "Pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.1,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Lite butter syrup, lite",
+        "Name": "Lite butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6813,7 +6813,7 @@
         }
     },
     {
-        "Name": "Apple syrup, apple",
+        "Name": "Apple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Maple flavored syrup, maple",
+        "Name": "Maple flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6858,7 +6858,7 @@
         }
     },
     {
-        "Name": "Organic chocolate flavored syrup, chocolate",
+        "Name": "Organic chocolate flavored syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Sweet bourbon barrel-aged small batch maple syrup, sweet bourbon",
+        "Name": "Sweet bourbon barrel-aged small batch maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "Organic pure date syrup, pure date",
+        "Name": "Organic pure date syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -6993,7 +6993,7 @@
         }
     },
     {
-        "Name": "Butter rich pancake syrup, butter rich",
+        "Name": "Butter rich pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Meyer lemon syrup, meyer lemon",
+        "Name": "Meyer lemon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Apricot syrup, apricot",
+        "Name": "Apricot syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Boysenberry syrup, boysenberry",
+        "Name": "Boysenberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Light flavor syrup, light",
+        "Name": "Light flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "100% pure vermont maple syrup, maple",
+        "Name": "100% pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "100% pure vermont maple organic syrup, vermont maple",
+        "Name": "100% pure vermont maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Butter lite flavored reduced calorie syrup, butter lite",
+        "Name": "Butter lite flavored reduced calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7218,7 +7218,7 @@
         }
     },
     {
-        "Name": "Original lite reduced calorie syrup, original lite",
+        "Name": "Original lite reduced calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Hazelnut gourmet pure cane syrup, hazelnut",
+        "Name": "Hazelnut gourmet pure cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7236,7 +7236,7 @@
         }
     },
     {
-        "Name": "Vanilla gourmet pure cane syrup, vanilla",
+        "Name": "Vanilla gourmet pure cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7245,7 +7245,7 @@
         }
     },
     {
-        "Name": "Caramel gourmet pure cane syrup, caramel",
+        "Name": "Caramel gourmet pure cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Torani, flavoring syrup, vanilla, vanilla",
+        "Name": "Torani, flavoring syrup, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Chocolate and cinnamon flavor syrup, chocolate and cinnamon",
+        "Name": "Chocolate & cinnamon flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7317,7 +7317,7 @@
         }
     },
     {
-        "Name": "Maraschino cherry flavored syrup, maraschino cherry",
+        "Name": "Maraschino cherry flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Mint chocolate flavored syrup, mint chocolate",
+        "Name": "Mint chocolate flavored syrup",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Bourbon vermont organic maple syrup, bourbon",
+        "Name": "Bourbon vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Barrel-aged maple syrup, maple",
+        "Name": "Barrel-aged maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "Name": "Butter pecan flavored syrup, butter pecan",
+        "Name": "Butter pecan flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Strawberry maple syrup, strawberry",
+        "Name": "Strawberry maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Maple flavored ocean blue syrup, maple",
+        "Name": "Maple flavored ocean blue syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Extra buttery syrup, extra buttery",
+        "Name": "Extra buttery syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Table syrup flavored with honey, honey",
+        "Name": "Table syrup flavored with honey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Vermont organic maple syrup, maple",
+        "Name": "Vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7470,7 +7470,7 @@
         }
     },
     {
-        "Name": "Cinnamon infused maple syrup, cinnamon infused",
+        "Name": "Cinnamon infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Sweet bourbon maple syrup bourbon barrel aged, bourbon barrel aged",
+        "Name": "Sweet bourbon maple syrup bourbon barrel aged",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7488,7 +7488,7 @@
         }
     },
     {
-        "Name": "All natural ginger-infused simple syrup, ginger",
+        "Name": "All natural ginger-infused simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Classic sugar cane simple syrup, classic sugar cane",
+        "Name": "Classic sugar cane simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "All natural lemon zest-infused simple syrup, lemon zest",
+        "Name": "All natural lemon zest-infused simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7524,7 +7524,7 @@
         }
     },
     {
-        "Name": "Pomegranate flavored syrup, pomegranate",
+        "Name": "Pomegranate flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "Caramel gourmet cane sugar syrup, caramel",
+        "Name": "Caramel gourmet cane sugar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7542,7 +7542,7 @@
         }
     },
     {
-        "Name": "Vermont organic maple syrup, vermont",
+        "Name": "Vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Organic vermont maple syrup, vermont maple",
+        "Name": "Organic vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "Name": "Mango puree infused syrup, mango puree",
+        "Name": "Mango puree infused syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7587,7 +7587,7 @@
         }
     },
     {
-        "Name": "Dark color 100% pure maple syrup, dark color",
+        "Name": "Dark color 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Rich taste amber color 100% pure organic maple syrup, rich taste",
+        "Name": "Rich taste amber color 100% pure organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Maple flavor sugarfree low calorie syrup, maple",
+        "Name": "Maple flavor sugarfree low calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7614,7 +7614,7 @@
         }
     },
     {
-        "Name": "Maple 100% pure syrup, maple",
+        "Name": "Maple 100% pure syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "100 % pure very dark color maple syrup, maple",
+        "Name": "% pure very dark color maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7632,7 +7632,7 @@
         }
     },
     {
-        "Name": "Vanilla zero calorie gourmet syrup, vanilla",
+        "Name": "Vanilla zero calorie gourmet syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Sugar free pancake & waffle syrup, sugar free",
+        "Name": "Sugar free pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7659,7 +7659,7 @@
         }
     },
     {
-        "Name": "Vermont organic bourbon maple syrup, vermont",
+        "Name": "Vermont organic bourbon maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Whiskey barrel-aged maple syrup vermont organic, whiskey barrel-aged",
+        "Name": "Whiskey barrel-aged maple syrup vermont organic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Crystal, genuine syrup, chocolate, chocolate",
+        "Name": "Crystal, genuine syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -7686,7 +7686,7 @@
         }
     },
     {
-        "Name": "Original sugar free syrup, original",
+        "Name": "Original sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7695,7 +7695,7 @@
         }
     },
     {
-        "Name": "Rituals, syrup, chocolate, chocolate",
+        "Name": "Rituals, syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -7704,7 +7704,7 @@
         }
     },
     {
-        "Name": "Madagascar vanilla infused maple syrup, madagascar vanilla",
+        "Name": "Madagascar vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7713,7 +7713,7 @@
         }
     },
     {
-        "Name": "Maple bacon syrup, maple bacon",
+        "Name": "Maple bacon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7722,7 +7722,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup infused with organic roasted cocoa nibs, roasted cocoa nibs",
+        "Name": "Organic maple syrup infused with organic roasted cocoa nibs",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Cinnamon infused maple syrup, cinnamon",
+        "Name": "Cinnamon infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Hibiscus flower infused maple syrup, hibiscus flower infused",
+        "Name": "Hibiscus flower infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "Rum barrel-aged vermont organic maple syrup, rum barrel-aged",
+        "Name": "Rum barrel-aged vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup infused with fresh organic ginger, ginger",
+        "Name": "Organic maple syrup infused with fresh organic ginger",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Jasmine tea infused vermont organic maple syrup, jasmine tea",
+        "Name": "Jasmine tea infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7785,7 +7785,7 @@
         }
     },
     {
-        "Name": "Elderberry infused vermont organic maple syrup, elderberry",
+        "Name": "Elderberry infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup infused with organic cardamom, cardamom",
+        "Name": "Organic maple syrup infused with organic cardamom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Swirl mocha flavored creamy syrup, swirl mocha",
+        "Name": "Swirl mocha flavored creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 5.1,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Caramel swirl creamy syrup, caramel",
+        "Name": "Caramel swirl creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 9.2,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Ginger root infused vermont organic maple syrup, ginger root infused",
+        "Name": "Ginger root infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Smoked with pecan wood vermont organic maple syrup, smoked with pecan wood",
+        "Name": "Smoked with pecan wood vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Triple sec syrup, triple sec",
+        "Name": "Triple sec syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Makrut lime-leaf infused vermont organic maple syrup, makrut lime-leaf infused",
+        "Name": "Makrut lime-leaf infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Sugar-free chocolate flavored syrup, chocolate",
+        "Name": "Sugar-free chocolate flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Organic strawberry flavored syrup, strawberry",
+        "Name": "Organic strawberry flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7902,7 +7902,7 @@
         }
     },
     {
-        "Name": "Caramel flavored organic sugar-free syrup, caramel",
+        "Name": "Caramel flavored organic sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged maple syrup, bourbon barrel aged",
+        "Name": "Bourbon barrel aged maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Cinnamon & vanilla infused organic maple syrup, cinnamon & vanilla infused",
+        "Name": "Cinnamon & vanilla infused organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "All natural raspberry syrup, raspberry",
+        "Name": "All natural raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Blackcurrant syrup, blackcurrant",
+        "Name": "Blackcurrant syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7956,7 +7956,7 @@
         }
     },
     {
-        "Name": "Pure cane syrup cinnamon bun, cinnamon bun",
+        "Name": "Pure cane syrup cinnamon bun",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Vanilla sugar-free syrup, vanilla",
+        "Name": "Vanilla sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "Dark robust maple syrup, dark robust",
+        "Name": "Dark robust maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Classic grenadine syrup, classic",
+        "Name": "Classic grenadine syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Yacon syrup, yacon",
+        "Name": "Yacon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "100% pure organic maple syrup, maple",
+        "Name": "100% pure organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Maple vermont organic syrup, maple",
+        "Name": "Maple vermont organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Pomegranate syrup, pomegranate",
+        "Name": "Pomegranate syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8037,7 +8037,7 @@
         }
     },
     {
-        "Name": "Maple brown sugar healthy & delicious hot cereal, maple brown sugar",
+        "Name": "Maple brown sugar healthy & delicious hot cereal",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 39.3,
@@ -8046,7 +8046,7 @@
         }
     },
     {
-        "Name": "Amber color 100% pure maple syrup, amber color",
+        "Name": "Amber color 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Classic hazelnut syrup, classic",
+        "Name": "Classic hazelnut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Very dark color 100% pure maple syrup, very dark color",
+        "Name": "Very dark color 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Merquen infused smoked chili pepper, merquen infused",
+        "Name": "Merquen infused smoked chili pepper",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Cinnamon & vanilla infused maple syrup, cinnamon & vanilla infused",
+        "Name": "Cinnamon & vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup infused with merquen, merquen",
+        "Name": "Organic maple syrup infused with merquen",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Original chocolate syrup, chocolate",
+        "Name": "Original chocolate syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8118,7 +8118,7 @@
         }
     },
     {
-        "Name": "Hazelnut sugar free syrup, hazelnut",
+        "Name": "Hazelnut sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8127,7 +8127,7 @@
         }
     },
     {
-        "Name": "Cane sugar syrup, cane sugar",
+        "Name": "Cane sugar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Very dark color 100 % pure maple syrup, very dark color",
+        "Name": "Very dark color % pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Country rich homestyle syrup product, country rich homestyle",
+        "Name": "Country rich homestyle syrup product",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Original lite syrup, original, lite",
+        "Name": "Original lite syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8163,7 +8163,7 @@
         }
     },
     {
-        "Name": "Butter flavor lites syrup, butter",
+        "Name": "Butter flavor lites syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Butter richs syrup, butter rich",
+        "Name": "Butter richs syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Torani, sugar free syrup, classic caramel, classic caramel",
+        "Name": "Torani, sugar free syrup, classic caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8190,7 +8190,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel-aged vermont organic maple syrup, bourbon barrel-aged",
+        "Name": "Bourbon barrel-aged vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8199,7 +8199,7 @@
         }
     },
     {
-        "Name": "Cinnamon + vanilla infused vermont organic maple syrup, cinnamon + vanilla infused",
+        "Name": "Cinnamon & vanilla infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Whiskey barrel-aged vermont organic maple syrup, whiskey barrel-aged",
+        "Name": "Whiskey barrel-aged vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Madagascar vanilla infused maple syrup, madagascar vanilla infused",
+        "Name": "Madagascar vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Extra buttery flavored syrup, extra buttery",
+        "Name": "Extra buttery flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Cocoa bean infused vermont organic maple syrup, cocoa bean infused",
+        "Name": "Cocoa bean infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Hibiscus flower infused vermont organic maple syrup, hibiscus flower infused",
+        "Name": "Hibiscus flower infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Jasmine tea infused vermont organic maple syrup, jasmine tea infused",
+        "Name": "Jasmine tea infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "Elderberries infused vermont organic maple syrup, elderberries infused",
+        "Name": "Elderberries infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Coffee infused vermont organic maple syrup, coffee infused",
+        "Name": "Coffee infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8280,7 +8280,7 @@
         }
     },
     {
-        "Name": "Cardamom infused vermont organic maple syrup, cardamom infused",
+        "Name": "Cardamom infused vermont organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Mocha swirl creamy syrup, mocha",
+        "Name": "Mocha swirl creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 5.1,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Merquen infused smoked chili pepper vermont's finest maple syrup, merquen infused",
+        "Name": "Merquen infused smoked chili pepper vermonts finest maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "Chocolate flavored sugar-free syrup, chocolate",
+        "Name": "Chocolate flavored sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8316,7 +8316,7 @@
         }
     },
     {
-        "Name": "Strawberry flavored sugar-free syrup, strawberry",
+        "Name": "Strawberry flavored sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Caramel flavored sugar-free syrup, caramel",
+        "Name": "Caramel flavored sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Premium chocolate syrup, chocolate",
+        "Name": "Premium chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Sour cherry syrup, sour cherry",
+        "Name": "Sour cherry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Sugar free brown sugar cinnamon flavoring syrup, brown sugar cinnamon",
+        "Name": "Sugar free brown sugar cinnamon flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Butter pecan flavoring syrup, butter pecan",
+        "Name": "Butter pecan flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Cotton candy snow cone syrup, cotton candy",
+        "Name": "Cotton c&y snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Prickly pear cactus syrup, prickly pear cactus",
+        "Name": "Prickly pear cactus syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Margie's, banana syrup, banana, banana",
+        "Name": "Margies, banana syrup, banana",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "U-bet, fox's, strawberry syrup, strawberry, strawberry",
+        "Name": "U-bet, foxs, strawberry syrup, strawberry",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8433,7 +8433,7 @@
         }
     },
     {
-        "Name": "Chocolate organic syrup, chocolate",
+        "Name": "Chocolate organic syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Cracovia, raspberry syrup, raspberry, raspberry",
+        "Name": "Cracovia, raspberry syrup, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Shoprite, sugar free syrup, chocolate, chocolate",
+        "Name": "Shoprite, sugar free syrup, chocolate",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.0,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Clear value, syrup, chocolate, chocolate",
+        "Name": "Clear value, syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Food lion, syrup, chocolate, chocolate",
+        "Name": "Food lion, syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Millcroft farms company, fruit syrup, strawberry, strawberry",
+        "Name": "Millcroft farms company, fruit syrup, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Lowes foods, syrup, chocolate, chocolate",
+        "Name": "Lowes foods, syrup, chocolate",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Syrup, cola #6",
+        "Name": "Syrup, cola",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Syrups, cola #6",
+        "Name": "Syrups, cola",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Real, infused syrup, strawberry, strawberry",
+        "Name": "Real, infused syrup, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Original chocolate flavor syrup, chocolate",
+        "Name": "Original chocolate flavor syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Molasses, pomegranate ",
+        "Name": "Molasses, pomegranate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Kozlowski farms, sonoma county classics, syrup & sauce, red raspberry, red raspberry",
+        "Name": "Kozlowski farms, sonoma county classics, syrup & sauce, red raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Kozlowski farms, sonoma county classics, blackberry syrup & sauce, blackberry syrup & sauce, blackberry syrup & sauce",
+        "Name": "Kozlowski farms, sonoma county classics, blackberry syrup & sauce, blackberry syrup & sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Torani, flavoring syrup, sugar free, french vanilla, french vanilla",
+        "Name": "Torani, flavoring syrup, sugar free, french vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Log cabin, syrup, vanilla, vanilla",
+        "Name": "Log cabin, syrup, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Torani, flavoring syrup, gingerbread, gingerbread",
+        "Name": "Torani, flavoring syrup, gingerbread",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Cary's, american diabetes association, sugar free low calorie syrup, maple, maple",
+        "Name": "Carys, american diabetes association, sugar free low calorie syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Fifty50, fructose sweetened syrup, maple, maple",
+        "Name": "Fructose sweetened syrup, maple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Dark maple syrup, dark maple",
+        "Name": "Dark maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Salted caramel syrup, salted caramel",
+        "Name": "Salted caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "Sugar free roasted pecan flavored syrup, roasted pecan",
+        "Name": "Sugar free roasted pecan flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice syrup, pumpkin spice",
+        "Name": "Pumpkin spice syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Apple pie syrup, apple pie",
+        "Name": "Apple pie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Maple vanilla monk fruit sweetened pancake syrup, maple vanilla",
+        "Name": "Maple vanilla monk fruit sweetened pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Honey & corn little bear blend syrup, honey & corn",
+        "Name": "Honey & corn little bear blend syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Tropical, syrup, butter, butter",
+        "Name": "Tropical, syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Vanilla flavoured syrup, vanilla",
+        "Name": "Vanilla flavoured syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "Coconut flavoured syrup, coconut",
+        "Name": "Coconut flavoured syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "Caramel flavoured sugar-free syrup, caramel",
+        "Name": "Caramel flavoured sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored sugar-free syrup, vanilla",
+        "Name": "Vanilla flavored sugar-free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Morning delight, syrup, original, original",
+        "Name": "Morning delight, syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "The original cane syrup, cane",
+        "Name": "The original cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Hazelnut flavored syrup, hazelnut",
+        "Name": "Hazelnut flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Syrup, chocolate and cinnamon",
+        "Name": "Syrup, chocolate & cinnamon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Butter rich flavor syrup, butter rich",
+        "Name": "Butter rich flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Original lite syrup, original lite",
+        "Name": "Original lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Raspberry flavoured syrup, raspberry",
+        "Name": "Raspberry flavoured syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored syrup, vanilla",
+        "Name": "Vanilla flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Mocha flavored sauce, mocha",
+        "Name": "Mocha flavored sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 1.7,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Country rich lite syrup, country rich lite",
+        "Name": "Country rich lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Maple organic syrup, maple",
+        "Name": "Maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged organic maple syrup, bourbon barrel aged",
+        "Name": "Bourbon barrel aged organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Vanilla infused organic maple syrup, vanilla infused",
+        "Name": "Vanilla infused organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Sarsaparilla syup, sarsaparilla",
+        "Name": "Sarsaparilla syup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Cinnamon vanilla organic infused maple syrup, cinnamon vanilla",
+        "Name": "Cinnamon vanilla organic infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Cinnamon peach syrup, cinnamon peach",
+        "Name": "Cinnamon peach syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Syrup with chocolate and cinnamon flavor, chocolate and cinnamon",
+        "Name": "Syrup with chocolate & cinnamon flavor",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Spicy sauce, spicy",
+        "Name": "Spicy sauce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Sweet & sour syrup, sweet & sour",
+        "Name": "Sweet & sour syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Maple madness pancakes syrup, maple madness",
+        "Name": "Maple madness pancakes syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Jamaican coconut syrup, jamaican",
+        "Name": "Jamaican coconut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Blueberry bomb pancake syrup, blueberry bomb",
+        "Name": "Blueberry bomb pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9000,7 +9000,7 @@
         }
     },
     {
-        "Name": "Pumpkin pie flavored syrup, pumpkin pie",
+        "Name": "Pumpkin pie flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "Sorrel ginger jamaican syrup, sorrel ginger",
+        "Name": "Sorrel ginger jamaican syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "100% pure maple syrup ",
+        "Name": "100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9045,7 +9045,7 @@
         }
     },
     {
-        "Name": "Cinamon maple pancake syrup ",
+        "Name": "Cinamon maple pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9072,7 +9072,7 @@
         }
     },
     {
-        "Name": "Smucker's, triple berry syrup",
+        "Name": "Smuckers, triple berry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9081,7 +9081,7 @@
         }
     },
     {
-        "Name": "Sugar free chocolate flavored syrup, chocolate",
+        "Name": "Sugar free chocolate flavored syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 2.6,
@@ -9108,7 +9108,7 @@
         }
     },
     {
-        "Name": "Original pancake syrup ",
+        "Name": "Original pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Smucker's, blackberry syrup",
+        "Name": "Smuckers, blackberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9126,7 +9126,7 @@
         }
     },
     {
-        "Name": "Hungry jack, breakfast syrup, butter, butter",
+        "Name": "Hungry jack, breakfast syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9153,7 +9153,7 @@
         }
     },
     {
-        "Name": "Strawberry flavored sundae syrup, strawberry",
+        "Name": "Strawberry flavored sundae syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9171,7 +9171,7 @@
         }
     },
     {
-        "Name": "Hungry jack, flavored syrup, cinnamon & brown sugar, cinnamon & brown sugar",
+        "Name": "Hungry jack, flavored syrup, cinnamon & brown sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Chocolate milk, fruits & desserts, hot chocolate syrup, chocolate milk, fruits & desserts, hot chocolate",
+        "Name": "Chocolate milk, fruits & desserts, hot chocolate syrup, chocolate milk, fruits & desserts",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9207,7 +9207,7 @@
         }
     },
     {
-        "Name": "Simply 5 syrup, genuine chocolate",
+        "Name": "Simply syrup, genuine chocolate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9234,7 +9234,7 @@
         }
     },
     {
-        "Name": "Sundae dream thick and delicious caramel syrup",
+        "Name": "Sundae dream thick & delicious caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9243,7 +9243,7 @@
         }
     },
     {
-        "Name": "Hershey's, double chocolate syrup",
+        "Name": "Hersheys, double chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Pure michigan maple syrup ",
+        "Name": "Pure michigan maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Genuine chocolate syrup, genuine chocolate",
+        "Name": "Genuine chocolate syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9270,7 +9270,7 @@
         }
     },
     {
-        "Name": "Wild maine blueberry syrup, wild maine blueberry",
+        "Name": "Wild maine blueberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9279,7 +9279,7 @@
         }
     },
     {
-        "Name": "Great value, flavored syrup, chocolate, chocolate",
+        "Name": "Great value, flavored syrup, chocolate",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.0,
@@ -9306,7 +9306,7 @@
         }
     },
     {
-        "Name": "100% pure maple organic syrup, maple",
+        "Name": "100% pure maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9315,7 +9315,7 @@
         }
     },
     {
-        "Name": "Lite butter flavored syrup, lite butter",
+        "Name": "Lite butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9324,7 +9324,7 @@
         }
     },
     {
-        "Name": "Light reduced calorie syrup, light",
+        "Name": "Light reduced calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9333,7 +9333,7 @@
         }
     },
     {
-        "Name": "100% pure maple syrup, pure maple",
+        "Name": "100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9342,7 +9342,7 @@
         }
     },
     {
-        "Name": "Maple praline organic flavored syrup, maple praline",
+        "Name": "Maple praline organic flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9351,7 +9351,7 @@
         }
     },
     {
-        "Name": "100% pure maple organic syrup, pure maple",
+        "Name": "100% pure maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9369,7 +9369,7 @@
         }
     },
     {
-        "Name": "Pure maple organic syrup, maple",
+        "Name": "Pure maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9378,7 +9378,7 @@
         }
     },
     {
-        "Name": "Pure maple organic syrup, pure maple",
+        "Name": "Pure maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9396,7 +9396,7 @@
         }
     },
     {
-        "Name": "Apple butter syrup, apple butter",
+        "Name": "Apple butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9405,7 +9405,7 @@
         }
     },
     {
-        "Name": "Wisconsin pure maple syrup, maple",
+        "Name": "Wisconsin pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9414,7 +9414,7 @@
         }
     },
     {
-        "Name": "Sugar free caramel syrup, caramel",
+        "Name": "Sugar free caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9423,7 +9423,7 @@
         }
     },
     {
-        "Name": "Strawberry rose infused maple syrup, strawberry rose infused",
+        "Name": "Strawberry rose infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9432,7 +9432,7 @@
         }
     },
     {
-        "Name": "Chocolate flavored sugar free low calorie syrup, chocolate",
+        "Name": "Chocolate flavored sugar free low calorie syrup",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.0,
@@ -9441,7 +9441,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon syrup, apple cinnamon",
+        "Name": "Apple cinnamon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9450,7 +9450,7 @@
         }
     },
     {
-        "Name": "Grapefruit basil simple syrup, grapefruit basil",
+        "Name": "Grapefruit basil simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9468,7 +9468,7 @@
         }
     },
     {
-        "Name": "Spartan, rich & thick syrup, original, original",
+        "Name": "Spartan, rich & thick syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "Name": "Spartan, rich & thick syrup, lite butter, lite butter",
+        "Name": "Spartan, rich & thick syrup, lite butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9495,7 +9495,7 @@
         }
     },
     {
-        "Name": "Pure michigan maple syrup, pure michigan maple",
+        "Name": "Pure michigan maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9504,7 +9504,7 @@
         }
     },
     {
-        "Name": "Four seasons gourmet foods, fresh syrup, strawberry, strawberry",
+        "Name": "Four seasons gourmet foods, fresh syrup, strawberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9513,7 +9513,7 @@
         }
     },
     {
-        "Name": "Roundy's, syrup, butter lite, butter lite",
+        "Name": "Roundys, syrup, butter lite",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Orange syrup, orange",
+        "Name": "Orange syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9549,7 +9549,7 @@
         }
     },
     {
-        "Name": "Lemon syrup, lemon",
+        "Name": "Lemon syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9558,7 +9558,7 @@
         }
     },
     {
-        "Name": "Blackberry syrup, blackberry",
+        "Name": "Blackberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9567,7 +9567,7 @@
         }
     },
     {
-        "Name": "Prickly pear syrup, prickly pear",
+        "Name": "Prickly pear syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9576,7 +9576,7 @@
         }
     },
     {
-        "Name": "Syrup, cotton candy",
+        "Name": "Syrup, cotton c&y",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9594,7 +9594,7 @@
         }
     },
     {
-        "Name": "New england wild blueberry syrup, new england wild blueberry",
+        "Name": "New engl& wild blueberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9603,7 +9603,7 @@
         }
     },
     {
-        "Name": "Hand-crafted syrup, hibiscus rooibos",
+        "Name": "H&-crafted syrup, hibiscus rooibos",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9648,7 +9648,7 @@
         }
     },
     {
-        "Name": "Maple blues wild maine blueberry & maine maple syrup, maple blues",
+        "Name": "Maple blues wild maine blueberry & maine maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9657,7 +9657,7 @@
         }
     },
     {
-        "Name": "Hazelnut flavored gourmet syrups, hazelnut",
+        "Name": "Hazelnut flavored gourmet syrups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9675,7 +9675,7 @@
         }
     },
     {
-        "Name": "Cane syrup, cane syrup",
+        "Name": "Cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9693,7 +9693,7 @@
         }
     },
     {
-        "Name": "100% pure vermont maple syrup, pure vermont maple",
+        "Name": "100% pure vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9702,7 +9702,7 @@
         }
     },
     {
-        "Name": "Roundy's, original syrup, original, original",
+        "Name": "Roundys, original syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9729,7 +9729,7 @@
         }
     },
     {
-        "Name": "Dark amber maple syrup, dark amber maple",
+        "Name": "Dark amber maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Hawaiian punch flavored snow cone syrup, hawaiian punch",
+        "Name": "Hawaiian punch flavored snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9747,7 +9747,7 @@
         }
     },
     {
-        "Name": "Hawaiian punch, snow cone syrup, beery blue typhoon, beery blue typhoon",
+        "Name": "Hawaiian punch, snow cone syrup, beery blue typhoon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9882,7 +9882,7 @@
         }
     },
     {
-        "Name": "Wild cherry snow cone syrup, wild cherry",
+        "Name": "Wild cherry snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9900,7 +9900,7 @@
         }
     },
     {
-        "Name": "Honey maple syrup blend, honey",
+        "Name": "Honey maple syrup blend",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9909,7 +9909,7 @@
         }
     },
     {
-        "Name": "Light chocolate flavored syrup, light chocolate",
+        "Name": "Light chocolate flavored syrup",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.0,
@@ -9918,7 +9918,7 @@
         }
     },
     {
-        "Name": "Date honey syrup, honey",
+        "Name": "Date honey syrup",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 0.0,
@@ -9927,7 +9927,7 @@
         }
     },
     {
-        "Name": "Original chocolate flavored syrup, chocolate",
+        "Name": "Original chocolate flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9936,7 +9936,7 @@
         }
     },
     {
-        "Name": "Mint julep simple syrup, mint julep",
+        "Name": "Mint julep simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9945,7 +9945,7 @@
         }
     },
     {
-        "Name": "Premium 2% maple syrup, maple",
+        "Name": "Premium 2% maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9954,7 +9954,7 @@
         }
     },
     {
-        "Name": "Rich'n buttery artificial butter flavored syrup, rich'n buttery",
+        "Name": "Rich& buttery artificial butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9963,7 +9963,7 @@
         }
     },
     {
-        "Name": "Raspberry syrup, raspberry",
+        "Name": "Raspberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9981,7 +9981,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel maple syrup, bourbon barrel",
+        "Name": "Bourbon barrel maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9990,7 +9990,7 @@
         }
     },
     {
-        "Name": "Old fashioned lemonade organic soda syrup, old fashioned lemonade",
+        "Name": "Old fashioned lemonade organic soda syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10008,7 +10008,7 @@
         }
     },
     {
-        "Name": "Genuine maple syrup, maple",
+        "Name": "Genuine maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10017,7 +10017,7 @@
         }
     },
     {
-        "Name": "Mango infused syrup with premium mangoes, mango",
+        "Name": "Mango infused syrup with premium mangoes",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10026,7 +10026,7 @@
         }
     },
     {
-        "Name": "Elderberry syrup, elderberry",
+        "Name": "Elderberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10035,7 +10035,7 @@
         }
     },
     {
-        "Name": "Sweet chai maple syrup infused with cardamom & ginger, cardamom & ginger",
+        "Name": "Sweet chai maple syrup infused with cardamom & ginger",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10062,7 +10062,7 @@
         }
     },
     {
-        "Name": "Very dark, strong organic maple syrup, very dark, strong",
+        "Name": "Very dark, strong organic maple syrup, very dark",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10080,7 +10080,7 @@
         }
     },
     {
-        "Name": "Maple flavored organic pancake syrup, maple",
+        "Name": "Maple flavored organic pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10089,7 +10089,7 @@
         }
     },
     {
-        "Name": "Tiger's blood snow cone syrup, tiger's blood",
+        "Name": "Tigers blood snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10098,7 +10098,7 @@
         }
     },
     {
-        "Name": "Cherry snow cone syrup, cherry16",
+        "Name": "Cherry snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10107,7 +10107,7 @@
         }
     },
     {
-        "Name": "Blue raspberry snow cone syrup, blue raspberry",
+        "Name": "Blue raspberry snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10116,7 +10116,7 @@
         }
     },
     {
-        "Name": "Organic maple syrup, organic maple",
+        "Name": "Organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10125,7 +10125,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie, chocolate chip",
+        "Name": "Chocolate chip cookie",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10134,7 +10134,7 @@
         }
     },
     {
-        "Name": "Pecan turtle delight cookie syrup, pecan turtle delight cookie",
+        "Name": "Pecan turtle delight cookie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10152,7 +10152,7 @@
         }
     },
     {
-        "Name": "Cocoa organic medjool date syrup, cocoa",
+        "Name": "Cocoa organic medjool date syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10161,7 +10161,7 @@
         }
     },
     {
-        "Name": "Cinnamon organic medjool date syrup, cinnamon",
+        "Name": "Cinnamon organic medjool date syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10170,7 +10170,7 @@
         }
     },
     {
-        "Name": "Sweet autumn maple syrup, sweet autumn maple",
+        "Name": "Sweet autumn maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10179,7 +10179,7 @@
         }
     },
     {
-        "Name": "Sweet ginger maple syrup, sweet ginger maple",
+        "Name": "Sweet ginger maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10188,7 +10188,7 @@
         }
     },
     {
-        "Name": "Sweet heat maple syrup, sweet heat maple",
+        "Name": "Sweet heat maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10197,7 +10197,7 @@
         }
     },
     {
-        "Name": "Golden color maple syrup, golden color maple",
+        "Name": "Golden color maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10206,7 +10206,7 @@
         }
     },
     {
-        "Name": "Dark color maple syrup, dark color maple",
+        "Name": "Dark color maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10215,7 +10215,7 @@
         }
     },
     {
-        "Name": "Cotton candy flavored snow cone syrup, cotton candy",
+        "Name": "Cotton c&y flavored snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10233,7 +10233,7 @@
         }
     },
     {
-        "Name": "Organic, maple syrup, maple",
+        "Name": "Organic, maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10242,7 +10242,7 @@
         }
     },
     {
-        "Name": "Flavorganics, syrup, french vanilla, french vanilla",
+        "Name": "Flavorganics, syrup, french vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10251,7 +10251,7 @@
         }
     },
     {
-        "Name": "Flavorganics, syrup, hazelnut, hazelnut",
+        "Name": "Flavorganics, syrup, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10287,7 +10287,7 @@
         }
     },
     {
-        "Name": "Alaga, the original cane flavor syrup, cane, cane",
+        "Name": "Alaga, the original cane flavor syrup, cane",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10296,7 +10296,7 @@
         }
     },
     {
-        "Name": "Shoprite, maple syrup, dark amber, dark amber",
+        "Name": "Shoprite, maple syrup, dark amber",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10305,7 +10305,7 @@
         }
     },
     {
-        "Name": "Pure vermont maple organic syrup, pure vermont maple",
+        "Name": "Pure vermont maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10323,7 +10323,7 @@
         }
     },
     {
-        "Name": "Chocolate flavor syrup, chocolate",
+        "Name": "Chocolate flavor syrup",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -10386,7 +10386,7 @@
         }
     },
     {
-        "Name": "Green apple syrup, green apple",
+        "Name": "Green apple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10449,7 +10449,7 @@
         }
     },
     {
-        "Name": "Great river maple, organic pure maple syrup, rich taste, rich taste",
+        "Name": "Great river maple, organic pure maple syrup, rich taste",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10458,7 +10458,7 @@
         }
     },
     {
-        "Name": "Mama's choice, premium blackberry syrup, blackberry, blackberry",
+        "Name": "Mamas choice, premium blackberry syrup, blackberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10530,7 +10530,7 @@
         }
     },
     {
-        "Name": "Sugar - free original syrup, original",
+        "Name": "Sugar - free original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10539,7 +10539,7 @@
         }
     },
     {
-        "Name": "Lite butter flavored syrup, butter",
+        "Name": "Lite butter flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10548,7 +10548,7 @@
         }
     },
     {
-        "Name": "Lite original syrup, original",
+        "Name": "Lite original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10557,7 +10557,7 @@
         }
     },
     {
-        "Name": "Mrs. schlorer's, golden table syrup, turkey, turkey",
+        "Name": "Mrs. schlorers, golden table syrup, turkey",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10566,7 +10566,7 @@
         }
     },
     {
-        "Name": "Morning delight, syrup, buttery rich, buttery rich",
+        "Name": "Morning delight, syrup, buttery rich",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10575,7 +10575,7 @@
         }
     },
     {
-        "Name": "My essentials, pancake syrup, butter, butter",
+        "Name": "My essentials, pancake syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10584,7 +10584,7 @@
         }
     },
     {
-        "Name": "Shoprite, flovered syrup, butter, butter",
+        "Name": "Shoprite, flovered syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10602,7 +10602,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, zero calorie hazelnut syrup, hazelnut, hazelnut",
+        "Name": "Davinci gourmet, zero calorie hazelnut syrup, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10611,7 +10611,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, zero calorie syrup, raspberry, raspberry",
+        "Name": "Davinci gourmet, zero calorie syrup, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10620,7 +10620,7 @@
         }
     },
     {
-        "Name": "Finest call, premium triple sec syrup, orange, orange",
+        "Name": "Finest call, premium triple sec syrup, orange",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10629,7 +10629,7 @@
         }
     },
     {
-        "Name": "Ihop at home, syrup, original, original",
+        "Name": "Ihop at home, syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10638,7 +10638,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored syrup, vanilla",
+        "Name": "French vanilla flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10647,7 +10647,7 @@
         }
     },
     {
-        "Name": "Lowes foods, syrup, butter, butter",
+        "Name": "Lowes foods, syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10665,7 +10665,7 @@
         }
     },
     {
-        "Name": "Raspberry flavoring syrup, raspberry",
+        "Name": "Raspberry flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10674,7 +10674,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic raspberry syrup, raspberry, raspberry",
+        "Name": "Davinci gourmet, classic raspberry syrup, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10683,7 +10683,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic peppermint syrup, peppermint, peppermint",
+        "Name": "Davinci gourmet, classic peppermint syrup, peppermint",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10692,7 +10692,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, sugar free syrup, original hazelnut, original hazelnut",
+        "Name": "Davinci gourmet, sugar free syrup, original hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10701,7 +10701,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, sugar free caramel syrup, caramel, caramel",
+        "Name": "Davinci gourmet, sugar free caramel syrup, caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10710,7 +10710,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, sugar free vanilla syrup, vanilla, vanilla",
+        "Name": "Davinci gourmet, sugar free vanilla syrup, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10719,7 +10719,7 @@
         }
     },
     {
-        "Name": "Davinci gourmet, classic cinnamon syrup, cinnamon, cinnamon",
+        "Name": "Davinci gourmet, classic cinnamon syrup, cinnamon",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10764,7 +10764,7 @@
         }
     },
     {
-        "Name": "Darbo, fruit syrup, black currant, black currant",
+        "Name": "Darbo, fruit syrup, black currant",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10791,7 +10791,7 @@
         }
     },
     {
-        "Name": "Sugar free caramel flavored syrup, caramel",
+        "Name": "Sugar free caramel flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10800,7 +10800,7 @@
         }
     },
     {
-        "Name": "Food lion, syrup, butter, butter",
+        "Name": "Food lion, syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10818,7 +10818,7 @@
         }
     },
     {
-        "Name": "Winco foods, lite syrup, butter, butter",
+        "Name": "Winco foods, lite syrup, butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10827,7 +10827,7 @@
         }
     },
     {
-        "Name": "America's northwest, syrup, marion blackberry, marion blackberry",
+        "Name": "Americas northwest, syrup, marion blackberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10836,7 +10836,7 @@
         }
     },
     {
-        "Name": "Torani, flavoring syrup, raspberry, raspberry",
+        "Name": "Torani, flavoring syrup, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10845,7 +10845,7 @@
         }
     },
     {
-        "Name": "Winco foods, syrup, original, original",
+        "Name": "Winco foods, syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10854,7 +10854,7 @@
         }
     },
     {
-        "Name": "Winco foods, lite syrup, original, original",
+        "Name": "Winco foods, lite syrup, original",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10863,7 +10863,7 @@
         }
     },
     {
-        "Name": "Torani, classic flavoring syrup, hazelnut, hazelnut",
+        "Name": "Torani, classic flavoring syrup, hazelnut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10872,7 +10872,7 @@
         }
     },
     {
-        "Name": "Torani, classic caramel syrup, caramel, caramel",
+        "Name": "Torani, classic caramel syrup, caramel",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10881,7 +10881,7 @@
         }
     },
     {
-        "Name": "Lopez island farm, marionberry syrup, marionberry, marionberry",
+        "Name": "Lopez isl& farm, marionberry syrup, marionberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10890,7 +10890,7 @@
         }
     },
     {
-        "Name": "Monin, premium gourmet syrup, almond, almond",
+        "Name": "Monin, premium gourmet syrup, almond",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10899,7 +10899,7 @@
         }
     },
     {
-        "Name": "Torani, flavoring syrup, white chocolate, white chocolate",
+        "Name": "Torani, flavoring syrup, white chocolate",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -10917,7 +10917,7 @@
         }
     },
     {
-        "Name": "Wholesome sweeteners, light corn syrup, vanilla, vanilla",
+        "Name": "Wholesome sweeteners, light corn syrup, vanilla",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11052,7 +11052,7 @@
         }
     },
     {
-        "Name": "Santa cruz organic, chocolate syrup, chocolate, chocolate",
+        "Name": "Santa cruz organic, chocolate syrup, chocolate",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -11151,7 +11151,7 @@
         }
     },
     {
-        "Name": "Blackberry patch, sugar free syrup, raspberry, raspberry",
+        "Name": "Blackberry patch, sugar free syrup, raspberry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11178,7 +11178,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough syrup, chocolate chip cookie dough",
+        "Name": "Chocolate chip cookie dough syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11187,7 +11187,7 @@
         }
     },
     {
-        "Name": "S'mores flavoring syrup, s'mores",
+        "Name": "Smores flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11205,7 +11205,7 @@
         }
     },
     {
-        "Name": "Chocolate macadamia nut syrup, chocolate",
+        "Name": "Chocolate macadamia nut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11214,7 +11214,7 @@
         }
     },
     {
-        "Name": "Salted caramel pancake & waffle syrup, salted caramel",
+        "Name": "Salted caramel pancake & waffle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11223,7 +11223,7 @@
         }
     },
     {
-        "Name": "Peanut butter flavored sugar free syrup, peanut butter",
+        "Name": "Peanut butter flavored sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11232,7 +11232,7 @@
         }
     },
     {
-        "Name": "Psycho strawberry pancake syrup, psycho strawberry",
+        "Name": "Psycho strawberry pancake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11241,7 +11241,7 @@
         }
     },
     {
-        "Name": "Salted chocolate caramel flavored puremade sauce, salted chocolate caramel",
+        "Name": "Salted chocolate caramel flavored puremade sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -11250,7 +11250,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored coffee syrup, vanilla",
+        "Name": "Vanilla flavored coffee syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11259,7 +11259,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored sugar free coffee syrup, vanilla",
+        "Name": "Vanilla flavored sugar free coffee syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11268,7 +11268,7 @@
         }
     },
     {
-        "Name": "Classic hazelnut sugar free syrup, classic hazelnut",
+        "Name": "Classic hazelnut sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11277,7 +11277,7 @@
         }
     },
     {
-        "Name": "Classic caramel syrup, classic caramel",
+        "Name": "Classic caramel syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11286,7 +11286,7 @@
         }
     },
     {
-        "Name": "Golden maple organic syrup, golden maple",
+        "Name": "Golden maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11295,7 +11295,7 @@
         }
     },
     {
-        "Name": "Amber maple organic syrup, amber maple",
+        "Name": "Amber maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11304,7 +11304,7 @@
         }
     },
     {
-        "Name": "Lite original sugar free syrup, lite original",
+        "Name": "Lite original sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11313,7 +11313,7 @@
         }
     },
     {
-        "Name": "Cheeky tart cherry elderberry syrup, cheeky tart cherry",
+        "Name": "Cheeky tart cherry elderberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11322,7 +11322,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavoring sugar free syrup, pumpkin spice",
+        "Name": "Pumpkin spice flavoring sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11331,7 +11331,7 @@
         }
     },
     {
-        "Name": "Maple flavored allulose syrup, maple",
+        "Name": "Maple flavored allulose syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11340,7 +11340,7 @@
         }
     },
     {
-        "Name": "Cinnamon & brown sugar flavored syrup, cinnamon & brown sugar",
+        "Name": "Cinnamon & brown sugar flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11349,7 +11349,7 @@
         }
     },
     {
-        "Name": "Peppermint syrup, peppermint",
+        "Name": "Peppermint syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11358,7 +11358,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavoring syrup, pumpkin spice",
+        "Name": "Pumpkin spice flavoring syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11367,7 +11367,7 @@
         }
     },
     {
-        "Name": "Cookies & cream flavored puremade sauce, cookies & cream",
+        "Name": "Cookies & cream flavored puremade sauce",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -11376,7 +11376,7 @@
         }
     },
     {
-        "Name": "Chocolate hazelnut flavored puremade sauce, chocolate hazelnut",
+        "Name": "Chocolate hazelnut flavored puremade sauce",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -11385,7 +11385,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavored syrup, pumpkin spice",
+        "Name": "Pumpkin spice flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11394,7 +11394,7 @@
         }
     },
     {
-        "Name": "Bold ginger elderberry syrup, bold ginger",
+        "Name": "Bold ginger elderberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11403,7 +11403,7 @@
         }
     },
     {
-        "Name": "Sassy cinnamon elderberry syrup, sassy cinnamon",
+        "Name": "Sassy cinnamon elderberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11412,7 +11412,7 @@
         }
     },
     {
-        "Name": "Country rich syrup, country rich",
+        "Name": "Country rich syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11421,7 +11421,7 @@
         }
     },
     {
-        "Name": "Rich & robust flavor pure maple syrup, rich & robust",
+        "Name": "Rich & robust flavor pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11430,7 +11430,7 @@
         }
     },
     {
-        "Name": "Pineapple bourbon ham glaze, pineapple bourbon",
+        "Name": "Pineapple bourbon ham glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11439,7 +11439,7 @@
         }
     },
     {
-        "Name": "San saba pecan drizzle & syrup, san saba pecan",
+        "Name": "San saba pecan drizzle & syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.8,
@@ -11448,7 +11448,7 @@
         }
     },
     {
-        "Name": "100% pure maple syrup, 100% pure maple",
+        "Name": "100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11457,7 +11457,7 @@
         }
     },
     {
-        "Name": "Birthday cake glitter syrup, birthday cake",
+        "Name": "Birthday cake glitter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11466,7 +11466,7 @@
         }
     },
     {
-        "Name": "Toffee nut sugar free syrup, toffee nut",
+        "Name": "Toffee nut sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11475,7 +11475,7 @@
         }
     },
     {
-        "Name": "French toast syrup, french toast",
+        "Name": "French toast syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11484,7 +11484,7 @@
         }
     },
     {
-        "Name": "Fruity pebbles flavored syrup, fruity pebbles",
+        "Name": "Fruity pebbles flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11493,7 +11493,7 @@
         }
     },
     {
-        "Name": "Maple syrup with sparkles, maple",
+        "Name": "Maple syrup with sparkles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11502,7 +11502,7 @@
         }
     },
     {
-        "Name": "Amber organic maple syrup, amber",
+        "Name": "Amber organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11511,7 +11511,7 @@
         }
     },
     {
-        "Name": "Sugar-free simple syrup, sugar-free simple",
+        "Name": "Sugar-free simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11520,7 +11520,7 @@
         }
     },
     {
-        "Name": "Salted caramel flavored syrup, salted caramel",
+        "Name": "Salted caramel flavored syrup",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 0.0,
@@ -11529,7 +11529,7 @@
         }
     },
     {
-        "Name": "Blackberry puree infused syrup, blackberry puree",
+        "Name": "Blackberry puree infused syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11538,7 +11538,7 @@
         }
     },
     {
-        "Name": "Blackstrap molasses, blackstrap",
+        "Name": "Blackstrap molasses",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11547,7 +11547,7 @@
         }
     },
     {
-        "Name": "Maraschino flavored syrup, maraschino",
+        "Name": "Maraschino flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11556,7 +11556,7 @@
         }
     },
     {
-        "Name": "Raspberry fruit syrup, raspberry fruit",
+        "Name": "Raspberry fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11565,7 +11565,7 @@
         }
     },
     {
-        "Name": "Dark corn syrup, dark",
+        "Name": "Dark corn syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11574,7 +11574,7 @@
         }
     },
     {
-        "Name": "Pure maple syrup dark color robust taste, maple syrup",
+        "Name": "Pure maple syrup dark color robust taste",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11583,7 +11583,7 @@
         }
     },
     {
-        "Name": "Maple flavored zero sugar allulose syrup, maple",
+        "Name": "Maple flavored zero sugar allulose syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11592,7 +11592,7 @@
         }
     },
     {
-        "Name": "Simple syrup, simple",
+        "Name": "Simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11601,7 +11601,7 @@
         }
     },
     {
-        "Name": "Maple flavored sugar free stevia syrup, maple",
+        "Name": "Maple flavored sugar free stevia syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11610,7 +11610,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored zero sugar stevia syrup, blueberry",
+        "Name": "Blueberry flavored zero sugar stevia syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11619,7 +11619,7 @@
         }
     },
     {
-        "Name": "Sorrel ginger syrup, sorrel ginger",
+        "Name": "Sorrel ginger syrup",
         "Nutrients": {
             "Protein": 0.2,
             "Fat": 0.0,
@@ -11628,7 +11628,7 @@
         }
     },
     {
-        "Name": "Orange pineapple syrup, orange pineapple",
+        "Name": "Orange pineapple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11637,7 +11637,7 @@
         }
     },
     {
-        "Name": "Jamaican cranberry flavored syrup, jamaican cranberry",
+        "Name": "Jamaican cranberry flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11646,7 +11646,7 @@
         }
     },
     {
-        "Name": "Sugar cane syrup, sugar cane",
+        "Name": "Sugar cane syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11655,7 +11655,7 @@
         }
     },
     {
-        "Name": "Kola champagne flavoured bulk syrup, kola champagne",
+        "Name": "Kola champagne flavoured bulk syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11664,7 +11664,7 @@
         }
     },
     {
-        "Name": "Organic dark maple syrup, maple",
+        "Name": "Organic dark maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11673,7 +11673,7 @@
         }
     },
     {
-        "Name": "True grenadine syrup, true grenadine",
+        "Name": "True grenadine syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11682,7 +11682,7 @@
         }
     },
     {
-        "Name": "True ginger syrup, true ginger",
+        "Name": "True ginger syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11691,7 +11691,7 @@
         }
     },
     {
-        "Name": "True rich simple syrup, true rich",
+        "Name": "True rich simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11700,7 +11700,7 @@
         }
     },
     {
-        "Name": "Yacon premium syrup, yacon",
+        "Name": "Yacon premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11709,7 +11709,7 @@
         }
     },
     {
-        "Name": "Cardamom syrup, cardamom",
+        "Name": "Cardamom syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11718,7 +11718,7 @@
         }
     },
     {
-        "Name": "Sea salt caramel flavored syrup, sea salt caramel",
+        "Name": "Sea salt caramel flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11727,7 +11727,7 @@
         }
     },
     {
-        "Name": "Coffee flavored syrup, coffee",
+        "Name": "Coffee flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11736,7 +11736,7 @@
         }
     },
     {
-        "Name": "Original cane flavor syrup, original cane",
+        "Name": "Original cane flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11745,7 +11745,7 @@
         }
     },
     {
-        "Name": "Apple butter, apple",
+        "Name": "Apple butter",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11754,7 +11754,7 @@
         }
     },
     {
-        "Name": "Nustevia pourable vanilla syrup, vanilla",
+        "Name": "Nustevia pourable vanilla syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11763,7 +11763,7 @@
         }
     },
     {
-        "Name": "100% pure maple organic syrup, 100% pure maple",
+        "Name": "100% pure maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11772,7 +11772,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll flavored syrup, cinnamon roll",
+        "Name": "Cinnamon roll flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11781,7 +11781,7 @@
         }
     },
     {
-        "Name": "Barrel-aged organic maple syrup, barrel-aged",
+        "Name": "Barrel-aged organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11790,7 +11790,7 @@
         }
     },
     {
-        "Name": "Fulflavor chocolate fountain & shake syrup, fulflavor chocolate",
+        "Name": "Fulflavor chocolate fountain & shake syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -11799,7 +11799,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored fountain & shake syrup, vanilla",
+        "Name": "Vanilla flavored fountain & shake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11808,7 +11808,7 @@
         }
     },
     {
-        "Name": "Root beer flavored syrup, root beer",
+        "Name": "Root beer flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11817,7 +11817,7 @@
         }
     },
     {
-        "Name": "Simple fountain & shake syrup, simple",
+        "Name": "Simple fountain & shake syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11826,7 +11826,7 @@
         }
     },
     {
-        "Name": "Mocha flavored swirl creamy syrup, mocha",
+        "Name": "Mocha flavored swirl creamy syrup",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 10.3,
@@ -11835,7 +11835,7 @@
         }
     },
     {
-        "Name": "Caramel flavored swirl creamy syrup, caramel",
+        "Name": "Caramel flavored swirl creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 15.4,
@@ -11844,7 +11844,7 @@
         }
     },
     {
-        "Name": "Vanilla flavored swirl creamy syrup, vanilla",
+        "Name": "Vanilla flavored swirl creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 12.8,
@@ -11853,7 +11853,7 @@
         }
     },
     {
-        "Name": "Hazelnut flavored swirl creamy syrup, hazelnut",
+        "Name": "Hazelnut flavored swirl creamy syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 15.4,
@@ -11862,7 +11862,7 @@
         }
     },
     {
-        "Name": "Spicy blackberry wine glaze, spicy blackberry",
+        "Name": "Spicy blackberry wine glaze",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11871,7 +11871,7 @@
         }
     },
     {
-        "Name": "Maple 100% pure grade a dark color syrup, maple",
+        "Name": "Maple 100% pure grade a dark color syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11880,7 +11880,7 @@
         }
     },
     {
-        "Name": "Maple 100% real syrup, maple",
+        "Name": "Maple 100% real syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11889,7 +11889,7 @@
         }
     },
     {
-        "Name": "Butter rich flavored syrup, butter rich",
+        "Name": "Butter rich flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11898,7 +11898,7 @@
         }
     },
     {
-        "Name": "Country rich homestyle syrup, country rich homestyle",
+        "Name": "Country rich homestyle syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11907,7 +11907,7 @@
         }
     },
     {
-        "Name": "Premium mint syrup, mint",
+        "Name": "Premium mint syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11916,7 +11916,7 @@
         }
     },
     {
-        "Name": "Vanilla infused maple organic syrup, vanilla infused maple",
+        "Name": "Vanilla infused maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11934,7 +11934,7 @@
         }
     },
     {
-        "Name": "Pina colada snow cone syrup, pina colada",
+        "Name": "Pina colada snow cone syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11943,7 +11943,7 @@
         }
     },
     {
-        "Name": "Blue organic agave sweetener, blue",
+        "Name": "Blue organic agave sweetener",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11961,7 +11961,7 @@
         }
     },
     {
-        "Name": "Wisconsin maple syrup, maple",
+        "Name": "Wisconsin maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11970,7 +11970,7 @@
         }
     },
     {
-        "Name": "Holiday spiced apple fruit syrup, holiday spiced apple",
+        "Name": "Holiday spiced apple fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11979,7 +11979,7 @@
         }
     },
     {
-        "Name": "Fruity sparkles syrup, fruity",
+        "Name": "Fruity sparkles syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11988,7 +11988,7 @@
         }
     },
     {
-        "Name": "Fair trade chocolate flavored syrup, fair trade chocolate",
+        "Name": "Fair trade chocolate flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11997,7 +11997,7 @@
         }
     },
     {
-        "Name": "Blackstrap organic molasses, blackstrap",
+        "Name": "Blackstrap organic molasses",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12015,7 +12015,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged maple syrup, bourbon barrel",
+        "Name": "Bourbon barrel aged maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12024,7 +12024,7 @@
         }
     },
     {
-        "Name": "Mocha flavor burst syrup, mocha",
+        "Name": "Mocha flavor burst syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12033,7 +12033,7 @@
         }
     },
     {
-        "Name": "Vanilla flavor burst, vanilla",
+        "Name": "Vanilla flavor burst",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12042,7 +12042,7 @@
         }
     },
     {
-        "Name": "Black cherry syrup, black cherry",
+        "Name": "Black cherry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12051,7 +12051,7 @@
         }
     },
     {
-        "Name": "Orzata almond syrup, almond",
+        "Name": "Orzata almond syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12060,7 +12060,7 @@
         }
     },
     {
-        "Name": "Marionberry syrup, marionberry",
+        "Name": "Marionberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12069,7 +12069,7 @@
         }
     },
     {
-        "Name": "100% maple syrup, 100% maple",
+        "Name": "100% maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12078,7 +12078,7 @@
         }
     },
     {
-        "Name": "Maple keto syrup, maple",
+        "Name": "Maple keto syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12087,7 +12087,7 @@
         }
     },
     {
-        "Name": "Orgeat syrup almond flavor cocktail essentials, orgeat syrup",
+        "Name": "Orgeat syrup almond flavor cocktail essentials",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12114,7 +12114,7 @@
         }
     },
     {
-        "Name": "Tropical punch new orleans style snowball syrup, tropical punch",
+        "Name": "Tropical punch new orleans style snowball syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12123,7 +12123,7 @@
         }
     },
     {
-        "Name": "Strawberry new orleans style snowball syrup, strawberry",
+        "Name": "Strawberry new orleans style snowball syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12132,7 +12132,7 @@
         }
     },
     {
-        "Name": "Coconut new orleans style snowball syrup, coconut",
+        "Name": "Coconut new orleans style snowball syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12141,7 +12141,7 @@
         }
     },
     {
-        "Name": "Fruit punch flavored syrup, fruit punch",
+        "Name": "Fruit punch flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12150,7 +12150,7 @@
         }
     },
     {
-        "Name": "Vanilla puremade syrup, vanilla",
+        "Name": "Vanilla puremade syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12159,7 +12159,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice sugar free syrup, pumpkin spice",
+        "Name": "Pumpkin spice sugar free syrup",
         "Nutrients": {
             "Protein": 23.3,
             "Fat": 0.0,
@@ -12177,7 +12177,7 @@
         }
     },
     {
-        "Name": "Lite butter syrup, lite butter",
+        "Name": "Lite butter syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12186,7 +12186,7 @@
         }
     },
     {
-        "Name": "Organic, chocolate syrup, chocolate",
+        "Name": "Organic, chocolate syrup",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.0,
@@ -12195,7 +12195,7 @@
         }
     },
     {
-        "Name": "Madagascar vanilla infused syrup, madagascar vanilla",
+        "Name": "Madagascar vanilla infused syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12204,7 +12204,7 @@
         }
     },
     {
-        "Name": "Blueberry flavored premium syrup, blueberry",
+        "Name": "Blueberry flavored premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12213,7 +12213,7 @@
         }
     },
     {
-        "Name": "Classic grape premium shaved ice syrup, classic grape",
+        "Name": "Classic grape premium shaved ice syrup",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -12222,7 +12222,7 @@
         }
     },
     {
-        "Name": "Hibiscus syrup, hibiscus",
+        "Name": "Hibiscus syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12231,7 +12231,7 @@
         }
     },
     {
-        "Name": "Wildflower honey infused maple syrup, wildflower honey",
+        "Name": "Wildflower honey infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12249,7 +12249,7 @@
         }
     },
     {
-        "Name": "Simple syrup made from cane sugar, simple syrup",
+        "Name": "Simple syrup made from cane sugar",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12258,7 +12258,7 @@
         }
     },
     {
-        "Name": "Original lite sugar free syrup, original",
+        "Name": "Original lite sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12267,7 +12267,7 @@
         }
     },
     {
-        "Name": "Maple creme gourmet syrup, maple creme",
+        "Name": "Maple creme gourmet syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12276,7 +12276,7 @@
         }
     },
     {
-        "Name": "Gourmet butter pecan syrup, gourmet butter pecan",
+        "Name": "Gourmet butter pecan syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12285,7 +12285,7 @@
         }
     },
     {
-        "Name": "Chocolate fondue, chocolate",
+        "Name": "Chocolate fondue",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 32.1,
@@ -12294,7 +12294,7 @@
         }
     },
     {
-        "Name": "French vanilla flavored syrup, french vanilla",
+        "Name": "French vanilla flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12303,7 +12303,7 @@
         }
     },
     {
-        "Name": "Butter flaored syrup, butter",
+        "Name": "Butter flaored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12312,7 +12312,7 @@
         }
     },
     {
-        "Name": "Maple pure syrup, maple",
+        "Name": "Maple pure syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12330,7 +12330,7 @@
         }
     },
     {
-        "Name": "Tumbler cups, spoons, & chocolate flavored syrup gift set, chocolate",
+        "Name": "Tumbler cups, spoons, & chocolate flavored syrup gift set",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12348,7 +12348,7 @@
         }
     },
     {
-        "Name": "Maple genuine syrup, maple",
+        "Name": "Maple genuine syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12357,7 +12357,7 @@
         }
     },
     {
-        "Name": "Rock candy syrup, rock candy",
+        "Name": "Rock c&y syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12366,7 +12366,7 @@
         }
     },
     {
-        "Name": "Lavender lemon organic simple syrup, lavender lemon",
+        "Name": "Lavender lemon organic simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12375,7 +12375,7 @@
         }
     },
     {
-        "Name": "Passion fruit bar syrup, passion fruit",
+        "Name": "Passion fruit bar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12384,7 +12384,7 @@
         }
     },
     {
-        "Name": "Cherry cocktail syrup, cherry",
+        "Name": "Cherry cocktail syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12393,7 +12393,7 @@
         }
     },
     {
-        "Name": "Cinnamon maple syrup, cinnamon",
+        "Name": "Cinnamon maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12402,7 +12402,7 @@
         }
     },
     {
-        "Name": "Strawberry premium syrup, strawberry",
+        "Name": "Strawberry premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12411,7 +12411,7 @@
         }
     },
     {
-        "Name": "Maine pure maple syrup, maine pure maple",
+        "Name": "Maine pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12420,7 +12420,7 @@
         }
     },
     {
-        "Name": "Sorghum molasses, sorghum",
+        "Name": "Sorghum molasses",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12429,7 +12429,7 @@
         }
     },
     {
-        "Name": "Original light syrup, original light",
+        "Name": "Original light syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12438,7 +12438,7 @@
         }
     },
     {
-        "Name": "Vanilla all-in-one super syrup, vanilla",
+        "Name": "Vanilla all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12447,7 +12447,7 @@
         }
     },
     {
-        "Name": "Cotton candy all-in-one super syrup, cotton candy",
+        "Name": "Cotton c&y all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12456,7 +12456,7 @@
         }
     },
     {
-        "Name": "Banana pineapple all-in-one super syrup, banana pineapple",
+        "Name": "Banana pineapple all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12465,7 +12465,7 @@
         }
     },
     {
-        "Name": "Pineapple, orange & guava all-in-one super syrup, pineapple, orange & guava",
+        "Name": "Pineapple, orange & guava all-in-one super syrup, pineapple",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12474,7 +12474,7 @@
         }
     },
     {
-        "Name": "Neutral slush base, neutral slush",
+        "Name": "Neutral slush base",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12483,7 +12483,7 @@
         }
     },
     {
-        "Name": "Watermelon all-in-one super syrup, watermelon",
+        "Name": "Watermelon all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12492,7 +12492,7 @@
         }
     },
     {
-        "Name": "Lemonade all-in-one super syrup, lemonade",
+        "Name": "Lemonade all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12501,7 +12501,7 @@
         }
     },
     {
-        "Name": "Blue raspberry all-in-one super syrup, blue raspberry",
+        "Name": "Blue raspberry all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12510,7 +12510,7 @@
         }
     },
     {
-        "Name": "Strawberry raspberry all-in-one super syrup, strawberry raspberry",
+        "Name": "Strawberry raspberry all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12519,7 +12519,7 @@
         }
     },
     {
-        "Name": "Tropical fruit punch all-in-one super syrup, tropical fruit punch",
+        "Name": "Tropical fruit punch all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12528,7 +12528,7 @@
         }
     },
     {
-        "Name": "Buttery syrup, buttery",
+        "Name": "Buttery syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12537,7 +12537,7 @@
         }
     },
     {
-        "Name": "Cherry all-in-one super syrup, cherry",
+        "Name": "Cherry all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12546,7 +12546,7 @@
         }
     },
     {
-        "Name": "Tiger's blood all-in-one super syrup, tiger's blood",
+        "Name": "Tigers blood all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12555,7 +12555,7 @@
         }
     },
     {
-        "Name": "Grape all-in-one super syrup, grape",
+        "Name": "Grape all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12564,7 +12564,7 @@
         }
     },
     {
-        "Name": "Cola all-in-one super syrup, cola",
+        "Name": "Cola all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12573,7 +12573,7 @@
         }
     },
     {
-        "Name": "Coconut syrup, coconut",
+        "Name": "Coconut syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12582,7 +12582,7 @@
         }
     },
     {
-        "Name": "Pomegranate molasses, pomegranate",
+        "Name": "Pomegranate molasses",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12591,7 +12591,7 @@
         }
     },
     {
-        "Name": "Maple sugar free syrup, maple",
+        "Name": "Maple sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12600,7 +12600,7 @@
         }
     },
     {
-        "Name": "English toffee syrup, english toffee",
+        "Name": "English toffee syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12609,7 +12609,7 @@
         }
     },
     {
-        "Name": "Triple cherry lime lemonade syrups, triple cherry lime",
+        "Name": "Triple cherry lime lemonade syrups",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.7,
@@ -12618,7 +12618,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel-aged organic vermont maple syrup, bourbon",
+        "Name": "Bourbon barrel-aged organic vermont maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12627,7 +12627,7 @@
         }
     },
     {
-        "Name": "Raspberry organic simple syrup, raspberry",
+        "Name": "Raspberry organic simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12636,7 +12636,7 @@
         }
     },
     {
-        "Name": "Maple praline premium syrup, maple praline",
+        "Name": "Maple praline premium syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12645,7 +12645,7 @@
         }
     },
     {
-        "Name": "Pina colada all-in-one super syrup, pina colada",
+        "Name": "Pina colada all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12654,7 +12654,7 @@
         }
     },
     {
-        "Name": "Mango all-in-one super syrup, mango",
+        "Name": "Mango all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12663,7 +12663,7 @@
         }
     },
     {
-        "Name": "Mocha all-in-one super syrup, mocha",
+        "Name": "Mocha all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12672,7 +12672,7 @@
         }
     },
     {
-        "Name": "Root beer all-in-one super syrup, root beer",
+        "Name": "Root beer all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12681,7 +12681,7 @@
         }
     },
     {
-        "Name": "Strawberry all-in-one super syrup, strawberry",
+        "Name": "Strawberry all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12690,7 +12690,7 @@
         }
     },
     {
-        "Name": "Lime all-in-one super syrup, lime",
+        "Name": "Lime all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12699,7 +12699,7 @@
         }
     },
     {
-        "Name": "Orange pineapple all-in-one super syrup, orange pineapple",
+        "Name": "Orange pineapple all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12708,7 +12708,7 @@
         }
     },
     {
-        "Name": "Sour apple all-in-one super syrup, sour apple",
+        "Name": "Sour apple all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12717,7 +12717,7 @@
         }
     },
     {
-        "Name": "Bubble gum all-in-one super syrup, bubble gum",
+        "Name": "Bubble gum all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12726,7 +12726,7 @@
         }
     },
     {
-        "Name": "Pink lemonade all-in-one super syrup, pink lemonade",
+        "Name": "Pink lemonade all-in-one super syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12735,7 +12735,7 @@
         }
     },
     {
-        "Name": "Pineapple ginger syrup, pineapple ginger",
+        "Name": "Pineapple ginger syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12744,7 +12744,7 @@
         }
     },
     {
-        "Name": "Cherry syrup, cherry",
+        "Name": "Cherry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12753,7 +12753,7 @@
         }
     },
     {
-        "Name": "Kola champagne syrup, kola champagne",
+        "Name": "Kola champagne syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12762,7 +12762,7 @@
         }
     },
     {
-        "Name": "Genuine chocolate flavor syrup, genuine chocolate",
+        "Name": "Genuine chocolate flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12771,7 +12771,7 @@
         }
     },
     {
-        "Name": "Special dark mildly sweet chocolate syrup, special dark",
+        "Name": "Special dark mildly sweet chocolate syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 13.7,
@@ -12780,7 +12780,7 @@
         }
     },
     {
-        "Name": "Genuine chocolate syrup, chocolate",
+        "Name": "Genuine chocolate syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12789,7 +12789,7 @@
         }
     },
     {
-        "Name": "Delicious strawberry flavor syrup, delicious strawberry",
+        "Name": "Delicious strawberry flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12798,7 +12798,7 @@
         }
     },
     {
-        "Name": "Indulgent caramel flavor syrup, indulgent caramel",
+        "Name": "Indulgent caramel flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12807,7 +12807,7 @@
         }
     },
     {
-        "Name": "Sundae dream caramel thick and delicious syrup, sundae dream caramel",
+        "Name": "Sundae dream caramel thick & delicious syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12825,7 +12825,7 @@
         }
     },
     {
-        "Name": "Organic 100% pure maple syrup, maple syrup",
+        "Name": "Organic 100% pure maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12834,7 +12834,7 @@
         }
     },
     {
-        "Name": "Orzata almond syrup, orzata almond",
+        "Name": "Orzata almond syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12852,7 +12852,7 @@
         }
     },
     {
-        "Name": "Original cane sugar syrup, original",
+        "Name": "Original cane sugar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12861,7 +12861,7 @@
         }
     },
     {
-        "Name": "Copper chocolatey & caramelly organic vegan un-honey, copper chocolatey & caramelly",
+        "Name": "Copper chocolatey & caramelly organic vegan un-honey",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -12879,7 +12879,7 @@
         }
     },
     {
-        "Name": "Buttery rich syrup, buttery rich",
+        "Name": "Buttery rich syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12888,7 +12888,7 @@
         }
     },
     {
-        "Name": "Xylosweet natural xylitol sweetener, 100 count, 400 g",
+        "Name": "Xylosweet natural xylitol sweetener, count",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12897,7 +12897,7 @@
         }
     },
     {
-        "Name": "Candy corn flavored syrup, candy corn",
+        "Name": "C&y corn flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12906,7 +12906,7 @@
         }
     },
     {
-        "Name": "Blue raspberry classic premium shaved ice syrup, blue raspberry",
+        "Name": "Blue raspberry classic premium shaved ice syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12915,7 +12915,7 @@
         }
     },
     {
-        "Name": "Cherry classic premium shaved ice syrup, cherry",
+        "Name": "Cherry classic premium shaved ice syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12924,7 +12924,7 @@
         }
     },
     {
-        "Name": "Grape classic premium shaved ice syrup, grape",
+        "Name": "Grape classic premium shaved ice syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12933,7 +12933,7 @@
         }
     },
     {
-        "Name": "The original cane flavor  syrup",
+        "Name": "The original cane flavor syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12942,7 +12942,7 @@
         }
     },
     {
-        "Name": "Rose's strawberry syrup, 12 fl oz",
+        "Name": "Roses strawberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12951,7 +12951,7 @@
         }
     },
     {
-        "Name": "Blueberry  syrup",
+        "Name": "Blueberry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13005,7 +13005,7 @@
         }
     },
     {
-        "Name": "Original  syrup",
+        "Name": "Original syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13041,7 +13041,7 @@
         }
     },
     {
-        "Name": "Master of mixes cocktail essentials simple syrup, 12.7 fl oz",
+        "Name": "Master of mixes cocktail essentials simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13140,7 +13140,7 @@
         }
     },
     {
-        "Name": "Brad's organic maple syrup, 8 fl oz",
+        "Name": "Brads organic maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13149,7 +13149,7 @@
         }
     },
     {
-        "Name": "Brad's organic blue agave, 23.5 oz",
+        "Name": "Brads organic blue agave",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13194,7 +13194,7 @@
         }
     },
     {
-        "Name": "Elderberry fresh pressed syrup, elderberry",
+        "Name": "Elderberry fresh pressed syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13203,7 +13203,7 @@
         }
     },
     {
-        "Name": "100% vermont sourced amber rich maple organic syrup, 100% vermont sourced amber rich maple",
+        "Name": "100% vermont sourced amber rich maple organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13212,7 +13212,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice flavored coffee syrup, pumpkin spice",
+        "Name": "Pumpkin spice flavored coffee syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13221,7 +13221,7 @@
         }
     },
     {
-        "Name": "Sirope de mantecado ice cream, sirope de mantecado",
+        "Name": "Sirope de mantecado ice cream",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13230,7 +13230,7 @@
         }
     },
     {
-        "Name": "Cinnamon vanilla infused maple syrup, cinnamon vanilla",
+        "Name": "Cinnamon vanilla infused maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13239,7 +13239,7 @@
         }
     },
     {
-        "Name": "Pancake organic lite syrup, pancake",
+        "Name": "Pancake organic lite syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13248,7 +13248,7 @@
         }
     },
     {
-        "Name": "Maple steam-crafted organic syrup, maple",
+        "Name": "Maple steam-crafted organic syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13275,7 +13275,7 @@
         }
     },
     {
-        "Name": "Sweet tea, fruit punch, lemon, lime, orange and raspberry swealthy stix",
+        "Name": "Sweet tea, fruit punch, lemon, lime, orange & raspberry swealthy stix",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13284,7 +13284,7 @@
         }
     },
     {
-        "Name": "Bourbon barrel aged wisconsin maple syrup, bourbon barrel aged wisconsin maple",
+        "Name": "Bourbon barrel aged wisconsin maple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13320,7 +13320,7 @@
         }
     },
     {
-        "Name": "Original sugar free reduced calorie syrup, original",
+        "Name": "Original sugar free reduced calorie syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13329,7 +13329,7 @@
         }
     },
     {
-        "Name": "Blue raspberry sugar free syrup, blue raspberry",
+        "Name": "Blue raspberry sugar free syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13347,7 +13347,7 @@
         }
     },
     {
-        "Name": "Tart cherry syrup, tart cherry",
+        "Name": "Tart cherry syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13356,7 +13356,7 @@
         }
     },
     {
-        "Name": "Rose organic simple syrup, rose",
+        "Name": "Rose organic simple syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13365,7 +13365,7 @@
         }
     },
     {
-        "Name": "Salted caramel gourmet flavored syrup, salted caramel",
+        "Name": "Salted caramel gourmet flavored syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13374,7 +13374,7 @@
         }
     },
     {
-        "Name": "Vanilla sugar-free gourmet syrup, vanilla",
+        "Name": "Vanilla sugar-free gourmet syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13383,7 +13383,7 @@
         }
     },
     {
-        "Name": "Lime syrup, lime",
+        "Name": "Lime syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -13392,7 +13392,7 @@
         }
     },
     {
-        "Name": "Marionberry fruit syrup, marionberry",
+        "Name": "Marionberry fruit syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

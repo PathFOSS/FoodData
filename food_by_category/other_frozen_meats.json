@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Angus philly beef steaks, angus",
+        "Name": "Angus philly beef steaks",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 12.9,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Bar-b-q seasoned pork tenderloin, bar-b-q",
+        "Name": "Bar-b-q seasoned pork tenderloin",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 3.6,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Bar-b-q pork shoulder with corky's original bar-b-q sauce, bar-b-q pork shoulder",
+        "Name": "Bar-b-q pork shoulder with corkys original bar-b-q sauce",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 8.6,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Applewood smoked bacon wrapped beef tenderloin steaks, applewood smoked",
+        "Name": "Applewood smoked bacon wrapped beef tenderloin steaks",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 11.3,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "Beef organic ribeye steaks, beef",
+        "Name": "Beef organic ribeye steaks",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 15.1,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Landis, lean sirloin tip beef steaks",
+        "Name": "L&is, lean sirloin tip beef steaks",
         "Nutrients": {
             "Protein": 20.9,
             "Fat": 8.1,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Gravy & 6 salisbury steaks",
+        "Name": "Gravy & salisbury steaks",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 10.6,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "100% all beef sandwich steaks",
+        "Name": "100% all beef s&wich steaks",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 26.3,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Seasoned pork and beef pattie between slice of beef ribeye",
+        "Name": "Seasoned pork & beef pattie between slice of beef ribeye",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 17.1,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Nature's rancher, 100% grass fed organic ground beef",
+        "Name": "Natures rancher, 100% grass fed organic ground beef",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 15.2,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Tsd sales and distribution, all natural ground beef",
+        "Name": "Tsd sales & distribution, all natural ground beef",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 26.8,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Sandwich steaks",
+        "Name": "S&wich steaks",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 26.7,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Murry's, quarter pound beef patties",
+        "Name": "Murrys, quarter pound beef patties",
         "Nutrients": {
             "Protein": 26.0,
             "Fat": 24.7,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Sizzlin' starters pork breakfast sandwich steaks",
+        "Name": "Sizzlin starters pork breakfast s&wich steaks",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.9,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Sizzlin starters' pork breakfast sandwich steaks",
+        "Name": "Sizzlin starters pork breakfast s&wich steaks",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.9,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Italian style gravy and beef",
+        "Name": "Italian style gravy & beef",
         "Nutrients": {
             "Protein": 22.4,
             "Fat": 14.1,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "100% pure beef sandwich steak",
+        "Name": "100% pure beef s&wich steak",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "6 pure beef sandwich steaks",
+        "Name": "Pure beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "100% pure beef sandwich steaks",
+        "Name": "100% pure beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Beef sandwich steaks",
+        "Name": "Beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "14 all beef sandwich steaks",
+        "Name": "All beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "All beef sandwich steaks",
+        "Name": "All beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "14 pure beef sandwich steaks",
+        "Name": "Pure beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Medium country sausage, medium",
+        "Name": "Medium country sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Burnt ends pork seasoned & seared boneless pork with sweet and tangy bbq sauce",
+        "Name": "Burnt ends pork seasoned & seared boneless pork with sweet & tangy bbq sauce",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 2.5,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce",
+        "Name": "Hickory smoked h& pulled pork bbq in a honey bourbon bbq sauce",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 6.4,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Pork bangers, \"cumberland\"",
+        "Name": "Pork bangers, cumberl&",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 11.8,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "Hickory smoke flavored beef steak strips, hickory smoke",
+        "Name": "Hickory smoke flavored beef steak strips",
         "Nutrients": {
             "Protein": 23.8,
             "Fat": 4.8,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Italian style beef, italian style",
+        "Name": "Italian style beef",
         "Nutrients": {
             "Protein": 29.4,
             "Fat": 4.1,
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "Name": "Sizzlin' starters pork breakfast sandwich steaks, bacon",
+        "Name": "Sizzlin starters pork breakfast s&wich steaks, bacon",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.9,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "Hot country sausage patties, hot",
+        "Name": "Hot country sausage patties",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "Name": "Sweet & sour pork fully cooked, boneless, tempura pork in a sweet & sour sauce meal starter, sweet & sour pork",
+        "Name": "Sweet & sour pork fully cooked, boneless, tempura pork in a sweet & sour sauce meal starter",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 6.4,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Sirloin philly beef steaks, sirloin",
+        "Name": "Sirloin philly beef steaks",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 12.2,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Pork with bbq sauce, pork",
+        "Name": "Pork with bbq sauce",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 3.6,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "Country sausage patties gravy, country",
+        "Name": "Country sausage patties gravy",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 33.9,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "Grilled steakhouse seared flavored seasoned beef steak strips, grilled steakhouse seared",
+        "Name": "Grilled steakhouse seared flavored seasoned beef steak strips",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 4.2,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Bourbon braised pork with roasted squash, butter beans, sorghum, and pickled peppers",
+        "Name": "Bourbon braised pork with roasted squash, butter beans, sorghum, & pickled peppers",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 2.2,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "All natural 100% beef delicious sandwich sliced steaks",
+        "Name": "All natural 100% beef delicious s&wich sliced steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "100% angus beef sandwich steaks",
+        "Name": "100% angus beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "100% all beef sandwich sliced steaks",
+        "Name": "100% all beef s&wich sliced steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "100% angus beef sandwich sliced steaks",
+        "Name": "100% angus beef s&wich sliced steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "100% all beef sandwich sliced steaks, beef",
+        "Name": "100% all beef s&wich sliced steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "Pulled pork bbq in a carolina-style mustard sauce, bbq",
+        "Name": "Pulled pork bbq in a carolina-style mustard sauce",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 8.2,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce, barbecue sauce",
+        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 11.9,
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "Name": "Local boy sliced pork, local boy",
+        "Name": "Local boy sliced pork",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "Teriyaki sliced beef, teriyaki",
+        "Name": "Teriyaki sliced beef",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "Kalbi beef short ribs, kalbi",
+        "Name": "Kalbi beef short ribs",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 8.0,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "Salisbury steak roasted patties made with natural beef and pork topped with onions & gravy, salisbury steak",
+        "Name": "Salisbury steak roasted patties made with natural beef & pork topped with onions & gravy",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 5.0,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "100% angus beef sandwich sliced steaks, angus beef",
+        "Name": "100% angus beef s&wich sliced steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "Name": "Smoke pork bar-b-q in a sweet & spicy tennessee style bbq sauce, smoke pork bar-b-q",
+        "Name": "Smoke pork bar-b-q in a sweet & spicy tennessee style bbq sauce",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.4,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce, hickory smoked, honey bourbon",
+        "Name": "Hickory smoked h& pulled pork bbq in a honey bourbon bbq sauce, hickory smoked",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 6.4,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Bone-in pork loin chop, pork",
+        "Name": "Bone-in pork loin chop",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 7.8,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "Fully cooked beef fajitas, beef",
+        "Name": "Fully cooked beef fajitas",
         "Nutrients": {
             "Protein": 20.2,
             "Fat": 3.6,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Sirloin thinly sliced & shaped philly beef steaks, sirloin",
+        "Name": "Sirloin thinly sliced & shaped philly beef steaks",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 12.2,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "Hickory smoked hand pulled pork bbq in a honey bourbon bbq sauce, hickory smoked",
+        "Name": "Hickory smoked h& pulled pork bbq in a honey bourbon bbq sauce",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 6.4,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Hickory smoked hand pulled pork bbq & sauce with chorizo style seasoning, hickory smoked",
+        "Name": "Hickory smoked h& pulled pork bbq & sauce with chorizo style seasoning",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce, smokehouse style",
+        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 10.0,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce, hickory smoked & seasoned",
+        "Name": "Hickory smoked & seasoned baby back pork ribs with barbecue sauce",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 11.9,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Pork sausage patties, pork",
+        "Name": "Pork sausage patties",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 37.2,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Beefy beyond beef crumbles, beefy",
+        "Name": "Beefy beyond beef crumbles",
         "Nutrients": {
             "Protein": 25.4,
             "Fat": 5.5,
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "Name": "Feisty beyond beef crumbles, feisty",
+        "Name": "Feisty beyond beef crumbles",
         "Nutrients": {
             "Protein": 25.4,
             "Fat": 4.5,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Hickory smoked hand pulled pork bbq & sauce with chorizo style seasoning, hickory smoked with chorizo style seasoning",
+        "Name": "Hickory smoked h& pulled pork bbq & sauce with chorizo style seasoning, hickory smoked with chorizo style seasoning",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Smoked sliced brisket, smoked",
+        "Name": "Smoked sliced brisket",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 17.0,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce, tennessee bbq",
+        "Name": "Smokehouse style pulled pork bbq in a tennessee bbq sauce",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 10.0,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "Pure beef sandwich steaks, pure beef",
+        "Name": "Pure beef s&wich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Original boneless beef bottom sirloin steak, original",
+        "Name": "Original boneless beef bottom sirloin steak",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 8.8,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "Ancestral blend 100% grass fed beef, ancestral blend",
+        "Name": "Ancestral blend 100% grass fed beef",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 9.8,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "All beef sandwich steaks, beef",
+        "Name": "All beef s&wich steaks",
         "Nutrients": {
             "Protein": 14.6,
             "Fat": 3.6,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "Spicy fully cooked pork sausage patties, spicy",
+        "Name": "Spicy fully cooked pork sausage patties",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 38.0,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "73 % lean 7% fat 100% grass fed & finished ground beef",
+        "Name": "% lean 7% fat 100% grass fed & finished ground beef",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 7.1,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Ribeye steak grass-fed organic beef, ribeye steak",
+        "Name": "Ribeye steak grass-fed organic beef",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 15.1,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "Carne asada steak seasoned beef strips in mexican style sauce, carne asada steak",
+        "Name": "Carne asada steak seasoned beef strips in mexican style sauce",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 4.0,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Korean bbq style beef kalbi thinly sliced beef with up to 20% of a soy garlic marinade, korean bbq style beef kalbi",
+        "Name": "Korean bbq style beef kalbi thinly sliced beef with up to 20% of a soy garlic marinade",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 8.8,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Sizzlin starters' pork breakfast sandwich steaks, sausage",
+        "Name": "Sizzlin starters pork breakfast s&wich steaks, sausage",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 25.9,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Smoked brisket burnt ends with sauce, smoked",
+        "Name": "Smoked brisket burnt ends with sauce",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 9.0,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Bistro steak beef sirloin filet, bistro steak",
+        "Name": "Bistro steak beef sirloin filet",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 6.4,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Boneless pork chops, pork",
+        "Name": "Boneless pork chops",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 8.0,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Beef sirloin filet bistro steak, beef sirloin filet",
+        "Name": "Beef sirloin filet bistro steak",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 6.4,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Beef organic liver, beef",
+        "Name": "Beef organic liver",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 3.6,
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "Name": "Ground beef with onions crumbles frozen uncooked meat, ground beef",
+        "Name": "Ground beef with onions crumbles frozen uncooked meat",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 16.1,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Top sirloin beef steaks, top sirloin beef",
+        "Name": "Top sirloin beef steaks",
         "Nutrients": {
             "Protein": 19.0,
             "Fat": 14.1,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Seasoned & smoked unsauced pulled pork, seasoned & smoked",
+        "Name": "Seasoned & smoked unsauced pulled pork",
         "Nutrients": {
             "Protein": 34.1,
             "Fat": 20.0,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Beef pepper steak beef strips in asian style pepper sauce, beef pepper steak",
+        "Name": "Beef pepper steak beef strips in asian style pepper sauce",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 1.8,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Boneless pork loin chops, loin chops",
+        "Name": "Boneless pork loin chops",
         "Nutrients": {
             "Protein": 20.8,
             "Fat": 3.0,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Beef organic grass-fed ribeye steak, beef",
+        "Name": "Beef organic grass-fed ribeye steak",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 15.1,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Ground venison with 3% beef, beef",
+        "Name": "Ground venison with 3% beef",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 8.9,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Country fried pork premium breaded pork patties, home-style country gravy pouches, country fried pork",
+        "Name": "Country fried pork premium breaded pork patties, home-style country gravy pouches",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 9.2,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Seasoned fully cooked steak beef strips, seasoned",
+        "Name": "Seasoned fully cooked steak beef strips",
         "Nutrients": {
             "Protein": 22.6,
             "Fat": 8.3,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Pork raw bone-in ham steak, pork",
+        "Name": "Pork raw bone-in ham steak",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 5.3,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Ground beef crumbles with onions, onions",
+        "Name": "Ground beef crumbles with onions",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 16.1,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Boneless beef top sirloin steak, boneless beef",
+        "Name": "Boneless beef top sirloin steak",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 4.3,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Fast fixin' restaurant style country fried steaks, 22.75 oz",
+        "Name": "Fast fixin restaurant style country fried steaks",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 15.2,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Grass-fed organic beef strip steak, beef",
+        "Name": "Grass-fed organic beef strip steak",
         "Nutrients": {
             "Protein": 21.9,
             "Fat": 5.0,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Seasoned steak strips, seasoned",
+        "Name": "Seasoned steak strips",
         "Nutrients": {
             "Protein": 22.6,
             "Fat": 8.3,

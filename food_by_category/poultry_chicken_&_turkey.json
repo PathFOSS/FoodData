@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Taco seasoned ground turkey, taco seasoned",
+        "Name": "Taco seasoned ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "85% lean | 15% fat ground turkey",
+        "Name": "85% lean 15% fat ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 15.2,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Cajun style turkey breast, cajun style",
+        "Name": "Cajun style turkey breast",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Chicken mild italian sausage, chicken mild italian",
+        "Name": "Chicken mild italian sausage",
         "Nutrients": {
             "Protein": 18.3,
             "Fat": 4.2,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "93% lean | 7% fat fresh ground turkey",
+        "Name": "93% lean 7% fat fresh ground turkey",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 7.1,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Parmesan breaded chicken breast cutlets, parmesan breaded",
+        "Name": "Parmesan breaded chicken breast cutlets",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 9.6,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "96% lean | 4% fat fresh ground chicken",
+        "Name": "96% lean 4% fat fresh ground chicken",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 4.5,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "93% lean | 7% fat ground turkey",
+        "Name": "93% lean 7% fat ground turkey",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 7.1,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "93% lean | 7% fat turkey burger patties",
+        "Name": "93% lean 7% fat turkey burger patties",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 7.1,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Teriyaki seasoned boneless skinless chicken breasts, teriyaki",
+        "Name": "Teriyaki seasoned boneless skinless chicken breasts",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.0,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts, rustic tomato & basil",
+        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 3.6,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Southwestern style smoke seasoned boneless skinless chicken breasts, southwestern style, smoke",
+        "Name": "Southwestern style smoke seasoned boneless skinless chicken breasts, southwestern style",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 3.6,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Southwest style seasoned boneless, skinless chicken thighs coated with paprika seasoned cuts, southwest style",
+        "Name": "Southwest style seasoned boneless, skinless chicken thighs coated with paprika seasoned cuts",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 9.8,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Smokehouse hardwood smoked authentic pitmaster seasoned pulled chicken, smokehouse",
+        "Name": "Smokehouse hardwood smoked authentic pitmaster seasoned pulled chicken",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 2.4,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Boneless chicken thighs with onions, peppers, mushrooms cacciatore, chicken",
+        "Name": "Boneless chicken thighs with onions, peppers, mushrooms cacciatore",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 2.6,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Smoky & sweet chili turkey breast strips, smoky & sweet chili",
+        "Name": "Smoky & sweet chili turkey breast strips",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Maple turkey breast, maple",
+        "Name": "Maple turkey breast",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Jalapeno and sharp cheddar chicken burgers, jalapeno cheddar",
+        "Name": "Jalapeno & sharp cheddar chicken burgers, jalapeno cheddar",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 9.7,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Greek style with oregano, garlic and feta chicken burgers, greek style with oregano, garlic and feta",
+        "Name": "Greek style with oregano, garlic & feta chicken burgers, greek style with oregano",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 9.7,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Sanderson farms, fresh chicken livers",
+        "Name": "S&erson farms, fresh chicken livers",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Roundy's, sun-dried tomato, chicken flavored",
+        "Name": "Roundys, sun-dried tomato, chicken flavored",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.3,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Harvestland, chicken breast tenderloins",
+        "Name": "Harvestl&, chicken breast tenderloins",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Diestel turkey ranch, heidi's hens, organic ground turkey",
+        "Name": "Diestel turkey ranch, heidis hens, organic ground turkey",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 4.4,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "Italian style chicken breasts, italian style",
+        "Name": "Italian style chicken breasts",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 1.1,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "Kirkland signature, perdue, fit & easy chicken breasts",
+        "Name": "Kirkl& signature, perdue, fit & easy chicken breasts",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "Basil pesto chicken breasts, basil pesto",
+        "Name": "Basil pesto chicken breasts",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 3.6,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "365 everyday value, organic boneless skinless chicken breasts with rib meat",
+        "Name": "Everyday value, organic boneless skinless chicken breasts with rib meat",
         "Nutrients": {
             "Protein": 22.3,
             "Fat": 2.7,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "Jennie-o, split turkey breasts with portion of rib and wing meat",
+        "Name": "Jennie-o, split turkey breasts with portion of rib & wing meat",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 3.6,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Nature's rancher, ground organic chicken",
+        "Name": "Natures rancher, ground organic chicken",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.1,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "Nature's rancher, turkey patties",
+        "Name": "Natures rancher, turkey patties",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 6.2,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Nature's rancher, ground turkey",
+        "Name": "Natures rancher, ground turkey",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 6.2,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Nature's rancher, ground organic chicken breast",
+        "Name": "Natures rancher, ground organic chicken breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "Organic hand-trimmed boneless, skinless chicken thighs",
+        "Name": "Organic h&-trimmed boneless, skinless chicken thighs",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 8.0,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "Harvestland, chicken breasts",
+        "Name": "Harvestl&, chicken breasts",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Chicken breast strips + seasoned panko breadcrumbs",
+        "Name": "Chicken breast strips & seasoned panko breadcrumbs",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 2.5,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Whole chicken without giblets and neck",
+        "Name": "Whole chicken without giblets & neck",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 9.8,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Spinach & 3-cheese stuffed chicken patties",
+        "Name": "Spinach & stuffed chicken patties",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 5.5,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "8 piece cut up whole chicken",
+        "Name": "Piece cut up whole chicken",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 11.6,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "Nature's promise, boneless skinless chicken breast",
+        "Name": "Natures promise, boneless skinless chicken breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Al-marra'ah, halal, young chicken thighs",
+        "Name": "Al-marraah, halal, young chicken thighs",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 19.5,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "Al-mazra'ah, halal, whole frying chicken",
+        "Name": "Al-mazraah, halal, whole frying chicken",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 19.5,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Harvestland, fresh chicken breasts",
+        "Name": "Harvestl&, fresh chicken breasts",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Harvestland, fresh chicken drumsticks",
+        "Name": "Harvestl&, fresh chicken drumsticks",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.9,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Harvestland, chicken thighs, chicken",
+        "Name": "Harvestl&, chicken thighs",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 15.2,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Harvestland, fresh organic chicken",
+        "Name": "Harvestl&, fresh organic chicken",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 2.7,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "Harvestland, fresh chicken breasts, boneless, skinless",
+        "Name": "Harvestl&, fresh chicken breasts, boneless, skinless",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Island teriyaki turkey breast tenderloins",
+        "Name": "Isl& teriyaki turkey breast tenderloins",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Brown and serve turkey breast boneless",
+        "Name": "Brown & serve turkey breast boneless",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.7,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "All natural turkey sausage, turkey",
+        "Name": "All natural turkey sausage",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 10.7,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "Boneless skinless chicken breasts with rib meat, chicken",
+        "Name": "Boneless skinless chicken breasts with rib meat",
         "Nutrients": {
             "Protein": 22.3,
             "Fat": 2.7,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Queso fresco & jalapeno turkey patties, queso fresco & jalapeno",
+        "Name": "Queso fresco & jalapeno turkey patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -3348,7 +3348,7 @@
         }
     },
     {
-        "Name": "Lemon garlic chicken breast cutlets, lemon garlic",
+        "Name": "Lemon garlic chicken breast cutlets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 2.2,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Homestyle chicken breast portioned pieces, homestyle",
+        "Name": "Homestyle chicken breast portioned pieces",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 2.2,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Roasted garlic boneless duck breast, roasted garlic",
+        "Name": "Roasted garlic boneless duck breast",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 17.0,
@@ -3402,7 +3402,7 @@
         }
     },
     {
-        "Name": "Honey-orange boneless duck breast, honey-orange",
+        "Name": "Honey-orange boneless duck breast",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 15.2,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "99% lean | 1% fat ground turkey breast",
+        "Name": "99% lean 1% fat ground turkey breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "90% lean | 10% fat ground turkey",
+        "Name": "90% lean 10% fat ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 9.8,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Thick sliced applewood smoked cured duck breast cut & shaped bacon, applewood smoked",
+        "Name": "Thick sliced applewood smoked cured duck breast cut & shaped bacon",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 16.7,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Fresh and lean ground chicken",
+        "Name": "Fresh & lean ground chicken",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.0,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Lean italian seasoned ground turkey, italian seasoned",
+        "Name": "Lean italian seasoned ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "Applewood smoke flavor turkey breast tenderloins, applewood smoke",
+        "Name": "Applewood smoke flavor turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.5,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Savory roast turkey breast tenderloins, savory roast",
+        "Name": "Savory roast turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "Parmesan breaded chicken breast cutlets, parmesan",
+        "Name": "Parmesan breaded chicken breast cutlets",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 9.6,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Asparagus & cheddar stuffed chicken breast cutlets, asparagus & cheddar",
+        "Name": "Asparagus & cheddar stuffed chicken breast cutlets",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 3.5,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Spicy orange teriyaki turkey breast tenderloins, spicy orange teriyaki",
+        "Name": "Spicy orange teriyaki turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.5,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Honey bbq chicken breast, honey bbq",
+        "Name": "Honey bbq chicken breast",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 2.4,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Ground turkey breast, ground turkey",
+        "Name": "Ground turkey breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Island teriyaki turkey tenderloins, island teriyaki",
+        "Name": "Isl& teriyaki turkey tenderloins",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Lemon peppercorn turkey tenderloins, lemon peppercorn",
+        "Name": "Lemon peppercorn turkey tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Sweet barbeque turkey tenderloins, sweet barbeque",
+        "Name": "Sweet barbeque turkey tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Pre-marinated chipotle chicken breasts with honey lime glaze, honey lime glaze",
+        "Name": "Pre-marinated chipotle chicken breasts with honey lime glaze",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.9,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Ready to cook smoked turkey drumsticks, smoked",
+        "Name": "Ready to cook smoked turkey drumsticks",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 31.0,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Ready to cook smoked turkey necks, smoked",
+        "Name": "Ready to cook smoked turkey necks",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 5.3,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Smoked turkey wings, smoked turkey",
+        "Name": "Smoked turkey wings",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 11.5,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Spinach & feta cream cheese stuffed chicken breasts, spinach & feta cream cheese",
+        "Name": "Spinach & feta cream cheese stuffed chicken breasts",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.8,
@@ -3708,7 +3708,7 @@
         }
     },
     {
-        "Name": "Chicken ground seasoned patty blend with sun dried tomato and basil",
+        "Name": "Chicken ground seasoned patty blend with sun dried tomato & basil",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 10.7,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Chicken power patties corn, black bean & poblano, chicken power patties",
+        "Name": "Chicken power patties corn, black bean & poblano",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 3.3,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Ground seasoned small batch turkey tenderloin blend, tenderloin blend",
+        "Name": "Ground seasoned small batch turkey tenderloin blend",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 6.2,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Original chicken breast strips, original",
+        "Name": "Original chicken breast strips",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 2.9,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Rotisserie turkey breast tenderloin, rotisserie",
+        "Name": "Rotisserie turkey breast tenderloin",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.6,
@@ -3789,7 +3789,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey breast tenderloin, homestyle",
+        "Name": "Homestyle turkey breast tenderloin",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.6,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Cracked pepper turkey breast tenderloin, cracked pepper",
+        "Name": "Cracked pepper turkey breast tenderloin",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.6,
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "Name": "Mild italian turkey sausage, mild italian",
+        "Name": "Mild italian turkey sausage",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 10.0,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned ground turkey, italian style",
+        "Name": "Italian style seasoned ground turkey",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "4 turkey patties, lightly seasoned",
+        "Name": "Turkey patties, lightly seasoned",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 8.0,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Citrus & herb 4 turkey breast cutlets",
+        "Name": "Citrus & herb turkey breast cutlets",
         "Nutrients": {
             "Protein": 18.5,
             "Fat": 3.1,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "93% lean 7 fat ground turkey",
+        "Name": "93% lean fat ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Chicken burgers, chicken",
+        "Name": "Chicken burgers",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.0,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Smokehouse seasoned chicken breasts, smokehouse",
+        "Name": "Smokehouse seasoned chicken breasts",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.0,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned cuts seasoned boneless skinless chicken breast with rib meat, italian style",
+        "Name": "Italian style seasoned cuts seasoned boneless skinless chicken breast with rib meat",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "Chicken breast for fajitas, chicken breast",
+        "Name": "Chicken breast for fajitas",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "All natural original seasoned ground chicken, original",
+        "Name": "All natural original seasoned ground chicken",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.1,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Southwest-style seasoned ground chicken, southwest-style",
+        "Name": "Southwest-style seasoned ground chicken",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Turkey burgers, turkey",
+        "Name": "Turkey burgers",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 4.5,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Savory seasoned turkey patties, savory seasoned",
+        "Name": "Savory seasoned turkey patties",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 6.8,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Turkey breast applewood smoke flavor added tenderloins, turkey breast, applewood smoke",
+        "Name": "Turkey breast applewood smoke flavor added tenderloins, turkey breast",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.5,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "Apple & gouda chicken sausages, apple & gouda",
+        "Name": "Apple & gouda chicken sausages",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.8,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Andouille chicken sausages, andouille",
+        "Name": "&ouille chicken sausages",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 6.2,
@@ -4086,7 +4086,7 @@
         }
     },
     {
-        "Name": "Mild turkey sausage, mild",
+        "Name": "Mild turkey sausage",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 8.9,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Italian style turkey sausage, italian style",
+        "Name": "Italian style turkey sausage",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 8.9,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned lean ground turkey, italian style",
+        "Name": "Italian style seasoned lean ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Pollo adobado mostly white meat chicken in an adobo seasoning with a hint of citrus, pollo adobado",
+        "Name": "Pollo adobado mostly white meat chicken in an adobo seasoning with a hint of citrus",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 3.1,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "All-natural ground turkey breast, turkey",
+        "Name": "All-natural ground turkey breast",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "Taco seasonings turkey sausage, taco seasonings",
+        "Name": "Taco seasonings turkey sausage",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 12.9,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Turkey sausage, turkey",
+        "Name": "Turkey sausage",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 10.7,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Buffalo style shaved chicken breast, buffalo style",
+        "Name": "Buffalo style shaved chicken breast",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 5.4,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Savory roast flavor turkey breast tenderloins, savory roast",
+        "Name": "Savory roast flavor turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & asiago chicken sausages, roasted garlic & asiago",
+        "Name": "Roasted garlic & asiago chicken sausages",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.8,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Ground turkey, turkey",
+        "Name": "Ground turkey",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.1,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Italian seasoned ground turkey, italian seasoned",
+        "Name": "Italian seasoned ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Applewood smoke turkey breast tenderloins, applewood smoke",
+        "Name": "Applewood smoke turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.5,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Ta co seasoned ground turkey lean, ta co seasoned ground turkey",
+        "Name": "Ta co seasoned ground turkey lean",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Italian style ground turkey, italian style",
+        "Name": "Italian style ground turkey",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 15.2,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "91% lean | 9% fat ground turkey",
+        "Name": "91% lean 9% fat ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -4320,7 +4320,7 @@
         }
     },
     {
-        "Name": "97% lean | 3% fat extra lean ground white turkey",
+        "Name": "97% lean 3% fat extra lean ground white turkey",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 3.1,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Tinga de pollo mostly white meat chicken in a chipotle sauce, tinga de pollo",
+        "Name": "Tinga de pollo mostly white meat chicken in a chipotle sauce",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 3.6,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Lean ground turkey, turkey",
+        "Name": "Lean ground turkey",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.1,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Turkey breast tenderloins, turkey",
+        "Name": "Turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "99% lean i 1% fat ground turkey breast, turkey",
+        "Name": "99% lean i 1% fat ground turkey breast",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "Applewood smoke flavor smoke turkey breast tenderloins, applewood smoke",
+        "Name": "Applewood smoke flavor smoke turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.5,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Ground chicken, chicken",
+        "Name": "Ground chicken",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Original turkey patties, original",
+        "Name": "Original turkey patties",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 7.8,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Thai-style seasoned ground chicken with garlic, shallots, soy sauce & ginger, thai-style",
+        "Name": "Thai-style seasoned ground chicken with garlic, shallots, soy sauce & ginger",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 7.1,
@@ -4410,7 +4410,7 @@
         }
     },
     {
-        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic, bruschetta",
+        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 6.2,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Turkey breakfast sausage patties, turkey breakfast",
+        "Name": "Turkey breakfast sausage patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 6.2,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned 91% lean 9% fat ground turkey, italian style seasoned",
+        "Name": "Italian style seasoned 91% lean 9% fat ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "Pollo adobado white meat chicken in an adobo seasoning with a hint of citrus, pollo adobado",
+        "Name": "Pollo adobado white meat chicken in an adobo seasoning with a hint of citrus",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 3.1,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "Turkey patties, turkey",
+        "Name": "Turkey patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -4464,7 +4464,7 @@
         }
     },
     {
-        "Name": "Seasoned turkey patties, seasoned",
+        "Name": "Seasoned turkey patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Tinga de pollo white meat chicken in a chipotle sauce, tinga de pollo",
+        "Name": "Tinga de pollo white meat chicken in a chipotle sauce",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 3.6,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "85% lean 15% fat turkey breakfast sausage, turkey",
+        "Name": "85% lean 15% fat turkey breakfast sausage",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 14.3,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Spinach & feta chicken patties, spinach & feta",
+        "Name": "Spinach & feta chicken patties",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 7.8,
@@ -4563,7 +4563,7 @@
         }
     },
     {
-        "Name": "99% lean  1% fat ground turkey breast",
+        "Name": "99% lean 1% fat ground turkey breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -4572,7 +4572,7 @@
         }
     },
     {
-        "Name": "Perdue, short cuts, carved chicken breast, honey roasted, honey roasted",
+        "Name": "Perdue, short cuts, carved chicken breast, honey roasted",
         "Nutrients": {
             "Protein": 23.9,
             "Fat": 2.8,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Extra lean ground breast , natural rosemary ",
+        "Name": "Extra lean ground breast , natural rosemary",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 1.8,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "94% lean / 6% fat turkey burgers",
+        "Name": "94% lean6% fat turkey burgers",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 6.2,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "Festive, ground turkey, original, original",
+        "Name": "Festive, ground turkey, original",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 17.9,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Butterball, everyday fresh ground turkey, seasoned, seasoned",
+        "Name": "Butterball, everyday fresh ground turkey, seasoned",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Fajita-seasoned chicken breast strips, fajita-seasoned chicken",
+        "Name": "Fajita-seasoned chicken breast strips",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -4689,7 +4689,7 @@
         }
     },
     {
-        "Name": "Simply seasoned with sea salt & cracked black pepper chicken burgers, simply seasoned with sea salt & cracked black pepper",
+        "Name": "Simply seasoned with sea salt & cracked black pepper chicken burgers",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 8.8,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Bacon-wrapped bbq seasoned chicken grillers, bacon-wrapped",
+        "Name": "Bacon-wrapped bbq seasoned chicken grillers",
         "Nutrients": {
             "Protein": 24.6,
             "Fat": 17.5,
@@ -4707,7 +4707,7 @@
         }
     },
     {
-        "Name": "Maple waffle chicken breasts breaded with a maple waffle sausage seasoning, maple waffle",
+        "Name": "Maple waffle chicken breasts breaded with a maple waffle sausage seasoning",
         "Nutrients": {
             "Protein": 19.2,
             "Fat": 8.3,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "Hand-trimmed boneless, skinless chicken thighs",
+        "Name": "H&-trimmed boneless, skinless chicken thighs",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 8.0,
@@ -4734,7 +4734,7 @@
         }
     },
     {
-        "Name": "Hand-trimmed boneless, skinless chicken breast fillets",
+        "Name": "H&-trimmed boneless, skinless chicken breast fillets",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -4743,7 +4743,7 @@
         }
     },
     {
-        "Name": "Hand-trimmed boneless, skinless chicken tenders",
+        "Name": "H&-trimmed boneless, skinless chicken tenders",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 0.9,
@@ -4770,7 +4770,7 @@
         }
     },
     {
-        "Name": "Southwest-style corn, rice, black bean, & poblano chicken patties, southwest-style",
+        "Name": "Southwest-style corn, rice, black bean, & poblano chicken patties",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 5.5,
@@ -4779,7 +4779,7 @@
         }
     },
     {
-        "Name": "Rotisserie-seasoned ground chicken, rotisserie-seasoned",
+        "Name": "Rotisserie-seasoned ground chicken",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 8.8,
@@ -4788,7 +4788,7 @@
         }
     },
     {
-        "Name": "Hand-trimmed, boneless, skinless chicken thighs",
+        "Name": "H&-trimmed, boneless, skinless chicken thighs",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.0,
@@ -4797,7 +4797,7 @@
         }
     },
     {
-        "Name": "Extra lean ground breast ",
+        "Name": "Extra lean ground breast",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 1.8,
@@ -4815,7 +4815,7 @@
         }
     },
     {
-        "Name": "Homestyle turkey breast tenderloins, homestyle",
+        "Name": "Homestyle turkey breast tenderloins",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 3.1,
@@ -4824,7 +4824,7 @@
         }
     },
     {
-        "Name": "Southwest style turkey breast tenderloins chipotle seasoning, southwest style, turkey breast",
+        "Name": "Southwest style turkey breast tenderloins chipotle seasoning, southwest style",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "Rotisserie flavor turkey breast tenderloins, rotisserie",
+        "Name": "Rotisserie flavor turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -4842,7 +4842,7 @@
         }
     },
     {
-        "Name": "Turkey seasoning montreal breast tenderloins, turkey",
+        "Name": "Turkey seasoning montreal breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Southwest-style chipotle ranchero turkey skillet kit, southwest-style chipotle ranchero",
+        "Name": "Southwest-style chipotle ranchero turkey skillet kit",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 3.0,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Asian-style orange ginger turkey skillet kit, asian-style orange ginger",
+        "Name": "Asian-style orange ginger turkey skillet kit",
         "Nutrients": {
             "Protein": 22.6,
             "Fat": 3.0,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Rotisserie turkey breast tenderloins, rotisserie",
+        "Name": "Rotisserie turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -4878,7 +4878,7 @@
         }
     },
     {
-        "Name": "Southwest style chipotle seasoning turkey breast tenderloins, southwest style chipotle",
+        "Name": "Southwest style chipotle seasoning turkey breast tenderloins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.1,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Turkey breakfast sausage patties, turkey",
+        "Name": "Turkey breakfast sausage patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 6.2,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Bacon-wrapped chicken breasts stuffed with jalapeno cream cheese, bacon-wrapped chicken breasts",
+        "Name": "Bacon-wrapped chicken breasts stuffed with jalapeno cream cheese",
         "Nutrients": {
             "Protein": 22.2,
             "Fat": 11.5,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Italian seasoned lean ground turkey, italian seasoned",
+        "Name": "Italian seasoned lean ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "Taco seasoned lean ground turkey, taco seasoned",
+        "Name": "Taco seasoned lean ground turkey",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.0,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "93% lean | 7% fat turkey patties",
+        "Name": "93% lean 7% fat turkey patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -4977,7 +4977,7 @@
         }
     },
     {
-        "Name": "Applewood smoke flavor turkey breast tenderloin, applewood smoke",
+        "Name": "Applewood smoke flavor turkey breast tenderloin",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -4986,7 +4986,7 @@
         }
     },
     {
-        "Name": "Island teriyaki turkey breast tenderloins, island teriyaki",
+        "Name": "Isl& teriyaki turkey breast tenderloins",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic, bruschetta with tomatoes, basil & garlic",
+        "Name": "Bruschetta seasoned ground chicken with tomatoes, basil & garlic, bruschetta with tomatoes",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 6.2,
@@ -5004,7 +5004,7 @@
         }
     },
     {
-        "Name": "Breaded stuffed chicken breasts with ham & swiss cheese, ham & swiss cheese",
+        "Name": "Breaded stuffed chicken breasts with ham & swiss cheese",
         "Nutrients": {
             "Protein": 21.5,
             "Fat": 5.2,
@@ -5013,7 +5013,7 @@
         }
     },
     {
-        "Name": "Stuffed chicken breasts with fresh asparagus & cheddar cheese, asparagus & cheddar cheese",
+        "Name": "Stuffed chicken breasts with fresh asparagus & cheddar cheese",
         "Nutrients": {
             "Protein": 20.6,
             "Fat": 5.2,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Beer brined chicken party wings, beer brined",
+        "Name": "Beer brined chicken party wings",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 12.5,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Cajun style boneless duck breast, cajun style",
+        "Name": "Cajun style boneless duck breast",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 15.9,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Rotisserie-seasoned chicken patties, rotisserie-seasoned",
+        "Name": "Rotisserie-seasoned chicken patties",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 8.6,
@@ -5058,7 +5058,7 @@
         }
     },
     {
-        "Name": "Sweet asian recipe - boneless duck breast, sweet asian recipe",
+        "Name": "Sweet asian recipe - boneless duck breast",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 15.9,
@@ -5112,7 +5112,7 @@
         }
     },
     {
-        "Name": "Chicken breast strips + seasoned panko breadcrumbs, sweet chili",
+        "Name": "Chicken breast strips & seasoned panko breadcrumbs, sweet chili",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 2.5,
@@ -5121,7 +5121,7 @@
         }
     },
     {
-        "Name": "Spinach & 3-cheese stuffed chicken patties, spinach & 3-cheese",
+        "Name": "Spinach & stuffed chicken patties",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 5.5,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Honey roasted turkey breast, honey roasted",
+        "Name": "Honey roasted turkey breast",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "Quarter pound organic turkey burgers, turkey",
+        "Name": "Quarter pound organic turkey burgers",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 8.0,
@@ -5157,7 +5157,7 @@
         }
     },
     {
-        "Name": "Jalapeno cheddar with jalapenos and sharp cheddar chicken burgers, jalapeno cheddar",
+        "Name": "Jalapeno cheddar with jalapenos & sharp cheddar chicken burgers",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 9.7,
@@ -5166,7 +5166,7 @@
         }
     },
     {
-        "Name": "Taco night with mild taco seasoning seasoned ground chicken, taco night with mild taco seasoning",
+        "Name": "Taco night with mild taco seasoning seasoned ground chicken",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 8.9,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Chicken cordon bleu breaded boneless skinless chicken breast stuffed with ham & swiss cheese ez meals, chicken cordon bleu",
+        "Name": "Chicken cordon bleu breaded boneless skinless chicken breast stuffed with ham & swiss cheese ez meals",
         "Nutrients": {
             "Protein": 22.3,
             "Fat": 4.5,
@@ -5184,7 +5184,7 @@
         }
     },
     {
-        "Name": "Simply seasoned chicken breast, simply seasoned",
+        "Name": "Simply seasoned chicken breast",
         "Nutrients": {
             "Protein": 18.5,
             "Fat": 14.1,
@@ -5193,7 +5193,7 @@
         }
     },
     {
-        "Name": "Sweet & sassy chicken party wings, sweet & sassy",
+        "Name": "Sweet & sassy chicken party wings",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 17.0,
@@ -5202,7 +5202,7 @@
         }
     },
     {
-        "Name": "Chicken fresh ground, chicken",
+        "Name": "Chicken fresh ground",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 3.1,
@@ -5220,7 +5220,7 @@
         }
     },
     {
-        "Name": "Salt & pepper sous vide chicken, salt & pepper",
+        "Name": "Salt & pepper sous vide chicken",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 0.0,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Stuffed chicken breast with three cheeses, spinach & white wine, three cheeses, spinach & white wine",
+        "Name": "Stuffed chicken breast with three cheeses, spinach & white wine, three cheeses",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 5.7,
@@ -5238,7 +5238,7 @@
         }
     },
     {
-        "Name": "Broth, chicken ",
+        "Name": "Broth, chicken",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.0,
@@ -5247,7 +5247,7 @@
         }
     },
     {
-        "Name": "Ground turkey patties, ground turkey",
+        "Name": "Ground turkey patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "93% lean / 7% fat ground turkey",
+        "Name": "93% lean7% fat ground turkey",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
@@ -5265,7 +5265,7 @@
         }
     },
     {
-        "Name": "98% lean / 2% fat ground turkey breast",
+        "Name": "98% lean2% fat ground turkey breast",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 1.3,
@@ -5274,7 +5274,7 @@
         }
     },
     {
-        "Name": "Chipotle seasoned chicken, chipotle seasoned",
+        "Name": "Chipotle seasoned chicken",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 7.9,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Aidells, italian style chicken meatballs, mozzarella cheese, mozzarella cheese",
+        "Name": "Aidells, italian style chicken meatballs, mozzarella cheese",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 17.2,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Herbs d'italia dark meat ground chicken with italian style seasonings, herbs d'italia",
+        "Name": "Herbs ditalia dark meat ground chicken with italian style seasonings",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 2.7,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "Name": "Bacon & cheddar stuffed/breaded boneless chicken breast ez meals, bacon & cheddar",
+        "Name": "Bacon & cheddar stuffed/breaded boneless chicken breast ez meals",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 7.1,
@@ -5463,7 +5463,7 @@
         }
     },
     {
-        "Name": "Cordon bleu with ham & swiss cheese bacon wrapped stuffed chicken breast, cordon bleu with ham & swiss cheese",
+        "Name": "Cordon bleu with ham & swiss cheese bacon wrapped stuffed chicken breast",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 8.0,
@@ -5472,7 +5472,7 @@
         }
     },
     {
-        "Name": "Original endicott style seasoned chicken breast cubes, original endicott style",
+        "Name": "Original endicott style seasoned chicken breast cubes",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 7.1,
@@ -5490,7 +5490,7 @@
         }
     },
     {
-        "Name": "Italian dressing chicken breast, italian dressing",
+        "Name": "Italian dressing chicken breast",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 8.0,
@@ -5553,7 +5553,7 @@
         }
     },
     {
-        "Name": "Applewood smoke chicken fully cooked sausage patties, applewood smoke chicken",
+        "Name": "Applewood smoke chicken fully cooked sausage patties",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 12.5,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Vidalia sweet onion and havarti cheese chicken patties",
+        "Name": "Vidalia sweet onion & havarti cheese chicken patties",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.9,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Shakers chicken breast strips + seasoned panko breadcrumbs",
+        "Name": "Shakers chicken breast strips & seasoned panko breadcrumbs",
         "Nutrients": {
             "Protein": 20.7,
             "Fat": 2.5,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Shakers chicken breast strips+seasoned panko breadcrumbs, honey bbq",
+        "Name": "Shakers chicken breast strips&seasoned panko breadcrumbs, honey bbq",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 2.1,
@@ -5616,7 +5616,7 @@
         }
     },
     {
-        "Name": "Chicken breast strips + seasoned panko breadcrumps",
+        "Name": "Chicken breast strips & seasoned panko breadcrumps",
         "Nutrients": {
             "Protein": 20.7,
             "Fat": 2.5,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Sweet thai-style small batch chicken ground seasoned patty blend with shallots, cilantro, honey & ginger, sweet thai-style",
+        "Name": "Sweet thai-style small batch chicken ground seasoned patty blend with shallots, cilantro, honey & ginger",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 8.0,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Hot italian style chicken sausage burgers with chili peppers and roasted red peppers, hot italian style",
+        "Name": "Hot italian style chicken sausage burgers with chili peppers & roasted red peppers",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 8.2,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Bruschetta tomato, basil & garlic chicken patties, bruschetta",
+        "Name": "Bruschetta tomato, basil & garlic chicken patties",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 9.4,
@@ -5697,7 +5697,7 @@
         }
     },
     {
-        "Name": "Chicken oktoberfest patties, chicken",
+        "Name": "Chicken oktoberfest patties",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 3.5,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Italian herb boneless/skinless chicken breasts with rib meat, italian herb",
+        "Name": "Italian herb boneless/skinless chicken breasts with rib meat",
         "Nutrients": {
             "Protein": 22.8,
             "Fat": 3.5,
@@ -5715,7 +5715,7 @@
         }
     },
     {
-        "Name": "Original chicken patties, original",
+        "Name": "Original chicken patties",
         "Nutrients": {
             "Protein": 20.3,
             "Fat": 7.0,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Chicken breast strips with rib meat, chicken",
+        "Name": "Chicken breast strips with rib meat",
         "Nutrients": {
             "Protein": 23.8,
             "Fat": 4.8,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Sweet bourbon marinated boneless skinless chicken breast with rib meat ez meals, sweet bourbon",
+        "Name": "Sweet bourbon marinated boneless skinless chicken breast with rib meat ez meals",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -5751,7 +5751,7 @@
         }
     },
     {
-        "Name": "Spicy candied teriyaki chicken breast skewers with spicy candied teriyaki sauce, spicy candied teriyaki",
+        "Name": "Spicy c&ied teriyaki chicken breast skewers with spicy c&ied teriyaki sauce",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 2.2,
@@ -5760,7 +5760,7 @@
         }
     },
     {
-        "Name": "Mesquite flavored chicken breast with rib meat, mesquite",
+        "Name": "Mesquite flavored chicken breast with rib meat",
         "Nutrients": {
             "Protein": 20.6,
             "Fat": 2.5,
@@ -5769,7 +5769,7 @@
         }
     },
     {
-        "Name": "Butter garlic flavored chicken breast, butter garlic",
+        "Name": "Butter garlic flavored chicken breast",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 2.6,
@@ -5778,7 +5778,7 @@
         }
     },
     {
-        "Name": "Theo's steakhouse chicken skewers, theo's steakhouse chicken",
+        "Name": "Theos steakhouse chicken skewers",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 4.4,
@@ -5787,7 +5787,7 @@
         }
     },
     {
-        "Name": "Marinated honey mustard chicken breasts, honey mustard",
+        "Name": "Marinated honey mustard chicken breasts",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 3.5,
@@ -5796,7 +5796,7 @@
         }
     },
     {
-        "Name": "Parmesan chicken breast cutlets, parmesan chicken",
+        "Name": "Parmesan chicken breast cutlets",
         "Nutrients": {
             "Protein": 21.1,
             "Fat": 10.3,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Roasted garlic & sundried tomato seasoned chicken breast, roasted garlic & sundried tomato",
+        "Name": "Roasted garlic & sundried tomato seasoned chicken breast",
         "Nutrients": {
             "Protein": 19.4,
             "Fat": 5.3,
@@ -5823,7 +5823,7 @@
         }
     },
     {
-        "Name": "Isernio's, italian chicken sausage",
+        "Name": "Isernios, italian chicken sausage",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 3.7,
@@ -5859,7 +5859,7 @@
         }
     },
     {
-        "Name": "Red pepper & feta cheese seasoned chicken burgers, red pepper & feta cheese",
+        "Name": "Red pepper & feta cheese seasoned chicken burgers",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 12.6,
@@ -5868,7 +5868,7 @@
         }
     },
     {
-        "Name": "Jalapeno bacon cheddar turkey patty, jalapeno bacon cheddar",
+        "Name": "Jalapeno bacon cheddar turkey patty",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 6.5,
@@ -5877,7 +5877,7 @@
         }
     },
     {
-        "Name": "95% lean | 5% fat ground turkey",
+        "Name": "95% lean 5% fat ground turkey",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 5.4,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Uncured smoked duck bacon, uncured smoked",
+        "Name": "Uncured smoked duck bacon",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 25.0,
@@ -5895,7 +5895,7 @@
         }
     },
     {
-        "Name": "Chicken breast stuffed with bell pepper, onion and pineapple hawaiian luau, chicken breast stuffed with bell pepper, onion and pineapple",
+        "Name": "Chicken breast stuffed with bell pepper, onion & pineapple hawaiian luau, chicken breast stuffed with bell pepper",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 0.0,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Barbecue kentucky style chicken breast, barbecue",
+        "Name": "Barbecue kentucky style chicken breast",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 2.2,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Turkey organic ground breast, turkey",
+        "Name": "Turkey organic ground breast",
         "Nutrients": {
             "Protein": 23.0,
             "Fat": 0.4,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "93% lean / 7% fat organic ground chicken",
+        "Name": "93% lean7% fat organic ground chicken",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Tomato herb chicken breasts boneless & skinless with rib meat, up to 18% seasoned marinade for flavor and tenderness, tomato herb",
+        "Name": "Tomato herb chicken breasts boneless & skinless with rib meat, up to 18% seasoned marinade for flavor & tenderness",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.7,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Indian butter chicken with jasmine rice meal kit, indian butter chicken with jasmine rice",
+        "Name": "Indian butter chicken with jasmine rice meal kit",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 3.2,
@@ -5994,7 +5994,7 @@
         }
     },
     {
-        "Name": "Mediterranean style boneless skinless chicken thighs in sweet pepper sauce, mediterranean style",
+        "Name": "Mediterranean style boneless skinless chicken thighs in sweet pepper sauce",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 11.4,
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "Name": "Boneless skinless chicken thighs in tikka masala sauce, tikka masala sauce",
+        "Name": "Boneless skinless chicken thighs in tikka masala sauce",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 9.3,
@@ -6012,7 +6012,7 @@
         }
     },
     {
-        "Name": "Teriyaki glazed cook-in-bag chicken thighs with sliced onions, green & red bell peppers in a teriyaki marinade, teriyaki glazed",
+        "Name": "Teriyaki glazed cook-in- chicken thighs with sliced onions, green & red bell peppers in a teriyaki marinade",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 3.6,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Taco seasoned turkey sausage, taco seasoned",
+        "Name": "Taco seasoned turkey sausage",
         "Nutrients": {
             "Protein": 23.2,
             "Fat": 8.9,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Buffalo flavored seasoned chicken breast, buffalo",
+        "Name": "Buffalo flavored seasoned chicken breast",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 6.5,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Kentucky style bourbon chicken skewers, kentucky style bourbon",
+        "Name": "Kentucky style bourbon chicken skewers",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 3.1,
@@ -6066,7 +6066,7 @@
         }
     },
     {
-        "Name": "Pulled chicken premium all white meat rotisserie chicken lightly marinated and seasoned with salt and pepper, pulled chicken",
+        "Name": "Pulled chicken premium all white meat rotisserie chicken lightly marinated & seasoned with salt & pepper",
         "Nutrients": {
             "Protein": 28.2,
             "Fat": 2.9,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Bacon, garlic cream swiss chicken breasts bacon wrapped chicken filled with garlic cream stuffing and swiss cheese, bacon, garlic cream swiss chicken breasts",
+        "Name": "Bacon, garlic cream swiss chicken breasts bacon wrapped chicken filled with garlic cream stuffing & swiss cheese, bacon",
         "Nutrients": {
             "Protein": 22.7,
             "Fat": 11.1,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Lemon peppercorn boneless & skinless chicken breasts with rib meat, up to 16% seasoned marinade, lemon peppercorn",
+        "Name": "Lemon peppercorn boneless & skinless chicken breasts with rib meat, up to 16% seasoned marinade",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -6111,7 +6111,7 @@
         }
     },
     {
-        "Name": "Chicken sliders seasoned with salt, pepper and a hint of cayenne pepper mini-burgers , chicken sliders",
+        "Name": "Chicken sliders seasoned with salt, pepper & a hint of cayenne pepper mini-burgers",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 2.6,
@@ -6120,7 +6120,7 @@
         }
     },
     {
-        "Name": "Thai-style chicken skewers, thai-style",
+        "Name": "Thai-style chicken skewers",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 2.2,
@@ -6129,7 +6129,7 @@
         }
     },
     {
-        "Name": "Parmesan breaded chicken breast cutlets, parmesan breaded chicken breast",
+        "Name": "Parmesan breaded chicken breast cutlets",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 6.2,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Teriyaki seasoned boneless skinless chicken breasts oven ready bag, teriyaki",
+        "Name": "Teriyaki seasoned boneless skinless chicken breasts oven ready",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.0,
@@ -6174,7 +6174,7 @@
         }
     },
     {
-        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts oven ready bag, rustic tomato & basil",
+        "Name": "Rustic tomato & basil seasoned boneless skinless chicken breasts oven ready",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 3.6,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Southwestern style seasoned boneless skinless chicken breasts oven ready bag, southwestern style",
+        "Name": "Southwestern style seasoned boneless skinless chicken breasts oven ready",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 3.6,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "Chipotle seasoned chicken instant pot, chipotle seasoned chicken",
+        "Name": "Chipotle seasoned chicken instant pot",
         "Nutrients": {
             "Protein": 11.4,
             "Fat": 7.9,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Smoked turkey wings, smoked",
+        "Name": "Smoked turkey wings",
         "Nutrients": {
             "Protein": 23.9,
             "Fat": 19.5,
@@ -6210,7 +6210,7 @@
         }
     },
     {
-        "Name": "Blackened chicken strips, blackened chicken",
+        "Name": "Blackened chicken strips",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 5.9,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Chipotle lime chicken with citrus butter, chipotle lime",
+        "Name": "Chipotle lime chicken with citrus butter",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 8.2,
@@ -6237,7 +6237,7 @@
         }
     },
     {
-        "Name": "Simply roasted chicken breast strips with rib meat, simply roasted",
+        "Name": "Simply roasted chicken breast strips with rib meat",
         "Nutrients": {
             "Protein": 23.8,
             "Fat": 4.8,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Teriyaki chicken & rice instant pot kits, teriyaki chicken & rice",
+        "Name": "Teriyaki chicken & rice instant pot kits",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 3.9,
@@ -6255,7 +6255,7 @@
         }
     },
     {
-        "Name": "Hatch green chile chicken & rice casserole instant pot kits, hatch green chile chicken & rice casserole",
+        "Name": "Hatch green chile chicken & rice casserole instant pot kits",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 4.5,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Smokehouse seasoned chicken breasts, smokehouse seasoned",
+        "Name": "Smokehouse seasoned chicken breasts",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 4.0,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Italian style seasoned cuts boneless skinless chicken breast with rib meat, italian style",
+        "Name": "Italian style seasoned cuts boneless skinless chicken breast with rib meat",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 2.2,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "Chipotle chicken with honey lime glaze premium pairings pre-portioned chipotle seasoned boneless skinless chicken breast with up to 9% chicken broth, sea salt, chipotle chicken with honey lime glaze",
+        "Name": "Chipotle chicken with honey lime glaze premium pairings pre-portioned chipotle seasoned boneless skinless chicken breast with up to 9% chicken broth, sea salt",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 3.9,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Backyard bbq seasoned chicken breast, backyard bbq",
+        "Name": "Backyard bbq seasoned chicken breast",
         "Nutrients": {
             "Protein": 19.4,
             "Fat": 5.3,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Olive oil & herb chicken with basil pistou premium pairings pre-portioned italian seasoned boneless, skinless, chicken breast marinated with up to a 9% solution of broth, and basil pistou, olive oil & herb chicken with basil",
+        "Name": "Olive oil & herb chicken with basil pistou premium pairings pre-portioned italian seasoned boneless, skinless, chicken breast marinated with up to a 9% solution of broth, & basil pistou",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 6.2,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Turkey ground, turkey",
+        "Name": "Turkey ground",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 7.1,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Korean style bbq seasoned boneless & skinless chicken thighs, korean style bbq",
+        "Name": "Korean style bbq seasoned boneless & skinless chicken thighs",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 5.3,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "Honey sriracha seasoned boneless & skinless chicken thighs, honey sriracha seasoned",
+        "Name": "Honey sriracha seasoned boneless & skinless chicken thighs",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 4.4,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Ultra thin oven roasted turkey breast and honey ham",
+        "Name": "Ultra thin oven roasted turkey breast & honey ham",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 2.7,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Oven ready seasoned in cooking bag whole roaster",
+        "Name": "Oven ready seasoned in cooking whole roaster",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 13.4,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Cornish  hen",
+        "Name": "Cornish hen",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 14.3,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Fresh  chicken leg quarters",
+        "Name": "Fresh chicken leg quarters",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 22.3,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Roast half duck, roast",
+        "Name": "Roast half duck",
         "Nutrients": {
             "Protein": 19.7,
             "Fat": 15.5,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Southwest style seasoned cuts boneless, skinless chicken thighs coated with paprika, southwest style",
+        "Name": "Southwest style seasoned cuts boneless, skinless chicken thighs coated with paprika",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 9.8,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Garlic ginger teriyaki chicken seasoned boneless skinless chicken thighs, garlic ginger teriyaki chicken",
+        "Name": "Garlic ginger teriyaki chicken seasoned boneless skinless chicken thighs",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 3.5,

@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Atlantic salmon with seafood stuffing and tilapia with spinach & feta stuffing",
+        "Name": "Atlantic salmon with seafood stuffing & tilapia with spinach & feta stuffing",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 13.3,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "California cream cheese roll, california cream cheese",
+        "Name": "California cream cheese roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.1,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Coconut shrimp roll, coconut shrimp",
+        "Name": "Coconut shrimp roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.7,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Veggie sushi sandwich, veggie",
+        "Name": "Veggie sushi s&wich",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "12pc shrimp temp kabuki roll, shrimp temp kabuki",
+        "Name": "Shrimp temp kabuki roll",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 4.2,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Ahimi tomato california roll, ahimi tomato california",
+        "Name": "Ahimi tomato california roll",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.0,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "Chef's assorted nigiri, assorted",
+        "Name": "Chefs assorted nigiri",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 2.5,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Gold n crispy shrimp burrito wr, gold n crispy shrimp",
+        "Name": "Gold n crispy shrimp burrito wr",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 4.1,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "California mango fresh roll, california mango fresh",
+        "Name": "California mango fresh roll",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 2.8,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "12pc salmon avocado roll qbr, salmon avocado",
+        "Name": "Salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 5.2,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "12pc sp salmon avocado roll wr, salmon avocado",
+        "Name": "Sp salmon avocado roll wr",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 6.5,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "12pc sp shrimp cali roll wr, shrimp cali",
+        "Name": "Sp shrimp cali roll wr",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.9,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "8pc chef's assorted nigiri qbr, chef's assorted",
+        "Name": "Chefs assorted nigiri qbr",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 2.2,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "12pc spicy california roll qbr, spicy california",
+        "Name": "Spicy california roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "All tuna nigiri roll combo qbr, all tuna nigiri",
+        "Name": "All tuna nigiri roll combo qbr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.5,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Dueling duet roll qbr, dueling duet",
+        "Name": "Dueling duet roll qbr",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 3.3,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "12pc california roll qbr, california",
+        "Name": "California roll qbr",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.7,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "12pc sp salmon avocado roll qbr, salmon avocado",
+        "Name": "Sp salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 6.5,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "12pc philly roll wr, philly",
+        "Name": "Philly roll wr",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 8.9,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "12pc sp tuna avocado roll wr, tuna avocado",
+        "Name": "Sp tuna avocado roll wr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.8,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "12pc shrimp cali roll wr, shrimp cali",
+        "Name": "Shrimp cali roll wr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.1,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "12pc avocado cucumber roll qbr, avocado cucumber",
+        "Name": "Avocado cucumber roll qbr",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 4.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "12pc tuna avocado roll wr, tuna avocado",
+        "Name": "Tuna avocado roll wr",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.9,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "All veggie roll platter qbr, all veggie",
+        "Name": "All veggie roll platter qbr",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 4.5,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "12pc cali cream cheese roll qbr, cali cream cheese",
+        "Name": "Cali cream cheese roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.2,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "12pc shrimp cali roll qbr, shrimp cali",
+        "Name": "Shrimp cali roll qbr",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.1,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "American dream platter qbr, american dream",
+        "Name": "American dream platter qbr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 2.2,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Sushi nori, wrap n' roll, roasted seaweed",
+        "Name": "Sushi nori, wrap n roll, roasted seaweed",
         "Nutrients": {
             "Protein": 50.0,
             "Fat": 0.0,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "365 everyday value, sushi rice short grain white",
+        "Name": "Everyday value, sushi rice short grain white",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 0.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Pretzel soft authentic sandwich rolls",
+        "Name": "Pretzel soft authentic s&wich rolls",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 2.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Miso kale (veg)",
+        "Name": "Miso kale",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.5,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Chef's special alaska roll",
+        "Name": "Chefs special alaska roll",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 4.7,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Toasted coconut, shrimp jalapeno, red bell pepper, sriracha aioli coconut shrimp roll, toasted coconut, shrimp jalapeno, red bell pepper, sriracha aioli",
+        "Name": "Toasted coconut, shrimp jalapeno, red bell pepper, sriracha aioli coconut shrimp roll, toasted coconut, shrimp jalapeno, red bell pepper",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.7,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Avocado, cucumber, and surimi topped with shrimp",
+        "Name": "Avocado, cucumber, & surimi topped with shrimp",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.3,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "9pc sashimi combo",
+        "Name": "Sashimi combo",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 2.6,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Spicy salmon salad rice bowl wr, spicy salmon",
+        "Name": "Spicy salmon salad rice bowl wr",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.7,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll combo qbr",
+        "Name": "Vegetarian roll combo qbr",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 7.3,
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "Name": "9pc sashimi salmon",
+        "Name": "Sashimi salmon",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 6.4,
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "Name": "8pc chef's assorted nigiri wr",
+        "Name": "Chefs assorted nigiri wr",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 2.5,
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "Name": "12pc salmon avocado roll wr",
+        "Name": "Salmon avocado roll wr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.7,
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "Name": "Spicy sriracha salmon roll qbr, spicy sriracha salmon",
+        "Name": "Spicy sriracha salmon roll qbr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.2,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Nigiri & roll combo deluxe 2",
+        "Name": "Nigiri & roll combo deluxe",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 2.6,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "12pc avocado regular roll wr",
+        "Name": "Avocado regular roll wr",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 5.1,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Spicy sriracha salmon roll wr, spicy sriracha salmon",
+        "Name": "Spicy sriracha salmon roll wr",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.2,
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "Name": "12pc crunch set roll wr",
+        "Name": "Crunch set roll wr",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 5.2,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Shrimp tempura sushi sandwich combo",
+        "Name": "Shrimp tempura sushi s&wich combo",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 5.9,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "9pc sashimi albacore",
+        "Name": "Sashimi albacore",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 0.9,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "9pc sashimi tuna",
+        "Name": "Sashimi tuna",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 0.3,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Spicy tuna avocado roll qbr, spicy tuna avocado",
+        "Name": "Spicy tuna avocado roll qbr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.2,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll combo wr",
+        "Name": "Vegetarian roll combo wr",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.6,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Grilled salmon avocado roll qbr, grilled salmon avocado",
+        "Name": "Grilled salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 4.5,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Tuna avocado roll qbr, tuna avocado",
+        "Name": "Tuna avocado roll qbr",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.4,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Yuzu salmon poke wr, yuzu salmon",
+        "Name": "Yuzu salmon poke wr",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.3,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "Tuna & salmon nigiri/roll combo wr, tuna & salmon",
+        "Name": "Tuna & salmon nigiri/roll combo wr",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 3.4,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Sriracha double spicy tuna roll wr, sriracha double spicy tuna",
+        "Name": "Sriracha double spicy tuna roll wr",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 3.6,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "Vegetable roll qbr, vegetable",
+        "Name": "Vegetable roll qbr",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.9,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Tempura fest roll wr, tempura fest",
+        "Name": "Tempura fest roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 7.7,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Nigiri and roll classic platter sm wr",
+        "Name": "Nigiri & roll classic platter sm wr",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 4.6,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Shrimp california roll wr, shrimp california",
+        "Name": "Shrimp california roll wr",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 2.9,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "Nigiri and roll classic platter lg br",
+        "Name": "Nigiri & roll classic platter lg br",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 1.6,
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "Name": "Grilled chicken summer roll, grilled chicken summer",
+        "Name": "Grilled chicken summer roll",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 1.8,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "Regular roll combo wr, regular",
+        "Name": "Regular roll combo wr",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.6,
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "Name": "Tuna sushi sampler wr, tuna",
+        "Name": "Tuna sushi sampler wr",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.7,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Shrimp summer roll w/ sweet chili sauce, shrimp summer",
+        "Name": "Shrimp summer roll w/ sweet chili sauce",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "Spicy salmon avocado roll wr, spicy salmon avocado",
+        "Name": "Spicy salmon avocado roll wr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.3,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Shrimp california sushi sandwich, shrimp california",
+        "Name": "Shrimp california sushi s&wich",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 4.9,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Tuna mango fresh roll, tuna mango fresh",
+        "Name": "Tuna mango fresh roll",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 2.4,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "Dueling duet roll wr, dueling duet",
+        "Name": "Dueling duet roll wr",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 3.3,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "Salmon sushi set wr, salmon",
+        "Name": "Salmon sushi set wr",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 5.1,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "Grilled salmon avocado roll wr, grilled salmon avocado",
+        "Name": "Grilled salmon avocado roll wr",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 4.5,
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "Name": "Tropical fresh roll veggie w/ peanut sauce, tropical fresh",
+        "Name": "Tropical fresh roll veggie w/ peanut sauce",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 3.8,
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "Name": "Hot shelly poke qbr, hot shelly",
+        "Name": "Hot shelly poke qbr",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.9,
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "Name": "Salmon avocado cream cheese qbr, salmon avocado cream cheese",
+        "Name": "Salmon avocado cream cheese qbr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 6.9,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Shrimp mango fresh roll, shrimp mango fresh",
+        "Name": "Shrimp mango fresh roll",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 2.7,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "Spicy roll wr, spicy",
+        "Name": "Spicy roll wr",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 3.5,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Vegetable dragon roll wr, vegetable dragon",
+        "Name": "Vegetable dragon roll wr",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 5.2,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Spicy tuna avocado roll wr, spicy tuna avocado",
+        "Name": "Spicy tuna avocado roll wr",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 3.2,
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "Name": "Salmon mango fresh roll, salmon mango fresh",
+        "Name": "Salmon mango fresh roll",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 4.2,
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "Name": "Nigiri and roll classic platter lg wr",
+        "Name": "Nigiri & roll classic platter lg wr",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 2.1,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "Rainbow roll wr, rainbow",
+        "Name": "Rainbow roll wr",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 2.6,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "Illinois roll qbr, illinois",
+        "Name": "Illinois roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.7,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "Spicy salmon avocado roll qbr, spicy salmon avocado",
+        "Name": "Spicy salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "Name": "Tuna salmon sampler, tuna salmon",
+        "Name": "Tuna salmon sampler",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 3.4,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": "Salmon sushi sampler, salmon",
+        "Name": "Salmon sushi sampler",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 5.1,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "Vegetable roll wr, vegetable",
+        "Name": "Vegetable roll wr",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.9,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "12pc spicy california roll wr",
+        "Name": "Spicy california roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 5.0,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "August box of the month",
+        "Name": "August of the month",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 5.6,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "4pc spicy shrimp inari",
+        "Name": "Spicy shrimp inari",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 6.1,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "12pc shrimp tempura kabuki roll wr",
+        "Name": "Shrimp tempura kabuki roll wr",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 4.5,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll qbr",
+        "Name": "Vegetarian roll qbr",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 8.4,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "Hawaiian style honolulu tuna poke, hawaiian style",
+        "Name": "Hawaiian style honolulu tuna poke",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 3.2,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Florida roll qbr, florida",
+        "Name": "Florida roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "Louisiana roll qbr, louisiana",
+        "Name": "Louisiana roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "Vegan cucumber avocado roll, vegan cucumber avocado",
+        "Name": "Vegan cucumber avocado roll",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 4.0,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "Classic california roll, classic",
+        "Name": "Classic california roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 4.7,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "Spicy crab roll, spicy crab",
+        "Name": "Spicy crab roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 2.4,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "Spicy california roll wr, spicy california",
+        "Name": "Spicy california roll wr",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 3.4,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Tuna salmon sushi sampler qbr, tuna salmon",
+        "Name": "Tuna salmon sushi sampler qbr",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.0,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Tuna & salmon nigiri roll combo qbr, tuna & salmon nigiri",
+        "Name": "Tuna & salmon nigiri roll combo qbr",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 3.5,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "Salmon avocado roll qbr, salmon avocado",
+        "Name": "Salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 5.2,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Sp salmon avocado roll wr, sp salmon avocado",
+        "Name": "Sp salmon avocado roll wr",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 6.5,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "Sp shrimp cali roll wr, sp shrimp cali",
+        "Name": "Sp shrimp cali roll wr",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.9,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "Cali cream cheese roll qbr, cali cream cheese",
+        "Name": "Cali cream cheese roll qbr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.2,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "Chef's assorted nigiri qbr, assorted",
+        "Name": "Chefs assorted nigiri qbr",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 2.2,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "Spicy california roll qbr, spicy california",
+        "Name": "Spicy california roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.0,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Tuna nigiri roll combo qbr, tuna nigiri",
+        "Name": "Tuna nigiri roll combo qbr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.5,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Tuna sushi sampler qbr, tuna",
+        "Name": "Tuna sushi sampler qbr",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 1.7,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Salmon sushi sampler qbr, salmon",
+        "Name": "Salmon sushi sampler qbr",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 5.2,
@@ -2484,7 +2484,7 @@
         }
     },
     {
-        "Name": "Cali salad roll wr, cali salad",
+        "Name": "Cali salad roll wr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 6.5,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "California roll qbr, california",
+        "Name": "California roll qbr",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 2.7,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Sp salmon avocado roll qbr, salmon avocado",
+        "Name": "Sp salmon avocado roll qbr",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 6.5,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Classic sushi platter wr, classic",
+        "Name": "Classic sushi platter wr",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 3.7,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "Classic sushi platter qbr, classic",
+        "Name": "Classic sushi platter qbr",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.6,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Philly roll wr, philly",
+        "Name": "Philly roll wr",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 8.9,
@@ -2538,7 +2538,7 @@
         }
     },
     {
-        "Name": "Sp tuna avocado roll wr, tuna avocado",
+        "Name": "Sp tuna avocado roll wr",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.8,
@@ -2547,7 +2547,7 @@
         }
     },
     {
-        "Name": "Salmon lover's sushi set, salmon",
+        "Name": "Salmon lovers sushi set",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 7.4,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "Shrimp cali roll wr, shrimp cali",
+        "Name": "Shrimp cali roll wr",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.1,
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "Name": "Avocado cucumber roll qbr, avocado cucumber",
+        "Name": "Avocado cucumber roll qbr",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 4.0,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Tuna avocado roll wr, tuna avocado",
+        "Name": "Tuna avocado roll wr",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 2.9,
@@ -2583,7 +2583,7 @@
         }
     },
     {
-        "Name": "Spicy tuna sushi set, spicy tuna",
+        "Name": "Spicy tuna sushi set",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 3.4,
@@ -2592,7 +2592,7 @@
         }
     },
     {
-        "Name": "Spicy shrimp cali roll wr, spicy shrimp cali",
+        "Name": "Spicy shrimp cali roll wr",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 4.0,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "12pc vegetable roll qbr, vegetable",
+        "Name": "Vegetable roll qbr",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.3,
@@ -2619,7 +2619,7 @@
         }
     },
     {
-        "Name": "Spicy shrimp cali roll qbr, spicy shrimp cali",
+        "Name": "Spicy shrimp cali roll qbr",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 4.0,
@@ -2628,7 +2628,7 @@
         }
     },
     {
-        "Name": "Salmon poke, salmon",
+        "Name": "Salmon poke",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 3.0,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "Shrimp poke, shrimp",
+        "Name": "Shrimp poke",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 1.5,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "Crispy shrimp osaka roll, crispy",
+        "Name": "Crispy shrimp osaka roll",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 6.8,
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "Name": "Shrimp cali roll qbr, shrimp cali",
+        "Name": "Shrimp cali roll qbr",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.1,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Crunchy tuna roll qbr, crunchy tuna",
+        "Name": "Crunchy tuna roll qbr",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 3.9,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "Avocado cucumber roll wr, avocado cucumber",
+        "Name": "Avocado cucumber roll wr",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 3.4,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "Cali salad roll wr, cali",
+        "Name": "Cali salad roll wr",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.6,
@@ -2709,7 +2709,7 @@
         }
     },
     {
-        "Name": "Spicy shrimp inari qbr, spicy shrimp",
+        "Name": "Spicy shrimp inari qbr",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 6.1,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "Cali salad roll qbr, cali salad",
+        "Name": "Cali salad roll qbr",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 6.2,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Green dragon crunch roll qbr, green dragon crunch",
+        "Name": "Green dragon crunch roll qbr",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 7.2,
@@ -2754,7 +2754,7 @@
         }
     },
     {
-        "Name": "California roll, california",
+        "Name": "California roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 4.1,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Shrimp tempura crunch roll wr, shrimp tempura crunch",
+        "Name": "Shrimp tempura crunch roll wr",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 7.3,
@@ -2799,7 +2799,7 @@
         }
     },
     {
-        "Name": "Dynamite roll wr, dynamite",
+        "Name": "Dynamite roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 8.6,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Poke bowl, poke",
+        "Name": "Poke bowl",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 2.0,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "9pc sashimi combo, combo",
+        "Name": "Sashimi combo",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 2.6,
@@ -2862,7 +2862,7 @@
         }
     },
     {
-        "Name": "Very veggie platter sm br, very veggie",
+        "Name": "Very veggie platter sm br",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 4.4,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Wisconsin roll qbr, wisconsin",
+        "Name": "Wisconsin roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.7,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "My tofu sweetness burrito wr, my tofu sweetness",
+        "Name": "My tofu sweetness burrito wr",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.2,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "Spicy roll qbr, spicy",
+        "Name": "Spicy roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 3.1,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "Fusion special wr, fusion",
+        "Name": "Fusion special wr",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 3.4,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll combo qbr, vegetarian",
+        "Name": "Vegetarian roll combo qbr",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 7.3,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "New california roll qbr, new california",
+        "Name": "New california roll qbr",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.6,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "New york roll qbr, new york",
+        "Name": "New york roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.7,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "9pc sashimi salmon, sashimi",
+        "Name": "Sashimi salmon",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 6.4,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "Dynamite roll qbr, dynamite",
+        "Name": "Dynamite roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 8.6,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "8pc chef's assorted nigiri wr, chef's assorted",
+        "Name": "Chefs assorted nigiri wr",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 2.5,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "Insanity roll qbr, insanity",
+        "Name": "Insanity roll qbr",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 5.6,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "Minnesota roll qbr, minnesota",
+        "Name": "Minnesota roll qbr",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 5.7,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Avocado mango tango roll wr, avocado mango tango",
+        "Name": "Avocado mango tango roll wr",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 2.8,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Very veggie platter sm wr, very veggie",
+        "Name": "Very veggie platter sm wr",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 4.6,
@@ -2997,7 +2997,7 @@
         }
     },
     {
-        "Name": "12pc salmon avocado roll wr, salmon avocado",
+        "Name": "Salmon avocado roll wr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 4.7,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Crunchy salmon roll wr, crunchy salmon",
+        "Name": "Crunchy salmon roll wr",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 5.3,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Avocado summer roll w/ sweet chili sauce, avocado summer",
+        "Name": "Avocado summer roll w/ sweet chili sauce",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 2.2,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "Double shrimp roll wr, double shrimp",
+        "Name": "Double shrimp roll wr",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 3.5,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "12pc avocado regular roll wr, avocado regular",
+        "Name": "Avocado regular roll wr",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 5.1,
@@ -3042,7 +3042,7 @@
         }
     },
     {
-        "Name": "12pc crunch set roll wr, crunch set",
+        "Name": "Crunch set roll wr",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 5.2,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "Big easy shrimp roll wr, big easy shrimp",
+        "Name": "Big easy shrimp roll wr",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 8.2,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "All salmon nigiri/roll combo wr, salmon",
+        "Name": "All salmon nigiri/roll combo wr",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 5.0,
@@ -3069,7 +3069,7 @@
         }
     },
     {
-        "Name": "Fusion special qbr, fusion",
+        "Name": "Fusion special qbr",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 3.4,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "Louisiana roll wr, louisiana",
+        "Name": "Louisiana roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 5.7,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Minnesota roll wr, minnesota",
+        "Name": "Minnesota roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 5.7,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Shrimp tempura sushi sandwich combo, shrimp tempura",
+        "Name": "Shrimp tempura sushi s&wich combo",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 5.9,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Florida roll wr, florida",
+        "Name": "Florida roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 5.7,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "9pc sashimi albacore, sashimi",
+        "Name": "Sashimi albacore",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 0.9,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "Crunchy tuna roll wr, crunchy tuna",
+        "Name": "Crunchy tuna roll wr",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.3,
@@ -3132,7 +3132,7 @@
         }
     },
     {
-        "Name": "9pc sashimi tuna, sashimi",
+        "Name": "Sashimi tuna",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 0.3,
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "Name": "Avocado regular roll wr, avocado regular",
+        "Name": "Avocado regular roll wr",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 5.0,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "All tuna nigiri roll combo, tuna",
+        "Name": "All tuna nigiri roll combo",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 0.9,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "Insanity roll wr, insanity",
+        "Name": "Insanity roll wr",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 5.6,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Mai seoul fire tuna burrito wr, mai seoul fire tuna",
+        "Name": "Mai seoul fire tuna burrito wr",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.0,
@@ -3177,7 +3177,7 @@
         }
     },
     {
-        "Name": "Alabama roll wr, alabama",
+        "Name": "Alabama roll wr",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 5.7,
@@ -3186,7 +3186,7 @@
         }
     },
     {
-        "Name": "Very veggie platter lg br, very veggie",
+        "Name": "Very veggie platter lg br",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 4.2,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll combo wr, vegetarian",
+        "Name": "Vegetarian roll combo wr",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 7.6,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "California roll wr, california",
+        "Name": "California roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 2.6,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Green dragon crunch roll wr, green dragon crunch",
+        "Name": "Green dragon crunch roll wr",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 6.9,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Crunchy california roll wr, crunchy california",
+        "Name": "Crunchy california roll wr",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.2,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Grilled chicken banh mi roll wr, grilled chicken",
+        "Name": "Grilled chicken banh mi roll wr",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 3.2,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Shaggy dog roll wr, shaggy dog",
+        "Name": "Shaggy dog roll wr",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 6.7,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Rainbow sushi set, rainbow",
+        "Name": "Rainbow sushi set",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 3.1,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "12pc spicy california roll wr, spicy california",
+        "Name": "Spicy california roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 5.0,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "Salmon & tuna poke bowl wr, salmon & tuna",
+        "Name": "Salmon & tuna poke bowl wr",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.2,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "Spicy tuna salad rice bowl wr, spicy tuna",
+        "Name": "Spicy tuna salad rice bowl wr",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 3.3,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Alabama roll qbr, alabama",
+        "Name": "Alabama roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Wisconsin roll wr, wisconsin",
+        "Name": "Wisconsin roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "Philly roll qbr, philly",
+        "Name": "Philly roll qbr",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 8.6,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": "Salmon avocado roll wr, salmon avocado",
+        "Name": "Salmon avocado roll wr",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 5.7,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "4pc spicy shrimp inari, spicy shrimp",
+        "Name": "Spicy shrimp inari",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 6.1,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "12pc shrimp tempura kabuki roll wr, shrimp tempura kabuki",
+        "Name": "Shrimp tempura kabuki roll wr",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 4.5,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "All american roll wr, all american",
+        "Name": "All american roll wr",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 6.9,
@@ -3348,7 +3348,7 @@
         }
     },
     {
-        "Name": "Crunchy salmon roll qbr, crunchy salmon",
+        "Name": "Crunchy salmon roll qbr",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 6.2,
@@ -3357,7 +3357,7 @@
         }
     },
     {
-        "Name": "Georgia roll qbr, georgia",
+        "Name": "Georgia roll qbr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Rainbow roll qbr, rainbow",
+        "Name": "Rainbow roll qbr",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 4.0,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Spicy tuna volcano roll wr, spicy tuna volcano",
+        "Name": "Spicy tuna volcano roll wr",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.7,
@@ -3384,7 +3384,7 @@
         }
     },
     {
-        "Name": "Oklahoma roll wr, oklahoma",
+        "Name": "Oklahoma roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "Illinois roll wr, illinois",
+        "Name": "Illinois roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 6.3,
@@ -3402,7 +3402,7 @@
         }
     },
     {
-        "Name": "American special roll wr, american",
+        "Name": "American special roll wr",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 5.6,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "12pc vegetarian roll qbr, vegetarian",
+        "Name": "Vegetarian roll qbr",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 8.4,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "Shrimp california roll qbr, shrimp california",
+        "Name": "Shrimp california roll qbr",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 2.9,
@@ -3429,7 +3429,7 @@
         }
     },
     {
-        "Name": "Shrimp fresh roll, shrimp",
+        "Name": "Shrimp fresh roll",
         "Nutrients": {
             "Protein": 3.4,
             "Fat": 3.4,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "Very veggie platter lg wr, very veggie",
+        "Name": "Very veggie platter lg wr",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 4.6,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "Sushi rice with chicken and teriyaki sauce sushi rice bowl, vegetables and white chicken meat topped with teriyaki sauce, chicken and teriyaki sauce",
+        "Name": "Sushi rice with chicken & teriyaki sauce sushi rice bowl, vegetables & white chicken meat topped with teriyaki sauce",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.1,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "California sushi go! roll, california",
+        "Name": "California sushi go! roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 4.1,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "Vegetarian roll combo wr, vegetarian",
+        "Name": "Vegetarian roll combo wr",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 8.9,
@@ -3474,7 +3474,7 @@
         }
     },
     {
-        "Name": "Fusion special wr, fusion special",
+        "Name": "Fusion special wr",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 4.1,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "All salmon nigiri roll combo wr, salmon nigiri",
+        "Name": "All salmon nigiri roll combo wr",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 5.8,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Ahi tuna poke with sauce, ahi tuna",
+        "Name": "Ahi tuna poke with sauce",
         "Nutrients": {
             "Protein": 23.5,
             "Fat": 1.2,
@@ -3501,7 +3501,7 @@
         }
     },
     {
-        "Name": "Paradise spring roll salmon, tuna, carrot, cucumber, lettuce wrapped in rice paper. served with a sweet chili sauce., paradise spring roll",
+        "Name": "Paradise spring roll salmon, tuna, carrot, cucumber, lettuce wrapped in rice paper. served with a sweet chili sauce.",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 1.0,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "Egg, tuna, salmon roe tanoshii sushi, egg, tuna, salmon roe",
+        "Name": "Egg, tuna, salmon roe tanoshii sushi, egg, tuna",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "California fresh roll, california",
+        "Name": "California fresh roll",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 3.5,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Tuna salmon sampler wr, tuna salmon",
+        "Name": "Tuna salmon sampler wr",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.4,
@@ -3537,7 +3537,7 @@
         }
     },
     {
-        "Name": "Living color combo - 1/2 roll of hoso maki tuna and 1/2 roll hoso maki salmon and 3 pieces of tuna nigiri, 3 pieces of salmon nigiri",
+        "Name": "Living color combo - roll of hoso maki tuna & roll hoso maki salmon & pieces of tuna nigiri, pieces of salmon nigiri",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 1.7,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "Sushi rice with chicken and teriyaki sauce sushi rice bowl, vegetables and white chicken meat topped with teriyaki sauce, sushi rice with chicken and teriyaki sauce",
+        "Name": "Sushi rice with chicken & teriyaki sauce sushi rice bowl, vegetables & white chicken meat topped with teriyaki sauce",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.1,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Caterpillar roll, caterpillar",
+        "Name": "Caterpillar roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 4.0,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "Avocado roll, avocado",
+        "Name": "Avocado roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 4.6,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Cali crunch roll, cali crunch",
+        "Name": "Cali crunch roll",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 8.8,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Spicy tuna roll, spicy",
+        "Name": "Spicy tuna roll",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 2.2,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Tuna rolled in seawood and sunshine, garnished with ginger, wasabi and soy sauce hoso maki, tuna",
+        "Name": "Tuna rolled in seawood & sunshine, garnished with ginger, wasabi & soy sauce hoso maki",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 0.5,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Spicy vegetable avocado, cucumber & carrot with mango habanero sauce roll, spicy vegetable",
+        "Name": "Spicy vegetable avocado, cucumber & carrot with mango habanero sauce roll",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 2.7,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "Salmoncado salmon & avocado with brown sushi rice roll b, salmoncado",
+        "Name": "Salmoncado salmon & avocado with brown sushi rice roll b",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 4.3,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "Crab stick philly roll, crab stick philly",
+        "Name": "Crab stick philly roll",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 8.1,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Promo philadelphia sushi rice rolled with cream cheese, avocado, smoked salmon & topped with sesame seed roll, promo philadelphia",
+        "Name": "Promo philadelphia sushi rice rolled with cream cheese, avocado, smoked salmon & topped with sesame seed roll",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 6.5,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Spicy tuna roll, spicy tuna",
+        "Name": "Spicy tuna roll",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.0,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Vegetarian cucumber, avocado and carrot rolled in seaweed and sushi rice, coated with sesame seeds roll, vegetarian",
+        "Name": "Vegetarian cucumber, avocado & carrot rolled in seaweed & sushi rice, coated with sesame seeds roll",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 3.2,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "Volcano spicy crabmeat, cucumber and avocado rolled in seaweed and sushi rice, topped with spicy tuna and capelin roes, served with spicy mayo and wasabi sauce roll, volcano",
+        "Name": "Volcano spicy crabmeat, cucumber & avocado rolled in seaweed & sushi rice, topped with spicy tuna & capelin roes, served with spicy mayo & wasabi sauce roll",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 5.6,
@@ -3681,7 +3681,7 @@
         }
     },
     {
-        "Name": "Cooked combo, combo includes 5 pieces of california roll, 5 peices of tempure shrimp roll, and 5 pieces of kyoto roll. garnished with wasabi, ginger, and soy sauce.",
+        "Name": "Cooked combo, combo includes pieces of california roll, peices of tempure shrimp roll, & pieces of kyoto roll. garnished with wasabi, ginger, & soy sauce.",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 8.9,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "Tuna & salmon rolls with tuna & salmon nigiri, tuna & salmon",
+        "Name": "Tuna & salmon rolls with tuna & salmon nigiri",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 2.4,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "Tuna poke veggie, spicy poke sauce bowl, tuna poke",
+        "Name": "Tuna poke veggie, spicy poke sauce bowl",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 6.7,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Tornado imitation crab salad, cucumber and avocado rolled in seaweed and sushi rice. topped with tuna, salmon and jalapeno. served with yummi spicy mayo and chili sauce. garnished with ginger, wasabi and soy sauce. roll, tornado",
+        "Name": "Tornado imitation crab salad, cucumber & avocado rolled in seaweed & sushi rice. topped with tuna, salmon & jalapeno. served with yummi spicy mayo & chili sauce. garnished with ginger, wasabi & soy sauce. roll",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 8.3,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Crab stick, cucumber & avocado with brown sushi rice, brown sushi rice",
+        "Name": "Crab stick, cucumber & avocado with brown sushi rice",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 3.2,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "Fantasy shrimp contain shrimp, crab, stick, spicy sauce, green leaf avocoda, cucumber rolled in rice paper spring roll, fantasy shrimp",
+        "Name": "Fantasy shrimp contain shrimp, crab, stick, spicy sauce, green leaf avocoda, cucumber rolled in rice paper spring roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3753,7 +3753,7 @@
         }
     },
     {
-        "Name": "Crunchy california real snow crab meat, cucumber and avocado rolled in seaweed and sushi rice. topped with yummi spicy mayo, sushi sauce and fried onions roll, crunchy california",
+        "Name": "Crunchy california real snow crab meat, cucumber & avocado rolled in seaweed & sushi rice. topped with yummi spicy mayo, sushi sauce & fried onions roll",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 9.5,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "Crunchy spicy salmon, avocado, cucumber topped with pineapple chilli sauce & tempura crips roll, crunchy spicy",
+        "Name": "Crunchy spicy salmon, avocado, cucumber topped with pineapple chilli sauce & tempura crips roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Cooked creamy roll, creamy",
+        "Name": "Cooked creamy roll",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.0,
@@ -3789,7 +3789,7 @@
         }
     },
     {
-        "Name": "Chef's choice 2 sushi",
+        "Name": "Chefs choice sushi",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 5.6,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Sashimi (salmon)",
+        "Name": "Sashimi",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 4.7,
@@ -3816,7 +3816,7 @@
         }
     },
     {
-        "Name": "Japanese bagel roll, japanese bagel",
+        "Name": "Japanese bagel roll",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 6.5,
@@ -3825,7 +3825,7 @@
         }
     },
     {
-        "Name": "Caterpillar spicy imitation crab salad rolled in seaweed and sushi rice topped with avocado, yummi sushi sauce and sesame seeds roll, caterpillar",
+        "Name": "Caterpillar spicy imitation crab salad rolled in seaweed & sushi rice topped with avocado, yummi sushi sauce & sesame seeds roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 7.7,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "California (real snow crab) real snow crab, cucumber and avocado rolled in seaweed and sushi rice then coated with sesame seeds roll, california",
+        "Name": "California real snow crab, cucumber & avocado rolled in seaweed & sushi rice then coated with sesame seeds roll",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 4.6,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "Salmon sushicado, salmon",
+        "Name": "Salmon sushicado",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.0,
@@ -3861,7 +3861,7 @@
         }
     },
     {
-        "Name": "Smoked salmon philly roll, smoked salmon",
+        "Name": "Smoked salmon philly roll",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 8.7,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "Hawaiian tuna roll tuna, cucumber & avocado with sushi sauce & hawaiian sauce, hawaiian tuna",
+        "Name": "Hawaiian tuna roll tuna, cucumber & avocado with sushi sauce & hawaiian sauce",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 3.8,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Crab, cucumber & avocado california roll c, crab, cucumber & avocado",
+        "Name": "Crab, cucumber & avocado california roll c, crab",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 6.0,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Crab salad, cucumber & avocado california roll crab salad, crab salad, cucumber & avocado",
+        "Name": "Crab salad, cucumber & avocado california roll crab salad, crab salad",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 6.0,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "Imitation krab, shrimp spring roll combo box",
+        "Name": "Imitation krab, shrimp spring roll combo",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.6,
@@ -3924,7 +3924,7 @@
         }
     },
     {
-        "Name": "Spicy tuna sushi bomb roll, spicy tuna",
+        "Name": "Spicy tuna sushi bomb roll",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.9,
@@ -3933,7 +3933,7 @@
         }
     },
     {
-        "Name": "Tuna nigiri roll combo, tuna nigiri",
+        "Name": "Tuna nigiri roll combo",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 1.7,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "Little sumo roll, little sumo",
+        "Name": "Little sumo roll",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 1.2,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "Surf n' turf roll, surf n' turf",
+        "Name": "Surf n turf roll",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 7.3,
@@ -3960,7 +3960,7 @@
         }
     },
     {
-        "Name": "Crunchy phili shrimp tempura shrimp, avocado, cream cheese, and jalapeno rolled in sushi rice and nori, topped yummi sushi sauce, yummi spicy mayo and fried onions roll, crunchy phili shrimp",
+        "Name": "Crunchy phili shrimp tempura shrimp, avocado, cream cheese, & jalapeno rolled in sushi rice & nori, topped yummi sushi sauce, yummi spicy mayo & fried onions roll",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 8.8,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "Tuna roll, tuna",
+        "Name": "Tuna roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.4,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Spicy shrimp cooked shrimp, avocado and cucumber topped with spicy sauce roll, spicy shrimp",
+        "Name": "Spicy shrimp cooked shrimp, avocado & cucumber topped with spicy sauce roll",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 10.3,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Shrimp fusion avocado, cucumber, carrot, green leaf lettuce, imitation crab stick and shrimp rolled in rice paper. served with ponzu sauce. spring roll, shrimp fusion",
+        "Name": "Shrimp fusion avocado, cucumber, carrot, green leaf lettuce, imitation crab stick & shrimp rolled in rice paper. served with ponzu sauce. spring roll",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 1.8,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Atlantic roll, atlantic",
+        "Name": "Atlantic roll",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 1.2,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "Shrimp, imitation crab premium hawaiian poke bowl, shrimp, imitation crab",
+        "Name": "Shrimp, imitation crab premium hawaiian poke bowl, shrimp",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 4.2,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "Crunchy shaggy roll, crunchy shaggy",
+        "Name": "Crunchy shaggy roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 5.0,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "Phili smoked salmon roll, phili smoked salmon",
+        "Name": "Phili smoked salmon roll",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 5.1,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "Rainbow nigiri combo tuna, rainbow",
+        "Name": "Rainbow nigiri combo tuna",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.5,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "Tuna tataki in salt and black peppers, served with yummi ponzu sauce, garnished with ginger, wasabi and soy sauce, tuna tataki",
+        "Name": "Tuna tataki in salt & black peppers, served with yummi ponzu sauce, garnished with ginger, wasabi & soy sauce",
         "Nutrients": {
             "Protein": 18.9,
             "Fat": 1.1,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "12pc sp tuna avocado roll qbr, tuna avocado",
+        "Name": "Sp tuna avocado roll qbr",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.8,
@@ -4086,7 +4086,7 @@
         }
     },
     {
-        "Name": "Spicy tuna volcano roll qbr, spicy tuna volcano",
+        "Name": "Spicy tuna volcano roll qbr",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 3.7,
@@ -4095,7 +4095,7 @@
         }
     },
     {
-        "Name": "Tornado imitation crab salad, cucumber and avocado rolled in seaweed and sushi rice topped with slices of tuna and salmon along with slices of jalapeno roll, tornado",
+        "Name": "Tornado imitation crab salad, cucumber & avocado rolled in seaweed & sushi rice topped with slices of tuna & salmon along with slices of jalapeno roll",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 8.3,
@@ -4113,7 +4113,7 @@
         }
     },
     {
-        "Name": "Tuna lover combo, tuna",
+        "Name": "Tuna lover combo",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 0.9,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "Roasted seaweed (laver), roasted",
+        "Name": "Roasted seaweed",
         "Nutrients": {
             "Protein": 41.7,
             "Fat": 0.0,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Salmon sunshine nigiri combo, salmon",
+        "Name": "Salmon sunshine nigiri combo",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 2.2,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "Creamy roll, creamy",
+        "Name": "Creamy roll",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.0,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Tuna raw sunshine nigiri combo, tuna",
+        "Name": "Tuna raw sunshine nigiri combo",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 0.6,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "Raw hoso maki combo 1/2 roll of hoso maki tuna and 1/2 roll hoso maki salmon and 3 pieces of tuna nigiri, 3 pieces of salmon nigiri garnished with ginger, wasabi and soy sauce",
+        "Name": "Raw hoso maki combo roll of hoso maki tuna & roll hoso maki salmon & pieces of tuna nigiri, pieces of salmon nigiri garnished with ginger, wasabi & soy sauce",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.4,
@@ -4194,7 +4194,7 @@
         }
     },
     {
-        "Name": "Ahi temaki hand roll, ahi temaki",
+        "Name": "Ahi temaki h& roll",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 4.8,
@@ -4212,7 +4212,7 @@
         }
     },
     {
-        "Name": "Tuna poke bowl, tuna poke",
+        "Name": "Tuna poke bowl",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 3.9,
@@ -4221,7 +4221,7 @@
         }
     },
     {
-        "Name": "Hawaiian tuna, salmon and avocado rolled in seaweed and sushi rice. topped with green tobiko then garnished with wasabi, ginger and soy sauce roll, hawaiian",
+        "Name": "Hawaiian tuna, salmon & avocado rolled in seaweed & sushi rice. topped with green tobiko then garnished with wasabi, ginger & soy sauce roll",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 2.3,
@@ -4230,7 +4230,7 @@
         }
     },
     {
-        "Name": "Crunchy california roll, crunchy california",
+        "Name": "Crunchy california roll",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 8.9,
@@ -4239,7 +4239,7 @@
         }
     },
     {
-        "Name": "Hot and crunchy cooked imitation crab stick, cucumber and avocado rolled in seawees and sushi rice, topped with imitation crab salad, tempura style crurches and served with yummi spicy mayo and sriracha hot chill sauce roll, hot and crunchy",
+        "Name": "Hot & crunchy cooked imitation crab stick, cucumber & avocado rolled in seawees & sushi rice, topped with imitation crab salad, tempura style crurches & served with yummi spicy mayo & sriracha hot chill sauce roll",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 7.4,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "Name": "Seared tuna roll, seared tuna",
+        "Name": "Seared tuna roll",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 1.8,
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "Name": "Tuna and salmon jumbo nigiri combo 8 pieces of tuna and salmon nigiri, garnished with ginger, wasabi and soy sauce, tuna and salmon",
+        "Name": "Tuna & salmon jumbo nigiri combo pieces of tuna & salmon nigiri, garnished with ginger, wasabi & soy sauce",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 1.7,
@@ -4266,7 +4266,7 @@
         }
     },
     {
-        "Name": "Tuna fusion spring roll avocado, cucumber, carrot, green leaf lettuce, imitation crab stick and tuna rolled in rice paper, served with ponzu sauce, tuna fusion",
+        "Name": "Tuna fusion spring roll avocado, cucumber, carrot, green leaf lettuce, imitation crab stick & tuna rolled in rice paper, served with ponzu sauce",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 1.5,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Raw chef special 9",
+        "Name": "Raw chef special",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 3.2,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Cherry blossom crab mayo, tuna, salmon, avocado, mango, carrot wrapped in rice paper roll, cherry blossom",
+        "Name": "Cherry blossom crab mayo, tuna, salmon, avocado, mango, carrot wrapped in rice paper roll",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 9.5,
@@ -4293,7 +4293,7 @@
         }
     },
     {
-        "Name": "Spicy tuna, cucumber and avocado rolled in seaweed and sushi rice coated with sesame seeds and garnished with ginger, wasabi and soy sauce, spicy tuna roll",
+        "Name": "Spicy tuna, cucumber & avocado rolled in seaweed & sushi rice coated with sesame seeds & garnished with ginger, wasabi & soy sauce, spicy tuna roll",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.0,
@@ -4302,7 +4302,7 @@
         }
     },
     {
-        "Name": "Shrimp mango fresh roll, shrimp mango",
+        "Name": "Shrimp mango fresh roll",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 2.6,
@@ -4311,7 +4311,7 @@
         }
     },
     {
-        "Name": "Tempura shrimp, imitation crab, avocado spicy mayo, sushi sauce sharry dog roll, sharry dog",
+        "Name": "Tempura shrimp, imitation crab, avocado spicy mayo, sushi sauce sharry dog roll",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 7.1,
@@ -4329,7 +4329,7 @@
         }
     },
     {
-        "Name": "Brown rice dueling duet roll, brown rice dueling duet",
+        "Name": "Brown rice dueling duet roll",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 3.2,
@@ -4338,7 +4338,7 @@
         }
     },
     {
-        "Name": "Tuna premium hawaiian poke bowl - (brown rice), tuna",
+        "Name": "Tuna premium hawaiian poke bowl -",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 4.7,
@@ -4347,7 +4347,7 @@
         }
     },
     {
-        "Name": "Salmon avocado plant-based roll, salmon avocado",
+        "Name": "Salmon avocado plant-based roll",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 2.0,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "Name": "Crispy sushi rice patties, crispy sushi rice",
+        "Name": "Crispy sushi rice patties",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 12.5,
@@ -4365,7 +4365,7 @@
         }
     },
     {
-        "Name": "Squid salad, squid",
+        "Name": "Squid salad",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 2.6,
@@ -4374,7 +4374,7 @@
         }
     },
     {
-        "Name": "Salmon & tuna fresh roll and nigiri c sushi combo, salmon & tuna",
+        "Name": "Salmon & tuna fresh roll & nigiri c sushi combo",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.8,
@@ -4392,7 +4392,7 @@
         }
     },
     {
-        "Name": "Spring roll combo, spring roll",
+        "Name": "Spring roll combo",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 1.1,
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "Name": "Medium tsunami plant-based combo, medium tsunami",
+        "Name": "Medium tsunami plant-based combo",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.0,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "12pc cali salad roll wr, cali salad",
+        "Name": "Cali salad roll wr",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.6,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "12pc cali salad roll qbr, cali salad",
+        "Name": "Cali salad roll qbr",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 6.2,
@@ -4437,7 +4437,7 @@
         }
     },
     {
-        "Name": "4pc spicy shrimp inari qbr, spicy shrimp",
+        "Name": "Spicy shrimp inari qbr",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 6.1,
@@ -4446,7 +4446,7 @@
         }
     },
     {
-        "Name": "California love platter qbr, california love",
+        "Name": "California love platter qbr",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 4.7,
@@ -4455,7 +4455,7 @@
         }
     },
     {
-        "Name": "All veggie roll platter wr, all veggie",
+        "Name": "All veggie roll platter wr",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 4.6,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Spicy kung pao chicken, spicy kung pao",
+        "Name": "Spicy kung pao chicken",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 1.8,
@@ -4482,7 +4482,7 @@
         }
     },
     {
-        "Name": "Promo - salmon roll, salmon",
+        "Name": "Promo - salmon roll",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 4.0,
@@ -4491,7 +4491,7 @@
         }
     },
     {
-        "Name": "Tuna and salmon sashimi",
+        "Name": "Tuna & salmon sashimi",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 3.8,
@@ -4509,7 +4509,7 @@
         }
     },
     {
-        "Name": "Tuna and salmon nigir. garnished with ginger, wasabi and soy sauce sunshine combo",
+        "Name": "Tuna & salmon nigir. garnished with ginger, wasabi & soy sauce sunshine combo",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.3,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Rainbow sushiya roll, rainbow",
+        "Name": "Rainbow sushiya roll",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 1.8,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Spicy tuna less salt soy sauce roll, spicy tuna",
+        "Name": "Spicy tuna less salt soy sauce roll",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 0.0,
@@ -4554,7 +4554,7 @@
         }
     },
     {
-        "Name": "Spicy salmon roll, spicy salmon",
+        "Name": "Spicy salmon roll",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 6.8,
@@ -4581,7 +4581,7 @@
         }
     },
     {
-        "Name": "Cucumber, carrot and avocado vegetable roll, cucumber, carrot and avocado",
+        "Name": "Cucumber, carrot & avocado vegetable roll, cucumber",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 2.7,
@@ -4590,7 +4590,7 @@
         }
     },
     {
-        "Name": "Spicy poke bowl, spicy poke",
+        "Name": "Spicy poke bowl",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 2.4,
@@ -4599,7 +4599,7 @@
         }
     },
     {
-        "Name": "Fresh roll, nilgiri (salmon & tuna) party platter, fresh roll, nigiri (salmon & tuna)",
+        "Name": "Fresh roll, nilgiri",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 2.1,
@@ -4608,7 +4608,7 @@
         }
     },
     {
-        "Name": "Shrimp tempura tuna, salmon, tempura shrimp, cucumber, fried onion, avocado nigiri combo, tuna, salmon, tempura shrimp, cucumber, fried onion, avocado",
+        "Name": "Shrimp tempura tuna, salmon, tempura shrimp, cucumber, fried onion, avocado nigiri combo, tuna, salmon, tempura shrimp, cucumber, fried onion",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 4.3,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Spicy onigiri combo, spicy",
+        "Name": "Spicy onigiri combo",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 2.3,
@@ -4626,7 +4626,7 @@
         }
     },
     {
-        "Name": "Super sushi family pack! - alaska roll, spicy california roll, vegetable california roll, smoke steelhead trout nigiri, imitation crab nigiri, alaska, spicy, vegetable, smoke",
+        "Name": "Super sushi family pack! - alaska roll, spicy california roll, vegetable california roll, smoke steelhead trout nigiri, imitation crab nigiri, alaska, spicy, vegetable",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 4.4,
@@ -4635,7 +4635,7 @@
         }
     },
     {
-        "Name": "Sushi rice rolled with smoked salmon, cream cheese, imitation crab, jalapeno and topped with crab mayo, yum yum sauce, spicy poke sauce, and tempura crumbs east coast roll",
+        "Name": "Sushi rice rolled with smoked salmon, cream cheese, imitation crab, jalapeno & topped with crab mayo, yum yum sauce, spicy poke sauce, & tempura crumbs east coast roll",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 10.4,
@@ -4662,7 +4662,7 @@
         }
     },
     {
-        "Name": "Tuna lover combo, tuna lover",
+        "Name": "Tuna lover combo",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.7,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Lightlife tempeh cubes teriyaki, 6 oz",
+        "Name": "Lightlife tempeh cubes teriyaki",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 4.1,
@@ -4698,7 +4698,7 @@
         }
     },
     {
-        "Name": "Perdue short cuts grilled chicken family size, 16 oz",
+        "Name": "Perdue short cuts grilled chicken family size",
         "Nutrients": {
             "Protein": 23.8,
             "Fat": 2.4,
@@ -4806,7 +4806,7 @@
         }
     },
     {
-        "Name": "Ruggero's bake shop party platter, 5 lbs",
+        "Name": "Ruggeros bake shop party platter",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 10.5,
@@ -4851,7 +4851,7 @@
         }
     },
     {
-        "Name": "Vegetable sushi with avocado, carrot, cucumber & red pepper roll, vegetable with avocado, carrot, cucumber & red pepper",
+        "Name": "Vegetable sushi with avocado, carrot, cucumber & red pepper roll, vegetable with avocado, carrot",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 1.8,
@@ -4860,7 +4860,7 @@
         }
     },
     {
-        "Name": "Spicy california roll, spicy california",
+        "Name": "Spicy california roll",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "Craving sour cream & onion roll, craving sour",
+        "Name": "Craving sour cream & onion roll",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 6.7,
@@ -4878,7 +4878,7 @@
         }
     },
     {
-        "Name": "Tempura crunch spicy shrimp, tempura crunch",
+        "Name": "Tempura crunch spicy shrimp",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 7.3,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "California bento, california",
+        "Name": "California bento",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 7.1,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Tokyo bento a combination of spicy tuna roll, salmon avocado roll, assorted nigiri, and served with seaweed salad, tokyo bento",
+        "Name": "Tokyo bento a combination of spicy tuna roll, salmon avocado roll, assorted nigiri, & served with seaweed salad",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.7,
@@ -4914,7 +4914,7 @@
         }
     },
     {
-        "Name": "All tuna sashimi, tuna",
+        "Name": "All tuna sashimi",
         "Nutrients": {
             "Protein": 19.9,
             "Fat": 0.6,
@@ -4923,7 +4923,7 @@
         }
     },
     {
-        "Name": "Tuna poke bowl, tuna",
+        "Name": "Tuna poke bowl",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 4.3,
@@ -4932,7 +4932,7 @@
         }
     },
     {
-        "Name": "Inari (tofu) with spicy tuna, spicy tuna",
+        "Name": "Inari with spicy tuna",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 3.9,
@@ -4941,7 +4941,7 @@
         }
     },
     {
-        "Name": "Dragon roll, dragon",
+        "Name": "Dragon roll",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 3.9,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "California crab salad, brown rice roll, california",
+        "Name": "California crab salad, brown rice roll",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 7.4,
@@ -4968,7 +4968,7 @@
         }
     },
     {
-        "Name": "Imitation crab salad, tempura crunchy and avocado rolled in seaweedand sushi rice. topped with crab stick, spicy mayo, sushi sauce, and sesame seeds roll, crunchy crab",
+        "Name": "Imitation crab salad, tempura crunchy & avocado rolled in seaweed& sushi rice. topped with crab stick, spicy mayo, sushi sauce, & sesame seeds roll, crunchy crab",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 11.0,
@@ -4995,7 +4995,7 @@
         }
     },
     {
-        "Name": "Disney mickey and friends pasta & cheddar",
+        "Name": "Disney mickey & friends pasta & cheddar",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 6.6,
@@ -5022,7 +5022,7 @@
         }
     },
     {
-        "Name": "Tuna all combo sushi, tuna",
+        "Name": "Tuna all combo sushi",
         "Nutrients": {
             "Protein": 8.9,
             "Fat": 1.1,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Salmon avocado rolls, salmon avocado",
+        "Name": "Salmon avocado rolls",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 5.7,
@@ -5040,7 +5040,7 @@
         }
     },
     {
-        "Name": "Spicy california roll plus, spicy california",
+        "Name": "Spicy california roll plus",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 7.5,
@@ -5049,7 +5049,7 @@
         }
     },
     {
-        "Name": "Beef pho rice noodle with pho beef, bean sprout, lime, green onion, jalapeno and cilantro, beef pho",
+        "Name": "Beef pho rice noodle with pho beef, bean sprout, lime, green onion, jalapeno & cilantro",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.4,

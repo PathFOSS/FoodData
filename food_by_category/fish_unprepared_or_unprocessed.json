@@ -1,6 +1,6 @@
 [
     {
-        "Name": "3-5 lb wg king mackerel",
+        "Name": "Wg king mackerel",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "4/6 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Ret bag ivp snapper",
+        "Name": "Ret ivp snapper",
         "Nutrients": {
             "Protein": 16.3,
             "Fat": 1.1,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "6/8 oz co snapper portion",
+        "Name": "Co snapper portion",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "8 oz mahi-mahi port",
+        "Name": "Mahi-mahi port",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "6 oz rolled stfd sole",
+        "Name": "Rolled stfd sole",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 2.6,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "8oz.stfd o/roughy supreme",
+        "Name": "O/roughy supreme",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 3.5,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "Name": "9 oz/up iqf flounder fill",
+        "Name": "/up flounder fill",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "Name": "10/12 oz co v/p redfish",
+        "Name": "Co v/p redfish",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "2/2-3 lb raw salmon side",
+        "Name": "Raw salmon side",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "3/5 lb salmon fillets",
+        "Name": "Salmon fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "6 oz el domino stfd fldr",
+        "Name": "El domino stfd fldr",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 1.8,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "8 oz el casino stfd fldr",
+        "Name": "El casino stfd fldr",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 2.6,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Ret bag salmon",
+        "Name": "Ret salmon",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 1.8,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p cod fillet",
+        "Name": "Ret v/p cod fillet",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.9,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "1-2 oz swai quarters",
+        "Name": "Swai quarters",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "5lb/up black grouper loin",
+        "Name": "Black grouper loin",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "3/5 oz swai fillets",
+        "Name": "Swai fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "2/4 oz whiting fillet",
+        "Name": "Whiting fillet",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Ret box sea trout fillet",
+        "Name": "Ret sea trout fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -234,7 +234,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p swai fillets",
+        "Name": "Ret v/p swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.2,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "8/16 oz cod fillets",
+        "Name": "Cod fillets",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "4 oz v/p chum salmon por",
+        "Name": "V/p chum salmon por",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 3.6,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "6 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "6/8 oz iqf haddock fillet",
+        "Name": "Haddock fillet",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "7/9 oz v/p tilapia fillet",
+        "Name": "V/p tilapia fillet",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "8/10 oz cod fillet",
+        "Name": "Cod fillet",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p grouper fil",
+        "Name": "Ret v/p grouper fil",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "5/8 oz flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "6/8 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "6 oz wahoo portion",
+        "Name": "Wahoo portion",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.9,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Ret bag ivp tuna",
+        "Name": "Ret ivp tuna",
         "Nutrients": {
             "Protein": 23.4,
             "Fat": 1.1,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "16/22 whl boiled crawfish",
+        "Name": "Whl boiled crawfish",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 0.4,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "5-10 lb wg king mackerel",
+        "Name": "Wg king mackerel",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Ret bag h&g croaker",
+        "Name": "Ret h& croaker",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 3.1,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Retail bag tilapia loin",
+        "Name": "Retail tilapia loin",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "3-5 lb ivp amberjack loin",
+        "Name": "Ivp amberjack loin",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "6 oz el casino stfd flndr",
+        "Name": "El casino stfd flndr",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 1.6,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "4/6 oz sk/on whiting fil",
+        "Name": "Sk/on whiting fil",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 1.3,
@@ -441,7 +441,7 @@
         }
     },
     {
-        "Name": "Snapper 1-2 lb wggs",
+        "Name": "Snapper wggs",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "5/7 oz v/p tilapia fillet",
+        "Name": "V/p tilapia fillet",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 1.5,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "6 oz co swordfish steak",
+        "Name": "Co swordfish steak",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 7.1,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "3-5 lb red grouper loin",
+        "Name": "Red grouper loin",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Ret bag swai fillets",
+        "Name": "Ret swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "6/8 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "1-3 lb corvina fillets",
+        "Name": "Corvina fillets",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 4.7,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "4 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "8/10 oz co v/p redfish",
+        "Name": "Co v/p redfish",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "2/3 oz iqf tilapia fillet",
+        "Name": "Tilapia fillet",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "5/7 oz swai splits",
+        "Name": "Swai splits",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -567,7 +567,7 @@
         }
     },
     {
-        "Name": "8/10 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "100/150 crawfsh meat f/on",
+        "Name": "Crawfsh meat f/on",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.2,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "5/7 lb ahi tuna loins",
+        "Name": "Ahi tuna loins",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "7/9 oz pangasius fillets",
+        "Name": "Pangasius fillets",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 5.4,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "2 oz rolled stuffed sole",
+        "Name": "Rolled stuffed sole",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 8.0,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "2/4 oz s/ on whiting fill",
+        "Name": "S/ on whiting fill",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "1-2 lb w.g.g.s. snapper",
+        "Name": "W...s. snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Ret box whiting fillets",
+        "Name": "Ret whiting fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "5/8 oz iqf flounder fil",
+        "Name": "Flounder fil",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 1.3,
@@ -648,7 +648,7 @@
         }
     },
     {
-        "Name": "10/up wg grouper",
+        "Name": "Wg grouper",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "10 oz chilean sea bass",
+        "Name": "Chilean sea bass",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 1.8,
@@ -666,7 +666,7 @@
         }
     },
     {
-        "Name": "6/8 oz i/l sea trout fil",
+        "Name": "I/l sea trout fil",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "12/14 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "7 oz stfd flndr-monterey",
+        "Name": "Stfd flndr-monterey",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 7.1,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "2/3 lb wggs snapper",
+        "Name": "Wggs snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -702,7 +702,7 @@
         }
     },
     {
-        "Name": "20/24 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "5 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "5/7 lb mahi-mahi loins",
+        "Name": "Mahi-mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "150/200 crawfsh meat f/on",
+        "Name": "Crawfsh meat f/on",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.2,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p salmon fillet",
+        "Name": "Ret v/p salmon fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "8 oz co swordfish steak",
+        "Name": "Co swordfish steak",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 7.1,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "4 oz ahi tuna steak",
+        "Name": "Ahi tuna steak",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "2/4 oz i/l sea trout fil",
+        "Name": "I/l sea trout fil",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 6.6,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "Name": "Sea bass fillet 4/6 oz",
+        "Name": "Sea bass fillet",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.8,
@@ -828,7 +828,7 @@
         }
     },
     {
-        "Name": "Ret bag salted pollock",
+        "Name": "Ret salted pollock",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.9,
@@ -837,7 +837,7 @@
         }
     },
     {
-        "Name": "Ret bag ivp grouper",
+        "Name": "Ret ivp grouper",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "4/6 oz co snapper port",
+        "Name": "Co snapper port",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "3-5 lb grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -864,7 +864,7 @@
         }
     },
     {
-        "Name": "5lb-up w.g. red grouper",
+        "Name": "W.. red grouper",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "1/3 ct cello cod fillets",
+        "Name": "Ct cello cod fillets",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.9,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "4/6 oz whiting fillets",
+        "Name": "Whiting fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -900,7 +900,7 @@
         }
     },
     {
-        "Name": "16/32 oz cod fillets",
+        "Name": "Cod fillets",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.2,
@@ -909,7 +909,7 @@
         }
     },
     {
-        "Name": "Ret bag orange roughy fil",
+        "Name": "Ret orange roughy fil",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.9,
@@ -927,7 +927,7 @@
         }
     },
     {
-        "Name": "3/5 oz swai fillet",
+        "Name": "Swai fillet",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -936,7 +936,7 @@
         }
     },
     {
-        "Name": "8/10 oz cobia portions",
+        "Name": "Cobia portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -945,7 +945,7 @@
         }
     },
     {
-        "Name": "6/8 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "4/6 oz co v/p redfish",
+        "Name": "Co v/p redfish",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -972,7 +972,7 @@
         }
     },
     {
-        "Name": "8/16 oz iqf a/t flndr fil",
+        "Name": "A/t flndr fil",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -981,7 +981,7 @@
         }
     },
     {
-        "Name": "7/9 oz iqf tilapia fillet",
+        "Name": "Tilapia fillet",
         "Nutrients": {
             "Protein": 28.3,
             "Fat": 1.8,
@@ -990,7 +990,7 @@
         }
     },
     {
-        "Name": "2/4 oz grouper fillet",
+        "Name": "Grouper fillet",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -999,7 +999,7 @@
         }
     },
     {
-        "Name": "8/10 oz iqf haddock fil",
+        "Name": "Haddock fil",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "Name": "Retail bag flounder",
+        "Name": "Retail flounder",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 1.3,
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "Name": "8/10 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "12/16 oz spotted seatrout",
+        "Name": "Spotted seatrout",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 6.5,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "2/5 oz iqf tilapia fillet",
+        "Name": "Tilapia fillet",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "Name": "10/12 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "Name": "1-3 oz mahi pieces",
+        "Name": "Mahi pieces",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p flounder",
+        "Name": "Ret v/p flounder",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 1.8,
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "Name": ".75-1 lb bluerunners",
+        "Name": "Bluerunners",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "6/8oz co snapper portion",
+        "Name": "Co snapper portion",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "6/9 ct s/p perch fillets",
+        "Name": "Ct s/p perch fillets",
         "Nutrients": {
             "Protein": 19.1,
             "Fat": 1.4,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "8/10 oz haddock fil s/pk",
+        "Name": "Haddock fil s/pk",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "4/6 oz co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "Name": "4 oz. salmon portions",
+        "Name": ". salmon portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "4 oz sockeye salmon port",
+        "Name": "Sockeye salmon port",
         "Nutrients": {
             "Protein": 22.3,
             "Fat": 4.5,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "14/16oz  grouper fillet",
+        "Name": "Grouper fillet",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "Name": "Snapper wh  .5-1 lb",
+        "Name": "Snapper wh",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "Name": "1/1.5 lb w.g.g.s. snapper",
+        "Name": "W...s. snapper",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "Name": "7 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "4 oz raw brd fish squares",
+        "Name": "Raw brd fish squares",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "Name": "Grouper fingers 1-2 oz",
+        "Name": "Grouper fingers",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "Name": "6 oz v/p salmon port.",
+        "Name": "V/p salmon port.",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "4 oz brd catfish fillets",
+        "Name": "Brd catfish fillets",
         "Nutrients": {
             "Protein": 11.6,
             "Fat": 4.0,
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "Name": "1 oz whole grain fish stx",
+        "Name": "Whole grain fish stx",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 7.1,
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "Name": "Ret bag rainbow trout",
+        "Name": "Ret rainbow trout",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 5.4,
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "Name": "4/6 oz co grouper fillets",
+        "Name": "Co grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "3/5 oz v/p tilapia fillet",
+        "Name": "V/p tilapia fillet",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "6/8 oz co v/p redfish",
+        "Name": "Co v/p redfish",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 4.5,
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "Name": "Ret bag swordfish steaks",
+        "Name": "Ret swordfish steaks",
         "Nutrients": {
             "Protein": 19.4,
             "Fat": 6.5,
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "Name": "Ret bag whole round scad",
+        "Name": "Ret whole round scad",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 6.2,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "3/5 oz catfish fillet",
+        "Name": "Catfish fillet",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "3 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "5/7 oz swai fillets",
+        "Name": "Swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "6/8 oz spotted sea trout",
+        "Name": "Spotted sea trout",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "6/8 oz mackerel steaks",
+        "Name": "Mackerel steaks",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "Name": "3/5 lb ahi tuna loins",
+        "Name": "Ahi tuna loins",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "Name": "Ret bag catfish nuggets",
+        "Name": "Ret catfish nuggets",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 1.3,
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "Name": "12/14 oz spotted seatrout",
+        "Name": "Spotted seatrout",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 6.6,
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "Name": "100/150 crawfish meat",
+        "Name": "Crawfish meat",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 1.2,
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "Name": "8 oz/up orange roughy fil",
+        "Name": "/up orange roughy fil",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.9,
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "Name": "8/10 oz snapper portions",
+        "Name": "Snapper portions",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "Name": "8/up oz rock fish fillet",
+        "Name": "Rock fish fillet",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 1.3,
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "Name": "4/6 oz hogfish fillets",
+        "Name": "Hogfish fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Retail bag tilapia fillet",
+        "Name": "Retail tilapia fillet",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 1.3,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Mahi v/p 6 oz portions",
+        "Name": "Mahi v/p portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "2/4 oz iqf skin on perch",
+        "Name": "Skin on perch",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 1.3,
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "Name": "Snapper wh lane .75-1 lb",
+        "Name": "Snapper wh lane",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "Name": "Ret bag haddock fillets",
+        "Name": "Ret haddock fillets",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "8 oz. cod loins",
+        "Name": ". cod loins",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.4,
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "Name": "3-4 lb. salmon fillets",
+        "Name": ". salmon fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "6 oz chilean sea bass",
+        "Name": "Chilean sea bass",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 1.8,
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "Name": "10/12 oz co snapper",
+        "Name": "Co snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "4/6 oz spotted sea trout",
+        "Name": "Spotted sea trout",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "Name": "Whole g & s tilapia",
+        "Name": "Whole & s tilapia",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 0.4,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "8 oz v/p chum salmon por",
+        "Name": "V/p chum salmon por",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 3.6,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "6 oz stuffed tilapia",
+        "Name": "Stuffed tilapia",
         "Nutrients": {
             "Protein": 13.5,
             "Fat": 2.6,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "6 oz halibut portions",
+        "Name": "Halibut portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "Name": "8/10 oz co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "Name": "7/9 farm h&g catfish",
+        "Name": "Farm h& catfish",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "16/20 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "7/9 oz deep skin tilapia",
+        "Name": "Deep skin tilapia",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "Name": "3/5 oz catfish shank fil",
+        "Name": "Catfish shank fil",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "Name": "7/9 oz catfish fillet",
+        "Name": "Catfish fillet",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 6.2,
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "Name": "Ret box raw catfish nug",
+        "Name": "Ret raw catfish nug",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p pollock fill",
+        "Name": "Ret v/p pollock fill",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.9,
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "Name": "1-3 lb co grouper loins",
+        "Name": "Co grouper loins",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "5/7 oz catfish shank fil",
+        "Name": "Catfish shank fil",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Kingfish gutted 3/5 lb",
+        "Name": "Kingfish gutted",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "Name": "5/7 oz iqf tilapia fillet",
+        "Name": "Tilapia fillet",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "6 oz v/p chum salmon por",
+        "Name": "V/p chum salmon por",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 3.6,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "16/32 oz s/p cod fillets",
+        "Name": "S/p cod fillets",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 0.9,
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "Name": "1/3 lb co mahi loins",
+        "Name": "Co mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "Name": ".75-1 lb wg y.t. snapper",
+        "Name": "Wg y.t. snapper",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "Name": "2-3 beer battered pollock",
+        "Name": "Beer battered pollock",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 8.0,
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "Name": "14/16 oz snapper fillets",
+        "Name": "Snapper fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "8 oz y/fin tuna steak",
+        "Name": "Y/fin tuna steak",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.0,
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "Name": "12/14 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "Name": "4/6 oz i/l sea trout fil",
+        "Name": "I/l sea trout fil",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "Name": "5-8 lb swordfish loins co",
+        "Name": "Swordfish loins co",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 7.1,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "40/60 breaded scallops",
+        "Name": "Breaded scallops",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 7.1,
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "Name": "6 oz swordfish steak",
+        "Name": "Swordfish steak",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "6/8 oz snapper portions",
+        "Name": "Snapper portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "Name": "4/6 oz iqf pollock fillet",
+        "Name": "Pollock fillet",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "Name": "4 oz iqf haddock loins",
+        "Name": "Haddock loins",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 0.0,
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "Name": "8 oz v/p salmon portions",
+        "Name": "V/p salmon portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "Name": "10/12oz co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "Name": "6/8 oz rock fish fillets",
+        "Name": "Rock fish fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "Name": "Ret bag a/t flounder",
+        "Name": "Ret a/t flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "Name": "8 oz swordfish steak",
+        "Name": "Swordfish steak",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 7.1,
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "Name": "7/9 oz cobia portions",
+        "Name": "Cobia portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "8/12 ct perch fillet",
+        "Name": "Ct perch fillet",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 1.3,
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "Name": ".75-1 wg lane snapper",
+        "Name": "Wg lane snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "8 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": ".5-.75 wggs lane snapper",
+        "Name": "Wggs lane snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "6 oz rolled stfd o/roughy",
+        "Name": "Rolled stfd o/roughy",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 3.5,
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "Name": "Sea trout retail bag",
+        "Name": "Sea trout retail",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "Name": "2-3 lb \"d\" trim salmon fl",
+        "Name": "D trim salmon",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "10/15 whl boiled crawfish",
+        "Name": "Whl boiled crawfish",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 0.4,
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "Name": "2/3 oz swai",
+        "Name": "Swai",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "Name": "2-4 lb wggs yt snapper",
+        "Name": "Wggs yt snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "Name": "Iqf catfish fillet",
+        "Name": "Catfish fillet",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "Name": "20/24 oz dover sole",
+        "Name": "Dover sole",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2187,7 +2187,7 @@
         }
     },
     {
-        "Name": "6/8 oz. co snapper fillet",
+        "Name": ". co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "16/20 oz snapper fillets",
+        "Name": "Snapper fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "4 oz t/c salmon portions",
+        "Name": "T/c salmon portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Sea bass fillet 3/4 oz",
+        "Name": "Sea bass fillet",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.8,
@@ -2223,7 +2223,7 @@
         }
     },
     {
-        "Name": "4/6 oz orange roughy fil",
+        "Name": "Orange roughy fil",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.9,
@@ -2232,7 +2232,7 @@
         }
     },
     {
-        "Name": "8 oz wahoo portion",
+        "Name": "Wahoo portion",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.9,
@@ -2241,7 +2241,7 @@
         }
     },
     {
-        "Name": "Rtg wh gs tilapia 8340562",
+        "Name": "Rtg wh gs tilapia",
         "Nutrients": {
             "Protein": 25.7,
             "Fat": 3.1,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "2/4 oz sk/on whiting fil",
+        "Name": "Sk/on whiting fil",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 1.3,
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "Name": "10 oz uniform salmon port",
+        "Name": "Uniform salmon port",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -2268,7 +2268,7 @@
         }
     },
     {
-        "Name": "8/16 iqf h&g croaker",
+        "Name": "H& croaker",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 3.1,
@@ -2277,7 +2277,7 @@
         }
     },
     {
-        "Name": "Fz whiting 2 lb",
+        "Name": "Fz whiting",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 1.3,
@@ -2286,7 +2286,7 @@
         }
     },
     {
-        "Name": "28/30 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "Name": "4 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "Name": "7lb/up mahi-mahi loins",
+        "Name": "Mahi-mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "10/12 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2322,7 +2322,7 @@
         }
     },
     {
-        "Name": "8/10oz co snapper portion",
+        "Name": "Co snapper portion",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2331,7 +2331,7 @@
         }
     },
     {
-        "Name": "2-3 lb salmon sides",
+        "Name": "Salmon sides",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "Name": "4/6 oz snapper fillets",
+        "Name": "Snapper fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "Name": "10/12 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2358,7 +2358,7 @@
         }
     },
     {
-        "Name": "7/9 oz swai fillets",
+        "Name": "Swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "2/3 oz flounder fillet",
+        "Name": "Flounder fillet",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Retail bag salted pollock",
+        "Name": "Retail salted pollock",
         "Nutrients": {
             "Protein": 25.0,
             "Fat": 0.9,
@@ -2403,7 +2403,7 @@
         }
     },
     {
-        "Name": "Swordfish loins 2-6 kg",
+        "Name": "Swordfish loins kg",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 4.0,
@@ -2412,7 +2412,7 @@
         }
     },
     {
-        "Name": "3/5 lb red grouper loins",
+        "Name": "Red grouper loins",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2421,7 +2421,7 @@
         }
     },
     {
-        "Name": "16/20 coc brd torpedo shr",
+        "Name": "Coc brd torpedo shr",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 15.2,
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "Name": "3/5 oz iqf tilapia fillet",
+        "Name": "Tilapia fillet",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -2439,7 +2439,7 @@
         }
     },
     {
-        "Name": "6/8 oz whiting fillets",
+        "Name": "Whiting fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -2448,7 +2448,7 @@
         }
     },
     {
-        "Name": "Ret box pollock fillet",
+        "Name": "Ret pollock fillet",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "3/5 oz swai",
+        "Name": "Swai",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "5lb.-up grouper loins",
+        "Name": "Grouper loins",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2484,7 +2484,7 @@
         }
     },
     {
-        "Name": "4/6 oz packers raw skin on boneless wild canadian walleye fillet",
+        "Name": "Packers raw skin on boneless wild canadian walleye fillet",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.2,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "16/23 whl boiled crawfish",
+        "Name": "Whl boiled crawfish",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.6,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "3/5 lb co mahi-mahi loins",
+        "Name": "Co mahi-mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "1-3 lb grouper fillet",
+        "Name": "Grouper fillet",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "Name": "4/6 oz salmon portions",
+        "Name": "Salmon portions",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 3.5,
@@ -2556,7 +2556,7 @@
         }
     },
     {
-        "Name": "6 oz iqf sole fillet",
+        "Name": "Sole fillet",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2592,7 +2592,7 @@
         }
     },
     {
-        "Name": "4/6 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2601,7 +2601,7 @@
         }
     },
     {
-        "Name": "Sea bass wgs 250/350 gr",
+        "Name": "Sea bass wgs gr",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.8,
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "Name": "Ret bag grouper fillets",
+        "Name": "Ret grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2628,7 +2628,7 @@
         }
     },
     {
-        "Name": "5/7 oz swai",
+        "Name": "Swai",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.2,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "26-28 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2646,7 +2646,7 @@
         }
     },
     {
-        "Name": "10/up oz flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 1.8,
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "Name": "Fz salmon 1 lb",
+        "Name": "Fz salmon",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 2.2,
@@ -2664,7 +2664,7 @@
         }
     },
     {
-        "Name": "Ret. bag ocean perch",
+        "Name": "Ret. ocean perch",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 1.3,
@@ -2673,7 +2673,7 @@
         }
     },
     {
-        "Name": "Ret. bag v/p flounder fil",
+        "Name": "Ret. v/p flounder fil",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 4.4,
@@ -2682,7 +2682,7 @@
         }
     },
     {
-        "Name": "1-3lb skn/on grouper loin",
+        "Name": "Skn/on grouper loin",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2691,7 +2691,7 @@
         }
     },
     {
-        "Name": "5 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "Name": "6 oz y/fin tuna steak",
+        "Name": "Y/fin tuna steak",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.0,
@@ -2709,7 +2709,7 @@
         }
     },
     {
-        "Name": "2-4 lb wggs lane snapper",
+        "Name": "Wggs lane snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2718,7 +2718,7 @@
         }
     },
     {
-        "Name": "6 oz cod loins",
+        "Name": "Cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "8 oz ahi tuna steak",
+        "Name": "Ahi tuna steak",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -2736,7 +2736,7 @@
         }
     },
     {
-        "Name": "8 oz chilean sea bass",
+        "Name": "Chilean sea bass",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 1.8,
@@ -2763,7 +2763,7 @@
         }
     },
     {
-        "Name": "3/5 oz flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.4,
             "Fat": 1.8,
@@ -2808,7 +2808,7 @@
         }
     },
     {
-        "Name": "Ret box perch fillet",
+        "Name": "Ret perch fillet",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 1.3,
@@ -2817,7 +2817,7 @@
         }
     },
     {
-        "Name": "6 oz ahi tuna steak",
+        "Name": "Ahi tuna steak",
         "Nutrients": {
             "Protein": 24.1,
             "Fat": 0.5,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "Salmon portions 14.1oz",
+        "Name": "Salmon portions",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 15.9,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "8 oz v/p salmon port",
+        "Name": "V/p salmon port",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "Name": "6 oz mahi-mahi port",
+        "Name": "Mahi-mahi port",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -2871,7 +2871,7 @@
         }
     },
     {
-        "Name": "Ret bag tilapia fillets",
+        "Name": "Ret tilapia fillets",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 1.3,
@@ -2880,7 +2880,7 @@
         }
     },
     {
-        "Name": "Whelk meat iqf",
+        "Name": "Whelk meat",
         "Nutrients": {
             "Protein": 47.6,
             "Fat": 0.6,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "H&g black cod",
+        "Name": "H& black cod",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 0.6,
@@ -2898,7 +2898,7 @@
         }
     },
     {
-        "Name": "1-3 lb grouper loin",
+        "Name": "Grouper loin",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2907,7 +2907,7 @@
         }
     },
     {
-        "Name": "6/8 oz co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "Name": "Ret bag catfish nugget",
+        "Name": "Ret catfish nugget",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -2925,7 +2925,7 @@
         }
     },
     {
-        "Name": "2/4 oz iqf pollock fillet",
+        "Name": "Pollock fillet",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.2,
@@ -2934,7 +2934,7 @@
         }
     },
     {
-        "Name": "4/6 oz co snapper fillets",
+        "Name": "Co snapper fillets",
         "Nutrients": {
             "Protein": 14.2,
             "Fat": 0.9,
@@ -2952,7 +2952,7 @@
         }
     },
     {
-        "Name": "6 oz norg v/p salmon port",
+        "Name": "Norg v/p salmon port",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -2961,7 +2961,7 @@
         }
     },
     {
-        "Name": "4/6 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -2970,7 +2970,7 @@
         }
     },
     {
-        "Name": "4/5oz nat brd flounder",
+        "Name": "Nat brd flounder",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 1.6,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Snapper wh y/t 1-1.5 lb",
+        "Name": "Snapper wh y/t",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "Name": "Ret bag ivp mahi",
+        "Name": "Ret ivp mahi",
         "Nutrients": {
             "Protein": 14.9,
             "Fat": 0.7,
@@ -3024,7 +3024,7 @@
         }
     },
     {
-        "Name": "2/4 oz alaska pollock fil",
+        "Name": "Alaska pollock fil",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.0,
@@ -3033,7 +3033,7 @@
         }
     },
     {
-        "Name": "Bluerunners 1-2 lb",
+        "Name": "Bluerunners",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 1.8,
@@ -3051,7 +3051,7 @@
         }
     },
     {
-        "Name": "10/12 oz mackerel steaks",
+        "Name": "Mackerel steaks",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 6.2,
@@ -3060,7 +3060,7 @@
         }
     },
     {
-        "Name": "H & g whiting",
+        "Name": "H & whiting",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -3078,7 +3078,7 @@
         }
     },
     {
-        "Name": "14-16 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "7/9 oz s/p swai fillets",
+        "Name": "S/p swai fillets",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Whole g.g.s red tilapia",
+        "Name": "Whole ..s red tilapia",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "12/16 oz grouper fillet",
+        "Name": "Grouper fillet",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3114,7 +3114,7 @@
         }
     },
     {
-        "Name": "14/16 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3123,7 +3123,7 @@
         }
     },
     {
-        "Name": "3/5 lb mahi mahi loins",
+        "Name": "Mahi mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3150,7 +3150,7 @@
         }
     },
     {
-        "Name": "Ret bag s/on whiting fil",
+        "Name": "Ret s/on whiting fil",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -3159,7 +3159,7 @@
         }
     },
     {
-        "Name": "3/5 lb co mahi loin",
+        "Name": "Co mahi loin",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "80/100 crawfish meat f/on",
+        "Name": "Crawfish meat f/on",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 1.2,
@@ -3195,7 +3195,7 @@
         }
     },
     {
-        "Name": "Boudreauxs brand 10/15 whole boiled crawfish",
+        "Name": "Boudreauxs br& whole boiled crawfish",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 0.3,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Ret box a/t flounder fil",
+        "Name": "Ret a/t flounder fil",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "5-10 lb king mackerel",
+        "Name": "King mackerel",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -3222,7 +3222,7 @@
         }
     },
     {
-        "Name": "Iqf cod tails",
+        "Name": "Cod tails",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 0.7,
@@ -3231,7 +3231,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p tuna stk",
+        "Name": "Ret v/p tuna stk",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 0.9,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "5/7 oz catfish fillet",
+        "Name": "Catfish fillet",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 8.8,
@@ -3258,7 +3258,7 @@
         }
     },
     {
-        "Name": "8oz uniform salmon port",
+        "Name": "Uniform salmon port",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 13.3,
@@ -3267,7 +3267,7 @@
         }
     },
     {
-        "Name": "16/20 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3276,7 +3276,7 @@
         }
     },
     {
-        "Name": "4/6 oz snapper portions",
+        "Name": "Snapper portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "8/16 oz haddock fillets",
+        "Name": "Haddock fillets",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "2-3 lb trim d salmon side",
+        "Name": "Trim d salmon side",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -3303,7 +3303,7 @@
         }
     },
     {
-        "Name": "12-14 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3312,7 +3312,7 @@
         }
     },
     {
-        "Name": ".5/1 lb w.g.g.s. snapper",
+        "Name": "W...s. snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3321,7 +3321,7 @@
         }
     },
     {
-        "Name": "1/3 lb black grouper loin",
+        "Name": "Black grouper loin",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "Ret box v/p tilapia fill",
+        "Name": "Ret v/p tilapia fill",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -3348,7 +3348,7 @@
         }
     },
     {
-        "Name": "8/10 oz unicorn filefish",
+        "Name": "Unicorn filefish",
         "Nutrients": {
             "Protein": 13.4,
             "Fat": 0.0,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "8 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "4/8 oz a/t flounder fil",
+        "Name": "A/t flounder fil",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3384,7 +3384,7 @@
         }
     },
     {
-        "Name": "Mahi retail bag",
+        "Name": "Mahi retail",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3393,7 +3393,7 @@
         }
     },
     {
-        "Name": "10lb-up w.g blk grouper",
+        "Name": "W. blk grouper",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "1-3 lb red grouper loin",
+        "Name": "Red grouper loin",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3420,7 +3420,7 @@
         }
     },
     {
-        "Name": "8 oz iqf sole fillet",
+        "Name": "Sole fillet",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3438,7 +3438,7 @@
         }
     },
     {
-        "Name": "4 oz atlantic cod loins",
+        "Name": "Atlantic cod loins",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.9,
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "Name": "9/11 oz swai fillets",
+        "Name": "Swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.8,
@@ -3456,7 +3456,7 @@
         }
     },
     {
-        "Name": "Ret bag catfish fillet",
+        "Name": "Ret catfish fillet",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -3465,7 +3465,7 @@
         }
     },
     {
-        "Name": "2oz fas premium hoki port",
+        "Name": "Fas premium hoki port",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 2.2,
@@ -3474,7 +3474,7 @@
         }
     },
     {
-        "Name": "9/11 oz swai",
+        "Name": "Swai",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3483,7 +3483,7 @@
         }
     },
     {
-        "Name": "4/6 oz haddock fillets",
+        "Name": "Haddock fillets",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.0,
@@ -3492,7 +3492,7 @@
         }
     },
     {
-        "Name": "Snapper wh .5-1 lb",
+        "Name": "Snapper wh",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3501,7 +3501,7 @@
         }
     },
     {
-        "Name": "7/9 oz catfish shank fil",
+        "Name": "Catfish shank fil",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -3510,7 +3510,7 @@
         }
     },
     {
-        "Name": "10/12 oz spotted seatrout",
+        "Name": "Spotted seatrout",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -3519,7 +3519,7 @@
         }
     },
     {
-        "Name": "2/4 mahi portions",
+        "Name": "Mahi portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3528,7 +3528,7 @@
         }
     },
     {
-        "Name": "Ret bag swai fillet",
+        "Name": "Ret swai fillet",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3546,7 +3546,7 @@
         }
     },
     {
-        "Name": "7/9 iqf tilapia fillets",
+        "Name": "Tilapia fillets",
         "Nutrients": {
             "Protein": 28.3,
             "Fat": 1.8,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "8 oz swordfish steaks",
+        "Name": "Swordfish steaks",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 6.2,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "12/14oz co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Sea bass wgs 350/500 gr",
+        "Name": "Sea bass wgs gr",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.8,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "1-3lb co grouper fillet",
+        "Name": "Co grouper fillet",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "7/9 oz swai",
+        "Name": "Swai",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "8/10 oz spotted sea trout",
+        "Name": "Spotted sea trout",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -3609,7 +3609,7 @@
         }
     },
     {
-        "Name": "6/8 oz co cobia portions",
+        "Name": "Co cobia portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3618,7 +3618,7 @@
         }
     },
     {
-        "Name": "Black grouper wg 5lb -up",
+        "Name": "Black grouper wg -up",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -3627,7 +3627,7 @@
         }
     },
     {
-        "Name": "1/3 lb co snapper fillet",
+        "Name": "Co snapper fillet",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": ".75-1 wggs lane snapper",
+        "Name": "Wggs lane snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3654,7 +3654,7 @@
         }
     },
     {
-        "Name": "Retail bag swai fillets",
+        "Name": "Retail swai fillets",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 1.2,
@@ -3663,7 +3663,7 @@
         }
     },
     {
-        "Name": "Iqf ocean perch fillets",
+        "Name": "Ocean perch fillets",
         "Nutrients": {
             "Protein": 16.8,
             "Fat": 0.9,
@@ -3672,7 +3672,7 @@
         }
     },
     {
-        "Name": "16/32 oz s/p pollock fill",
+        "Name": "S/p pollock fill",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 0.9,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p tilapia fil",
+        "Name": "Ret v/p tilapia fil",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 1.3,
@@ -3699,7 +3699,7 @@
         }
     },
     {
-        "Name": "10/12 oz co grouper fill",
+        "Name": "Co grouper fill",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3717,7 +3717,7 @@
         }
     },
     {
-        "Name": "8/10 oz mackerel steaks",
+        "Name": "Mackerel steaks",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 1.8,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "1/3 lb. mahi mahi loins",
+        "Name": ". mahi mahi loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -3735,7 +3735,7 @@
         }
     },
     {
-        "Name": "Ret box snapper fillet",
+        "Name": "Ret snapper fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3744,7 +3744,7 @@
         }
     },
     {
-        "Name": "4 oz sole fillet",
+        "Name": "Sole fillet",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3762,7 +3762,7 @@
         }
     },
     {
-        "Name": "10 oz mahi-mahi portions",
+        "Name": "Mahi-mahi portions",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 0.9,
@@ -3771,7 +3771,7 @@
         }
     },
     {
-        "Name": "1/3 lb red grouper loins",
+        "Name": "Red grouper loins",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "4 oz norg salmon portions",
+        "Name": "Norg salmon portions",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -3798,7 +3798,7 @@
         }
     },
     {
-        "Name": "Ret bag pollock fillets",
+        "Name": "Ret pollock fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Ret bag v/p tilapia fill",
+        "Name": "Ret v/p tilapia fill",
         "Nutrients": {
             "Protein": 18.6,
             "Fat": 0.9,
@@ -3843,7 +3843,7 @@
         }
     },
     {
-        "Name": "3 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3852,7 +3852,7 @@
         }
     },
     {
-        "Name": "8 oz norg v/p salmon port",
+        "Name": "Norg v/p salmon port",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 16.1,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "2/4 oz hogfish fillets",
+        "Name": "Hogfish fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "6/8 oz hogfish fillets",
+        "Name": "Hogfish fillets",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3888,7 +3888,7 @@
         }
     },
     {
-        "Name": "Packers 8/10oz individually quick frozen skin on wild caught perch product of china",
+        "Name": "Packers individually quick frozen skin on wild caught perch product of china",
         "Nutrients": {
             "Protein": 19.0,
             "Fat": 2.0,
@@ -3897,7 +3897,7 @@
         }
     },
     {
-        "Name": "Salmon fillet 2-4 lb",
+        "Name": "Salmon fillet",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,
@@ -3906,7 +3906,7 @@
         }
     },
     {
-        "Name": "Breaded fish squares 4oz",
+        "Name": "Breaded fish squares",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 11.6,
@@ -3915,7 +3915,7 @@
         }
     },
     {
-        "Name": "7 oz iqf flounder fillets",
+        "Name": "Flounder fillets",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -3942,7 +3942,7 @@
         }
     },
     {
-        "Name": "2/up wahoo loins",
+        "Name": "Wahoo loins",
         "Nutrients": {
             "Protein": 19.6,
             "Fat": 8.9,
@@ -3951,7 +3951,7 @@
         }
     },
     {
-        "Name": "12/16 oz co snapper fille",
+        "Name": "Co snapper fille",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -3969,7 +3969,7 @@
         }
     },
     {
-        "Name": "16/20 oz snapper fillet",
+        "Name": "Snapper fillet",
         "Nutrients": {
             "Protein": 20.4,
             "Fat": 1.3,
@@ -3978,7 +3978,7 @@
         }
     },
     {
-        "Name": "Retail bag v/p cod fillet",
+        "Name": "Retail v/p cod fillet",
         "Nutrients": {
             "Protein": 17.7,
             "Fat": 0.9,
@@ -3996,7 +3996,7 @@
         }
     },
     {
-        "Name": "Grouper red whole 5-10lb",
+        "Name": "Grouper red whole",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.9,
@@ -4005,7 +4005,7 @@
         }
     },
     {
-        "Name": "2/4 oz grouper fillets",
+        "Name": "Grouper fillets",
         "Nutrients": {
             "Protein": 19.5,
             "Fat": 0.6,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Snapper wh y/t .5-1 lb",
+        "Name": "Snapper wh y/t",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -4023,7 +4023,7 @@
         }
     },
     {
-        "Name": "Snapper wh y/t .75-1 lb",
+        "Name": "Snapper wh y/t",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.0,
@@ -4032,7 +4032,7 @@
         }
     },
     {
-        "Name": "2/4 oz spotted seatrout",
+        "Name": "Spotted seatrout",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 6.2,
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "Name": "4 oz mahi-mahi port",
+        "Name": "Mahi-mahi port",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 0.9,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "8/10 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -4059,7 +4059,7 @@
         }
     },
     {
-        "Name": "6/8 oz orange roughy fil",
+        "Name": "Orange roughy fil",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 0.9,
@@ -4068,7 +4068,7 @@
         }
     },
     {
-        "Name": "5 oz iqf sole fillet",
+        "Name": "Sole fillet",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -4077,7 +4077,7 @@
         }
     },
     {
-        "Name": "7/9 oz barramundi fillet",
+        "Name": "Barramundi fillet",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 3.0,
@@ -4104,7 +4104,7 @@
         }
     },
     {
-        "Name": "Ret bag whole tilapia",
+        "Name": "Ret whole tilapia",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 0.9,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "8 oz halibut portions",
+        "Name": "Halibut portions",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 1.3,
@@ -4131,7 +4131,7 @@
         }
     },
     {
-        "Name": "Thresher shark 6/8oz port",
+        "Name": "Thresher shark port",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 4.5,
@@ -4140,7 +4140,7 @@
         }
     },
     {
-        "Name": "1-2 wggs lane snapper",
+        "Name": "Wggs lane snapper",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 1.3,
@@ -4149,7 +4149,7 @@
         }
     },
     {
-        "Name": "Ret bag y/f tuna steak",
+        "Name": "Ret y/f tuna steak",
         "Nutrients": {
             "Protein": 23.4,
             "Fat": 1.1,
@@ -4158,7 +4158,7 @@
         }
     },
     {
-        "Name": "10 oz el casino stfd fldr",
+        "Name": "El casino stfd fldr",
         "Nutrients": {
             "Protein": 16.2,
             "Fat": 2.6,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "24/26 oz h&g flounder",
+        "Name": "H& flounder",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 1.8,
@@ -4185,7 +4185,7 @@
         }
     },
     {
-        "Name": "2-3 lb \"\"d\"\" trim salmon fl",
+        "Name": "D trim salmon",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 13.4,

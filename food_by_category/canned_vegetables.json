@@ -72,7 +72,7 @@
         }
     },
     {
-        "Name": "Hot marinated sliced jalapeno peppers, hot",
+        "Name": "Hot marinated sliced jalapeno peppers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Sauced yam cuts sweet potatoes, orange pineapple, orange pineapple",
+        "Name": "Sauced yam cuts sweet potatoes, orange pineapple",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Caponata eggplant appetizer, caponata",
+        "Name": "Caponata eggplant appetizer",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 4.0,
@@ -180,7 +180,7 @@
         }
     },
     {
-        "Name": "Pieces & stems mushrooms, pieces & stems",
+        "Name": "Pieces & stems mushrooms",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "White hominy, white",
+        "Name": "White hominy",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.8,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Red & green peppers sweet corn & peppers, red & green peppers",
+        "Name": "Red & green peppers sweet corn & peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Mild fire roasted whole green chiles, mild",
+        "Name": "Mild fire roasted whole green chiles",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.0,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Old fashioned sauerkraut, old fashioned",
+        "Name": "Old fashioned sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Mild fire roasted whole green chiles, mild fire roasted",
+        "Name": "Mild fire roasted whole green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Cream style golden sweet corn, cream style",
+        "Name": "Cream style golden sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -432,7 +432,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet fiesta corn seasoned with red & green peppers, red & green peppers",
+        "Name": "Whole kernel sweet fiesta corn seasoned with red & green peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Cream style no salt added sweet corn, cream style",
+        "Name": "Cream style no salt added sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet white corn, white",
+        "Name": "Whole kernel sweet white corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Korean kimchi probiotic fermented, korean",
+        "Name": "Korean kimchi probiotic fermented",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -576,7 +576,7 @@
         }
     },
     {
-        "Name": "California style artichoke hearts in water, california style",
+        "Name": "California style artichoke hearts in water",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -621,7 +621,7 @@
         }
     },
     {
-        "Name": "Mushrooms stems and pieces",
+        "Name": "Mushrooms stems & pieces",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Organic mushrooms pieces and stems",
+        "Name": "Organic mushrooms pieces & stems",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Super sweet steamin' easy whole kernel golden corn, super sweet",
+        "Name": "Super sweet steamin easy whole kernel golden corn",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.6,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Pumpkin pie, pumpkin",
+        "Name": "Pumpkin pie",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -693,7 +693,7 @@
         }
     },
     {
-        "Name": "3 bean salad cups",
+        "Name": "Bean salad cups",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "Mild diced green chiles, mild",
+        "Name": "Mild diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Mild whole green chiles, mild",
+        "Name": "Mild whole green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Spicy cocktail onions, spicy",
+        "Name": "Spicy cocktail onions",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Natural mixed vegetables stir fry, mixed vegetables",
+        "Name": "Natural mixed vegetables stir fry",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -774,7 +774,7 @@
         }
     },
     {
-        "Name": "French style green beans, french style",
+        "Name": "French style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -792,7 +792,7 @@
         }
     },
     {
-        "Name": "Country-style artichokes in extra virgin olive oil, country-style artichokes",
+        "Name": "Country-style artichokes in extra virgin olive oil",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 13.3,
@@ -801,7 +801,7 @@
         }
     },
     {
-        "Name": "Sweet peas, sweet",
+        "Name": "Sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -855,7 +855,7 @@
         }
     },
     {
-        "Name": "Cream style corn, cream style",
+        "Name": "Cream style corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -873,7 +873,7 @@
         }
     },
     {
-        "Name": "Fire roasted toreados sliced peppers, fire roasted toreados",
+        "Name": "Fire roasted toreados sliced peppers",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -882,7 +882,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet corn lightly seasoned with sea salt, sea salt",
+        "Name": "Whole kernel sweet corn lightly seasoned with sea salt",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.4,
@@ -891,7 +891,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet corn, whole kernel",
+        "Name": "Whole kernel sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Cream style sweet corn, cream style",
+        "Name": "Cream style sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -954,7 +954,7 @@
         }
     },
     {
-        "Name": "Crispy sauerkraut, crispy",
+        "Name": "Crispy sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -963,7 +963,7 @@
         }
     },
     {
-        "Name": "Bavarian style sauerkraut with caraway seeds, bavarian style",
+        "Name": "Bavarian style sauerkraut with caraway seeds",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "Name": "Whole holland-style onions",
+        "Name": "Whole holl&-style onions",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "Name": "6-8 medium artichoke hearts",
+        "Name": "Medium artichoke hearts",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Coconut thai a blend of diced portabella, vegetables & herbs, coconut thai",
+        "Name": "Coconut thai a blend of diced portabella, vegetables & herbs",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 2.3,
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "Name": "Mild fire roasted diced green chiles, mild fire roasted",
+        "Name": "Mild fire roasted diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "Name": "Classic fancy curly sliced carrots, classic",
+        "Name": "Classic fancy curly sliced carrots",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "Name": "Spicy green beans, spicy",
+        "Name": "Spicy green beans",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "4 sieve cut green beans",
+        "Name": "Sieve cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "Name": "Mexican whole green tomatoes, mexican",
+        "Name": "Mexican whole green tomatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "Name": "Original raw sauerkraut, original",
+        "Name": "Original raw sauerkraut",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "Name": "Quartered & marinated artichoke hearts, quartered & marinated",
+        "Name": "Quartered & marinated artichoke hearts",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "Name": "Marinated baby artichoke hearts, marinated baby",
+        "Name": "Marinated baby artichoke hearts",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "Name": "Mushrooms pieces and stems",
+        "Name": "Mushrooms pieces & stems",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "Name": "White creamed corn, white",
+        "Name": "White creamed corn",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.5,
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "Name": "Mushrooms marinated with teriyaki sauce, teriyaki sauce",
+        "Name": "Mushrooms marinated with teriyaki sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Herb italian marinated mushrooms, herb italian",
+        "Name": "Herb italian marinated mushrooms",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Seasoned southern classics cut green beans & diced potatoes with garlic and spices in a bacon flavored sauce, seasoned southern classics",
+        "Name": "Seasoned southern classics cut green beans & diced potatoes with garlic & spices in a bacon flavored sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "Name": "Albertson's, tender green sweet peas",
+        "Name": "Albertsons, tender green sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "Name": "Manning's, white hominy",
+        "Name": "Mannings, white hominy",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "Name": "3 bean salad",
+        "Name": "Bean salad",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Gonzalez, peas and carrots",
+        "Name": "Gonzalez, peas & carrots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -2367,7 +2367,7 @@
         }
     },
     {
-        "Name": "Chi-chi's, diced green chilies",
+        "Name": "Chi-chis, diced green chilies",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -2466,7 +2466,7 @@
         }
     },
     {
-        "Name": "Chaokoh, young sweet corn (cut) in brine",
+        "Name": "Chaokoh, young sweet corn in brine",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -2826,7 +2826,7 @@
         }
     },
     {
-        "Name": "John cope's, golden sweet corn",
+        "Name": "John copes, golden sweet corn",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 3.1,
@@ -2979,7 +2979,7 @@
         }
     },
     {
-        "Name": "Whole kernel crisp 'n sweet golden corn",
+        "Name": "Whole kernel crisp & sweet golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -3006,7 +3006,7 @@
         }
     },
     {
-        "Name": "Furmano's, italian style cut green beans",
+        "Name": "Furmanos, italian style cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -3204,7 +3204,7 @@
         }
     },
     {
-        "Name": "Wylwood, pieces and stems mushrooms",
+        "Name": "Wylwood, pieces & stems mushrooms",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -3249,7 +3249,7 @@
         }
     },
     {
-        "Name": "Shoprite, no salt added, stem's & pieces mushrooms",
+        "Name": "Shoprite, no salt added, stems & pieces mushrooms",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "Name": "Dunbar's, cut yams, sweet potatoes packed in syrup",
+        "Name": "Dunbars, cut yams, sweet potatoes packed in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -3366,7 +3366,7 @@
         }
     },
     {
-        "Name": "Roland, straw mushrooms, broken",
+        "Name": "Rol&, straw mushrooms, broken",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -3375,7 +3375,7 @@
         }
     },
     {
-        "Name": "Mitchell's, shoe peg, white sweet corn, fancy whole kernel",
+        "Name": "Mitchells, shoe peg, white sweet corn, fancy whole kernel",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -3726,7 +3726,7 @@
         }
     },
     {
-        "Name": "Goya, peas and carrots",
+        "Name": "Goya, peas & carrots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -3780,7 +3780,7 @@
         }
     },
     {
-        "Name": "Roland, artichoke hearts",
+        "Name": "Rol&, artichoke hearts",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Season brand, tips & cuts hearts of palm",
+        "Name": "Season br&, tips & cuts hearts of palm",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -3879,7 +3879,7 @@
         }
     },
     {
-        "Name": "Roland, white asparagus",
+        "Name": "Rol&, white asparagus",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "Roland, marinated hearts of palm",
+        "Name": "Rol&, marinated hearts of palm",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 2.9,
@@ -4896,7 +4896,7 @@
         }
     },
     {
-        "Name": "Heirloom farms, slied hand picked & boiled in water",
+        "Name": "Heirloom farms, slied h& picked & boiled in water",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5076,7 +5076,7 @@
         }
     },
     {
-        "Name": "My essentials, crisp 'n sweet, corn",
+        "Name": "My essentials, crisp & sweet, corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -5130,7 +5130,7 @@
         }
     },
     {
-        "Name": "Margaret holmes, turnip greens and roots",
+        "Name": "Margaret holmes, turnip greens & roots",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5175,7 +5175,7 @@
         }
     },
     {
-        "Name": "Blue lake cut green beans and whole potatoes in ham flavored sauce",
+        "Name": "Blue lake cut green beans & whole potatoes in ham flavored sauce",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Young sweet corn  in brine",
+        "Name": "Young sweet corn in brine",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -5436,7 +5436,7 @@
         }
     },
     {
-        "Name": "Peas and carrots",
+        "Name": "Peas & carrots",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -5508,7 +5508,7 @@
         }
     },
     {
-        "Name": "Tomatoes and okra",
+        "Name": "Tomatoes & okra",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Bruce's, yams cut sweet potato in syrup",
+        "Name": "Bruces, yams cut sweet potato in syrup",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "Roland, artichoke bottoms",
+        "Name": "Rol&, artichoke bottoms",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "Name": "Schnucks,mushrooms pieces and stems",
+        "Name": "Schnucks,mushrooms pieces & stems",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "White sweet whole kernel corn, white sweet",
+        "Name": "White sweet whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -6030,7 +6030,7 @@
         }
     },
     {
-        "Name": "Hoppin' john",
+        "Name": "Hoppin john",
         "Nutrients": {
             "Protein": 2.5,
             "Fat": 0.0,
@@ -6048,7 +6048,7 @@
         }
     },
     {
-        "Name": "Extra standard sweet peas",
+        "Name": "Extra st&ard sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.0,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Candied yams",
+        "Name": "C&ied yams",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Farmer's market, organic butternut squash",
+        "Name": "Farmers market, organic butternut squash",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Spartan, corn with red and chipotle peppers",
+        "Name": "Spartan, corn with red & chipotle peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "Trappey's, field peas",
+        "Name": "Trappeys, field peas",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.2,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Blended peas and carrots",
+        "Name": "Blended peas & carrots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.4,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "365 everyday value, beets sliced",
+        "Name": "Everyday value, beets sliced",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "365 everyday value, artichoke quarters packed in water",
+        "Name": "Everyday value, artichoke quarters packed in water",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Stems and pieces mushrooms",
+        "Name": "Stems & pieces mushrooms",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -7245,7 +7245,7 @@
         }
     },
     {
-        "Name": "365 everyday value, whole hearts of palm",
+        "Name": "Everyday value, whole hearts of palm",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Island sun, mushrooms pieces and stems",
+        "Name": "Isl& sun, mushrooms pieces & stems",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Nameko mushrooms (whole) in water nameko mizuli",
+        "Name": "Nameko mushrooms in water nameko mizuli",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Trader joe's, hearts of palm",
+        "Name": "Trader joes, hearts of palm",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.0,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Pantainorasingh brand, bamboo shoot",
+        "Name": "Pantainorasingh br&, bamboo shoot",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.0,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Pantainorasingh, bamboo shoot (strip) with bai yanang (tiliacora triandra) and chili",
+        "Name": "Pantainorasingh, bamboo shoot & chili",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Harris teeter, crisp' n sweet corn",
+        "Name": "Harris teeter, crisp n sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Harris teeter, crisp 'n sweet corn",
+        "Name": "Harris teeter, crisp & sweet corn",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.2,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Stokely's, sweet peas",
+        "Name": "Stokelys, sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -8253,7 +8253,7 @@
         }
     },
     {
-        "Name": "Stokely's, whole kernel corn",
+        "Name": "Stokelys, whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -8496,7 +8496,7 @@
         }
     },
     {
-        "Name": "Candied yams cut sweet potatoes in kettle simmered syrup",
+        "Name": "C&ied yams cut sweet potatoes in kettle simmered syrup",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Tomatoes okra and corn",
+        "Name": "Tomatoes okra & corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "Companion, curry cha'i pow yii braised gluten (seitan tidbits)",
+        "Name": "Companion, curry chai pow yii braised gluten",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 20.0,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Richin, whole toddy palm's seed in syrup",
+        "Name": "Richin, whole toddy palms seed in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Cuoco, aubergine and vegetable puree",
+        "Name": "Cuoco, aubergine & vegetable puree",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 4.0,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Richin brand, whole oyster mushrooms",
+        "Name": "Richin br&, whole oyster mushrooms",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Roland, hearts of palm premium",
+        "Name": "Rol&, hearts of palm premium",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Peeled straw mushrooms (medium)",
+        "Name": "Peeled straw mushrooms",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -9189,7 +9189,7 @@
         }
     },
     {
-        "Name": "Roasted and peeled diced mild green chiles",
+        "Name": "Roasted & peeled diced mild green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Earth's best organic, carrots",
+        "Name": "Earths best organic, carrots",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -9387,7 +9387,7 @@
         }
     },
     {
-        "Name": "365 everyday value, salad cut hearts of palm",
+        "Name": "Everyday value, salad cut hearts of palm",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -9495,7 +9495,7 @@
         }
     },
     {
-        "Name": "Whole foods market, beets with orange and ginger",
+        "Name": "Whole foods market, beets with orange & ginger",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -9729,7 +9729,7 @@
         }
     },
     {
-        "Name": "Crisp 'n sweet corn",
+        "Name": "Crisp & sweet corn",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.2,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Hannaford, crisp 'n sweet corn",
+        "Name": "Hannaford, crisp & sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -9936,7 +9936,7 @@
         }
     },
     {
-        "Name": "Whole green chiles roasted and pepped",
+        "Name": "Whole green chiles roasted & pepped",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -9981,7 +9981,7 @@
         }
     },
     {
-        "Name": "Sweet peas and carrots",
+        "Name": "Sweet peas & carrots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -10215,7 +10215,7 @@
         }
     },
     {
-        "Name": "Candied sweet potatoes sauced yams",
+        "Name": "C&ied sweet potatoes sauced yams",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -10296,7 +10296,7 @@
         }
     },
     {
-        "Name": "Allens, mixed greens mustard and turnip",
+        "Name": "Allens, mixed greens mustard & turnip",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10323,7 +10323,7 @@
         }
     },
     {
-        "Name": "Trappey's, field peas with snaps",
+        "Name": "Trappeys, field peas with snaps",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.2,
@@ -10431,7 +10431,7 @@
         }
     },
     {
-        "Name": "Trappey's, creole okra gumbo",
+        "Name": "Trappeys, creole okra gumbo",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -10494,7 +10494,7 @@
         }
     },
     {
-        "Name": "Pieces and stems mushrooms",
+        "Name": "Pieces & stems mushrooms",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -10530,7 +10530,7 @@
         }
     },
     {
-        "Name": "Gold'n white whole kernel corn",
+        "Name": "Gold& white whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -10980,7 +10980,7 @@
         }
     },
     {
-        "Name": "Roland, sliced bamboo shoots",
+        "Name": "Rol&, sliced bamboo shoots",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -11079,7 +11079,7 @@
         }
     },
     {
-        "Name": "No. 1, whole abalone mushroom",
+        "Name": "No. whole abalone mushroom",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -11133,7 +11133,7 @@
         }
     },
     {
-        "Name": "Candied yams cut sweet potatoes",
+        "Name": "C&ied yams cut sweet potatoes",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.0,
@@ -11151,7 +11151,7 @@
         }
     },
     {
-        "Name": "Roland, wild forest mushrooms",
+        "Name": "Rol&, wild forest mushrooms",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -11169,7 +11169,7 @@
         }
     },
     {
-        "Name": "Richin brand, king oyster mushrooms",
+        "Name": "Richin br&, king oyster mushrooms",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.0,
@@ -11187,7 +11187,7 @@
         }
     },
     {
-        "Name": "Libby's, organic pumpkin pie mix",
+        "Name": "Libbys, organic pumpkin pie mix",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -11241,7 +11241,7 @@
         }
     },
     {
-        "Name": "Crisp 'n sweet whole kernel corn",
+        "Name": "Crisp & sweet whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -11493,7 +11493,7 @@
         }
     },
     {
-        "Name": "Mild green chiles diced, mild",
+        "Name": "Mild green chiles diced",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11565,7 +11565,7 @@
         }
     },
     {
-        "Name": "Whole kernel supersweet corn, supersweet",
+        "Name": "Whole kernel supersweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -11700,7 +11700,7 @@
         }
     },
     {
-        "Name": "Cut candied yams sweet potatoes in heavy syrup with cinnamon & nutmeg",
+        "Name": "Cut c&ied yams sweet potatoes in heavy syrup with cinnamon & nutmeg",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -11988,7 +11988,7 @@
         }
     },
     {
-        "Name": "Libby's, diced carrots",
+        "Name": "Libbys, diced carrots",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -12024,7 +12024,7 @@
         }
     },
     {
-        "Name": "Peas and diced carrots",
+        "Name": "Peas & diced carrots",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -12366,7 +12366,7 @@
         }
     },
     {
-        "Name": "Food lion, crisp 'n sweet corn",
+        "Name": "Food lion, crisp & sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -12465,7 +12465,7 @@
         }
     },
     {
-        "Name": "Super sweet white and gold corn",
+        "Name": "Super sweet white & gold corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -12582,7 +12582,7 @@
         }
     },
     {
-        "Name": "Extra crispy gold'n white whole kernel corn",
+        "Name": "Extra crispy gold& white whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -12591,7 +12591,7 @@
         }
     },
     {
-        "Name": "Extra crispy corn'n peppers with bell peppers",
+        "Name": "Extra crispy corn& peppers with bell peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -12627,7 +12627,7 @@
         }
     },
     {
-        "Name": "Candied sweet potatoes",
+        "Name": "C&ied sweet potatoes",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.4,
@@ -12717,7 +12717,7 @@
         }
     },
     {
-        "Name": "Artichoke hearts 5-7 ct",
+        "Name": "Artichoke hearts ct",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -12771,7 +12771,7 @@
         }
     },
     {
-        "Name": "Hand picked artichoke bottoms",
+        "Name": "H& picked artichoke bottoms",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 1.1,
@@ -12780,7 +12780,7 @@
         }
     },
     {
-        "Name": "Hand picked artichoke quarters",
+        "Name": "H& picked artichoke quarters",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -12789,7 +12789,7 @@
         }
     },
     {
-        "Name": "Hand picked asparagus",
+        "Name": "H& picked asparagus",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 0.0,
@@ -13077,7 +13077,7 @@
         }
     },
     {
-        "Name": "Gandules verdes",
+        "Name": "&ules verdes",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.0,
@@ -13167,7 +13167,7 @@
         }
     },
     {
-        "Name": "Mexican style corn with red and green peppers",
+        "Name": "Mexican style corn with red & green peppers",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -13482,7 +13482,7 @@
         }
     },
     {
-        "Name": "Classic 3 bean salad",
+        "Name": "Classic bean salad",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -14013,7 +14013,7 @@
         }
     },
     {
-        "Name": "Super sweet whole kernel corn, super sweet",
+        "Name": "Super sweet whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14076,7 +14076,7 @@
         }
     },
     {
-        "Name": "No salt added whole kernel sweet corn, sweet",
+        "Name": "No salt added whole kernel sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -14094,7 +14094,7 @@
         }
     },
     {
-        "Name": "No salt added whole kernel supersweet corn, supersweet",
+        "Name": "No salt added whole kernel supersweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -14121,7 +14121,7 @@
         }
     },
     {
-        "Name": "Packed fresh french style green beans, french style",
+        "Name": "Packed fresh french style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14130,7 +14130,7 @@
         }
     },
     {
-        "Name": "Sliced carrots with honey & ginger, honey & ginger",
+        "Name": "Sliced carrots with honey & ginger",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.5,
@@ -14139,7 +14139,7 @@
         }
     },
     {
-        "Name": "Mexican style hominy, mexican style",
+        "Name": "Mexican style hominy",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 1.9,
@@ -14148,7 +14148,7 @@
         }
     },
     {
-        "Name": "Mild diced green chiles, mild diced",
+        "Name": "Mild diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14157,7 +14157,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet corn with sea salt, sea salt",
+        "Name": "Whole kernel sweet corn with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -14193,7 +14193,7 @@
         }
     },
     {
-        "Name": "Golden sweet whole kernel corn with red & green peppers, red & green peppers",
+        "Name": "Golden sweet whole kernel corn with red & green peppers",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -14211,7 +14211,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14220,7 +14220,7 @@
         }
     },
     {
-        "Name": "No salt added french style green beans, french style",
+        "Name": "No salt added french style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14247,7 +14247,7 @@
         }
     },
     {
-        "Name": "Traditional sauerkraut, traditional",
+        "Name": "Traditional sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14256,7 +14256,7 @@
         }
     },
     {
-        "Name": "White sliced potatoes, white",
+        "Name": "White sliced potatoes",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -14274,7 +14274,7 @@
         }
     },
     {
-        "Name": "Veggie-green, french style green beans, french style",
+        "Name": "Veggie-green, french style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14283,7 +14283,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet corn, sweet",
+        "Name": "Whole kernel sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -14301,7 +14301,7 @@
         }
     },
     {
-        "Name": "Del monte, french style green beans, onion, red peppers & garlic, onion, red peppers & garlic",
+        "Name": "Del monte, french style green beans, onion, red peppers & garlic, onion",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14319,7 +14319,7 @@
         }
     },
     {
-        "Name": "Spicy santa fe corn, spicy",
+        "Name": "Spicy santa fe corn",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -14364,7 +14364,7 @@
         }
     },
     {
-        "Name": "Whole kernel corn, whole kernel",
+        "Name": "Whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14382,7 +14382,7 @@
         }
     },
     {
-        "Name": "French-style green beans, french-style",
+        "Name": "French-style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14481,7 +14481,7 @@
         }
     },
     {
-        "Name": "Probiotic traditional raw sauerkraut, traditional",
+        "Name": "Probiotic traditional raw sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14571,7 +14571,7 @@
         }
     },
     {
-        "Name": "Chunky style portabella mushrooms, chunky style",
+        "Name": "Chunky style portabella mushrooms",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -14580,7 +14580,7 @@
         }
     },
     {
-        "Name": "Mild cocktail okra, mild",
+        "Name": "Mild cocktail okra",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14616,7 +14616,7 @@
         }
     },
     {
-        "Name": "Curtido raw slaw, curtido",
+        "Name": "Curtido raw slaw",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14661,7 +14661,7 @@
         }
     },
     {
-        "Name": "Golden cream style sweet corn, golden cream style",
+        "Name": "Golden cream style sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -14670,7 +14670,7 @@
         }
     },
     {
-        "Name": "Super sweet golden whole kernel corn, super sweet",
+        "Name": "Super sweet golden whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -14679,7 +14679,7 @@
         }
     },
     {
-        "Name": "Carrots, potatoes, peas, corn, green beans, celery and lima beans mixed vegetables",
+        "Name": "Carrots, potatoes, peas, corn, green beans, celery & lima beans mixed vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14697,7 +14697,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, celery, peas, green beans, corn & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, celery, peas, green beans, corn & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14706,7 +14706,7 @@
         }
     },
     {
-        "Name": "Whole kernel crisp & sweet corn, crisp & sweet",
+        "Name": "Whole kernel crisp & sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14715,7 +14715,7 @@
         }
     },
     {
-        "Name": "No salt added french-style green beans, french-style",
+        "Name": "No salt added french-style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14733,7 +14733,7 @@
         }
     },
     {
-        "Name": "Pumpkin easy pie mix, pumpkin",
+        "Name": "Pumpkin easy pie mix",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -14769,7 +14769,7 @@
         }
     },
     {
-        "Name": "Cut candied yams sweet potatoes in heavy syrup with cinnamon & nutmeg, cinnamon & nutmeg",
+        "Name": "Cut c&ied yams sweet potatoes in heavy syrup with cinnamon & nutmeg",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14805,7 +14805,7 @@
         }
     },
     {
-        "Name": "Golden sweet whole kernel corn, golden sweet",
+        "Name": "Golden sweet whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14823,7 +14823,7 @@
         }
     },
     {
-        "Name": "Cut yams sweet potatoes in syrup, sweet potatoes",
+        "Name": "Cut yams sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14832,7 +14832,7 @@
         }
     },
     {
-        "Name": "Whole kernel with red and chipotle peppers corn",
+        "Name": "Whole kernel with red & chipotle peppers corn",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -14877,7 +14877,7 @@
         }
     },
     {
-        "Name": "Corn'n peppers",
+        "Name": "Corn& peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14886,7 +14886,7 @@
         }
     },
     {
-        "Name": "Golden sweet cream style corn, golden sweet cream",
+        "Name": "Golden sweet cream style corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14895,7 +14895,7 @@
         }
     },
     {
-        "Name": "Hand picked artichoke hearts",
+        "Name": "H& picked artichoke hearts",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -14931,7 +14931,7 @@
         }
     },
     {
-        "Name": "Super sweet white & gold whole kernel corn, super sweet",
+        "Name": "Super sweet white & gold whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -14940,7 +14940,7 @@
         }
     },
     {
-        "Name": "No salt added mixed vegetables carrots, potatoes, peas, corn, green beans, celery & lima beans, mixed vegetables",
+        "Name": "No salt added mixed vegetables carrots, potatoes, peas, corn, green beans, celery & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -14958,7 +14958,7 @@
         }
     },
     {
-        "Name": "Mexican-style corn with red & green peppers, mexican-style",
+        "Name": "Mexican-style corn with red & green peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -14967,7 +14967,7 @@
         }
     },
     {
-        "Name": "Beet sauerkraut, beet",
+        "Name": "Beet sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -14976,7 +14976,7 @@
         }
     },
     {
-        "Name": "Roman style artichoke hearts, roman style",
+        "Name": "Roman style artichoke hearts",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 5.0,
@@ -14985,7 +14985,7 @@
         }
     },
     {
-        "Name": "Grilled artichokes, grilled",
+        "Name": "Grilled artichokes",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 38.1,
@@ -14994,7 +14994,7 @@
         }
     },
     {
-        "Name": "Bruschetta with onions, garlic & italian seasonings, onions, garlic & italian seasonings",
+        "Name": "Bruschetta with onions, garlic & italian seasonings, onions",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -15003,7 +15003,7 @@
         }
     },
     {
-        "Name": "Mexican style vegetable & bean blends, mexican style",
+        "Name": "Mexican style vegetable & bean blends",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 0.8,
@@ -15012,7 +15012,7 @@
         }
     },
     {
-        "Name": "California style vegetable & bean blends, california style",
+        "Name": "California style vegetable & bean blends",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.4,
@@ -15021,7 +15021,7 @@
         }
     },
     {
-        "Name": "Classic style vegetable & bean blends, classic style",
+        "Name": "Classic style vegetable & bean blends",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.4,
@@ -15030,7 +15030,7 @@
         }
     },
     {
-        "Name": "Country style vegetable & bean blends, country style",
+        "Name": "Country style vegetable & bean blends",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -15039,7 +15039,7 @@
         }
     },
     {
-        "Name": "Golden sweet whole kernel corn with peppers, peppers",
+        "Name": "Golden sweet whole kernel corn with peppers",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -15057,7 +15057,7 @@
         }
     },
     {
-        "Name": "Organic whole kernel corn with sea salt, sea salt",
+        "Name": "Organic whole kernel corn with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -15075,7 +15075,7 @@
         }
     },
     {
-        "Name": "California style grilled artichoke hearts, california style",
+        "Name": "California style grilled artichoke hearts",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 13.3,
@@ -15174,7 +15174,7 @@
         }
     },
     {
-        "Name": "Cut green beans with sea salt, sea salt",
+        "Name": "Cut green beans with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15210,7 +15210,7 @@
         }
     },
     {
-        "Name": "Gandules green pigeon peas",
+        "Name": "&ules green pigeon peas",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -15219,7 +15219,7 @@
         }
     },
     {
-        "Name": "Golden sweet cream style corn, golden sweet",
+        "Name": "Golden sweet cream style corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -15273,7 +15273,7 @@
         }
     },
     {
-        "Name": "Cream style golden corn, cream style",
+        "Name": "Cream style golden corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15291,7 +15291,7 @@
         }
     },
     {
-        "Name": "Savory garlicky heaven kraut, garlic",
+        "Name": "Savory garlicky heaven kraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15309,7 +15309,7 @@
         }
     },
     {
-        "Name": "Organic french style green beans, french style",
+        "Name": "Organic french style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15318,7 +15318,7 @@
         }
     },
     {
-        "Name": "100% pure pumpkin pie, pumpkin",
+        "Name": "100% pure pumpkin pie",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15363,7 +15363,7 @@
         }
     },
     {
-        "Name": "German style sauerkraut, german style",
+        "Name": "German style sauerkraut",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -15372,7 +15372,7 @@
         }
     },
     {
-        "Name": "Golden sweet whole kernel corn with natural sea salt, golden sweet",
+        "Name": "Golden sweet whole kernel corn with natural sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -15381,7 +15381,7 @@
         }
     },
     {
-        "Name": "French style julienne beets, french style",
+        "Name": "French style julienne beets",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15453,7 +15453,7 @@
         }
     },
     {
-        "Name": "Hand picked artichoke hearts in sunflower oil",
+        "Name": "H& picked artichoke hearts in sunflower oil",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 8.3,
@@ -15552,7 +15552,7 @@
         }
     },
     {
-        "Name": "Organic hot diced green chiles, hot",
+        "Name": "Organic hot diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15570,7 +15570,7 @@
         }
     },
     {
-        "Name": "Pumpkin puree, pumpkin",
+        "Name": "Pumpkin puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15588,7 +15588,7 @@
         }
     },
     {
-        "Name": "Whole kernel golden sweet corn, sweet",
+        "Name": "Whole kernel golden sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -15606,7 +15606,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery and lima beans",
+        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15633,7 +15633,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery, and lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery, & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15642,7 +15642,7 @@
         }
     },
     {
-        "Name": "Snappy & tangy sauerkraut, snappy & tangy",
+        "Name": "Snappy & tangy sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -15669,7 +15669,7 @@
         }
     },
     {
-        "Name": "100% pumpkin solid pack, pumpkin",
+        "Name": "100% pumpkin solid pack",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15678,7 +15678,7 @@
         }
     },
     {
-        "Name": "Supersweet golden corn whole kernel, supersweet",
+        "Name": "Supersweet golden corn whole kernel",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.4,
@@ -15822,7 +15822,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables with potatoes, potatoes",
+        "Name": "Mixed vegetables with potatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15831,7 +15831,7 @@
         }
     },
     {
-        "Name": "Fire-roasted diced green chiles, green chiles",
+        "Name": "Fire-roasted diced green chiles",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -15849,7 +15849,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style collard greens with onions, garlic & spices in a savory broth, seasoned southern style",
+        "Name": "Seasoned southern style collard greens with onions, garlic & spices in a savory broth",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 1.3,
@@ -15867,7 +15867,7 @@
         }
     },
     {
-        "Name": "Crisp 'n sweet, whole kernel golden corn",
+        "Name": "Crisp & sweet, whole kernel golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -15876,7 +15876,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style green beans, seasoned southern style",
+        "Name": "Seasoned southern style green beans",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -15894,7 +15894,7 @@
         }
     },
     {
-        "Name": "Sweet traditions candied yams, sweet traditions",
+        "Name": "Sweet traditions c&ied yams",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15912,7 +15912,7 @@
         }
     },
     {
-        "Name": "Classic fancy curly sliced beets, classic",
+        "Name": "Classic fancy curly sliced beets",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15921,7 +15921,7 @@
         }
     },
     {
-        "Name": "Roasted green chile, hot, hot",
+        "Name": "Roasted green chile, hot",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -15930,7 +15930,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery, lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, peas, corn, green beans, celery, lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -15948,7 +15948,7 @@
         }
     },
     {
-        "Name": "Pumpkin pie mix, pumpkin",
+        "Name": "Pumpkin pie mix",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -15957,7 +15957,7 @@
         }
     },
     {
-        "Name": "Organic pumpkin pie, pumpkin",
+        "Name": "Organic pumpkin pie",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -15975,7 +15975,7 @@
         }
     },
     {
-        "Name": "Whole kernel white & gold corn, white & gold",
+        "Name": "Whole kernel white & gold corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -16011,7 +16011,7 @@
         }
     },
     {
-        "Name": "Pickled whole green beans with dill, dill",
+        "Name": "Pickled whole green beans with dill",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16074,7 +16074,7 @@
         }
     },
     {
-        "Name": "Artichoke hearts, artichoke",
+        "Name": "Artichoke hearts",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 0.4,
@@ -16119,7 +16119,7 @@
         }
     },
     {
-        "Name": "Whole kernel corn with sea salt, sea salt",
+        "Name": "Whole kernel corn with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -16146,7 +16146,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables with carrots, potatoes, celery, peas, green beans, corn & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables with carrots, potatoes, celery, peas, green beans, corn & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16155,7 +16155,7 @@
         }
     },
     {
-        "Name": "Cut green beans lightly seasoned with sea salt, sea salt",
+        "Name": "Cut green beans lightly seasoned with sea salt",
         "Nutrients": {
             "Protein": 1.0,
             "Fat": 0.0,
@@ -16164,7 +16164,7 @@
         }
     },
     {
-        "Name": "Bruschetta artichoke, bruschetta",
+        "Name": "Bruschetta artichoke",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -16173,7 +16173,7 @@
         }
     },
     {
-        "Name": "Sweet peas lightly seasoned with sea salt, sea salt",
+        "Name": "Sweet peas lightly seasoned with sea salt",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 0.0,
@@ -16191,7 +16191,7 @@
         }
     },
     {
-        "Name": "Spicy sauerkraut, spicy",
+        "Name": "Spicy sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16200,7 +16200,7 @@
         }
     },
     {
-        "Name": "Sweet grade a garden peas, sweet",
+        "Name": "Sweet grade a garden peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -16209,7 +16209,7 @@
         }
     },
     {
-        "Name": "Classic fancy whole beets, classic",
+        "Name": "Classic fancy whole beets",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16218,7 +16218,7 @@
         }
     },
     {
-        "Name": "Honey-scented pumpkin pie, honey",
+        "Name": "Honey-scented pumpkin pie",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16227,7 +16227,7 @@
         }
     },
     {
-        "Name": "No salt added super sweet corn whole kernel, super sweet corn",
+        "Name": "No salt added super sweet corn whole kernel",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -16236,7 +16236,7 @@
         }
     },
     {
-        "Name": "Tex mex corn with red & green peppers, tex mex",
+        "Name": "Tex mex corn with red & green peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -16263,7 +16263,7 @@
         }
     },
     {
-        "Name": "White asparagus peeled spears, white asparagus",
+        "Name": "White asparagus peeled spears",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -16290,7 +16290,7 @@
         }
     },
     {
-        "Name": "Mushrooms sliced button, mushrooms",
+        "Name": "Mushrooms sliced button",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -16317,7 +16317,7 @@
         }
     },
     {
-        "Name": "Con coco premium gandules verdes, con coco",
+        "Name": "Con coco premium &ules verdes",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 5.1,
@@ -16335,7 +16335,7 @@
         }
     },
     {
-        "Name": "Fire roasted hot diced green chiles, fire roasted",
+        "Name": "Fire roasted hot diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16344,7 +16344,7 @@
         }
     },
     {
-        "Name": "Fire-roasted diced green chiles, fire-roasted",
+        "Name": "Fire-roasted diced green chiles",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -16353,7 +16353,7 @@
         }
     },
     {
-        "Name": "Classic fancy pickled curly sliced beets, classic",
+        "Name": "Classic fancy pickled curly sliced beets",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16371,7 +16371,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables with carrots, potatoes, celery, sweet peas, green beans, corn & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables with carrots, potatoes, celery, sweet peas, green beans, corn & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16380,7 +16380,7 @@
         }
     },
     {
-        "Name": "Easy pumpkin pie mix, pumpkin",
+        "Name": "Easy pumpkin pie mix",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -16398,7 +16398,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt diced carrots, sea salt",
+        "Name": "Lightly seasoned with sea salt diced carrots",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16407,7 +16407,7 @@
         }
     },
     {
-        "Name": "Jalapeno whole kernel corn with jalapeno peppers, jalapeno",
+        "Name": "Jalapeno whole kernel corn with jalapeno peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -16416,7 +16416,7 @@
         }
     },
     {
-        "Name": "Chipotle whole kernel corn with red and chipotle peppers, chipotle",
+        "Name": "Chipotle whole kernel corn with red & chipotle peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -16425,7 +16425,7 @@
         }
     },
     {
-        "Name": "Mexican style whole kernel corn with red & green peppers, mexican style",
+        "Name": "Mexican style whole kernel corn with red & green peppers",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 1.2,
@@ -16452,7 +16452,7 @@
         }
     },
     {
-        "Name": "Whole kernel golden sweet corn, golden",
+        "Name": "Whole kernel golden sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -16461,7 +16461,7 @@
         }
     },
     {
-        "Name": "Cucumber vine mild okra, cucumber vine mild",
+        "Name": "Cucumber vine mild okra",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16506,7 +16506,7 @@
         }
     },
     {
-        "Name": "Sauer kraut original green cabbage & caraway, sauer kraut",
+        "Name": "Sauer kraut original green cabbage & caraway",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16515,7 +16515,7 @@
         }
     },
     {
-        "Name": "Red & green cabbage with onion and garlic sauer kraut, red & green cabbage with onion and garlic",
+        "Name": "Red & green cabbage with onion & garlic sauer kraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16542,7 +16542,7 @@
         }
     },
     {
-        "Name": "Cream-style golden sweet corn, cream-style",
+        "Name": "Cream-style golden sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -16569,7 +16569,7 @@
         }
     },
     {
-        "Name": "Straw broken mushrooms, straw",
+        "Name": "Straw broken mushrooms",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.7,
@@ -16578,7 +16578,7 @@
         }
     },
     {
-        "Name": "Green pickled serrano peppers, green pickled",
+        "Name": "Green pickled serrano peppers",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16623,7 +16623,7 @@
         }
     },
     {
-        "Name": "Sweet whole kernel corn with sea salt, sea salt",
+        "Name": "Sweet whole kernel corn with sea salt",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -16641,7 +16641,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables low sodium carrots, potatoes, peas, corn, green beans, celery & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables low sodium carrots, potatoes, peas, corn, green beans, celery & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16650,7 +16650,7 @@
         }
     },
     {
-        "Name": "Super sweet corn, super sweet",
+        "Name": "Super sweet corn",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 1.1,
@@ -16659,7 +16659,7 @@
         }
     },
     {
-        "Name": "Hot fire roasted diced green chiles, hot fire roasted",
+        "Name": "Hot fire roasted diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16668,7 +16668,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt peas & carrots, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt peas & carrots",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -16677,7 +16677,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt diced carrots, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt diced carrots",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16686,7 +16686,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt cut green beans, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt cut green beans",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -16695,7 +16695,7 @@
         }
     },
     {
-        "Name": "Sliced beets with sea salt, sea salt",
+        "Name": "Sliced beets with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16704,7 +16704,7 @@
         }
     },
     {
-        "Name": "Super sweet organic whole kernel corn, super sweet",
+        "Name": "Super sweet organic whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -16713,7 +16713,7 @@
         }
     },
     {
-        "Name": "Sweet peas and sliced carrots, peas & carrots",
+        "Name": "Sweet peas & sliced carrots, peas & carrots",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -16722,7 +16722,7 @@
         }
     },
     {
-        "Name": "French style no salt added green beans, french style",
+        "Name": "French style no salt added green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16731,7 +16731,7 @@
         }
     },
     {
-        "Name": "Mushrooms marinated with teriyaki sauce, teriyaki",
+        "Name": "Mushrooms marinated with teriyaki sauce",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -16740,7 +16740,7 @@
         }
     },
     {
-        "Name": "Mexican style street corn, mexican style",
+        "Name": "Mexican style street corn",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 12.0,
@@ -16749,7 +16749,7 @@
         }
     },
     {
-        "Name": "Greek style eggplants in onion & tomato sauce, greek style eggplants",
+        "Name": "Greek style eggplants in onion & tomato sauce",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 11.8,
@@ -16776,7 +16776,7 @@
         }
     },
     {
-        "Name": "Mild okra, mild",
+        "Name": "Mild okra",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16794,7 +16794,7 @@
         }
     },
     {
-        "Name": "Artichoke salad, artichoke",
+        "Name": "Artichoke salad",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 16.5,
@@ -16803,7 +16803,7 @@
         }
     },
     {
-        "Name": "Chop suey vegetables, chop suey",
+        "Name": "Chop suey vegetables",
         "Nutrients": {
             "Protein": 0.4,
             "Fat": 0.0,
@@ -16812,7 +16812,7 @@
         }
     },
     {
-        "Name": "Mushrooms pieces & stems, mushrooms",
+        "Name": "Mushrooms pieces & stems",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -16839,7 +16839,7 @@
         }
     },
     {
-        "Name": "Mushroom stems & pieces, mushroom",
+        "Name": "Mushroom stems & pieces",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 0.4,
@@ -16857,7 +16857,7 @@
         }
     },
     {
-        "Name": "Silver queen style white sweet corn, silver queen style",
+        "Name": "Silver queen style white sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -16866,7 +16866,7 @@
         }
     },
     {
-        "Name": "Stuffed vine leaves mediterranean recipe, stuffed vine leaves",
+        "Name": "Stuffed vine leaves mediterranean recipe",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 9.2,
@@ -16875,7 +16875,7 @@
         }
     },
     {
-        "Name": "Cut candied yams",
+        "Name": "Cut c&ied yams",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16884,7 +16884,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables low sodium carrots, potatoes, peas, celery, green beans, corn & lima beans, mixed vegetables",
+        "Name": "Mixed vegetables low sodium carrots, potatoes, peas, celery, green beans, corn & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16893,7 +16893,7 @@
         }
     },
     {
-        "Name": "Red cabbage with apple, apple",
+        "Name": "Red cabbage with apple",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -16920,7 +16920,7 @@
         }
     },
     {
-        "Name": "Allens, veg-all, mixed vegetables, original, original",
+        "Name": "Allens, veg-all, mixed vegetables, original",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -16929,7 +16929,7 @@
         }
     },
     {
-        "Name": "Casa fiesta, diced green chilies, mild, mild",
+        "Name": "Casa fiesta, diced green chilies, mild",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16938,7 +16938,7 @@
         }
     },
     {
-        "Name": "Stir fry vegetables, stir fry",
+        "Name": "Stir fry vegetables",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -16965,7 +16965,7 @@
         }
     },
     {
-        "Name": "Mixed vegetable medley, mixed vegetable",
+        "Name": "Mixed vegetable medley",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -16974,7 +16974,7 @@
         }
     },
     {
-        "Name": "Fire roasted & peeled chopped green chiles, fire roasted",
+        "Name": "Fire roasted & peeled chopped green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16983,7 +16983,7 @@
         }
     },
     {
-        "Name": "Hot fire roasted & peeled diced green chiles, hot fire roasted",
+        "Name": "Hot fire roasted & peeled diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -16992,7 +16992,7 @@
         }
     },
     {
-        "Name": "Carlita, diced green chiles, mild, mild",
+        "Name": "Carlita, diced green chiles, mild",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -17001,7 +17001,7 @@
         }
     },
     {
-        "Name": "La preferida, organic diced green chiles, mild, mild",
+        "Name": "La preferida, organic diced green chiles, mild",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -17046,7 +17046,7 @@
         }
     },
     {
-        "Name": "Marinated artichokes quartered hearts, marinated",
+        "Name": "Marinated artichokes quartered hearts",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -17082,7 +17082,7 @@
         }
     },
     {
-        "Name": "Spartan, golden sweet corn, whole kernel, whole kernel",
+        "Name": "Spartan, golden sweet corn, whole kernel",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -17100,7 +17100,7 @@
         }
     },
     {
-        "Name": "Very young sweet peas ",
+        "Name": "Very young sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -17136,7 +17136,7 @@
         }
     },
     {
-        "Name": "Trappey's, field peas, slab bacon",
+        "Name": "Trappeys, field peas, slab bacon",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 1.2,
@@ -17145,7 +17145,7 @@
         }
     },
     {
-        "Name": "Original 7-in-1 mixed vegetables, original",
+        "Name": "Original mixed vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17154,7 +17154,7 @@
         }
     },
     {
-        "Name": "Hearts of palm ",
+        "Name": "Hearts of palm",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -17253,7 +17253,7 @@
         }
     },
     {
-        "Name": "Pumpkin, pumpkin",
+        "Name": "Pumpkin",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -17262,7 +17262,7 @@
         }
     },
     {
-        "Name": "Homestyle large cut vegetables, homestyle",
+        "Name": "Homestyle large cut vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17280,7 +17280,7 @@
         }
     },
     {
-        "Name": "Farmhouse culture, kraut, classic caraway, classic caraway",
+        "Name": "Farmhouse culture, kraut, classic caraway",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -17307,7 +17307,7 @@
         }
     },
     {
-        "Name": "Simply seasoned mixed greens, simply seasoned",
+        "Name": "Simply seasoned mixed greens",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -17316,7 +17316,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style green beans with potatoes, seasoned southern style",
+        "Name": "Seasoned southern style green beans with potatoes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -17343,7 +17343,7 @@
         }
     },
     {
-        "Name": "Roasted and peeled diced mild green chiles, mild",
+        "Name": "Roasted & peeled diced mild green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -17352,7 +17352,7 @@
         }
     },
     {
-        "Name": "Grilled artichoke hearts, grilled",
+        "Name": "Grilled artichoke hearts",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 1.8,
@@ -17415,7 +17415,7 @@
         }
     },
     {
-        "Name": "Baby corn whole spears, baby corn",
+        "Name": "Baby corn whole spears",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.2,
@@ -17433,7 +17433,7 @@
         }
     },
     {
-        "Name": "Sweet whole kernel corn, sweet",
+        "Name": "Sweet whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -17469,7 +17469,7 @@
         }
     },
     {
-        "Name": "Traditional german barrel sauerkraut, traditional german barrel",
+        "Name": "Traditional german barrel sauerkraut",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -17487,7 +17487,7 @@
         }
     },
     {
-        "Name": "Marinated artichoke hearts with hand-chopped parsley & garlic",
+        "Name": "Marinated artichoke hearts with h&-chopped parsley & garlic",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -17496,7 +17496,7 @@
         }
     },
     {
-        "Name": "Sweet corn with sea salt, sea salt",
+        "Name": "Sweet corn with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -17505,7 +17505,7 @@
         }
     },
     {
-        "Name": "Sea-beet kraut raw kelp sauerkraut, sea-beet kraut",
+        "Name": "Sea-beet kraut raw kelp sauerkraut",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -17550,7 +17550,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt whole kernel sweet corn, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt whole kernel sweet corn",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.4,
@@ -17577,7 +17577,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt sweet peas, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt sweet peas",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -17604,7 +17604,7 @@
         }
     },
     {
-        "Name": "Bavarian style sauerkraut with caraway seeds, caraway seeds",
+        "Name": "Bavarian style sauerkraut with caraway seeds",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -17622,7 +17622,7 @@
         }
     },
     {
-        "Name": "Lightly seasoned with sea salt mixed vegetables, lightly seasoned with sea salt",
+        "Name": "Lightly seasoned with sea salt mixed vegetables",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -17640,7 +17640,7 @@
         }
     },
     {
-        "Name": "Dried pigeon peas vegetarian delight, dried pigeon peas",
+        "Name": "Dried pigeon peas vegetarian delight",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17649,7 +17649,7 @@
         }
     },
     {
-        "Name": "3 bean salad ",
+        "Name": "Bean salad",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -17658,7 +17658,7 @@
         }
     },
     {
-        "Name": "Collard greens ",
+        "Name": "Collard greens",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -17667,7 +17667,7 @@
         }
     },
     {
-        "Name": "White hominy southern style ",
+        "Name": "White hominy southern style",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -17676,7 +17676,7 @@
         }
     },
     {
-        "Name": "Golden sweet cream style corn ",
+        "Name": "Golden sweet cream style corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -17685,7 +17685,7 @@
         }
     },
     {
-        "Name": "Sweet peas ",
+        "Name": "Sweet peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -17694,7 +17694,7 @@
         }
     },
     {
-        "Name": "White hominy ",
+        "Name": "White hominy",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17703,7 +17703,7 @@
         }
     },
     {
-        "Name": "Chopped collard greens ",
+        "Name": "Chopped collard greens",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -17712,7 +17712,7 @@
         }
     },
     {
-        "Name": "Kroger, psst..., french style green beans ",
+        "Name": "Kroger, psst..., french style green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17964,7 +17964,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, celery, green peas, green beans, corn, and lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, celery, green peas, green beans, corn, & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17973,7 +17973,7 @@
         }
     },
     {
-        "Name": "Seasoned cabbage, seasoned",
+        "Name": "Seasoned cabbage",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -17982,7 +17982,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes cut yams in syrup, sweet potatoes",
+        "Name": "Sweet potatoes cut yams in syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -17991,7 +17991,7 @@
         }
     },
     {
-        "Name": "Marinated artichoke hearts, marinated",
+        "Name": "Marinated artichoke hearts",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.7,
@@ -18036,7 +18036,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style collard greens, seasoned southern style",
+        "Name": "Seasoned southern style collard greens",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.8,
@@ -18045,7 +18045,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style turnip greens, seasoned southern style",
+        "Name": "Seasoned southern style turnip greens",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -18054,7 +18054,7 @@
         }
     },
     {
-        "Name": "Simply seasoned collard greens, simply seasoned",
+        "Name": "Simply seasoned collard greens",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -18072,7 +18072,7 @@
         }
     },
     {
-        "Name": "Medium whole beets, medium",
+        "Name": "Medium whole beets",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18081,7 +18081,7 @@
         }
     },
     {
-        "Name": "Jalapeno corn blend supersweet corn with jalapeno peppers & green bell peppers, jalapeno corn blend",
+        "Name": "Jalapeno corn blend supersweet corn with jalapeno peppers & green bell peppers",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -18090,7 +18090,7 @@
         }
     },
     {
-        "Name": "Chipotle corn blend supersweet corn with red bell peppers & seasoned with dried chipotle pepper, chipotle corn blend",
+        "Name": "Chipotle corn blend supersweet corn with red bell peppers & seasoned with dried chipotle pepper",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -18099,7 +18099,7 @@
         }
     },
     {
-        "Name": "Baja corn blend white & gold supersweet corn with red & green bell peppers & spice, baja corn blend",
+        "Name": "Baja corn blend white & gold supersweet corn with red & green bell peppers & spice",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -18117,7 +18117,7 @@
         }
     },
     {
-        "Name": "Mild chopped & peeled green chiles, mild",
+        "Name": "Mild chopped & peeled green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18126,7 +18126,7 @@
         }
     },
     {
-        "Name": "Medium flame roasted green chille, medium flame roasted",
+        "Name": "Medium flame roasted green chille",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -18153,7 +18153,7 @@
         }
     },
     {
-        "Name": "Corn & black beans with lime & cilantro, lime & cilantro",
+        "Name": "Corn & black beans with lime & cilantro",
         "Nutrients": {
             "Protein": 2.7,
             "Fat": 0.9,
@@ -18162,7 +18162,7 @@
         }
     },
     {
-        "Name": "Seasoned with sea salt low sodium supersweet whole kernel corn, seasoned with sea salt",
+        "Name": "Seasoned with sea salt low sodium supersweet whole kernel corn",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18180,7 +18180,7 @@
         }
     },
     {
-        "Name": "Boiled peanuts, salt 'n vinegar",
+        "Name": "Boiled peanuts, salt & vinegar",
         "Nutrients": {
             "Protein": 13.9,
             "Fat": 12.5,
@@ -18216,7 +18216,7 @@
         }
     },
     {
-        "Name": "Salvadorean pickled cabbage, salvadorean",
+        "Name": "Salvadorean pickled cabbage",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18225,7 +18225,7 @@
         }
     },
     {
-        "Name": "Spanish seasoning, spanish",
+        "Name": "Spanish seasoning",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 1.6,
@@ -18243,7 +18243,7 @@
         }
     },
     {
-        "Name": "Yams cut sweet potatoes in syrup, yams",
+        "Name": "Yams cut sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -18252,7 +18252,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style mixed greens, seasoned",
+        "Name": "Seasoned southern style mixed greens",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -18261,7 +18261,7 @@
         }
     },
     {
-        "Name": "Mm colorado, live kraut, green chile, green chile",
+        "Name": "Mm colorado, live kraut, green chile",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -18279,7 +18279,7 @@
         }
     },
     {
-        "Name": "Fire roasted diced green chiles, fire roasted",
+        "Name": "Fire roasted diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18288,7 +18288,7 @@
         }
     },
     {
-        "Name": "Grilled champignons, grilled champignons",
+        "Name": "Grilled champignons",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 7.4,
@@ -18306,7 +18306,7 @@
         }
     },
     {
-        "Name": "Medium flame roasted green chile, medium",
+        "Name": "Medium flame roasted green chile",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -18378,7 +18378,7 @@
         }
     },
     {
-        "Name": "Low sodium whole kernel sweet corn, sweet",
+        "Name": "Low sodium whole kernel sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -18387,7 +18387,7 @@
         }
     },
     {
-        "Name": "Shredded sauerkraut, shredded",
+        "Name": "Shredded sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18405,7 +18405,7 @@
         }
     },
     {
-        "Name": "Roasted red bell pepper slices, roasted",
+        "Name": "Roasted red bell pepper slices",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18414,7 +18414,7 @@
         }
     },
     {
-        "Name": "Mexican style corn with red and green peppers, mexican style",
+        "Name": "Mexican style corn with red & green peppers",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -18423,7 +18423,7 @@
         }
     },
     {
-        "Name": "Classic 3 bean salad, classic",
+        "Name": "Classic bean salad",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -18441,7 +18441,7 @@
         }
     },
     {
-        "Name": "Classic caraway seed sauerkraut, classic",
+        "Name": "Classic caraway seed sauerkraut",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -18459,7 +18459,7 @@
         }
     },
     {
-        "Name": "Southern bbq boiled peanuts, southern bbq",
+        "Name": "Southern bbq boiled peanuts",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 19.4,
@@ -18477,7 +18477,7 @@
         }
     },
     {
-        "Name": "Fiesta corn with red & green bell peppers, fiesta",
+        "Name": "Fiesta corn with red & green bell peppers",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.6,
@@ -18486,7 +18486,7 @@
         }
     },
     {
-        "Name": "Super sweet whole kernel fancy golden corn, super sweet",
+        "Name": "Super sweet whole kernel fancy golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -18495,7 +18495,7 @@
         }
     },
     {
-        "Name": "Cream style fancy golden corn, cream style",
+        "Name": "Cream style fancy golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -18522,7 +18522,7 @@
         }
     },
     {
-        "Name": "Hominy fancy white corn, hominy",
+        "Name": "Hominy fancy white corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -18531,7 +18531,7 @@
         }
     },
     {
-        "Name": "Classic sauerkraut, classic",
+        "Name": "Classic sauerkraut",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -18540,7 +18540,7 @@
         }
     },
     {
-        "Name": "Artichoke topping, artichoke",
+        "Name": "Artichoke topping",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 6.7,
@@ -18558,7 +18558,7 @@
         }
     },
     {
-        "Name": "Farmhouse cut green beans with natural sea salt, sea salt",
+        "Name": "Farmhouse cut green beans with natural sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18567,7 +18567,7 @@
         }
     },
     {
-        "Name": "Pickled baby pattypan squash, pickled",
+        "Name": "Pickled baby pattypan squash",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18576,7 +18576,7 @@
         }
     },
     {
-        "Name": "Sauerkraut w / carrots",
+        "Name": "Sauerkraut wcarrots",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18612,7 +18612,7 @@
         }
     },
     {
-        "Name": "Ensalada criolla pickled mixed vegetables, ensalada criolla",
+        "Name": "Ensalada criolla pickled mixed vegetables",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18630,7 +18630,7 @@
         }
     },
     {
-        "Name": "Organic pumpkin whole food powder, pumpkin",
+        "Name": "Organic pumpkin whole food powder",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -18639,7 +18639,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes in syrup, sweet potatoes",
+        "Name": "Sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18648,7 +18648,7 @@
         }
     },
     {
-        "Name": "Golden goddess sauerkraut, golden goddess",
+        "Name": "Golden goddess sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18666,7 +18666,7 @@
         }
     },
     {
-        "Name": "Omegaflo, organic protein powder, pumpkin seed, pumpkin seed",
+        "Name": "Omegaflo, organic protein powder, pumpkin seed",
         "Nutrients": {
             "Protein": 66.7,
             "Fat": 6.7,
@@ -18684,7 +18684,7 @@
         }
     },
     {
-        "Name": "Blue lake petite fresh cut green beans with sea salt, blue lake",
+        "Name": "Blue lake petite fresh cut green beans with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18693,7 +18693,7 @@
         }
     },
     {
-        "Name": "Blue lake farmhouse fresh cut green beans with sea salt, blue lake",
+        "Name": "Blue lake farmhouse fresh cut green beans with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18711,7 +18711,7 @@
         }
     },
     {
-        "Name": "Super sweet cut corn, super sweet",
+        "Name": "Super sweet cut corn",
         "Nutrients": {
             "Protein": 2.2,
             "Fat": 1.1,
@@ -18729,7 +18729,7 @@
         }
     },
     {
-        "Name": "Whole green chiles roasted and pepped, mild",
+        "Name": "Whole green chiles roasted & pepped, mild",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -18783,7 +18783,7 @@
         }
     },
     {
-        "Name": "Corn, crisp 'n sweet",
+        "Name": "Corn, crisp & sweet",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 1.2,
@@ -18792,7 +18792,7 @@
         }
     },
     {
-        "Name": "Mild authentic german sauerkraut with wine, mild",
+        "Name": "Mild authentic german sauerkraut with wine",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -18819,7 +18819,7 @@
         }
     },
     {
-        "Name": "French style green beans with roasted garlic, roasted garlic",
+        "Name": "French style green beans with roasted garlic",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18900,7 +18900,7 @@
         }
     },
     {
-        "Name": "Cut yams sweet potatoes in syrup, sweet potatoes in syrup",
+        "Name": "Cut yams sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -18909,7 +18909,7 @@
         }
     },
     {
-        "Name": "Whole kernel sweet white shoepeg corn, whole kernel sweet",
+        "Name": "Whole kernel sweet white shoepeg corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -18918,7 +18918,7 @@
         }
     },
     {
-        "Name": "White whole kernel corn, white",
+        "Name": "White whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -18927,7 +18927,7 @@
         }
     },
     {
-        "Name": "Cream style golden corn, cream style golden",
+        "Name": "Cream style golden corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18936,7 +18936,7 @@
         }
     },
     {
-        "Name": "Supersweet golden whole kernel corn, supersweet golden",
+        "Name": "Supersweet golden whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -18945,7 +18945,7 @@
         }
     },
     {
-        "Name": "Sweet no salt added peas, sweet",
+        "Name": "Sweet no salt added peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -18954,7 +18954,7 @@
         }
     },
     {
-        "Name": "Supersweet golden no salt added whole kernel corn, supersweet golden",
+        "Name": "Supersweet golden no salt added whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -18963,7 +18963,7 @@
         }
     },
     {
-        "Name": "Italian cut green beans, italian",
+        "Name": "Italian cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -18972,7 +18972,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables, mixed",
+        "Name": "Mixed vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19017,7 +19017,7 @@
         }
     },
     {
-        "Name": "Classics whole kernel corn, classics",
+        "Name": "Classics whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -19026,7 +19026,7 @@
         }
     },
     {
-        "Name": "Extra crisp whole kernel sweet corn, extra crisp",
+        "Name": "Extra crisp whole kernel sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -19044,7 +19044,7 @@
         }
     },
     {
-        "Name": "Sweet golden whole kernel corn, sweet golden",
+        "Name": "Sweet golden whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -19053,7 +19053,7 @@
         }
     },
     {
-        "Name": "Sweet potatoes in syrup southern yams, sweet potatoes in syrup",
+        "Name": "Sweet potatoes in syrup southern yams",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19062,7 +19062,7 @@
         }
     },
     {
-        "Name": "Button mushrooms, button",
+        "Name": "Button mushrooms",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 0.0,
@@ -19071,7 +19071,7 @@
         }
     },
     {
-        "Name": "Green whole asparagus spears, green",
+        "Name": "Green whole asparagus spears",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -19089,7 +19089,7 @@
         }
     },
     {
-        "Name": "100% pure pumpkin, pumpkin",
+        "Name": "100% pure pumpkin",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19098,7 +19098,7 @@
         }
     },
     {
-        "Name": "Cream style sweet corn, cream style sweet",
+        "Name": "Cream style sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -19107,7 +19107,7 @@
         }
     },
     {
-        "Name": "Mixed no salt added carrots, potatoes, celery, sweet peas, green beans, corn & lima beans vegetables, mixed",
+        "Name": "Mixed no salt added carrots, potatoes, celery, sweet peas, green beans, corn & lima beans vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19116,7 +19116,7 @@
         }
     },
     {
-        "Name": "Mixed carrots, potatoes, celery, sweet peas, green beans, corn & lima beans vegetables, mixed",
+        "Name": "Mixed carrots, potatoes, celery, sweet peas, green beans, corn & lima beans vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19125,7 +19125,7 @@
         }
     },
     {
-        "Name": "Fire roasted whole green chiles, fire roasted",
+        "Name": "Fire roasted whole green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19134,7 +19134,7 @@
         }
     },
     {
-        "Name": "Golden sweet no salt added whole kernel corn, golden sweet",
+        "Name": "Golden sweet no salt added whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -19152,7 +19152,7 @@
         }
     },
     {
-        "Name": "Sweet organic peas, sweet",
+        "Name": "Sweet organic peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -19161,7 +19161,7 @@
         }
     },
     {
-        "Name": "100% pure pumpkin 9\"\" pie",
+        "Name": "100% pure pumpkin pie",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19170,7 +19170,7 @@
         }
     },
     {
-        "Name": "Seasoned italian green beans, seasoned italian",
+        "Name": "Seasoned italian green beans",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -19179,7 +19179,7 @@
         }
     },
     {
-        "Name": "White & gold whole kernel corn, white & gold",
+        "Name": "White & gold whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -19188,7 +19188,7 @@
         }
     },
     {
-        "Name": "Sweet small peas, sweet",
+        "Name": "Sweet small peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -19197,7 +19197,7 @@
         }
     },
     {
-        "Name": "White whole potatoes, white",
+        "Name": "White whole potatoes",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -19206,7 +19206,7 @@
         }
     },
     {
-        "Name": "Cream style golden sweet corn, cream style golden sweet",
+        "Name": "Cream style golden sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19215,7 +19215,7 @@
         }
     },
     {
-        "Name": "Sweet organic low sodium peas, sweet",
+        "Name": "Sweet organic low sodium peas",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -19224,7 +19224,7 @@
         }
     },
     {
-        "Name": "Marinated quartered artichoke hearts, marinated",
+        "Name": "Marinated quartered artichoke hearts",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 5.4,
@@ -19233,7 +19233,7 @@
         }
     },
     {
-        "Name": "Marinated quartered artichokes, marinated",
+        "Name": "Marinated quartered artichokes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 8.3,
@@ -19242,7 +19242,7 @@
         }
     },
     {
-        "Name": "Sweet peas & carrots, sweet",
+        "Name": "Sweet peas & carrots",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -19251,7 +19251,7 @@
         }
     },
     {
-        "Name": "Green pigeon peas, green",
+        "Name": "Green pigeon peas",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.0,
@@ -19260,7 +19260,7 @@
         }
     },
     {
-        "Name": "Crimson red & green cabbage with onion and garlic sauerkraut, crimson",
+        "Name": "Crimson red & green cabbage with onion & garlic sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19296,7 +19296,7 @@
         }
     },
     {
-        "Name": "Organic whole peeled cooked beets, beets",
+        "Name": "Organic whole peeled cooked beets",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -19305,7 +19305,7 @@
         }
     },
     {
-        "Name": "Extra crisp whole kernel corn, extra crisp",
+        "Name": "Extra crisp whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -19323,7 +19323,7 @@
         }
     },
     {
-        "Name": "Summer crisp whole kernel sweet white corn, summer crisp",
+        "Name": "Summer crisp whole kernel sweet white corn",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 1.4,
@@ -19332,7 +19332,7 @@
         }
     },
     {
-        "Name": "Rainbow carrot chips, rainbow carrot",
+        "Name": "Rainbow carrot chips",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -19350,7 +19350,7 @@
         }
     },
     {
-        "Name": "Old fashioned organic sauerkraut, old fashioned",
+        "Name": "Old fashioned organic sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19368,7 +19368,7 @@
         }
     },
     {
-        "Name": "Yams cut sweet potatoes in syrup, syrup",
+        "Name": "Yams cut sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -19377,7 +19377,7 @@
         }
     },
     {
-        "Name": "Mild green chilies diced, mild",
+        "Name": "Mild green chilies diced",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -19386,7 +19386,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style green beans with potatoes, with potatoes",
+        "Name": "Seasoned southern style green beans with potatoes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -19395,7 +19395,7 @@
         }
     },
     {
-        "Name": "Sweet whole kernel golden corn, sweet",
+        "Name": "Sweet whole kernel golden corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -19404,7 +19404,7 @@
         }
     },
     {
-        "Name": "French style organic green beans, french style",
+        "Name": "French style organic green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19413,7 +19413,7 @@
         }
     },
     {
-        "Name": "Mild original diced tomatoes & green chiles, mild",
+        "Name": "Mild original diced tomatoes & green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19440,7 +19440,7 @@
         }
     },
     {
-        "Name": "Whole large hearts artichokes, whole",
+        "Name": "Whole large hearts artichokes",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 0.0,
@@ -19458,7 +19458,7 @@
         }
     },
     {
-        "Name": "Golden cream style sweet corn, golden cream style sweet",
+        "Name": "Golden cream style sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -19467,7 +19467,7 @@
         }
     },
     {
-        "Name": "Golden whole kernel corn, golden whole kernel",
+        "Name": "Golden whole kernel corn",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -19476,7 +19476,7 @@
         }
     },
     {
-        "Name": "Super sweet golden whole kernel corn, super sweet golden",
+        "Name": "Super sweet golden whole kernel corn",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.8,
@@ -19494,7 +19494,7 @@
         }
     },
     {
-        "Name": "Blue lake cut green beans, blue lake",
+        "Name": "Blue lake cut green beans",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19503,7 +19503,7 @@
         }
     },
     {
-        "Name": "Golden whole kernel corn, golden",
+        "Name": "Golden whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -19512,7 +19512,7 @@
         }
     },
     {
-        "Name": "Sweet corn, sweet",
+        "Name": "Sweet corn",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 2.8,
@@ -19521,7 +19521,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables carrots, potatoes, peas, gorn, green beans, celery, and lima beans, mixed vegetables",
+        "Name": "Mixed vegetables carrots, potatoes, peas, gorn, green beans, celery, & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19539,7 +19539,7 @@
         }
     },
     {
-        "Name": "Mixed vegetables no salt added carrots, potatoes, peas, corn, green beans, celery, and lima beans, mixed vegetables",
+        "Name": "Mixed vegetables no salt added carrots, potatoes, peas, corn, green beans, celery, & lima beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19548,7 +19548,7 @@
         }
     },
     {
-        "Name": "Original mild diced tomatoes & green chiles, original mild",
+        "Name": "Original mild diced tomatoes & green chiles",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19584,7 +19584,7 @@
         }
     },
     {
-        "Name": "Roasted red peppers, roasted",
+        "Name": "Roasted red peppers",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19620,7 +19620,7 @@
         }
     },
     {
-        "Name": "Green pigeon peas with coconut milk, coconut milk",
+        "Name": "Green pigeon peas with coconut milk",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 6.7,
@@ -19629,7 +19629,7 @@
         }
     },
     {
-        "Name": "Candied cut yams sweet potatoes in syrup with cinnamon & nutmeg, candied",
+        "Name": "C&ied cut yams sweet potatoes in syrup with cinnamon & nutmeg",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19638,7 +19638,7 @@
         }
     },
     {
-        "Name": "Cut yams sweet potatoes in light syrup, light syrup",
+        "Name": "Cut yams sweet potatoes in light syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19647,7 +19647,7 @@
         }
     },
     {
-        "Name": "Red cabbage sauerkraut, red cabbage",
+        "Name": "Red cabbage sauerkraut",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -19656,7 +19656,7 @@
         }
     },
     {
-        "Name": "Tomatillos whole green tomatoes, tomatillos",
+        "Name": "Tomatillos whole green tomatoes",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.9,
@@ -19665,7 +19665,7 @@
         }
     },
     {
-        "Name": "Mexican style corn, mexican style",
+        "Name": "Mexican style corn",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -19701,7 +19701,7 @@
         }
     },
     {
-        "Name": "Lime & cilantro original diced tomatoes & green chiles, lime & cilantro",
+        "Name": "Lime & cilantro original diced tomatoes & green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19719,7 +19719,7 @@
         }
     },
     {
-        "Name": "Butternut organic squash, butternut",
+        "Name": "Butternut organic squash",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -19746,7 +19746,7 @@
         }
     },
     {
-        "Name": "Red beet soluble crystals, red beet",
+        "Name": "Red beet soluble crystals",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -19764,7 +19764,7 @@
         }
     },
     {
-        "Name": "Saverkraut with carrot, carrot",
+        "Name": "Saverkraut with carrot",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -19773,7 +19773,7 @@
         }
     },
     {
-        "Name": "Green chopped chiles, green",
+        "Name": "Green chopped chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19782,7 +19782,7 @@
         }
     },
     {
-        "Name": "Marinated long stem artichokes in sunflower oil, marinated",
+        "Name": "Marinated long stem artichokes in sunflower oil",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 8.6,
@@ -19791,7 +19791,7 @@
         }
     },
     {
-        "Name": "Hot fire roasted diced & peeled green chiles, hot fire roasted",
+        "Name": "Hot fire roasted diced & peeled green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19800,7 +19800,7 @@
         }
     },
     {
-        "Name": "Mexican style gluten free hominy, mexican style",
+        "Name": "Mexican style gluten free hominy",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.8,
@@ -19809,7 +19809,7 @@
         }
     },
     {
-        "Name": "Cut sweet potatoes in syrup yams, cut sweet potatoes in syrup",
+        "Name": "Cut sweet potatoes in syrup yams",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19818,7 +19818,7 @@
         }
     },
     {
-        "Name": "Sauted vegetable base made with celery, carrots & onions, sauted vegetable",
+        "Name": "Sauted vegetable base made with celery, carrots & onions",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19836,7 +19836,7 @@
         }
     },
     {
-        "Name": "Stuffed eggplant, stuffed",
+        "Name": "Stuffed eggplant",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 9.2,
@@ -19845,7 +19845,7 @@
         }
     },
     {
-        "Name": "Garlic & black pepper sauerkraut, garlic & black pepper",
+        "Name": "Garlic & black pepper sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19854,7 +19854,7 @@
         }
     },
     {
-        "Name": "Green whole chiles, green",
+        "Name": "Green whole chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19863,7 +19863,7 @@
         }
     },
     {
-        "Name": "Seasoned with sea salt organic low sodium supersweet whole kernel corn, seasoned with sea salt",
+        "Name": "Seasoned with sea salt organic low sodium supersweet whole kernel corn",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19890,7 +19890,7 @@
         }
     },
     {
-        "Name": "Green diced chiles, green",
+        "Name": "Green diced chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -19908,7 +19908,7 @@
         }
     },
     {
-        "Name": "Sweet organic whole kernel corn, sweet",
+        "Name": "Sweet organic whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -19917,7 +19917,7 @@
         }
     },
     {
-        "Name": "Stir fry cut baby corn, stir fry",
+        "Name": "Stir fry cut baby corn",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -19926,7 +19926,7 @@
         }
     },
     {
-        "Name": "Grilled green asparagus, grilled green",
+        "Name": "Grilled green asparagus",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 3.3,
@@ -19962,7 +19962,7 @@
         }
     },
     {
-        "Name": "Mexican style summer crisp whole kernel corn, red & green bell peppers, mexican style",
+        "Name": "Mexican style summer crisp whole kernel corn, red & green bell peppers",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 1.1,
@@ -19971,7 +19971,7 @@
         }
     },
     {
-        "Name": "Parmesan parve eggplant in tomato sauce, parmesan",
+        "Name": "Parmesan parve eggplant in tomato sauce",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 10.3,
@@ -19980,7 +19980,7 @@
         }
     },
     {
-        "Name": "Sweet whole kernel golden corn, golden",
+        "Name": "Sweet whole kernel golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20007,7 +20007,7 @@
         }
     },
     {
-        "Name": "Fire roasted mild diced green chiles, fire roasted",
+        "Name": "Fire roasted mild diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20016,7 +20016,7 @@
         }
     },
     {
-        "Name": "Quartered artichoke hearts in water, water",
+        "Name": "Quartered artichoke hearts in water",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -20025,7 +20025,7 @@
         }
     },
     {
-        "Name": "Marinated quartered artichoke hearts in oil, marinated",
+        "Name": "Marinated quartered artichoke hearts in oil",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 8.3,
@@ -20034,7 +20034,7 @@
         }
     },
     {
-        "Name": "Mexican style corn with green & red peppers, mexican style",
+        "Name": "Mexican style corn with green & red peppers",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.6,
@@ -20043,7 +20043,7 @@
         }
     },
     {
-        "Name": "Cut green beans seasoned with bacon, seasoned with bacon",
+        "Name": "Cut green beans seasoned with bacon",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 1.4,
@@ -20052,7 +20052,7 @@
         }
     },
     {
-        "Name": "Sweet white whole kernel corn, sweet white",
+        "Name": "Sweet white whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20070,7 +20070,7 @@
         }
     },
     {
-        "Name": "Golden sweet corn, golden sweet",
+        "Name": "Golden sweet corn",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -20079,7 +20079,7 @@
         }
     },
     {
-        "Name": "Cut yams sweet potatoes in syrup, syrup",
+        "Name": "Cut yams sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -20088,7 +20088,7 @@
         }
     },
     {
-        "Name": "No salt added cut green beans, no salt added",
+        "Name": "No salt added cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20097,7 +20097,7 @@
         }
     },
     {
-        "Name": "Southern yams sweet potatoes in syrup, southern",
+        "Name": "Southern yams sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20115,7 +20115,7 @@
         }
     },
     {
-        "Name": "Green diced roasted and peeled chiles, green",
+        "Name": "Green diced roasted & peeled chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20124,7 +20124,7 @@
         }
     },
     {
-        "Name": "Traditional stir fry vegetables, traditional",
+        "Name": "Traditional stir fry vegetables",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 0.0,
@@ -20151,7 +20151,7 @@
         }
     },
     {
-        "Name": "Sweet cream style golden corn, sweet cream style golden",
+        "Name": "Sweet cream style golden corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20160,7 +20160,7 @@
         }
     },
     {
-        "Name": "Yams cut sweet potatoes in light syrup, light syrup",
+        "Name": "Yams cut sweet potatoes in light syrup",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -20169,7 +20169,7 @@
         }
     },
     {
-        "Name": "No salt added french style green beans, no salt added",
+        "Name": "No salt added french style green beans",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20187,7 +20187,7 @@
         }
     },
     {
-        "Name": "Sweet golden no salt added whole kernel corn, sweet golden no salt added",
+        "Name": "Sweet golden no salt added whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20196,7 +20196,7 @@
         }
     },
     {
-        "Name": "Sweet no salt added mixed sizes peas, sweet no salt added",
+        "Name": "Sweet no salt added mixed sizes peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -20205,7 +20205,7 @@
         }
     },
     {
-        "Name": "Sweet mixed sizes peas, sweet",
+        "Name": "Sweet mixed sizes peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -20214,7 +20214,7 @@
         }
     },
     {
-        "Name": "Blackeye peas, blackeye",
+        "Name": "Blackeye peas",
         "Nutrients": {
             "Protein": 22.9,
             "Fat": 2.9,
@@ -20223,7 +20223,7 @@
         }
     },
     {
-        "Name": "Sweet peas & diced carrots, sweet",
+        "Name": "Sweet peas & diced carrots",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.0,
@@ -20232,7 +20232,7 @@
         }
     },
     {
-        "Name": "Specialty, green pigeon peas, green",
+        "Name": "Specialty, green pigeon peas",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.0,
@@ -20241,7 +20241,7 @@
         }
     },
     {
-        "Name": "Sweet peas & sliced carrots, sweet",
+        "Name": "Sweet peas & sliced carrots",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -20250,7 +20250,7 @@
         }
     },
     {
-        "Name": "Mexican style white hominy, mexican style white",
+        "Name": "Mexican style white hominy",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 1.2,
@@ -20277,7 +20277,7 @@
         }
     },
     {
-        "Name": "Pumpkin organic puree, pumpkin",
+        "Name": "Pumpkin organic puree",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20286,7 +20286,7 @@
         }
     },
     {
-        "Name": "Sweet golden no salt added whole kernel corn, sweet golden",
+        "Name": "Sweet golden no salt added whole kernel corn",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.8,
@@ -20304,7 +20304,7 @@
         }
     },
     {
-        "Name": "W / carrots sauerkraut, w / carrots",
+        "Name": "Wcarrots sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20322,7 +20322,7 @@
         }
     },
     {
-        "Name": "Supersweet white & gold whole kernel corn, supersweet",
+        "Name": "Supersweet white & gold whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20340,7 +20340,7 @@
         }
     },
     {
-        "Name": "Chipotles peppers in adobo sauce, chipotles peppers in adobo",
+        "Name": "Chipotles peppers in adobo sauce",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -20358,7 +20358,7 @@
         }
     },
     {
-        "Name": "100% pure pumpkin 9\" pie",
+        "Name": "100% pure pumpkin pie",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20367,7 +20367,7 @@
         }
     },
     {
-        "Name": "Sweet tiny peas, sweet",
+        "Name": "Sweet tiny peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -20385,7 +20385,7 @@
         }
     },
     {
-        "Name": "Del monte, pickled green beans, dill, dill",
+        "Name": "Del monte, pickled green beans, dill",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20394,7 +20394,7 @@
         }
     },
     {
-        "Name": "Asparagus cut spears in brine, asparagus",
+        "Name": "Asparagus cut spears in brine",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -20403,7 +20403,7 @@
         }
     },
     {
-        "Name": "French style sliced green beans, french style",
+        "Name": "French style sliced green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20421,7 +20421,7 @@
         }
     },
     {
-        "Name": "Sweet sizes mixed peas, sweet",
+        "Name": "Sweet sizes mixed peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -20430,7 +20430,7 @@
         }
     },
     {
-        "Name": "Blue lake green beans, blue lake",
+        "Name": "Blue lake green beans",
         "Nutrients": {
             "Protein": 0.6,
             "Fat": 0.0,
@@ -20439,7 +20439,7 @@
         }
     },
     {
-        "Name": "Seasoned green beans, seasoned",
+        "Name": "Seasoned green beans",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -20448,7 +20448,7 @@
         }
     },
     {
-        "Name": "Cut yams sweet potatoes in light sugar syrup, light sugar syrup",
+        "Name": "Cut yams sweet potatoes in light sugar syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20466,7 +20466,7 @@
         }
     },
     {
-        "Name": "Mild green diced chiles, mild green",
+        "Name": "Mild green diced chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20475,7 +20475,7 @@
         }
     },
     {
-        "Name": "Cut green beans seasoned with sea salt, sea salt",
+        "Name": "Cut green beans seasoned with sea salt",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20484,7 +20484,7 @@
         }
     },
     {
-        "Name": "Authentic mexican style whole green chiles, authentic mexican style",
+        "Name": "Authentic mexican style whole green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20493,7 +20493,7 @@
         }
     },
     {
-        "Name": "Green whole chilies, green",
+        "Name": "Green whole chilies",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20502,7 +20502,7 @@
         }
     },
     {
-        "Name": "Sauteed vegetable base, sauteed vegetable",
+        "Name": "Sauteed vegetable base",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20520,7 +20520,7 @@
         }
     },
     {
-        "Name": "Supersweet white & gold whole kernel corn, supersweet white & gold",
+        "Name": "Supersweet white & gold whole kernel corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20529,7 +20529,7 @@
         }
     },
     {
-        "Name": "Original mixed vegetables, original",
+        "Name": "Original mixed vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20538,7 +20538,7 @@
         }
     },
     {
-        "Name": "Golden cut yams sweet potatoes in syrup, golden",
+        "Name": "Golden cut yams sweet potatoes in syrup",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20547,7 +20547,7 @@
         }
     },
     {
-        "Name": "Golden cream style corn, golden cream style",
+        "Name": "Golden cream style corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.0,
@@ -20556,7 +20556,7 @@
         }
     },
     {
-        "Name": "Seasoned italian cut green beans, seasoned italian",
+        "Name": "Seasoned italian cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20565,7 +20565,7 @@
         }
     },
     {
-        "Name": "Jalapeno pepper peas, jalapeno pepper",
+        "Name": "Jalapeno pepper peas",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 0.4,
@@ -20574,7 +20574,7 @@
         }
     },
     {
-        "Name": "Italian cut green beans with potatoes, italian",
+        "Name": "Italian cut green beans with potatoes",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20583,7 +20583,7 @@
         }
     },
     {
-        "Name": "Seasoned kale greens, seasoned",
+        "Name": "Seasoned kale greens",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -20592,7 +20592,7 @@
         }
     },
     {
-        "Name": "Seasoned mixed greens, seasoned",
+        "Name": "Seasoned mixed greens",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.4,
@@ -20601,7 +20601,7 @@
         }
     },
     {
-        "Name": "Seasoned collard greens, seasoned",
+        "Name": "Seasoned collard greens",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20619,7 +20619,7 @@
         }
     },
     {
-        "Name": "Seasoned turnip greens with diced turnips, seasoned",
+        "Name": "Seasoned turnip greens with diced turnips",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.4,
@@ -20637,7 +20637,7 @@
         }
     },
     {
-        "Name": "Seasoned mustard greens, seasoned",
+        "Name": "Seasoned mustard greens",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.4,
@@ -20646,7 +20646,7 @@
         }
     },
     {
-        "Name": "No salt added mustard and turnip mixed greens",
+        "Name": "No salt added mustard & turnip mixed greens",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20664,7 +20664,7 @@
         }
     },
     {
-        "Name": "Purple hull peas, purple hull",
+        "Name": "Purple hull peas",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 0.4,
@@ -20673,7 +20673,7 @@
         }
     },
     {
-        "Name": "Seasoned turnip greens, seasoned",
+        "Name": "Seasoned turnip greens",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.4,
@@ -20682,7 +20682,7 @@
         }
     },
     {
-        "Name": "Golden hominy, golden",
+        "Name": "Golden hominy",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -20700,7 +20700,7 @@
         }
     },
     {
-        "Name": "Candied sweet potatoes sauced yams, candied sweet potatoes",
+        "Name": "C&ied sweet potatoes sauced yams",
         "Nutrients": {
             "Protein": 1.4,
             "Fat": 0.0,
@@ -20709,7 +20709,7 @@
         }
     },
     {
-        "Name": "Seasoned southern style kale, seasoned southern style",
+        "Name": "Seasoned southern style kale",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -20727,7 +20727,7 @@
         }
     },
     {
-        "Name": "Marinated premium select sliced mushroom, marinated",
+        "Name": "Marinated premium select sliced mushroom",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20736,7 +20736,7 @@
         }
     },
     {
-        "Name": "Pumpkin pie mix, pumpkin pie",
+        "Name": "Pumpkin pie mix",
         "Nutrients": {
             "Protein": 1.1,
             "Fat": 0.0,
@@ -20745,7 +20745,7 @@
         }
     },
     {
-        "Name": "Sauerkraut with carrots, carrots",
+        "Name": "Sauerkraut with carrots",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20754,7 +20754,7 @@
         }
     },
     {
-        "Name": "Dried giant white grains corn, dried giant white",
+        "Name": "Dried giant white grains corn",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 5.3,
@@ -20763,7 +20763,7 @@
         }
     },
     {
-        "Name": "Candied sweet potatoes sauced yam cuts, candied sweet potatoes",
+        "Name": "C&ied sweet potatoes sauced yam cuts",
         "Nutrients": {
             "Protein": 0.7,
             "Fat": 0.4,
@@ -20772,7 +20772,7 @@
         }
     },
     {
-        "Name": "Silver queen style white sweet corn with poblano peppers, poblano peppers",
+        "Name": "Silver queen style white sweet corn with poblano peppers",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -20781,7 +20781,7 @@
         }
     },
     {
-        "Name": "Harvest diced potatoes, harvest",
+        "Name": "Harvest diced potatoes",
         "Nutrients": {
             "Protein": 1.2,
             "Fat": 0.0,
@@ -20799,7 +20799,7 @@
         }
     },
     {
-        "Name": "Green gungo peas, green",
+        "Name": "Green gungo peas",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -20808,7 +20808,7 @@
         }
     },
     {
-        "Name": "Fiesta style corn, fiesta style",
+        "Name": "Fiesta style corn",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 1.0,
@@ -20817,7 +20817,7 @@
         }
     },
     {
-        "Name": "Orange pineapple sweet potatoes sauced yam cuts, orange pineapple sweet potatoes",
+        "Name": "Orange pineapple sweet potatoes sauced yam cuts",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.0,
@@ -20835,7 +20835,7 @@
         }
     },
     {
-        "Name": "Italian style cut green beans, italian style",
+        "Name": "Italian style cut green beans",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20844,7 +20844,7 @@
         }
     },
     {
-        "Name": "Mixed double diced vegetables, mixed",
+        "Name": "Mixed double diced vegetables",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -20862,7 +20862,7 @@
         }
     },
     {
-        "Name": "Crowder peas, crowder",
+        "Name": "Crowder peas",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -20889,7 +20889,7 @@
         }
     },
     {
-        "Name": "Ceci/garbanzo beans chick peas, ceci/garbanzo",
+        "Name": "Ceci/garbanzo beans chick peas",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.8,
@@ -20898,7 +20898,7 @@
         }
     },
     {
-        "Name": "Mild roasted and peeled diced green chiles, mild",
+        "Name": "Mild roasted & peeled diced green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20907,7 +20907,7 @@
         }
     },
     {
-        "Name": "Medium fire roasted & peeled diced green chiles, medium fire roasted & peeled",
+        "Name": "Medium fire roasted & peeled diced green chiles",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -20916,7 +20916,7 @@
         }
     },
     {
-        "Name": "Golden sweet no salt added whole kernel corn, golden sweet no salt added",
+        "Name": "Golden sweet no salt added whole kernel corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -20925,7 +20925,7 @@
         }
     },
     {
-        "Name": "Fire roasted chopped & peeled green chiles, fire roasted",
+        "Name": "Fire roasted chopped & peeled green chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -20934,7 +20934,7 @@
         }
     },
     {
-        "Name": "Red chile colorado, red chile",
+        "Name": "Red chile colorado",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 2.0,
@@ -20997,7 +20997,7 @@
         }
     },
     {
-        "Name": "Green giant white shoepeg corn, 7 oz",
+        "Name": "Green giant white shoepeg corn",
         "Nutrients": {
             "Protein": 2.1,
             "Fat": 0.5,
@@ -21006,7 +21006,7 @@
         }
     },
     {
-        "Name": "B&g sauerkraut, 14.4 oz",
+        "Name": "B& sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -21015,7 +21015,7 @@
         }
     },
     {
-        "Name": "Badia hearts of palm 14 oz",
+        "Name": "Badia hearts of palm",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 0.0,
@@ -21042,7 +21042,7 @@
         }
     },
     {
-        "Name": "Goya prime premium dry pigeon peas, 15.5 oz",
+        "Name": "Goya prime premium dry pigeon peas",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 0.0,
@@ -21051,7 +21051,7 @@
         }
     },
     {
-        "Name": "Lieber's chick peas, 15.5 oz",
+        "Name": "Liebers chick peas",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 0.8,
@@ -21087,7 +21087,7 @@
         }
     },
     {
-        "Name": "Rienzi artichoke hearts, 14 oz",
+        "Name": "Rienzi artichoke hearts",
         "Nutrients": {
             "Protein": 1.5,
             "Fat": 0.4,
@@ -21096,7 +21096,7 @@
         }
     },
     {
-        "Name": "Harvest cream style sweet corn, harvest cream style",
+        "Name": "Harvest cream style sweet corn",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.8,
@@ -21222,7 +21222,7 @@
         }
     },
     {
-        "Name": "Cream style super sweet corn, cream style",
+        "Name": "Cream style super sweet corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.4,
@@ -21240,7 +21240,7 @@
         }
     },
     {
-        "Name": "Real southern style white hominy, southern style",
+        "Name": "Real southern style white hominy",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.4,
@@ -21249,7 +21249,7 @@
         }
     },
     {
-        "Name": "Sweet organic green peas, sweet",
+        "Name": "Sweet organic green peas",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 0.4,
@@ -21258,7 +21258,7 @@
         }
     },
     {
-        "Name": "Sliced marinated tender cactus, sliced",
+        "Name": "Sliced marinated tender cactus",
         "Nutrients": {
             "Protein": 0.8,
             "Fat": 0.0,
@@ -21276,7 +21276,7 @@
         }
     },
     {
-        "Name": "Spicy organic sauerkraut, spicy",
+        "Name": "Spicy organic sauerkraut",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -21285,7 +21285,7 @@
         }
     },
     {
-        "Name": "Original  chick peas",
+        "Name": "Original chick peas",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.5,
@@ -21294,7 +21294,7 @@
         }
     },
     {
-        "Name": "Premium pieces and stem mushrooms",
+        "Name": "Premium pieces & stem mushrooms",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -21303,7 +21303,7 @@
         }
     },
     {
-        "Name": "Super sweet whole kernel golden corn, super sweet",
+        "Name": "Super sweet whole kernel golden corn",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 0.8,
@@ -21321,7 +21321,7 @@
         }
     },
     {
-        "Name": "Tiny creole early peas, tiny",
+        "Name": "Tiny creole early peas",
         "Nutrients": {
             "Protein": 2.4,
             "Fat": 0.0,
@@ -21348,7 +21348,7 @@
         }
     },
     {
-        "Name": "Button sliced mushrooms, button",
+        "Name": "Button sliced mushrooms",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -21357,7 +21357,7 @@
         }
     },
     {
-        "Name": "Button whole mushrooms, button",
+        "Name": "Button whole mushrooms",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 0.0,
@@ -21384,7 +21384,7 @@
         }
     },
     {
-        "Name": "Hot pure green chile, hot pure green",
+        "Name": "Hot pure green chile",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,
@@ -21402,7 +21402,7 @@
         }
     },
     {
-        "Name": "Diced green organic chiles, diced green",
+        "Name": "Diced green organic chiles",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -21411,7 +21411,7 @@
         }
     },
     {
-        "Name": "Whole grilled marinated artichokes, whole grilled marinated",
+        "Name": "Whole grilled marinated artichokes",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 3.6,
@@ -21438,7 +21438,7 @@
         }
     },
     {
-        "Name": "Classic caraway seed sauerkraut, classic caraway seed",
+        "Name": "Classic caraway seed sauerkraut",
         "Nutrients": {
             "Protein": 1.7,
             "Fat": 0.0,

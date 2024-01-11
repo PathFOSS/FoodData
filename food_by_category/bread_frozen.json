@@ -1,0 +1,1793 @@
+[
+    {
+        "Name": "Pullman bread, white, slice, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 3.6,
+            "Carbs": 50.0,
+            "Calories": 260.8
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, wholesome choice, maple chip mini, bulk, approx",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 5.0,
+            "Carbs": 42.5,
+            "Calories": 235.0
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, low sodium, garlic",
+        "Nutrients": {
+            "Protein": 2.9,
+            "Fat": 8.8,
+            "Carbs": 44.1,
+            "Calories": 267.2
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, chocolate chocolate chip, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 47.4,
+            "Calories": 305.3
+        }
+    },
+    {
+        "Name": "Closeout biscuits, buttermilk, whole grain, reduced sodium, sliced",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 11.1,
+            "Carbs": 44.4,
+            "Calories": 304.3
+        }
+    },
+    {
+        "Name": "Hoagie rolls, whole grain, pan baked, split top, fully sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 2.6,
+            "Carbs": 49.1,
+            "Calories": 255.0
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, banana, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.0,
+            "Carbs": 49.1,
+            "Calories": 280.6
+        }
+    },
+    {
+        "Name": "Croissant, butter blend, round, unsliced, .",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 14.2,
+            "Carbs": 39.6,
+            "Calories": 316.2
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, blueberry, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.7,
+            "Fat": 8.0,
+            "Carbs": 46.6,
+            "Calories": 281.2
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, banana, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.9,
+            "Fat": 6.9,
+            "Carbs": 49.0,
+            "Calories": 273.7
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain, sliced",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 3.2,
+            "Carbs": 51.6,
+            "Calories": 274.0
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, cornbread, tray packed",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 49.1,
+            "Calories": 312.1
+        }
+    },
+    {
+        "Name": "Brioche, braided loaf",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 5.4,
+            "Carbs": 53.6,
+            "Calories": 305.8
+        }
+    },
+    {
+        "Name": "Loaf bread, marble rye, gourmet, thin sliced",
+        "Nutrients": {
+            "Protein": 9.2,
+            "Fat": 3.1,
+            "Carbs": 49.2,
+            "Calories": 261.5
+        }
+    },
+    {
+        "Name": "French toast bites, whole grain, wholesome choice, cinnamon, bulk",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.8,
+            "Carbs": 44.7,
+            "Calories": 286.4
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 2.0,
+            "Carbs": 45.1,
+            "Calories": 222.0
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, split top, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 0.0,
+            "Carbs": 39.3,
+            "Calories": 171.6
+        }
+    },
+    {
+        "Name": "Hot dog buns, white",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 2.3,
+            "Carbs": 46.5,
+            "Calories": 234.7
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain, low sodium, sliced",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 2.9,
+            "Carbs": 41.2,
+            "Calories": 222.1
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain white, sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 2.3,
+            "Carbs": 53.5,
+            "Calories": 262.7
+        }
+    },
+    {
+        "Name": "Closeout hamburger buns, whole grain, premium, sliced",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 1.2,
+            "Carbs": 45.9,
+            "Calories": 227.2
+        }
+    },
+    {
+        "Name": "Conestoga simple split buttermilk baked biscuit",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 15.3,
+            "Carbs": 41.2,
+            "Calories": 321.3
+        }
+    },
+    {
+        "Name": "Croissants, whole grain, margarine, reduced fat, round, fully sliced",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 8.1,
+            "Carbs": 46.8,
+            "Calories": 292.5
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, maple chip mini, pack",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 10.1,
+            "Carbs": 39.2,
+            "Calories": 268.1
+        }
+    },
+    {
+        "Name": "Pullman bread, whole grain, slice, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 42.9,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "Croissants, low sodium, margarine, round, sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 15.3,
+            "Carbs": 41.2,
+            "Calories": 330.9
+        }
+    },
+    {
+        "Name": "Waffles, maple chip mini, bulk",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 8.8,
+            "Carbs": 40.0,
+            "Calories": 259.2
+        }
+    },
+    {
+        "Name": "Hoagie rolls, dark honey wheat, hinge slice, hearth baked",
+        "Nutrients": {
+            "Protein": 8.0,
+            "Fat": 0.9,
+            "Carbs": 47.8,
+            "Calories": 231.3
+        }
+    },
+    {
+        "Name": "Biscuits, lower sodium, sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 12.3,
+            "Carbs": 45.6,
+            "Calories": 321.1
+        }
+    },
+    {
+        "Name": "French toast sticks, original",
+        "Nutrients": {
+            "Protein": 4.5,
+            "Fat": 13.6,
+            "Carbs": 36.4,
+            "Calories": 286.0
+        }
+    },
+    {
+        "Name": "Loaf bread, italian, thin sliced",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 0.8,
+            "Carbs": 43.1,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Loaf bread, italian, hearth baked, thick sliced",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 1.0,
+            "Carbs": 50.0,
+            "Calories": 242.2
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, orange dream, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 49.1,
+            "Calories": 296.8
+        }
+    },
+    {
+        "Name": "Hoagie rolls, whole grain, split top, fully sliced",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 4.4,
+            "Carbs": 56.1,
+            "Calories": 306.0
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 8.5,
+            "Carbs": 44.7,
+            "Calories": 280.9
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, wholesome choice, buttermilk, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 5.4,
+            "Carbs": 40.5,
+            "Calories": 232.2
+        }
+    },
+    {
+        "Name": "Kaiser roll, sliced",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 2.1,
+            "Carbs": 35.2,
+            "Calories": 182.1
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, strawberry, pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.7,
+            "Carbs": 41.9,
+            "Calories": 231.5
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, apple cinnamon, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 47.4,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, sliced, bulk",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 1.6,
+            "Carbs": 48.4,
+            "Calories": 240.4
+        }
+    },
+    {
+        "Name": "Marble rye loaf, homestyle, sliced",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 1.0,
+            "Carbs": 50.0,
+            "Calories": 242.2
+        }
+    },
+    {
+        "Name": "English muffins, sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 40.4,
+            "Calories": 205.8
+        }
+    },
+    {
+        "Name": "Croissants, whole grain, margarine, fully curved, sliced",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 10.3,
+            "Carbs": 45.6,
+            "Calories": 304.3
+        }
+    },
+    {
+        "Name": "Slider buns, whole grain, hawaiian, wholesome choice, fully sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 3.6,
+            "Carbs": 50.0,
+            "Calories": 260.8
+        }
+    },
+    {
+        "Name": "Challah, cinnamon raisin, sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 64.3,
+            "Calories": 301.8
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 0.9,
+            "Carbs": 48.1,
+            "Calories": 237.7
+        }
+    },
+    {
+        "Name": "Muffins, golden cornbread, individually wrapped",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 9.7,
+            "Carbs": 48.4,
+            "Calories": 306.9
+        }
+    },
+    {
+        "Name": "Pioneerbuttermilk biscuits",
+        "Nutrients": {
+            "Protein": 5.6,
+            "Fat": 16.9,
+            "Carbs": 43.7,
+            "Calories": 349.3
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain, wholesome choice, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.2,
+            "Carbs": 44.7,
+            "Calories": 281.0
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, chocolate chocolate chip, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 47.4,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Bagels, whole grain white, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.8,
+            "Carbs": 50.9,
+            "Calories": 255.0
+        }
+    },
+    {
+        "Name": "Brioche, homestyle loaf, sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 46.4,
+            "Calories": 230.2
+        }
+    },
+    {
+        "Name": "Hoagie roll, thin, split top, unsliced, hearth baked",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.2,
+            "Carbs": 45.9,
+            "Calories": 222.8
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.3,
+            "Carbs": 45.2,
+            "Calories": 283.9
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, cornbread, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 9.8,
+            "Carbs": 45.1,
+            "Calories": 292.2
+        }
+    },
+    {
+        "Name": "Conestoga simple-splitbuttermilk biscuits",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 17.2,
+            "Carbs": 43.8,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, cornbread, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 9.4,
+            "Carbs": 45.9,
+            "Calories": 287.0
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, gourmet, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 8.1,
+            "Carbs": 37.8,
+            "Calories": 245.7
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, gourmet, 100% whole wheat, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 8.1,
+            "Carbs": 32.4,
+            "Calories": 224.1
+        }
+    },
+    {
+        "Name": "Slider buns, whole grain, low sodium, sliced",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 3.6,
+            "Carbs": 57.1,
+            "Calories": 303.6
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, hearth baked, split top",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, chocolate chip, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 9.7,
+            "Carbs": 50.4,
+            "Calories": 310.1
+        }
+    },
+    {
+        "Name": "Croissant, butter blend, round, sliced, .",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 14.2,
+            "Carbs": 39.6,
+            "Calories": 316.2
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, strawberry pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.7,
+            "Carbs": 41.9,
+            "Calories": 231.5
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, banana, reduced fat, individually wrapped, retail",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 7.0,
+            "Carbs": 49.1,
+            "Calories": 280.6
+        }
+    },
+    {
+        "Name": "Biscuits, buttermilk, sliced, tray pack",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 10.5,
+            "Carbs": 47.4,
+            "Calories": 312.1
+        }
+    },
+    {
+        "Name": "Pullman bread, whole grain white, in. sliced loaf",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 42.9,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "Texas toast, whole grain, garlic, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 9.5,
+            "Carbs": 37.8,
+            "Calories": 269.1
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, buttermilk, blueberry, pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.7,
+            "Carbs": 43.2,
+            "Calories": 236.7
+        }
+    },
+    {
+        "Name": "Hoagie rolls, hawaiian, pan baked, split top, fully sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 2.6,
+            "Carbs": 45.6,
+            "Calories": 233.8
+        }
+    },
+    {
+        "Name": "Hoagie rolls, whole grain, pan baked, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 2.4,
+            "Carbs": 44.7,
+            "Calories": 228.8
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, low sodium",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 2.9,
+            "Carbs": 41.2,
+            "Calories": 222.1
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, split top, bulk",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 0.0,
+            "Carbs": 39.3,
+            "Calories": 171.6
+        }
+    },
+    {
+        "Name": "Hoagie rolls, white, split top, unsliced",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 1.3,
+            "Carbs": 47.5,
+            "Calories": 236.1
+        }
+    },
+    {
+        "Name": "Muffins, apple cinnamon, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 43.9,
+            "Calories": 291.3
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain, sliced",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 1.8,
+            "Carbs": 40.4,
+            "Calories": 199.0
+        }
+    },
+    {
+        "Name": "Hot dog bun, whole grain, new engl& style",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 3.7,
+            "Carbs": 48.1,
+            "Calories": 262.9
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, reduced sodium, garlic, heat & serve",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.9,
+            "Carbs": 46.4,
+            "Calories": 294.1
+        }
+    },
+    {
+        "Name": "Bagels, whole grain white, sliced, bulk",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 0.9,
+            "Carbs": 48.1,
+            "Calories": 237.7
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, blueberry, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 7.8,
+            "Carbs": 47.1,
+            "Calories": 278.2
+        }
+    },
+    {
+        "Name": "Mini bagels, whole grain, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 228.4
+        }
+    },
+    {
+        "Name": "Biscuits, honey wheat, whole grain, pillow pack, sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 10.5,
+            "Carbs": 43.9,
+            "Calories": 298.1
+        }
+    },
+    {
+        "Name": "Kaiser rolls, multigrain, fully sliced",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 2.9,
+            "Carbs": 48.2,
+            "Calories": 251.7
+        }
+    },
+    {
+        "Name": "Pioneersquare buttermilk biscuits",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 14.7,
+            "Carbs": 42.6,
+            "Calories": 326.3
+        }
+    },
+    {
+        "Name": "Hot dog buns, whole grain white",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 2.3,
+            "Carbs": 46.5,
+            "Calories": 234.7
+        }
+    },
+    {
+        "Name": "Bread, sourdough, pan-baked, thin sliced",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 0.8,
+            "Carbs": 43.1,
+            "Calories": 210.4
+        }
+    },
+    {
+        "Name": "Kaiser rolls, french cut, sliced",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 1.8,
+            "Carbs": 49.4,
+            "Calories": 246.6
+        }
+    },
+    {
+        "Name": "Biscuits, buttermilk, whole grain, reduced sodium, sliced, tray packed",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 10.5,
+            "Carbs": 49.1,
+            "Calories": 326.1
+        }
+    },
+    {
+        "Name": "Muffins, chocolate chip, individually wrapped",
+        "Nutrients": {
+            "Protein": 3.5,
+            "Fat": 12.3,
+            "Carbs": 52.6,
+            "Calories": 335.1
+        }
+    },
+    {
+        "Name": "Brioche, gourmet, sliced loaf",
+        "Nutrients": {
+            "Protein": 10.0,
+            "Fat": 5.0,
+            "Carbs": 50.0,
+            "Calories": 285.0
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, wholesome choice, buttermilk, 100% whole wheat, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.0,
+            "Carbs": 40.5,
+            "Calories": 219.6
+        }
+    },
+    {
+        "Name": "Hot dog buns, mini whole white wheat",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 4.3,
+            "Carbs": 45.7,
+            "Calories": 267.1
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, low sodium",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 5.4,
+            "Carbs": 50.0,
+            "Calories": 263.0
+        }
+    },
+    {
+        "Name": "Pancakes, buttermilk, bulk",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 4.0,
+            "Carbs": 39.5,
+            "Calories": 215.2
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, blueberry, reduced fat, individually wrapped, retail",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Muffins, wild blueberry, individually wrapped",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 8.8,
+            "Carbs": 44.1,
+            "Calories": 283.2
+        }
+    },
+    {
+        "Name": "Muffin tops, whole grain, chocolate chip, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Italian bread, loaf, thick sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 43.9,
+            "Calories": 219.8
+        }
+    },
+    {
+        "Name": "Texas toast, whole grain, garlic, reduced fat, low sodium, bulk",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 9.5,
+            "Carbs": 37.8,
+            "Calories": 269.1
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, cinnamon raisin, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 1.6,
+            "Carbs": 59.7,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Brioche, hamburger roll",
+        "Nutrients": {
+            "Protein": 9.4,
+            "Fat": 5.9,
+            "Carbs": 51.8,
+            "Calories": 297.9
+        }
+    },
+    {
+        "Name": "Hot dog buns, whole grain, low sodium, sliced",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 2.9,
+            "Carbs": 41.2,
+            "Calories": 222.1
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, apple cinnamon, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 8.8,
+            "Carbs": 46.9,
+            "Calories": 284.4
+        }
+    },
+    {
+        "Name": "Biscuits, whole grain, honey wheat, tops",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.7,
+            "Carbs": 42.9,
+            "Calories": 296.3
+        }
+    },
+    {
+        "Name": "Muffins, banana, tray pack",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.5,
+            "Carbs": 50.0,
+            "Calories": 326.9
+        }
+    },
+    {
+        "Name": "Biscuits, whole grain, honey wheat, bottoms",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.7,
+            "Carbs": 42.9,
+            "Calories": 296.3
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, blueberry, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.8,
+            "Carbs": 56.1,
+            "Calories": 275.8
+        }
+    },
+    {
+        "Name": "Hamburger buns, white, sliced",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 1.9,
+            "Carbs": 44.2,
+            "Calories": 219.9
+        }
+    },
+    {
+        "Name": "Biscuits, buttermilk classic homestyle, sliced",
+        "Nutrients": {
+            "Protein": 6.7,
+            "Fat": 11.7,
+            "Carbs": 46.7,
+            "Calories": 318.9
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain, pack",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.2,
+            "Carbs": 44.7,
+            "Calories": 281.0
+        }
+    },
+    {
+        "Name": "Muffin tops, whole grain, blueberry, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Closeout hamburger buns, white, sliced",
+        "Nutrients": {
+            "Protein": 7.7,
+            "Fat": 2.8,
+            "Carbs": 47.2,
+            "Calories": 244.8
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, low sodium, pan baked",
+        "Nutrients": {
+            "Protein": 9.3,
+            "Fat": 3.5,
+            "Carbs": 51.2,
+            "Calories": 273.5
+        }
+    },
+    {
+        "Name": "Hamburger buns, hawaiian, smooth top, fully sliced",
+        "Nutrients": {
+            "Protein": 7.0,
+            "Fat": 1.8,
+            "Carbs": 49.1,
+            "Calories": 240.6
+        }
+    },
+    {
+        "Name": "Mini loaf, cornbread, individually wrapped, retail",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 12.3,
+            "Carbs": 47.4,
+            "Calories": 321.5
+        }
+    },
+    {
+        "Name": "Conestoga simple split buttermilk biscuits",
+        "Nutrients": {
+            "Protein": 4.7,
+            "Fat": 17.2,
+            "Carbs": 43.8,
+            "Calories": 348.8
+        }
+    },
+    {
+        "Name": "Croissants, margarine, round, fully sliced",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 11.3,
+            "Carbs": 46.8,
+            "Calories": 314.9
+        }
+    },
+    {
+        "Name": "Pullman bread, white, sliced loaf",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 46.4,
+            "Calories": 230.2
+        }
+    },
+    {
+        "Name": "Hoagie rolls, white, pan baked, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 2.4,
+            "Carbs": 51.8,
+            "Calories": 261.6
+        }
+    },
+    {
+        "Name": "Hamburger buns, white, sesame seed, sliced",
+        "Nutrients": {
+            "Protein": 6.5,
+            "Fat": 1.9,
+            "Carbs": 44.2,
+            "Calories": 219.9
+        }
+    },
+    {
+        "Name": "Dinner rolls, italian club, gourmet",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 0.0,
+            "Carbs": 45.0,
+            "Calories": 210.0
+        }
+    },
+    {
+        "Name": "Mini bread stick, whole grain, low sodium",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 3.6,
+            "Carbs": 57.1,
+            "Calories": 303.6
+        }
+    },
+    {
+        "Name": "Texas toast, whole grain, garlic, low fat, low sodium, bulk",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 8.8,
+            "Carbs": 41.2,
+            "Calories": 279.2
+        }
+    },
+    {
+        "Name": "Brioche, hamburger buns, sliced",
+        "Nutrients": {
+            "Protein": 8.3,
+            "Fat": 2.5,
+            "Carbs": 46.7,
+            "Calories": 242.5
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, maple chip mini, bulk",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 8.8,
+            "Carbs": 37.5,
+            "Calories": 249.2
+        }
+    },
+    {
+        "Name": "S&wich rolls, bbq, split top, fully sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 2.0,
+            "Carbs": 44.4,
+            "Calories": 224.0
+        }
+    },
+    {
+        "Name": "Hoagie rolls, whole grain, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 2.6,
+            "Carbs": 49.1,
+            "Calories": 255.0
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, cinnamon raisin, sliced, bulk",
+        "Nutrients": {
+            "Protein": 8.1,
+            "Fat": 1.6,
+            "Carbs": 59.7,
+            "Calories": 285.6
+        }
+    },
+    {
+        "Name": "Muffins, mini wild blueberry, tray pack",
+        "Nutrients": {
+            "Protein": 3.6,
+            "Fat": 12.5,
+            "Carbs": 42.9,
+            "Calories": 298.5
+        }
+    },
+    {
+        "Name": "Brioche, gourmet hot dog roll",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 7.1,
+            "Carbs": 69.4,
+            "Calories": 393.1
+        }
+    },
+    {
+        "Name": "Hamburger buns, white, sliced",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 2.0,
+            "Carbs": 45.1,
+            "Calories": 222.0
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, wholesome choice, buttermilk, maple cinnamon, pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.7,
+            "Carbs": 43.2,
+            "Calories": 236.7
+        }
+    },
+    {
+        "Name": "Texas toast, whole grain, margarine, low fat, low sodium, bulk",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 8.8,
+            "Carbs": 41.2,
+            "Calories": 279.2
+        }
+    },
+    {
+        "Name": "Loaf, whole grain, banana, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.9,
+            "Fat": 6.9,
+            "Carbs": 50.0,
+            "Calories": 281.7
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain, wholesome choice",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 8.5,
+            "Carbs": 44.7,
+            "Calories": 280.9
+        }
+    },
+    {
+        "Name": "Waffles, round, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 8.1,
+            "Carbs": 32.4,
+            "Calories": 224.1
+        }
+    },
+    {
+        "Name": "French toast sticks, cinnamon",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 14.0,
+            "Carbs": 40.0,
+            "Calories": 306.0
+        }
+    },
+    {
+        "Name": "Hoagie, hearth baked, split top, unsliced",
+        "Nutrients": {
+            "Protein": 7.9,
+            "Fat": 1.1,
+            "Carbs": 43.9,
+            "Calories": 217.1
+        }
+    },
+    {
+        "Name": "Dinner roll, whole grain, low sodium",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 3.6,
+            "Carbs": 57.1,
+            "Calories": 303.6
+        }
+    },
+    {
+        "Name": "Brioche, hot dog buns, sliced",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 2.0,
+            "Carbs": 47.1,
+            "Calories": 237.6
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, cornbread, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 10.5,
+            "Carbs": 50.9,
+            "Calories": 319.3
+        }
+    },
+    {
+        "Name": "Muffins, cornbread, low fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 2.6,
+            "Carbs": 54.4,
+            "Calories": 262.2
+        }
+    },
+    {
+        "Name": "Hoagie roll, white, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 0.8,
+            "Carbs": 46.2,
+            "Calories": 222.4
+        }
+    },
+    {
+        "Name": "Brioche, gourmet dinner roll",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 5.3,
+            "Carbs": 52.6,
+            "Calories": 300.1
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, chocolate chip, reduced fat, individually wrapped, retail",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 50.9,
+            "Calories": 304.0
+        }
+    },
+    {
+        "Name": "Fun buns/slider, whole grain, sliced",
+        "Nutrients": {
+            "Protein": 9.7,
+            "Fat": 3.2,
+            "Carbs": 48.4,
+            "Calories": 261.2
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, low sodium, heat & serve",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 3.9,
+            "Carbs": 51.0,
+            "Calories": 270.3
+        }
+    },
+    {
+        "Name": "Hoagie rolls, white, pan baked, split top, fully sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.2,
+            "Carbs": 45.9,
+            "Calories": 222.8
+        }
+    },
+    {
+        "Name": "Mini bagels, whole grain",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 50.0,
+            "Calories": 228.4
+        }
+    },
+    {
+        "Name": "Hoagie rolls, hearth baked, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 1.3,
+            "Carbs": 50.0,
+            "Calories": 246.1
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, low sodium, smooth top",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Muffins, chocolate chip, individually wrapped",
+        "Nutrients": {
+            "Protein": 4.4,
+            "Fat": 11.5,
+            "Carbs": 52.2,
+            "Calories": 329.9
+        }
+    },
+    {
+        "Name": "Hoagie roll, whole grain, low sodium, sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 3.5,
+            "Carbs": 50.9,
+            "Calories": 270.3
+        }
+    },
+    {
+        "Name": "Cornbread bowl, whole grain, fully baked, thaw & serve, .",
+        "Nutrients": {
+            "Protein": 4.2,
+            "Fat": 8.4,
+            "Carbs": 46.5,
+            "Calories": 278.4
+        }
+    },
+    {
+        "Name": "Bagels, plain, sliced, bulk",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 1.9,
+            "Carbs": 64.8,
+            "Calories": 320.7
+        }
+    },
+    {
+        "Name": "Pullman bread, whole grain, sliced loaf",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 1.8,
+            "Carbs": 42.9,
+            "Calories": 216.2
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, buttermilk maple chip, bulk",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 5.4,
+            "Carbs": 43.2,
+            "Calories": 243.0
+        }
+    },
+    {
+        "Name": "Hoagie rolls, wheat, hearth baked, split top, hinge sliced",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 1.1,
+            "Carbs": 46.7,
+            "Calories": 227.1
+        }
+    },
+    {
+        "Name": "Pullman bread, whole grain, slices, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 2.6,
+            "Carbs": 47.4,
+            "Calories": 248.2
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, maple, pack",
+        "Nutrients": {
+            "Protein": 5.1,
+            "Fat": 7.6,
+            "Carbs": 34.2,
+            "Calories": 225.6
+        }
+    },
+    {
+        "Name": "French toast sticks, whole grain, wholesome choice",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.3,
+            "Carbs": 45.2,
+            "Calories": 283.9
+        }
+    },
+    {
+        "Name": "Pioneerrspo baked biscuits",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 16.7,
+            "Carbs": 45.0,
+            "Calories": 350.3
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, apple cinnamon, reduced fat, individually wrapped, retail",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 47.4,
+            "Calories": 290.0
+        }
+    },
+    {
+        "Name": "Kaiser bun, whole grain white, small, sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.8,
+            "Carbs": 49.1,
+            "Calories": 247.8
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, maple",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.5,
+            "Carbs": 40.0,
+            "Calories": 247.5
+        }
+    },
+    {
+        "Name": "Biscuits, honey wheat, whole grain, low sodium, pillow pack, sliced",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 10.7,
+            "Carbs": 46.4,
+            "Calories": 310.3
+        }
+    },
+    {
+        "Name": "Mini loaf, whole grain, blueberry, reduced fat, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.3,
+            "Fat": 8.8,
+            "Carbs": 45.6,
+            "Calories": 282.8
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, low sodium, smooth top, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 0.0,
+            "Carbs": 42.9,
+            "Calories": 200.0
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, blueberry, sliced, bulk",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.8,
+            "Carbs": 56.1,
+            "Calories": 275.8
+        }
+    },
+    {
+        "Name": "Loaf, whole grain, cinnamon crumb, individually wrapped",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 5.9,
+            "Carbs": 53.9,
+            "Calories": 292.3
+        }
+    },
+    {
+        "Name": "English muffins, whole grain white, sliced",
+        "Nutrients": {
+            "Protein": 10.5,
+            "Fat": 2.6,
+            "Carbs": 36.8,
+            "Calories": 212.6
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, maple blueberry, bulk",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 7.5,
+            "Carbs": 37.5,
+            "Calories": 237.5
+        }
+    },
+    {
+        "Name": "Hamburger buns, white, sesame seed, sliced",
+        "Nutrients": {
+            "Protein": 5.9,
+            "Fat": 2.0,
+            "Carbs": 45.1,
+            "Calories": 222.0
+        }
+    },
+    {
+        "Name": "Texas toast, whole grain, garlic, reduced fat, reduced sodium, bulk",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 17.6,
+            "Carbs": 41.2,
+            "Calories": 354.4
+        }
+    },
+    {
+        "Name": "Hoagie rolls, whole grain, split top, sliced, pull apart, each",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 1.0,
+            "Carbs": 41.2,
+            "Calories": 205.0
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, sliced, bulk",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 1.2,
+            "Carbs": 48.2,
+            "Calories": 236.4
+        }
+    },
+    {
+        "Name": "Pepperidge farm texas toast frozen cheese bread, slices,",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 17.8,
+            "Carbs": 33.3,
+            "Calories": 337.8
+        }
+    },
+    {
+        "Name": "Bagels, honey whole grain, sliced",
+        "Nutrients": {
+            "Protein": 7.6,
+            "Fat": 1.3,
+            "Carbs": 57.0,
+            "Calories": 270.1
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, smooth top, ., individually wrapped",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 3.6,
+            "Carbs": 53.6,
+            "Calories": 289.6
+        }
+    },
+    {
+        "Name": "Hoagie roll, french cut, unsliced",
+        "Nutrients": {
+            "Protein": 8.4,
+            "Fat": 1.1,
+            "Carbs": 47.2,
+            "Calories": 232.3
+        }
+    },
+    {
+        "Name": "Waffles, mini, bulk",
+        "Nutrients": {
+            "Protein": 5.0,
+            "Fat": 8.8,
+            "Carbs": 37.5,
+            "Calories": 249.2
+        }
+    },
+    {
+        "Name": "French toast bites, whole grain, wholesome choice, cinnamon, individually wrapped",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 8.8,
+            "Carbs": 44.7,
+            "Calories": 286.4
+        }
+    },
+    {
+        "Name": "Bagels, plain, sliced",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 1.3,
+            "Carbs": 57.0,
+            "Calories": 275.3
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, gourmet, pack",
+        "Nutrients": {
+            "Protein": 2.7,
+            "Fat": 8.1,
+            "Carbs": 21.6,
+            "Calories": 170.1
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, cinnamon raisin, sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.3,
+            "Carbs": 59.3,
+            "Calories": 284.1
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, sliced, individually wrapped",
+        "Nutrients": {
+            "Protein": 8.9,
+            "Fat": 1.3,
+            "Carbs": 49.4,
+            "Calories": 244.9
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, wholesome choice, cinnamon, pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 8.1,
+            "Carbs": 33.8,
+            "Calories": 229.7
+        }
+    },
+    {
+        "Name": "Bagels, whole grain, blueberry, sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 1.3,
+            "Carbs": 57.5,
+            "Calories": 276.9
+        }
+    },
+    {
+        "Name": "Dinner rolls, whole grain, smooth top, ., individually wrapped",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 2.6,
+            "Carbs": 47.4,
+            "Calories": 248.2
+        }
+    },
+    {
+        "Name": "Meal kit, whole grain breakf bun, whole grain snackables, alphabet, apple juice",
+        "Nutrients": {
+            "Protein": 2.6,
+            "Fat": 4.6,
+            "Carbs": 30.8,
+            "Calories": 175.0
+        }
+    },
+    {
+        "Name": "Pepperidge farm texas toast frozen mozzarella & monterey jack bread, slices,",
+        "Nutrients": {
+            "Protein": 11.1,
+            "Fat": 17.8,
+            "Carbs": 33.3,
+            "Calories": 337.8
+        }
+    },
+    {
+        "Name": "Pancakes, whole grain, wholesome choice, buttermilk, pack",
+        "Nutrients": {
+            "Protein": 5.4,
+            "Fat": 4.7,
+            "Carbs": 41.9,
+            "Calories": 231.5
+        }
+    },
+    {
+        "Name": "Dinner rolls, white, hearth baked, split top, individually wrapped",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 0.0,
+            "Carbs": 53.6,
+            "Calories": 257.2
+        }
+    },
+    {
+        "Name": "Muffins, whole grain, chocolate chocolate chip, individually wrapped",
+        "Nutrients": {
+            "Protein": 6.2,
+            "Fat": 9.7,
+            "Carbs": 47.8,
+            "Calories": 303.3
+        }
+    },
+    {
+        "Name": "Pepperidge farm frozen cheese garlic bread,",
+        "Nutrients": {
+            "Protein": 10.7,
+            "Fat": 17.9,
+            "Carbs": 35.7,
+            "Calories": 346.7
+        }
+    },
+    {
+        "Name": "Kaiser buns, cornmeal dusted",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 2.4,
+            "Carbs": 44.7,
+            "Calories": 200.4
+        }
+    },
+    {
+        "Name": "Waffles, whole grain, blueberry, pack",
+        "Nutrients": {
+            "Protein": 4.0,
+            "Fat": 6.8,
+            "Carbs": 32.4,
+            "Calories": 206.8
+        }
+    },
+    {
+        "Name": "Bread sticks, whole grain, mozzarella stuffed, garlic",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 12.9,
+            "Carbs": 32.9,
+            "Calories": 294.9
+        }
+    },
+    {
+        "Name": "Hamburger buns, whole grain, hawaiian, wholesome choice, fully sliced",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 2.6,
+            "Carbs": 50.9,
+            "Calories": 262.2
+        }
+    }
+]

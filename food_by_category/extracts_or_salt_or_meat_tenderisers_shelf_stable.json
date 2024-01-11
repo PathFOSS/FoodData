@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Swanson beef flavored broth concentrate, ounce carton",
+        "Nutrients": {
+            "Protein": 1.3,
+            "Fat": 0.0,
+            "Carbs": 1.3,
+            "Calories": 10.4
+        }
+    },
+    {
+        "Name": "Swansonchicken broth,carton",
+        "Nutrients": {
+            "Protein": 0.4,
+            "Fat": 0.0,
+            "Carbs": 0.4,
+            "Calories": 3.2
+        }
+    },
+    {
+        "Name": "Swanson broth broth chicken",
+        "Nutrients": {
+            "Protein": 0.8,
+            "Fat": 0.0,
+            "Carbs": 0.4,
+            "Calories": 4.8
+        }
+    }
+]

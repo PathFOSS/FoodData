@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Chocolate chip break'n bake cookie dough, chocolate chip",
+        "Name": "Chocolate chip break& bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Thin & crispy gluten free pizza crusts, thin & crispy",
+        "Name": "Thin & crispy gluten free pizza crusts",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.8,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "Name": "Classic oven baked pizza crusts, classic",
+        "Name": "Classic oven baked pizza crusts",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.8,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Wonton strips, wonton",
+        "Name": "Wonton strips",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 28.6,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Graham style pie crust, graham style",
+        "Name": "Graham style pie crust",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 24.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Olive oil & herb pizza dough, olive oil & herb",
+        "Name": "Olive oil & herb pizza dough",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 3.5,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Garlic & herb pizza dough, garlic & herb",
+        "Name": "Garlic & herb pizza dough",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 3.5,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough, chocolate chip",
+        "Name": "Chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Sugar cookie dough, sugar",
+        "Name": "Sugar cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Unroll & bake 9\"\" pie crusts",
+        "Name": "Unroll & bake pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 25.9,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "Name": "Original cinnamon rolls with icing, original",
+        "Name": "Original cinnamon rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Cinnamon jumbos rolls with icing, cinnamon",
+        "Name": "Cinnamon jumbos rolls with icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.1,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Butter flavored flaky crescent rolls, butter",
+        "Name": "Butter flavored flaky crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored jumbos biscuits, buttermilk",
+        "Name": "Buttermilk flavored jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored flaky jumbos biscuits, buttermilk",
+        "Name": "Buttermilk flavored flaky jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Butter flavored flaky jumbos biscuits, butter",
+        "Name": "Butter flavored flaky jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Butter flavored jumbos biscuits, butter",
+        "Name": "Butter flavored jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Homestyle flaky jumbos biscuits, homestyle",
+        "Name": "Homestyle flaky jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored biscuits, buttermilk",
+        "Name": "Buttermilk flavored biscuits",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Homestyle biscuits, homestyle",
+        "Name": "Homestyle biscuits",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Original crescent rolls, original",
+        "Name": "Original crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Cream cheese icing cinnamon rolls, cream cheese icing",
+        "Name": "Cream cheese icing cinnamon rolls",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 13.6,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Pie crust european bakery style dough, pie crust",
+        "Name": "Pie crust european bakery style dough",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Jumbo ready to bake cinnamon rolls, jumbo",
+        "Name": "Jumbo ready to bake cinnamon rolls",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 14.1,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Buttermilk texas style biscuits, buttermilk",
+        "Name": "Buttermilk texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Homestyle texas style biscuits, homestyle",
+        "Name": "Homestyle texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Sugar cookies cookie dough, sugar cookies",
+        "Name": "Sugar cookies cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 17.2,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Graham cracker pie crust, graham cracker",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Butter flavored flaky hearty layers biscuits, butter",
+        "Name": "Butter flavored flaky hearty layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 14.7,
@@ -387,7 +387,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolls with icing, cinnamon",
+        "Name": "Cinnamon rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored flaky hearty layers biscuits, buttermilk",
+        "Name": "Buttermilk flavored flaky hearty layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 14.7,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Orange danish with icing, orange",
+        "Name": "Orange danish with icing",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 16.3,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored texas style biscuits, buttermilk",
+        "Name": "Buttermilk flavored texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "12\"\" homestyle pizza crust, homestyle",
+        "Name": "Homestyle pizza crust",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 3.3,
@@ -459,7 +459,7 @@
         }
     },
     {
-        "Name": "Peanut butter cup cookie dough, peanut butter cup",
+        "Name": "Peanut butter cup cookie dough",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 26.3,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Dessert cauliflower keto crusts pizzas, dessert cauliflower",
+        "Name": "Dessert cauliflower keto crusts pizzas",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.5,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Edible cookie dough with candy sprinkles",
+        "Name": "Edible cookie dough with c&y sprinkles",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 10.3,
@@ -486,7 +486,7 @@
         }
     },
     {
-        "Name": "Butter flavored jumbo biscuits, butter",
+        "Name": "Butter flavored jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "Name": "Broccoli one crust pizza, broccoli",
+        "Name": "Broccoli one crust pizza",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -504,7 +504,7 @@
         }
     },
     {
-        "Name": "Italian spinach keto crusts, italian spinach",
+        "Name": "Italian spinach keto crusts",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 11.5,
@@ -513,7 +513,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough edible cookies, chocolate chip",
+        "Name": "Chocolate chip cookie dough edible cookies",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 25.9,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "Name": "Sugar break'n bake cookie dough, sugar",
+        "Name": "Sugar break& bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -531,7 +531,7 @@
         }
     },
     {
-        "Name": "Flaky butter crescent rolls, flaky butter",
+        "Name": "Flaky butter crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -540,7 +540,7 @@
         }
     },
     {
-        "Name": "Big n' flaky crescent rolls, big n' flaky",
+        "Name": "Big n flaky crescent rolls",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -549,7 +549,7 @@
         }
     },
     {
-        "Name": "Cauliflower pizza crust, cauliflower",
+        "Name": "Cauliflower pizza crust",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 6.4,
@@ -558,7 +558,7 @@
         }
     },
     {
-        "Name": "Chocolate chip gourmet edible cookie dough, chocolate chip",
+        "Name": "Chocolate chip gourmet edible cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 12.0,
@@ -585,7 +585,7 @@
         }
     },
     {
-        "Name": "Mint brownie batter chilled gourmet edible cookie dough bar, mint brownie batter",
+        "Name": "Mint brownie batter chilled gourmet edible cookie dough bar",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 15.6,
@@ -594,7 +594,7 @@
         }
     },
     {
-        "Name": "Butter flavored flaky jumbo biscuits, butter",
+        "Name": "Butter flavored flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -603,7 +603,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored flaky jumbo biscuits, buttermilk",
+        "Name": "Buttermilk flavored flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -612,7 +612,7 @@
         }
     },
     {
-        "Name": "Cinnamon jumbo rolls with icing, cinnamon",
+        "Name": "Cinnamon jumbo rolls with icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.1,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored jumbo biscuits, buttermilk",
+        "Name": "Buttermilk flavored jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -639,7 +639,7 @@
         }
     },
     {
-        "Name": "Confetti cake gourmet edible cookie dough, confetti cake",
+        "Name": "Confetti cake gourmet edible cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 10.0,
@@ -657,7 +657,7 @@
         }
     },
     {
-        "Name": "Homestyle flaky jumbo biscuits, homestyle",
+        "Name": "Homestyle flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -675,7 +675,7 @@
         }
     },
     {
-        "Name": "Rustic white thin & crispy pizza crusts, rustic white",
+        "Name": "Rustic white thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 4.3,
@@ -684,7 +684,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough keto bites, chocolate chip cookie dough",
+        "Name": "Chocolate chip cookie dough keto bites",
         "Nutrients": {
             "Protein": 24.0,
             "Fat": 32.0,
@@ -711,7 +711,7 @@
         }
     },
     {
-        "Name": "24/7 chocolate edible cookie dough, 24/7 chocolate",
+        "Name": "Chocolate edible cookie dough",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 21.9,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "Name": "Edible triple chocolate cookie dough with milk & dark chocolate chips, triple chocolate cookie dough",
+        "Name": "Edible triple chocolate cookie dough with milk & dark chocolate chips",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 25.9,
@@ -729,7 +729,7 @@
         }
     },
     {
-        "Name": "Cauliflower keto crusts, cauliflower",
+        "Name": "Cauliflower keto crusts",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.5,
@@ -738,7 +738,7 @@
         }
     },
     {
-        "Name": "Butter flavored crescent rolls, butter",
+        "Name": "Butter flavored crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -747,7 +747,7 @@
         }
     },
     {
-        "Name": "Chocolate cookie dough with chocolate morsels, chocolate",
+        "Name": "Chocolate cookie dough with chocolate morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -756,7 +756,7 @@
         }
     },
     {
-        "Name": "Organic thin & crispy personal pizza crusts, thin & crispy",
+        "Name": "Organic thin & crispy personal pizza crusts",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 6.3,
@@ -765,7 +765,7 @@
         }
     },
     {
-        "Name": "Cookie dough birthday cake, cookie dough",
+        "Name": "Cookie dough birthday cake",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 26.6,
@@ -783,7 +783,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough break 'n bake cookies, chocolate chip",
+        "Name": "Chocolate chip cookie dough break & bake cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -846,7 +846,7 @@
         }
     },
     {
-        "Name": "Great value, graham 9'' pie crust",
+        "Name": "Great value, graham pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -918,7 +918,7 @@
         }
     },
     {
-        "Name": "Food club, chocolate chip cookie dough, break'n bake style",
+        "Name": "Food club, chocolate chip cookie dough, break& bake style",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "Name": "Mama mary's, 2 pizza crusts, original",
+        "Name": "Mama marys, pizza crusts, original",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.8,
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "Name": "Chompie's bakery, new york style pizza crust, whole wheat",
+        "Name": "Chompies bakery, new york style pizza crust, whole wheat",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 3.0,
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "Name": "Shoprite, soft 'n chewy chocolate chip cookie dough",
+        "Name": "Shoprite, soft & chewy chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "Name": "Shoprite, chocolate chip cookies, break 'n bake style cookies",
+        "Name": "Shoprite, chocolate chip cookies, break & bake style cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "Name": "Marzipan almonds candy dough",
+        "Name": "Marzipan almonds c&y dough",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 15.4,
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "Name": "Break 'n bake cookie dough",
+        "Name": "Break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "Name": "Mama mary's, thin & crispy pizza crusts",
+        "Name": "Mama marys, thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.1,
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "Name": "Primal palate's, cappello's, chocolate chip cookie dough",
+        "Name": "Primal palates, cappellos, chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 34.6,
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "Name": "Janie's cookie co., macadamia nut white chocolate chip cookie dough",
+        "Name": "Janies cookie co., macadamia nut white chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 25.0,
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "Name": "Savory foods, cookie-licious collection, candy cookie dough, scoop & bake",
+        "Name": "Savory foods, cookie-licious collection, c&y cookie dough, scoop & bake",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "Name": "Janie's cookie co., oatmeal raisin cookie dough",
+        "Name": "Janies cookie co., oatmeal raisin cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 14.3,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "Three ladies brand, rice paper",
+        "Name": "Three ladies br&, rice paper",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "Name": "Kroger, unroll and bake pie crusts",
+        "Name": "Kroger, unroll & bake pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 25.9,
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "Name": "Mandarin, gyoza wraps",
+        "Name": "M&arin, gyoza wraps",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 0.0,
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, oatmeal cranberry walnut",
+        "Name": "Spartan, break& bake cookie dough, oatmeal cranberry walnut",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "Name": "Break'n bake cookie dough",
+        "Name": "Break& bake cookie dough",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 21.1,
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "Name": "The cookie dough cafe', gourmet edible cookie dough",
+        "Name": "The cookie dough cafe, gourmet edible cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "Name": "Kroger, slice'n bake chocolate chip cookie dough",
+        "Name": "Kroger, slice& bake chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "Break 'n bake chocolate chip cookie dough",
+        "Name": "Break & bake chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "Name": "Companion, cha'i-pow-yu",
+        "Name": "Companion, chai-pow-yu",
         "Nutrients": {
             "Protein": 15.3,
             "Fat": 20.0,
@@ -2196,7 +2196,7 @@
         }
     },
     {
-        "Name": "Schnucks, break 'n bake sugar cookie dough",
+        "Name": "Schnucks, break & bake sugar cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "Name": "Roundy's, cookie dough, chocolate chunk",
+        "Name": "Roundys, cookie dough, chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, red velvet",
+        "Name": "Spartan, break& bake cookie dough, red velvet",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "Name": "Angela marie's, incredible edible cowboy cookie dough",
+        "Name": "Angela maries, incredible edible cowboy cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 17.5,
@@ -2313,7 +2313,7 @@
         }
     },
     {
-        "Name": "Break 'n bake cookie dough with red and green tree sprinkles",
+        "Name": "Break & bake cookie dough with red & green tree sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -2376,7 +2376,7 @@
         }
     },
     {
-        "Name": "Roundy's, break & bake chocolate chip cookie dough",
+        "Name": "Roundys, break & bake chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "Name": "Roundy's, gourmet red velvet cookie dough",
+        "Name": "Roundys, gourmet red velvet cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "Name": "Ahold, indulge in ready to eat snickerdoodle cookie dough, vanilla and cinnamon",
+        "Name": "Ahold, indulge in ready to eat snickerdoodle cookie dough, vanilla & cinnamon",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 15.8,
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "Name": "Roundy's, gourmet turtle cookie dough",
+        "Name": "Roundys, gourmet turtle cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2502,7 +2502,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, salted chocolate caramel",
+        "Name": "Spartan, break& bake cookie dough, salted chocolate caramel",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -2511,7 +2511,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake, cookie dough, deluxe chocolate chunk",
+        "Name": "Spartan, break& bake, cookie dough, deluxe chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2529,7 +2529,7 @@
         }
     },
     {
-        "Name": "Lofthouse, chips'n stars cookie dough, chocolate chip",
+        "Name": "Lofthouse, chips& stars cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "Name": "Roundy's, gourmet molasses crinkle cookie dough",
+        "Name": "Roundys, gourmet molasses crinkle cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 11.8,
@@ -2637,7 +2637,7 @@
         }
     },
     {
-        "Name": "Sweet loren's, place & bake cookie dough, oatmeal & cranberry",
+        "Name": "Sweet lorens, place & bake cookie dough, oatmeal & cranberry",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "Name": "Essential everyday, break and bake sugar cookie dough with red and green tree sprinkles",
+        "Name": "Essential everyday, break & bake sugar cookie dough with red & green tree sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -2781,7 +2781,7 @@
         }
     },
     {
-        "Name": "Giant, break 'n bake cookie dough, oatmeal, cranberry, walnut",
+        "Name": "Giant, break & bake cookie dough, oatmeal, cranberry, walnut",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -2844,7 +2844,7 @@
         }
     },
     {
-        "Name": "Roundy's, green-n-gold cookie dough, sugar",
+        "Name": "Roundys, green-n-gold cookie dough, sugar",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -2943,7 +2943,7 @@
         }
     },
     {
-        "Name": "2 regular shells pie crusts",
+        "Name": "Regular shells pie crusts",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 22.2,
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "Name": "Kim & jake's, cookie dough, chocolate, cherry, pecan",
+        "Name": "Kim & jakes, cookie dough, chocolate, cherry, pecan",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 34.3,
@@ -3096,7 +3096,7 @@
         }
     },
     {
-        "Name": "Kim & jake's, cookie dough, chocolate chip",
+        "Name": "Kim & jakes, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 34.3,
@@ -3105,7 +3105,7 @@
         }
     },
     {
-        "Name": "Kim & jake's, cookie dough",
+        "Name": "Kim & jakes, cookie dough",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 40.0,
@@ -3168,7 +3168,7 @@
         }
     },
     {
-        "Name": "Sandwich crescent",
+        "Name": "S&wich crescent",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 21.2,
@@ -3240,7 +3240,7 @@
         }
     },
     {
-        "Name": "Enriched brown'n' serve rolls",
+        "Name": "Enriched brown& serve rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 1.8,
@@ -3285,7 +3285,7 @@
         }
     },
     {
-        "Name": "Turtle jumbo sweet rolls, with caramel flavored drizzle, chocolate chips and pecan pieces",
+        "Name": "Turtle jumbo sweet rolls, with caramel flavored drizzle, chocolate chips & pecan pieces",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 13.3,
@@ -3294,7 +3294,7 @@
         }
     },
     {
-        "Name": "Brown 'n serve enriched dinner rolls",
+        "Name": "Brown & serve enriched dinner rolls",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 7.7,
@@ -3402,7 +3402,7 @@
         }
     },
     {
-        "Name": "Break n' bake cookie dough",
+        "Name": "Break n bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "Name": "Break n' bake sugar cookie dough",
+        "Name": "Break n bake sugar cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -3555,7 +3555,7 @@
         }
     },
     {
-        "Name": "Brown 'n' serve rolls",
+        "Name": "Brown & serve rolls",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 3.2,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Grands juniors flaky layers",
+        "Name": "Gr&s juniors flaky layers",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -3690,7 +3690,7 @@
         }
     },
     {
-        "Name": "Grands homestyle, reduced fat golden wheat, 8 big biscuits",
+        "Name": "Gr&s homestyle, reduced fat golden wheat, big biscuits",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 7.4,
@@ -3834,7 +3834,7 @@
         }
     },
     {
-        "Name": "Nestle's, toll house, cookie dough, walnut chocolate chip",
+        "Name": "Nestles, toll house, cookie dough, walnut chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -3987,7 +3987,7 @@
         }
     },
     {
-        "Name": "Break n' bake deluxe chocolate chunk cookie dough",
+        "Name": "Break n bake deluxe chocolate chunk cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -4050,7 +4050,7 @@
         }
     },
     {
-        "Name": "2 deep dish pie crusts",
+        "Name": "Deep dish pie crusts",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -4122,7 +4122,7 @@
         }
     },
     {
-        "Name": "Grands! juniors flaky layers",
+        "Name": "Gr&s! juniors flaky layers",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -4167,7 +4167,7 @@
         }
     },
     {
-        "Name": "Jumbo 8 biscuits",
+        "Name": "Jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -4176,7 +4176,7 @@
         }
     },
     {
-        "Name": "10 biscuits",
+        "Name": "Biscuits",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -4275,7 +4275,7 @@
         }
     },
     {
-        "Name": "Brown'n serve dinner rolls",
+        "Name": "Brown& serve dinner rolls",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.9,
@@ -4284,7 +4284,7 @@
         }
     },
     {
-        "Name": "Wheat brown n' serve rolls",
+        "Name": "Wheat brown n serve rolls",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 4.5,
@@ -4419,7 +4419,7 @@
         }
     },
     {
-        "Name": "Fresh  pizza cookie",
+        "Name": "Fresh pizza cookie",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 25.0,
@@ -4545,7 +4545,7 @@
         }
     },
     {
-        "Name": "Cookie dough with semi-sweet chocolate chips and pecans",
+        "Name": "Cookie dough with semi-sweet chocolate chips & pecans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -4617,7 +4617,7 @@
         }
     },
     {
-        "Name": "Heartland, granola pie crust",
+        "Name": "Heartl&, granola pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -4644,7 +4644,7 @@
         }
     },
     {
-        "Name": "Graham cracker 9\" pie crust",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -4869,7 +4869,7 @@
         }
     },
     {
-        "Name": "9\" pie crusts unroll & bake",
+        "Name": "Pie crusts unroll & bake",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 25.9,
@@ -4887,7 +4887,7 @@
         }
     },
     {
-        "Name": "Joel's outrageous, cookie dough, butter",
+        "Name": "Joels outrageous, cookie dough, butter",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 18.2,
@@ -4950,7 +4950,7 @@
         }
     },
     {
-        "Name": "The cookie dough cafe', eat it! don't bake it!, cookie dough, chocolate chip",
+        "Name": "The cookie dough cafe, eat it! dont bake it!, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 12.0,
@@ -4959,7 +4959,7 @@
         }
     },
     {
-        "Name": "Deep dish 2 pie crusts",
+        "Name": "Deep dish pie crusts",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -5031,7 +5031,7 @@
         }
     },
     {
-        "Name": "Premium sugar cookie dough, sugar cookie",
+        "Name": "Premium sugar cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -5067,7 +5067,7 @@
         }
     },
     {
-        "Name": "Roundy's, sugar cookie dough",
+        "Name": "Roundys, sugar cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 17.2,
@@ -5103,7 +5103,7 @@
         }
     },
     {
-        "Name": "S'mores rolls with marshmallow icing",
+        "Name": "Smores rolls with marshmallow icing",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 7.1,
@@ -5229,7 +5229,7 @@
         }
     },
     {
-        "Name": "Chocolate chip candie melts cookie dough gourmet cookies",
+        "Name": "Chocolate chip c&ie melts cookie dough gourmet cookies",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 21.7,
@@ -5292,7 +5292,7 @@
         }
     },
     {
-        "Name": "Break'n bake style mini chocolate chip cookie dough",
+        "Name": "Break& bake style mini chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 20.6,
@@ -5373,7 +5373,7 @@
         }
     },
     {
-        "Name": "Buttermilk super size jumbos biscuits, buttermilk",
+        "Name": "Buttermilk super size jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -5382,7 +5382,7 @@
         }
     },
     {
-        "Name": "10\" graham pie crust",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -5391,7 +5391,7 @@
         }
     },
     {
-        "Name": "9\" graham pie crust",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -5400,7 +5400,7 @@
         }
     },
     {
-        "Name": "Ready-to-eat graham cracker pie crust, graham cracker",
+        "Name": "Ready-to-eat graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -5445,7 +5445,7 @@
         }
     },
     {
-        "Name": "Turtle's dough cookie dough",
+        "Name": "Turtles dough cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 25.0,
@@ -5526,7 +5526,7 @@
         }
     },
     {
-        "Name": "Graham 10\" pie crust",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -5580,7 +5580,7 @@
         }
     },
     {
-        "Name": "Buttermilk biscuits, buttermilk",
+        "Name": "Buttermilk biscuits",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -5589,7 +5589,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolls with cream cheese icing, cinnamon",
+        "Name": "Cinnamon rolls with cream cheese icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 13.6,
@@ -5607,7 +5607,7 @@
         }
     },
     {
-        "Name": "Orange rolls with cream cheese frosting, orange",
+        "Name": "Orange rolls with cream cheese frosting",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 8.2,
@@ -5634,7 +5634,7 @@
         }
     },
     {
-        "Name": "Big & flaky crescent rolls, big & flaky",
+        "Name": "Big & flaky crescent rolls",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 16.3,
@@ -5643,7 +5643,7 @@
         }
     },
     {
-        "Name": "Big & buttery crescent rolls, big & buttery",
+        "Name": "Big & buttery crescent rolls",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 18.6,
@@ -5652,7 +5652,7 @@
         }
     },
     {
-        "Name": "Jumbo cinnamon rolls with icing, cinnamon",
+        "Name": "Jumbo cinnamon rolls with icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.1,
@@ -5661,7 +5661,7 @@
         }
     },
     {
-        "Name": "Honey butter flaky jumbo biscuits, honey butter",
+        "Name": "Honey butter flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -5670,7 +5670,7 @@
         }
     },
     {
-        "Name": "Buttermilk jumbo biscuits, buttermilk",
+        "Name": "Buttermilk jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -5679,7 +5679,7 @@
         }
     },
     {
-        "Name": "Buttermilk flaky jumbo biscuits, buttermilk",
+        "Name": "Buttermilk flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -5688,7 +5688,7 @@
         }
     },
     {
-        "Name": "Meijer, jumbo flaky biscuits, butter, butter",
+        "Name": "Meijer, jumbo flaky biscuits, butter",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -5706,7 +5706,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough made with almond flour, chocolate chip",
+        "Name": "Chocolate chip cookie dough made with almond flour",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 34.6,
@@ -5715,7 +5715,7 @@
         }
     },
     {
-        "Name": "Traditional pizza dough, traditional",
+        "Name": "Traditional pizza dough",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 0.4,
@@ -5724,7 +5724,7 @@
         }
     },
     {
-        "Name": "9\" graham cracker pie crust",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -5733,7 +5733,7 @@
         }
     },
     {
-        "Name": "Chocolate chip break 'n bake cookie dough, chocolate chip",
+        "Name": "Chocolate chip break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -5805,7 +5805,7 @@
         }
     },
     {
-        "Name": "Sugar ready to bake cookie dough, sugar",
+        "Name": "Sugar ready to bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -5814,7 +5814,7 @@
         }
     },
     {
-        "Name": "Classic ready to bake pizza crust, classic",
+        "Name": "Classic ready to bake pizza crust",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -5850,7 +5850,7 @@
         }
     },
     {
-        "Name": "Chocolate cookie pie crust, chocolate cookie",
+        "Name": "Chocolate cookie pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 21.4,
@@ -5886,7 +5886,7 @@
         }
     },
     {
-        "Name": "Original big & flaky crescent rolls, original",
+        "Name": "Original big & flaky crescent rolls",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 16.3,
@@ -5904,7 +5904,7 @@
         }
     },
     {
-        "Name": "Cookie dough nutrition bar, cookie dough",
+        "Name": "Cookie dough nutrition bar",
         "Nutrients": {
             "Protein": 30.0,
             "Fat": 14.0,
@@ -5913,7 +5913,7 @@
         }
     },
     {
-        "Name": "Toll house, chocolate chip cookie dough, chocolate chip, chocolate chip",
+        "Name": "Toll house, chocolate chip cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 19.6,
@@ -5922,7 +5922,7 @@
         }
     },
     {
-        "Name": "Holiday chocolate chip cookie dough with red & green colored morsels, chocolate chip cookie dough",
+        "Name": "Holiday chocolate chip cookie dough with red & green colored morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -5931,7 +5931,7 @@
         }
     },
     {
-        "Name": "White chip lemon cookie dough, white chip lemon",
+        "Name": "White chip lemon cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -5949,7 +5949,7 @@
         }
     },
     {
-        "Name": "Sugar raw cookie dough, sugar",
+        "Name": "Sugar raw cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -5967,7 +5967,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice cookie dough, pumpkin spice",
+        "Name": "Pumpkin spice cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6021,7 +6021,7 @@
         }
     },
     {
-        "Name": "Butter flaky jumbo biscuits, butter",
+        "Name": "Butter flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -6057,7 +6057,7 @@
         }
     },
     {
-        "Name": "Oatmeal raisin cookie dough, oatmeal raisin",
+        "Name": "Oatmeal raisin cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -6075,7 +6075,7 @@
         }
     },
     {
-        "Name": "Nestle, toll house, chocolate chips & chocolate chunks, chocolate chip lovers, chocolate chip lovers",
+        "Name": "Nestle, toll house, chocolate chips & chocolate chunks, chocolate chip lovers",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6084,7 +6084,7 @@
         }
     },
     {
-        "Name": "Peanut butter chip cookie dough, peanut butter chip",
+        "Name": "Peanut butter chip cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -6093,7 +6093,7 @@
         }
     },
     {
-        "Name": "Peanut butter chocolate chip cookie dough, peanut butter chocolate chip",
+        "Name": "Peanut butter chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6138,7 +6138,7 @@
         }
     },
     {
-        "Name": "Deep dish pie crusts, deep dish",
+        "Name": "Deep dish pie crusts",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -6147,7 +6147,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough - 12 oz, chocolate chip off the ol' block",
+        "Name": "Chocolate chip cookie dough - , chocolate chip off the ol block",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 19.3,
@@ -6156,7 +6156,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough - 3.5oz, chocolate chip off the ol' block",
+        "Name": "Chocolate chip cookie dough - chocolate chip off the ol block",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 20.2,
@@ -6165,7 +6165,7 @@
         }
     },
     {
-        "Name": "Birthday bash cookie dough - 3.5 oz, birthday bash",
+        "Name": "Birthday bash cookie dough -",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 18.2,
@@ -6183,7 +6183,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolls with icing jumbos, cinnamon",
+        "Name": "Cinnamon rolls with icing jumbos",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.1,
@@ -6192,7 +6192,7 @@
         }
     },
     {
-        "Name": "White chocolate macadamia nut premium cookie dough, white chocolate macadamia nut",
+        "Name": "White chocolate macadamia nut premium cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6201,7 +6201,7 @@
         }
     },
     {
-        "Name": "Semi-sweet chocolate premium cookie dough, semi-sweet chocolate",
+        "Name": "Semi-sweet chocolate premium cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6219,7 +6219,7 @@
         }
     },
     {
-        "Name": "Flaky butter crescent rolls, flaky",
+        "Name": "Flaky butter crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -6228,7 +6228,7 @@
         }
     },
     {
-        "Name": "Buttermilk jumbos biscuits, buttermilk",
+        "Name": "Buttermilk jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -6246,7 +6246,7 @@
         }
     },
     {
-        "Name": "Butter flaky jumbos biscuits, butter",
+        "Name": "Butter flaky jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -6264,7 +6264,7 @@
         }
     },
     {
-        "Name": "S'mores rolls",
+        "Name": "Smores rolls",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 7.1,
@@ -6273,7 +6273,7 @@
         }
     },
     {
-        "Name": "Chocolate peanut butter cookie dough, chocolate peanut butter",
+        "Name": "Chocolate peanut butter cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -6282,7 +6282,7 @@
         }
     },
     {
-        "Name": "Spicy jalapeno cauliflower pizza crusts, spicy jalapeno",
+        "Name": "Spicy jalapeno cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 13.0,
@@ -6291,7 +6291,7 @@
         }
     },
     {
-        "Name": "Italian plant based cauliflower pizza crusts, italian",
+        "Name": "Italian plant based cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 21.7,
@@ -6300,7 +6300,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon jumbo sweet rolls, apple cinnamon",
+        "Name": "Apple cinnamon jumbo sweet rolls",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.6,
@@ -6318,7 +6318,7 @@
         }
     },
     {
-        "Name": "Chocolate chip mini break'n bake style cookie dough, chocolate chip",
+        "Name": "Chocolate chip mini break& bake style cookie dough",
         "Nutrients": {
             "Protein": 2.9,
             "Fat": 20.6,
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "Name": "Reduced fat cinnamon rolls with icing, cinnamon",
+        "Name": "Reduced fat cinnamon rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 8.0,
@@ -6336,7 +6336,7 @@
         }
     },
     {
-        "Name": "Deluxe jumbo cinnamon rolls with buttercream icing, cinnamon",
+        "Name": "Deluxe jumbo cinnamon rolls with buttercream icing",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 14.7,
@@ -6354,7 +6354,7 @@
         }
     },
     {
-        "Name": "Oatmeal cranberry place & bake cookie dough, oatmeal cranberry",
+        "Name": "Oatmeal cranberry place & bake cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.5,
@@ -6363,7 +6363,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk edible cookie dough, chocolate chunk",
+        "Name": "Chocolate chunk edible cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6372,7 +6372,7 @@
         }
     },
     {
-        "Name": "Thin wheat pizza crust, wheat",
+        "Name": "Thin wheat pizza crust",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 5.0,
@@ -6381,7 +6381,7 @@
         }
     },
     {
-        "Name": "Butter flavored texas style biscuits, butter",
+        "Name": "Butter flavored texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 11.8,
@@ -6390,7 +6390,7 @@
         }
     },
     {
-        "Name": "9-inch graham cracker pie crust, graham cracker",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -6399,7 +6399,7 @@
         }
     },
     {
-        "Name": "Rainbow chip premium cookie dough, rainbow chip",
+        "Name": "Rainbow chip premium cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "Name": "European bakery style dough dutch apple pie crust, european bakery style",
+        "Name": "European bakery style dough dutch apple pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -6417,7 +6417,7 @@
         }
     },
     {
-        "Name": "Fudgy brownie place & bake cookie dough, fudgy brownie",
+        "Name": "Fudgy brownie place & bake cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -6426,7 +6426,7 @@
         }
     },
     {
-        "Name": "Sugar cookie place & bake cookie dough, sugar cookie",
+        "Name": "Sugar cookie place & bake cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk place & bake cookie dough, chocolate chunk",
+        "Name": "Chocolate chunk place & bake cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6444,7 +6444,7 @@
         }
     },
     {
-        "Name": "Buttermilk ready to bake jumbo biscuits, buttermilk",
+        "Name": "Buttermilk ready to bake jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -6453,7 +6453,7 @@
         }
     },
     {
-        "Name": "Original ready to bake cinnamon rolls, original",
+        "Name": "Original ready to bake cinnamon rolls",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 13.6,
@@ -6462,7 +6462,7 @@
         }
     },
     {
-        "Name": "Orange ready to bake cinnamon rolls, orange",
+        "Name": "Orange ready to bake cinnamon rolls",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 13.6,
@@ -6471,7 +6471,7 @@
         }
     },
     {
-        "Name": "Chocolate chip ready to bake cookie dough, chocolate chip",
+        "Name": "Chocolate chip ready to bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -6480,7 +6480,7 @@
         }
     },
     {
-        "Name": "Big & flaky ready to bake crescent rolls, big & flaky",
+        "Name": "Big & flaky ready to bake crescent rolls",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -6489,7 +6489,7 @@
         }
     },
     {
-        "Name": "Homestyle buttermilk jumbo biscuits, buttermilk",
+        "Name": "Homestyle buttermilk jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -6498,7 +6498,7 @@
         }
     },
     {
-        "Name": "Big & buttery ready to bake crescent rolls, big & buttery",
+        "Name": "Big & buttery ready to bake crescent rolls",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -6507,7 +6507,7 @@
         }
     },
     {
-        "Name": "Butter ready to bake jumbo biscuits, butter",
+        "Name": "Butter ready to bake jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -6516,7 +6516,7 @@
         }
     },
     {
-        "Name": "Original ready to bake crescent rolls, original",
+        "Name": "Original ready to bake crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -6543,7 +6543,7 @@
         }
     },
     {
-        "Name": "Crescent dinner rolls, crescent",
+        "Name": "Crescent dinner rolls",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6561,7 +6561,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough rounds, chocolate chip",
+        "Name": "Chocolate chip cookie dough rounds",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6570,7 +6570,7 @@
         }
     },
     {
-        "Name": "Oatmeal raisin cookie dough rounds, oatmeal raisin",
+        "Name": "Oatmeal raisin cookie dough rounds",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -6579,7 +6579,7 @@
         }
     },
     {
-        "Name": "Chocolate decadence cookie dough rounds, chocolate decadence",
+        "Name": "Chocolate decadence cookie dough rounds",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6588,7 +6588,7 @@
         }
     },
     {
-        "Name": "Paleo cauliflower pizza crust, cauliflower",
+        "Name": "Paleo cauliflower pizza crust",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 17.5,
@@ -6597,7 +6597,7 @@
         }
     },
     {
-        "Name": "Sweet red pepper cauliflower pizza crusts, sweet red pepper",
+        "Name": "Sweet red pepper cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 13.0,
@@ -6606,7 +6606,7 @@
         }
     },
     {
-        "Name": "Plain crust cauliflower pizza crusts, plain crust",
+        "Name": "Plain crust cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 13.0,
@@ -6615,7 +6615,7 @@
         }
     },
     {
-        "Name": "Spicy jalapeno plant based cauliflower pizza crusts, spicy jalapeno",
+        "Name": "Spicy jalapeno plant based cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 21.7,
@@ -6624,7 +6624,7 @@
         }
     },
     {
-        "Name": "The original italian cauliflower pizza crusts, the original italian",
+        "Name": "The original italian cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 17.4,
             "Fat": 13.0,
@@ -6633,7 +6633,7 @@
         }
     },
     {
-        "Name": "Flaky texas style biscuits, flaky",
+        "Name": "Flaky texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 14.7,
@@ -6642,7 +6642,7 @@
         }
     },
     {
-        "Name": "Butter me-not biscuits, butter me-not",
+        "Name": "Butter me-not biscuits",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 16.7,
@@ -6651,7 +6651,7 @@
         }
     },
     {
-        "Name": "Turtle with caramel flavored drizzle, chocolate chips & pecan pieces jumbo sweet rolls, turtle",
+        "Name": "Turtle with caramel flavored drizzle, chocolate chips & pecan pieces jumbo sweet rolls",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 13.3,
@@ -6660,7 +6660,7 @@
         }
     },
     {
-        "Name": "Jumbo cinnamon rolls with icing, jumbo",
+        "Name": "Jumbo cinnamon rolls with icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 10.1,
@@ -6669,7 +6669,7 @@
         }
     },
     {
-        "Name": "Texas style, homestyle biscuits, homestyle",
+        "Name": "Texas style, homestyle biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -6678,7 +6678,7 @@
         }
     },
     {
-        "Name": "Sugar cookies dough, sugar",
+        "Name": "Sugar cookies dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 17.2,
@@ -6705,7 +6705,7 @@
         }
     },
     {
-        "Name": "Light & flaky pie crust dough, light & flaky",
+        "Name": "Light & flaky pie crust dough",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 33.3,
@@ -6714,7 +6714,7 @@
         }
     },
     {
-        "Name": "Cookies n' dream cookie dough - 12oz, cookies n' dream",
+        "Name": "Cookies n dream cookie dough - cookies n dream",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 19.3,
@@ -6723,7 +6723,7 @@
         }
     },
     {
-        "Name": "Birthday bash cookie dough - 12 oz, birthday bash",
+        "Name": "Birthday bash cookie dough -",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 17.5,
@@ -6741,7 +6741,7 @@
         }
     },
     {
-        "Name": "Buttermilk jumbo flaky biscuits, buttermilk",
+        "Name": "Buttermilk jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -6750,7 +6750,7 @@
         }
     },
     {
-        "Name": "Honey butter jumbo flaky layered biscuits, honey butter",
+        "Name": "Honey butter jumbo flaky layered biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -6759,7 +6759,7 @@
         }
     },
     {
-        "Name": "Homestyle jumbo flaky biscuits, homestyle",
+        "Name": "Homestyle jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -6768,7 +6768,7 @@
         }
     },
     {
-        "Name": "Butter jumbo biscuits, butter",
+        "Name": "Butter jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -6777,7 +6777,7 @@
         }
     },
     {
-        "Name": "Easter chocolate chip cookie dough with pastel egg sprinkles, easter chocolate chip",
+        "Name": "Easter chocolate chip cookie dough with pastel egg sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6795,7 +6795,7 @@
         }
     },
     {
-        "Name": "Texas style, buttermilk biscuits, buttermilk",
+        "Name": "Texas style, buttermilk biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -6804,7 +6804,7 @@
         }
     },
     {
-        "Name": "Chocolate chip raw cookie dough, chocolate chip",
+        "Name": "Chocolate chip raw cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -6840,7 +6840,7 @@
         }
     },
     {
-        "Name": "Peanut butter cookie dough, peanut butter",
+        "Name": "Peanut butter cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.6,
@@ -6849,7 +6849,7 @@
         }
     },
     {
-        "Name": "Cookie dough peanut butter, peanut butter",
+        "Name": "Cookie dough peanut butter",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.7,
@@ -6867,7 +6867,7 @@
         }
     },
     {
-        "Name": "Chocolate chip sweet biscuits with icing, chocolate chip",
+        "Name": "Chocolate chip sweet biscuits with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 9.1,
@@ -6876,7 +6876,7 @@
         }
     },
     {
-        "Name": "Blueberry sweet biscuits with icing, blueberry",
+        "Name": "Blueberry sweet biscuits with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 8.0,
@@ -6885,7 +6885,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough with red & pink heart sprinkles, chocolate chip",
+        "Name": "Chocolate chip cookie dough with red & pink heart sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -6894,7 +6894,7 @@
         }
     },
     {
-        "Name": "Buttermilk flaky layers biscuits, buttermilk",
+        "Name": "Buttermilk flaky layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -6921,7 +6921,7 @@
         }
     },
     {
-        "Name": "Peanut butter chocolate chip monster edible cookie dough, peanut butter chocolate chip monster",
+        "Name": "Peanut butter chocolate chip monster edible cookie dough",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 14.3,
@@ -6930,7 +6930,7 @@
         }
     },
     {
-        "Name": "Chocolate chip edible cookie dough, chocolate chip",
+        "Name": "Chocolate chip edible cookie dough",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 11.8,
@@ -6939,7 +6939,7 @@
         }
     },
     {
-        "Name": "Milk chocolate candies cookie dough, milk chocolate candies",
+        "Name": "Milk chocolate c&ies cookie dough",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 20.0,
@@ -6957,7 +6957,7 @@
         }
     },
     {
-        "Name": "Flaky layers biscuits, butter tastin'",
+        "Name": "Flaky layers biscuits, butter tastin",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -6966,7 +6966,7 @@
         }
     },
     {
-        "Name": "Jalapeno pizza crusts, jalapeno",
+        "Name": "Jalapeno pizza crusts",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.4,
@@ -6975,7 +6975,7 @@
         }
     },
     {
-        "Name": "100% clean chocolate organic dough, chocolate",
+        "Name": "100% clean chocolate organic dough",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 8.2,
@@ -7002,7 +7002,7 @@
         }
     },
     {
-        "Name": "Chocolate chip shape and bake cookie dough",
+        "Name": "Chocolate chip shape & bake cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "Name": "Reduced fat flaky crescent rolls, flaky",
+        "Name": "Reduced fat flaky crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.7,
@@ -7056,7 +7056,7 @@
         }
     },
     {
-        "Name": "Sugar slice and bake cookie dough",
+        "Name": "Sugar slice & bake cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -7065,7 +7065,7 @@
         }
     },
     {
-        "Name": "Chocolate chips with semi-sweet chocolate chips and milk chocolate chunks cookie dough, semi-sweet chocolate chips and milk chocolate chunks",
+        "Name": "Chocolate chips with semi-sweet chocolate chips & milk chocolate chunks cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -7074,7 +7074,7 @@
         }
     },
     {
-        "Name": "12\" homestyle pizza crust, homestyle",
+        "Name": "Homestyle pizza crust",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 3.3,
@@ -7083,7 +7083,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough with colorful leaf sprinkles, chocolate chip",
+        "Name": "Chocolate chip cookie dough with colorful leaf sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -7092,7 +7092,7 @@
         }
     },
     {
-        "Name": "Chocolate chip non-dairy cookie dough, chocolate chip",
+        "Name": "Chocolate chip non-dairy cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 20.2,
@@ -7101,7 +7101,7 @@
         }
     },
     {
-        "Name": "Fire roasted bake and serve flatbread, fire roasted",
+        "Name": "Fire roasted bake & serve flatbread",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 5.9,
@@ -7110,7 +7110,7 @@
         }
     },
     {
-        "Name": "2 thin, crispy cauliflower pizza crusts, cauliflower",
+        "Name": "Thin, crispy cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -7119,7 +7119,7 @@
         }
     },
     {
-        "Name": "Gooey butter edible cookie dough, gooey butter",
+        "Name": "Gooey butter edible cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "Name": "Jumbo cinnamon rolls with cream cheese icing, cream cheese icing",
+        "Name": "Jumbo cinnamon rolls with cream cheese icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 11.1,
@@ -7137,7 +7137,7 @@
         }
     },
     {
-        "Name": "Birthday cake edible cookie dough, birthday cake",
+        "Name": "Birthday cake edible cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -7146,7 +7146,7 @@
         }
     },
     {
-        "Name": "Milk n' cookies cookie dough, milk n' cookies",
+        "Name": "Milk n cookies cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 21.2,
@@ -7155,7 +7155,7 @@
         }
     },
     {
-        "Name": "Country style biscuits, country style",
+        "Name": "Country style biscuits",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 14.7,
@@ -7164,7 +7164,7 @@
         }
     },
     {
-        "Name": "White whole wheat pizza dough, white whole wheat",
+        "Name": "White whole wheat pizza dough",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 2.6,
@@ -7173,7 +7173,7 @@
         }
     },
     {
-        "Name": "Milk chocolate ghoul's mix sugar cookie dough topped with halloween sprinkles, milk chocolate",
+        "Name": "Milk chocolate ghouls mix sugar cookie dough topped with halloween sprinkles",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 15.0,
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "Name": "Buttery super size jumbos biscuits, buttery",
+        "Name": "Buttery super size jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -7200,7 +7200,7 @@
         }
     },
     {
-        "Name": "Oven fried stone baked original pizza crusts, oven fried, original",
+        "Name": "Oven fried stone baked original pizza crusts, oven fried",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 5.6,
@@ -7209,7 +7209,7 @@
         }
     },
     {
-        "Name": "Butter texas style biscuits, butter",
+        "Name": "Butter texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 11.8,
@@ -7227,7 +7227,7 @@
         }
     },
     {
-        "Name": "Eat it! don't bake it!, cookie dough, chocolate chip",
+        "Name": "Eat it! dont bake it!, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 12.0,
@@ -7254,7 +7254,7 @@
         }
     },
     {
-        "Name": "Honey butter flavored flaky jumbo biscuits, honey butter",
+        "Name": "Honey butter flavored flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -7263,7 +7263,7 @@
         }
     },
     {
-        "Name": "Graham pie crust, graham",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 30.8,
@@ -7272,7 +7272,7 @@
         }
     },
     {
-        "Name": "Cookie dough, chocolate chunk, chocolate chunk",
+        "Name": "Cookie dough, chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -7281,7 +7281,7 @@
         }
     },
     {
-        "Name": "Pizza dough almond flour mix, pizza dough",
+        "Name": "Pizza dough almond flour mix",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 26.1,
@@ -7290,7 +7290,7 @@
         }
     },
     {
-        "Name": "Chocolate cookie pie crust, chocolate",
+        "Name": "Chocolate cookie pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 21.4,
@@ -7308,7 +7308,7 @@
         }
     },
     {
-        "Name": "Original graham cracker pie crust, original",
+        "Name": "Original graham cracker pie crust",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 30.8,
@@ -7326,7 +7326,7 @@
         }
     },
     {
-        "Name": "Jumbos buttermilk biscuits, buttermilk",
+        "Name": "Jumbos buttermilk biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -7344,7 +7344,7 @@
         }
     },
     {
-        "Name": "Shortbread pie crust, shortbread",
+        "Name": "Shortbread pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -7353,7 +7353,7 @@
         }
     },
     {
-        "Name": "Chocolate chip off the ol' block cookie dough, chocolate chip",
+        "Name": "Chocolate chip off the ol block cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 19.3,
@@ -7362,7 +7362,7 @@
         }
     },
     {
-        "Name": "Unroll & bake 9\" pie crusts",
+        "Name": "Unroll & bake pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 25.9,
@@ -7371,7 +7371,7 @@
         }
     },
     {
-        "Name": "Birthday bash cookie dough, birthday bash",
+        "Name": "Birthday bash cookie dough",
         "Nutrients": {
             "Protein": 2.0,
             "Fat": 18.2,
@@ -7380,7 +7380,7 @@
         }
     },
     {
-        "Name": "Apple cinnamon flavored apple filling with cinnamon icing jumbo sweet rolls, apple cinnamon",
+        "Name": "Apple cinnamon flavored apple filling with cinnamon icing jumbo sweet rolls",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.6,
@@ -7389,7 +7389,7 @@
         }
     },
     {
-        "Name": "Jumbo buttermilk biscuits, buttermilk",
+        "Name": "Jumbo buttermilk biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -7398,7 +7398,7 @@
         }
     },
     {
-        "Name": "Cinnamon reduced fat rolls with icing, cinnamon",
+        "Name": "Cinnamon reduced fat rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 8.0,
@@ -7407,7 +7407,7 @@
         }
     },
     {
-        "Name": "Cinnamon deluxe jumbo rolls with buttercream icing, cinnamon",
+        "Name": "Cinnamon deluxe jumbo rolls with buttercream icing",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 14.7,
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "Name": "Graham cracker ready to eat pie crust, graham cracker",
+        "Name": "Graham cracker ready to eat pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -7425,7 +7425,7 @@
         }
     },
     {
-        "Name": "Cookies n' dream cookie dough, cookies n' dream",
+        "Name": "Cookies n dream cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 19.3,
@@ -7434,7 +7434,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored jumbo flaky biscuits, buttermilk",
+        "Name": "Buttermilk flavored jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -7443,7 +7443,7 @@
         }
     },
     {
-        "Name": "Honey butter flavored jumbo flaky layered biscuits, honey butter",
+        "Name": "Honey butter flavored jumbo flaky layered biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -7452,7 +7452,7 @@
         }
     },
     {
-        "Name": "Tuscan cauliflower pizza crust, tuscan",
+        "Name": "Tuscan cauliflower pizza crust",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 1.9,
@@ -7461,7 +7461,7 @@
         }
     },
     {
-        "Name": "Original homestyle biscuits, original",
+        "Name": "Original homestyle biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -7479,7 +7479,7 @@
         }
     },
     {
-        "Name": "Non-dairy chocolate chip cookie dough - 3.5oz, chocolate chip off the ol' block",
+        "Name": "Non-dairy chocolate chip cookie dough - chocolate chip off the ol block",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 20.2,
@@ -7488,7 +7488,7 @@
         }
     },
     {
-        "Name": "Fire roasted flatbread pizza crust, fire roasted",
+        "Name": "Fire roasted flatbread pizza crust",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 5.9,
@@ -7497,7 +7497,7 @@
         }
     },
     {
-        "Name": "Birthday do bites, birthday",
+        "Name": "Birthday do bites",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 20.4,
@@ -7506,7 +7506,7 @@
         }
     },
     {
-        "Name": "Sun better do bites, sun better",
+        "Name": "Sun better do bites",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -7515,7 +7515,7 @@
         }
     },
     {
-        "Name": "Chocolate chip do bites, chocolate chip",
+        "Name": "Chocolate chip do bites",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 21.4,
@@ -7533,7 +7533,7 @@
         }
     },
     {
-        "Name": "All natural white pizza crust with cheese and sauce!, cheese and sauce",
+        "Name": "All natural white pizza crust with cheese & sauce!",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 4.5,
@@ -7551,7 +7551,7 @@
         }
     },
     {
-        "Name": "Snicker doodle do bites, snicker doodle",
+        "Name": "Snicker doodle do bites",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 18.2,
@@ -7560,7 +7560,7 @@
         }
     },
     {
-        "Name": "Cinnamon bun snackable dough chunks, cinnamon bun",
+        "Name": "Cinnamon bun snackable dough chunks",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 12.5,
@@ -7596,7 +7596,7 @@
         }
     },
     {
-        "Name": "Chocolate chip break & bake cookie dough, chocolate chip",
+        "Name": "Chocolate chip break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -7605,7 +7605,7 @@
         }
     },
     {
-        "Name": "Fudge brownie edible batter, fudge brownie",
+        "Name": "Fudge brownie edible batter",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 11.5,
@@ -7614,7 +7614,7 @@
         }
     },
     {
-        "Name": "Cheese par-baked crust topped with mozzarella cheese and tomato sauce pizza, cheese",
+        "Name": "Cheese par-baked crust topped with mozzarella cheese & tomato sauce pizza",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 15.1,
@@ -7623,7 +7623,7 @@
         }
     },
     {
-        "Name": "Classic pizza crust, classic",
+        "Name": "Classic pizza crust",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -7641,7 +7641,7 @@
         }
     },
     {
-        "Name": "Holiday sugar cookie dough milk chocolate candies minis, milk chocolate",
+        "Name": "Holiday sugar cookie dough milk chocolate c&ies minis",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 15.0,
@@ -7650,7 +7650,7 @@
         }
     },
     {
-        "Name": "Pinch of grinch raw green sugar cookie dough, pinch of grinch",
+        "Name": "Pinch of grinch raw green sugar cookie dough",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 17.5,
@@ -7668,7 +7668,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie spread, chocolate chip",
+        "Name": "Chocolate chip cookie spread",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 23.5,
@@ -7677,7 +7677,7 @@
         }
     },
     {
-        "Name": "Flatbread pizza crust, flatbread",
+        "Name": "Flatbread pizza crust",
         "Nutrients": {
             "Protein": 10.5,
             "Fat": 6.1,
@@ -7686,7 +7686,7 @@
         }
     },
     {
-        "Name": "Italian pizza crusts, italian",
+        "Name": "Italian pizza crusts",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 8.4,
@@ -7695,7 +7695,7 @@
         }
     },
     {
-        "Name": "7-grain flatbread pizza crust, 7-grain",
+        "Name": "Flatbread pizza crust",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 5.0,
@@ -7704,7 +7704,7 @@
         }
     },
     {
-        "Name": "Spicy jalapeno 2 cauliflower pizza crusts, spicy jalapeno",
+        "Name": "Spicy jalapeno cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 13.3,
@@ -7713,7 +7713,7 @@
         }
     },
     {
-        "Name": "Original pizza crust mix, original",
+        "Name": "Original pizza crust mix",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 5.4,
@@ -7731,7 +7731,7 @@
         }
     },
     {
-        "Name": "Original italian cauliflower pizza crusts, original italian",
+        "Name": "Original italian cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 13.3,
@@ -7740,7 +7740,7 @@
         }
     },
     {
-        "Name": "Original cauliflower pizza crust, original",
+        "Name": "Original cauliflower pizza crust",
         "Nutrients": {
             "Protein": 3.8,
             "Fat": 1.9,
@@ -7749,7 +7749,7 @@
         }
     },
     {
-        "Name": "Fudge brownie edible batter, fudge",
+        "Name": "Fudge brownie edible batter",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 11.5,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "Original pizza dough, original pizza",
+        "Name": "Original pizza dough",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -7767,7 +7767,7 @@
         }
     },
     {
-        "Name": "Original pizza dough, original",
+        "Name": "Original pizza dough",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -7776,7 +7776,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle break'n bake style cookie dough, snickerdoodle",
+        "Name": "Snickerdoodle break& bake style cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -7794,7 +7794,7 @@
         }
     },
     {
-        "Name": "Three-cheese cauliflower crust pizza, three-cheese",
+        "Name": "Three-cheese cauliflower crust pizza",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 11.5,
@@ -7803,7 +7803,7 @@
         }
     },
     {
-        "Name": "Original crescents rolls, original",
+        "Name": "Original crescents rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 16.1,
@@ -7812,7 +7812,7 @@
         }
     },
     {
-        "Name": "Chocolate chip lovers cookie dough with chocolate chips & chocolate chunks, chocolate chip lovers",
+        "Name": "Chocolate chip lovers cookie dough with chocolate chips & chocolate chunks",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -7821,7 +7821,7 @@
         }
     },
     {
-        "Name": "Big & buttery crescents, big & buttery",
+        "Name": "Big & buttery crescents",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 18.6,
@@ -7830,7 +7830,7 @@
         }
     },
     {
-        "Name": "Peanut butter break 'n bake cookie dough, peanut butter",
+        "Name": "Peanut butter break & bake cookie dough",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 23.7,
@@ -7839,7 +7839,7 @@
         }
     },
     {
-        "Name": "Sugar break 'n bake cookie dough, sugar",
+        "Name": "Sugar break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -7848,7 +7848,7 @@
         }
     },
     {
-        "Name": "Oatmeal raisin break 'n bake cookie dough, oatmeal raisin",
+        "Name": "Oatmeal raisin break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -7857,7 +7857,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle break 'n bake cookie dough, snickerdoodle",
+        "Name": "Snickerdoodle break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -7866,7 +7866,7 @@
         }
     },
     {
-        "Name": "Butter flavor jumbo biscuits, butter",
+        "Name": "Butter flavor jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -7875,7 +7875,7 @@
         }
     },
     {
-        "Name": "Butter flavor flaky jumbo biscuits, butter",
+        "Name": "Butter flavor flaky jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "Name": "Graham cracker crumbs, graham cracker",
+        "Name": "Graham cracker crumbs",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 7.7,
@@ -7893,7 +7893,7 @@
         }
     },
     {
-        "Name": "Cake batter edible cookie dough, cake batter",
+        "Name": "Cake batter edible cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -7911,7 +7911,7 @@
         }
     },
     {
-        "Name": "9-inch graham cracker pie crust",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -7920,7 +7920,7 @@
         }
     },
     {
-        "Name": "Plain cauliflower pizza crusts, plain",
+        "Name": "Plain cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 13.3,
@@ -7929,7 +7929,7 @@
         }
     },
     {
-        "Name": "Buttermilk flaky jumbos biscuits, buttermilk",
+        "Name": "Buttermilk flaky jumbos biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -7938,7 +7938,7 @@
         }
     },
     {
-        "Name": "Wheat pizza dough, wheat",
+        "Name": "Wheat pizza dough",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 1.8,
@@ -7947,7 +7947,7 @@
         }
     },
     {
-        "Name": "Chocolate nut piecrust, chocolate nut",
+        "Name": "Chocolate nut piecrust",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 33.3,
@@ -7965,7 +7965,7 @@
         }
     },
     {
-        "Name": "Cookies 'n cream edible cookie dough, cookies 'n cream",
+        "Name": "Cookies & cream edible cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -7974,7 +7974,7 @@
         }
     },
     {
-        "Name": "Mama mary's, 2 pizza crusts, original, original",
+        "Name": "Mama marys, pizza crusts, original",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.8,
@@ -7983,7 +7983,7 @@
         }
     },
     {
-        "Name": "The essential baking company, pizza dough, original, original",
+        "Name": "The essential baking company, pizza dough, original",
         "Nutrients": {
             "Protein": 7.3,
             "Fat": 0.0,
@@ -7992,7 +7992,7 @@
         }
     },
     {
-        "Name": "Grainaissance, mochi, cashew-date, cashew-date",
+        "Name": "Grainaissance, mochi, cashew-date",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 4.4,
@@ -8001,7 +8001,7 @@
         }
     },
     {
-        "Name": "Cougar mountain, cookie dough, peanut butter chocolate chunk, peanut butter chocolate chunk",
+        "Name": "Cougar mountain, cookie dough, peanut butter chocolate chunk",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -8010,7 +8010,7 @@
         }
     },
     {
-        "Name": "Chompie's bakery, new york style pizza crust, whole wheat, whole wheat",
+        "Name": "Chompies bakery, new york style pizza crust, whole wheat",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 3.0,
@@ -8019,7 +8019,7 @@
         }
     },
     {
-        "Name": "Thin oven baked pizza crusts, thin",
+        "Name": "Thin oven baked pizza crusts",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.4,
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "Name": "Texas style biscuits, buttermilk ",
+        "Name": "Texas style biscuits, buttermilk",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 8.8,
@@ -8055,7 +8055,7 @@
         }
     },
     {
-        "Name": "Jumbo biscuits buttermilk, buttermilk",
+        "Name": "Jumbo biscuits buttermilk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -8064,7 +8064,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle cookie dough, snickerdoodle",
+        "Name": "Snickerdoodle cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 16.1,
@@ -8073,7 +8073,7 @@
         }
     },
     {
-        "Name": "Savory foods, cookie-licious collection, cookie dough, oatmeal raisin, oatmeal raisin",
+        "Name": "Savory foods, cookie-licious collection, cookie dough, oatmeal raisin",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.5,
@@ -8082,7 +8082,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, oatmeal cranberry walnut, oatmeal cranberry walnut",
+        "Name": "Spartan, break& bake cookie dough, oatmeal cranberry walnut",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8091,7 +8091,7 @@
         }
     },
     {
-        "Name": "Break'n bake cookie dough, chocolate chip",
+        "Name": "Break& bake cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 21.1,
@@ -8100,7 +8100,7 @@
         }
     },
     {
-        "Name": "Spartan, jumbo flaky biscuits, butter, butter",
+        "Name": "Spartan, jumbo flaky biscuits, butter",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -8109,7 +8109,7 @@
         }
     },
     {
-        "Name": "Spartan, biscuits, buttermilk, buttermilk",
+        "Name": "Spartan, biscuits, buttermilk",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -8118,7 +8118,7 @@
         }
     },
     {
-        "Name": "Spartan, jumbo biscuits, buttermilk, buttermilk",
+        "Name": "Spartan, jumbo biscuits, buttermilk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -8136,7 +8136,7 @@
         }
     },
     {
-        "Name": "Spartan, jumbo biscuits, butter, butter",
+        "Name": "Spartan, jumbo biscuits, butter",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -8145,7 +8145,7 @@
         }
     },
     {
-        "Name": "Western family, super size jumbos biscuits, buttermilk, buttermilk",
+        "Name": "Western family, super size jumbos biscuits, buttermilk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -8154,7 +8154,7 @@
         }
     },
     {
-        "Name": "Western family, biscuits, buttermilk, buttermilk",
+        "Name": "Western family, biscuits, buttermilk",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -8172,7 +8172,7 @@
         }
     },
     {
-        "Name": "Gluten free italian pizza crusts, italian",
+        "Name": "Gluten free italian pizza crusts",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 4.0,
@@ -8181,7 +8181,7 @@
         }
     },
     {
-        "Name": "Roundy's, cookie dough, chocolate chunk, chocolate chunk",
+        "Name": "Roundys, cookie dough, chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8208,7 +8208,7 @@
         }
     },
     {
-        "Name": "Cowboy incredible edible cookie dough, cowboy",
+        "Name": "Cowboy incredible edible cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 17.5,
@@ -8217,7 +8217,7 @@
         }
     },
     {
-        "Name": "Crazy about cookies, scoop & bake cookie dough, peanut butter, peanut butter",
+        "Name": "Crazy about cookies, scoop & bake cookie dough, peanut butter",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 21.4,
@@ -8226,7 +8226,7 @@
         }
     },
     {
-        "Name": "Signature kitchens, break & bake easter cookie dough, chocolate chip, chocolate chip",
+        "Name": "Signature kitchens, break & bake easter cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Clover valley, cookie dough, chocolate chunk with walnut cookies, chocolate chunk with walnut cookies",
+        "Name": "Clover valley, cookie dough, chocolate chunk with walnut cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8244,7 +8244,7 @@
         }
     },
     {
-        "Name": "Break 'n bake cookie dough with red and green tree sprinkles, chocolate chip",
+        "Name": "Break & bake cookie dough with red & green tree sprinkles, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8262,7 +8262,7 @@
         }
     },
     {
-        "Name": "The cookie dough cafe, gourmet edible cookie dough, creamy oatmeal raisin, creamy oatmeal raisin",
+        "Name": "The cookie dough cafe, gourmet edible cookie dough, creamy oatmeal raisin",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -8271,7 +8271,7 @@
         }
     },
     {
-        "Name": "Hy-vee select, cookie dough, peanut butter, peanut butter",
+        "Name": "Hy-vee select, cookie dough, peanut butter",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 26.3,
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "Name": "Roundy's, gourmet red velvet cookie dough, red velvet",
+        "Name": "Roundys, gourmet red velvet cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8298,7 +8298,7 @@
         }
     },
     {
-        "Name": "Signature kitchens, halloween cookies, chocolate chip, chocolate chip",
+        "Name": "Signature kitchens, halloween cookies, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8307,7 +8307,7 @@
         }
     },
     {
-        "Name": "The cookie dough cafe, gourmet edible cookie dough, chocolate chip, chocolate chip",
+        "Name": "The cookie dough cafe, gourmet edible cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 12.0,
@@ -8325,7 +8325,7 @@
         }
     },
     {
-        "Name": "Stop & shop, cookie dough with yogurt chips, lemon, lemon",
+        "Name": "Stop & shop, cookie dough with yogurt chips, lemon",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8334,7 +8334,7 @@
         }
     },
     {
-        "Name": "Giant, indulge in ready to eat - cookie dough, chocolate chip, chocolate chip",
+        "Name": "Giant, indulge in ready to eat - cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 17.5,
@@ -8343,7 +8343,7 @@
         }
     },
     {
-        "Name": "Ahold, indulge in ready to eat snickerdoodle cookie dough, vanilla and cinnamon, vanilla and cinnamon",
+        "Name": "Ahold, indulge in ready to eat snickerdoodle cookie dough, vanilla & cinnamon",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 15.8,
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake, cookie dough, deluxe chocolate chunk, deluxe chocolate chunk",
+        "Name": "Spartan, break& bake, cookie dough, deluxe chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8361,7 +8361,7 @@
         }
     },
     {
-        "Name": "Merico, cookie dough, chocolate chip, chocolate chip",
+        "Name": "Merico, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -8370,7 +8370,7 @@
         }
     },
     {
-        "Name": "Merico, gourmet bakery style cookie dough, turtle, turtle",
+        "Name": "Merico, gourmet bakery style cookie dough, turtle",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8379,7 +8379,7 @@
         }
     },
     {
-        "Name": "Great american cookies, cookie dough, peanut butter, peanut butter",
+        "Name": "Great american cookies, cookie dough, peanut butter",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 26.3,
@@ -8388,7 +8388,7 @@
         }
     },
     {
-        "Name": "Tops, cookie dough, chocolate chips, chocolate chips",
+        "Name": "Tops, cookie dough, chocolate chips",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8397,7 +8397,7 @@
         }
     },
     {
-        "Name": "Ahold, sugar cookies, peppermint, peppermint",
+        "Name": "Ahold, sugar cookies, peppermint",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8406,7 +8406,7 @@
         }
     },
     {
-        "Name": "Eatpastry, cookie dough, chocolate chip, chocolate chip",
+        "Name": "Eatpastry, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -8415,7 +8415,7 @@
         }
     },
     {
-        "Name": "Sweet loren's, place & bake cookie dough, oatmeal & cranberry, oatmeal & cranberry",
+        "Name": "Sweet lorens, place & bake cookie dough, oatmeal & cranberry",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8424,7 +8424,7 @@
         }
     },
     {
-        "Name": "Angela marie, incredible edible cookie dough, chocolate chip, chocolate chip",
+        "Name": "Angela marie, incredible edible cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 24.6,
@@ -8442,7 +8442,7 @@
         }
     },
     {
-        "Name": "Thin & crispy rustic white pizza crusts, thin & crispy rustic white",
+        "Name": "Thin & crispy rustic white pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.4,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "Sugar edible cookie dough, sugar",
+        "Name": "Sugar edible cookie dough",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 14.0,
@@ -8460,7 +8460,7 @@
         }
     },
     {
-        "Name": "Cauliflower pizza crusts, cauliflower",
+        "Name": "Cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 6.9,
@@ -8469,7 +8469,7 @@
         }
     },
     {
-        "Name": "Birthday cake bites with sprinkles, birthday cake",
+        "Name": "Birthday cake bites with sprinkles",
         "Nutrients": {
             "Protein": 0.9,
             "Fat": 23.0,
@@ -8478,7 +8478,7 @@
         }
     },
     {
-        "Name": "Oatmeal raisin white chocolate chunk cookies, oatmeal raisin white chocolate chunk",
+        "Name": "Oatmeal raisin white chocolate chunk cookies",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -8487,7 +8487,7 @@
         }
     },
     {
-        "Name": "Meijer, jumbo flaky biscuits, original, original",
+        "Name": "Meijer, jumbo flaky biscuits, original",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -8505,7 +8505,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, red velvet, red velvet",
+        "Name": "Spartan, break& bake cookie dough, red velvet",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8514,7 +8514,7 @@
         }
     },
     {
-        "Name": "Our family, break & bake style cookie dough, deluxe chocolate chunk, deluxe chocolate chunk",
+        "Name": "Our family, break & bake style cookie dough, deluxe chocolate chunk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8523,7 +8523,7 @@
         }
     },
     {
-        "Name": "Spartan, break'n bake cookie dough, salted chocolate caramel, salted chocolate caramel",
+        "Name": "Spartan, break& bake cookie dough, salted chocolate caramel",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8532,7 +8532,7 @@
         }
     },
     {
-        "Name": "Original pizza crust, original",
+        "Name": "Original pizza crust",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -8550,7 +8550,7 @@
         }
     },
     {
-        "Name": "Blueberry lemon cookie dough with natural lemon flavor, blueberry filling & poppy seeds, blueberry lemon",
+        "Name": "Blueberry lemon cookie dough with natural lemon flavor, blueberry filling & poppy seeds",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8568,7 +8568,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk cookie dough, chocolate chunk",
+        "Name": "Chocolate chunk cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8577,7 +8577,7 @@
         }
     },
     {
-        "Name": "White chip macadamia nut cookie dough, white chip macadamia nut",
+        "Name": "White chip macadamia nut cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "Name": "Gingerbread cookie dough, gingerbread",
+        "Name": "Gingerbread cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 17.9,
@@ -8604,7 +8604,7 @@
         }
     },
     {
-        "Name": "Caramel apple spice cookie dough with natural apple cider flavor, spices and caramel filling, caramel apple spice",
+        "Name": "Caramel apple spice cookie dough with natural apple cider flavor, spices & caramel filling",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8613,7 +8613,7 @@
         }
     },
     {
-        "Name": "Pumpkin cobbler cookie dough with pumpkin, oats, spices and a pumpkin pie filling, pumpkin cobbler",
+        "Name": "Pumpkin cobbler cookie dough with pumpkin, oats, spices & a pumpkin pie filling",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8622,7 +8622,7 @@
         }
     },
     {
-        "Name": "Chocolate chip easter cookie dough with pastel egg sprinkles, chocolate chip",
+        "Name": "Chocolate chip easter cookie dough with pastel egg sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8631,7 +8631,7 @@
         }
     },
     {
-        "Name": "Snicker doodle cookie dough keto snack, snicker doodle cookie dough",
+        "Name": "Snicker doodle cookie dough keto snack",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 64.3,
@@ -8640,7 +8640,7 @@
         }
     },
     {
-        "Name": "Truffle & mushroom superfood pizza crust, truffle & mushroom",
+        "Name": "Truffle & mushroom superfood pizza crust",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 10.2,
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "Name": "Stone baked italian pizza crusts, stone baked italian",
+        "Name": "Stone baked italian pizza crusts",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 11.7,
@@ -8658,7 +8658,7 @@
         }
     },
     {
-        "Name": "Flaky butter flavored crescent rolls, flaky butter",
+        "Name": "Flaky butter flavored crescent rolls",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 17.9,
@@ -8667,7 +8667,7 @@
         }
     },
     {
-        "Name": "Original cinnamon flavored rolls with icing, original cinnamon",
+        "Name": "Original cinnamon flavored rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -8676,7 +8676,7 @@
         }
     },
     {
-        "Name": "Jumbo flaky buttermilk flavored biscuits, buttermilk",
+        "Name": "Jumbo flaky buttermilk flavored biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -8694,7 +8694,7 @@
         }
     },
     {
-        "Name": "Cookies n cream cookie dough, cookies n cream",
+        "Name": "Cookies n cream cookie dough",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 22.7,
@@ -8703,7 +8703,7 @@
         }
     },
     {
-        "Name": "9\"\"deep dish 2 flaky, homestyle pie crusts",
+        "Name": "Dish flaky, homestyle pie crusts",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 28.6,
@@ -8712,7 +8712,7 @@
         }
     },
     {
-        "Name": "9\"\" graham cracker pie crust, 9\"\" graham cracker",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -8721,7 +8721,7 @@
         }
     },
     {
-        "Name": "Regular pie crust, regular",
+        "Name": "Regular pie crust",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 22.2,
@@ -8730,7 +8730,7 @@
         }
     },
     {
-        "Name": "Triple chip cookie dough, triple chip",
+        "Name": "Triple chip cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8739,7 +8739,7 @@
         }
     },
     {
-        "Name": "Chocolate cherry chocolate cookie dough with cherries and natural cherry flavor, chocolate cherry",
+        "Name": "Chocolate cherry chocolate cookie dough with cherries & natural cherry flavor",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8748,7 +8748,7 @@
         }
     },
     {
-        "Name": "Sugar rolled & ready cookie dough sheets, sugar",
+        "Name": "Sugar rolled & ready cookie dough sheets",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 24.0,
@@ -8757,7 +8757,7 @@
         }
     },
     {
-        "Name": "Chocolate chip holiday cookie dough with red & green colored morsels, chocolate chip",
+        "Name": "Chocolate chip holiday cookie dough with red & green colored morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8766,7 +8766,7 @@
         }
     },
     {
-        "Name": "White chip lemon cookie dough with natural lemon flavor and premier white morsels, white chip lemon",
+        "Name": "White chip lemon cookie dough with natural lemon flavor & premier white morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "Name": "White chip brownie cookie dough, white chip brownie",
+        "Name": "White chip brownie cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8784,7 +8784,7 @@
         }
     },
     {
-        "Name": "Gingerbread rolled & ready cookie dough sheets, gingerbread",
+        "Name": "Gingerbread rolled & ready cookie dough sheets",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 20.0,
@@ -8793,7 +8793,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice pumpkin cookie dough with 100% pure pumpkin, premier white morsels & spices, pumpkin spice",
+        "Name": "Pumpkin spice pumpkin cookie dough with 100% pure pumpkin, premier white morsels & spices",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8802,7 +8802,7 @@
         }
     },
     {
-        "Name": "Chocolate rolled & ready cookie dough sheets, chocolate",
+        "Name": "Chocolate rolled & ready cookie dough sheets",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 24.0,
@@ -8811,7 +8811,7 @@
         }
     },
     {
-        "Name": "Dark chocolate delight dark chocolate cookie dough with dark chocolate chips, dark chocolate delight",
+        "Name": "Dark chocolate delight dark chocolate cookie dough with dark chocolate chips",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8820,7 +8820,7 @@
         }
     },
     {
-        "Name": "Sugar cookie dough with butterfinger baking bits, sugar",
+        "Name": "Sugar cookie dough with butterfinger baking bits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8829,7 +8829,7 @@
         }
     },
     {
-        "Name": "Hot cocoa cookie dough with marshmallow filling flavored and cocoa, hot cocoa with marshmallow filling",
+        "Name": "Hot cocoa cookie dough with marshmallow filling flavored & cocoa, hot cocoa with marshmallow filling",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "Name": "Chocolate chip halloween cookie dough with orange colored morsels, chocolate chip",
+        "Name": "Chocolate chip halloween cookie dough with orange colored morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8847,7 +8847,7 @@
         }
     },
     {
-        "Name": "Chocolate chip springtime cookie dough with pink & yellow colored morsels, chocolate chip",
+        "Name": "Chocolate chip springtime cookie dough with pink & yellow colored morsels",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8856,7 +8856,7 @@
         }
     },
     {
-        "Name": "Dark chocolate peppermint dark chocolate cookie dough with creamy peppermint chunks, dark chocolate peppermint",
+        "Name": "Dark chocolate peppermint dark chocolate cookie dough with creamy peppermint chunks",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8865,7 +8865,7 @@
         }
     },
     {
-        "Name": "Nestle, toll house, ultimates cookie dough, chocolate peanut butter deluxe, chocolate peanut butter deluxe",
+        "Name": "Nestle, toll house, ultimates cookie dough, chocolate peanut butter deluxe",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8874,7 +8874,7 @@
         }
     },
     {
-        "Name": "Chocolate pecan deluxe cookie dough with semi-sweet chocolate chips and pecans, chocolate pecan deluxe",
+        "Name": "Chocolate pecan deluxe cookie dough with semi-sweet chocolate chips & pecans",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -8883,7 +8883,7 @@
         }
     },
     {
-        "Name": "Chocolate chip mini cookie dough, chocolate chip",
+        "Name": "Chocolate chip mini cookie dough",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 22.9,
@@ -8892,7 +8892,7 @@
         }
     },
     {
-        "Name": "Chocolate chip lovers cookie dough with semi-sweet & milk chocolate chips & chocolate chunks, chocolate chip lovers",
+        "Name": "Chocolate chip lovers cookie dough with semi-sweet & milk chocolate chips & chocolate chunks",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8901,7 +8901,7 @@
         }
     },
     {
-        "Name": "Salted caramel cookie dough, salted caramel",
+        "Name": "Salted caramel cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8910,7 +8910,7 @@
         }
     },
     {
-        "Name": "Oatmeal scotchies cookie dough, oatmeal scotchies",
+        "Name": "Oatmeal scotchies cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -8919,7 +8919,7 @@
         }
     },
     {
-        "Name": "Chocolate fudge pretzel chocolate cookie dough with milk chocolate morsels topped with pretzel pieces, chocolate fudge pretzel",
+        "Name": "Chocolate fudge pretzel chocolate cookie dough with milk chocolate morsels topped with pretzel pieces",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8928,7 +8928,7 @@
         }
     },
     {
-        "Name": "Oatmeal monster munch cookie dough with peanut butter & chocolate morsels topped with candy coated gems, oatmeal with peanut butter & chocolate",
+        "Name": "Oatmeal monster munch cookie dough with peanut butter & chocolate morsels topped with c&y coated gems, oatmeal with peanut butter & chocolate",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8937,7 +8937,7 @@
         }
     },
     {
-        "Name": "Chocolate chip with toasted oats snack bar dough, chocolate chip with toasted oats",
+        "Name": "Chocolate chip with toasted oats snack bar dough",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 17.7,
@@ -8946,7 +8946,7 @@
         }
     },
     {
-        "Name": "Chocolate chip valentine cookie dough with red & pink heart sprinkles, chocolate chip",
+        "Name": "Chocolate chip valentine cookie dough with red & pink heart sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8955,7 +8955,7 @@
         }
     },
     {
-        "Name": "Sugar winter wonderland cookie dough topped with snowflake sprinkles, sugar",
+        "Name": "Sugar winter wonderl& cookie dough topped with snowflake sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -8964,7 +8964,7 @@
         }
     },
     {
-        "Name": "Maple walnut cookie dough with walnuts and maple flakes, maple walnut",
+        "Name": "Maple walnut cookie dough with walnuts & maple flakes",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -8973,7 +8973,7 @@
         }
     },
     {
-        "Name": "Birthday cake cookie dough, birthday cake",
+        "Name": "Birthday cake cookie dough",
         "Nutrients": {
             "Protein": 1.6,
             "Fat": 26.6,
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "Name": "Triple chocolate brownie cookie dough, triple chocolate brownie",
+        "Name": "Triple chocolate brownie cookie dough",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 29.7,
@@ -8991,7 +8991,7 @@
         }
     },
     {
-        "Name": "Shurfine, cookie dough, chocolate chunk & walnut, chocolate chunk & walnut",
+        "Name": "Shurfine, cookie dough, chocolate chunk & walnut",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -9009,7 +9009,7 @@
         }
     },
     {
-        "Name": "Jumbo flaky biscuits ",
+        "Name": "Jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -9018,7 +9018,7 @@
         }
     },
     {
-        "Name": "9\"\" graham cracker pie crust",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -9027,7 +9027,7 @@
         }
     },
     {
-        "Name": "Breadsticks  ",
+        "Name": "Breadsticks",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -9036,7 +9036,7 @@
         }
     },
     {
-        "Name": "Spring rolls general chang's chicken with broccoli and cabbage",
+        "Name": "Spring rolls general changs chicken with broccoli & cabbage",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 7.3,
@@ -9099,7 +9099,7 @@
         }
     },
     {
-        "Name": "Annie's, bake and share dough, chocolate chunk, chocolate chunk",
+        "Name": "Annies, bake & share dough, chocolate chunk",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 23.5,
@@ -9117,7 +9117,7 @@
         }
     },
     {
-        "Name": "Pillsbury, big deluxe, hershey's hot fudge brownie cookie",
+        "Name": "Pillsbury, big deluxe, hersheys hot fudge brownie cookie",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 21.2,
@@ -9198,7 +9198,7 @@
         }
     },
     {
-        "Name": "Biscuits ",
+        "Name": "Biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 6.9,
@@ -9216,7 +9216,7 @@
         }
     },
     {
-        "Name": "Pie and pastry dough",
+        "Name": "Pie & pastry dough",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 30.4,
@@ -9234,7 +9234,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk bakes 24 cookies",
+        "Name": "Chocolate chunk bakes cookies",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 23.5,
@@ -9252,7 +9252,7 @@
         }
     },
     {
-        "Name": "Melts s'more sensation filled cookies",
+        "Name": "Melts smore sensation filled cookies",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 16.7,
@@ -9261,7 +9261,7 @@
         }
     },
     {
-        "Name": "Jumbo cookies, candy cane",
+        "Name": "Jumbo cookies, c&y cane",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -9288,7 +9288,7 @@
         }
     },
     {
-        "Name": "Pillsbury, biscuits dough, buttermilk, buttermilk",
+        "Name": "Pillsbury, biscuits dough, buttermilk",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -9297,7 +9297,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookies, chocolate chip",
+        "Name": "Chocolate chip cookies",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -9324,7 +9324,7 @@
         }
     },
     {
-        "Name": "Pillsbury, gluten free cookie dough, chocolate chip, chocolate chip",
+        "Name": "Pillsbury, gluten free cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 20.8,
@@ -9342,7 +9342,7 @@
         }
     },
     {
-        "Name": "Pillsbury, r2-d2 holiday shape sugar cookie",
+        "Name": "Pillsbury, holiday shape sugar cookie",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 19.2,
@@ -9360,7 +9360,7 @@
         }
     },
     {
-        "Name": "Garlic & cheese with other natural flavors biscuits ",
+        "Name": "Garlic & cheese with other natural flavors biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -9405,7 +9405,7 @@
         }
     },
     {
-        "Name": "Chocolate chip with red morsels, chocolate chip with red morsels",
+        "Name": "Chocolate chip with red morsels",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 18.4,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Flaky layers dough, butter tastin'",
+        "Name": "Flaky layers dough, butter tastin",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 8.6,
@@ -9603,7 +9603,7 @@
         }
     },
     {
-        "Name": "Edible cookie dough ",
+        "Name": "Edible cookie dough",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 24.0,
@@ -9657,7 +9657,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolls with strawberry & cream flavored icing, cinnamon rolls with strawberry & cream",
+        "Name": "Cinnamon rolls with strawberry & cream flavored icing",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 7.1,
@@ -9666,7 +9666,7 @@
         }
     },
     {
-        "Name": "Peanut butter with chocolatey drizzle no-bake cookie dough bites, peanut butter with chocolatey drizzle",
+        "Name": "Peanut butter with chocolatey drizzle no-bake cookie dough bites",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -9675,7 +9675,7 @@
         }
     },
     {
-        "Name": "Cinnamon roll with vanilla icing drizzle, cinnamon",
+        "Name": "Cinnamon roll with vanilla icing drizzle",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 8.9,
@@ -9684,7 +9684,7 @@
         }
     },
     {
-        "Name": "Triple chocolate brownie cookie, triple chocolate",
+        "Name": "Triple chocolate brownie cookie",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 18.2,
@@ -9693,7 +9693,7 @@
         }
     },
     {
-        "Name": "Chocolate filled crescent soft roll with natural spread, chocolate",
+        "Name": "Chocolate filled crescent soft roll with natural spread",
         "Nutrients": {
             "Protein": 9.2,
             "Fat": 12.3,
@@ -9711,7 +9711,7 @@
         }
     },
     {
-        "Name": "Garlic butter flavor pull-apart bites, garlic butter",
+        "Name": "Garlic butter flavor pull-apart bites",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 8.3,
@@ -9720,7 +9720,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk cookies, chocolate chunk",
+        "Name": "Chocolate chunk cookies",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 23.5,
@@ -9729,7 +9729,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle cookies, snickerdoodle",
+        "Name": "Snickerdoodle cookies",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 20.5,
@@ -9738,7 +9738,7 @@
         }
     },
     {
-        "Name": "Graham 9'' pie crust, graham",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -9747,7 +9747,7 @@
         }
     },
     {
-        "Name": "Honey butter flavored jumbo flaky biscuits, honey butter",
+        "Name": "Honey butter flavored jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -9756,7 +9756,7 @@
         }
     },
     {
-        "Name": "Salted chocolate caramel break 'n bake cookie dough, salted chocolate caramel",
+        "Name": "Salted chocolate caramel break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -9765,7 +9765,7 @@
         }
     },
     {
-        "Name": "Molasses crinkle topped with sugar break 'n bake cookie dough, molasses crinkle",
+        "Name": "Molasses crinkle topped with sugar break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 11.8,
@@ -9774,7 +9774,7 @@
         }
     },
     {
-        "Name": "Original jumbo flaky biscuits, original",
+        "Name": "Original jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -9783,7 +9783,7 @@
         }
     },
     {
-        "Name": "Butter flavored jumbo flaky biscuits, butter",
+        "Name": "Butter flavored jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -9792,7 +9792,7 @@
         }
     },
     {
-        "Name": "Jumbo biscuits, butter ",
+        "Name": "Jumbo biscuits, butter",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -9801,7 +9801,7 @@
         }
     },
     {
-        "Name": "Thin & crispy pizza crusts, thin & crispy",
+        "Name": "Thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 9.4,
@@ -9810,7 +9810,7 @@
         }
     },
     {
-        "Name": "Sugar cookie dough, sugar cookie",
+        "Name": "Sugar cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 17.2,
@@ -9837,7 +9837,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored homestyle jumbo biscuits, buttermilk",
+        "Name": "Buttermilk flavored homestyle jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -9855,7 +9855,7 @@
         }
     },
     {
-        "Name": "Rolled pie crusts, rolled",
+        "Name": "Rolled pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 22.2,
@@ -9864,7 +9864,7 @@
         }
     },
     {
-        "Name": "Original biscuits, original",
+        "Name": "Original biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -9873,7 +9873,7 @@
         }
     },
     {
-        "Name": "Sugar cookies dough, sugar cookies",
+        "Name": "Sugar cookies dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -9882,7 +9882,7 @@
         }
     },
     {
-        "Name": "Pizza crust, pizza",
+        "Name": "Pizza crust",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.9,
@@ -9891,7 +9891,7 @@
         }
     },
     {
-        "Name": "Turtle cookies dough, turtle",
+        "Name": "Turtle cookies dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -9900,7 +9900,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk break & bake cookie dough, chocolate chunk",
+        "Name": "Chocolate chunk break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -9909,7 +9909,7 @@
         }
     },
     {
-        "Name": "Homestyle butter flavored jumbo biscuits, homestyle butter",
+        "Name": "Homestyle butter flavored jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -9918,7 +9918,7 @@
         }
     },
     {
-        "Name": "Red velvet break 'n bake cookie dough, red velvet",
+        "Name": "Red velvet break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -9936,7 +9936,7 @@
         }
     },
     {
-        "Name": "Flaky & buttery flavored crescent rolls, flaky & buttery",
+        "Name": "Flaky & buttery flavored crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -9963,7 +9963,7 @@
         }
     },
     {
-        "Name": "Oatmeal cranberry cookie dough, oatmeal cranberry",
+        "Name": "Oatmeal cranberry cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.5,
@@ -9972,7 +9972,7 @@
         }
     },
     {
-        "Name": "Fudgy brownie cookie dough, fudgy brownie",
+        "Name": "Fudgy brownie cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -9981,7 +9981,7 @@
         }
     },
     {
-        "Name": "Big n' flaky crescent rolls",
+        "Name": "Big n flaky crescent rolls",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 18.9,
@@ -9990,7 +9990,7 @@
         }
     },
     {
-        "Name": "Birthday cake keto cookie dough bites, birthday cake",
+        "Name": "Birthday cake keto cookie dough bites",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 20.0,
@@ -10008,7 +10008,7 @@
         }
     },
     {
-        "Name": "Thin & crispy organic pizza crusts, thin & crispy",
+        "Name": "Thin & crispy organic pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.4,
@@ -10017,7 +10017,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough bites, chocolate chip",
+        "Name": "Chocolate chip cookie dough bites",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -10026,7 +10026,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie snackable dough bites, chocolate chip cookie",
+        "Name": "Chocolate chip cookie snackable dough bites",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -10035,7 +10035,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough chunks, chocolate chip cookie dough",
+        "Name": "Chocolate chip cookie dough chunks",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 16.1,
@@ -10053,7 +10053,7 @@
         }
     },
     {
-        "Name": "New york-style thin pizza crust, new york-style",
+        "Name": "New york-style thin pizza crust",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 0.0,
@@ -10062,7 +10062,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle keto cookie dough bites, snickerdoodle",
+        "Name": "Snickerdoodle keto cookie dough bites",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 23.3,
@@ -10071,7 +10071,7 @@
         }
     },
     {
-        "Name": "Peanut butter choco chip bite-sized protein cookie dough, peanut butter choco chip",
+        "Name": "Peanut butter choco chip bite-sized protein cookie dough",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 16.3,
@@ -10080,7 +10080,7 @@
         }
     },
     {
-        "Name": "Crescent rolls, crescent",
+        "Name": "Crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -10089,7 +10089,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle premium cookie dough, snickerdoodle",
+        "Name": "Snickerdoodle premium cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10098,7 +10098,7 @@
         }
     },
     {
-        "Name": "Cauliflower whole pizza crusts, cauliflower",
+        "Name": "Cauliflower whole pizza crusts",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 5.6,
@@ -10116,7 +10116,7 @@
         }
     },
     {
-        "Name": "Apple oatmeal cookie dough, apple oatmeal",
+        "Name": "Apple oatmeal cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -10134,7 +10134,7 @@
         }
     },
     {
-        "Name": "Triple chocolate chunk refrigerated cookie dough, triple chocolate chunk",
+        "Name": "Triple chocolate chunk refrigerated cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10143,7 +10143,7 @@
         }
     },
     {
-        "Name": "Giant, break 'n bake cookie dough, oatmeal, cranberry, walnut, oatmeal, cranberry, walnut",
+        "Name": "Giant, break & bake cookie dough, oatmeal, cranberry, walnut, oatmeal, cranberry",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10152,7 +10152,7 @@
         }
     },
     {
-        "Name": "Roundy's, green-n-gold cookie dough, sugar, sugar",
+        "Name": "Roundys, green-n-gold cookie dough, sugar",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -10161,7 +10161,7 @@
         }
     },
     {
-        "Name": "Spartan, ultra thin pizza crust, original, original",
+        "Name": "Spartan, ultra thin pizza crust, original",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 5.8,
@@ -10188,7 +10188,7 @@
         }
     },
     {
-        "Name": "Enriched brown 'n serve dinner rolls",
+        "Name": "Enriched brown & serve dinner rolls",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 7.7,
@@ -10215,7 +10215,7 @@
         }
     },
     {
-        "Name": "Ooey gooey flavored cinnamon rolls, ooey gooey",
+        "Name": "Ooey gooey flavored cinnamon rolls",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 14.7,
@@ -10224,7 +10224,7 @@
         }
     },
     {
-        "Name": "Peanut butter chocolate chip eat-it-raw cookie dough, peanut butter chocolate chip",
+        "Name": "Peanut butter chocolate chip eat-it-raw cookie dough",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 23.3,
@@ -10242,7 +10242,7 @@
         }
     },
     {
-        "Name": "Blueberry with lemon flavored icing break & bake scones packet, blueberry with lemon",
+        "Name": "Blueberry with lemon flavored icing break & bake scones packet",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 17.6,
@@ -10305,7 +10305,7 @@
         }
     },
     {
-        "Name": "Break 'n bake cookie dough, chocolate chip",
+        "Name": "Break & bake cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10314,7 +10314,7 @@
         }
     },
     {
-        "Name": "Original pizza crusts, original",
+        "Name": "Original pizza crusts",
         "Nutrients": {
             "Protein": 16.4,
             "Fat": 3.6,
@@ -10323,7 +10323,7 @@
         }
     },
     {
-        "Name": "Delish chocolate chip cookie dough snack-pack, delish chocolate chip",
+        "Name": "Delish chocolate chip cookie dough snack-pack",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 12.5,
@@ -10368,7 +10368,7 @@
         }
     },
     {
-        "Name": "Ciabatta pizza crusts, ciabatta",
+        "Name": "Ciabatta pizza crusts",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 0.0,
@@ -10386,7 +10386,7 @@
         }
     },
     {
-        "Name": "Cookies 'n' cream galactic fusion edible cookie dough, cookies 'n' cream",
+        "Name": "Cookies & cream galactic fusion edible cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 16.7,
@@ -10395,7 +10395,7 @@
         }
     },
     {
-        "Name": "Fudge brownie batter choco-naut edible cookie dough, fudge brownie batter",
+        "Name": "Fudge brownie batter choco-naut edible cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 10.0,
@@ -10404,7 +10404,7 @@
         }
     },
     {
-        "Name": "Sugar cinnamon snickerdoodle cookie dough, sugar cinnamon snickerdoodle",
+        "Name": "Sugar cinnamon snickerdoodle cookie dough",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 21.7,
@@ -10422,7 +10422,7 @@
         }
     },
     {
-        "Name": "Chocolate chip candie melts cookie dough gourmet cookies, chocolate chip candie melts cookie dough",
+        "Name": "Chocolate chip c&ie melts cookie dough gourmet cookies",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 21.7,
@@ -10431,7 +10431,7 @@
         }
     },
     {
-        "Name": "White chocolate macadamia cookie dough gourmet cookies, white chocolate macadamia cookie dough",
+        "Name": "White chocolate macadamia cookie dough gourmet cookies",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 21.7,
@@ -10440,7 +10440,7 @@
         }
     },
     {
-        "Name": "Delish chocolate chip cookie dough, delish chocolate chip",
+        "Name": "Delish chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 25.0,
@@ -10449,7 +10449,7 @@
         }
     },
     {
-        "Name": "Oatmeal raisin cookie dough gourmet cookies, oatmeal raisin cookie dough",
+        "Name": "Oatmeal raisin cookie dough gourmet cookies",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 19.6,
@@ -10458,7 +10458,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough , chocolate chip cookie",
+        "Name": "Chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 21.7,
@@ -10467,7 +10467,7 @@
         }
     },
     {
-        "Name": "Regular ready to bake pie crusts, regular",
+        "Name": "Regular ready to bake pie crusts",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 22.2,
@@ -10476,7 +10476,7 @@
         }
     },
     {
-        "Name": "10\"\" graham pie crust",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -10485,7 +10485,7 @@
         }
     },
     {
-        "Name": "9\"\" graham pie crust",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -10503,7 +10503,7 @@
         }
     },
     {
-        "Name": "Chocolate cookie crumb ready-to-eat pie crust, chocolate cookie crumb",
+        "Name": "Chocolate cookie crumb ready-to-eat pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -10512,7 +10512,7 @@
         }
     },
     {
-        "Name": "Caramel sauce, fudge & graham cracker crumbs on the go sin cookie dough, caramel sauce, fudge & graham cracker crumbs",
+        "Name": "Caramel sauce, fudge & graham cracker crumbs on the go sin cookie dough, caramel sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 12.3,
@@ -10521,7 +10521,7 @@
         }
     },
     {
-        "Name": "Tuscan pizza crust, tuscan",
+        "Name": "Tuscan pizza crust",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 8.8,
@@ -10539,7 +10539,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough, chocolate chip cookie",
+        "Name": "Chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.1,
             "Fat": 25.0,
@@ -10548,7 +10548,7 @@
         }
     },
     {
-        "Name": "Monster peanut butter, oats, m&m's milk chocolate candies & chocolate chips place 'n bake cookie dough, monster",
+        "Name": "Monster peanut butter, oats, m&ms milk chocolate c&ies & chocolate chips place & bake cookie dough",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 25.0,
@@ -10557,7 +10557,7 @@
         }
     },
     {
-        "Name": "Double chocolate cookie dough made with almond flour, double chocolate",
+        "Name": "Double chocolate cookie dough made with almond flour",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 34.6,
@@ -10566,7 +10566,7 @@
         }
     },
     {
-        "Name": "Peanut butter cup, peanut butter",
+        "Name": "Peanut butter cup",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 20.0,
@@ -10611,7 +10611,7 @@
         }
     },
     {
-        "Name": "Kim & jake's, cookie dough, chocolate, cherry, pecan, chocolate, cherry, pecan",
+        "Name": "Kim & jakes, cookie dough, chocolate, cherry, pecan, chocolate, cherry",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 34.3,
@@ -10620,7 +10620,7 @@
         }
     },
     {
-        "Name": "Kim & jake's, cookie dough, chocolate chip, chocolate chip",
+        "Name": "Kim & jakes, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 34.3,
@@ -10656,7 +10656,7 @@
         }
     },
     {
-        "Name": "Butter milk texas style biscuits, butter milk",
+        "Name": "Butter milk texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -10674,7 +10674,7 @@
         }
     },
     {
-        "Name": "Hannaford, biscuits, buttermilk, buttermilk",
+        "Name": "Hannaford, biscuits, buttermilk",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.3,
@@ -10719,7 +10719,7 @@
         }
     },
     {
-        "Name": "Break n' bake cookie dough, chocolate chip",
+        "Name": "Break n bake cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10800,7 +10800,7 @@
         }
     },
     {
-        "Name": "Keebler, ready crust, pie crust, graham, graham",
+        "Name": "Keebler, ready crust, pie crust, graham",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 16.7,
@@ -10827,7 +10827,7 @@
         }
     },
     {
-        "Name": "Premium cookie dough, cookies n' dream",
+        "Name": "Premium cookie dough, cookies n dream",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 25.0,
@@ -10845,7 +10845,7 @@
         }
     },
     {
-        "Name": "Jumbo 8 biscuits, buttermilk",
+        "Name": "Jumbo biscuits, buttermilk",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -10854,7 +10854,7 @@
         }
     },
     {
-        "Name": "10 biscuits, buttermilk",
+        "Name": "Biscuits, buttermilk",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.1,
@@ -10881,7 +10881,7 @@
         }
     },
     {
-        "Name": "Biscuits butter-me-nots biscuits, butter-me-nots",
+        "Name": "Biscuits butter-me-nots biscuits",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 16.7,
@@ -10899,7 +10899,7 @@
         }
     },
     {
-        "Name": "Pepperidge farm, sweet rolls with icing, cherry, cherry",
+        "Name": "Pepperidge farm, sweet rolls with icing, cherry",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 8.6,
@@ -10935,7 +10935,7 @@
         }
     },
     {
-        "Name": "Joel's outrageous, cookie dough, butter, butter",
+        "Name": "Joels outrageous, cookie dough, butter",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 18.2,
@@ -10944,7 +10944,7 @@
         }
     },
     {
-        "Name": "Kroger, cookie dough, chocolate chip, chocolate chip",
+        "Name": "Kroger, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -10953,7 +10953,7 @@
         }
     },
     {
-        "Name": "Buttermilk biscuits, big & flaky ",
+        "Name": "Buttermilk biscuits, big & flaky",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 12.3,
@@ -10962,7 +10962,7 @@
         }
     },
     {
-        "Name": "Eat it! don't bake it!, cookie dough, chocolate chip, chocolate chip",
+        "Name": "Eat it! dont bake it!, cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 12.0,
@@ -10998,7 +10998,7 @@
         }
     },
     {
-        "Name": "Kroger, deluxe jammed cookie dough, chocolate chip, chocolate chip",
+        "Name": "Kroger, deluxe jammed cookie dough, chocolate chip",
         "Nutrients": {
             "Protein": 4.6,
             "Fat": 7.7,
@@ -11016,7 +11016,7 @@
         }
     },
     {
-        "Name": "Beer pizza dough, beer",
+        "Name": "Beer pizza dough",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.0,
@@ -11052,7 +11052,7 @@
         }
     },
     {
-        "Name": "Apple crescent rolls, apple",
+        "Name": "Apple crescent rolls",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 11.9,
@@ -11061,7 +11061,7 @@
         }
     },
     {
-        "Name": "Homestyle texas style biscuits, homestyle texas style",
+        "Name": "Homestyle texas style biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -11070,7 +11070,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookies dough, chocolate chip",
+        "Name": "Chocolate chip cookies dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -11079,7 +11079,7 @@
         }
     },
     {
-        "Name": "Sugar slice and bake cookie dough, sugar",
+        "Name": "Sugar slice & bake cookie dough",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 20.7,
@@ -11088,7 +11088,7 @@
         }
     },
     {
-        "Name": "Peanut butter cup ready to bake cookie dough, peanut butter cup",
+        "Name": "Peanut butter cup ready to bake cookie dough",
         "Nutrients": {
             "Protein": 7.9,
             "Fat": 26.3,
@@ -11097,7 +11097,7 @@
         }
     },
     {
-        "Name": "Pecan pie crust, pecan",
+        "Name": "Pecan pie crust",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 38.1,
@@ -11106,7 +11106,7 @@
         }
     },
     {
-        "Name": "Graham pie crust cracker, graham pie crust",
+        "Name": "Graham pie crust cracker",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -11124,7 +11124,7 @@
         }
     },
     {
-        "Name": "Birthday cake cookiez, birthday cake",
+        "Name": "Birthday cake cookiez",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 14.0,
@@ -11133,7 +11133,7 @@
         }
     },
     {
-        "Name": "Whole wheat organic thin & crispy pizza crusts, whole wheat",
+        "Name": "Whole wheat organic thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 4.3,
@@ -11142,7 +11142,7 @@
         }
     },
     {
-        "Name": "Deep dish 2-9\"\" crusts in foil pans pie crusts, deep dish",
+        "Name": "Deep dish crusts in foil pans pie crusts",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 25.0,
@@ -11160,7 +11160,7 @@
         }
     },
     {
-        "Name": "Cinnamon rolls flavored with icing, cinnamon rolls",
+        "Name": "Cinnamon rolls flavored with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -11169,7 +11169,7 @@
         }
     },
     {
-        "Name": "Thin & crispy rustic white pizza crusts, thin & crispy",
+        "Name": "Thin & crispy rustic white pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.4,
@@ -11178,7 +11178,7 @@
         }
     },
     {
-        "Name": "Cookie dough cookie kit, cookie dough",
+        "Name": "Cookie dough cookie kit",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 13.5,
@@ -11187,7 +11187,7 @@
         }
     },
     {
-        "Name": "Chickpeas pizza crusts, chickpeas",
+        "Name": "Chickpeas pizza crusts",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 10.4,
@@ -11232,7 +11232,7 @@
         }
     },
     {
-        "Name": "Whole wheat low fat and sodium ultra thin & crispy pizza crusts, whole wheat",
+        "Name": "Whole wheat low fat & sodium ultra thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 4.3,
@@ -11250,7 +11250,7 @@
         }
     },
     {
-        "Name": "Pizza dough, pizza",
+        "Name": "Pizza dough",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 10.0,
@@ -11268,7 +11268,7 @@
         }
     },
     {
-        "Name": "Break n' bake snickerdoodle cookie dough",
+        "Name": "Break n bake snickerdoodle cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -11286,7 +11286,7 @@
         }
     },
     {
-        "Name": "Dutch apple pie european bakery style dough pie crust , dutch apple pie",
+        "Name": "Dutch apple pie european bakery style dough pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -11295,7 +11295,7 @@
         }
     },
     {
-        "Name": "Classic chocolate chip edible cookie dough, classic chocolate chip",
+        "Name": "Classic chocolate chip edible cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -11304,7 +11304,7 @@
         }
     },
     {
-        "Name": "Butter me not flavored biscuits, butter me not",
+        "Name": "Butter me not flavored biscuits",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 16.7,
@@ -11313,7 +11313,7 @@
         }
     },
     {
-        "Name": "Ultra thin mini pizza crust, ultra thin",
+        "Name": "Ultra thin mini pizza crust",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 7.1,
@@ -11322,7 +11322,7 @@
         }
     },
     {
-        "Name": "Spinach filled flatbread, spinach",
+        "Name": "Spinach filled flatbread",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 4.1,
@@ -11331,7 +11331,7 @@
         }
     },
     {
-        "Name": "Pie crust gluten free mix, pie crust",
+        "Name": "Pie crust gluten free mix",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 0.0,
@@ -11340,7 +11340,7 @@
         }
     },
     {
-        "Name": "Chocolate chip keto cookie dough, chocolate chip",
+        "Name": "Chocolate chip keto cookie dough",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 35.7,
@@ -11358,7 +11358,7 @@
         }
     },
     {
-        "Name": "Phyllo pastry sheets, phyllo",
+        "Name": "Phyllo pastry sheets",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 2.0,
@@ -11367,7 +11367,7 @@
         }
     },
     {
-        "Name": "Focaccia style pizza crust, focaccia style",
+        "Name": "Focaccia style pizza crust",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 4.5,
@@ -11376,7 +11376,7 @@
         }
     },
     {
-        "Name": "Traditional pizza crusts, traditional",
+        "Name": "Traditional pizza crusts",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 4.7,
@@ -11385,7 +11385,7 @@
         }
     },
     {
-        "Name": "Sweet pie, tarts & pastries, sweet",
+        "Name": "Sweet pie, tarts & pastries",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 27.1,
@@ -11394,7 +11394,7 @@
         }
     },
     {
-        "Name": "Peppermint chocolate nut pie crust, peppermint chocolate nut",
+        "Name": "Peppermint chocolate nut pie crust",
         "Nutrients": {
             "Protein": 9.5,
             "Fat": 33.3,
@@ -11403,7 +11403,7 @@
         }
     },
     {
-        "Name": "Original sandwich crescent, original",
+        "Name": "Original s&wich crescent",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 21.2,
@@ -11412,7 +11412,7 @@
         }
     },
     {
-        "Name": "Flaky butter flavored jumb biscuits, flaky butter",
+        "Name": "Flaky butter flavored jumb biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -11421,7 +11421,7 @@
         }
     },
     {
-        "Name": "90 calorie reduced fat crescents rolls, 90 calorie reduced fat",
+        "Name": "Calorie reduced fat crescents rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.7,
@@ -11430,7 +11430,7 @@
         }
     },
     {
-        "Name": "Original icing flaky cinnamon rolls, original icing",
+        "Name": "Original icing flaky cinnamon rolls",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 16.2,
@@ -11448,7 +11448,7 @@
         }
     },
     {
-        "Name": "Original breadsticks, original",
+        "Name": "Original breadsticks",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 3.9,
@@ -11457,7 +11457,7 @@
         }
     },
     {
-        "Name": "Buttermilk biscuit, buttermilk",
+        "Name": "Buttermilk biscuit",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 8.8,
@@ -11466,7 +11466,7 @@
         }
     },
     {
-        "Name": "Rustic french bread, rustic french",
+        "Name": "Rustic french bread",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 3.2,
@@ -11475,7 +11475,7 @@
         }
     },
     {
-        "Name": "Cinnamon with caramel icing flavored flaky cinnamon rolls, cinnamon with caramel icing",
+        "Name": "Cinnamon with caramel icing flavored flaky cinnamon rolls",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 17.4,
@@ -11484,7 +11484,7 @@
         }
     },
     {
-        "Name": "Honey butter flavored golden homestyle fluffy biscuits, honey butter",
+        "Name": "Honey butter flavored golden homestyle fluffy biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 11.8,
@@ -11493,7 +11493,7 @@
         }
     },
     {
-        "Name": "Blueberry flavor southern homestyle big biscuits, blueberry",
+        "Name": "Blueberry flavor southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 10.3,
@@ -11502,7 +11502,7 @@
         }
     },
     {
-        "Name": "Chocolate chunk fudge brownies, chocolate chunk",
+        "Name": "Chocolate chunk fudge brownies",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 16.3,
@@ -11511,7 +11511,7 @@
         }
     },
     {
-        "Name": "Butter flavored jumbo! biscuits, butter",
+        "Name": "Butter flavored jumbo! biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -11520,7 +11520,7 @@
         }
     },
     {
-        "Name": "Sugar cookies wonder woman shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies wonder woman shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 17.3,
@@ -11529,7 +11529,7 @@
         }
     },
     {
-        "Name": "Reese's peanut butter cookie dough, peanut butter",
+        "Name": "Reeses peanut butter cookie dough",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 15.6,
@@ -11538,7 +11538,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored flaky layers big biscuits, buttermilk",
+        "Name": "Buttermilk flavored flaky layers big biscuits",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 10.3,
@@ -11556,7 +11556,7 @@
         }
     },
     {
-        "Name": "Butter tastin' butter flavor southern homestyle big biscuits, butter tastin'",
+        "Name": "Butter tastin butter flavor southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 12.1,
@@ -11565,7 +11565,7 @@
         }
     },
     {
-        "Name": "Sugar cookie minions shape cookie dough, sugar cookie",
+        "Name": "Sugar cookie minions shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 17.3,
@@ -11574,7 +11574,7 @@
         }
     },
     {
-        "Name": "Pecan turtle delight cookie dough with caramel, pecans & semi-sweet chocolate chips cookies, pecan turtle delight",
+        "Name": "Pecan turtle delight cookie dough with caramel, pecans & semi-sweet chocolate chips cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -11583,7 +11583,7 @@
         }
     },
     {
-        "Name": "Sugar cookies i love mom shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies i love mom shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11592,7 +11592,7 @@
         }
     },
     {
-        "Name": "Sugar cookies back to school shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies back to school shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11601,7 +11601,7 @@
         }
     },
     {
-        "Name": "Sugar cookies sponge out of water shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies sponge out of water shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 19.2,
@@ -11610,7 +11610,7 @@
         }
     },
     {
-        "Name": "Sugar cookie trolls world tour cutout cookie dough, sugar cookie",
+        "Name": "Sugar cookie trolls world tour cutout cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 15.0,
@@ -11619,7 +11619,7 @@
         }
     },
     {
-        "Name": "Everything but the kitchen sink oatmeal cookie with chocolate chunks, sweetened dried cranberry pieces & coconut, everything but the kitchen sink",
+        "Name": "Everything but the kitchen sink oatmeal cookie with chocolate chunks, sweetened dried cranberry pieces & coconut",
         "Nutrients": {
             "Protein": 6.1,
             "Fat": 24.2,
@@ -11637,7 +11637,7 @@
         }
     },
     {
-        "Name": "Pie and pastry gluten free dough, pie and pastry",
+        "Name": "Pie & pastry gluten free dough",
         "Nutrients": {
             "Protein": 1.8,
             "Fat": 30.4,
@@ -11646,7 +11646,7 @@
         }
     },
     {
-        "Name": "Immaculate, cookies, chocolate chunk, chocolate chunk",
+        "Name": "Immaculate, cookies, chocolate chunk",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 23.5,
@@ -11655,7 +11655,7 @@
         }
     },
     {
-        "Name": "Candy cane flavored jumbo cookies, candy cane",
+        "Name": "C&y cane flavored jumbo cookies",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -11664,7 +11664,7 @@
         }
     },
     {
-        "Name": "Vanilla sugar cookies, vanilla sugar",
+        "Name": "Vanilla sugar cookies",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 20.6,
@@ -11673,7 +11673,7 @@
         }
     },
     {
-        "Name": "Original french bread, original",
+        "Name": "Original french bread",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 1.9,
@@ -11682,7 +11682,7 @@
         }
     },
     {
-        "Name": "Big & flaky crescents big rolls, big & flaky",
+        "Name": "Big & flaky crescents big rolls",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 18.6,
@@ -11691,7 +11691,7 @@
         }
     },
     {
-        "Name": "Classic crust pizza crust, classic crust",
+        "Name": "Classic crust pizza crust",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.1,
@@ -11700,7 +11700,7 @@
         }
     },
     {
-        "Name": "Original crescent dough sheet, original",
+        "Name": "Original crescent dough sheet",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 9.2,
@@ -11709,7 +11709,7 @@
         }
     },
     {
-        "Name": "Original crescent rounds rolls, original",
+        "Name": "Original crescent rounds rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 16.1,
@@ -11718,7 +11718,7 @@
         }
     },
     {
-        "Name": "Butter tastin' flaky layers biscuits, butter tastin'",
+        "Name": "Butter tastin flaky layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -11736,7 +11736,7 @@
         }
     },
     {
-        "Name": "Butter flake crescents rolls, butter flake",
+        "Name": "Butter flake crescents rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 16.1,
@@ -11745,7 +11745,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavor flaky layers biscuits, buttermilk",
+        "Name": "Buttermilk flavor flaky layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -11754,7 +11754,7 @@
         }
     },
     {
-        "Name": "Buttermilk southern homestyle big biscuits, buttermilk",
+        "Name": "Buttermilk southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 11.9,
@@ -11763,7 +11763,7 @@
         }
     },
     {
-        "Name": "Southern recipe southern homestyle big biscuits, southern recipe",
+        "Name": "Southern recipe southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 12.1,
@@ -11772,7 +11772,7 @@
         }
     },
     {
-        "Name": "Original southern homestyle big biscuits, original",
+        "Name": "Original southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 12.1,
@@ -11781,7 +11781,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored southern homestyle big biscuits, buttermilk",
+        "Name": "Buttermilk flavored southern homestyle big biscuits",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 11.9,
@@ -11790,7 +11790,7 @@
         }
     },
     {
-        "Name": "Big & buttery flavor crescents big rolls, big & buttery",
+        "Name": "Big & buttery flavor crescents big rolls",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 18.6,
@@ -11799,7 +11799,7 @@
         }
     },
     {
-        "Name": "Butter tastin' flaky layers big biscuits, butter tastin'",
+        "Name": "Butter tastin flaky layers big biscuits",
         "Nutrients": {
             "Protein": 6.9,
             "Fat": 10.3,
@@ -11808,7 +11808,7 @@
         }
     },
     {
-        "Name": "Original icing cinnamon rolls, original icing",
+        "Name": "Original icing cinnamon rolls",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 7.1,
@@ -11826,7 +11826,7 @@
         }
     },
     {
-        "Name": "Star wars, sugar cookies r2-d2 holiday shape cookie dough, sugar cookies",
+        "Name": "Star wars, sugar cookies holiday shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 0.0,
@@ -11844,7 +11844,7 @@
         }
     },
     {
-        "Name": "Sugar cookies race car shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies race car shape cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -11853,7 +11853,7 @@
         }
     },
     {
-        "Name": "Sugar cookies valentine fun shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies valentine fun shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11862,7 +11862,7 @@
         }
     },
     {
-        "Name": "Sugar cookies winter wonder shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies winter wonder shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11871,7 +11871,7 @@
         }
     },
     {
-        "Name": "Sugar cookies be my valentine shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies be my valentine shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11880,7 +11880,7 @@
         }
     },
     {
-        "Name": "Sugar cookies halloween treats shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies halloween treats shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11889,7 +11889,7 @@
         }
     },
     {
-        "Name": "Mint chocolate chip cookie dough, mint chocolate chip",
+        "Name": "Mint chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 18.2,
@@ -11898,7 +11898,7 @@
         }
     },
     {
-        "Name": "Classic pizza dough, classic",
+        "Name": "Classic pizza dough",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 6.5,
@@ -11907,7 +11907,7 @@
         }
     },
     {
-        "Name": "Thin crust pizza dough, thin crust",
+        "Name": "Thin crust pizza dough",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 6.5,
@@ -11916,7 +11916,7 @@
         }
     },
     {
-        "Name": "Hot fudge brownie cookie dough, hot fudge",
+        "Name": "Hot fudge brownie cookie dough",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 21.2,
@@ -11925,7 +11925,7 @@
         }
     },
     {
-        "Name": "Sugar cookies pumpkin cutout cookie dough, sugar cookies",
+        "Name": "Sugar cookies pumpkin cutout cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -11934,7 +11934,7 @@
         }
     },
     {
-        "Name": "Sugar cookies spooky bat cutout cookie dough, sugar cookies",
+        "Name": "Sugar cookies spooky bat cutout cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -11943,7 +11943,7 @@
         }
     },
     {
-        "Name": "Sugar cookies scary halloween shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies scary halloween shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 23.1,
@@ -11952,7 +11952,7 @@
         }
     },
     {
-        "Name": "Sugar cookies justice league shape cookie dough, sugar cookies",
+        "Name": "Sugar cookies justice league shape cookie dough",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 17.3,
@@ -11961,7 +11961,7 @@
         }
     },
     {
-        "Name": "Easter chocolate chip cookie dough with pastel egg sprinkles, chocolate chip",
+        "Name": "Easter chocolate chip cookie dough with pastel egg sprinkles",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -11988,7 +11988,7 @@
         }
     },
     {
-        "Name": "Sweet hawaiian flaky layers big biscuits, sweet hawaiian",
+        "Name": "Sweet hawaiian flaky layers big biscuits",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 10.3,
@@ -11997,7 +11997,7 @@
         }
     },
     {
-        "Name": "Butter tastin' flavor flaky layers biscuits, butter tastin'",
+        "Name": "Butter tastin flavor flaky layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 10.3,
@@ -12006,7 +12006,7 @@
         }
     },
     {
-        "Name": "Birthday cake with vanilla flavored drizzle no-bake cookie dough bites, birthday cake with vanilla flavored drizzle",
+        "Name": "Birthday cake with vanilla flavored drizzle no-bake cookie dough bites",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -12015,7 +12015,7 @@
         }
     },
     {
-        "Name": "Monkey bread flavor pull-apart bites, monkey bread",
+        "Name": "Monkey bread flavor pull-apart bites",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 9.6,
@@ -12042,7 +12042,7 @@
         }
     },
     {
-        "Name": "Sweet hawaiian crescent rolls, sweet hawaiian crescent",
+        "Name": "Sweet hawaiian crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -12051,7 +12051,7 @@
         }
     },
     {
-        "Name": "Cinnamon pull-apart scratch bread mix with cinnamon sugar coating, cinnamon",
+        "Name": "Cinnamon pull-apart scratch bread mix with cinnamon sugar coating",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 0.0,
@@ -12060,7 +12060,7 @@
         }
     },
     {
-        "Name": "Red velvet cookie dough with premier white morsels, red velvet",
+        "Name": "Red velvet cookie dough with premier white morsels",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -12078,7 +12078,7 @@
         }
     },
     {
-        "Name": "Flaky butter flavored jumbo! biscuits, flaky butter",
+        "Name": "Flaky butter flavored jumbo! biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -12096,7 +12096,7 @@
         }
     },
     {
-        "Name": "Peppermint cocoa cocoa cookie dough with red & white peppermint chunks, peppermint cocoa",
+        "Name": "Peppermint cocoa cocoa cookie dough with red & white peppermint chunks",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 20.0,
@@ -12105,7 +12105,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough made with m&m's minis milk chocolate candies, chocolate chip",
+        "Name": "Chocolate chip cookie dough made with m&ms minis milk chocolate c&ies",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 20.0,
@@ -12123,7 +12123,7 @@
         }
     },
     {
-        "Name": "Original flavored buttermilk biscuits, original",
+        "Name": "Original flavored buttermilk biscuits",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.1,
@@ -12132,7 +12132,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough snacks, chocolate chip",
+        "Name": "Chocolate chip cookie dough snacks",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 14.3,
@@ -12141,7 +12141,7 @@
         }
     },
     {
-        "Name": "Cinnamon flavored rolls with icing, cinnamon",
+        "Name": "Cinnamon flavored rolls with icing",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 11.4,
@@ -12150,7 +12150,7 @@
         }
     },
     {
-        "Name": "Rosemary & olive oil pizza dough, rosemary & olive oil",
+        "Name": "Rosemary & olive oil pizza dough",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.6,
@@ -12159,7 +12159,7 @@
         }
     },
     {
-        "Name": "9-inch graham cracker ready-to-eat crust",
+        "Name": "Graham cracker ready-to-eat crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -12168,7 +12168,7 @@
         }
     },
     {
-        "Name": "Chocolate mint gluten free cookie dough, chocolate mint",
+        "Name": "Chocolate mint gluten free cookie dough",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 0.0,
@@ -12177,7 +12177,7 @@
         }
     },
     {
-        "Name": "100% plant-based barbecue sushi wraps, barbecue",
+        "Name": "100% plant-based barbecue sushi wraps",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.0,
@@ -12186,7 +12186,7 @@
         }
     },
     {
-        "Name": "Carrot ginger 100% plant-based sushi wraps, carrot ginger",
+        "Name": "Carrot ginger 100% plant-based sushi wraps",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 0.0,
@@ -12195,7 +12195,7 @@
         }
     },
     {
-        "Name": "Mango sushi wraps, mango",
+        "Name": "Mango sushi wraps",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 0.0,
@@ -12204,7 +12204,7 @@
         }
     },
     {
-        "Name": "100% plant-based pineapple habanero sushi wraps, pineapple",
+        "Name": "100% plant-based pineapple habanero sushi wraps",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -12213,7 +12213,7 @@
         }
     },
     {
-        "Name": "Unflavored gelatin, unflavored",
+        "Name": "Unflavored gelatin",
         "Nutrients": {
             "Protein": 85.7,
             "Fat": 0.0,
@@ -12222,7 +12222,7 @@
         }
     },
     {
-        "Name": "Spring roll pastry wrapper, spring roll pastry",
+        "Name": "Spring roll pastry wrapper",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 4.0,
@@ -12231,7 +12231,7 @@
         }
     },
     {
-        "Name": "Fire-grilled tandoori naan pizza crust, fire-grilled tandoori naan",
+        "Name": "Fire-grilled t&oori naan pizza crust",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 4.8,
@@ -12240,7 +12240,7 @@
         }
     },
     {
-        "Name": "Rustic pizza dough, rustic",
+        "Name": "Rustic pizza dough",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 3.5,
@@ -12249,7 +12249,7 @@
         }
     },
     {
-        "Name": "Vegan chocolate chip cookie dough, vegan chocolate chip",
+        "Name": "Vegan chocolate chip cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 21.4,
@@ -12258,7 +12258,7 @@
         }
     },
     {
-        "Name": "Molasses ginger cookie dough, molasses ginger",
+        "Name": "Molasses ginger cookie dough",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 12.5,
@@ -12267,7 +12267,7 @@
         }
     },
     {
-        "Name": "Everything bagel egg white wraps, everything bagel",
+        "Name": "Everything bagel egg white wraps",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 3.6,
@@ -12276,7 +12276,7 @@
         }
     },
     {
-        "Name": "Graham cracker 9\"\" pie crust, graham cracker",
+        "Name": "Graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -12294,7 +12294,7 @@
         }
     },
     {
-        "Name": "Strawberry graham cracker pie crust, strawberry",
+        "Name": "Strawberry graham cracker pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 0.0,
@@ -12312,7 +12312,7 @@
         }
     },
     {
-        "Name": "Country gravy biscuit bites, country gravy",
+        "Name": "Country gravy biscuit bites",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 13.5,
@@ -12330,7 +12330,7 @@
         }
     },
     {
-        "Name": "Reduced fat crescent rolls, reduced fat",
+        "Name": "Reduced fat crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.7,
@@ -12339,7 +12339,7 @@
         }
     },
     {
-        "Name": "Cinnamon jumbo rolls with buttercream icing, cinnamon",
+        "Name": "Cinnamon jumbo rolls with buttercream icing",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 13.8,
@@ -12348,7 +12348,7 @@
         }
     },
     {
-        "Name": "Butter jumbo flaky biscuits, butter",
+        "Name": "Butter jumbo flaky biscuits",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 12.3,
@@ -12357,7 +12357,7 @@
         }
     },
     {
-        "Name": "Cinnamon jumbo rolls with cream cheese icing, cinnamon",
+        "Name": "Cinnamon jumbo rolls with cream cheese icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 11.1,
@@ -12366,7 +12366,7 @@
         }
     },
     {
-        "Name": "Buttermilk homestyle jumbo biscuits, buttermilk",
+        "Name": "Buttermilk homestyle jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -12375,7 +12375,7 @@
         }
     },
     {
-        "Name": "Buttermilk flaky hearty layers biscuits, buttermilk",
+        "Name": "Buttermilk flaky hearty layers biscuits",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 14.7,
@@ -12384,7 +12384,7 @@
         }
     },
     {
-        "Name": "Ultimate chocolate chip bake at home cookie, ultimate chocolate chip",
+        "Name": "Ultimate chocolate chip bake at home cookie",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -12393,7 +12393,7 @@
         }
     },
     {
-        "Name": "Snickerdoodle break & bake cookie dough, snickerdoodle",
+        "Name": "Snickerdoodle break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -12402,7 +12402,7 @@
         }
     },
     {
-        "Name": "Double chocolate edible cookie dough, double chocolate edible",
+        "Name": "Double chocolate edible cookie dough",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 27.1,
@@ -12411,7 +12411,7 @@
         }
     },
     {
-        "Name": "Vanilla icing cinnamon rolls, vanilla icing",
+        "Name": "Vanilla icing cinnamon rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 12.1,
@@ -12420,7 +12420,7 @@
         }
     },
     {
-        "Name": "Triple chocolate cookie dough, triple chocolate",
+        "Name": "Triple chocolate cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -12429,7 +12429,7 @@
         }
     },
     {
-        "Name": "Pie crusts, pie",
+        "Name": "Pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 22.2,
@@ -12456,7 +12456,7 @@
         }
     },
     {
-        "Name": "Ultra-thin flatbread pizza crusts, ultra-thin flatbread",
+        "Name": "Ultra-thin flatbread pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.4,
@@ -12465,7 +12465,7 @@
         }
     },
     {
-        "Name": "Original chocolate chip cookie dough bites, original chocolate chip",
+        "Name": "Original chocolate chip cookie dough bites",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 26.7,
@@ -12474,7 +12474,7 @@
         }
     },
     {
-        "Name": "Spinach favored wraps, spinach",
+        "Name": "Spinach favored wraps",
         "Nutrients": {
             "Protein": 8.4,
             "Fat": 7.0,
@@ -12483,7 +12483,7 @@
         }
     },
     {
-        "Name": "Whole wheat ultra thin & crispy pizza crusts, whole wheat",
+        "Name": "Whole wheat ultra thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 4.3,
@@ -12492,7 +12492,7 @@
         }
     },
     {
-        "Name": "Wheat ultra thin & crispy pizza crusts, wheat",
+        "Name": "Wheat ultra thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.3,
@@ -12501,7 +12501,7 @@
         }
     },
     {
-        "Name": "Butter jumbo homestyle biscuits, butter",
+        "Name": "Butter jumbo homestyle biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 14.0,
@@ -12510,7 +12510,7 @@
         }
     },
     {
-        "Name": "Turtle cookies break & bake cookie dough, turtle cookies",
+        "Name": "Turtle cookies break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 18.4,
@@ -12519,7 +12519,7 @@
         }
     },
     {
-        "Name": "Pumpkin jumbo gourmet cinnamon rolls with pumpkin spice icing, pumpkin",
+        "Name": "Pumpkin jumbo gourmet cinnamon rolls with pumpkin spice icing",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 7.1,
@@ -12528,7 +12528,7 @@
         }
     },
     {
-        "Name": "Monkey bread gourmet dough, monkey bread",
+        "Name": "Monkey bread gourmet dough",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 13.3,
@@ -12537,7 +12537,7 @@
         }
     },
     {
-        "Name": "Meijer, break 'n bake cookie dough",
+        "Name": "Meijer, break & bake cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 11.8,
@@ -12546,7 +12546,7 @@
         }
     },
     {
-        "Name": "Meijer, break 'n break cookie dough, salted chocolate caramel, salted chocolate caramel",
+        "Name": "Meijer, break & break cookie dough, salted chocolate caramel",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -12564,7 +12564,7 @@
         }
     },
     {
-        "Name": "Triple chip cookies, triple chip",
+        "Name": "Triple chip cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 15.8,
@@ -12573,7 +12573,7 @@
         }
     },
     {
-        "Name": "Homestyle, flaky jumbo biscuits, homestyle, flaky",
+        "Name": "Homestyle, flaky jumbo biscuits, homestyle",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -12582,7 +12582,7 @@
         }
     },
     {
-        "Name": "Create your own cauliflower pizza crusts, create your own",
+        "Name": "Create your own cauliflower pizza crusts",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 5.6,
@@ -12591,7 +12591,7 @@
         }
     },
     {
-        "Name": "Chocolate chip break & bake style cookie dough, chocolate chip",
+        "Name": "Chocolate chip break & bake style cookie dough",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -12609,7 +12609,7 @@
         }
     },
     {
-        "Name": "Wonton wrappers, wonton",
+        "Name": "Wonton wrappers",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 0.0,
@@ -12618,7 +12618,7 @@
         }
     },
     {
-        "Name": "Stuffed double chocolate cookie dough with salted caramel filling jumbo cookies, stuffed double chocolate cookie dough with salted caramel filling",
+        "Name": "Stuffed double chocolate cookie dough with salted caramel filling jumbo cookies",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 17.9,
@@ -12636,7 +12636,7 @@
         }
     },
     {
-        "Name": "Chocolate chip cookie dough with fudge filling stuffed jumbo cookies, chocolate chip cookie dough",
+        "Name": "Chocolate chip cookie dough with fudge filling stuffed jumbo cookies",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 16.1,
@@ -12645,7 +12645,7 @@
         }
     },
     {
-        "Name": "Deep dish 9\" pie crusts and pans",
+        "Name": "Deep dish pie crusts & pans",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 27.3,
@@ -12654,7 +12654,7 @@
         }
     },
     {
-        "Name": "Oriental style egg roll wraps, oriental style egg",
+        "Name": "Oriental style egg roll wraps",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 0.0,
@@ -12663,7 +12663,7 @@
         }
     },
     {
-        "Name": "Wonton wraps square, wonton wraps",
+        "Name": "Wonton wraps square",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 0.0,
@@ -12681,7 +12681,7 @@
         }
     },
     {
-        "Name": "All-butter pie crust, all-butter",
+        "Name": "All-butter pie crust",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 28.6,
@@ -12690,7 +12690,7 @@
         }
     },
     {
-        "Name": "Flaky buttermilk flavored jumbo biscuits, flaky buttermilk",
+        "Name": "Flaky buttermilk flavored jumbo biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 8.8,
@@ -12699,7 +12699,7 @@
         }
     },
     {
-        "Name": "Cauliflower thin & crispy pizza crust, cauliflower",
+        "Name": "Cauliflower thin & crispy pizza crust",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -12708,7 +12708,7 @@
         }
     },
     {
-        "Name": "Buttermilk flavored jumbo! biscuits, buttermilk",
+        "Name": "Buttermilk flavored jumbo! biscuits",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 10.5,
@@ -12717,7 +12717,7 @@
         }
     },
     {
-        "Name": "Sweet cinnamon egg white wraps, sweet cinnamon",
+        "Name": "Sweet cinnamon egg white wraps",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 0.0,
@@ -12726,7 +12726,7 @@
         }
     },
     {
-        "Name": "Egg wraps with pea protein & chia seeds, pea protein & chia seeds",
+        "Name": "Egg wraps with pea protein & chia seeds",
         "Nutrients": {
             "Protein": 50.0,
             "Fat": 12.5,
@@ -12744,7 +12744,7 @@
         }
     },
     {
-        "Name": "Pecan turtle delight cookie dough with caramel, pecans & semi-sweet chocolate chips, pecan turtle delight",
+        "Name": "Pecan turtle delight cookie dough with caramel, pecans & semi-sweet chocolate chips",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 23.7,
@@ -12753,7 +12753,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice cookie dough with premier white morsels, pumpkin spice",
+        "Name": "Pumpkin spice cookie dough with premier white morsels",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 20.0,
@@ -12762,7 +12762,7 @@
         }
     },
     {
-        "Name": "Trick-or-treats fudge cookie dough with halloween sprinkles, trick-or-treats",
+        "Name": "Trick-or-treats fudge cookie dough with halloween sprinkles",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 20.0,
@@ -12771,7 +12771,7 @@
         }
     },
     {
-        "Name": "Milk chocolate sugar cookie dough topped with halloween sprinkles chocolate candies m&m's ghoul's mix, milk chocolate sugar cookie dough",
+        "Name": "Milk chocolate sugar cookie dough topped with halloween sprinkles chocolate c&ies m&ms ghouls mix",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 17.5,
@@ -12780,7 +12780,7 @@
         }
     },
     {
-        "Name": "Traditional pizza crust, traditional",
+        "Name": "Traditional pizza crust",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 4.7,
@@ -12789,7 +12789,7 @@
         }
     },
     {
-        "Name": "Ultra thin & crispy pizza crusts, ultra thin & crispy",
+        "Name": "Ultra thin & crispy pizza crusts",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 5.3,
@@ -12798,7 +12798,7 @@
         }
     },
     {
-        "Name": "Chocolate chip break 'n bake style cookies, chocolate chip",
+        "Name": "Chocolate chip break & bake style cookies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 21.1,
@@ -12816,7 +12816,7 @@
         }
     },
     {
-        "Name": "Butter crescent rolls, butter",
+        "Name": "Butter crescent rolls",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -12825,7 +12825,7 @@
         }
     },
     {
-        "Name": "Original pizza dough mix, original",
+        "Name": "Original pizza dough mix",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 0.0,
@@ -12834,7 +12834,7 @@
         }
     },
     {
-        "Name": "Thin pizza crust with tomato sauce, tomato sauce",
+        "Name": "Thin pizza crust with tomato sauce",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.5,
@@ -12843,7 +12843,7 @@
         }
     },
     {
-        "Name": "Graham cracker 9\" crust, graham cracker",
+        "Name": "Graham cracker crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 28.6,
@@ -12852,7 +12852,7 @@
         }
     },
     {
-        "Name": "Ooey gooey cinnamon rolls, ooey gooey",
+        "Name": "Ooey gooey cinnamon rolls",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 14.7,
@@ -12861,7 +12861,7 @@
         }
     },
     {
-        "Name": "Shredded dough kataifi, shredded dough",
+        "Name": "Shredded dough kataifi",
         "Nutrients": {
             "Protein": 4.3,
             "Fat": 0.0,
@@ -12870,7 +12870,7 @@
         }
     },
     {
-        "Name": "Chocolate zucchini keto crusts, chocolate zucchini",
+        "Name": "Chocolate zucchini keto crusts",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 12.5,
@@ -12906,7 +12906,7 @@
         }
     },
     {
-        "Name": "Cheese bread dough, cheese bread",
+        "Name": "Cheese bread dough",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 15.0,
@@ -12915,7 +12915,7 @@
         }
     },
     {
-        "Name": "Seasonal ballpark with chocolate, peanuts & toffee cookie dough, seasonal ballpark",
+        "Name": "Seasonal ballpark with chocolate, peanuts & toffee cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,
@@ -12924,7 +12924,7 @@
         }
     },
     {
-        "Name": "White flour tortilla mix, white flour",
+        "Name": "White flour tortilla mix",
         "Nutrients": {
             "Protein": 9.8,
             "Fat": 12.2,
@@ -12933,7 +12933,7 @@
         }
     },
     {
-        "Name": "Marshmallow chocolate brownie rounds with marshmallow bits brownie dough, marshmallow",
+        "Name": "Marshmallow chocolate brownie rounds with marshmallow bits brownie dough",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 15.8,
@@ -12942,7 +12942,7 @@
         }
     },
     {
-        "Name": "Sugar cookie elf shape cookie dough, sugar cookie",
+        "Name": "Sugar cookie elf shape cookie dough",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 17.3,
@@ -12960,7 +12960,7 @@
         }
     },
     {
-        "Name": "Graham cracker crust, graham cracker",
+        "Name": "Graham cracker crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -12969,7 +12969,7 @@
         }
     },
     {
-        "Name": "Traditional pie crusts, traditional",
+        "Name": "Traditional pie crusts",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 29.6,
@@ -12978,7 +12978,7 @@
         }
     },
     {
-        "Name": "Graham 9\" pie crust, graham",
+        "Name": "Graham pie crust",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 23.8,
@@ -12996,7 +12996,7 @@
         }
     },
     {
-        "Name": "Birthday cake ashwagandha extract enhanced cookie dough, birthday cake",
+        "Name": "Birthday cake ashwag&ha extract enhanced cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 14.3,
@@ -13005,7 +13005,7 @@
         }
     },
     {
-        "Name": "Pumpkin spice organic cinnamon rolls, pumpkin spice",
+        "Name": "Pumpkin spice organic cinnamon rolls",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 11.1,
@@ -13014,7 +13014,7 @@
         }
     },
     {
-        "Name": "Classic crust pizza, classic",
+        "Name": "Classic crust pizza",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 3.1,
@@ -13032,7 +13032,7 @@
         }
     },
     {
-        "Name": "Cauliflower gluten free pizza crust, cauliflower",
+        "Name": "Cauliflower gluten free pizza crust",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 2.3,
@@ -13041,7 +13041,7 @@
         }
     },
     {
-        "Name": "Vietnamese spring rolls kit with peanut sauce, peanut sauce",
+        "Name": "Vietnamese spring rolls kit with peanut sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 4.8,
@@ -13050,7 +13050,7 @@
         }
     },
     {
-        "Name": "Chocolate chip gluten free cookie dough, chocolate chip",
+        "Name": "Chocolate chip gluten free cookie dough",
         "Nutrients": {
             "Protein": 3.3,
             "Fat": 20.0,
@@ -13059,7 +13059,7 @@
         }
     },
     {
-        "Name": "Whole wheat pizza dough, whole wheat",
+        "Name": "Whole wheat pizza dough",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 1.4,
@@ -13068,7 +13068,7 @@
         }
     },
     {
-        "Name": "All butter pie crusts, all butter",
+        "Name": "All butter pie crusts",
         "Nutrients": {
             "Protein": 3.6,
             "Fat": 25.0,
@@ -13077,7 +13077,7 @@
         }
     },
     {
-        "Name": "Gluten free pizza dough, gluten free",
+        "Name": "Gluten free pizza dough",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 3.7,
@@ -13086,7 +13086,7 @@
         }
     },
     {
-        "Name": "Cookie dough core chocolate chip with fudge core ice cream, fudge core",
+        "Name": "Cookie dough core chocolate chip with fudge core ice cream",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 18.0,
@@ -13095,7 +13095,7 @@
         }
     },
     {
-        "Name": "Edible cookie dough with candy sprinkles, candy sprinkles",
+        "Name": "Edible cookie dough with c&y sprinkles",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 10.3,
@@ -13104,7 +13104,7 @@
         }
     },
     {
-        "Name": "Jalapeno pizza dough, jalapeno",
+        "Name": "Jalapeno pizza dough",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 0.0,
@@ -13113,7 +13113,7 @@
         }
     },
     {
-        "Name": "Cookies & creme edible cookie dough, cookies & creme",
+        "Name": "Cookies & creme edible cookie dough",
         "Nutrients": {
             "Protein": 2.6,
             "Fat": 10.3,
@@ -13122,7 +13122,7 @@
         }
     },
     {
-        "Name": "Hand-tossed style pizza crusts, hand-tossed style",
+        "Name": "H&-tossed style pizza crusts",
         "Nutrients": {
             "Protein": 8.5,
             "Fat": 3.4,
@@ -13140,7 +13140,7 @@
         }
     },
     {
-        "Name": "Chocolate chip zinc & elderberry extract enhanced cookie dough, chocolate chip",
+        "Name": "Chocolate chip zinc & elderberry extract enhanced cookie dough",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 17.9,

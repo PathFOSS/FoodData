@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Wesson vegetable oil 1 gal",
+        "Name": "Wesson vegetable oil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 93.3,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Wesson pure canola oil, 0 g trans fat, cholesterol free, 24 oz., 24 fl oz",
+        "Name": "Wesson pure canola oil, trans fat, cholesterol free, .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 93.3,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "Name": "Pam original cooking spray, 10 ounce (pack of 2)",
+        "Name": "Pam original cooking spray, ounce (pack of",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -27,7 +27,7 @@
         }
     },
     {
-        "Name": "Pam butter cooking spray, 5 ounce",
+        "Name": "Pam butter cooking spray, ounce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -45,7 +45,7 @@
         }
     },
     {
-        "Name": "Pam organic extra virgin olive oil cooking spray, 7 oz",
+        "Name": "Pam organic extra virgin olive oil cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Wesson corn oil 1 gal",
+        "Name": "Wesson corn oil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 93.3,
@@ -63,7 +63,7 @@
         }
     },
     {
-        "Name": "Wesson canola oil 1 gal",
+        "Name": "Wesson canola oil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 93.3,
@@ -72,115 +72,7 @@
         }
     },
     {
-        "Name": "Wesson canola oil 64 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson canola oil 48 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson corn oil 48 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson vegetable oil 16 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson vegetable oil 64 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson vegetable oil 48 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson best blend oil 48 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson corn oil 1.25 gal",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson vegetable oil display 5 qt",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson canola oil display 5 qt",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson corn oil 64 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson canola oil 24 fl oz",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 93.3,
-            "Carbs": 0.0,
-            "Calories": 839.7
-        }
-    },
-    {
-        "Name": "Wesson vegetable oil 24 fl oz",
+        "Name": "Wesson canola oil",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 93.3,
@@ -207,7 +99,115 @@
         }
     },
     {
-        "Name": "Pam hghyld cnla spry 6/17z",
+        "Name": "Wesson vegetable oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson vegetable oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson vegetable oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson best blend oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson corn oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson vegetable oil display qt",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson canola oil display qt",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson corn oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson canola oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson vegetable oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson canola oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Wesson corn oil",
+        "Nutrients": {
+            "Protein": 0.0,
+            "Fat": 93.3,
+            "Carbs": 0.0,
+            "Calories": 839.7
+        }
+    },
+    {
+        "Name": "Pam hghyld cnla spry",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -243,7 +243,7 @@
         }
     },
     {
-        "Name": "Pam extra virgin olive oil cooking spray - 6/17 oz., 17 oz",
+        "Name": "Pam extra virgin olive oil cooking spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Pam grilling spray - 6/17 oz., 17 oz",
+        "Name": "Pam grilling spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Pam grilling cooking spray, 5 oz",
+        "Name": "Pam grilling cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Pam olive oil cooking spray, 5 oz",
+        "Name": "Pam olive oil cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Pam original cooking spray, 8 oz",
+        "Name": "Pam original cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Pam original cooking spray - 6/17 oz., 17 oz",
+        "Name": "Pam original cooking spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Pam liquid trigger spray - non-aerosol - 6/15.5 oz., 15.5 oz",
+        "Name": "Pam liquid trigger spray - non-aerosol - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Pam saut & grill cooking spray - 6/17 oz., 17 oz",
+        "Name": "Pam saut & grill cooking spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -315,7 +315,7 @@
         }
     },
     {
-        "Name": "Pam organic olive oil cooking spray, 5 oz",
+        "Name": "Pam organic olive oil cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -324,7 +324,7 @@
         }
     },
     {
-        "Name": "Pam organic canola cooking spray, 5 oz",
+        "Name": "Pam organic canola cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Pam high heat baking spray - 6/17 oz., 17 oz",
+        "Name": "Pam high heat baking spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -342,7 +342,7 @@
         }
     },
     {
-        "Name": "Pam coconut oil cooking spray, 5 oz",
+        "Name": "Pam coconut oil cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -351,7 +351,7 @@
         }
     },
     {
-        "Name": "Pam buttercoat cooking spray - 6/17 oz., 17 oz",
+        "Name": "Pam buttercoat cooking spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -360,7 +360,7 @@
         }
     },
     {
-        "Name": "Pam baking spray w/ flour - 12/5 oz., 5 oz",
+        "Name": "Pam baking spray w/ flour - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -369,7 +369,7 @@
         }
     },
     {
-        "Name": "Pam vegetable cooking spray, 6 oz",
+        "Name": "Pam vegetable cooking spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -378,7 +378,7 @@
         }
     },
     {
-        "Name": "Grill & saut pan spray, 17 oz",
+        "Name": "Grill & saut pan spray",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -396,7 +396,7 @@
         }
     },
     {
-        "Name": "Specially formulated with extra heat resistant lecithin.  designed for in-direct cooking and direct heat baking applications",
+        "Name": "Specially formulated with extra heat resistant lecithin. designed for in-direct cooking & direct heat baking applications",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -405,7 +405,7 @@
         }
     },
     {
-        "Name": "Long life vegetable oil 48 ounce",
+        "Name": "Long life vegetable oil ounce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 14.0,
@@ -414,7 +414,7 @@
         }
     },
     {
-        "Name": "Long life vegetable oil 128 ounce",
+        "Name": "Long life vegetable oil ounce",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 100.0,
@@ -423,7 +423,7 @@
         }
     },
     {
-        "Name": "Pam high yield canola spray - 6/17 oz.",
+        "Name": "Pam high yield canola spray - .",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

@@ -1,0 +1,587 @@
+[
+    {
+        "Name": "Totinos pizza sticks pepperoni",
+        "Nutrients": {
+            "Protein": 8.6,
+            "Fat": 10.3,
+            "Carbs": 29.3,
+            "Calories": 244.3
+        }
+    },
+    {
+        "Name": "Pint sized ktchn bites reuben",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 7.1,
+            "Carbs": 32.9,
+            "Calories": 242.7
+        }
+    },
+    {
+        "Name": "Jenos by totinos crsp n tsty pizza for combo",
+        "Nutrients": {
+            "Protein": 7.5,
+            "Fat": 10.9,
+            "Carbs": 25.9,
+            "Calories": 231.7
+        }
+    },
+    {
+        "Name": "Jenos by totinos crsp n tsty pizza for chs",
+        "Nutrients": {
+            "Protein": 6.4,
+            "Fat": 9.9,
+            "Carbs": 26.9,
+            "Calories": 222.3
+        }
+    },
+    {
+        "Name": "Jenos by totinos crsp n tsty pizza for supreme",
+        "Nutrients": {
+            "Protein": 7.3,
+            "Fat": 10.0,
+            "Carbs": 25.3,
+            "Calories": 220.4
+        }
+    },
+    {
+        "Name": "Totinos stuffed nachos supreme",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 9.4,
+            "Carbs": 34.1,
+            "Calories": 253.8
+        }
+    },
+    {
+        "Name": "Jenos by totinos crsp n tsty pizza for pepperoni",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 12.1,
+            "Carbs": 26.2,
+            "Calories": 242.1
+        }
+    },
+    {
+        "Name": "Totinos party pizza crsp crst pizza lmtd edtn",
+        "Nutrients": {
+            "Protein": 7.8,
+            "Fat": 9.9,
+            "Carbs": 25.4,
+            "Calories": 221.9
+        }
+    },
+    {
+        "Name": "Totinos party pizza crsp crst pizza supreme",
+        "Nutrients": {
+            "Protein": 7.1,
+            "Fat": 11.0,
+            "Carbs": 24.5,
+            "Calories": 225.4
+        }
+    },
+    {
+        "Name": "Totinos pizza sticks combo",
+        "Nutrients": {
+            "Protein": 6.9,
+            "Fat": 10.3,
+            "Carbs": 31.0,
+            "Calories": 244.3
+        }
+    },
+    {
+        "Name": "Totinos pizza rolls brnd pizza snacks cheeseburger flvr",
+        "Nutrients": {
+            "Protein": 8.2,
+            "Fat": 9.4,
+            "Carbs": 34.1,
+            "Calories": 253.8
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg cheese 100% mz net wt cn",
+        "Nutrients": {
+            "Protein": 12.2,
+            "Fat": 9.6,
+            "Carbs": 22.4,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Sfs tonys galaxy wg cheese 100% net wt - iw cn",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 9.5,
+            "Carbs": 22.2,
+            "Calories": 221.9
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pepp preslcd net wt cn",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 11.6,
+            "Carbs": 22.4,
+            "Calories": 251.2
+        }
+    },
+    {
+        "Name": "Sfs tonys galaxy wg pepperoni 100% net wt - iw cn",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 10.2,
+            "Carbs": 22.0,
+            "Calories": 230.2
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo chs preslcd net wt cn",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 10.9,
+            "Carbs": 23.8,
+            "Calories": 250.5
+        }
+    },
+    {
+        "Name": "Sfs tonys deep dish wg pepperoni 100% net wt cn",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 9.2,
+            "Carbs": 22.0,
+            "Calories": 219.2
+        }
+    },
+    {
+        "Name": "Sfs tonys deep dish wg cheese 100% net wt cn",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 9.2,
+            "Carbs": 22.0,
+            "Calories": 216.0
+        }
+    },
+    {
+        "Name": "Pizza, white garlic, round, cut",
+        "Nutrients": {
+            "Protein": 15.2,
+            "Fat": 11.2,
+            "Carbs": 30.4,
+            "Calories": 283.2
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pb chs preslcd net wt cn",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 11.7,
+            "Carbs": 23.4,
+            "Calories": 251.3
+        }
+    },
+    {
+        "Name": "Sfs tonys smart wg pepperoni net wt cn",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 8.7,
+            "Carbs": 26.0,
+            "Calories": 229.5
+        }
+    },
+    {
+        "Name": "Sfs tonys breakfast wg sausage net wt cn",
+        "Nutrients": {
+            "Protein": 9.6,
+            "Fat": 7.4,
+            "Carbs": 27.7,
+            "Calories": 215.8
+        }
+    },
+    {
+        "Name": "Sfs tonys galaxy wg pepperoni 100% net wt cn",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 10.2,
+            "Carbs": 22.0,
+            "Calories": 230.2
+        }
+    },
+    {
+        "Name": "Sfs tonys deep dish wg cheese net wt - iw cn",
+        "Nutrients": {
+            "Protein": 11.3,
+            "Fat": 9.2,
+            "Carbs": 23.4,
+            "Calories": 221.6
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pepperoni net wt cn",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 11.6,
+            "Carbs": 22.4,
+            "Calories": 251.2
+        }
+    },
+    {
+        "Name": "Sfs tonys fiestada wg cheese beef net wt cn",
+        "Nutrients": {
+            "Protein": 11.0,
+            "Fat": 9.1,
+            "Carbs": 27.9,
+            "Calories": 237.5
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo rc wg bbq chic net wt cn",
+        "Nutrients": {
+            "Protein": 12.7,
+            "Fat": 10.2,
+            "Carbs": 26.8,
+            "Calories": 249.8
+        }
+    },
+    {
+        "Name": "Sfs tonys smart wg pepperoni net wt cn",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 8.7,
+            "Carbs": 25.2,
+            "Calories": 229.5
+        }
+    },
+    {
+        "Name": "Sfs tonys smart wg cheese net wt cn",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 8.6,
+            "Carbs": 25.0,
+            "Calories": 227.4
+        }
+    },
+    {
+        "Name": "Pizza, cheese, round, cut",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 8.7,
+            "Carbs": 24.0,
+            "Calories": 227.5
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pb pepp net wt cn",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 11.7,
+            "Carbs": 23.4,
+            "Calories": 251.3
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo buffalo chicken cn",
+        "Nutrients": {
+            "Protein": 13.5,
+            "Fat": 12.8,
+            "Carbs": 23.6,
+            "Calories": 263.6
+        }
+    },
+    {
+        "Name": "Pizza, white garlic, round, cut",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 12.7,
+            "Carbs": 33.8,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "Tonys pizza egg & sausage & cheese",
+        "Nutrients": {
+            "Protein": 12.5,
+            "Fat": 7.5,
+            "Carbs": 28.8,
+            "Calories": 232.7
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg garlic cheese 100% net wt cn",
+        "Nutrients": {
+            "Protein": 15.6,
+            "Fat": 13.1,
+            "Carbs": 23.8,
+            "Calories": 275.5
+        }
+    },
+    {
+        "Name": "Sfs big daddys rolled edge chs net wt cn",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 11.1,
+            "Carbs": 27.5,
+            "Calories": 259.5
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo cheese net wt cn",
+        "Nutrients": {
+            "Protein": 14.3,
+            "Fat": 10.9,
+            "Carbs": 23.8,
+            "Calories": 250.5
+        }
+    },
+    {
+        "Name": "Sfs tonys smart wg cheese net wt cn",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.5,
+            "Carbs": 24.6,
+            "Calories": 220.9
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg cheese net wt cn",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 7.9,
+            "Carbs": 22.9,
+            "Calories": 211.1
+        }
+    },
+    {
+        "Name": "Sfs tonys wg sausage 100% net wt cn",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 7.5,
+            "Carbs": 24.8,
+            "Calories": 214.7
+        }
+    },
+    {
+        "Name": "Sfs tonys deep dish wg pepperoni net wt - iw cn",
+        "Nutrients": {
+            "Protein": 12.1,
+            "Fat": 9.2,
+            "Carbs": 23.4,
+            "Calories": 224.8
+        }
+    },
+    {
+        "Name": "Sfs tonys breakfast wg sausage sq white sce net wt cn",
+        "Nutrients": {
+            "Protein": 11.8,
+            "Fat": 8.2,
+            "Carbs": 28.2,
+            "Calories": 233.8
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg pepperoni 100% mz net wt cn",
+        "Nutrients": {
+            "Protein": 12.4,
+            "Fat": 10.5,
+            "Carbs": 22.9,
+            "Calories": 235.7
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo four meat cn",
+        "Nutrients": {
+            "Protein": 13.3,
+            "Fat": 11.3,
+            "Carbs": 24.0,
+            "Calories": 250.9
+        }
+    },
+    {
+        "Name": "Tonys pizza egg & cheese",
+        "Nutrients": {
+            "Protein": 11.4,
+            "Fat": 7.6,
+            "Carbs": 29.1,
+            "Calories": 230.4
+        }
+    },
+    {
+        "Name": "Sfs tonys breakfast wg bacon scramble sq net wt cn",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 10.7,
+            "Carbs": 27.4,
+            "Calories": 253.5
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pb chs net wt cn",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 11.7,
+            "Carbs": 23.4,
+            "Calories": 251.3
+        }
+    },
+    {
+        "Name": "Pizza, cheese, round, cut",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 9.2,
+            "Carbs": 26.0,
+            "Calories": 246.8
+        }
+    },
+    {
+        "Name": "Sfs tonys galaxy wg cheese 100% net wt cn",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 9.5,
+            "Carbs": 20.6,
+            "Calories": 215.5
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg pepperoni net wt cn",
+        "Nutrients": {
+            "Protein": 12.9,
+            "Fat": 8.6,
+            "Carbs": 22.9,
+            "Calories": 220.6
+        }
+    },
+    {
+        "Name": "Sfs big daddys bold 51% wg chs net wt cn",
+        "Nutrients": {
+            "Protein": 12.0,
+            "Fat": 10.1,
+            "Carbs": 27.2,
+            "Calories": 247.7
+        }
+    },
+    {
+        "Name": "Sfs tonys smrt wg chs net wt cn",
+        "Nutrients": {
+            "Protein": 12.3,
+            "Fat": 8.5,
+            "Carbs": 25.4,
+            "Calories": 227.3
+        }
+    },
+    {
+        "Name": "Pizza, cheese, square, cut",
+        "Nutrients": {
+            "Protein": 15.0,
+            "Fat": 9.2,
+            "Carbs": 26.0,
+            "Calories": 246.8
+        }
+    },
+    {
+        "Name": "Pizza, white garlic, square, cut",
+        "Nutrients": {
+            "Protein": 16.9,
+            "Fat": 12.7,
+            "Carbs": 33.8,
+            "Calories": 317.1
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo rc wg sr net wt cn",
+        "Nutrients": {
+            "Protein": 11.5,
+            "Fat": 8.9,
+            "Carbs": 27.4,
+            "Calories": 235.7
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg multi cheese net wt cn",
+        "Nutrients": {
+            "Protein": 14.8,
+            "Fat": 12.3,
+            "Carbs": 23.8,
+            "Calories": 265.1
+        }
+    },
+    {
+        "Name": "Sfs big daddys primo pb pep cl pslcd net wt cn",
+        "Nutrients": {
+            "Protein": 13.1,
+            "Fat": 11.7,
+            "Carbs": 23.4,
+            "Calories": 251.3
+        }
+    },
+    {
+        "Name": "Sfs tonys thick crust wg cheese net wt cn",
+        "Nutrients": {
+            "Protein": 11.7,
+            "Fat": 10.3,
+            "Carbs": 24.8,
+            "Calories": 238.7
+        }
+    },
+    {
+        "Name": "Sfs tonys bkft tky saus iw net wt cn",
+        "Nutrients": {
+            "Protein": 10.6,
+            "Fat": 6.7,
+            "Carbs": 29.8,
+            "Calories": 221.9
+        }
+    },
+    {
+        "Name": "Sfs tonys french bread wg multi cheese net wt - iw cn",
+        "Nutrients": {
+            "Protein": 14.8,
+            "Fat": 12.3,
+            "Carbs": 23.8,
+            "Calories": 265.1
+        }
+    },
+    {
+        "Name": "Sfs big daddys bold 51% wg pepp net wt cn",
+        "Nutrients": {
+            "Protein": 12.6,
+            "Fat": 11.3,
+            "Carbs": 27.0,
+            "Calories": 260.1
+        }
+    },
+    {
+        "Name": "Annies uncured pepperoni mini pizza bagels count",
+        "Nutrients": {
+            "Protein": 11.9,
+            "Fat": 7.1,
+            "Carbs": 30.9,
+            "Calories": 235.1
+        }
+    },
+    {
+        "Name": "Pillsbury sausage toaster scrambles pastries count",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 19.6,
+            "Carbs": 35.3,
+            "Calories": 352.8
+        }
+    },
+    {
+        "Name": "Pillsbury bacon toaster scrambles pastries count",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 19.6,
+            "Carbs": 37.2,
+            "Calories": 360.4
+        }
+    },
+    {
+        "Name": "Pillsbury bacon toaster scrambles pastries count",
+        "Nutrients": {
+            "Protein": 8.8,
+            "Fat": 19.1,
+            "Carbs": 37.8,
+            "Calories": 358.3
+        }
+    }
+]
