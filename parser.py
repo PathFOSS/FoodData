@@ -173,7 +173,7 @@ def createFinalDictionary():
                                 if name != None and isinstance(name, str) and name not in nameList and chunkDict["fdc_id"] in categoricalDict[category].get(str(chunkDict["fdc_id"])[0:4], []):
                                         nameList.append(name)
 
-                                        cleanName = name.lower().replace("+", "&").replace("and", "&").replace("'n", "&").replace("'", "").replace(";", "").replace("#", "").replace("|", "").replace("\"", "").replace(" / ", "").replace("100%% organic", "")
+                                        cleanName = name.lower().replace("+", " & ").replace(" and ", " & ").replace("'n", " & ").replace("'", "").replace(";", "").replace("#", "").replace("|", " ").replace("\"", "").replace(" / ", " ").replace("100%% organic", " ")
                                         cleanName = ' '.join(s for s in cleanName.split() if any(c == "%" for c in s) or not any(c.isdigit() for c in s)) # Delete words with digits except when it ends with a percent sign
                                         cleanName = re.sub(r"(\(.*\))|(\[.*\])", "", cleanName) # Delete bracketed items
                                         cleanName = re.sub(r"\b(oz|g|lb|lbs|ml|fl|gal)\b", "", cleanName) # Delete units
