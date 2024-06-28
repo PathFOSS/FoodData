@@ -189,7 +189,7 @@
         }
     },
     {
-        "Name": "Bayou recipe cookin shrimp & sausage gumbo spicy mix of creole seasoned vegetables, plump shrimp & &ouille sausage simmered in a spicy southern inspired roux",
+        "Name": "Bayou recipe cookin shrimp & sausage gumbo spicy mix of creole seasoned vegetables, plump shrimp & andouille sausage simmered in a spicy southern inspired roux",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 2.9,
@@ -270,7 +270,7 @@
         }
     },
     {
-        "Name": "Chicken tikka masala with basmati rice roasted white meat chicken simmered with t&oori spices in a robust, creamy tomato sauce",
+        "Name": "Chicken tikka masala with basmati rice roasted white meat chicken simmered with tandoori spices in a robust, creamy tomato sauce",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.2,
@@ -306,7 +306,7 @@
         }
     },
     {
-        "Name": "Vegetable pad thai with rice noodles h&crafted firm tofu with carrots, scallions & peanuts in a thai-style peanut sauce",
+        "Name": "Vegetable pad thai with rice noodles handcrafted firm tofu with carrots, scallions & peanuts in a thai-style peanut sauce",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 4.6,
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "Name": "Chicken enchilada h&-rolled corn tortilla filled with chicken & vegetables, topped with a flavorful monterey cheese sauce & served with a side of seasoned rice & black beans",
+        "Name": "Chicken enchilada hand-rolled corn tortilla filled with chicken & vegetables, topped with a flavorful monterey cheese sauce & served with a side of seasoned rice & black beans",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 4.5,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Chick& fajita bowl",
+        "Name": "Chick & fajita bowl",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 1.4,
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "Name": "H&crafted chicken burrito made with all natural grilled white meat chicken, cilantro lime rice, monterey jack cheese & corn salsa",
+        "Name": "Handcrafted chicken burrito made with all natural grilled white meat chicken, cilantro lime rice, monterey jack cheese & corn salsa",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.5,
@@ -2889,7 +2889,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken fully cooked, boneless, tempura chicken breast pieces in a m&arin orange sauce meal starter",
+        "Name": "Mandarin orange chicken fully cooked, boneless, tempura chicken breast pieces in a mandarin orange sauce meal starter",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 6.4,
@@ -2988,7 +2988,7 @@
         }
     },
     {
-        "Name": "Veggie bacon, egg whites & monterey jack flatbread s&wiches, veggie bacon",
+        "Name": "Veggie bacon, egg whites & monterey jack flatbread sandwiches, veggie bacon",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 8.0,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Pepper jack cheese & green chile sauce bean & cheese h&made burrito",
+        "Name": "Pepper jack cheese & green chile sauce bean & cheese handmade burrito",
         "Nutrients": {
             "Protein": 9.9,
             "Fat": 7.5,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Chipotle chick& meatless gardein plant-based chickn strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas, chipotle chickn",
+        "Name": "Chipotle chick & meatless gardein plant-based chickn strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas, chipotle chickn",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 1.9,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "Chick& tikka masala meatless riced veggie cuisine",
+        "Name": "Chick & tikka masala meatless riced veggie cuisine",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 5.5,
@@ -3600,7 +3600,7 @@
         }
     },
     {
-        "Name": "Chick& moroccan stew meatless riced veggie cuisine",
+        "Name": "Chick & moroccan stew meatless riced veggie cuisine",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.8,
@@ -3870,7 +3870,7 @@
         }
     },
     {
-        "Name": "T&oor chef, balanced vegetarian kofta curry",
+        "Name": "Tandoor chef, balanced vegetarian kofta curry",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.7,
@@ -4014,7 +4014,7 @@
         }
     },
     {
-        "Name": "New engl& clam chowder",
+        "Name": "New england clam chowder",
         "Nutrients": {
             "Protein": 3.9,
             "Fat": 9.9,
@@ -4428,7 +4428,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken",
+        "Name": "Mandarin orange chicken",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 8.6,
@@ -4473,7 +4473,7 @@
         }
     },
     {
-        "Name": "Tinas, beef & beangreen chili burrito",
+        "Name": "Tinas, beef & bean green chili burrito",
         "Nutrients": {
             "Protein": 8.0,
             "Fat": 13.3,
@@ -4518,7 +4518,7 @@
         }
     },
     {
-        "Name": "Flatbread pocket s&wiches",
+        "Name": "Flatbread pocket sandwiches",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 11.4,
@@ -4527,7 +4527,7 @@
         }
     },
     {
-        "Name": "Turkey sausage & cheese flatbread pocket s&wiches",
+        "Name": "Turkey sausage & cheese flatbread pocket sandwiches",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 11.1,
@@ -4725,7 +4725,7 @@
         }
     },
     {
-        "Name": "T&oor chef, channa masala",
+        "Name": "Tandoor chef, channa masala",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 6.4,
@@ -4833,7 +4833,7 @@
         }
     },
     {
-        "Name": "T&oor chef, chicken tikka masala with cumin-infused basmati rice",
+        "Name": "Tandoor chef, chicken tikka masala with cumin-infused basmati rice",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 5.5,
@@ -5148,7 +5148,7 @@
         }
     },
     {
-        "Name": "T&oor chef, chicken curry with seasoned basmati rice",
+        "Name": "Tandoor chef, chicken curry with seasoned basmati rice",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 4.7,
@@ -6435,7 +6435,7 @@
         }
     },
     {
-        "Name": "V&en brink, uncooked pork meatloaf",
+        "Name": "Vanden brink, uncooked pork meatloaf",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 17.9,
@@ -7758,7 +7758,7 @@
         }
     },
     {
-        "Name": "Isl& chicken & rice",
+        "Name": "Island chicken & rice",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.8,
@@ -8235,7 +8235,7 @@
         }
     },
     {
-        "Name": "Cheeseburgers s&wiches",
+        "Name": "Cheeseburgers sandwiches",
         "Nutrients": {
             "Protein": 14.4,
             "Fat": 16.4,
@@ -8451,7 +8451,7 @@
         }
     },
     {
-        "Name": "T&oor chef, chicken biryani",
+        "Name": "Tandoor chef, chicken biryani",
         "Nutrients": {
             "Protein": 12.0,
             "Fat": 5.3,
@@ -8595,7 +8595,7 @@
         }
     },
     {
-        "Name": "Luvo, t&oori-inspired spiced chicken with mango, brown jasmine rice, broccoli & cauliflower",
+        "Name": "Luvo, tandoori-inspired spiced chicken with mango, brown jasmine rice, broccoli & cauliflower",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 2.5,
@@ -9522,7 +9522,7 @@
         }
     },
     {
-        "Name": "Gr&cestors, beef & chicken chorizo patties",
+        "Name": "Grandcestors, beef & chicken chorizo patties",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 4.4,
@@ -9531,7 +9531,7 @@
         }
     },
     {
-        "Name": "Gr&cestors, not yer mommas meatloaf",
+        "Name": "Grandcestors, not yer mommas meatloaf",
         "Nutrients": {
             "Protein": 7.7,
             "Fat": 2.4,
@@ -9540,7 +9540,7 @@
         }
     },
     {
-        "Name": "Gr&cestors, le poulet granscendant sauteed chicken breast",
+        "Name": "Grandcestors, le poulet granscendant sauteed chicken breast",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 4.6,
@@ -10350,7 +10350,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken meal starter",
+        "Name": "Mandarin orange chicken meal starter",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 5.7,
@@ -11565,7 +11565,7 @@
         }
     },
     {
-        "Name": "New engl& seafood boil",
+        "Name": "New england seafood boil",
         "Nutrients": {
             "Protein": 9.1,
             "Fat": 0.8,
@@ -12888,7 +12888,7 @@
         }
     },
     {
-        "Name": "&ouille sausage & oats",
+        "Name": "Andouille sausage & oats",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 4.2,
@@ -13428,7 +13428,7 @@
         }
     },
     {
-        "Name": "Cheeseburger s&wich",
+        "Name": "Cheeseburger sandwich",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 14.4,
@@ -13446,7 +13446,7 @@
         }
     },
     {
-        "Name": "Angus cheeseburger s&wich",
+        "Name": "Angus cheeseburger sandwich",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 15.3,
@@ -13581,7 +13581,7 @@
         }
     },
     {
-        "Name": "Creole style chicken breast & &ouille sausage gumbo",
+        "Name": "Creole style chicken breast & andouille sausage gumbo",
         "Nutrients": {
             "Protein": 8.3,
             "Fat": 5.1,
@@ -14697,7 +14697,7 @@
         }
     },
     {
-        "Name": "Gr&mas chicken & vegetable rice bake",
+        "Name": "Grandmas chicken & vegetable rice bake",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 5.9,
@@ -16056,7 +16056,7 @@
         }
     },
     {
-        "Name": "Steakburger with bbq pued pork s&wich",
+        "Name": "Steakburger with bbq pued pork sandwich",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 11.8,
@@ -16074,7 +16074,7 @@
         }
     },
     {
-        "Name": "Bavarian style pretzel burger, wrapped s&wiches",
+        "Name": "Bavarian style pretzel burger, wrapped sandwiches",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 10.0,
@@ -18324,7 +18324,7 @@
         }
     },
     {
-        "Name": "Tender pasta h&-layered between a blend of seasoned ground beef, cheeses & fire-roasted tomato lasagna meat & sauce.",
+        "Name": "Tender pasta hand-layered between a blend of seasoned ground beef, cheeses & fire-roasted tomato lasagna meat & sauce.",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 5.6,
@@ -19278,7 +19278,7 @@
         }
     },
     {
-        "Name": "Mu shu chicken & vegetables with m&arin pancakes & dipping sauce",
+        "Name": "Mu shu chicken & vegetables with mandarin pancakes & dipping sauce",
         "Nutrients": {
             "Protein": 7.5,
             "Fat": 3.9,
@@ -19449,7 +19449,7 @@
         }
     },
     {
-        "Name": "Black eye peas & &ouille in tomato gravy",
+        "Name": "Black eye peas & andouille in tomato gravy",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 5.3,
@@ -19602,7 +19602,7 @@
         }
     },
     {
-        "Name": "H&held pot pie",
+        "Name": "Handheld pot pie",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 9.4,
@@ -19935,7 +19935,7 @@
         }
     },
     {
-        "Name": "H& made bean & cheese jumbo burrito",
+        "Name": "Hand made bean & cheese jumbo burrito",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 7.4,
@@ -19944,7 +19944,7 @@
         }
     },
     {
-        "Name": "H& made beef & bean jumbo burrito",
+        "Name": "Hand made beef & bean jumbo burrito",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 10.6,
@@ -19953,7 +19953,7 @@
         }
     },
     {
-        "Name": "H& made beef & potato jumbo burrito",
+        "Name": "Hand made beef & potato jumbo burrito",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 9.9,
@@ -19962,7 +19962,7 @@
         }
     },
     {
-        "Name": "H& made red hot jumbo burrito",
+        "Name": "Hand made red hot jumbo burrito",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 5.3,
@@ -19998,7 +19998,7 @@
         }
     },
     {
-        "Name": "Mexican style beef mac& cheese",
+        "Name": "Mexican style beef mac & cheese",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 9.8,
@@ -20313,7 +20313,7 @@
         }
     },
     {
-        "Name": "H& made green jumbo burrito",
+        "Name": "Hand made green jumbo burrito",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 5.3,
@@ -21681,7 +21681,7 @@
         }
     },
     {
-        "Name": "Burrito gr&e with chile verde",
+        "Name": "Burrito grande with chile verde",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 6.3,
@@ -22275,7 +22275,7 @@
         }
     },
     {
-        "Name": "Skillet meals chick& florentino",
+        "Name": "Skillet meals chick & florentino",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 4.9,
@@ -22284,7 +22284,7 @@
         }
     },
     {
-        "Name": "Asian style chick& fried rice",
+        "Name": "Asian style chick & fried rice",
         "Nutrients": {
             "Protein": 5.6,
             "Fat": 2.1,
@@ -22302,7 +22302,7 @@
         }
     },
     {
-        "Name": "Skillet meals chick& fiesta",
+        "Name": "Skillet meals chick & fiesta",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 2.8,
@@ -22734,7 +22734,7 @@
         }
     },
     {
-        "Name": "S&wiches",
+        "Name": "Sandwiches",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.2,
@@ -23058,7 +23058,7 @@
         }
     },
     {
-        "Name": "Cheese omelet with bacon hash & creole style holl&aise",
+        "Name": "Cheese omelet with bacon hash & creole style hollandaise",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 8.6,
@@ -23121,7 +23121,7 @@
         }
     },
     {
-        "Name": "H&held pie",
+        "Name": "Handheld pie",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 19.0,
@@ -23868,7 +23868,7 @@
         }
     },
     {
-        "Name": "H&held buffalo chick& pot pie",
+        "Name": "Handheld buffalo chick & pot pie",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 18.8,
@@ -23877,7 +23877,7 @@
         }
     },
     {
-        "Name": "Chick& veggie pot pie",
+        "Name": "Chick & veggie pot pie",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 14.1,
@@ -24282,7 +24282,7 @@
         }
     },
     {
-        "Name": "Chick& fajita bowl",
+        "Name": "Chick & fajita bowl",
         "Nutrients": {
             "Protein": 7.0,
             "Fat": 2.5,
@@ -24291,7 +24291,7 @@
         }
     },
     {
-        "Name": "Teriyaki chick& bowl",
+        "Name": "Teriyaki chick & bowl",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 1.9,
@@ -24561,7 +24561,7 @@
         }
     },
     {
-        "Name": "H&crafted chicken burrito",
+        "Name": "Handcrafted chicken burrito",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.5,
@@ -24867,7 +24867,7 @@
         }
     },
     {
-        "Name": "M&arin orange sesame chicken yum yum stix, m&arin orange chicken",
+        "Name": "Mandarin orange sesame chicken yum yum stix, mandarin orange chicken",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 4.7,
@@ -24903,7 +24903,7 @@
         }
     },
     {
-        "Name": "H&crafted chicken burritos",
+        "Name": "Handcrafted chicken burritos",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 6.5,
@@ -24948,7 +24948,7 @@
         }
     },
     {
-        "Name": "Microwaveable chorizo mac& cheese",
+        "Name": "Microwaveable chorizo mac & cheese",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 10.6,
@@ -25713,7 +25713,7 @@
         }
     },
     {
-        "Name": "Isl& chicken & rice roasted white chicken & pineapple in a jerk sauce with a southwest style rice blend",
+        "Name": "Island chicken & rice roasted white chicken & pineapple in a jerk sauce with a southwest style rice blend",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 1.8,
@@ -26253,7 +26253,7 @@
         }
     },
     {
-        "Name": "Chik& tenders",
+        "Name": "Chik & tenders",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 1.3,
@@ -26550,7 +26550,7 @@
         }
     },
     {
-        "Name": "Stuffed peppers green bell peppers h&-filled with beef & rice in a zesty tomato sauce",
+        "Name": "Stuffed peppers green bell peppers hand-filled with beef & rice in a zesty tomato sauce",
         "Nutrients": {
             "Protein": 4.0,
             "Fat": 3.5,
@@ -26748,7 +26748,7 @@
         }
     },
     {
-        "Name": "Green bell pepper h&-filled with beef & rice in a zesty tomato sauce, stuffed pepper",
+        "Name": "Green bell pepper hand-filled with beef & rice in a zesty tomato sauce, stuffed pepper",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.8,
@@ -27126,7 +27126,7 @@
         }
     },
     {
-        "Name": "Gr&mas chicken & vegetable rice bake tender white meat chicken, vegetables & rice in a cheddar cheese sauce",
+        "Name": "Grandmas chicken & vegetable rice bake tender white meat chicken, vegetables & rice in a cheddar cheese sauce",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 5.9,
@@ -27162,7 +27162,7 @@
         }
     },
     {
-        "Name": "Large size stuffed green bell peppers h&-filled with beef & rice in a zesty tomato sauce",
+        "Name": "Large size stuffed green bell peppers hand-filled with beef & rice in a zesty tomato sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.2,
@@ -27324,7 +27324,7 @@
         }
     },
     {
-        "Name": "Mild chicken enchiladas shredded white meat chicken & vegetables wrapped in h&-rolled corn tortillas over rice & topped with real cheese & spicy cream sauce",
+        "Name": "Mild chicken enchiladas shredded white meat chicken & vegetables wrapped in hand-rolled corn tortillas over rice & topped with real cheese & spicy cream sauce",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.5,
@@ -27909,7 +27909,7 @@
         }
     },
     {
-        "Name": "Mild shredded white meat chicken & vegetables wrapped in h&-rolled corn tortillas over rice & topped with real cheese & spicy cream sauce enchiladas",
+        "Name": "Mild shredded white meat chicken & vegetables wrapped in hand-rolled corn tortillas over rice & topped with real cheese & spicy cream sauce enchiladas",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 3.8,
@@ -28656,7 +28656,7 @@
         }
     },
     {
-        "Name": "Aged asiago lasagna freshly made h&-layered pasta with aged asiago lasagna, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce",
+        "Name": "Aged asiago lasagna freshly made hand-layered pasta with aged asiago lasagna, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 4.2,
@@ -28818,7 +28818,7 @@
         }
     },
     {
-        "Name": "S&wiches, croissant crust",
+        "Name": "Sandwiches, croissant crust",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.2,
@@ -29871,7 +29871,7 @@
         }
     },
     {
-        "Name": "Burrito philly s&wich",
+        "Name": "Burrito philly sandwich",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 6.3,
@@ -29880,7 +29880,7 @@
         }
     },
     {
-        "Name": "Burrito chick& fajita",
+        "Name": "Burrito chick & fajita",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 6.3,
@@ -29970,7 +29970,7 @@
         }
     },
     {
-        "Name": "H&held pot pie, beefy cheddar",
+        "Name": "Handheld pot pie, beefy cheddar",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 13.5,
@@ -30222,7 +30222,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken bowl",
+        "Name": "Mandarin orange chicken bowl",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.9,
@@ -30330,7 +30330,7 @@
         }
     },
     {
-        "Name": "Jambalaya flavored with &ouille sausage",
+        "Name": "Jambalaya flavored with andouille sausage",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 5.0,
@@ -31284,7 +31284,7 @@
         }
     },
     {
-        "Name": "Vegan creamery, chili mac& chao",
+        "Name": "Vegan creamery, chili mac & chao",
         "Nutrients": {
             "Protein": 4.5,
             "Fat": 6.4,
@@ -31770,7 +31770,7 @@
         }
     },
     {
-        "Name": "Filipino adobo chik& enlightened foods",
+        "Name": "Filipino adobo chik & enlightened foods",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 1.0,
@@ -31842,7 +31842,7 @@
         }
     },
     {
-        "Name": "Seasoned chicken with beans, rice & three cheeses in a h& stretched flour tortilla burritos, chicken, bean & cheese",
+        "Name": "Seasoned chicken with beans, rice & three cheeses in a hand stretched flour tortilla burritos, chicken, bean & cheese",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.2,
@@ -31851,7 +31851,7 @@
         }
     },
     {
-        "Name": "Shredded beef steak with beans & three cheeses in a h& stretched flour tortilla burritos, steak, bean & cheese",
+        "Name": "Shredded beef steak with beans & three cheeses in a hand stretched flour tortilla burritos, steak, bean & cheese",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.3,
@@ -32499,7 +32499,7 @@
         }
     },
     {
-        "Name": "H& rolled chicken wrap with freshly made marinara sauce & ricotta cheese italian style dish",
+        "Name": "Hand rolled chicken wrap with freshly made marinara sauce & ricotta cheese italian style dish",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 7.0,
@@ -32733,7 +32733,7 @@
         }
     },
     {
-        "Name": "Italian style gravy & sliced beef s&wiches party pack",
+        "Name": "Italian style gravy & sliced beef sandwiches party pack",
         "Nutrients": {
             "Protein": 8.7,
             "Fat": 6.0,
@@ -32823,7 +32823,7 @@
         }
     },
     {
-        "Name": "H&-wrapped shrimp wonton ramen with yu choy",
+        "Name": "Hand-wrapped shrimp wonton ramen with yu choy",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 1.0,
@@ -32868,7 +32868,7 @@
         }
     },
     {
-        "Name": "Bayou recipe cookin shrimp & sausage gumbo spicy mix of creole seasoned vegetables, plump shrimp & &ouille sausage simmered in a spicy southern inspired roux",
+        "Name": "Bayou recipe cookin shrimp & sausage gumbo spicy mix of creole seasoned vegetables, plump shrimp & andouille sausage simmered in a spicy southern inspired roux",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 2.9,
@@ -32904,7 +32904,7 @@
         }
     },
     {
-        "Name": "Pop& chicken white chicken nugget patty fritters & fun formed mashed potatoes",
+        "Name": "Pop & chicken white chicken nugget patty fritters & fun formed mashed potatoes",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 7.8,
@@ -33282,7 +33282,7 @@
         }
     },
     {
-        "Name": "Plant-based chick& with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
+        "Name": "Plant-based chick & with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -33984,7 +33984,7 @@
         }
     },
     {
-        "Name": "Meatless alfredo chick& plant-based chick& with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
+        "Name": "Meatless alfredo chick & plant-based chick & with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -34173,7 +34173,7 @@
         }
     },
     {
-        "Name": "Meatless garlic chick& plant-based chick& with pasta in a garlic sauce with broccoli, carrots & corn",
+        "Name": "Meatless garlic chick & plant-based chick & with pasta in a garlic sauce with broccoli, carrots & corn",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.4,
@@ -34191,7 +34191,7 @@
         }
     },
     {
-        "Name": "Flatbread pocket s&wiches, chicken melts",
+        "Name": "Flatbread pocket sandwiches, chicken melts",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 11.4,
@@ -34389,7 +34389,7 @@
         }
     },
     {
-        "Name": "Pop& chicken white chicken nugget patty fritters & fun formed mashed potatoes",
+        "Name": "Pop & chicken white chicken nugget patty fritters & fun formed mashed potatoes",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 7.8,
@@ -35037,7 +35037,7 @@
         }
     },
     {
-        "Name": "Stuffed green bell pepper h&-filled with beef & rice in a zesty tomato sauce, stuffed pepper",
+        "Name": "Stuffed green bell pepper hand-filled with beef & rice in a zesty tomato sauce, stuffed pepper",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.8,
@@ -35280,7 +35280,7 @@
         }
     },
     {
-        "Name": "Stuffed peppers green bell peppers h&-filled with beef & rice in a zesty tomato sauce",
+        "Name": "Stuffed peppers green bell peppers hand-filled with beef & rice in a zesty tomato sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.2,
@@ -36306,7 +36306,7 @@
         }
     },
     {
-        "Name": "Aged asiago lasagna freshly made h&-layered pasta with asiago, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce",
+        "Name": "Aged asiago lasagna freshly made hand-layered pasta with asiago, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 4.2,
@@ -37062,7 +37062,7 @@
         }
     },
     {
-        "Name": "Gourmet seasoned chicken with beans, rice & three cheeses in a h& stretched flour tortilla burritos, chicken, bean & cheese",
+        "Name": "Gourmet seasoned chicken with beans, rice & three cheeses in a hand stretched flour tortilla burritos, chicken, bean & cheese",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.2,
@@ -37260,7 +37260,7 @@
         }
     },
     {
-        "Name": "Meatless alfredo chick& plant-based chick& with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
+        "Name": "Meatless alfredo chick & plant-based chick & with pasta in an alfredo cheese sauce with carrots, broccoli & garden peas",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -37431,7 +37431,7 @@
         }
     },
     {
-        "Name": "Meatless garlic chick& plant-based chick& with pasta in a garlic sauce with broccoli, carrots & corn",
+        "Name": "Meatless garlic chick & plant-based chick & with pasta in a garlic sauce with broccoli, carrots & corn",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.4,
@@ -38529,7 +38529,7 @@
         }
     },
     {
-        "Name": "Quick& easy combos lo mein stir fry",
+        "Name": "Quick & easy combos lo mein stir fry",
         "Nutrients": {
             "Protein": 2.3,
             "Fat": 0.0,
@@ -38538,7 +38538,7 @@
         }
     },
     {
-        "Name": "Chow mein stir fry an assortment of noodles, bean sprouts, bok choy, celery, carrots, onions, mushrooms, peas, water chestnuts, bamboo shoots & red peppers. quick& easy combos",
+        "Name": "Chow mein stir fry an assortment of noodles, bean sprouts, bok choy, celery, carrots, onions, mushrooms, peas, water chestnuts, bamboo shoots & red peppers. quick & easy combos",
         "Nutrients": {
             "Protein": 1.9,
             "Fat": 0.0,
@@ -39150,7 +39150,7 @@
         }
     },
     {
-        "Name": "Stuffed pepper green bell pepper h&-filled with beef & rice in a zesty tomato sauce",
+        "Name": "Stuffed pepper green bell pepper hand-filled with beef & rice in a zesty tomato sauce",
         "Nutrients": {
             "Protein": 3.5,
             "Fat": 2.8,
@@ -39186,7 +39186,7 @@
         }
     },
     {
-        "Name": "Classics gr&mas chicken & vegetable rice bake",
+        "Name": "Classics grandmas chicken & vegetable rice bake",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 5.9,
@@ -39303,7 +39303,7 @@
         }
     },
     {
-        "Name": "Gr&mas chicken & vegetable rice bake tender white meat chicken, vegetables & rice in a cheddar cheese sauce",
+        "Name": "Grandmas chicken & vegetable rice bake tender white meat chicken, vegetables & rice in a cheddar cheese sauce",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 5.9,
@@ -39321,7 +39321,7 @@
         }
     },
     {
-        "Name": "Classics stuffed peppers green bell peppers h&-filled with beef & rice in a zesty tomato sauce",
+        "Name": "Classics stuffed peppers green bell peppers hand-filled with beef & rice in a zesty tomato sauce",
         "Nutrients": {
             "Protein": 3.2,
             "Fat": 3.2,
@@ -39996,7 +39996,7 @@
         }
     },
     {
-        "Name": "Caprese with reduced fat & low fat mozzarella, tomatoes & basil with tomato sauce in a baked garlic & herb seasoned crust s&wiches",
+        "Name": "Caprese with reduced fat & low fat mozzarella, tomatoes & basil with tomato sauce in a baked garlic & herb seasoned crust sandwiches",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 3.9,
@@ -40176,7 +40176,7 @@
         }
     },
     {
-        "Name": "Steak, bean & cheese burrito shredded beef steak with beans & three cheese in a h& stretched flour tortilla, steak",
+        "Name": "Steak, bean & cheese burrito shredded beef steak with beans & three cheese in a hand stretched flour tortilla, steak",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.3,
@@ -40608,7 +40608,7 @@
         }
     },
     {
-        "Name": "Organic h&-made fappo & quinoa with broccoli & feta",
+        "Name": "Organic hand-made fappo & quinoa with broccoli & feta",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 3.5,
@@ -40644,7 +40644,7 @@
         }
     },
     {
-        "Name": "Organic h&made ricotta & spinach tortelloni with basil pesto",
+        "Name": "Organic handmade ricotta & spinach tortelloni with basil pesto",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 7.1,
@@ -40653,7 +40653,7 @@
         }
     },
     {
-        "Name": "Organic h&made portobello mushroom & cheese sauce lasagna",
+        "Name": "Organic handmade portobello mushroom & cheese sauce lasagna",
         "Nutrients": {
             "Protein": 4.9,
             "Fat": 8.1,
@@ -40779,7 +40779,7 @@
         }
     },
     {
-        "Name": "H& made calzone cheesesteak",
+        "Name": "Hand made calzone cheesesteak",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 9.7,
@@ -40896,7 +40896,7 @@
         }
     },
     {
-        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices h&-folded into tender cabbage leaves, topped with a chunky tomato sauce.",
+        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices hand-folded into tender cabbage leaves, topped with a chunky tomato sauce.",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 3.7,
@@ -40914,7 +40914,7 @@
         }
     },
     {
-        "Name": "Chipotle chick& gardein plant-based chick& strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas bowl",
+        "Name": "Chipotle chick & gardein plant-based chick & strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas bowl",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 1.9,
@@ -41319,7 +41319,7 @@
         }
     },
     {
-        "Name": "Chicken, bean & cheese gourmet burritos seasoned chicken with beans, rice & three cheeses in a h& strethed flour tortilla, chicken",
+        "Name": "Chicken, bean & cheese gourmet burritos seasoned chicken with beans, rice & three cheeses in a hand strethed flour tortilla, chicken",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 6.2,
@@ -41328,7 +41328,7 @@
         }
     },
     {
-        "Name": "Steak, bean & cheese gourmet burritos shredded beef steak with beans & three cheese in a h& stretched flour tortilla, steak",
+        "Name": "Steak, bean & cheese gourmet burritos shredded beef steak with beans & three cheese in a hand stretched flour tortilla, steak",
         "Nutrients": {
             "Protein": 13.3,
             "Fat": 5.3,
@@ -41535,7 +41535,7 @@
         }
     },
     {
-        "Name": "Kung pao chik& with plant-based mindful chik& with colorful bell peppers, broccoli & ginger",
+        "Name": "Kung pao chik & with plant-based mindful chik & with colorful bell peppers, broccoli & ginger",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.7,
@@ -41616,7 +41616,7 @@
         }
     },
     {
-        "Name": "Roasted chicken, spinach, spiced yogurt sauce, turmeric rice, chicken t&oori with spinach",
+        "Name": "Roasted chicken, spinach, spiced yogurt sauce, turmeric rice, chicken tandoori with spinach",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 5.1,
@@ -41733,7 +41733,7 @@
         }
     },
     {
-        "Name": "Meatless chick& tikka masala riced veggie cuisine",
+        "Name": "Meatless chick & tikka masala riced veggie cuisine",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 5.5,
@@ -41742,7 +41742,7 @@
         }
     },
     {
-        "Name": "Vegetarian meatless chick& moroccan stew riced veggie cuisine",
+        "Name": "Vegetarian meatless chick & moroccan stew riced veggie cuisine",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 2.8,
@@ -41805,7 +41805,7 @@
         }
     },
     {
-        "Name": "Gr&mas chicken & vegetable rice bake rice, white meat chicken & vegetables in a cheddar cheese sauce",
+        "Name": "Grandmas chicken & vegetable rice bake rice, white meat chicken & vegetables in a cheddar cheese sauce",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 5.9,
@@ -42435,7 +42435,7 @@
         }
     },
     {
-        "Name": "Butter chik& chickpeas, coconut milk & vegetable base",
+        "Name": "Butter chik & chickpeas, coconut milk & vegetable base",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 1.9,
@@ -42453,7 +42453,7 @@
         }
     },
     {
-        "Name": "Buffalo-style chik& burrito",
+        "Name": "Buffalo-style chik & burrito",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 7.1,
@@ -42525,7 +42525,7 @@
         }
     },
     {
-        "Name": "Chik& fajita with plant-based mindful chik&",
+        "Name": "Chik & fajita with plant-based mindful chik &",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -42624,7 +42624,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken asian style entree crisp, juicy battered dark chicken meat glazed with m&arin orange sauce.",
+        "Name": "Mandarin orange chicken asian style entree crisp, juicy battered dark chicken meat glazed with mandarin orange sauce.",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 8.7,
@@ -43893,7 +43893,7 @@
         }
     },
     {
-        "Name": "H& stuffed poblano peppers with cheesy grits & ancho-style sauce fire roasted poblanos, stuffed with oaxaca & monterey jack cheeses on a bed of cheesy grits & topped with a rich ancho-style sauce",
+        "Name": "Hand stuffed poblano peppers with cheesy grits & ancho-style sauce fire roasted poblanos, stuffed with oaxaca & monterey jack cheeses on a bed of cheesy grits & topped with a rich ancho-style sauce",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 7.8,
@@ -44091,7 +44091,7 @@
         }
     },
     {
-        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices h&-folded into tender cabbage leaves, topped with a chunky tomato sauce",
+        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices hand-folded into tender cabbage leaves, topped with a chunky tomato sauce",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 3.7,
@@ -44136,7 +44136,7 @@
         }
     },
     {
-        "Name": "Butter chik& with plant-based mindful chik& in a vegan buttery tomato sauce",
+        "Name": "Butter chik & with plant-based mindful chik & in a vegan buttery tomato sauce",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 1.9,
@@ -44181,7 +44181,7 @@
         }
     },
     {
-        "Name": "Meatless chickn gardein plant-based chickn with vegetables prepared in a golden flaky crust with gravy pot pie, meatless chick&",
+        "Name": "Meatless chickn gardein plant-based chickn with vegetables prepared in a golden flaky crust with gravy pot pie, meatless chick &",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 12.5,
@@ -44217,7 +44217,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken with white rice marinated chicken breast in a spicy orange & m&arin flavored sauce, topped with mixed peppers",
+        "Name": "Mandarin orange chicken with white rice marinated chicken breast in a spicy orange & mandarin flavored sauce, topped with mixed peppers",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 1.8,
@@ -45153,7 +45153,7 @@
         }
     },
     {
-        "Name": "Chicken melts flatbread pocket snack s&wiches",
+        "Name": "Chicken melts flatbread pocket snack sandwiches",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 11.3,
@@ -45369,7 +45369,7 @@
         }
     },
     {
-        "Name": "Seafood & &ouille sausage jambalaya shrimp, scallops & &ouille sausage with bell peppers, onions, celery & white rice in a tomato cream sauce",
+        "Name": "Seafood & andouille sausage jambalaya shrimp, scallops & andouille sausage with bell peppers, onions, celery & white rice in a tomato cream sauce",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 6.2,
@@ -45576,7 +45576,7 @@
         }
     },
     {
-        "Name": "New engl& clam chowder chef-crafted soup",
+        "Name": "New england clam chowder chef-crafted soup",
         "Nutrients": {
             "Protein": 4.2,
             "Fat": 16.6,
@@ -46728,7 +46728,7 @@
         }
     },
     {
-        "Name": "Chicken enchiladas shredded white meat chicken & vegetables wrapped in h&-rolled corn tortillas over rice & topped with cheddar cheese & spicy ranchero sauce",
+        "Name": "Chicken enchiladas shredded white meat chicken & vegetables wrapped in hand-rolled corn tortillas over rice & topped with cheddar cheese & spicy ranchero sauce",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 2.8,
@@ -47259,7 +47259,7 @@
         }
     },
     {
-        "Name": "Chorizo egg & cheese with reduced fat cheddar cheese & sauce in a croissant crust s&wiches",
+        "Name": "Chorizo egg & cheese with reduced fat cheddar cheese & sauce in a croissant crust sandwiches",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 10.2,
@@ -47502,7 +47502,7 @@
         }
     },
     {
-        "Name": "Filipino adobo chik& made with organic kabocha squash, purple sweet potatoes, & green beans",
+        "Name": "Filipino adobo chik & made with organic kabocha squash, purple sweet potatoes, & green beans",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 1.0,
@@ -47583,7 +47583,7 @@
         }
     },
     {
-        "Name": "Meatless alfredo chick& plant-based chickn with pasta in an alfredo sauce with carrots, broccoli, & peas, meatless alfredo chickn",
+        "Name": "Meatless alfredo chick & plant-based chickn with pasta in an alfredo sauce with carrots, broccoli, & peas, meatless alfredo chickn",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.0,
@@ -47619,7 +47619,7 @@
         }
     },
     {
-        "Name": "Meatless garlic chick& plant-based chickn with pasta in a garlic sauce with broccoli, carrots, & corn",
+        "Name": "Meatless garlic chick & plant-based chickn with pasta in a garlic sauce with broccoli, carrots, & corn",
         "Nutrients": {
             "Protein": 5.7,
             "Fat": 3.4,
@@ -47817,7 +47817,7 @@
         }
     },
     {
-        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices h&-folded into tender cabbage leaves, topped with a chunky tomato sauce",
+        "Name": "Stuffed cabbage with beef in sauce a blend of seasoned beef, long grain rice & spices hand-folded into tender cabbage leaves, topped with a chunky tomato sauce",
         "Nutrients": {
             "Protein": 5.1,
             "Fat": 3.7,
@@ -47826,7 +47826,7 @@
         }
     },
     {
-        "Name": "Kung pao chik& with plant-based mindful chik& made with colorful bell peppers, broccoli & ginger",
+        "Name": "Kung pao chik & with plant-based mindful chik & made with colorful bell peppers, broccoli & ginger",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 3.7,
@@ -47835,7 +47835,7 @@
         }
     },
     {
-        "Name": "Tuscan-style vegetable lasagna tender h&-placed noodles are layered with spinach, kale, artichoke & a blend of cheeses",
+        "Name": "Tuscan-style vegetable lasagna tender hand-placed noodles are layered with spinach, kale, artichoke & a blend of cheeses",
         "Nutrients": {
             "Protein": 7.6,
             "Fat": 11.9,
@@ -47871,7 +47871,7 @@
         }
     },
     {
-        "Name": "Butter chik& with plant-based mindful chik& in a vegan buttery tomato sauce made with chickpeas, coconut milk & vegetable base",
+        "Name": "Butter chik & with plant-based mindful chik & in a vegan buttery tomato sauce made with chickpeas, coconut milk & vegetable base",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 1.9,
@@ -47880,7 +47880,7 @@
         }
     },
     {
-        "Name": "Buffalo-style chik& plant-based mindful chik& with carrots & celery sticks in a mild buffalo-style hot sauce burrito",
+        "Name": "Buffalo-style chik & plant-based mindful chik & with carrots & celery sticks in a mild buffalo-style hot sauce burrito",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 7.1,
@@ -47898,7 +47898,7 @@
         }
     },
     {
-        "Name": "Chik& fajita with plant-based mindful chik& made with black beans, corn & peppers over cauliflower rice",
+        "Name": "Chik & fajita with plant-based mindful chik & made with black beans, corn & peppers over cauliflower rice",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 3.3,
@@ -48078,7 +48078,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken breaded dark meat chicken with m&arin orange sauce",
+        "Name": "Mandarin orange chicken breaded dark meat chicken with mandarin orange sauce",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 4.3,
@@ -48627,7 +48627,7 @@
         }
     },
     {
-        "Name": "Chicken & &ouille sausage gumbo reserve soups",
+        "Name": "Chicken & andouille sausage gumbo reserve soups",
         "Nutrients": {
             "Protein": 3.7,
             "Fat": 2.5,
@@ -49059,7 +49059,7 @@
         }
     },
     {
-        "Name": "Nashville hot chicken recipe with mac& cheese",
+        "Name": "Nashville hot chicken recipe with mac & cheese",
         "Nutrients": {
             "Protein": 10.6,
             "Fat": 10.6,
@@ -49275,7 +49275,7 @@
         }
     },
     {
-        "Name": "Mega deep dish meal, buffalo-style chicken mac& cheese",
+        "Name": "Mega deep dish meal, buffalo-style chicken mac & cheese",
         "Nutrients": {
             "Protein": 2.8,
             "Fat": 6.8,
@@ -49680,7 +49680,7 @@
         }
     },
     {
-        "Name": "Chik& primavera skillet",
+        "Name": "Chik & primavera skillet",
         "Nutrients": {
             "Protein": 4.1,
             "Fat": 2.6,
@@ -49932,7 +49932,7 @@
         }
     },
     {
-        "Name": "Chicken & sausage jambalaya long-grain rice with seasoned grilled white chicken, &ouille sausage, onions, bell peppers, & spices",
+        "Name": "Chicken & sausage jambalaya long-grain rice with seasoned grilled white chicken, andouille sausage, onions, bell peppers, & spices",
         "Nutrients": {
             "Protein": 4.4,
             "Fat": 3.5,
@@ -50868,7 +50868,7 @@
         }
     },
     {
-        "Name": "Aged asiago freshly made h&-layered pasta with asiago, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce lasagna",
+        "Name": "Aged asiago freshly made hand-layered pasta with asiago, creamy ricotta & mozzarella cheese & a hearty tomato meat sauce lasagna",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 4.2,
@@ -50913,7 +50913,7 @@
         }
     },
     {
-        "Name": "Cheese omelet with bacon hash & creole style holl&aise brunch bowl",
+        "Name": "Cheese omelet with bacon hash & creole style hollandaise brunch bowl",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 8.6,
@@ -51075,7 +51075,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken lightly breaded white meat chicken with steamed white rice, carrots, red pepper, & broccoli in a m&arin orange sauce & toasted sesame chicken spring roll chicken, red bell pepper, cabbage, carrots in a thin, crispy wrapper with sesame seeds, m&arin orange chicken & toasted sesame chicken spring roll",
+        "Name": "Mandarin orange chicken lightly breaded white meat chicken with steamed white rice, carrots, red pepper, & broccoli in a mandarin orange sauce & toasted sesame chicken spring roll chicken, red bell pepper, cabbage, carrots in a thin, crispy wrapper with sesame seeds, mandarin orange chicken & toasted sesame chicken spring roll",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 4.7,
@@ -51453,7 +51453,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken asian style entree crisp, juicy battered dark chicken meat glazed with m&arin orange sauce",
+        "Name": "Mandarin orange chicken asian style entree crisp, juicy battered dark chicken meat glazed with mandarin orange sauce",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 8.7,
@@ -51489,7 +51489,7 @@
         }
     },
     {
-        "Name": "Plant-based supreme with plant-based pepperoni, broccoli, mushrooms, homemade tomato sauce, mozzarella, asiago, feta & fresh herbs h&made, wood-fired, thin & crispy pizza",
+        "Name": "Plant-based supreme with plant-based pepperoni, broccoli, mushrooms, homemade tomato sauce, mozzarella, asiago, feta & fresh herbs handmade, wood-fired, thin & crispy pizza",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 8.0,
@@ -51552,7 +51552,7 @@
         }
     },
     {
-        "Name": "Chick& classic plant-based protein chick& & veggies with a cream sauce in a puff pastry",
+        "Name": "Chick & classic plant-based protein chick & & veggies with a cream sauce in a puff pastry",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 10.6,
@@ -51759,7 +51759,7 @@
         }
     },
     {
-        "Name": "V&en brink pork meatloaf",
+        "Name": "Vanden brink pork meatloaf",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 17.9,
@@ -52992,7 +52992,7 @@
         }
     },
     {
-        "Name": "H&held pot pie, hearty beef",
+        "Name": "Handheld pot pie, hearty beef",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 9.4,
@@ -53100,7 +53100,7 @@
         }
     },
     {
-        "Name": "H& made bean & cheese jumbo burrito",
+        "Name": "Hand made bean & cheese jumbo burrito",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 7.4,
@@ -53109,7 +53109,7 @@
         }
     },
     {
-        "Name": "H& made beef & bean jumbo burrito",
+        "Name": "Hand made beef & bean jumbo burrito",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 10.6,
@@ -53118,7 +53118,7 @@
         }
     },
     {
-        "Name": "H& made beef & potato jumbo burrito",
+        "Name": "Hand made beef & potato jumbo burrito",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 9.9,
@@ -53127,7 +53127,7 @@
         }
     },
     {
-        "Name": "H& made red hot jumbo burrito",
+        "Name": "Hand made red hot jumbo burrito",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 5.3,
@@ -53136,7 +53136,7 @@
         }
     },
     {
-        "Name": "Mexican style beef mac& cheese",
+        "Name": "Mexican style beef mac & cheese",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 9.8,
@@ -53685,7 +53685,7 @@
         }
     },
     {
-        "Name": "H&held pie, chicken pie",
+        "Name": "Handheld pie, chicken pie",
         "Nutrients": {
             "Protein": 6.3,
             "Fat": 19.0,
@@ -54324,7 +54324,7 @@
         }
     },
     {
-        "Name": "Organic h&made ricotta & spinach ravioli with tomato red peppers",
+        "Name": "Organic handmade ricotta & spinach ravioli with tomato red peppers",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 3.9,
@@ -54342,7 +54342,7 @@
         }
     },
     {
-        "Name": "Organic h&-made three cheese macaroni",
+        "Name": "Organic hand-made three cheese macaroni",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 6.3,
@@ -54648,7 +54648,7 @@
         }
     },
     {
-        "Name": "Cajun style chicken stew with pork &ouille sausage pressure cooker meals",
+        "Name": "Cajun style chicken stew with pork andouille sausage pressure cooker meals",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 5.3,
@@ -54747,7 +54747,7 @@
         }
     },
     {
-        "Name": "Cajun style chicken stew with pork &ouille sausage pressure cooker meals",
+        "Name": "Cajun style chicken stew with pork andouille sausage pressure cooker meals",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 5.3,
@@ -54783,7 +54783,7 @@
         }
     },
     {
-        "Name": "H&held pot pie, chick& pesto",
+        "Name": "Handheld pot pie, chick & pesto",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 16.5,
@@ -54936,7 +54936,7 @@
         }
     },
     {
-        "Name": "Authentic southwest flavor grilled jalapeno & cheese s&wich",
+        "Name": "Authentic southwest flavor grilled jalapeno & cheese sandwich",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 19.5,
@@ -55269,7 +55269,7 @@
         }
     },
     {
-        "Name": "Shrimp boil shrimp, roasted red skin potatoes, corn, caramelized onions, &ouille sausage",
+        "Name": "Shrimp boil shrimp, roasted red skin potatoes, corn, caramelized onions, andouille sausage",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 8.6,
@@ -55701,7 +55701,7 @@
         }
     },
     {
-        "Name": "Pot pie, chick&",
+        "Name": "Pot pie, chick &",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 14.5,
@@ -56214,7 +56214,7 @@
         }
     },
     {
-        "Name": "Chipotle chick& meatless gardein plant-based chickn strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas power bowls",
+        "Name": "Chipotle chick & meatless gardein plant-based chickn strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas power bowls",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 1.9,
@@ -56250,7 +56250,7 @@
         }
     },
     {
-        "Name": "Chicken breast gr&e enchiladas with tomatillo sauce & monterey jack cheese h& rolled into a chicken & cheese tortilla",
+        "Name": "Chicken breast grande enchiladas with tomatillo sauce & monterey jack cheese hand rolled into a chicken & cheese tortilla",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 3.5,
@@ -56367,7 +56367,7 @@
         }
     },
     {
-        "Name": "Steak & stout h&made savory pies",
+        "Name": "Steak & stout handmade savory pies",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 12.3,
@@ -56772,7 +56772,7 @@
         }
     },
     {
-        "Name": "Meatless chipotle chick& gardein plant-based chick& strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas power bowls",
+        "Name": "Meatless chipotle chick & gardein plant-based chick & strips with black beans & vegetables served on top of a multigrain blend with a chipotle pepper sauce topped with roasted pepitas power bowls",
         "Nutrients": {
             "Protein": 7.2,
             "Fat": 1.9,
@@ -56916,7 +56916,7 @@
         }
     },
     {
-        "Name": "Beef & stout tender chunks of beef, vegetables, & rich stout-infused gravy tucked into flaky h& pies",
+        "Name": "Beef & stout tender chunks of beef, vegetables, & rich stout-infused gravy tucked into flaky hand pies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 16.3,
@@ -56943,7 +56943,7 @@
         }
     },
     {
-        "Name": "Seafood boil corn on the cob, raw shrimp, &ouille sausage, mussels, red skinned potatoes, & butter seasoning packet",
+        "Name": "Seafood boil corn on the cob, raw shrimp, andouille sausage, mussels, red skinned potatoes, & butter seasoning packet",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 5.3,
@@ -57051,7 +57051,7 @@
         }
     },
     {
-        "Name": "Chicken bacon ranch s&wich",
+        "Name": "Chicken bacon ranch sandwich",
         "Nutrients": {
             "Protein": 13.8,
             "Fat": 10.7,
@@ -57231,7 +57231,7 @@
         }
     },
     {
-        "Name": "Cheese burger chopped beef patty with american cheese on a sesame bun s&wiches",
+        "Name": "Cheese burger chopped beef patty with american cheese on a sesame bun sandwiches",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 16.2,
@@ -57240,7 +57240,7 @@
         }
     },
     {
-        "Name": "Bacon cheese burger s&wiches",
+        "Name": "Bacon cheese burger sandwiches",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 17.3,
@@ -57249,7 +57249,7 @@
         }
     },
     {
-        "Name": "Plant-based chick& florentino skillet meals",
+        "Name": "Plant-based chick & florentino skillet meals",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 4.3,
@@ -57258,7 +57258,7 @@
         }
     },
     {
-        "Name": "Asian style plant-based chick& fried rice skillet meals",
+        "Name": "Asian style plant-based chick & fried rice skillet meals",
         "Nutrients": {
             "Protein": 5.2,
             "Fat": 1.2,
@@ -57285,7 +57285,7 @@
         }
     },
     {
-        "Name": "Chick& fajita made with rice, meatless chick&, red & green bell peppers, black beans, caramelized onions & corn with a zesty fajita sauce bowl",
+        "Name": "Chick & fajita made with rice, meatless chick & , red & green bell peppers, black beans, caramelized onions & corn with a zesty fajita sauce bowl",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 1.4,
@@ -57294,7 +57294,7 @@
         }
     },
     {
-        "Name": "Chick& teriyaki made with rice, plant-based chick&, broccoli, red bell peppers & carrots with a sweet teriyaki sauce bowl",
+        "Name": "Chick & teriyaki made with rice, plant-based chick & , broccoli, red bell peppers & carrots with a sweet teriyaki sauce bowl",
         "Nutrients": {
             "Protein": 5.4,
             "Fat": 1.0,
@@ -57834,7 +57834,7 @@
         }
     },
     {
-        "Name": "Italian gr&e ricotta cheese cannelloni with marinara sauce, italian with marinara sauce",
+        "Name": "Italian grande ricotta cheese cannelloni with marinara sauce, italian with marinara sauce",
         "Nutrients": {
             "Protein": 6.7,
             "Fat": 2.4,
@@ -58653,7 +58653,7 @@
         }
     },
     {
-        "Name": "Southwest style chicken & penne with a twist of cauliflower in the sauce& pasta with black beans, green peppers, roasted corn, tomatoes, onions & white chicken meat in a creamy chipotle sauce",
+        "Name": "Southwest style chicken & penne with a twist of cauliflower in the sauce & pasta with black beans, green peppers, roasted corn, tomatoes, onions & white chicken meat in a creamy chipotle sauce",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.9,
@@ -58860,7 +58860,7 @@
         }
     },
     {
-        "Name": "Beef & stout h& pies tender chunks of beef, vegetables, & rich stout-infused gravy tucked into flaky h& pies",
+        "Name": "Beef & stout hand pies tender chunks of beef, vegetables, & rich stout-infused gravy tucked into flaky hand pies",
         "Nutrients": {
             "Protein": 5.3,
             "Fat": 16.3,
@@ -59148,7 +59148,7 @@
         }
     },
     {
-        "Name": "M&arin orange chicken lightly breaded white meat chicken with steamed white rice, carrots, red pepper, & broccoli in a m&arin orange sauce & toasted sesame chicken spring roll chicken, red bell pepper, cabbage, carrots in a thin, crispy wrapper with sesame seeds, m&arin orange chicken & toasted sesame chicken spring roll",
+        "Name": "Mandarin orange chicken lightly breaded white meat chicken with steamed white rice, carrots, red pepper, & broccoli in a mandarin orange sauce & toasted sesame chicken spring roll chicken, red bell pepper, cabbage, carrots in a thin, crispy wrapper with sesame seeds, mandarin orange chicken & toasted sesame chicken spring roll",
         "Nutrients": {
             "Protein": 6.8,
             "Fat": 4.7,
@@ -59643,7 +59643,7 @@
         }
     },
     {
-        "Name": "Bacon cheeseburger chopped beef pally with smoke flavored bacon & american cheese on a sesame seed bun s&wiches",
+        "Name": "Bacon cheeseburger chopped beef pally with smoke flavored bacon & american cheese on a sesame seed bun sandwiches",
         "Nutrients": {
             "Protein": 12.8,
             "Fat": 17.3,
@@ -59652,7 +59652,7 @@
         }
     },
     {
-        "Name": "Bacon double cheeseburger chopped beef patties with american cheese & bacon on a sesame seed bun s&wiches",
+        "Name": "Bacon double cheeseburger chopped beef patties with american cheese & bacon on a sesame seed bun sandwiches",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 16.8,
@@ -59985,7 +59985,7 @@
         }
     },
     {
-        "Name": "Mild cheese omelet with bacon hash & creole style holl&aise brunch bowl",
+        "Name": "Mild cheese omelet with bacon hash & creole style hollandaise brunch bowl",
         "Nutrients": {
             "Protein": 6.6,
             "Fat": 8.6,
@@ -60003,7 +60003,7 @@
         }
     },
     {
-        "Name": "Chinese chik& with black bean sauce made with organic asparagus, brocolli & brown rice",
+        "Name": "Chinese chik & with black bean sauce made with organic asparagus, brocolli & brown rice",
         "Nutrients": {
             "Protein": 5.8,
             "Fat": 7.9,
@@ -61002,7 +61002,7 @@
         }
     },
     {
-        "Name": "Grilled & seared sourdough crust with black summer truffle seasoning & black summer truffle, mozarella, parmesan asiago h&mede, wood-fired, thin crispy pizza",
+        "Name": "Grilled & seared sourdough crust with black summer truffle seasoning & black summer truffle, mozarella, parmesan asiago handmede, wood-fired, thin crispy pizza",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 8.3,
@@ -61704,7 +61704,7 @@
         }
     },
     {
-        "Name": "Cheese enchiladas h& rolled corn tortillas filled with monterey jack & white cheddar cheese. topped with a red enchilada sauce",
+        "Name": "Cheese enchiladas hand rolled corn tortillas filled with monterey jack & white cheddar cheese. topped with a red enchilada sauce",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 11.4,
@@ -61974,7 +61974,7 @@
         }
     },
     {
-        "Name": "Sweet & sour chick& ultimate plant-based bowls",
+        "Name": "Sweet & sour chick & ultimate plant-based bowls",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.4,
@@ -62739,7 +62739,7 @@
         }
     },
     {
-        "Name": "Meatless chick& pot pie",
+        "Name": "Meatless chick & pot pie",
         "Nutrients": {
             "Protein": 6.0,
             "Fat": 12.5,
@@ -63711,7 +63711,7 @@
         }
     },
     {
-        "Name": "Chick& fiesta plant-based skillet meals",
+        "Name": "Chick & fiesta plant-based skillet meals",
         "Nutrients": {
             "Protein": 3.0,
             "Fat": 1.2,
@@ -63927,7 +63927,7 @@
         }
     },
     {
-        "Name": "T&oori baked chicken in a spiced tomato sauce with a hint of cream & basmati saffron rice tikka masala combo, chicken tikka masala",
+        "Name": "Tandoori baked chicken in a spiced tomato sauce with a hint of cream & basmati saffron rice tikka masala combo, chicken tikka masala",
         "Nutrients": {
             "Protein": 6.4,
             "Fat": 6.7,
@@ -63981,7 +63981,7 @@
         }
     },
     {
-        "Name": "Cheeseburger h&crafted premium pot pie",
+        "Name": "Cheeseburger handcrafted premium pot pie",
         "Nutrients": {
             "Protein": 8.8,
             "Fat": 21.2,
@@ -64674,7 +64674,7 @@
         }
     },
     {
-        "Name": "Vegetarian chick& gardein plant-based chick& with vegetables prepared in a golden flaky crust with gravy pot pie",
+        "Name": "Vegetarian chick & gardein plant-based chick & with vegetables prepared in a golden flaky crust with gravy pot pie",
         "Nutrients": {
             "Protein": 5.0,
             "Fat": 12.0,
@@ -64917,7 +64917,7 @@
         }
     },
     {
-        "Name": "Chicken melts flatbread pocket s&wiches",
+        "Name": "Chicken melts flatbread pocket sandwiches",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 11.4,
@@ -64926,7 +64926,7 @@
         }
     },
     {
-        "Name": "Gyro sliders flatbread pocket s&wiches",
+        "Name": "Gyro sliders flatbread pocket sandwiches",
         "Nutrients": {
             "Protein": 12.7,
             "Fat": 11.1,
@@ -64935,7 +64935,7 @@
         }
     },
     {
-        "Name": "Turkey sausage & cheese flatbread pocket s&wiches",
+        "Name": "Turkey sausage & cheese flatbread pocket sandwiches",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 11.1,
@@ -65097,7 +65097,7 @@
         }
     },
     {
-        "Name": "Cheese burger chopped beef patty with american cheese on a sesame seed bun s&wiches",
+        "Name": "Cheese burger chopped beef patty with american cheese on a sesame seed bun sandwiches",
         "Nutrients": {
             "Protein": 11.5,
             "Fat": 16.2,
@@ -65484,7 +65484,7 @@
         }
     },
     {
-        "Name": "Mac & cheese h&made seafood bowl",
+        "Name": "Mac & cheese handmade seafood bowl",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 8.4,
@@ -65610,7 +65610,7 @@
         }
     },
     {
-        "Name": "Gr&e chicken enchiladas",
+        "Name": "Grande chicken enchiladas",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 5.3,
@@ -65997,7 +65997,7 @@
         }
     },
     {
-        "Name": "Butter chik& plant bassed chik& & chicjpeas in a vegan tomato cream sauce with wholegrain brown rice",
+        "Name": "Butter chik & plant bassed chik & & chicjpeas in a vegan tomato cream sauce with wholegrain brown rice",
         "Nutrients": {
             "Protein": 6.2,
             "Fat": 2.9,
@@ -66033,7 +66033,7 @@
         }
     },
     {
-        "Name": "Korean bbq style chik& plant-based chik& in spicy sweet gochujang sauce over cauliflower & brown rice blend",
+        "Name": "Korean bbq style chik & plant-based chik & in spicy sweet gochujang sauce over cauliflower & brown rice blend",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 2.4,
@@ -66690,7 +66690,7 @@
         }
     },
     {
-        "Name": "Cheese enchiladas h& rolled corn tortillas filled with monterey jack & white cheddar cheese, topped with a red enchilada sauce",
+        "Name": "Cheese enchiladas hand rolled corn tortillas filled with monterey jack & white cheddar cheese, topped with a red enchilada sauce",
         "Nutrients": {
             "Protein": 9.0,
             "Fat": 11.4,
@@ -66780,7 +66780,7 @@
         }
     },
     {
-        "Name": "Plant-based chik& tikka masala",
+        "Name": "Plant-based chik & tikka masala",
         "Nutrients": {
             "Protein": 5.5,
             "Fat": 5.5,
@@ -67050,7 +67050,7 @@
         }
     },
     {
-        "Name": "Buffalo inspired chicken h& pie",
+        "Name": "Buffalo inspired chicken hand pie",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 15.9,
@@ -67104,7 +67104,7 @@
         }
     },
     {
-        "Name": "Frozen h& shucked chopped sea clams",
+        "Name": "Frozen hand shucked chopped sea clams",
         "Nutrients": {
             "Protein": 9.7,
             "Fat": 0.0,
@@ -67446,7 +67446,7 @@
         }
     },
     {
-        "Name": "Digiorno h&-tossed style crust pepperoni pizza & buffalo style boneless wyngz",
+        "Name": "Digiorno hand-tossed style crust pepperoni pizza & buffalo style boneless wyngz",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 11.4,
@@ -67545,7 +67545,7 @@
         }
     },
     {
-        "Name": "Pure beef s&wich steaks",
+        "Name": "Pure beef sandwich steaks",
         "Nutrients": {
             "Protein": 15.6,
             "Fat": 28.1,
@@ -67734,7 +67734,7 @@
         }
     },
     {
-        "Name": "English muffin s&wiches",
+        "Name": "English muffin sandwiches",
         "Nutrients": {
             "Protein": 12.6,
             "Fat": 5.6,
@@ -67923,7 +67923,7 @@
         }
     },
     {
-        "Name": "Coconut chik& korma plant-based creamy coconut sauce cumin rice",
+        "Name": "Coconut chik & korma plant-based creamy coconut sauce cumin rice",
         "Nutrients": {
             "Protein": 5.9,
             "Fat": 5.5,
@@ -68031,7 +68031,7 @@
         }
     },
     {
-        "Name": "Classic style sausage, egg & cheese plant-based breakfast s&wich",
+        "Name": "Classic style sausage, egg & cheese plant-based breakfast sandwich",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 10.6,
@@ -68040,7 +68040,7 @@
         }
     },
     {
-        "Name": "H& made pepperoni & cheese calzone",
+        "Name": "Hand made pepperoni & cheese calzone",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 13.2,
@@ -68202,7 +68202,7 @@
         }
     },
     {
-        "Name": "H&-wrapped in dough beef franks",
+        "Name": "Hand-wrapped in dough beef franks",
         "Nutrients": {
             "Protein": 7.1,
             "Fat": 15.3,
@@ -68265,7 +68265,7 @@
         }
     },
     {
-        "Name": "Beef & vegetable m&u",
+        "Name": "Beef & vegetable mandu",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 6.4,
@@ -68274,7 +68274,7 @@
         }
     },
     {
-        "Name": "M&u bulgogi chicken dumplings",
+        "Name": "Mandu bulgogi chicken dumplings",
         "Nutrients": {
             "Protein": 8.2,
             "Fat": 3.7,
@@ -68283,7 +68283,7 @@
         }
     },
     {
-        "Name": "M&u pork & vegetable dumplings",
+        "Name": "Mandu pork & vegetable dumplings",
         "Nutrients": {
             "Protein": 6.5,
             "Fat": 10.6,
@@ -68382,7 +68382,7 @@
         }
     },
     {
-        "Name": "Sausage, egg & cheese breakfast s&wich",
+        "Name": "Sausage, egg & cheese breakfast sandwich",
         "Nutrients": {
             "Protein": 12.3,
             "Fat": 15.6,
@@ -68391,7 +68391,7 @@
         }
     },
     {
-        "Name": "Turkey sausage, egg & cheese breakfast s&wich",
+        "Name": "Turkey sausage, egg & cheese breakfast sandwich",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 8.2,
@@ -68616,7 +68616,7 @@
         }
     },
     {
-        "Name": "Halal premium chicken s&wich slice",
+        "Name": "Halal premium chicken sandwich slice",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 4.5,
@@ -69192,7 +69192,7 @@
         }
     },
     {
-        "Name": "Tomatillo sauce & monterey jack cheese chicken breast gr&e enchiladas",
+        "Name": "Tomatillo sauce & monterey jack cheese chicken breast grande enchiladas",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 7.1,
@@ -69876,7 +69876,7 @@
         }
     },
     {
-        "Name": "Chick&, smoked bac& & ranch style with tomato, spinach, fire-roasted red onion & mozzarella style plant-based cheeze flatbread, chick&",
+        "Name": "Chick & , smoked bac & & ranch style with tomato, spinach, fire-roasted red onion & mozzarella style plant-based cheeze flatbread, chick &",
         "Nutrients": {
             "Protein": 4.8,
             "Fat": 12.7,

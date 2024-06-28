@@ -342,24 +342,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 42.9,
-            "Fat": 42.9,
-            "Carbs": 0.0,
-            "Calories": 557.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 10.7,
-            "Fat": 58.3,
-            "Carbs": 2.4,
-            "Calories": 577.1
-        }
-    },
-    {
         "Name": "Ham,smkd,bnls,nj,classic",
         "Nutrients": {
             "Protein": 17.9,
@@ -378,120 +360,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 4.5,
-            "Carbs": 5.4,
-            "Calories": 126.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 179.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 11.9,
-            "Fat": 59.5,
-            "Carbs": 8.3,
-            "Calories": 616.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 29.0,
-            "Fat": 36.0,
-            "Carbs": 5.0,
-            "Calories": 460.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 33.3,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 553.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 22.0,
-            "Fat": 7.0,
-            "Carbs": 1.0,
-            "Calories": 155.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
         "Name": "Retail alligator meat",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.8,
             "Carbs": 0.0,
             "Calories": 101.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 4.5,
-            "Carbs": 0.9,
-            "Calories": 115.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.8,
-            "Fat": 2.6,
-            "Carbs": 3.5,
-            "Calories": 100.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.2,
-            "Fat": 25.1,
-            "Carbs": 0.0,
-            "Calories": 294.7
         }
     },
     {
@@ -513,138 +387,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.0,
-            "Carbs": 0.9,
-            "Calories": 118.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 34.5,
-            "Fat": 16.7,
-            "Carbs": 0.0,
-            "Calories": 288.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 6.0,
-            "Carbs": 3.6,
-            "Calories": 130.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 4.0,
-            "Carbs": 2.8,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
         "Name": "Frenched rack of pork",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 5.4,
             "Carbs": 0.0,
             "Calories": 134.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 23.0,
-            "Fat": 2.5,
-            "Carbs": 20.0,
-            "Calories": 194.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 9.8,
-            "Carbs": 0.0,
-            "Calories": 163.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
         }
     },
     {
@@ -657,33 +405,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.0,
-            "Fat": 40.0,
-            "Carbs": 0.0,
-            "Calories": 440.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 8.3,
-            "Carbs": 1.2,
-            "Calories": 141.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 42.9,
-            "Fat": 35.7,
-            "Carbs": 0.0,
-            "Calories": 492.9
-        }
-    },
-    {
         "Name": "Matador beef jerky teriyaki flavor ounce",
         "Nutrients": {
             "Protein": 35.7,
@@ -693,111 +414,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 4.0,
-            "Carbs": 4.0,
-            "Calories": 102.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.4,
-            "Fat": 46.1,
-            "Carbs": 0.0,
-            "Calories": 476.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
-        }
-    },
-    {
         "Name": "Boneless fresh pork tenderloins",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 3.6,
             "Carbs": 0.0,
             "Calories": 114.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 27.8,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 561.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 42.1,
-            "Carbs": 0.0,
-            "Calories": 484.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 564.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 23.2,
-            "Carbs": 0.0,
-            "Calories": 269.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 2.9,
-            "Fat": 1.0,
-            "Carbs": 1.8,
-            "Calories": 27.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.6,
-            "Fat": 11.4,
-            "Carbs": 0.0,
-            "Calories": 177.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
         }
     },
     {
@@ -819,48 +441,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.2,
-            "Carbs": 0.6,
-            "Calories": 118.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
-        }
-    },
-    {
         "Name": "Frz pork chitterlings",
         "Nutrients": {
             "Protein": 27.7,
             "Fat": 3.0,
             "Carbs": 0.0,
             "Calories": 137.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.3,
-            "Fat": 33.3,
-            "Carbs": 2.2,
-            "Calories": 361.7
         }
     },
     {
@@ -873,93 +459,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.9,
-            "Fat": 28.6,
-            "Carbs": 1.6,
-            "Calories": 327.4
-        }
-    },
-    {
         "Name": "Bacn,diced,rdy to",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 50.0,
             "Carbs": 0.0,
             "Calories": 535.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 12.5,
-            "Carbs": 0.0,
-            "Calories": 184.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 27.3,
-            "Fat": 45.5,
-            "Carbs": 0.0,
-            "Calories": 518.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 25.8,
-            "Fat": 5.4,
-            "Carbs": 0.0,
-            "Calories": 151.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 21.1,
-            "Fat": 36.8,
-            "Carbs": 0.0,
-            "Calories": 415.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.0,
-            "Fat": 40.0,
-            "Carbs": 0.0,
-            "Calories": 440.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 31.6,
-            "Fat": 52.6,
-            "Carbs": 0.0,
-            "Calories": 599.8
         }
     },
     {
@@ -981,93 +486,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
         "Name": "Ham,smkd,hkry,nj,preslcd,smkhs",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
             "Carbs": 2.4,
             "Calories": 151.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.3,
-            "Fat": 33.3,
-            "Carbs": 2.2,
-            "Calories": 361.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 6.0,
-            "Carbs": 6.0,
-            "Calories": 149.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 96.8
         }
     },
     {
@@ -1080,75 +504,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 7.1,
-            "Carbs": 3.6,
-            "Calories": 192.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 22.3,
-            "Fat": 16.1,
-            "Carbs": 0.0,
-            "Calories": 234.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 12.5,
-            "Carbs": 0.5,
-            "Calories": 178.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 23.2,
-            "Fat": 1.8,
-            "Carbs": 0.0,
-            "Calories": 109.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 12.5,
-            "Carbs": 0.0,
-            "Calories": 184.1
-        }
-    },
-    {
         "Name": "Z",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 4.5,
             "Carbs": 1.8,
             "Calories": 112.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
         }
     },
     {

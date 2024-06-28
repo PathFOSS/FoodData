@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held bacon, egg & cheese",
+        "Name": "Kelloggs special k breakfast handheld bacon, egg & cheese",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 9.0,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Kellogg special k bkfst h&held egg, sausage & white cheddar",
+        "Name": "Kellogg special k bkfst handheld egg, sausage & white cheddar",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 10.0,
@@ -117,7 +117,7 @@
         }
     },
     {
-        "Name": "Kellogg special k bkfst h&held egg, vegetables, & pepper jack",
+        "Name": "Kellogg special k bkfst handheld egg, vegetables, & pepper jack",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 7.0,
@@ -126,7 +126,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held egg, sausage & white cheddar",
+        "Name": "Kelloggs special k breakfast handheld egg, sausage & white cheddar",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 10.0,
@@ -135,7 +135,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held spinach egg cheese",
+        "Name": "Kelloggs special k breakfast handheld spinach egg cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 7.1,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held ham & cheese",
+        "Name": "Kelloggs special k breakfast handheld ham & cheese",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 9.2,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held portabella & kale",
+        "Name": "Kelloggs special k breakfast handheld portabella & kale",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 8.1,
@@ -162,7 +162,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held spinach egg cheese",
+        "Name": "Kelloggs special k breakfast handheld spinach egg cheese",
         "Nutrients": {
             "Protein": 10.0,
             "Fat": 7.1,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Kellogg special k bkfst h&held egg, sausage & white cheddar",
+        "Name": "Kellogg special k bkfst handheld egg, sausage & white cheddar",
         "Nutrients": {
             "Protein": 11.8,
             "Fat": 10.0,
@@ -252,7 +252,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held egg, vegetables, & pepper jack",
+        "Name": "Kelloggs special k breakfast handheld egg, vegetables, & pepper jack",
         "Nutrients": {
             "Protein": 10.1,
             "Fat": 7.0,
@@ -261,7 +261,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held egg ham & pepper jack",
+        "Name": "Kelloggs special k breakfast handheld egg ham & pepper jack",
         "Nutrients": {
             "Protein": 12.1,
             "Fat": 6.3,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held bacon, egg & cheese medleys",
+        "Name": "Kelloggs special k breakfast handheld bacon, egg & cheese medleys",
         "Nutrients": {
             "Protein": 11.9,
             "Fat": 10.3,
@@ -288,7 +288,7 @@
         }
     },
     {
-        "Name": "Kelloggs special k breakfast h&held sausage & pepper",
+        "Name": "Kelloggs special k breakfast handheld sausage & pepper",
         "Nutrients": {
             "Protein": 11.0,
             "Fat": 12.6,
@@ -468,7 +468,7 @@
         }
     },
     {
-        "Name": "Kelloggs eggo savory h&held sausage egg & cheese",
+        "Name": "Kelloggs eggo savory handheld sausage egg & cheese",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 16.0,
@@ -477,7 +477,7 @@
         }
     },
     {
-        "Name": "Kelloggs eggo savory h&held bacon, egg & cheese",
+        "Name": "Kelloggs eggo savory handheld bacon, egg & cheese",
         "Nutrients": {
             "Protein": 11.2,
             "Fat": 10.8,

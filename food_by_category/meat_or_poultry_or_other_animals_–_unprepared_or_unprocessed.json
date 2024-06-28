@@ -234,24 +234,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 25.0,
-            "Carbs": 0.0,
-            "Calories": 289.4
-        }
-    },
-    {
         "Name": "Ribeye cab bnls",
         "Nutrients": {
             "Protein": 19.5,
@@ -504,15 +486,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
         "Name": "Split chix wogs",
         "Nutrients": {
             "Protein": 22.3,
@@ -702,7 +675,7 @@
         }
     },
     {
-        "Name": "Chateaubri& stk",
+        "Name": "Chateaubriand stk",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 6.2,
@@ -915,15 +888,6 @@
             "Fat": 9.8,
             "Carbs": 0.0,
             "Calories": 163.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.5,
-            "Fat": 10.7,
-            "Carbs": 0.0,
-            "Calories": 178.3
         }
     },
     {
@@ -1215,15 +1179,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 14.3,
-            "Carbs": 0.0,
-            "Calories": 203.9
-        }
-    },
-    {
         "Name": "Beef tender",
         "Nutrients": {
             "Protein": 22.1,
@@ -1311,15 +1266,6 @@
             "Fat": 13.3,
             "Carbs": 0.0,
             "Calories": 176.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
         }
     },
     {
@@ -1473,15 +1419,6 @@
             "Fat": 6.2,
             "Carbs": 0.0,
             "Calories": 148.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
         }
     },
     {
@@ -1755,7 +1692,7 @@
         }
     },
     {
-        "Name": "Farml& - extra tender vacuum packaged ultra supreme - rib - chine off bone-in center cut loins",
+        "Name": "Farmland - extra tender vacuum packaged ultra supreme - rib - chine off bone-in center cut loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 5.4,
@@ -1959,15 +1896,6 @@
             "Fat": 6.2,
             "Carbs": 0.0,
             "Calories": 144.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 176.0
         }
     },
     {

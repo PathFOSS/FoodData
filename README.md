@@ -8,6 +8,10 @@ The initial data was ~3GB in .csv files, but was compressed into JSON format to 
 
 The names of categories were generated from the USDA's internal classifications. Most branded foods are those primarily found in North America.
 
+### Dependencies
+
+1. Python pandas
+2. Python regex
 
 ### Details
 

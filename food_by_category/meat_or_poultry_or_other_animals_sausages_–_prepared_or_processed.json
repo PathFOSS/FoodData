@@ -54,24 +54,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 10.7,
-            "Fat": 42.9,
-            "Carbs": 0.0,
-            "Calories": 428.9
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 23.0,
-            "Fat": 2.5,
-            "Carbs": 20.0,
-            "Calories": 194.5
-        }
-    },
-    {
         "Name": "Saus,lk,58%ln,mild,sm,1oz,10",
         "Nutrients": {
             "Protein": 17.7,
@@ -81,7 +63,7 @@
         }
     },
     {
-        "Name": "Gator &ouille sausage",
+        "Name": "Gator andouille sausage",
         "Nutrients": {
             "Protein": 30.1,
             "Fat": 7.1,
@@ -99,42 +81,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.3,
-            "Fat": 36.8,
-            "Carbs": 1.8,
-            "Calories": 387.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.7,
-            "Fat": 11.9,
-            "Carbs": 2.4,
-            "Calories": 183.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.0,
-            "Fat": 37.0,
-            "Carbs": 2.5,
-            "Calories": 395.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 21.4,
-            "Fat": 42.9,
-            "Carbs": 3.6,
-            "Calories": 486.1
-        }
-    },
-    {
         "Name": "Top,ext,ital saus,3%tvp,fs,28pc/,2/5z",
         "Nutrients": {
             "Protein": 14.0,
@@ -144,57 +90,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 21.8,
-            "Fat": 12.7,
-            "Carbs": 1.8,
-            "Calories": 208.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.1,
-            "Fat": 40.5,
-            "Carbs": 2.4,
-            "Calories": 450.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 41.1,
-            "Carbs": 1.8,
-            "Calories": 448.7
-        }
-    },
-    {
-        "Name": "Farml& polish smoked sausage rope",
+        "Name": "Farmland polish smoked sausage rope",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 28.6,
             "Carbs": 3.6,
             "Calories": 314.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.3,
-            "Fat": 33.3,
-            "Carbs": 2.2,
-            "Calories": 361.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 28.6,
-            "Carbs": 3.6,
-            "Calories": 321.8
         }
     },
     {
@@ -204,15 +105,6 @@
             "Fat": 16.1,
             "Carbs": 3.6,
             "Calories": 209.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.4,
-            "Fat": 43.5,
-            "Carbs": 0.0,
-            "Calories": 461.1
         }
     },
     {
@@ -249,24 +141,6 @@
             "Fat": 46.8,
             "Carbs": 1.6,
             "Calories": 492.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.8,
-            "Fat": 23.1,
-            "Carbs": 0.0,
-            "Calories": 259.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.1,
-            "Fat": 27.5,
-            "Carbs": 2.2,
-            "Calories": 304.7
         }
     },
     {
@@ -324,7 +198,7 @@
         }
     },
     {
-        "Name": "All natural pork sausage patties, mild, wide s&wich patty,, ., fully cooked , certified gluten- free",
+        "Name": "All natural pork sausage patties, mild, wide sandwich patty,, ., fully cooked , certified gluten- free",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 38.8,
@@ -495,7 +369,7 @@
         }
     },
     {
-        "Name": "All natural pork sausage patties, mild, wide s&wich patty, ., fully cooked , certified gluten- free",
+        "Name": "All natural pork sausage patties, mild, wide sandwich patty, ., fully cooked , certified gluten- free",
         "Nutrients": {
             "Protein": 12.5,
             "Fat": 39.3,
@@ -621,7 +495,7 @@
         }
     },
     {
-        "Name": "Liver sausage, sliced, s&wich size slices, .",
+        "Name": "Liver sausage, sliced, sandwich size slices, .",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 23.5,
@@ -702,7 +576,7 @@
         }
     },
     {
-        "Name": "Golden brown all natural turkey sausage breakfast s&wich patties, patties/pkg, .",
+        "Name": "Golden brown all natural turkey sausage breakfast sandwich patties, patties/pkg, .",
         "Nutrients": {
             "Protein": 17.1,
             "Fat": 8.6,

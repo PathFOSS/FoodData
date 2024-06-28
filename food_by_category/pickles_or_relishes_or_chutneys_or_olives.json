@@ -72,15 +72,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 0.0,
-            "Fat": 0.0,
-            "Carbs": 0.0,
-            "Calories": 0.0
-        }
-    },
-    {
         "Name": "Dill plank sm",
         "Nutrients": {
             "Protein": 0.0,
@@ -342,7 +333,7 @@
         }
     },
     {
-        "Name": "Pickles, vienna, dill, kk, plank, kosher, &/- ref, pail",
+        "Name": "Pickles, vienna, dill, kk, plank, kosher, & /- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -360,7 +351,7 @@
         }
     },
     {
-        "Name": "Pickles, chipico, dill, smooth, plank, kosher, &/- ref, pail",
+        "Name": "Pickles, chipico, dill, smooth, plank, kosher, & /- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,
@@ -369,7 +360,7 @@
         }
     },
     {
-        "Name": "Pickles, chipico, dill, spear, kosher, &/- ref, pail",
+        "Name": "Pickles, chipico, dill, spear, kosher, & /- ref, pail",
         "Nutrients": {
             "Protein": 0.0,
             "Fat": 0.0,

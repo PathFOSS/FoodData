@@ -1809,24 +1809,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 25.0,
-            "Carbs": 0.0,
-            "Calories": 289.4
-        }
-    },
-    {
         "Name": "Ribeye cab bnls",
         "Nutrients": {
             "Protein": 19.5,
@@ -2097,15 +2079,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
         "Name": "Split chix wogs",
         "Nutrients": {
             "Protein": 22.3,
@@ -2304,7 +2277,7 @@
         }
     },
     {
-        "Name": "Chateaubri& stk",
+        "Name": "Chateaubriand stk",
         "Nutrients": {
             "Protein": 22.1,
             "Fat": 6.2,
@@ -2562,15 +2535,6 @@
             "Fat": 9.8,
             "Carbs": 0.0,
             "Calories": 163.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.5,
-            "Fat": 10.7,
-            "Carbs": 0.0,
-            "Calories": 178.3
         }
     },
     {
@@ -2898,15 +2862,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 14.3,
-            "Carbs": 0.0,
-            "Calories": 203.9
-        }
-    },
-    {
         "Name": "Beef tender",
         "Nutrients": {
             "Protein": 22.1,
@@ -3012,15 +2967,6 @@
             "Fat": 13.3,
             "Carbs": 0.0,
             "Calories": 176.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
         }
     },
     {
@@ -3183,15 +3129,6 @@
             "Fat": 6.2,
             "Carbs": 0.0,
             "Calories": 148.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
         }
     },
     {
@@ -3564,7 +3501,7 @@
         }
     },
     {
-        "Name": "Farml& - extra tender vacuum packaged ultra supreme - rib - chine off bone-in center cut loins",
+        "Name": "Farmland - extra tender vacuum packaged ultra supreme - rib - chine off bone-in center cut loins",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 5.4,
@@ -3840,15 +3777,6 @@
             "Fat": 6.2,
             "Carbs": 0.0,
             "Calories": 148.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 176.0
         }
     },
     {
@@ -5580,33 +5508,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 25.0,
-            "Carbs": 0.0,
-            "Calories": 289.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
         "Name": "Cafe h carnita meat",
         "Nutrients": {
             "Protein": 19.1,
@@ -5634,39 +5535,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.5,
-            "Fat": 10.7,
-            "Carbs": 0.0,
-            "Calories": 178.3
-        }
-    },
-    {
         "Name": "Frank all beef",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 28.6,
             "Carbs": 1.8,
             "Calories": 307.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
         }
     },
     {
@@ -5685,15 +5559,6 @@
             "Fat": 45.8,
             "Carbs": 1.8,
             "Calories": 489.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 176.0
         }
     },
     {
@@ -7182,7 +7047,7 @@
         }
     },
     {
-        "Name": "93% lean7% fat ground turkey, .",
+        "Name": "93% lean 7% fat ground turkey, .",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 7.0,
@@ -7236,7 +7101,7 @@
         }
     },
     {
-        "Name": "93% lean7% fat ground turkey tray",
+        "Name": "93% lean 7% fat ground turkey tray",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 7.0,
@@ -7353,7 +7218,7 @@
         }
     },
     {
-        "Name": "Pork spareribs st louis style wide cut rib",
+        "Name": "Pork spareribs st louis style wide cut & rib",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 19.6,
@@ -7461,7 +7326,7 @@
         }
     },
     {
-        "Name": "93% lean7% fat ground turkey tray",
+        "Name": "93% lean 7% fat ground turkey tray",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 6.5,
@@ -8082,7 +7947,7 @@
         }
     },
     {
-        "Name": "85% lean15% fat ground turkey",
+        "Name": "85% lean 15% fat ground turkey",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 15.5,
@@ -8262,7 +8127,7 @@
         }
     },
     {
-        "Name": "Antibiotic-free, 93% lean7% fat ground turkey tray",
+        "Name": "Antibiotic-free, 93% lean 7% fat ground turkey tray",
         "Nutrients": {
             "Protein": 21.0,
             "Fat": 3.0,
@@ -8388,7 +8253,7 @@
         }
     },
     {
-        "Name": "85% lean15% fat ground turkey tray",
+        "Name": "85% lean 15% fat ground turkey tray",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 15.5,
@@ -9036,7 +8901,7 @@
         }
     },
     {
-        "Name": "85% lean15% fat ground turkey, tray .",
+        "Name": "85% lean 15% fat ground turkey, tray .",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 15.5,
@@ -9045,7 +8910,7 @@
         }
     },
     {
-        "Name": "93% lean7% fat ground turkey tray, antibiotic-free, .",
+        "Name": "93% lean 7% fat ground turkey tray, antibiotic-free, .",
         "Nutrients": {
             "Protein": 21.0,
             "Fat": 3.0,

@@ -45,7 +45,9 @@ class thread(threading.Thread):
 
                 while running:
                         if self.isPercent:
-                                sys.stdout.write("\r{}".format(self.message + " [ " + str(round(filePosition * 100/ lengthOfFile)) + "% ]" + " [ " + str(totalTime) + "s ]"))
+                                percent = round(filePosition * 100/ lengthOfFile)
+                                finalText = str(percent) + "%"
+                                sys.stdout.write("\r{}".format(self.message + " [ " + finalText + " ]" + " [ " + str(totalTime) + "s ]"))
                         else:
                                 sys.stdout.write("\r{}".format(self.message + " [ " + str(totalTime) + "s ]"))
 
@@ -188,20 +190,25 @@ def createFinalDictionary():
                                                 cleanName = firstWords
 
                                         cleanName = cleanName.replace(" . ", "").strip().capitalize()
-                                        foodItem["Name"] = cleanName
-                                        foodItem2 = {}
 
+                                        if cleanName == "":
+                                                continue
+                                        
+                                        foodItem["Name"] = cleanName
+                                        nutrients = {}
+                                        
                                         p = round(chunkDict[str(proteinID)], 1)
                                         f = round(chunkDict[str(fatID)], 1)
                                         c = round(chunkDict[str(carbsID)], 1)
 
                                         if p + f + c <= 100:
-                                                foodItem2["Protein"] = p
-                                                foodItem2["Fat"] = f
-                                                foodItem2["Carbs"] = c
-                                                foodItem2["Calories"] = round(p * 4 + f * 9 + c * 4, 1)
 
-                                                foodItem["Nutrients"] = foodItem2
+                                                nutrients["Protein"] = p
+                                                nutrients["Fat"] = f
+                                                nutrients["Carbs"] = c
+                                                nutrients["Calories"] = round(p * 4 + f * 9 + c * 4, 1)
+
+                                                foodItem["Nutrients"] = nutrients
                                                 exportList.append(foodItem)
 
                 exportAsJSON(fileName, exportList)

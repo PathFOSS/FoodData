@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "Name": "Falafel s&wich wraps",
+        "Name": "Falafel sandwich wraps",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 7.6,
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "Name": "S&wich wraps",
+        "Name": "Sandwich wraps",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 4.3,
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "Name": "Wraps & s&wiches on wheat bread",
+        "Name": "Wraps & sandwiches on wheat bread",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 6.3,
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "Name": "Turkey club hoagie wraps & s&wiches",
+        "Name": "Turkey club hoagie wraps & sandwiches",
         "Nutrients": {
             "Protein": 10.4,
             "Fat": 3.7,
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "Name": "H& made carnitas jumbo pork burrito",
+        "Name": "Hand made carnitas jumbo pork burrito",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 9.0,
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "Name": "H&crafted with club wrap",
+        "Name": "Handcrafted with club wrap",
         "Nutrients": {
             "Protein": 12.2,
             "Fat": 9.0,
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "Name": "Gr&e beef barbacoa burrito",
+        "Name": "Grande beef barbacoa burrito",
         "Nutrients": {
             "Protein": 9.4,
             "Fat": 6.0,
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "Name": "Turkey club s&wich wrap",
+        "Name": "Turkey club sandwich wrap",
         "Nutrients": {
             "Protein": 10.3,
             "Fat": 17.9,
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "Name": "S&wich wrap",
+        "Name": "Sandwich wrap",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 10.4,
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "Name": "Chicken s&wich wrap",
+        "Name": "Chicken sandwich wrap",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 7.0,
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "Name": "Italian style s&wich wrap",
+        "Name": "Italian style sandwich wrap",
         "Nutrients": {
             "Protein": 10.7,
             "Fat": 11.4,
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "Name": "Thai style chicken s&wich wrap",
+        "Name": "Thai style chicken sandwich wrap",
         "Nutrients": {
             "Protein": 8.1,
             "Fat": 12.2,
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "Name": "S&wich wraps, spinach & pesto",
+        "Name": "Sandwich wraps, spinach & pesto",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 4.3,
@@ -2457,7 +2457,7 @@
         }
     },
     {
-        "Name": "Precooked beef & lamb gyro slices in pita flatbread, with greek yogurt tzatziki sauce pouch s&wich",
+        "Name": "Precooked beef & lamb gyro slices in pita flatbread, with greek yogurt tzatziki sauce pouch sandwich",
         "Nutrients": {
             "Protein": 11.1,
             "Fat": 16.4,
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "Name": "Blazing buffalo style chicken pinwheels premium s&wiches",
+        "Name": "Blazing buffalo style chicken pinwheels premium sandwiches",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 10.7,
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "Name": "Falafel s&wich wraps, lemony roasted garlic hummus",
+        "Name": "Falafel sandwich wraps, lemony roasted garlic hummus",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 7.6,
@@ -2772,7 +2772,7 @@
         }
     },
     {
-        "Name": "Wraps & s&wiches on wheat bread, turkey & havarti cheese on wheat bread",
+        "Name": "Wraps & sandwiches on wheat bread, turkey & havarti cheese on wheat bread",
         "Nutrients": {
             "Protein": 13.7,
             "Fat": 6.3,
@@ -3213,7 +3213,7 @@
         }
     },
     {
-        "Name": "Chicken caesar grilled chicken breast with rib meat, caesar dressing, & provolone cheese wrapped in a tortilla wrap s&wiches",
+        "Name": "Chicken caesar grilled chicken breast with rib meat, caesar dressing, & provolone cheese wrapped in a tortilla wrap sandwiches",
         "Nutrients": {
             "Protein": 15.7,
             "Fat": 10.3,
@@ -3339,7 +3339,7 @@
         }
     },
     {
-        "Name": "H& made carnitas jumbo pork burrito",
+        "Name": "Hand made carnitas jumbo pork burrito",
         "Nutrients": {
             "Protein": 8.6,
             "Fat": 9.0,
@@ -3564,7 +3564,7 @@
         }
     },
     {
-        "Name": "S&wich wrap, chicken chipotle",
+        "Name": "Sandwich wrap, chicken chipotle",
         "Nutrients": {
             "Protein": 7.4,
             "Fat": 10.4,
@@ -3573,7 +3573,7 @@
         }
     },
     {
-        "Name": "Chicken s&wich wrap, buffalo style",
+        "Name": "Chicken sandwich wrap, buffalo style",
         "Nutrients": {
             "Protein": 7.8,
             "Fat": 7.0,
@@ -3582,7 +3582,7 @@
         }
     },
     {
-        "Name": "Chicken s&wich wrap, santa fe style",
+        "Name": "Chicken sandwich wrap, santa fe style",
         "Nutrients": {
             "Protein": 10.2,
             "Fat": 14.1,
@@ -3591,7 +3591,7 @@
         }
     },
     {
-        "Name": "S&wich wrap, chicken caesar",
+        "Name": "Sandwich wrap, chicken caesar",
         "Nutrients": {
             "Protein": 11.7,
             "Fat": 11.7,
@@ -3645,7 +3645,7 @@
         }
     },
     {
-        "Name": "Root vegetable & goat cheese h& made wrap",
+        "Name": "Root vegetable & goat cheese hand made wrap",
         "Nutrients": {
             "Protein": 4.7,
             "Fat": 4.7,
@@ -4671,7 +4671,7 @@
         }
     },
     {
-        "Name": "Mango chipotle s&wich wraps",
+        "Name": "Mango chipotle sandwich wraps",
         "Nutrients": {
             "Protein": 15.4,
             "Fat": 0.0,
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "Name": "Tomato s&wich wraps",
+        "Name": "Tomato sandwich wraps",
         "Nutrients": {
             "Protein": 18.2,
             "Fat": 0.0,
@@ -5256,7 +5256,7 @@
         }
     },
     {
-        "Name": "Roasted turkey breast, white cheddar cheese, green leaf lettuce, dijon mayo & cream cheese in lavash bread turkey pinwheel s&wiches",
+        "Name": "Roasted turkey breast, white cheddar cheese, green leaf lettuce, dijon mayo & cream cheese in lavash bread turkey pinwheel sandwiches",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 9.2,
@@ -5598,7 +5598,7 @@
         }
     },
     {
-        "Name": "Apple kale s&wich wraps",
+        "Name": "Apple kale sandwich wraps",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 0.0,

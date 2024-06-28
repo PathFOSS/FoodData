@@ -9,7 +9,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes nae &s brd brst cutlet",
+        "Name": "Chicken, fc smartshapes nae & s brd brst cutlet",
         "Nutrients": {
             "Protein": 13.1,
             "Fat": 13.1,
@@ -54,7 +54,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice breaded popcorn chicken, breast fritters",
+        "Name": "Chicken, fc gold & spice breaded popcorn chicken, breast fritters",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 13.0,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes &s brd brst strips",
+        "Name": "Chicken, fc smartshapes & s brd brst strips",
         "Nutrients": {
             "Protein": 13.6,
             "Fat": 13.6,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "Name": "Chicken, fc zesty brd chik& os",
+        "Name": "Chicken, fc zesty brd chik & os",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 13.1,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes &s brd brst cutlet",
+        "Name": "Chicken, fc smartshapes & s brd brst cutlet",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -207,7 +207,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes &s brd brst cutlet",
+        "Name": "Chicken, fc smartshapes & s brd brst cutlet",
         "Nutrients": {
             "Protein": 13.2,
             "Fat": 13.2,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "Name": "Chicken, fc cn whole grain breaded chik& giggles .",
+        "Name": "Chicken, fc cn whole grain breaded chik & giggles .",
         "Nutrients": {
             "Protein": 14.7,
             "Fat": 13.8,
@@ -279,7 +279,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes &s brd brst strips",
+        "Name": "Chicken, fc smartshapes & s brd brst strips",
         "Nutrients": {
             "Protein": 12.9,
             "Fat": 12.9,
@@ -297,7 +297,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice brd chik& os",
+        "Name": "Chicken, fc gold & spice brd chik & os",
         "Nutrients": {
             "Protein": 14.1,
             "Fat": 13.1,
@@ -333,7 +333,7 @@
         }
     },
     {
-        "Name": "Chicken,fc chik& gone wild brd bnls wing w/real kentucky bourbon",
+        "Name": "Chicken,fc chik & gone wild brd bnls wing w/real kentucky bourbon",
         "Nutrients": {
             "Protein": 11.3,
             "Fat": 9.3,
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "Name": "Odoms tennessee pride buttermilk chicken s&wich",
+        "Name": "Odoms tennessee pride buttermilk chicken sandwich",
         "Nutrients": {
             "Protein": 10.9,
             "Fat": 14.1,
@@ -4653,24 +4653,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 42.9,
-            "Fat": 42.9,
-            "Carbs": 0.0,
-            "Calories": 557.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 10.7,
-            "Fat": 58.3,
-            "Carbs": 2.4,
-            "Calories": 577.1
-        }
-    },
-    {
         "Name": "Ham,smkd,bnls,nj,classic",
         "Nutrients": {
             "Protein": 17.9,
@@ -4689,120 +4671,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 4.5,
-            "Carbs": 5.4,
-            "Calories": 126.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 179.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 11.9,
-            "Fat": 59.5,
-            "Carbs": 8.3,
-            "Calories": 616.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 29.0,
-            "Fat": 36.0,
-            "Carbs": 5.0,
-            "Calories": 460.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 33.3,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 553.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 22.0,
-            "Fat": 7.0,
-            "Carbs": 1.0,
-            "Calories": 155.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
         "Name": "Retail alligator meat",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 1.8,
             "Carbs": 0.0,
             "Calories": 101.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 17.0,
-            "Carbs": 0.0,
-            "Calories": 224.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 4.5,
-            "Carbs": 0.9,
-            "Calories": 115.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.8,
-            "Fat": 2.6,
-            "Carbs": 3.5,
-            "Calories": 100.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.2,
-            "Fat": 25.1,
-            "Carbs": 0.0,
-            "Calories": 294.7
         }
     },
     {
@@ -4824,138 +4698,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.0,
-            "Carbs": 0.9,
-            "Calories": 118.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 34.5,
-            "Fat": 16.7,
-            "Carbs": 0.0,
-            "Calories": 288.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 6.0,
-            "Carbs": 3.6,
-            "Calories": 130.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 4.0,
-            "Carbs": 2.8,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
         "Name": "Frenched rack of pork",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 5.4,
             "Carbs": 0.0,
             "Calories": 134.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 23.0,
-            "Fat": 2.5,
-            "Carbs": 20.0,
-            "Calories": 194.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 9.8,
-            "Carbs": 0.0,
-            "Calories": 163.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
         }
     },
     {
@@ -4968,33 +4716,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.0,
-            "Fat": 40.0,
-            "Carbs": 0.0,
-            "Calories": 440.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 8.3,
-            "Carbs": 1.2,
-            "Calories": 141.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 42.9,
-            "Fat": 35.7,
-            "Carbs": 0.0,
-            "Calories": 492.9
-        }
-    },
-    {
         "Name": "Matador beef jerky teriyaki flavor ounce",
         "Nutrients": {
             "Protein": 35.7,
@@ -5004,111 +4725,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 4.0,
-            "Carbs": 4.0,
-            "Calories": 102.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.4,
-            "Fat": 46.1,
-            "Carbs": 0.0,
-            "Calories": 476.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
-        }
-    },
-    {
         "Name": "Boneless fresh pork tenderloins",
         "Nutrients": {
             "Protein": 20.5,
             "Fat": 3.6,
             "Carbs": 0.0,
             "Calories": 114.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 27.8,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 561.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 42.1,
-            "Carbs": 0.0,
-            "Calories": 484.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 564.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 23.2,
-            "Carbs": 0.0,
-            "Calories": 269.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 2.9,
-            "Fat": 1.0,
-            "Carbs": 1.8,
-            "Calories": 27.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.6,
-            "Fat": 11.4,
-            "Carbs": 0.0,
-            "Calories": 177.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
         }
     },
     {
@@ -5130,48 +4752,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.2,
-            "Carbs": 0.6,
-            "Calories": 118.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
-        }
-    },
-    {
         "Name": "Frz pork chitterlings",
         "Nutrients": {
             "Protein": 27.7,
             "Fat": 3.0,
             "Carbs": 0.0,
             "Calories": 137.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.3,
-            "Fat": 33.3,
-            "Carbs": 2.2,
-            "Calories": 361.7
         }
     },
     {
@@ -5184,93 +4770,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.9,
-            "Fat": 28.6,
-            "Carbs": 1.6,
-            "Calories": 327.4
-        }
-    },
-    {
         "Name": "Bacn,diced,rdy to",
         "Nutrients": {
             "Protein": 21.4,
             "Fat": 50.0,
             "Carbs": 0.0,
             "Calories": 535.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 12.5,
-            "Carbs": 0.0,
-            "Calories": 184.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 27.3,
-            "Fat": 45.5,
-            "Carbs": 0.0,
-            "Calories": 518.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 25.8,
-            "Fat": 5.4,
-            "Carbs": 0.0,
-            "Calories": 151.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 21.1,
-            "Fat": 36.8,
-            "Carbs": 0.0,
-            "Calories": 415.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.0,
-            "Fat": 40.0,
-            "Carbs": 0.0,
-            "Calories": 440.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 31.6,
-            "Fat": 52.6,
-            "Carbs": 0.0,
-            "Calories": 599.8
         }
     },
     {
@@ -5292,93 +4797,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
         "Name": "Ham,smkd,hkry,nj,preslcd,smkhs",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 8.3,
             "Carbs": 2.4,
             "Calories": 151.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 13.3,
-            "Fat": 33.3,
-            "Carbs": 2.2,
-            "Calories": 361.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 6.0,
-            "Carbs": 6.0,
-            "Calories": 149.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 96.8
         }
     },
     {
@@ -5391,75 +4815,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 7.1,
-            "Carbs": 3.6,
-            "Calories": 192.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 22.3,
-            "Fat": 16.1,
-            "Carbs": 0.0,
-            "Calories": 234.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 12.5,
-            "Carbs": 0.5,
-            "Calories": 178.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 23.2,
-            "Fat": 1.8,
-            "Carbs": 0.0,
-            "Calories": 109.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 12.5,
-            "Carbs": 0.0,
-            "Calories": 184.1
-        }
-    },
-    {
         "Name": "Z",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 4.5,
             "Carbs": 1.8,
             "Calories": 112.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
         }
     },
     {
@@ -5616,7 +4977,7 @@
         }
     },
     {
-        "Name": "Ham, s&wich slicing, water added, low sodium,",
+        "Name": "Ham, sandwich slicing, water added, low sodium,",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 5.4,
@@ -5922,7 +5283,7 @@
         }
     },
     {
-        "Name": "Shaped, nae all-breast meat cutlet breaded with gold&spice breading provides the control of a shaped product with a natural whole muscle appearance.",
+        "Name": "Shaped, nae all-breast meat cutlet breaded with gold & spice breading provides the control of a shaped product with a natural whole muscle appearance.",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -5985,7 +5346,7 @@
         }
     },
     {
-        "Name": "Gold&spice chicken nuggets formed into the popular shape of fry stix.",
+        "Name": "Gold & spice chicken nuggets formed into the popular shape of fry stix.",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 14.0,
@@ -6282,7 +5643,7 @@
         }
     },
     {
-        "Name": "Lightly breaded, all-meat breast strips with gold&spice breading. color picture on case label for cash & carry sales.",
+        "Name": "Lightly breaded, all-meat breast strips with gold & spice breading. color picture on case label for cash & carry sales.",
         "Nutrients": {
             "Protein": 9.6,
             "Fat": 13.6,
@@ -6498,7 +5859,7 @@
         }
     },
     {
-        "Name": "Natural whole-muscle appearance all-breast meat cutlet breaded with gold&spice breading.",
+        "Name": "Natural whole-muscle appearance all-breast meat cutlet breaded with gold & spice breading.",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -6786,7 +6147,7 @@
         }
     },
     {
-        "Name": "Fully cooked, natural, no gluten added, h&-pinched appearance with traditional italian pork sausage flavor, texture & visible fennel.",
+        "Name": "Fully cooked, natural, no gluten added, hand-pinched appearance with traditional italian pork sausage flavor, texture & visible fennel.",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 12.0,
@@ -6840,7 +6201,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice brd ring shaped brst patties",
+        "Name": "Chicken, fc gold & spice brd ring shaped brst patties",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 13.0,
@@ -6930,7 +6291,7 @@
         }
     },
     {
-        "Name": "Chicken, fc cn whole grain breaded chik& fry stix",
+        "Name": "Chicken, fc cn whole grain breaded chik & fry stix",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 13.0,
@@ -7110,7 +6471,7 @@
         }
     },
     {
-        "Name": "Pioneer br& naturally hardwood smoked sugar cured center cut layered bacon",
+        "Name": "Pioneer brand naturally hardwood smoked sugar cured center cut layered bacon",
         "Nutrients": {
             "Protein": 47.4,
             "Fat": 36.8,
@@ -7119,7 +6480,7 @@
         }
     },
     {
-        "Name": "Pioneer br& naturally hardwood smoked sugar cured center cut layered bacon",
+        "Name": "Pioneer brand naturally hardwood smoked sugar cured center cut layered bacon",
         "Nutrients": {
             "Protein": 46.7,
             "Fat": 40.0,
@@ -7155,7 +6516,7 @@
         }
     },
     {
-        "Name": "Scratch-made, h&-breaded appearance. par fry, non fritter",
+        "Name": "Scratch-made, hand-breaded appearance. par fry, non fritter",
         "Nutrients": {
             "Protein": 16.7,
             "Fat": 1.9,
@@ -7254,7 +6615,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips fajita breast diced",
+        "Name": "Chicken, fc chik & zips fajita breast diced",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 13.2,
@@ -7263,7 +6624,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik& jrs breast sliders",
+        "Name": "Chicken, fc chik & jrs breast sliders",
         "Nutrients": {
             "Protein": 14.8,
             "Fat": 13.0,
@@ -7281,7 +6642,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips fajita thigh strips",
+        "Name": "Chicken, fc chik & zips fajita thigh strips",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 7.1,
@@ -7290,7 +6651,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice chik& fry stix",
+        "Name": "Chicken, fc gold & spice chik & fry stix",
         "Nutrients": {
             "Protein": 14.3,
             "Fat": 13.3,
@@ -7335,7 +6696,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips diced breast",
+        "Name": "Chicken, fc chik & zips diced breast",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 2.4,
@@ -7353,7 +6714,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips top shelf diced natural nae chicken breast",
+        "Name": "Chicken, fc chik & zips top shelf diced natural nae chicken breast",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 2.4,
@@ -7371,7 +6732,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips garlic herb breast strips",
+        "Name": "Chicken, fc chik & zips garlic herb breast strips",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 4.1,
@@ -7389,7 +6750,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips oven roasted breast strips",
+        "Name": "Chicken, fc chik & zips oven roasted breast strips",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 2.9,
@@ -7434,7 +6795,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips top shelf sliced natural nae chicken breast strips",
+        "Name": "Chicken, fc chik & zips top shelf sliced natural nae chicken breast strips",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 2.4,
@@ -7443,7 +6804,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips grilled shaped italian breast strips",
+        "Name": "Chicken, fc chik & zips grilled shaped italian breast strips",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 3.5,
@@ -7461,7 +6822,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips diced thigh & breast",
+        "Name": "Chicken, fc chik & zips diced thigh & breast",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 5.9,
@@ -7497,7 +6858,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips fajita breast fillet strips",
+        "Name": "Chicken, fc chik & zips fajita breast fillet strips",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 2.9,
@@ -7515,7 +6876,7 @@
         }
     },
     {
-        "Name": "Chicken, gold&spice tenderloins, sized, uncooked",
+        "Name": "Chicken, gold & spice tenderloins, sized, uncooked",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 7.0,
@@ -7542,7 +6903,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips tuscan-style breast fillet strips",
+        "Name": "Chicken, fc chik & zips tuscan-style breast fillet strips",
         "Nutrients": {
             "Protein": 18.8,
             "Fat": 2.4,
@@ -7587,7 +6948,7 @@
         }
     },
     {
-        "Name": "Chicken, fully cooked original honey touched ,.",
+        "Name": "Chicken, fully cooked original honey touched ,. .",
         "Nutrients": {
             "Protein": 16.5,
             "Fat": 11.8,
@@ -7632,7 +6993,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips savory grilled breast fillet strips no gluten added",
+        "Name": "Chicken, fc chik & zips savory grilled breast fillet strips no gluten added",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -7659,7 +7020,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips diced breast",
+        "Name": "Chicken, fc chik & zips diced breast",
         "Nutrients": {
             "Protein": 21.2,
             "Fat": 2.4,
@@ -7722,7 +7083,7 @@
         }
     },
     {
-        "Name": "Chicken, fully cooked country krisp ,.",
+        "Name": "Chicken, fully cooked country krisp ,. .",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 10.0,
@@ -7740,7 +7101,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips diced breast & thigh",
+        "Name": "Chicken, fc chik & zips diced breast & thigh",
         "Nutrients": {
             "Protein": 17.6,
             "Fat": 7.1,
@@ -7794,7 +7155,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes &s brd brst strips",
+        "Name": "Chicken, fc smartshapes & s brd brst strips",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 16.0,
@@ -7830,7 +7191,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips pulled & shredded oven roasted breast",
+        "Name": "Chicken, fc chik & zips pulled & shredded oven roasted breast",
         "Nutrients": {
             "Protein": 20.0,
             "Fat": 1.8,
@@ -7857,7 +7218,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice breast fillet, perfect answers",
+        "Name": "Chicken, fc gold & spice breast fillet, perfect answers",
         "Nutrients": {
             "Protein": 15.9,
             "Fat": 7.1,
@@ -8370,7 +7731,7 @@
         }
     },
     {
-        "Name": "Chicken, fc nae southern br& select perfect answers breaded breast sliders",
+        "Name": "Chicken, fc nae southern brand select perfect answers breaded breast sliders",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 9.0,
@@ -10701,7 +10062,7 @@
         }
     },
     {
-        "Name": "Gold&spice cutlet",
+        "Name": "Gold & spice cutlet",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -10710,7 +10071,7 @@
         }
     },
     {
-        "Name": "Chik& jrs",
+        "Name": "Chik & jrs",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 14.0,
@@ -11007,7 +10368,7 @@
         }
     },
     {
-        "Name": "Southern br& select fillet nae",
+        "Name": "Southern brand select fillet nae",
         "Nutrients": {
             "Protein": 15.0,
             "Fat": 9.0,
@@ -11034,7 +10395,7 @@
         }
     },
     {
-        "Name": "Gold&spice pa fillet",
+        "Name": "Gold & spice pa fillet",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 7.0,
@@ -11232,7 +10593,7 @@
         }
     },
     {
-        "Name": "Gold&spice tenderloins",
+        "Name": "Gold & spice tenderloins",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 7.0,
@@ -11772,60 +11133,6 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.1,
-            "Fat": 4.5,
-            "Carbs": 5.4,
-            "Calories": 126.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.8,
-            "Fat": 11.6,
-            "Carbs": 0.0,
-            "Calories": 179.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 4.5,
-            "Carbs": 0.9,
-            "Calories": 115.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.2,
-            "Fat": 25.1,
-            "Carbs": 0.0,
-            "Calories": 294.7
-        }
-    },
-    {
         "Name": "Ham,smkd,bnls,nj,wh,amer",
         "Nutrients": {
             "Protein": 17.9,
@@ -11844,246 +11151,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.0,
-            "Carbs": 0.9,
-            "Calories": 118.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 34.5,
-            "Fat": 16.7,
-            "Carbs": 0.0,
-            "Calories": 288.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 6.0,
-            "Carbs": 3.6,
-            "Calories": 130.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 4.0,
-            "Carbs": 2.8,
-            "Calories": 111.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.0,
-            "Fat": 22.0,
-            "Carbs": 0.0,
-            "Calories": 270.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.3,
-            "Fat": 11.8,
-            "Carbs": 0.0,
-            "Calories": 179.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 20.0,
-            "Fat": 40.0,
-            "Carbs": 0.0,
-            "Calories": 440.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 8.3,
-            "Carbs": 1.2,
-            "Calories": 141.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 4.0,
-            "Carbs": 4.0,
-            "Calories": 102.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.4,
-            "Fat": 46.1,
-            "Carbs": 0.0,
-            "Calories": 476.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 27.8,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 561.2
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 42.1,
-            "Carbs": 0.0,
-            "Calories": 484.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 50.0,
-            "Carbs": 0.0,
-            "Calories": 564.4
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 2.9,
-            "Fat": 1.0,
-            "Carbs": 1.8,
-            "Calories": 27.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 18.6,
-            "Fat": 11.4,
-            "Carbs": 0.0,
-            "Calories": 177.0
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
         "Name": "Rst,ln,pk,apl",
         "Nutrients": {
             "Protein": 17.9,
             "Fat": 7.1,
             "Carbs": 8.0,
             "Calories": 167.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 19.6,
-            "Fat": 4.2,
-            "Carbs": 0.6,
-            "Calories": 118.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.5,
-            "Fat": 9.5,
-            "Carbs": 1.2,
-            "Calories": 152.3
         }
     },
     {
@@ -12096,75 +11169,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 12.5,
-            "Carbs": 0.0,
-            "Calories": 184.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 25.8,
-            "Fat": 5.4,
-            "Carbs": 0.0,
-            "Calories": 151.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 31.6,
-            "Fat": 52.6,
-            "Carbs": 0.0,
-            "Calories": 599.8
-        }
-    },
-    {
         "Name": "Ham,smkd,bnls,wa,deluxe",
         "Nutrients": {
             "Protein": 15.5,
             "Fat": 8.3,
             "Carbs": 1.2,
             "Calories": 141.5
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.1,
-            "Fat": 25.3,
-            "Carbs": 0.0,
-            "Calories": 296.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.3,
-            "Fat": 47.4,
-            "Carbs": 0.0,
-            "Calories": 531.8
         }
     },
     {
@@ -12177,93 +11187,12 @@
         }
     },
     {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 17.9,
-            "Fat": 6.0,
-            "Carbs": 6.0,
-            "Calories": 149.6
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 12.5,
-            "Fat": 3.6,
-            "Carbs": 3.6,
-            "Calories": 96.8
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 28.6,
-            "Fat": 7.1,
-            "Carbs": 3.6,
-            "Calories": 192.7
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 26.7,
-            "Fat": 46.7,
-            "Carbs": 0.0,
-            "Calories": 527.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 22.3,
-            "Fat": 16.1,
-            "Carbs": 0.0,
-            "Calories": 234.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 16.0,
-            "Fat": 12.5,
-            "Carbs": 0.5,
-            "Calories": 178.5
-        }
-    },
-    {
         "Name": "Z",
         "Nutrients": {
             "Protein": 16.1,
             "Fat": 4.5,
             "Carbs": 1.8,
             "Calories": 112.1
-        }
-    },
-    {
-        "Name": "",
-        "Nutrients": {
-            "Protein": 15.2,
-            "Fat": 11.6,
-            "Carbs": 0.9,
-            "Calories": 168.8
         }
     },
     {
@@ -12330,7 +11259,7 @@
         }
     },
     {
-        "Name": "Chicken, gold&spice tenderloins, medium, uncooked",
+        "Name": "Chicken, gold & spice tenderloins, medium, uncooked",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 6.0,
@@ -12555,7 +11484,7 @@
         }
     },
     {
-        "Name": "Natural whole-muscle appearance all-breast meat cutlet breaded with gold&spice breading. inner bags labeled with ucc",
+        "Name": "Natural whole-muscle appearance all-breast meat cutlet breaded with gold & spice breading. inner bags labeled with ucc",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -12627,7 +11556,7 @@
         }
     },
     {
-        "Name": "Kings comm& foods fully cooked breaded low sodium veal patties, ounce portions per pound net weight master case",
+        "Name": "Kings command foods fully cooked breaded low sodium veal patties, ounce portions per pound net weight master case",
         "Nutrients": {
             "Protein": 15.2,
             "Fat": 6.2,
@@ -13392,7 +12321,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips grilled shaped italian style breast strips",
+        "Name": "Chicken, fc chik & zips grilled shaped italian style breast strips",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 3.5,
@@ -13419,7 +12348,7 @@
         }
     },
     {
-        "Name": "Pioneer br& sugar cured naturally applewood smoked center cut layout gas flush bacon .",
+        "Name": "Pioneer brand sugar cured naturally applewood smoked center cut layout gas flush bacon .",
         "Nutrients": {
             "Protein": 44.4,
             "Fat": 38.9,
@@ -13464,7 +12393,7 @@
         }
     },
     {
-        "Name": "Pioneer br& naturally hardwood smoked sugar cured center cut layered bacon",
+        "Name": "Pioneer brand naturally hardwood smoked sugar cured center cut layered bacon",
         "Nutrients": {
             "Protein": 47.4,
             "Fat": 36.8,
@@ -13473,7 +12402,7 @@
         }
     },
     {
-        "Name": "Pioneer br& naturally hardwood smoked sugar cured center cut layered bacon",
+        "Name": "Pioneer brand naturally hardwood smoked sugar cured center cut layered bacon",
         "Nutrients": {
             "Protein": 46.7,
             "Fat": 40.0,
@@ -13689,7 +12618,7 @@
         }
     },
     {
-        "Name": "Chicken, fc smartshapes gold&spice breaded breast strips",
+        "Name": "Chicken, fc smartshapes gold & spice breaded breast strips",
         "Nutrients": {
             "Protein": 13.0,
             "Fat": 13.0,
@@ -13698,7 +12627,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips tuscan br& made in usa breast fillet strips",
+        "Name": "Chicken, fc chik & zips tuscan brand made in usa breast fillet strips",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 2.0,
@@ -14094,7 +13023,7 @@
         }
     },
     {
-        "Name": "Chicken, fc country krisp cut, bird/",
+        "Name": "Chicken, fc country krisp cut, bird/, bags",
         "Nutrients": {
             "Protein": 17.0,
             "Fat": 10.0,
@@ -14148,7 +13077,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice tenderloins",
+        "Name": "Chicken, fc gold & spice tenderloins",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 6.0,
@@ -14175,7 +13104,7 @@
         }
     },
     {
-        "Name": "Chicken, gold&spice tenderloins, uncooked",
+        "Name": "Chicken, gold & spice tenderloins, uncooked",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 7.0,
@@ -14472,7 +13401,7 @@
         }
     },
     {
-        "Name": "Chicken, fully cooked original honey touched ,servingsavg. - .",
+        "Name": "Chicken, fully cooked original honey touched ,. - .",
         "Nutrients": {
             "Protein": 18.0,
             "Fat": 12.0,
@@ -14733,7 +13662,7 @@
         }
     },
     {
-        "Name": "Chicken, fc gold&spice brd brst fillet",
+        "Name": "Chicken, fc gold & spice brd brst fillet",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 7.0,
@@ -15165,7 +14094,7 @@
         }
     },
     {
-        "Name": "Pioneer br& hardwood smoked sugar cured center cut bacon layout gas flushed .",
+        "Name": "Pioneer brand hardwood smoked sugar cured center cut bacon layout gas flushed .",
         "Nutrients": {
             "Protein": 40.0,
             "Fat": 40.0,
@@ -15489,7 +14418,7 @@
         }
     },
     {
-        "Name": "Ceculinarybr&tcfillw/bf bags",
+        "Name": "Ceculinarybrandtcfillw/bf bags",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 12.5,
@@ -16002,7 +14931,7 @@
         }
     },
     {
-        "Name": "Ceculinarybr&spgscew/bf bags",
+        "Name": "Ceculinarybrandspgscew/bf bags",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 9.7,
@@ -16074,7 +15003,7 @@
         }
     },
     {
-        "Name": "Culinarybr&turkeytaco bags",
+        "Name": "Culinarybrandturkeytaco bags",
         "Nutrients": {
             "Protein": 15.8,
             "Fat": 7.0,
@@ -16083,7 +15012,7 @@
         }
     },
     {
-        "Name": "Culinarybr&tacofillw/bf bags",
+        "Name": "Culinarybrandtacofillw/bf bags",
         "Nutrients": {
             "Protein": 15.1,
             "Fat": 12.5,
@@ -16128,7 +15057,7 @@
         }
     },
     {
-        "Name": "Culinarybr&spgsce w/bf bags",
+        "Name": "Culinarybrandspgsce w/bf bags",
         "Nutrients": {
             "Protein": 9.3,
             "Fat": 9.7,
@@ -16245,7 +15174,7 @@
         }
     },
     {
-        "Name": "Chicken, fully cooked gold&spice breaded breast tenders",
+        "Name": "Chicken, fully cooked gold & spice breaded breast tenders",
         "Nutrients": {
             "Protein": 14.0,
             "Fat": 6.5,
@@ -16803,7 +15732,7 @@
         }
     },
     {
-        "Name": "Chicken, nae, fc gold&spice breast fillet, perfect answers",
+        "Name": "Chicken, nae, fc gold & spice breast fillet, perfect answers",
         "Nutrients": {
             "Protein": 16.0,
             "Fat": 7.0,
@@ -17019,7 +15948,7 @@
         }
     },
     {
-        "Name": "Chicken, fc chik&zips diced natural nae chicken breast",
+        "Name": "Chicken, fc chik & zips diced natural nae chicken breast",
         "Nutrients": {
             "Protein": 22.0,
             "Fat": 2.0,
